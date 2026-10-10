@@ -1,0 +1,205 @@
+{
+ "slug": "charles-a-taylor",
+ "name": "Charles A. Taylor",
+ "sources": [
+  "https://ca-taylor.com/",
+  "http://appext.hks.harvard.edu/faculty/cv/CharlesTaylor.pdf"
+ ],
+ "collected": "2026-10-10",
+ "notes": "Homepage (current) used as primary source; HKS CV is dated Oct 2023. The 1968 Influenza medRxiv preprint listed only in the 2023 CV. Works in progress without drafts (e.g., Golden Age of Pesticides, Land Conservation) skipped.",
+ "papers": [
+  {
+   "title": "Climate and Prehistoric Migration",
+   "authors": [
+    "Charles A. Taylor",
+    "Peter Huybers",
+    "Marco Tabellini",
+    "Francesco Toti"
+   ],
+   "year": null,
+   "venue": null,
+   "status": "工作论文",
+   "url": "https://drive.google.com/file/d/1GeEukf75esHnLfZLshTW0FXKYX1s0g8B",
+   "abstract": "What factors drove human migration before modern states, markets, and borders? We develop a sorting framework in which climate-specific subsistence knowledge depreciates with ecological distance. To test this, we use ancient DNA identity-by-descent segments to construct bilateral migration flows across Western Eurasia over the last 10,000 years. We document three main findings. First, migration flows decline with differences in growing degree days, precipitation, and soil characteristics between origins and destinations. Second, the binding factor varies across subsistence systems: farmers exhibit strong thermal and soil matching, while pastoralists match most strongly on precipitation. Third, periods of warming increase farmer expansion while cooling increases pastoral expansion in patterns that recover known archaeological migration episodes. Migration also acts as a margin of climate adaptation: populations exposed to temperature change move to destinations that partly offset the shift."
+  },
+  {
+   "title": "Paving the Swamp: Consequences of Land Use Regulation Under the Clean Water Act",
+   "authors": [
+    "Charles A. Taylor",
+    "Hannah Druckenmiller",
+    "Joseph S. Shapiro"
+   ],
+   "year": null,
+   "venue": null,
+   "status": "工作论文",
+   "url": "https://drive.google.com/file/d/1OE7r-PE-2jgGH6Kmu017Vwvk9VWrgPOk",
+   "abstract": "How does environmental regulation of land use affect the environment and the economy? We study recent changes to U.S. Clean Water Act regulation, measured using wetland maps and machine learning. Four findings emerge. First, a 2020 White House rule reduced the average non-residential property’s probability of being regulated under the Clean Water Act by about 40 percent. Second, by deregulating wetlands, this rule increased the value of U.S. non-residential properties by about 1%, with larger effects for properties facing greater deregulation and near-zero effects for residential properties. Third, remote sensing indicates that deregulation expanded impervious surfaces like pavement and reduced wetland area. Fourth, the deregulation increased non-residential land values by over $50 billion, which exceeds the estimated loss in the present discounted value of wetlands’ flood mitigation services; we carefully discuss welfare implications."
+  },
+  {
+   "title": "Migration, Climate Similarity, and the Consequences of Climate Mismatch",
+   "authors": [
+    "Charles A. Taylor",
+    "Marguerite Obolensky",
+    "Marco Tabellini"
+   ],
+   "year": null,
+   "venue": "Revise & Resubmit, Quarterly Journal of Economics; NBER Working Paper No. 32035",
+   "status": "修改重投",
+   "url": "https://drive.google.com/file/d/11uSqCe0v0tCWvDNjQDjqEEOngoFAt5pf",
+   "abstract": "This paper examines the concept of “climate matching” in migration—the idea that migrants seek out destinations with familiar climates—and studies its implications for the geography of economic activity in the United States. We document that temperature distance between origin and destination predicts the distribution of migrants across U.S. counties, for both internal and international migration in the historical (1850–1940) and modern (1970–2019) periods. These patterns cannot be explained by the spatial correlation of climate or the persistence of ethnic networks, and instead reflect two mechanisms: the transferability of climate-specific skills and climate as an amenity. We then study the economic consequences of climate mismatch during 1880–1920, a period of rapid growth and structural transformation. Using an instrumental variable strategy that interacts origin-country inflow shocks with the timing of county railroad access, we find that mismatch reduced agricultural productivity and accelerated the exit from farming. Further, manufacturing productivity declined and population growth was lower in mismatched counties . These effects left a lasting imprint: a 1°C increase in 1880–1920 mismatch is associated with 2.5% lower per capita income in 1940."
+  },
+  {
+   "title": "Rain follows the forest: Land use policy, climate change, and adaptation",
+   "authors": [
+    "Charles A. Taylor",
+    "Florian Grosset",
+    "Anna Papp"
+   ],
+   "year": null,
+   "venue": "Revise & Resubmit, Review of Economic Studies",
+   "status": "修改重投",
+   "url": "https://drive.google.com/file/d/13C4NrBYllMPwt26oOUgeDR0POSz-GTVi/view?usp=share_link",
+   "abstract": "Human actions can alter the climate via land use. We analyze the 1930s Great Plains Shelterbelt, a large-scale forestation program across the US Midwest. The program increased precipitation and decreased temperatures for decades. We measure these changes in downwind counties where no trees were planted, isolating the effects of climate from those of afforestation and enabling us to study adaptation. Improved growing conditions allowed farmers to expand corn acreage and adopt water-intensive practices. In a period of farm consolidation, this altered the structure of the agricultural sector, contributing to the survival of small farms but less farm machine usage. The findings demonstrate the endogeneity of climate to land use change and the long-term impacts of tree planting on agricultural development."
+  },
+  {
+   "title": "Cicadian Rhythm: Insecticides, Infant Health and Long-term Outcomes",
+   "authors": [
+    "Charles A. Taylor"
+   ],
+   "year": null,
+   "venue": null,
+   "status": "工作论文",
+   "url": "https://drive.google.com/file/d/10NPw_f4FeE9rUJZleaUngfnJIkYEV866/view?usp=sharing",
+   "abstract": "Pesticides are linked to negative health outcomes, but a causal relationship is difficult to establish due to nonrandom pesticide exposure. I use a peculiar ecological phenomenon, the mass emergence of cicadas in 13 and 17-year cycles across the eastern half of the US, to estimate the short and long-term impacts of pesticides. With a triple-difference setup that leverages the fact that cicadas only damage tree crops and not agricultural row crops, I show that insecticide use increases with cicada emergence in places with high apple production. Exposed cohorts experience higher infant mortality and adverse health impacts, followed by lower test scores and higher dropout rates. I exploit geo-spatial sources of variation and find evidence for pesticide exposure through a water channel. Moderate levels of environmental pollution, not just extreme exposure, can affect human health and development. The study design, which encompasses the entire chemical era of US agriculture since 1950, provides insights into the regulation of pesticides in the US and globally."
+  },
+  {
+   "title": "Environmental Drivers of Agricultural Productivity Growth: CO2 Fertilization of US Field Crops",
+   "authors": [
+    "Charles A. Taylor",
+    "Wolfram Schlenker"
+   ],
+   "year": null,
+   "venue": "NBER Working Paper",
+   "status": "工作论文",
+   "url": "https://drive.google.com/file/d/12eOxr4_BCGTYzfLxFHizBXFppcFFMVFT/view?usp=sharing",
+   "abstract": "We present a novel methodology to estimate the CO2 fertilization effect on crop yields using data from NASA’s Orbiting Carbon Observatory satellites. Our study complements field and chamber experiments by examining county-level crop yields under actual growing conditions across the majority of US cropland. For identification, we utilize remotely sensed, year-to-year CO2 anomalies from county-specific trends and further instrument for these anomalies using wind patterns. We find a CO2 fertilization effect greater than that reported in most field and chamber experiments. In a thought exercise, we apply the CO2 fertilization effect estimated in our sample from 2015–2022 backward to 1940. Assuming no other limiting factors, we find that rising CO2 was a major driver of past yield growth, particularly for wheat—with important implications for estimates of future climate change damages."
+  },
+  {
+   "title": "Airlines, Pollution, and Health",
+   "authors": [
+    "Charles A. Taylor",
+    "Xinming Du"
+   ],
+   "year": null,
+   "venue": null,
+   "status": "工作论文",
+   "url": null,
+   "abstract": "This paper demonstrates a large but little-known negative externality of the aviation industry. Using a new instrument for air pollution from aircraft cruising, we show that pollution is higher beneath overhead flight routes in ways uncorrelated with local pollution. We combine this cross-sectional variation with the launch of new flight routes to establish several findings. First, aircraft cruising persistently elevates local PM2.5 by 1–3 μg/m3, which allows us to estimate the long-term impacts of pollution exposure. Second, we leverage this variation and show that PM2.5 has adverse impacts on adult mortality and infant health via lower birth weights. Third, pollution from aviation pushed some US counties into nonattainment under the Clean Air Act."
+  },
+  {
+   "title": "The 1968 Influenza Pandemic and COVID-19 Outcomes",
+   "authors": [
+    "Charles A. Taylor",
+    "Christopher Boulos",
+    "Matthew Memoli"
+   ],
+   "year": null,
+   "venue": "medRxiv preprint",
+   "status": "工作论文",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Irrigation and Climate Change: Long-run Adaptation and its Externalities",
+   "authors": [
+    "Charles A. Taylor"
+   ],
+   "year": 2026,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "https://doi.org/10.1086/741141",
+   "abstract": "As the largest user of water, irrigated agriculture accounts for 20% of global cropland and over 40% of food production. Irrigation is also a potential adaptive response to climate change. This paper examines the extent to which the current global irrigation footprint reflects climate change over the last 50 years. Utilizing variation in local climate, I find that increasing drought conditions over time are associated with irrigation expansion in areas with groundwater potential. The results hold both globally and in the US. GRACE satellite data suggest that this expansion of irrigation can contribute to aquifer stress and increased soil salinity, which represent potential negative externalities of climate adaptation and a threat to future food security."
+  },
+  {
+   "title": "Wetlands, Flooding, and the Clean Water Act",
+   "authors": [
+    "Charles A. Taylor",
+    "Hannah Druckenmiller"
+   ],
+   "year": 2022,
+   "venue": "American Economic Review",
+   "status": "已发表",
+   "url": "https://www.aeaweb.org/articles/pdf/doi/10.1257/aer.20210497",
+   "abstract": "In 2020 the EPA narrowed the definition of ‘Waters of the United States’, significantly limiting wetland protection under the Clean Water Act. Current policy debates center on the uncertainty around wetland benefits. We estimate the value of wetlands for flood mitigation across the US using detailed flood claims and land use data. We find the average hectare of wetland lost between 2001 and 2016 cost society $1,840 annually, and over $8,000 in developed areas. We document significant spatial heterogeneity in wetland benefits, with implications for flood insurance policy and the 50% of ‘isolated’ wetlands at risk of losing federal protection."
+  },
+  {
+   "title": "Market Expectations of a Warming Climate",
+   "authors": [
+    "Charles A. Taylor",
+    "Wolfram Schlenker"
+   ],
+   "year": 2021,
+   "venue": "Journal of Financial Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jfineco.2020.08.019",
+   "abstract": "We compare prices of financial derivatives whose payouts are based on future weather outcomes to CMIP5 climate model predictions as well as observed weather station data across eight cities in the US from 2001 through 2020. Derivative prices respond both to short-term weather forecasts for the next two weeks and longer-term warming trends. We show that the long-term trends in derivative prices are comparable to station-level data and climate model output. The one exception is February in the northeastern US, where financial markets price in a polar vortex-induced cooling effect, a recent scientific finding that was not present in the older CMIP5 climate output. When looking at the spatial and temporal heterogeneity in trends, futures prices are more aligned with climate model output than observed weather station trends, suggesting that market participants closely align their expectations with scientific projections rather than recent observations."
+  },
+  {
+   "title": "Livestock Plants and COVID-19 Transmission",
+   "authors": [
+    "Charles A. Taylor",
+    "Chris Boulos",
+    "Douglas Almond"
+   ],
+   "year": 2020,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "https://www.pnas.org/content/early/2020/11/18/2010115117",
+   "abstract": "Policy responses to the COVID-19 outbreak must strike a balance between maintaining essential supply chains and limiting the spread of the virus. Our results indicate a strong positive relationship between livestock-processing plants and local community transmission of COVID-19, suggesting that these plants may act as transmission vectors into the surrounding population and accelerate the spread of the virus beyond what would be predicted solely by population risk characteristics. We estimate the total excess COVID-19 cases and deaths associated with proximity to livestock plants to be 236,000 to 310,000 (6 to 8% of all US cases) and 4,300 to 5,200 (3 to 4% of all US deaths), respectively, as of July 2020, with the vast majority likely related to community spread outside these plants. The association is found primarily among large processing facilities and large meatpacking companies. In addition, we find evidence that plant closures attenuated county-wide cases and that plants that received USDA permission to increase their production-line speeds saw more county-wide cases."
+  },
+  {
+   "title": "Fertilizer and Algal Blooms: A Satellite Approach to Assessing Water Quality",
+   "authors": [
+    "Charles A. Taylor",
+    "Geoffrey Heal"
+   ],
+   "year": 2023,
+   "venue": "NBER book chapter, Risks in Agricultural Supply Chains",
+   "status": "已发表",
+   "url": "https://www.nber.org/books-and-chapters/risks-agricultural-supply-chains/fertilizer-and-algal-blooms-satellite-approach-assessing-water-quality",
+   "abstract": "Fertilizer is critical to agricultural supply chains, but its use results in downstream externalities in the form of aquatic hypoxic zones and algal blooms. Quantifying farm pollution is challenging due to its non-point nature and the lack of a temporally consistent, administrative-level dataset on water quality. This study offers a novel satellite-derived measure of algal bloom intensity that spans 30-plus years and encompasses lakes, riparian, and coastal aquatic resources across US counties. We show that fertilizer use is closely linked to our measure of water quality. Such farm pollution drives water quality impairment both locally and downstream from the fertilizer use, with impacts occurring at an annual and longer-term timescale"
+  },
+  {
+   "title": "Tipping point dynamics in global land use",
+   "authors": [
+    "Charles A. Taylor",
+    "James Rising"
+   ],
+   "year": 2021,
+   "venue": "Environmental Research Letters",
+   "status": "已发表",
+   "url": "https://doi.org/10.1088/1748-9326/ac3c6d",
+   "abstract": "Agricultural land use has recently peaked, both globally and across country income groups, after centuries of expansion and intensification. Such shifts in the evolution of global land use have implications for food security, biodiversity loss, and carbon emissions. While economic growth and land use are closely linked, it is difficult to determine the extent to which the relationship is causal, deterministic, and unidirectional. Here we utilize gridded datasets to study long-term global land use change from 1780-2010. We find evidence for an economic tipping point, where land use intensifies with economic development at low income levels, then reverses after incomes reach a critical threshold. Cropland peaks around $5,000 GDP per capita then declines. We utilize a Markov model to show that this reversal emerges from a variety of divergent land use pathways, in particular the expansion of protected areas and a reduction in land use lock-in. Our results suggest that economic development remains a powerful driver of land use change with implications for the future of natural ecosystems in the context of continued population and income growth."
+  },
+  {
+   "title": "Violent conflict exacerbated drought-related food insecurity between 2009 and 2019 in sub-Saharan Africa",
+   "authors": [
+    "W. Anderson",
+    "Charles A. Taylor",
+    "S. McDermid",
+    "E. Ilboudo-Nébié",
+    "R. Seager",
+    "W. Schlenker",
+    "F. Cottier",
+    "A. de Sherbinin",
+    "D. Mendeloff",
+    "K. Markey"
+   ],
+   "year": 2021,
+   "venue": "Nature Food",
+   "status": "已发表",
+   "url": "https://www.nature.com/articles/s43016-021-00327-4",
+   "abstract": "Conflict, drought and locusts are leading concerns for African food security but the relative importance and spatiotemporal scale of crises resulting from each hazard is poorly characterized. Here we use continuous, subnational data to demonstrate that the rise of food insecurity across sub-Saharan Africa that began in 2014 is attributable to an increase in violent conflict, particularly in South Sudan and Nigeria. Although drought remains a leading trigger of food crises, the prevalence of drought-related crises did not increase from 2009 to 2018. When exposed to drought, pastoralists experienced more widespread, severe and long-lasting food crises than people living in agricultural zones. Food insecurity remained elevated in pastoral regions for 2 years following a drought, while agricultural regions returned to pre-drought food-security levels in ~12 months. The few confirmed famines during the 2009–2018 period coincided with both conflict and drought, while locusts had little effect on food security during this period."
+  }
+ ]
+}

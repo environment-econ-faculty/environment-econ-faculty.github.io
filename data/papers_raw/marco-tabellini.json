@@ -1,0 +1,430 @@
+{
+ "slug": "marco-tabellini",
+ "name": "Marco Tabellini",
+ "sources": [
+  "https://www.hbs.edu/faculty/Profile%20Files/MT_CV_long_9a7fb352-da76-400c-88ee-8b84bb48b944.pdf"
+ ],
+ "collected": "2026-10-10",
+ "notes": "From HBS long CV (updated Sept 2026); no abstracts in CV. Research in progress and course material (HBS cases/notes) excluded.",
+ "papers": [
+  {
+   "title": "Threat and Assimilation: Evidence from Refugees in Germany",
+   "authors": [
+    "Marco Tabellini",
+    "Philipp Jaschke",
+    "Sulin Sardoschau"
+   ],
+   "year": 2026,
+   "venue": "Economic Journal (forthcoming)",
+   "status": "即将发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Local Shocks and Internal Migration: The Disparate Effects of Robots and Chinese Imports in the US",
+   "authors": [
+    "Marco Tabellini",
+    "Marius Faber",
+    "Andres Sarto"
+   ],
+   "year": 2026,
+   "venue": "European Economic Review (forthcoming)",
+   "status": "即将发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Racial Discrimination and the Social Contract: Evidence from US Army Enlistment during WWII",
+   "authors": [
+    "Marco Tabellini",
+    "Nancy Qian"
+   ],
+   "year": 2026,
+   "venue": "Review of Economic Studies, 93(2), 1261-1295",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Black Empowerment and White Counter-Mobilization: The Effects of the Voting Rights Act",
+   "authors": [
+    "Marco Tabellini",
+    "Andrea Bernini",
+    "Giovanni Facchini",
+    "Cecilia Testa"
+   ],
+   "year": 2025,
+   "venue": "Journal of Political Economy, 133(10), 3078-3131",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Happily Ever After: Immigration, Natives' Marriage and Fertility",
+   "authors": [
+    "Marco Tabellini",
+    "Michela Carlana"
+   ],
+   "year": null,
+   "venue": "Journal of Economic History (forthcoming)",
+   "status": "即将发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Economic Integration and the Transmission of Democracy",
+   "authors": [
+    "Marco Tabellini",
+    "Giacomo Magistretti"
+   ],
+   "year": 2025,
+   "venue": "Review of Economic Studies, 92(4), 2765-2792",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Faith and Assimilation: Italian Immigrants in the US",
+   "authors": [
+    "Marco Tabellini",
+    "Stefano Gagliarducci"
+   ],
+   "year": 2025,
+   "venue": "Economic Journal, 135(670), 1814-1851",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Sixty Years of the Voting Rights Act: Progress and Pitfalls",
+   "authors": [
+    "Marco Tabellini",
+    "Andrea Bernini",
+    "Giovanni Facchini",
+    "Cecilia Testa"
+   ],
+   "year": 2024,
+   "venue": "Oxford Review of Economic Policy, 40(3), 486-497",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Debunking Immigration Myths: A Review Essay of Streets of Gold: America's Untold Story of Immigrant Success",
+   "authors": [
+    "Marco Tabellini"
+   ],
+   "year": 2024,
+   "venue": "Journal of Economic Literature, 62(2), 739-760",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Political Effects of Immigration: Culture or Economics?",
+   "authors": [
+    "Marco Tabellini",
+    "Alberto Alesina"
+   ],
+   "year": 2024,
+   "venue": "Journal of Economic Literature, 62(1), 5-46",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Racial Diversity and Racial Policy Preferences: the Great Migration and Civil Rights",
+   "authors": [
+    "Marco Tabellini",
+    "Alvaro Calderon",
+    "Vasiliki Fouka"
+   ],
+   "year": 2023,
+   "venue": "Review of Economic Studies, 90(1), 165-200",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Hate Crime Increases with Minoritized Group Rank",
+   "authors": [
+    "Marco Tabellini",
+    "Mina Cikara",
+    "Vasiliki Fouka"
+   ],
+   "year": 2022,
+   "venue": "Nature Human Behaviour, 6(11), 1537-1544",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Changing In-Group Boundaries: The Role of New Immigrant Waves in the US",
+   "authors": [
+    "Marco Tabellini",
+    "Vasiliki Fouka"
+   ],
+   "year": 2022,
+   "venue": "American Political Science Review, 116(3), 968-984",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Policies to Influence Perceptions about COVID-19 Risk: The Case of Maps",
+   "authors": [
+    "Marco Tabellini",
+    "Claudia Engel",
+    "Jonathan Rodden"
+   ],
+   "year": 2022,
+   "venue": "Science Advances, 8(11)",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "From Immigrants to Americans: Race and Assimilation during the Great Migration",
+   "authors": [
+    "Marco Tabellini",
+    "Vasiliki Fouka",
+    "Shom Mazumder"
+   ],
+   "year": 2022,
+   "venue": "Review of Economic Studies, 89(2), 811-842",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Gifts of the Immigrants, Woes of the Natives: Lessons from the Age of Mass Migration",
+   "authors": [
+    "Marco Tabellini"
+   ],
+   "year": 2020,
+   "venue": "Review of Economic Studies, 87(1), 454-486",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Seeds of Ideology: Historical Immigration and Political Preferences in the United States",
+   "authors": [
+    "Marco Tabellini",
+    "Paola Giuliano"
+   ],
+   "year": null,
+   "venue": "Journal of the European Economic Association (conditionally accepted)",
+   "status": "即将发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Migration, Climate Similarity, and the Consequences of Climate Mismatch",
+   "authors": [
+    "Marco Tabellini",
+    "Marguerite Obolensky",
+    "Charles A. Taylor"
+   ],
+   "year": null,
+   "venue": "Revise & Resubmit, Quarterly Journal of Economics",
+   "status": "修改重投",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Impact of the Chinese Exclusion Act on the Economic Development of the Western US",
+   "authors": [
+    "Marco Tabellini",
+    "Joe Long",
+    "Carlo Medici",
+    "Nancy Qian"
+   ],
+   "year": null,
+   "venue": null,
+   "status": "工作论文",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Climate and Prehistoric Migration",
+   "authors": [
+    "Marco Tabellini",
+    "Peter Huybers",
+    "Charles A. Taylor",
+    "Francesco Toti"
+   ],
+   "year": null,
+   "venue": null,
+   "status": "工作论文",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Ecological Imperialism: Climate and the Demographic Success of European Settlement",
+   "authors": [
+    "Marco Tabellini",
+    "Alessandra Nicolo'",
+    "Charles A. Taylor"
+   ],
+   "year": null,
+   "venue": null,
+   "status": "工作论文",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Economic Determinants of Taiwanese Support for Reunification with Mainland China",
+   "authors": [
+    "Marco Tabellini",
+    "Nancy Qian",
+    "Yifan Zhang"
+   ],
+   "year": null,
+   "venue": null,
+   "status": "工作论文",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Extractive Taxation and the French Revolution",
+   "authors": [
+    "Marco Tabellini",
+    "Tommaso Giommoni",
+    "Gabriel Loumeau"
+   ],
+   "year": null,
+   "venue": null,
+   "status": "工作论文",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Immigration Restrictions and Natives' Intergenerational Mobility: Evidence from the 1920s US Quota Acts",
+   "authors": [
+    "Marco Tabellini",
+    "James Feigenbaum",
+    "Yi-Ju Hung",
+    "Monia Tomasella"
+   ],
+   "year": null,
+   "venue": null,
+   "status": "工作论文",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Emigration and Long-Run Economic Development: Evidence from the Italian Mass Migration",
+   "authors": [
+    "Marco Tabellini",
+    "Nicola Fontana",
+    "Marco Manacorda",
+    "Gianluca Russo"
+   ],
+   "year": null,
+   "venue": null,
+   "status": "工作论文",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Church, State, and Education: School Funding and the Assimilation of Catholic Immigrants in the US",
+   "authors": [
+    "Marco Tabellini",
+    "Stefano Gagliarducci",
+    "Mara Squicciarini"
+   ],
+   "year": null,
+   "venue": null,
+   "status": "工作论文",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Immigration and the Political Behavior of Immigrant-Background Americans",
+   "authors": [
+    "Marco Tabellini",
+    "Vicky Fouka",
+    "Ernesto Tiburcio"
+   ],
+   "year": null,
+   "venue": null,
+   "status": "工作论文",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Left Behind: The Local Effects of Deindustrialization in France",
+   "authors": [
+    "Marco Tabellini",
+    "Brice Berland",
+    "Hugo Subtil",
+    "Clemence Tricaud"
+   ],
+   "year": null,
+   "venue": null,
+   "status": "工作论文",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Issue Salience and Political Stereotypes",
+   "authors": [
+    "Marco Tabellini",
+    "Pedro Bordalo",
+    "David Yang"
+   ],
+   "year": null,
+   "venue": null,
+   "status": "工作论文",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Racial Heterogeneity and Local Government Finances: Evidence from the Great Migration",
+   "authors": [
+    "Marco Tabellini"
+   ],
+   "year": null,
+   "venue": null,
+   "status": "工作论文",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Economics of Historical Immigration to the United States",
+   "authors": [
+    "Marco Tabellini"
+   ],
+   "year": 2022,
+   "venue": "Oxford Research Encyclopedia of Economics and Finance, Oxford University Press",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Culture and Contemporary Political Preferences",
+   "authors": [
+    "Marco Tabellini",
+    "Vicky Fouka"
+   ],
+   "year": null,
+   "venue": "Handbook of Culture and Economic Behavior (forthcoming)",
+   "status": "即将发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Political Economy of Identity in a Globalizing World",
+   "authors": [
+    "Marco Tabellini",
+    "Vicky Fouka"
+   ],
+   "year": null,
+   "venue": "Handbook of Political Economy (eds. Acemoglu and Robinson), prepared chapter",
+   "status": "工作论文",
+   "url": null,
+   "abstract": null
+  }
+ ]
+}

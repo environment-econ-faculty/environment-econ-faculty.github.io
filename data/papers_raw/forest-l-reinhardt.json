@@ -1,0 +1,212 @@
+{
+ "slug": "forest-l-reinhardt",
+ "name": "Forest L. Reinhardt",
+ "sources": [
+  "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6538&view=publications"
+ ],
+ "collected": "2026-10-10",
+ "notes": "No homepage or CV; HBS profile publications list used (no abstracts). Excluded HBS cases/teaching notes/supplements, instructor manual, HBR IdeaCast podcast, HBR \"Case Study\" and \"Forethought\" opinion pieces, and FT column. HBR feature articles kept.",
+ "papers": [
+  {
+   "title": "Methane Abatement Costs in the Oil and Gas Industry: Survey and Synthesis",
+   "authors": [
+    "Joseph E. Aldy",
+    "Forest L. Reinhardt",
+    "Robert N. Stavins"
+   ],
+   "year": 2025,
+   "venue": "NBER Working Paper No. 33564",
+   "status": "工作论文",
+   "url": "https://www.nber.org/papers/w33564",
+   "abstract": null
+  },
+  {
+   "title": "Down to Earth: Applying Business Principles to Environmental Management",
+   "authors": [
+    "Forest L. Reinhardt"
+   ],
+   "year": 2000,
+   "venue": "Harvard Business School Press (book)",
+   "status": "已发表",
+   "url": "https://www.hbs.edu/faculty/Pages/item.aspx?num=99",
+   "abstract": null
+  },
+  {
+   "title": "Business Management and the Natural Environment: Cases and Text",
+   "authors": [
+    "Forest L. Reinhardt",
+    "Richard H.K. Vietor"
+   ],
+   "year": 1996,
+   "venue": "South-Western College Publishing (book)",
+   "status": "已发表",
+   "url": "https://www.hbs.edu/faculty/Pages/item.aspx?num=100",
+   "abstract": null
+  },
+  {
+   "title": "Managing Climate Change: Lessons from the U.S. Navy",
+   "authors": [
+    "Forest L. Reinhardt",
+    "Michael W. Toffel"
+   ],
+   "year": 2017,
+   "venue": "Harvard Business Review 95(4): 102-111",
+   "status": "已发表",
+   "url": "https://hbr.org/2017/07/managing-climate-change",
+   "abstract": null
+  },
+  {
+   "title": "Households' Willingness to Pay for 'Green' Goods: Evidence from Patagonia's Introduction of Organic Cotton Sportswear",
+   "authors": [
+    "Ramon Casadesus-Masanell",
+    "Michael Crooke",
+    "Forest L. Reinhardt",
+    "Vishal Vasishth"
+   ],
+   "year": 2009,
+   "venue": "Journal of Economics & Management Strategy 18(1): 203-233",
+   "status": "已发表",
+   "url": "https://www.hbs.edu/faculty/Pages/item.aspx?num=34579",
+   "abstract": null
+  },
+  {
+   "title": "Corporate Social Responsibility Through an Economic Lens",
+   "authors": [
+    "Forest L. Reinhardt",
+    "Robert N. Stavins",
+    "Richard H.K. Vietor"
+   ],
+   "year": 2008,
+   "venue": "Review of Environmental Economics and Policy 2(2)",
+   "status": "已发表",
+   "url": "https://www.hbs.edu/faculty/Pages/item.aspx?num=35205",
+   "abstract": null
+  },
+  {
+   "title": "What Every Executive Needs to Know about Global Warming",
+   "authors": [
+    "Kimberly O'Neill Packard",
+    "Forest L. Reinhardt"
+   ],
+   "year": 2000,
+   "venue": "Harvard Business Review 78(4): 128-135",
+   "status": "已发表",
+   "url": "https://www.hbs.edu/faculty/Pages/item.aspx?num=5703",
+   "abstract": null
+  },
+  {
+   "title": "Sustainability and the Firm",
+   "authors": [
+    "Forest L. Reinhardt"
+   ],
+   "year": 2000,
+   "venue": "Interfaces 30(3): 26-41",
+   "status": "已发表",
+   "url": "http://nrs.harvard.edu/urn-3:hul.eresource:jstor-25062595",
+   "abstract": null
+  },
+  {
+   "title": "Bringing the Environment Down to Earth",
+   "authors": [
+    "Forest L. Reinhardt"
+   ],
+   "year": 1999,
+   "venue": "Harvard Business Review 77(4): 149-157",
+   "status": "已发表",
+   "url": "https://www.hbs.edu/faculty/Pages/item.aspx?num=7103",
+   "abstract": null
+  },
+  {
+   "title": "Market Failure and the Environmental Policies of Firms: Economic Rationales for 'Beyond Compliance' Behavior",
+   "authors": [
+    "Forest L. Reinhardt"
+   ],
+   "year": 1999,
+   "venue": "Journal of Industrial Ecology 3(1): 9-21",
+   "status": "已发表",
+   "url": "https://www.hbs.edu/faculty/Pages/item.aspx?num=7105",
+   "abstract": null
+  },
+  {
+   "title": "Environmental Product Differentiation: Implications for Corporate Strategy",
+   "authors": [
+    "Forest L. Reinhardt"
+   ],
+   "year": 1998,
+   "venue": "California Management Review 40(4): 43-73",
+   "status": "已发表",
+   "url": "https://www.hbs.edu/faculty/Pages/item.aspx?num=7107",
+   "abstract": null
+  },
+  {
+   "title": "Losing to Win: U.S. Steel's Pricing, Investment Decisions, and Market Share, 1901-1938",
+   "authors": [
+    "Forest L. Reinhardt",
+    "Thomas K. McCraw"
+   ],
+   "year": 1989,
+   "venue": "Journal of Economic History 49(3): 593-619",
+   "status": "已发表",
+   "url": "https://www.hbs.edu/faculty/Pages/item.aspx?num=3373",
+   "abstract": null
+  },
+  {
+   "title": "Environmental Protection and the Social Responsibility of Firms: Perspectives from the Business Literature",
+   "authors": [
+    "Forest L. Reinhardt"
+   ],
+   "year": 2005,
+   "venue": "In Environmental Protection and the Social Responsibility of Firms (eds. Hay, Stavins, Vietor), Resources for the Future",
+   "status": "已发表",
+   "url": "https://www.hbs.edu/faculty/Pages/item.aspx?num=31307",
+   "abstract": null
+  },
+  {
+   "title": "Tests for Sustainability",
+   "authors": [
+    "Forest L. Reinhardt"
+   ],
+   "year": 2003,
+   "venue": "In Global Competitiveness Report 2003-2004 (ed. P. K. Cornelius), Oxford University Press",
+   "status": "已发表",
+   "url": "https://www.hbs.edu/faculty/Pages/item.aspx?num=16265",
+   "abstract": null
+  },
+  {
+   "title": "Bridging the Gap: How Improved Information Can Help Companies Integrate Shareholder Value and Environmental Quality",
+   "authors": [
+    "Forest L. Reinhardt"
+   ],
+   "year": 2002,
+   "venue": "In Environmental Performance Measurement: The Global Report 2001-2002 (eds. Esty and Cornelius), Oxford University Press",
+   "status": "已发表",
+   "url": "https://www.hbs.edu/faculty/Pages/item.aspx?num=11662",
+   "abstract": null
+  },
+  {
+   "title": "A Business Manager's Approach to Climate Change",
+   "authors": [
+    "Forest L. Reinhardt",
+    "Kimberly O'Neill Packard"
+   ],
+   "year": 2001,
+   "venue": "In Climate Change: Science, Strategies, & Solutions (ed. E. Claussen), Brill",
+   "status": "已发表",
+   "url": "https://www.hbs.edu/faculty/Pages/item.aspx?num=11660",
+   "abstract": null
+  },
+  {
+   "title": "Foreign Firms in the Chinese Power Sector: Economic and Environmental Impacts",
+   "authors": [
+    "Forest L. Reinhardt",
+    "Fiona Murray",
+    "Richard Vietor"
+   ],
+   "year": 1998,
+   "venue": "In Energizing China: Reconciling Environmental Protection and Economic Growth (eds. McElroy, Nielsen, Lydon), Harvard University Committee on Environment",
+   "status": "已发表",
+   "url": "https://www.hbs.edu/faculty/Pages/item.aspx?num=7178",
+   "abstract": null
+  }
+ ]
+}
