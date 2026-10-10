@@ -155,7 +155,6 @@ def main():
             for i, _ in enumerate(ex.map(lambda a: lookup(a[0], a[1], cache), todo)):
                 if i and i % 500 == 0:
                     print(f"  {i}/{len(todo)}", flush=True)
-                    json.dump(cache, open(CACHE, "w", encoding="utf-8"), ensure_ascii=False)
     tot = [0, 0]
     with ThreadPoolExecutor(workers) as ex:
         for slug, n, na in ex.map(lambda f: process(f, use_api, cache), files):
