@@ -4,6 +4,8 @@
 学校: Stanford University
 职称: 正教授
 头衔: Professor of Environmental Social Sciences, Doerr School of Sustainability; Senior Fellow at SIEPR; Professor, by courtesy, of Economics
+单位: Professor of Environmental Social Sciences, Doerr School of Sustainability
+单位类型: 环境学院
 聘任类型: 外系挂靠
 领域层级: 核心领域
 研究方向: 能源; 环境

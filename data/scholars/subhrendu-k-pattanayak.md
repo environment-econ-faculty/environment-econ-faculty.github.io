@@ -4,6 +4,8 @@
 学校: Duke University
 职称: 正教授
 头衔: Oak Foundation Distinguished Professor of Environmental and Energy Policy
+单位: Oak Foundation Distinguished Professor of Environmental and Energy Policy
+单位类型: 环境学院
 聘任类型: 外系挂靠
 领域层级: 核心领域
 研究方向: 环境; 自然资源; 能源; 污染与健康; 水资源

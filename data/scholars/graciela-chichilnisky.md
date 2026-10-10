@@ -4,6 +4,8 @@
 学校: Columbia University
 职称: 正教授
 头衔: Professor
+单位: Department of Economics
+单位类型: 经济系
 聘任类型: 合聘
 领域层级: 相关研究
 研究方向: 气候; 环境; 自然资源; 能源

@@ -4,6 +4,8 @@
 学校: University of California, Berkeley
 职称: 助理教授
 头衔: Assistant Professor of Agricultural and Resource Economics
+单位: Assistant Professor of Agricultural and Resource Economics
+单位类型: 农经/资源经济
 聘任类型: 外系挂靠
 领域层级: 核心领域
 研究方向: 环境; 能源

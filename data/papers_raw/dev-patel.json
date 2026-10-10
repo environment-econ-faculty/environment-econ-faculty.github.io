@@ -1,0 +1,95 @@
+{
+ "slug": "dev-patel",
+ "name": "Dev Patel",
+ "sources": [
+  "https://dev-patel.com/"
+ ],
+ "collected": "2026-10-10",
+ "notes": "Homepage with expandable abstracts. 'Other Writing' (blog posts, Foreign Affairs essay) skipped. Working paper years not shown.",
+ "papers": [
+  {
+   "title": "Mis-Remembrance of Things Past: Memory and Adaptation to Climate Change",
+   "authors": [
+    "Dev Patel"
+   ],
+   "year": null,
+   "venue": null,
+   "status": "工作论文",
+   "url": "https://dev-patel.com/content/misremembrance_climate.pdf",
+   "abstract": "Human memory is imperfect: we often fail to recall true events and invent false experiences. I examine the economic consequences of these cognitive limits for climate change adaptation in rural Bangladesh. I elicit environmental memories, beliefs, and adaptation decisions from 2,279 farmers across three survey waves. Using both natural variation in daily weather and a series of experiments embedded in the survey design, I test the predictions of a recall-driven belief formation model featuring endogenous memory revision. I find evidence that contemporaneous context causes memory reconstruction, distorting remembered features of past experiences. Memories impact both expectations about future environmental conditions and economic decisions linked to climate adaptation."
+  },
+  {
+   "title": "A Rosetta Stone for Human Capital",
+   "authors": [
+    "Dev Patel",
+    "Justin Sandefur"
+   ],
+   "year": null,
+   "venue": null,
+   "status": "工作论文",
+   "url": "https://dev-patel.com/content/rosetta_stone.pdf",
+   "abstract": "Comparing human capital across different measures is a central challenge in many empirical economics settings, from quantifying local schools' contribution to neighborhood effects to understanding the causes and consequences of global education gaps. Leveraging insights from item response theory with simple data collection, we develop a new methodology to non-parametrically translate performance measured across arbitrarily different scales. We implement this approach to link four of the world's largest standardized tests using a hybrid exam we developed and administered to students in India and the United States. Armed with this learning \"Rosetta Stone\", we apply our translations out of sample to microdata from 600,000 pupils across 80 countries and match their socio-economic status to moments of the global income distribution, establishing four new facts: (i) students with the same household income score significantly higher if they live in richer countries; (ii) the income-test score gradient is steeper in countries with greater income inequality; (iii) girls read better than boys at all incomes but only outperform them in mathematics at the lowest deciles of the global income distribution, and (iv) the test-score gap between public and private schools increases with inequality, partially due to a rise in socio-economic sorting across school types."
+  },
+  {
+   "title": "Environmental Beliefs and Adaptation to Climate Change",
+   "authors": [
+    "Dev Patel"
+   ],
+   "year": null,
+   "venue": null,
+   "status": "工作论文",
+   "url": "https://dev-patel.com/content/learningaboutwarmingworld.pdf",
+   "abstract": "Climate adaptation relies on accurate environmental beliefs. Bangladeshi rice farmers, for instance, learn about their soil's salinity to choose the appropriate seed. Farmers cannot directly observe salt levels, instead inferring salinity from downstream indicators such as plant health. These signals inhibit learning due to their ambiguity: while low yield could reflect salt, that same sign also matches a host of other potential explanations. Bayesian farmers therefore endogenously process data in line with their priors, e.g., someone worried about salinity will interpret an ambiguous sign like reduced harvest as an indicator of saltiness over other threats. I document this pattern comparing two natural experiments that equally impact true salinity as measured by agronomic sensors yet differentially shift farmers' priors about salinity, altering their interpretation of subsequent signals, and ultimately leading to different beliefs and behavior. I conduct field experiments to validate the importance of environmental expectations for technology adoption and profits."
+  },
+  {
+   "title": "Floods: Measurement, Impacts, and Adaptation",
+   "authors": [
+    "Dev Patel"
+   ],
+   "year": null,
+   "venue": null,
+   "status": "工作论文",
+   "url": "https://dev-patel.com/content/Floods.pdf",
+   "abstract": "Floods threaten a quarter of the world's population, most of whom live in poor countries. How do floods impact economic development, and how do households adapt? To answer these questions, I first combine methods from geophysics and machine learning in the analysis of satellite data to detect inundation at a granular geographic level anywhere every day for the past two decades. Using this approach in Bangladesh, I find that floods cause a persistent decline in economic activity and force structural change by pushing employment out of agriculture, spurring migration, and shifting children into school. Places with recent exposure to floods experience less harm after subsequent inundation. Using a simple model of experience-driven adaptation, I derive empirical tests for two mechanisms underpinning this pattern and find evidence for both. In a survey of rural farmers, I first show that past flood exposure increases the perceived marginal benefit of adaptation investment by raising households' beliefs about future disaster risk and damages. I next find that the marginal cost of coping with floods via temporary urban migration declines in inundation experience. Consistent with this \"learning-by-doing\" channel, reduced mobility frictions identified from quasi-random variation in Colonial-era transportation networks mediate the differential treatment effects of past flood exposure. Together, my results indicate that endogenous adaptation will significantly reduce the damage from future flooding."
+  },
+  {
+   "title": "What Jobs Come to Mind? Stereotypes About Fields of Study",
+   "authors": [
+    "Dev Patel",
+    "John J. Conlon"
+   ],
+   "year": null,
+   "venue": "Quarterly Journal of Economics (forthcoming)",
+   "status": "即将发表",
+   "url": "https://doi.org/10.1093/qje/qjag031",
+   "abstract": "We test for stereotyping—the exaggeration of representative traits—in a high-stakes economic environment. Using both surveys administered among undergraduates at the Ohio State University and large-scale nationally representative data, we measure how US freshmen perceive the relationship between college majors and occupations. We show that students greatly overestimate the likelihood that majors lead to their representative jobs (e.g., counselor for psychology, journalist for journalism). Using an implicit association test, we show that students associate majors with their representative careers and that these associations strongly predict belief biases, in line with a stereotyping mechanism. A simple equilibrium model of the labor market predicts that stereotyping reduces welfare by increasing misallocation, which correlational evidence on job/major mismatch corroborates. In a field experiment, we test a light-touch policy to reduce stereotyping and find significant effects on students' intentions about what to study as well as the classes and majors they enroll in."
+  },
+  {
+   "title": "Texts Don't Nudge: An Adaptive Trial to Prevent the Spread of COVID-19 in India",
+   "authors": [
+    "Dev Patel",
+    "Girija Bahety",
+    "Sebastian Bauhoff",
+    "James Potter"
+   ],
+   "year": 2021,
+   "venue": "Journal of Development Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jdeveco.2021.102747",
+   "abstract": "We conduct an adaptive randomized controlled trial to evaluate the impact of a SMS-based information campaign on the adoption of social distancing and handwashing in rural Bihar, India, six months into the COVID-19 pandemic. We test 10 arms that vary in delivery timing and message framing, changing content to highlight gains or losses for either one's own family or community. We identify the optimal treatment separately for each targeted behavior by adaptively allocating shares across arms over 10 experimental rounds using exploration sampling. Based on phone surveys with nearly 4,000 households and using several elicitation methods, we do not find evidence of impact on knowledge or adoption of preventive health behavior, and our confidence intervals cannot rule out positive effects as large as 5.5 percentage points, or 16%. Our results suggest that SMS-based information campaigns may have limited efficacy after the initial phase of a pandemic."
+  },
+  {
+   "title": "The New Era of Unconditional Convergence",
+   "authors": [
+    "Dev Patel",
+    "Arvind Subramanian",
+    "Justin Sandefur"
+   ],
+   "year": 2021,
+   "venue": "Journal of Development Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jdeveco.2021.102687",
+   "abstract": "The central fact that has motivated the empirics of economic growth—namely unconditional divergence—is no longer true and has not been so for decades. Across a range of data sources, poorer countries have in fact been catching up with richer ones, albeit slowly, since the mid-1990s. This new era of convergence does not stem primarily from growth moderation in the rich world but rather from accelerating growth in the developing world, which has simultaneously become remarkably less volatile and more persistent. Debates about a \"middle-income trap\" also appear anachronistic: middle-income countries have exhibited higher growth rates than all others since the mid-1980s."
+  }
+ ]
+}

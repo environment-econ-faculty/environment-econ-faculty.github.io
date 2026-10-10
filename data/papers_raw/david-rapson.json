@@ -1,0 +1,479 @@
+{
+ "slug": "david-rapson",
+ "name": "David Rapson",
+ "sources": [
+  "http://dsrapson.github.io/"
+ ],
+ "collected": "2026-10-10",
+ "notes": "Homepage (working papers, journal publications, book chapters). No abstracts. Skipped a Dallas Fed blog post and the critique/response documents. 'Clean Cars, Dirty Margins' listed as a working paper without a posted link. Coauthor names abbreviated on the Science 2018 entry kept as shown.",
+ "papers": [
+  {
+   "title": "If You Build It, They May Not Come: Willingness to Participate in Managed EV Charging",
+   "authors": [
+    "David S. Rapson",
+    "Fiona Burlig",
+    "James Bushnell"
+   ],
+   "year": null,
+   "venue": null,
+   "status": "工作论文",
+   "url": "https://dsrapson.github.io/files/20260408_BBR_mangedcharging.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Clean Cars, Dirty Margins: Portfolio Leakage and Electric Vehicle Subsidies",
+   "authors": [
+    "David S. Rapson",
+    "Teevrat Garg",
+    "Sebastian Tebbe"
+   ],
+   "year": null,
+   "venue": null,
+   "status": "工作论文",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Correcting the Logic Behind the 2026 US Vehicle Emissions Standard Rollback",
+   "authors": [
+    "David S. Rapson",
+    "Antonio Bento",
+    "Ken Gillingham",
+    "Mark Jacobsen",
+    "Chris Knittel",
+    "Benjamin Leard",
+    "Joshua Linn",
+    "James Sallee",
+    "Arthur van Benthem",
+    "Kate Whitefoot"
+   ],
+   "year": 2026,
+   "venue": "Science, 2026",
+   "status": "已发表",
+   "url": "https://dsrapson.github.io/files/science.aef0464.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Smooth Operator? Managing Electric Vehicle Integration in Constrained Distribution Networks",
+   "authors": [
+    "David S. Rapson",
+    "Blake Shaffer"
+   ],
+   "year": null,
+   "venue": "Energy Journal, forthcoming",
+   "status": "即将发表",
+   "url": "https://dsrapson.github.io/files/Rapson_Shaffer_EVs_Distn.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Energy Prices and Electric Vehicle Adoption",
+   "authors": [
+    "David S. Rapson",
+    "James Bushnell",
+    "Erich Muehlegger"
+   ],
+   "year": null,
+   "venue": "JPE Microeconomics, forthcoming",
+   "status": "即将发表",
+   "url": "https://dsrapson.github.io/files/gasvselect_main.pdf",
+   "abstract": null
+  },
+  {
+   "title": "The Impact of the 2022 Oil Embargo and Price Cap on Russian Oil Prices",
+   "authors": [
+    "David S. Rapson",
+    "Lutz Kilian",
+    "Burkhard Schipper"
+   ],
+   "year": 2026,
+   "venue": "Energy Journal, 2026",
+   "status": "已发表",
+   "url": "https://dsrapson.github.io/files/krs_main.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Do Bill Shocks Induce Energy Efficiency Investments?",
+   "authors": [
+    "David S. Rapson",
+    "Corey Lang",
+    "Kevin Nakolan",
+    "Reid Taylor"
+   ],
+   "year": 2025,
+   "venue": "Energy Journal, 2025",
+   "status": "已发表",
+   "url": "https://dsrapson.github.io/files/billshock_main.pdf",
+   "abstract": null
+  },
+  {
+   "title": "How To Spend One Trillion Dollars: the U.S. Decarbonization Conundrum",
+   "authors": [
+    "David S. Rapson",
+    "Peter Christensen",
+    "Patrick Baylis",
+    "Teevrat Garg",
+    "Shanjun Li",
+    "Gordon McCord",
+    "Erich Muehlegger",
+    "Erica Myers",
+    "Emma Smith"
+   ],
+   "year": 2024,
+   "venue": "Nature, 2024",
+   "status": "已发表",
+   "url": "https://www.nature.com/articles/d41586-024-03474-3",
+   "abstract": null
+  },
+  {
+   "title": "The Electric Ceiling: Limits and Costs of Full Electrification",
+   "authors": [
+    "David S. Rapson",
+    "James Bushnell"
+   ],
+   "year": 2024,
+   "venue": "Review of Environmental Economics and Policy, 2024",
+   "status": "已发表",
+   "url": "https://dsrapson.github.io/files/electric_ceiling_reep.pdf",
+   "abstract": null
+  },
+  {
+   "title": "The End of Neutrality? LCFS, Technology Neutrality, and the EV Market",
+   "authors": [
+    "David S. Rapson",
+    "James Bushnell",
+    "Erich Muehlegger",
+    "Julie Witcover"
+   ],
+   "year": 2024,
+   "venue": "Economics of Energy & Environmental Policy, 2024",
+   "status": "已发表",
+   "url": "https://dsrapson.github.io/files/lcfs_evs.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Global Transportation Decarbonization",
+   "authors": [
+    "David S. Rapson",
+    "Erich Muehlegger"
+   ],
+   "year": 2023,
+   "venue": "Journal of Economic Perspectives, 2023",
+   "status": "已发表",
+   "url": "https://dsrapson.github.io/files/rm_globaltransportdecarb.pdf",
+   "abstract": null
+  },
+  {
+   "title": "The Economics of Electric Vehicles",
+   "authors": [
+    "David S. Rapson",
+    "Erich Muehlegger"
+   ],
+   "year": 2023,
+   "venue": "Review of Environmental Economics and Policy, 2023",
+   "status": "已发表",
+   "url": "https://dsrapson.github.io/files/econ_of_evs_rm.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Correcting Estimates of Electric Vehicle Emissions Abatement",
+   "authors": [
+    "David S. Rapson",
+    "Erich Muehlegger"
+   ],
+   "year": 2022,
+   "venue": "Journal of the Association of Environmental and Resource Economists, 2022",
+   "status": "已发表",
+   "url": "https://dsrapson.github.io/files/ev_replacedvehicle.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Subsidizing Low- and Middle-Income Adoption of Electric Vehicles",
+   "authors": [
+    "David S. Rapson",
+    "Erich Muehlegger"
+   ],
+   "year": 2022,
+   "venue": "Journal of Public Economics, 2022",
+   "status": "已发表",
+   "url": "https://dsrapson.github.io/files/mr_massev_adoption.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Low Energy: Estimating Electric Vehicle Electricity Use",
+   "authors": [
+    "David S. Rapson",
+    "Fiona Burlig",
+    "James Bushnell",
+    "Catherine Wolfram"
+   ],
+   "year": 2021,
+   "venue": "AEA Papers & Proceedings, 2021",
+   "status": "已发表",
+   "url": "https://dsrapson.github.io/files/bbrw_paper_nber_final.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Future Paths of Electric Vehicle Adoption in the United States",
+   "authors": [
+    "David S. Rapson",
+    "James Archsmith",
+    "Erich Muehlegger"
+   ],
+   "year": 2021,
+   "venue": "Environmental and Energy Policy and the Economy, 2021",
+   "status": "已发表",
+   "url": "https://dsrapson.github.io/files/ev_forecasting_main.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Estimating the Elasticity to Real Time Pricing",
+   "authors": [
+    "David S. Rapson",
+    "Natalia Fabra",
+    "Mar Reguant",
+    "Jingyuan Wang"
+   ],
+   "year": 2021,
+   "venue": "AEA Papers & Proceedings, 2021",
+   "status": "已发表",
+   "url": "https://dsrapson.github.io/files/frrw_rtp.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Machine Learning from Schools about Energy Efficiency",
+   "authors": [
+    "David S. Rapson",
+    "Fiona Burlig",
+    "Christopher Knittel",
+    "Mar Reguant",
+    "Catherine Wolfram"
+   ],
+   "year": 2020,
+   "venue": "Journal of the Association of Environmental and Resource Economists, 2020",
+   "status": "已发表",
+   "url": "https://dsrapson.github.io/files/machine_learning_from_schools_about_energy_efficiency.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Utilities Included: Split Incentives in Commercial Electricity Contracts",
+   "authors": [
+    "David S. Rapson",
+    "Maya Papineau",
+    "Katrina Jessoe"
+   ],
+   "year": 2020,
+   "venue": "Energy Journal, 2020",
+   "status": "已发表",
+   "url": "https://dsrapson.github.io/files/commercial_split_incentives_jpr.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Attribute Substitution in Household Vehicle Portfolios",
+   "authors": [
+    "David S. Rapson",
+    "James Archsmith",
+    "Kenneth Gillingham",
+    "Christopher Knittel"
+   ],
+   "year": 2020,
+   "venue": "RAND Journal of Economics, 2020",
+   "status": "已发表",
+   "url": "https://dsrapson.github.io/files/hhportfolio_main.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Does Absolution Promote Sin? A Conservationist's Dilemma",
+   "authors": [
+    "David S. Rapson",
+    "Matthew Harding"
+   ],
+   "year": 2019,
+   "venue": "Environmental and Resource Economics, 2019",
+   "status": "已发表",
+   "url": "https://dsrapson.github.io/files/hardingrapson_offsets.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Regression Discontinuity in Time: Considerations for Empirical Applications",
+   "authors": [
+    "David S. Rapson",
+    "Catherine Hausman"
+   ],
+   "year": 2018,
+   "venue": "Annual Review of Resource Economics, 2018",
+   "status": "已发表",
+   "url": "https://www.annualreviews.org/content/journals/10.1146/annurev-resource-121517-033306",
+   "abstract": null
+  },
+  {
+   "title": "Flawed Analysis of U.S. Auto Fuel Economy Standards",
+   "authors": [
+    "David S. Rapson",
+    "A. Bento",
+    "K. Gillingham",
+    "M. Jacobsen",
+    "C. Knittel",
+    "B. Leard",
+    "J. Linn",
+    "V. McConnell",
+    "J. Sallee",
+    "A. van Benthem",
+    "K. Whitefoot"
+   ],
+   "year": 2018,
+   "venue": "Science, 2018",
+   "status": "已发表",
+   "url": "https://www.science.org/doi/10.1126/science.aav1458",
+   "abstract": null
+  },
+  {
+   "title": "The Rebound Effect and Energy Efficiency Policy",
+   "authors": [
+    "David S. Rapson",
+    "Kenneth Gillingham",
+    "Gernot Wagner"
+   ],
+   "year": 2016,
+   "venue": "Review of Environmental Economics and Policy, 2016",
+   "status": "已发表",
+   "url": "https://dsrapson.github.io/files/rebound_effect_grw.pdf",
+   "abstract": null
+  },
+  {
+   "title": "From Cradle to Junkyard: Assessing the Life Cycle Greenhouse Gas Benefits of Electric Vehicles",
+   "authors": [
+    "David S. Rapson",
+    "James Archsmith",
+    "Alissa Kendall"
+   ],
+   "year": 2015,
+   "venue": "Research in Transportation Economics, 2015",
+   "status": "已发表",
+   "url": "https://dsrapson.github.io/files/AKR_FromCradleToJunkyard_WP.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Commercial and Industrial Demand Response Under Mandatory Time-of-Use Electricity Pricing",
+   "authors": [
+    "David S. Rapson",
+    "Katrina Jessoe"
+   ],
+   "year": 2015,
+   "venue": "Journal of Industrial Economics, 2015",
+   "status": "已发表",
+   "url": "https://dsrapson.github.io/files/jr_mandtou.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Knowledge is (Less) Power: Experimental Evidence from Residential Energy Use",
+   "authors": [
+    "David S. Rapson",
+    "Katrina Jessoe"
+   ],
+   "year": 2014,
+   "venue": "American Economic Review, 2014",
+   "status": "已发表",
+   "url": "https://dsrapson.github.io/files/jr_knowledgepower.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Durable Goods and Long-Run Electricity Demand: Evidence from Air Conditioner Purchase Behavior",
+   "authors": [
+    "David S. Rapson"
+   ],
+   "year": 2014,
+   "venue": "Journal of Environmental Economics and Management, 2014",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/pii/S0095069614000217",
+   "abstract": null
+  },
+  {
+   "title": "Towards Understanding the Role of Price in Residential Energy Choices: Evidence from a Natural Experiment",
+   "authors": [
+    "David S. Rapson",
+    "Katrina Jessoe",
+    "Jeremy Smith"
+   ],
+   "year": 2014,
+   "venue": "Journal of Economic Behavior and Organization, 2014",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/pii/S0167268114000791",
+   "abstract": null
+  },
+  {
+   "title": "The Rebound Effect is Overplayed",
+   "authors": [
+    "David S. Rapson",
+    "Kenneth Gillingham",
+    "Gernot Wagner"
+   ],
+   "year": 2013,
+   "venue": "Nature, 2013",
+   "status": "已发表",
+   "url": "https://www.nature.com/articles/493475a",
+   "abstract": null
+  },
+  {
+   "title": "Internet and the Efficiency of Decentralized Markets: Evidence from Automobiles",
+   "authors": [
+    "David S. Rapson",
+    "Pasquale Schiraldi"
+   ],
+   "year": 2013,
+   "venue": "Economics Letters, 2013",
+   "status": "已发表",
+   "url": "https://dsrapson.github.io/files/RS_Internet.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Split Incentives in Residential Energy Consumption",
+   "authors": [
+    "David S. Rapson",
+    "Kenneth Gillingham",
+    "Matthew Harding"
+   ],
+   "year": 2012,
+   "venue": "Energy Journal, 2012",
+   "status": "已发表",
+   "url": "https://dsrapson.github.io/files/split-incentives.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Does it pay, at the margin, to work and save? Measuring the effective marginal taxes on Americans’ labor supply and savings",
+   "authors": [
+    "David S. Rapson",
+    "Laurence Kotlikoff"
+   ],
+   "year": 2007,
+   "venue": "Tax Policy and the Economy, 2007",
+   "status": "已发表",
+   "url": "https://dsrapson.github.io/files/WorkSave.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Utilization and Customer Behavior: Smart Choices for the Smart Grid",
+   "authors": [
+    "David S. Rapson",
+    "Katrina Jessoe",
+    "Jeremy Smith"
+   ],
+   "year": 2016,
+   "venue": "Smart Grid Handbook, John Wiley & Sons, 2016",
+   "status": "已发表",
+   "url": "https://dsrapson.github.io/files/utilization.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Would the Fair Tax raise or lower marginal and average tax rates?",
+   "authors": [
+    "David S. Rapson",
+    "Laurence Kotlikoff"
+   ],
+   "year": 2008,
+   "venue": "Fundamental Tax Reform: Issues, Choices, and Implications, MIT Press, 2008",
+   "status": "已发表",
+   "url": "https://dsrapson.github.io/files/comparing-average.pdf",
+   "abstract": null
+  }
+ ]
+}

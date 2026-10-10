@@ -4,6 +4,8 @@
 学校: Duke University
 职称: 正教授
 头衔: Professor of Environmental Economics and Policy (Stanback Dean, Nicholas School of the Environment)
+单位: Professor of Environmental Economics and Policy (Stanback Dean, Nicholas School of the Environment)
+单位类型: 环境学院
 聘任类型: 外系挂靠
 领域层级: 核心领域
 研究方向: 环境; 能源; 水资源

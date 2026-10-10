@@ -4,6 +4,8 @@
 学校: University of Chicago
 职称: 正教授
 头衔: University Professor in Economics and the College and the Harris School of Public Policy; Director of the Development Innovation Lab; Faculty Director, Development Economics Center
+单位: Department of Economics
+单位类型: 经济系
 聘任类型: 合聘
 领域层级: 领域之一
 研究方向: 水资源; 农业

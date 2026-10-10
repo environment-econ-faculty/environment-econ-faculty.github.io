@@ -4,6 +4,8 @@
 学校: University of Chicago
 职称: 正教授
 头衔: Kenneth C. Griffin Distinguished Service Professor in Economics and the College; Director of the Becker Friedman Institute
+单位: Department of Economics
+单位类型: 经济系
 聘任类型: 经济系
 领域层级: 领域之一
 研究方向: 环境

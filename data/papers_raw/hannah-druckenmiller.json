@@ -1,0 +1,256 @@
+{
+ "slug": "hannah-druckenmiller",
+ "name": "Hannah Druckenmiller",
+ "sources": [
+  "https://hannahdruckenmiller.com/research",
+  "https://www.hss.caltech.edu/documents/7376/Druckenmiller_CV_2026.pdf"
+ ],
+ "collected": "2026-10-10",
+ "notes": "From homepage research page (abstracts verbatim) plus two publications listed only on Feb 2026 CV (Nature Communications 2026; IEEE Big Data 2024). Three working papers on the homepage (Caribbean land cover, buyer aversion, cooling) show abstracts but no draft link; kept since homepage presents them as working papers with abstracts. CV-only working papers without drafts or abstracts (Africa aerial photographs; satellite imagery measurement) excluded.",
+ "papers": [
+  {
+   "title": "Using markets to adapt to climate change",
+   "authors": [
+    "Simon Greenhill",
+    "Hannah Druckenmiller",
+    "Solomon Hsiang",
+    "Clare Balboni",
+    "Lint Barrage",
+    "Ian W. Bolliger",
+    "Judson Boomhower",
+    "Delavane Diaz",
+    "Teevrat Garg",
+    "Miyuki Hino",
+    "Harrison Hong",
+    "Carolyn Kousky",
+    "Jeremy Martinich",
+    "Ishan Nath",
+    "Kimberly L. Oremus",
+    "R. Jisung Park",
+    "Toan Phan",
+    "Jonathan Proctor",
+    "Will Rafey",
+    "Marcus C. Sarofim",
+    "Wolfram Schlenker",
+    "Benjamin Simon"
+   ],
+   "year": 2026,
+   "venue": "Science",
+   "status": "已发表",
+   "url": "https://www.science.org/doi/10.1126/science.aea7431",
+   "abstract": null
+  },
+  {
+   "title": "Global high-resolution estimates of the U.N. Human Development Index using satellite imagery and machine learning",
+   "authors": [
+    "L. Sherman",
+    "J. Proctor",
+    "Hannah Druckenmiller",
+    "H. Tapia",
+    "S. Hsiang"
+   ],
+   "year": 2026,
+   "venue": "Nature Communications",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Removing development incentives in risky areas promotes climate adaptation",
+   "authors": [
+    "Hannah Druckenmiller",
+    "Penny Liao",
+    "Sophie Pesek",
+    "Shan Zhang",
+    "Margaret Walls"
+   ],
+   "year": 2024,
+   "venue": "Nature Climate Change",
+   "status": "已发表",
+   "url": "https://www.nature.com/articles/s41558-024-02082-3",
+   "abstract": "As natural disasters grow in frequency and intensity under climate change, limiting populations and properties in harm's way will be one important facet of adaptation. This paper examines the Coastal Barrier Resources Act of 1982, which eliminated federal incentives for development in designated areas along the Atlantic and Gulf coasts known as the Coastal Barrier Resources System (CBRS). We introduce a new research design to estimate the causal effect of the policy that identifies plausible counterfactual areas using machine learning and matching techniques. We find that CBRS designations lower development density by 85% inside the designated areas, but increase development in neighboring areas by 20%. We also present new evidence on flood protection benefits, property values, and changes in demographic characteristics in the affected areas. Our results inform ongoing debates regarding cost-effective policy options for discouraging over-development in areas at risk of climate change."
+  },
+  {
+   "title": "Machine learning predicts which rivers, streams, and wetlands the Clean Water Act regulates",
+   "authors": [
+    "Simon Greenhill",
+    "Hannah Druckenmiller",
+    "Sherrie Wang",
+    "David A. Keiser",
+    "Manuela Girotto",
+    "Jason K. Moore",
+    "Nobuhiro Yamaguchi",
+    "Alberto Todeschini",
+    "Joseph S. Shapiro"
+   ],
+   "year": 2024,
+   "venue": "Science",
+   "status": "已发表",
+   "url": "https://www.science.org/doi/10.1126/science.adi3794",
+   "abstract": "We assess which waters the Clean Water Act protects and how Supreme Court and White House rules change this regulation. We train a deep learning model using aerial imagery and geophysical data to predict 150,000 jurisdictional determinations from the Army Corps of Engineers, each deciding regulation for one water resource. Under a 2006 Supreme Court ruling, the Clean Water Act protects two-thirds of US streams and more than half of wetlands; under a 2020 White House rule, it protects less than half of streams and a fourth of wetlands, implying deregulation of 690,000 stream miles, 35 million wetland acres, and 30% of waters around drinking-water sources. Our framework can support permitting, policy design, and use of machine learning in regulatory implementation problems."
+  },
+  {
+   "title": "A machine learning pipeline for merging and georeferencing very large archives of historical aerial photographs",
+   "authors": [
+    "E. Noda",
+    "Hannah Druckenmiller",
+    "L. Huang",
+    "T. Chong",
+    "S. Jain",
+    "A. Madestam",
+    "A. Tompsett",
+    "S. Hsiang"
+   ],
+   "year": 2024,
+   "venue": "IEEE International Conference on Big Data",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Accounting for ecosystem service values in climate policy",
+   "authors": [
+    "Hannah Druckenmiller"
+   ],
+   "year": 2022,
+   "venue": "Nature Climate Change",
+   "status": "已发表",
+   "url": "https://www.nature.com/articles/s41558-022-01362-0",
+   "abstract": "Ecosystem services are often omitted from climate policies due to difficulties in estimating the economic value of climate-driven ecosystem changes. However, recent advancements in data and methods can help us overcome these challenges and move towards a more comprehensive accounting of climate impacts."
+  },
+  {
+   "title": "Wetlands, flooding, and the Clean Water Act",
+   "authors": [
+    "Hannah Druckenmiller",
+    "Charles A. Taylor"
+   ],
+   "year": 2022,
+   "venue": "American Economic Review 112(4): 1334-63",
+   "status": "已发表",
+   "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20210497",
+   "abstract": "In 2020 the EPA narrowed the definition of ‘Waters of the United States', significantly limiting wetland protection under the Clean Water Act. Current policy debates center on the uncertainty around wetland benefits. We estimate the value of wetlands for flood mitigation across the US using detailed flood claims and land use data. We find the average hectare of wetland lost between 2001 and 2016 cost society $1,840 annually, and over $8,000 in developed areas. We document significant spatial heterogeneity in wetland benefits, with implications for flood insurance policy and the 50% of ‘isolated’ wetlands at risk of losing federal protection."
+  },
+  {
+   "title": "The effect of large-scale anti-contagion policies on the COVID-19 pandemic",
+   "authors": [
+    "Solomon Hsiang",
+    "Daniel Allen",
+    "Sébastien Annan-Phan",
+    "Kendon Bell",
+    "Ian Bolliger",
+    "Trinetta Chong",
+    "Hannah Druckenmiller",
+    "Luna Yue Huang",
+    "Andrew Hultgren",
+    "Emma Krasovich",
+    "Peiley Lau",
+    "Jaecheol Lee",
+    "Esther Rolf",
+    "Jeanette Tseng",
+    "Tiffany Wu"
+   ],
+   "year": 2020,
+   "venue": "Nature 584, 262-267",
+   "status": "已发表",
+   "url": "https://www.nature.com/articles/s41586-020-2404-8",
+   "abstract": "Governments around the world are responding to the coronavirus disease 2019 (COVID-19) pandemic with unprecedented policies designed to slow the growth rate of infections. Many policies, such as closing schools and restricting populations to their homes, impose large and visible costs on society; however, their benefits cannot be directly observed and are currently understood only through process-based simulations. Here we compile data on 1,700 local, regional and national non-pharmaceutical interventions that were deployed in the ongoing pandemic across localities in China, South Korea, Italy, Iran, France and the United States. We then apply reduced-form econometric methods, commonly used to measure the effect of policies on economic growth to empirically evaluate the effect that these anti-contagion policies have had on the growth rate of infections."
+  },
+  {
+   "title": "Paving the Swamp: Consequences of Land Use Regulation Under the Clean Water Act",
+   "authors": [
+    "Hannah Druckenmiller",
+    "Joseph S. Shapiro",
+    "Charles A. Taylor"
+   ],
+   "year": null,
+   "venue": "NBER conference paper",
+   "status": "工作论文",
+   "url": "https://conference.nber.org/conf_papers/f245505.pdf",
+   "abstract": "How does environmental regulation of land use affect the environment and the economy? We study recent changes to U.S. Clean Water Act regulation, measured using wetland maps and machine learning. Four findings emerge. First, a 2020 White House rule reduced the average non-residential property’s probability of being regulated under the Clean Water Act by about 40 percent. Second, by deregulating wetlands, this rule increased the value of U.S. non-residential properties by about 1%, with larger effects for properties facing greater deregulation and near-zero effects for residential properties. Third, remote sensing indicates that deregulation expanded impervious surfaces like pavement and reduced wetland area. Fourth, the deregulation increased non-residential land values by over $50 billion, which exceeds the estimated loss in the present discounted value of wetlands’ flood mitigation services; we carefully discuss welfare implications."
+  },
+  {
+   "title": "A postcolonial land cover transition in the Caribbean",
+   "authors": [
+    "Hannah Druckenmiller",
+    "L.Y. Huang",
+    "T. Chong",
+    "S. Jain",
+    "N. Nordfors",
+    "S. Hsiang",
+    "A. Madestam",
+    "A. Tompsett"
+   ],
+   "year": null,
+   "venue": null,
+   "status": "工作论文",
+   "url": null,
+   "abstract": "Many of the most consequential changes in land cover predate modern satellite imagery and thus remain poorly understood. In particular, few studies have documented how societies restructured their use of land as they transitioned from colonial rule, under which distant governments strongly influenced decisions about local resources, to self-governance. Here, we conduct the first analysis of land cover changes at scale across eight Caribbean island nations and territories between the mid-twentieth century, before or as they transitioned to self-governance, to the present. Our analysis is made possible by transforming 6,136 historical aerial photographs into the first national remotely-sensed land cover record extending to the colonial era. To our knowledge, this is the largest single application of historical aerial photography in the scientific literature, exceeding the scale of prior efforts by more than an order of magnitude. These data reveal how the spatial footprint of an extractive colonial economy gradually dissolves. We find that agricultural use declined substantially under self-governance, falling 35% over ~60 years. 90% of former farmland returned to natural cover, a pattern that contrasts with the satellite-era narrative of tropical forest loss. At fine spatial scale, we find evidence that this retreat partly reflects a gradual transition of agricultural land away from sugar, the prevailing colonial export crop, and towards local staples. In particular, sugar-suited farmland disappears disproportionately where hurricanes have occurred, suggesting that inherited colonial-era plantation capital is not rebuilt when destroyed. These results illuminate how societies reorganize their use of land when they govern themselves."
+  },
+  {
+   "title": "Buyer aversion to flood resistant homes",
+   "authors": [
+    "Hannah Druckenmiller",
+    "J. Choi",
+    "B. Babis"
+   ],
+   "year": null,
+   "venue": null,
+   "status": "工作论文",
+   "url": null,
+   "abstract": "We investigate the ``adaptation puzzle\" — why homeowners under-invest in climate resilience — through the lens of flood-resistant building codes. Linking data on community-level flood code adoption with insurance claims and real estate transactions, we find that elevating a home one foot reduces flood damages by 0.83% of the property's value, yet reduces its sale price by 1.7%. While the financial benefits of lower flood risk fully capitalize into home values, they are outweighed by non-financial costs like inconvenience or aesthetics. Lack of adoption may thus be economically rational. Our findings underscore the challenges of adapting capital assets to natural disaster risks."
+  },
+  {
+   "title": "Cooling where it counts: A framework for targeting urban heat mitigation investments",
+   "authors": [
+    "A. Shreevastava",
+    "Q. Dehaene",
+    "A. Halsey",
+    "C. Yoo",
+    "S. Prasanth",
+    "G. Hulley",
+    "C. Frankenberg",
+    "Y. Yin",
+    "Hannah Druckenmiller"
+   ],
+   "year": null,
+   "venue": null,
+   "status": "工作论文",
+   "url": null,
+   "abstract": "As urban areas warm, where should cooling interventions be deployed to maximize health benefits? This question is critical for cities like Los Angeles, where rising heat, socioeconomic disparities, and uneven adaptive capacity converge. We present a spatially explicit framework that integrates urban heat burden, population vulnerability, and intervention feasibility using income and age stratified temperature–mortality response functions to guide the deployment of urban cooling measures such as reflective coatings. We show that reflective coatings could reduce mean air temperatures in Los Angeles by ~1 degree C in the top 2% of study area and lower heat-related mortality by 48% if deployed citywide. Benefits are highly concentrated: 50% of avoidable deaths can be prevented by treating just 9% of urban paintable surface area, which enables targeted deployment. An interactive web portal translates these findings for local decision-making, offering a replicable pathway for spatially optimized heat adaptation in other cities worldwide."
+  },
+  {
+   "title": "Accounting for unobservable heterogeneity in cross section using spatial first differences",
+   "authors": [
+    "Hannah Druckenmiller",
+    "Solomon Hsiang"
+   ],
+   "year": 2026,
+   "venue": null,
+   "status": "工作论文",
+   "url": "https://hannahdruckenmiller.com/s/SFD_April2026.pdf",
+   "abstract": "We develop a simple cross-sectional research design to identify causal effects that is robust to unobservable heterogeneity. When many observational units are dense in physical space, it may be sufficient to regress the “spatial first differences” (SFD) of the outcome on the treatment and omit all covariates. This approach is conceptually similar to first differencing approaches in time-series or panel models, except the index for time is replaced with an index for locations in space. The SFD design identifies plausibly causal effects, even when no instruments are available, so long as local changes in the treatment and unobservable confounders are not systematically correlated between immediately adjacent neighbors. We demonstrate the SFD approach by recovering new cross-sectional estimates for the effects of time-invariant geographic factors, soil and climate, on long-run average crop productivities across US counties — relationships that are notoriously confounded by unobservables but crucial for guiding economic decisions, such as land management and climate policy."
+  },
+  {
+   "title": "Estimating an economic and social value of forests: Evidence from tree mortality in the American West",
+   "authors": [
+    "Hannah Druckenmiller"
+   ],
+   "year": 2020,
+   "venue": null,
+   "status": "工作论文",
+   "url": "https://hannahdruckenmiller.com/s/JMP_11192020.pdf",
+   "abstract": "Linkages between healthy forests and human well-being are often theorized, yet the magnitude of benefits remains unknown. This paper uses a natural experiment to assess the welfare consequences of changes in forest health across the American West. My empirical analysis relies on plausibly random variation in tree mortality generated by the thermal threshold at which cold-induced mortality occurs in bark beetles. I find that forest die-off has significant and economically meaningful impacts on both the market value of forests and the non-market benefits these ecosystems provide. I estimate that over the last two decades, tree mortality in the American West decreased the value of timber tracts by $1.1 billion, decreased home values by $16.5 billion, and increased damages from air pollution, wildfire, and floods by a combined $921 million. In a back-of-the-envelope calculation, I find that the death of a tree in my sample costs society $43 in foregone benefits"
+  },
+  {
+   "title": "Opportunities for increasing the environmental justice impact of earth observations",
+   "authors": [
+    "Hannah Druckenmiller"
+   ],
+   "year": null,
+   "venue": "Resources for the Future Working Paper",
+   "status": "工作论文",
+   "url": "https://www.rff.org/publications/working-papers/opportunities-for-increasing-the-impact-of-nasas-earth-observations-along-environmental-justice-dimensions/",
+   "abstract": "Environmental justice is an important social priority and has become a policy goal at the federal level. Executive Order 14008, Tackling the Climate Crisis at Home and Abroad, requires all federal agencies to develop programs, policies, and activities to address the disproportionately high adverse environmental impacts faced by marginalized communities. This raises the question of how NASA can increase the impact of its scientific outputs along EJ dimensions. How can the agency’s existing data products be leveraged to enable progress on EJ-related questions? What new scientific information can NASA produce to help reduce environmental inequities? Produced as part of the VALUABLES Consortium, this paper aims to outline ways that NASA can use its data products to promote EJ and overcome the barriers faced in the use of satellite data to influence decisionmaking."
+  }
+ ]
+}

@@ -1,0 +1,1713 @@
+{
+ "slug": "pierre-perron",
+ "name": "Pierre Perron",
+ "sources": [
+  "https://blogs.bu.edu/perron/forthcoming/",
+  "https://blogs.bu.edu/perron/working-papers/",
+  "https://blogs.bu.edu/perron/publications/",
+  "https://blogs.bu.edu/perron/books-edited/"
+ ],
+ "collected": "2026-10-10",
+ "notes": "Homepage lists (forthcoming, working papers, publications, books). About 155 items listed; kept all post-2005 research items and pre-2005 refereed journal articles; dropped editorials, comments, an erratum, PhD thesis, Economic Council of Canada discussion papers, ASA proceedings, and pre-2005 non-refereed book chapters. No abstracts on the pages. URLs only where the page links a PDF/DOI.",
+ "papers": [
+  {
+   "title": "Feasible GLS for Time Series Regression",
+   "authors": [
+    "Pierre Perron",
+    "Emilio González-Coya"
+   ],
+   "year": 2026,
+   "venue": "Journal of Econometrics",
+   "status": "即将发表",
+   "url": "https://blogs.bu.edu/perron/files/2026/10/PCG-JOE-Main-text.pdf",
+   "abstract": null
+  },
+  {
+   "title": "GLS-IV for Time Series Regressions with Application to the “New Keynesian Phillips Curve“",
+   "authors": [
+    "Pierre Perron",
+    "Marco Olivari"
+   ],
+   "year": 2024,
+   "venue": null,
+   "status": "工作论文",
+   "url": "https://blogs.bu.edu/perron/files/2024/09/GLS-IV-MOPP-09-2024.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Trigonometric Trend Regressions of Unknown Frequencies with Stationary or Integrated Noise",
+   "authors": [
+    "Pierre Perron",
+    "Mototsugu Shintani",
+    "Tomoyoshi Yabu"
+   ],
+   "year": 2020,
+   "venue": null,
+   "status": "工作论文",
+   "url": "https://blogs.bu.edu/perron/files/2020/05/FourierSup20200131.pdf",
+   "abstract": null
+  },
+  {
+   "title": "mbreaks: R Package for Estimating and Testing Multiple Structural Changes in Linear Regression Models",
+   "authors": [
+    "Pierre Perron",
+    "Linh Nguyen",
+    "Yohei Yamamoto"
+   ],
+   "year": 2023,
+   "venue": null,
+   "status": "工作论文",
+   "url": "https://blogs.bu.edu/perron/files/2023/01/mbreaks-20230125.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Continuous Record Asymptotics for Change-Point Models",
+   "authors": [
+    "Pierre Perron",
+    "Alessandro Casini"
+   ],
+   "year": 2026,
+   "venue": "Journal of Time Series Analysis",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Theory of Low Frequency Contamination from Nonstationarity and Misspecification: Consequences for HAR Inference",
+   "authors": [
+    "Pierre Perron",
+    "Alessandro Casini",
+    "Taosong Deng"
+   ],
+   "year": 2026,
+   "venue": "Econometric Theory",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Uncovering Bias in Uncovered Interest Parity Tests",
+   "authors": [
+    "Pierre Perron",
+    "Emilio González-Coya"
+   ],
+   "year": 2026,
+   "venue": "Applied Economic Analysis",
+   "status": "已发表",
+   "url": "https://www.emerald.com/aea/article/34/101/81/1380659/Uncovering-bias-in-uncovered-interest-parity-tests",
+   "abstract": null
+  },
+  {
+   "title": "An Improved Procedure for Retrospectively Dating the Emergence and Collapse of Bubbles",
+   "authors": [
+    "Pierre Perron",
+    "Mohitosh Kejriwal",
+    "Linh Nguyen"
+   ],
+   "year": 2025,
+   "venue": "Journal of Time Series Analysis",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Synergies Between Observed Warming and ENSO Episodes on Extreme Events",
+   "authors": [
+    "Pierre Perron",
+    "Francisco Estrada",
+    "Yohei Yamamoto"
+   ],
+   "year": 2025,
+   "venue": "Annals of the New York Academy of Sciences",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/nyas.70122",
+   "abstract": null
+  },
+  {
+   "title": "On the persistence of near-surface temperature dynamics in a warming world",
+   "authors": [
+    "Pierre Perron",
+    "Francisco Estrada",
+    "Yohei Yamamoto"
+   ],
+   "year": 2024,
+   "venue": "Annals of the New York Academy of Sciences",
+   "status": "已发表",
+   "url": "https://nyaspubs.onlinelibrary.wiley.com/doi/10.1111/nyas.15088",
+   "abstract": null
+  },
+  {
+   "title": "Inference on Conditional Quantile Processes in Partially Linear Models with Applications to the Impact of Unemployment Benefits",
+   "authors": [
+    "Pierre Perron",
+    "Zhongjun Qu",
+    "Jungmo Yoon"
+   ],
+   "year": 2024,
+   "venue": "Review of Economics and Statistics",
+   "status": "已发表",
+   "url": "https://cran.r-project.org/web/packages/QTE.RD/index.html",
+   "abstract": null
+  },
+  {
+   "title": "Estimation in the Presence of Heteroskedasticty of Unknown Form: A Lasso-based Approach",
+   "authors": [
+    "Pierre Perron",
+    "Emilio González-Coya"
+   ],
+   "year": 2024,
+   "venue": "Journal of Econometric Methods",
+   "status": "已发表",
+   "url": "https://www.degruyter.com/document/doi/10.1515/jem-2023-0007/html",
+   "abstract": null
+  },
+  {
+   "title": "Prewhitened Long-Run Variance Estimation Robust to Nonstationarity",
+   "authors": [
+    "Pierre Perron",
+    "Alessandro Casini"
+   ],
+   "year": 2024,
+   "venue": "Journal of Econometrics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Change-Point Analysis of Time Series with Evolutionary Spectra",
+   "authors": [
+    "Pierre Perron",
+    "Alessandro Casini"
+   ],
+   "year": 2024,
+   "venue": "Journal of Econometrics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Anthropogenic influence on global increase in extreme heat and precipitation with implications for risk hotspots",
+   "authors": [
+    "Pierre Perron",
+    "Francisco Estrada",
+    "Yohei Yamamoto"
+   ],
+   "year": 2023,
+   "venue": "Scientific Reports",
+   "status": "已发表",
+   "url": "https://www.nature.com/articles/s41598-022-27220-9",
+   "abstract": null
+  },
+  {
+   "title": "Simultaneous Bandwidths Determination for DK-HAC Estimators and Long-Run Variance Estimation in Nonparametric Settings",
+   "authors": [
+    "Pierre Perron",
+    "Federico Belotti",
+    "Alessandro Casini",
+    "Leopoldo Catania",
+    "Stefano Grassi"
+   ],
+   "year": 2023,
+   "venue": "Econometric Reviews",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Forecasting in the Presence of In and Out of Sample Breaks",
+   "authors": [
+    "Pierre Perron",
+    "Jiawen Xu"
+   ],
+   "year": 2023,
+   "venue": "Empirical Economics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Robust Testing of Time Trend and Mean with Unknown Integration Order Errors",
+   "authors": [
+    "Pierre Perron",
+    "Seong Yeon Chang",
+    "Jiawen Xu"
+   ],
+   "year": 2022,
+   "venue": "Journal of Statistical Computation and Simulation",
+   "status": "已发表",
+   "url": "https://blogs.bu.edu/perron/files/2022/02/robust-testing-wp.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Structural Change Tests under Heteroskedasticity: Joint Estimation versus Two-Steps Methods",
+   "authors": [
+    "Pierre Perron",
+    "Yohei Yamamoto"
+   ],
+   "year": 2022,
+   "venue": "Journal of Time Series Analysis",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Great Moderation: Updated Evidence with Joint Tests for Multiple Structural Changes in Variance and Persistence",
+   "authors": [
+    "Pierre Perron",
+    "Yohei Yamamoto"
+   ],
+   "year": 2022,
+   "venue": "Empirical Economics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Generalized Laplace Inference in Multiple Change-Points Models",
+   "authors": [
+    "Pierre Perron",
+    "Alessandro Casini"
+   ],
+   "year": 2022,
+   "venue": "Econometric Theory",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A Two Step Procedure for Testing Partial Parameter Stability in Cointegrated Regression Models",
+   "authors": [
+    "Pierre Perron",
+    "Mohitosh Kejriwal",
+    "Xuewen Xu"
+   ],
+   "year": 2022,
+   "venue": "Journal of Time Series Analysis",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Disentangling the Trend in the Warming of Urban Areas into Global and Local Factors",
+   "authors": [
+    "Pierre Perron",
+    "Francisco Estrada"
+   ],
+   "year": 2021,
+   "venue": "Annals of the New York Academy of Science",
+   "status": "已发表",
+   "url": "https://nyaspubs.onlinelibrary.wiley.com/doi/epdf/10.1111/nyas.14691",
+   "abstract": null
+  },
+  {
+   "title": "Continuous Record Laplace-based Inference about the Break Date in Structural Change Models",
+   "authors": [
+    "Pierre Perron",
+    "Alessandro Casini"
+   ],
+   "year": 2021,
+   "venue": "Journal of Econometrics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Regional Anthropogenic Influence in Observed Warming Trends and the Implied Social Time of Emergence",
+   "authors": [
+    "Pierre Perron",
+    "Francisco Estrada",
+    "Dukpa Kim"
+   ],
+   "year": 2021,
+   "venue": "Nature Communications Earth & Environment",
+   "status": "已发表",
+   "url": "https://www.nature.com/articles/s43247-021-00102-0",
+   "abstract": null
+  },
+  {
+   "title": "Spatial Variations in the Warming Trend and the Transition to More Severe Weather in Midaltitudes",
+   "authors": [
+    "Pierre Perron",
+    "Francisco Estrada",
+    "Dukpa Kim"
+   ],
+   "year": 2021,
+   "venue": "Scientific Reports",
+   "status": "已发表",
+   "url": "https://www.nature.com/articles/s41598-020-80701-7",
+   "abstract": null
+  },
+  {
+   "title": "Testing for Changes in Forecasting Performance",
+   "authors": [
+    "Pierre Perron",
+    "Yohei Yamamoto"
+   ],
+   "year": 2021,
+   "venue": "Journal of Business and Economic Statistics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Temporal Aggregation and Long Memory for Asset Price Volatility",
+   "authors": [
+    "Pierre Perron",
+    "Wendong Shi"
+   ],
+   "year": 2020,
+   "venue": "Journal of Risk and Financial Management",
+   "status": "已发表",
+   "url": "https://www.mdpi.com/1911-8074/13/8/182",
+   "abstract": null
+  },
+  {
+   "title": "Bootstrap Procedures for Detecting Multiple Persistence Shifts in Heteroskedastic Time Series",
+   "authors": [
+    "Pierre Perron",
+    "Mohitosh Kejriwal",
+    "Xuewen Xu"
+   ],
+   "year": 2020,
+   "venue": "Journal of Time Series Analysis",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Testing Jointly for Structural Changes in the Error Variance and Coefficients of a Linear Regression Model",
+   "authors": [
+    "Pierre Perron",
+    "Yohei Yamamoto",
+    "Jing Zhou"
+   ],
+   "year": 2020,
+   "venue": "Quantitative Economics",
+   "status": "已发表",
+   "url": "https://blogs.bu.edu/perron/files/2024/09/QE1332.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Inference Related to Common Breaks in a Multivariate System with Joined Segmented Trends with Applications to Global and Hemispheric Temperatures",
+   "authors": [
+    "Pierre Perron",
+    "Dukpa Kim",
+    "Tatsushi Oka",
+    "Francisco Estrada"
+   ],
+   "year": 2020,
+   "venue": "Journal of Econometrics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Breaks, Trends and the Attribution of Climate Change: a Time-series Analysis",
+   "authors": [
+    "Pierre Perron",
+    "Francisco Estrada"
+   ],
+   "year": 2019,
+   "venue": "Economia",
+   "status": "已发表",
+   "url": "https://blogs.bu.edu/perron/files/2020/05/Economia-2019-EP.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Pitfalls of Two Step Testing for Changes in the Error Variance and Coefficients of a Linear Regression Model",
+   "authors": [
+    "Pierre Perron",
+    "Yohei Yamamoto"
+   ],
+   "year": 2019,
+   "venue": "Econometrics",
+   "status": "已发表",
+   "url": "https://blogs.bu.edu/perron/files/2020/05/Econometrics-2019-PY.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Causality from Long-lived Radiative Forcings to the Climate Trend",
+   "authors": [
+    "Pierre Perron",
+    "Francisco Estrada"
+   ],
+   "year": 2019,
+   "venue": "Annals of the New York Academy of Sciences",
+   "status": "已发表",
+   "url": "https://blogs.bu.edu/perron/files/2020/05/Annals_of_the_New_York_Academy_of_Sciences-2019-EP.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Structural Breaks in Time Series",
+   "authors": [
+    "Pierre Perron",
+    "Alessandro Casini"
+   ],
+   "year": 2019,
+   "venue": "Oxford Research Encyclopedia of Economics and Finance (Oxford University Press)",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A Test for Changes in a Polynomial Trend Function for a Dynamic Time Series",
+   "authors": [
+    "Pierre Perron"
+   ],
+   "year": 2019,
+   "venue": "Time Series Econometrics: Volume 2: Structural Change (World Scientific)",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A Comparison of Alternative Methods to Construct Confidence Intervals for the Estimate of a Break Date in Linear Regression Models",
+   "authors": [
+    "Pierre Perron",
+    "Seong Yeon Chang"
+   ],
+   "year": 2018,
+   "venue": "Econometric Reviews",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Testing for Common Breaks in a Multiple Equations System",
+   "authors": [
+    "Pierre Perron",
+    "Tatsushi Oka"
+   ],
+   "year": 2018,
+   "venue": "Journal of Econometrics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Combining Long Memory and Level Shifts in Modeling and Forecasting the Volatility of Asset Returns",
+   "authors": [
+    "Pierre Perron",
+    "Rasmus T. Varneskov"
+   ],
+   "year": 2018,
+   "venue": "Quantitative Finance",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Testing for Flexible Nonlinear Trends with an Integrated or Stationary Noise Component",
+   "authors": [
+    "Pierre Perron",
+    "Mototsugu Shintani",
+    "Tomoyoshi Yabu"
+   ],
+   "year": 2017,
+   "venue": "Oxford Bulletin of Economics and Statistics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Extracting and Analyzing the Warming Trend in Global and Hemispheric Temperatures",
+   "authors": [
+    "Pierre Perron",
+    "Francisco Estrada"
+   ],
+   "year": 2017,
+   "venue": "Journal of Time Series Analysis",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Characterizing and Attributing the Warming Trend in Sea and Land Surface Temperatures",
+   "authors": [
+    "Pierre Perron",
+    "Francisco Estrada",
+    "Luis Filipe Martins"
+   ],
+   "year": 2017,
+   "venue": "Atmosfera",
+   "status": "已发表",
+   "url": "https://blogs.bu.edu/perron/files/2020/05/Atmosfera-2017-EMP.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Modelling Exchange Rate Volatility with Random Level Shifts",
+   "authors": [
+    "Pierre Perron",
+    "Ye Li",
+    "Jiawen Xu"
+   ],
+   "year": 2017,
+   "venue": "Applied Economics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Fractional Unit Root Tests Allowing for a Structural Change in Trend under Both the Null and Alternative Hypotheses",
+   "authors": [
+    "Pierre Perron",
+    "Seong Yeon Chang"
+   ],
+   "year": 2017,
+   "venue": "Econometrics",
+   "status": "已发表",
+   "url": "https://blogs.bu.edu/perron/files/2020/05/Econometrics-2017-CP.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Inference on Locally Ordered Breaks in Multiple Regressions",
+   "authors": [
+    "Pierre Perron",
+    "Ye Li"
+   ],
+   "year": 2017,
+   "venue": "Econometric Reviews",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Improved Tests for Forecast Comparisons in the Presence of Instabilities",
+   "authors": [
+    "Pierre Perron",
+    "Luis Filipe Martins"
+   ],
+   "year": 2016,
+   "venue": "Journal of Time Series Analysis",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Measuring Business Cycles with Structural Breaks and Outliers: Applications to International Data",
+   "authors": [
+    "Pierre Perron",
+    "Tatsuma Wada"
+   ],
+   "year": 2016,
+   "venue": "Research in Economics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Inference on a Structural Break in Trend with Fractionally Integrated Errors",
+   "authors": [
+    "Pierre Perron",
+    "Seong Yeon Chang"
+   ],
+   "year": 2016,
+   "venue": "Journal of Time Series Analysis",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Residuals-based Tests for Cointegration with GLS Detrended Data",
+   "authors": [
+    "Pierre Perron",
+    "Gabriel Rodríguez"
+   ],
+   "year": 2016,
+   "venue": "Econometrics Journal",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "On the Usefulness or Lack Thereof of Optimality Criteria for Structural Change Tests",
+   "authors": [
+    "Pierre Perron",
+    "Yohei Yamamoto"
+   ],
+   "year": 2016,
+   "venue": "Econometric Reviews",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Using OLS to Estimate and Test for Structural Changes in Models with Endogenous Regressors",
+   "authors": [
+    "Pierre Perron",
+    "Yohei Yamamoto"
+   ],
+   "year": 2015,
+   "venue": "Journal of Applied Econometrics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Modified Local Whittle Estimator for Long Memory Processes in the Presence of Low Frequency (and Other) Contaminations",
+   "authors": [
+    "Pierre Perron",
+    "Jie Hou"
+   ],
+   "year": 2014,
+   "venue": "Journal of Econometrics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Detection and Attribution of Climate Change Through Econometric Methods",
+   "authors": [
+    "Pierre Perron",
+    "Francisco Estrada"
+   ],
+   "year": 2014,
+   "venue": "Buletin de la Sociedad Matematica Mexicana",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Forecasting Return Volatility: Level Shifts with Varying Jump Probability and Mean Reversion",
+   "authors": [
+    "Pierre Perron",
+    "Jiawen Xu"
+   ],
+   "year": 2014,
+   "venue": "International Journal of Forecasting",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A Note on Estimating and Testing for Multiple Structural Changes in Models with Endogenous Regressors via 2SLS",
+   "authors": [
+    "Pierre Perron",
+    "Yohei Yamamoto"
+   ],
+   "year": 2014,
+   "venue": "Econometric Theory",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Statistically-derived Contributions of Diverse Human Influences to 20th Century Temperature Changes",
+   "authors": [
+    "Pierre Perron",
+    "Francisco Estrada",
+    "Benjamin Martinez-López"
+   ],
+   "year": 2013,
+   "venue": "Nature Geoscience",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Estimating and Testing Multiple Structural Changes in Linear Models Using Band Spectral Regressions",
+   "authors": [
+    "Pierre Perron",
+    "Yohei Yamamoto"
+   ],
+   "year": 2013,
+   "venue": "Econometrics Journal",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A Stochastic Volatility Model with Random Level Shifts and its Application to S&P 500 and NASDAQ Return Indices",
+   "authors": [
+    "Pierre Perron",
+    "Zhongjun Qu"
+   ],
+   "year": 2013,
+   "venue": "Econometrics Journal",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Memory Parameter Estimation in the Presence of Level Shifts and Deterministic Trends",
+   "authors": [
+    "Pierre Perron",
+    "Adam McCloskey"
+   ],
+   "year": 2013,
+   "venue": "Econometric Theory",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A Time-series Analysis of the 20th Century Climate Simulations Produced for the IPCC’s AR4",
+   "authors": [
+    "Pierre Perron",
+    "Francisco Estrada",
+    "Carlos Gay-García",
+    "Benjamín Martínez-López"
+   ],
+   "year": 2013,
+   "venue": "PLoS ONE",
+   "status": "已发表",
+   "url": "https://blogs.bu.edu/perron/files/2020/05/PLOS-one-2013-EPGM.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Wald Tests for Detecting Multiple Structural Changes in Persistence",
+   "authors": [
+    "Pierre Perron",
+    "Mohitosh Kejriwal",
+    "Jing Zhou"
+   ],
+   "year": 2013,
+   "venue": "Econometric Theory",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Sampling Interval and Estimated Betas: Implications for the Presence of Transitory Components in Stock Returns",
+   "authors": [
+    "Pierre Perron",
+    "Sungju Chun",
+    "Cosme Vodounou"
+   ],
+   "year": 2013,
+   "venue": "Journal of Empirical Finance",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Comparisons of Robust Tests for Shifts in Trend with an Application to Trend Deviations of Real Exchange Rates in the Long Run",
+   "authors": [
+    "Pierre Perron",
+    "Sungju Chun"
+   ],
+   "year": 2013,
+   "venue": "Applied Economics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A Note on Estimating a Structural Change in Persistence",
+   "authors": [
+    "Pierre Perron",
+    "Mohitosh Kejriwal"
+   ],
+   "year": 2012,
+   "venue": "Economics Letters",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Testing for Trend in the Presence of Autoregressive Error: A Comment",
+   "authors": [
+    "Pierre Perron",
+    "Tomoyoshi Yabu"
+   ],
+   "year": 2012,
+   "venue": "Journal of the American Statistical Association",
+   "status": "已发表",
+   "url": "https://blogs.bu.edu/perron/files/2020/05/JASA-2012-PY-Supp.pdf",
+   "abstract": null
+  },
+  {
+   "title": "On the Irrelevance of Impossibility Theorems: The Case of the Long-run Variance",
+   "authors": [
+    "Pierre Perron",
+    "Linxia Ren"
+   ],
+   "year": 2011,
+   "venue": "Journal of Time Series Econometrics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Testing for Multiple Structural Changes in Cointegrated Regression Models",
+   "authors": [
+    "Pierre Perron",
+    "Mohitosh Kejriwal"
+   ],
+   "year": 2010,
+   "venue": "Journal of Business and Economic Statistics",
+   "status": "已发表",
+   "url": "https://blogs.bu.edu/perron/files/2020/05/cv_eps152025-1.pdf",
+   "abstract": null
+  },
+  {
+   "title": "A Sequential Procedure to Determine the Number of Breaks in Trend with an Integrated or Stationary Noise Component",
+   "authors": [
+    "Pierre Perron",
+    "Mohitosh Kejriwal"
+   ],
+   "year": 2010,
+   "venue": "Journal of Time Series Analysis",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Long-Memory and Level Shifts in the Volatility of Stock Market Return Indices",
+   "authors": [
+    "Pierre Perron",
+    "Zhongjun Qu"
+   ],
+   "year": 2010,
+   "venue": "Journal of Business and Economic Statistics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Modeling and Forecasting Stock Return Volatility Using a Random Level Shift Model",
+   "authors": [
+    "Pierre Perron",
+    "Yang K. Lu"
+   ],
+   "year": 2010,
+   "venue": "Journal of Empirical Finance",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "GLS-based Unit Root Tests with Multiple Structural Breaks under both the Null and the Alternative Hypotheses",
+   "authors": [
+    "Pierre Perron",
+    "Josep Lluís Carrion-i-Silvestre",
+    "Dukpa Kim"
+   ],
+   "year": 2009,
+   "venue": "Econometric Theory",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Let’s Take a Break: Trends and Cycles in U.S. Real GDP",
+   "authors": [
+    "Pierre Perron",
+    "Tatsuma Wada"
+   ],
+   "year": 2009,
+   "venue": "Journal of Monetary Economics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Testing for Shifts in Trend with an Integrated or Stationary Noise Component",
+   "authors": [
+    "Pierre Perron",
+    "Tomoyoshi Yabu"
+   ],
+   "year": 2009,
+   "venue": "Journal of Business and Economic Statistics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Estimating Deterministic Trends with an Integrated or Stationary Noise Component",
+   "authors": [
+    "Pierre Perron",
+    "Tomoyoshi Yabu"
+   ],
+   "year": 2009,
+   "venue": "Journal of Econometrics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Assessing the Relative Power of Structural Break Tests Using a Framework Based on the Approximate Bahadur Slope",
+   "authors": [
+    "Pierre Perron",
+    "Dukpa Kim"
+   ],
+   "year": 2009,
+   "venue": "Journal of Econometrics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Unit Root Tests Allowing for a Break in the Trend Function Under Both the Null and Alternative Hypotheses",
+   "authors": [
+    "Pierre Perron",
+    "Dukpa Kim"
+   ],
+   "year": 2009,
+   "venue": "Journal of Econometrics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Limit Distribution of the Estimates in Cointegrated Regression Models with Multiple Structural Changes",
+   "authors": [
+    "Pierre Perron",
+    "Mohitosh Kejriwal"
+   ],
+   "year": 2008,
+   "venue": "Journal of Econometrics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Data Dependent Rules for Selection of the Number of Leads and Lags in the Dynamic OLS Cointegrating Regression",
+   "authors": [
+    "Pierre Perron",
+    "Mohitosh Kejriwal"
+   ],
+   "year": 2008,
+   "venue": "Econometric Theory",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Limit Distribution of the CUSUM of Squares Test Under General Mixing Conditions",
+   "authors": [
+    "Pierre Perron",
+    "Ai Deng"
+   ],
+   "year": 2008,
+   "venue": "Econometric Theory",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A Non-local Perspective on the Power Properties of the CUSUM and CUSUM of Squares Tests for Structural Change",
+   "authors": [
+    "Pierre Perron",
+    "Ai Deng"
+   ],
+   "year": 2008,
+   "venue": "Journal of Econometrics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Structural Change",
+   "authors": [
+    "Pierre Perron"
+   ],
+   "year": 2008,
+   "venue": "The New Palgrave Dictionary of Economics, 2nd ed. (Palgrave Macmillan)",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A Modified Information Criterion for Cointegration Tests based on a VAR Approximation",
+   "authors": [
+    "Pierre Perron",
+    "Zhongjun Qu"
+   ],
+   "year": 2007,
+   "venue": "Econometric Theory",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Estimating and Testing Multiple Structural Changes in Multivariate Regressions",
+   "authors": [
+    "Pierre Perron",
+    "Zhongjun Qu"
+   ],
+   "year": 2007,
+   "venue": "Econometrica",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A Simple Modification to Improve the Finite Sample Properties of Ng and Perron’s Unit Root Tests",
+   "authors": [
+    "Pierre Perron",
+    "Zhongjun Qu"
+   ],
+   "year": 2007,
+   "venue": "Economics Letters",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A Comparison of Alternative Asymptotic Frameworks to Analyze a Structural Change in a Linear Time Trend",
+   "authors": [
+    "Pierre Perron",
+    "Ai Deng"
+   ],
+   "year": 2006,
+   "venue": "Econometrics Journal",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Estimating Restricted Structural Change Models",
+   "authors": [
+    "Pierre Perron",
+    "Zhongjun Qu"
+   ],
+   "year": 2006,
+   "venue": "Journal of Econometrics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Dealing with Structural Breaks",
+   "authors": [
+    "Pierre Perron"
+   ],
+   "year": 2006,
+   "venue": "Palgrave Handbook of Econometrics, Vol. 1: Econometric Theory (Palgrave Macmillan)",
+   "status": "已发表",
+   "url": "https://blogs.bu.edu/perron/files/2020/05/dealing.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Multiple Structural Change Models: A Simulation Analysis",
+   "authors": [
+    "Pierre Perron",
+    "Jushan Bai"
+   ],
+   "year": 2006,
+   "venue": "Econometric Theory and Practice: Frontiers of Analysis and Applied Research (Cambridge University Press)",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Structural Breaks with Stochastic and Deterministic Trends",
+   "authors": [
+    "Pierre Perron",
+    "Xiaokang Zhu"
+   ],
+   "year": 2005,
+   "venue": "Journal of Econometrics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Variance Ratio Test: An Analysis of Size and Power based on a Continuous Time Asymptotic Framework",
+   "authors": [
+    "Pierre Perron",
+    "Cosme Vodounou"
+   ],
+   "year": 2005,
+   "venue": "Econometric Theory",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A Note on the Selection of Time Series Models",
+   "authors": [
+    "Pierre Perron",
+    "Serena Ng"
+   ],
+   "year": 2005,
+   "venue": "Oxford Bulletin of Economics and Statistics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Tests of Return Predictability: An Analysis of Their Properties based on a Continuous Time Asymptotic Framework",
+   "authors": [
+    "Pierre Perron",
+    "Cosme Vodounou"
+   ],
+   "year": 2004,
+   "venue": "Journal of Empirical Finance",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Critical Values for Multiple Structural Change Tests",
+   "authors": [
+    "Pierre Perron",
+    "Jushan Bai"
+   ],
+   "year": 2003,
+   "venue": "Econometrics Journal",
+   "status": "已发表",
+   "url": "https://blogs.bu.edu/perron/files/2020/05/tab-cv.pdf",
+   "abstract": null
+  },
+  {
+   "title": "GLS Detrending, Efficient Unit Root Tests and Structural Change",
+   "authors": [
+    "Pierre Perron",
+    "Gabriel Rodríguez"
+   ],
+   "year": 2003,
+   "venue": "Journal of Econometrics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Searching for Additive Outliers in Nonstationary Time Series",
+   "authors": [
+    "Pierre Perron",
+    "Gabriel Rodríguez"
+   ],
+   "year": 2003,
+   "venue": "Journal of Time Series Analysis",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Computation and Analysis of Multiple Structural Change Models",
+   "authors": [
+    "Pierre Perron",
+    "Jushan Bai"
+   ],
+   "year": 2003,
+   "venue": "Journal of Applied Econometrics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Statistical Adequacy and the Testing of Trend versus Difference Stationarity: Some Comments",
+   "authors": [
+    "Pierre Perron"
+   ],
+   "year": 2003,
+   "venue": "Econometric Reviews",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "PPP May Not Hold After All: A Further Investigation",
+   "authors": [
+    "Pierre Perron",
+    "Serena Ng"
+   ],
+   "year": 2002,
+   "venue": "Annals of Economics and Finance",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Lag Length Selection and the Construction of Unit Root Tests With Good Size and Power",
+   "authors": [
+    "Pierre Perron",
+    "Serena Ng"
+   ],
+   "year": 2001,
+   "venue": "Econometrica",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Asymptotic Approximations in the Near-Integrated Model with a Non-zero Initial Condition",
+   "authors": [
+    "Pierre Perron",
+    "Cosme Vodounou"
+   ],
+   "year": 2001,
+   "venue": "Econometrics Journal",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A Look at the Quality of the Approximation of the Functional Central Limit Theorem",
+   "authors": [
+    "Pierre Perron",
+    "Sylvie Mallet"
+   ],
+   "year": 2000,
+   "venue": "Economics Letters",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Unit Roots in the Presence of Abrupt Governmental Interventions with an Application to Brazilian Data",
+   "authors": [
+    "Pierre Perron",
+    "Regina C. Cati",
+    "Marcio G.P. Garcia"
+   ],
+   "year": 1999,
+   "venue": "Journal of Applied Econometrics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Additional Tests for a Unit Root Allowing the Possibility of Breaks in the Trend Function",
+   "authors": [
+    "Pierre Perron",
+    "T.J. Vogelsang"
+   ],
+   "year": 1998,
+   "venue": "International Economic Review",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "An Autoregressive Spectral Density Estimator at Frequency Zero for Nonstationarity Tests",
+   "authors": [
+    "Pierre Perron",
+    "Serena Ng"
+   ],
+   "year": 1998,
+   "venue": "Econometric Theory",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Estimating and Testing Linear Models with Multiple Structural Changes",
+   "authors": [
+    "Pierre Perron",
+    "Jushan Bai"
+   ],
+   "year": 1998,
+   "venue": "Econometrica",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "L’estimation de modèles avec changements structurels multiples",
+   "authors": [
+    "Pierre Perron"
+   ],
+   "year": 1997,
+   "venue": "Actualité Économique",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Further Evidence from Breaking Trend Functions in Macroeconomic Variables",
+   "authors": [
+    "Pierre Perron"
+   ],
+   "year": 1997,
+   "venue": "Journal of Econometrics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Estimation and Inference in Nearly Unbalanced Nearly Cointegrated Systems",
+   "authors": [
+    "Pierre Perron",
+    "Serena Ng"
+   ],
+   "year": 1997,
+   "venue": "Journal of Econometrics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Exact Error in Estimating the Spectral Density at the Origin",
+   "authors": [
+    "Pierre Perron",
+    "Serena Ng"
+   ],
+   "year": 1996,
+   "venue": "Journal of Time Series Analysis",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Useful Modifications to Some Unit Root Tests with Dependent Errors and Their Local Asymptotic Properties",
+   "authors": [
+    "Pierre Perron",
+    "Serena Ng"
+   ],
+   "year": 1996,
+   "venue": "Review of Economic Studies",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "An Analysis of the Real Interest Rate under Regime Shifts",
+   "authors": [
+    "Pierre Perron",
+    "René Garcia"
+   ],
+   "year": 1996,
+   "venue": "Review of Economics and Statistics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Adequacy of Asymptotic Approximations in the Near-Integrated Autoregressive Model with Dependent Errors",
+   "authors": [
+    "Pierre Perron"
+   ],
+   "year": 1996,
+   "venue": "Journal of Econometrics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Effect of Linear Filters on Dynamic Time Series with Structural Change",
+   "authors": [
+    "Pierre Perron",
+    "Eric Ghysels"
+   ],
+   "year": 1996,
+   "venue": "Journal of Econometrics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Approximations to Some Exact Distributions in the First Order Autoregressive Model with Dependent Errors",
+   "authors": [
+    "Pierre Perron",
+    "Seiji Nabeya"
+   ],
+   "year": 1995,
+   "venue": "Econometric Reviews",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Unit Root Tests in ARMA Models With Data Dependent Methods for Selection of the Truncation Lag",
+   "authors": [
+    "Pierre Perron",
+    "Serena Ng"
+   ],
+   "year": 1995,
+   "venue": "Journal of the American Statistical Association",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Local Asymptotic Distribution Related to the AR(1) Model with Dependent Errors",
+   "authors": [
+    "Pierre Perron",
+    "Seiji Nabeya"
+   ],
+   "year": 1994,
+   "venue": "Journal of Econometrics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A Note on the Asymptotic Distributions of Unit Root Tests in the Additive Outlier Model with Breaks",
+   "authors": [
+    "Pierre Perron",
+    "T.J. Vogelsang"
+   ],
+   "year": 1993,
+   "venue": "Revista de Econometria",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A Note on Johansen’s Cointegration Procedure when Trends are Present",
+   "authors": [
+    "Pierre Perron",
+    "John Y. Campbell"
+   ],
+   "year": 1993,
+   "venue": "Empirical Economics (special issue)",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Humped Shaped Behavior of Macroeconomic Fluctuations",
+   "authors": [
+    "Pierre Perron"
+   ],
+   "year": 1993,
+   "venue": "Empirical Economics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Racines Unitaires en Macroéconomie: Le Cas d’une Variable",
+   "authors": [
+    "Pierre Perron"
+   ],
+   "year": 1993,
+   "venue": "Actualité Économique",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Effect of Seasonal Adjustment Filters on Tests for a Unit Root",
+   "authors": [
+    "Pierre Perron",
+    "Eric Ghysels"
+   ],
+   "year": 1993,
+   "venue": "Journal of Econometrics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Testing for a Unit Root in a Time Series with a Changing Mean: Corrections and Extensions",
+   "authors": [
+    "Pierre Perron",
+    "T.J. Vogelsang"
+   ],
+   "year": 1992,
+   "venue": "Journal of Business and Economic Statistics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Racines Unitaires en Macroéconomie: Le Cas Multidimensionnel",
+   "authors": [
+    "Pierre Perron",
+    "John Y. Campbell"
+   ],
+   "year": 1992,
+   "venue": "Annales d’Économie et de Statistique",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Limiting Distribution of the Least-Squares Estimator in Nearly Integrated Seasonal Models",
+   "authors": [
+    "Pierre Perron"
+   ],
+   "year": 1992,
+   "venue": "Canadian Journal of Statistics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Nonstationarity and Level Shifts with an Application to Purchasing Power Parity",
+   "authors": [
+    "Pierre Perron",
+    "T.J. Vogelsang"
+   ],
+   "year": 1992,
+   "venue": "Journal of Business and Economic Statistics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Pitfalls and Opportunities: What Macroeconomists Should Know About Unit Roots",
+   "authors": [
+    "Pierre Perron",
+    "John Y. Campbell"
+   ],
+   "year": 1991,
+   "venue": "NBER Macroeconomics Annual",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Test Consistency with Varying Sampling Frequency",
+   "authors": [
+    "Pierre Perron"
+   ],
+   "year": 1991,
+   "venue": "Econometric Theory",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A Continuous Time Approximation to the Stationary First-order Autoregressive Model",
+   "authors": [
+    "Pierre Perron"
+   ],
+   "year": 1991,
+   "venue": "Econometric Theory",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A Continuous Time Approximation to the Unstable First-order Autoregressive Model: the Case Without an Intercept",
+   "authors": [
+    "Pierre Perron"
+   ],
+   "year": 1991,
+   "venue": "Econometrica",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Testing for a Unit Root in a Time Series Regression with a Changing Mean",
+   "authors": [
+    "Pierre Perron"
+   ],
+   "year": 1990,
+   "venue": "Journal of Business and Economic Statistics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Great Crash, the Oil Price Shock and the Unit Root Hypothesis",
+   "authors": [
+    "Pierre Perron"
+   ],
+   "year": 1989,
+   "venue": "Econometrica",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Calculation of the Limiting Distribution of the Least-Squares Estimator in a Near-Integrated Model",
+   "authors": [
+    "Pierre Perron"
+   ],
+   "year": 1989,
+   "venue": "Econometric Theory",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Testing for a Unit Root in Time Series Regression",
+   "authors": [
+    "Pierre Perron",
+    "Peter C.B. Phillips"
+   ],
+   "year": 1988,
+   "venue": "Biometrika",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Trends and Random Walks in Macroeconomic Time Series: Further Evidence from a New Approach",
+   "authors": [
+    "Pierre Perron"
+   ],
+   "year": 1988,
+   "venue": "Journal of Economic Dynamics and Control",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Does GNP Have a Unit Root? A Reevaluation",
+   "authors": [
+    "Pierre Perron",
+    "Peter C.B. Phillips"
+   ],
+   "year": 1987,
+   "venue": "Economics Letters",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Testing the Random Walk Hypothesis: Power versus Frequency of Observation",
+   "authors": [
+    "Pierre Perron",
+    "Robert J. Shiller"
+   ],
+   "year": 1985,
+   "venue": "Economics Letters",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Econometrics, Volume 1: Main Theory and Topics for Cross-Section Data",
+   "authors": [
+    "Pierre Perron"
+   ],
+   "year": 2025,
+   "venue": "World Scientific (book)",
+   "status": "已发表",
+   "url": "https://www.worldscientific.com/worldscibooks/10.1142/14246#t=aboutBook",
+   "abstract": null
+  },
+  {
+   "title": "Econometrics, Volume 2: Topics for Time Series and Large Panel Data",
+   "authors": [
+    "Pierre Perron"
+   ],
+   "year": 2025,
+   "venue": "World Scientific (book)",
+   "status": "已发表",
+   "url": "https://www.worldscientific.com/worldscibooks/10.1142/14247#t=aboutBook",
+   "abstract": null
+  },
+  {
+   "title": "Time Series Econometrics: Volume 1: Unit Roots and Trend Breaks",
+   "authors": [
+    "Pierre Perron"
+   ],
+   "year": 2019,
+   "venue": "World Scientific (edited volume)",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Time Series Econometrics: Volume 2: Structural Change",
+   "authors": [
+    "Pierre Perron"
+   ],
+   "year": 2019,
+   "venue": "World Scientific (edited volume)",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Unit Root and Structural Breaks",
+   "authors": [
+    "Pierre Perron"
+   ],
+   "year": 2018,
+   "venue": "MDPI (edited volume)",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  }
+ ]
+}

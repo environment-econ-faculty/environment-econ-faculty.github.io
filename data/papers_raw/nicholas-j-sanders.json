@@ -1,0 +1,227 @@
+{
+ "slug": "nicholas-j-sanders",
+ "name": "Nicholas J. Sanders",
+ "sources": [
+  "http://njsanders.human.cornell.edu/njsanders/Research.html",
+  "https://njsanders.human.cornell.edu/Sanders_CV.pdf"
+ ],
+ "collected": "2026-10-10",
+ "notes": "From homepage research page and CV (July 2026). No abstracts. Working papers/work in progress listed without drafts were skipped. PNAS opinion piece (listed under non-peer-reviewed in CV) included as a journal item; Econofact/Brookings/SIEPR briefs skipped.",
+ "papers": [
+  {
+   "title": "The Causal Effect of Heat on Violence: Social Implications of Unmitigated Heat Among the Incarcerated",
+   "authors": [
+    "Nicholas J. Sanders",
+    "Anita Mukherjee"
+   ],
+   "year": 2026,
+   "venue": "Journal of Human Resources",
+   "status": "已发表",
+   "url": "https://njsanders.human.cornell.edu/Heat_and_Violence_NBER_w28987.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Toxic Assets: How the Housing Market Responds to Environmental Information Shocks",
+   "authors": [
+    "Nicholas J. Sanders",
+    "Jeremy Moulton",
+    "Scott Wentland"
+   ],
+   "year": 2024,
+   "venue": "Land Economics, 100(3)",
+   "status": "已发表",
+   "url": "https://le.uwpress.org/content/100/1/66",
+   "abstract": null
+  },
+  {
+   "title": "When Externalities Collide: Influenza and Pollution",
+   "authors": [
+    "Nicholas J. Sanders",
+    "Joshua Graff Zivin",
+    "Matthew Neidell",
+    "Gregor Singer"
+   ],
+   "year": 2023,
+   "venue": "American Economic Journal: Applied Economics, 15(2): 320-351",
+   "status": "已发表",
+   "url": "https://www.aeaweb.org/articles?id=10.1257/app.20210500",
+   "abstract": null
+  },
+  {
+   "title": "The Mortality Impact of Fine Particulate Matter in China: Evidence from Trade Shocks",
+   "authors": [
+    "Nicholas J. Sanders",
+    "Yazhen Gong",
+    "Shanjun Li",
+    "Guang Shi"
+   ],
+   "year": 2023,
+   "venue": "Journal of Environmental Economics and Management, 117: 102759",
+   "status": "已发表",
+   "url": "https://njsanders.human.cornell.edu/Pollution_and_Mortality_in_China_JEEM.pdf",
+   "abstract": null
+  },
+  {
+   "title": "A Thousand Cuts: Cumulative Lead Exposure Reduces Academic Achievement",
+   "authors": [
+    "Nicholas J. Sanders",
+    "Alex Hollingsworth",
+    "Mike Huang",
+    "Ivan Rudik"
+   ],
+   "year": 2022,
+   "venue": "Journal of Human Resources",
+   "status": "已发表",
+   "url": "http://jhr.uwpress.org/content/early/2022/10/03/jhr.0222-12169R2.abstract",
+   "abstract": null
+  },
+  {
+   "title": "Adaptation to Environmental Change: Agriculture and the Unexpected Incidence of the Acid Rain Program",
+   "authors": [
+    "Nicholas J. Sanders",
+    "Alan I. Barreca"
+   ],
+   "year": 2022,
+   "venue": "American Economic Journal: Economic Policy, 14(1): 373-401",
+   "status": "已发表",
+   "url": "https://njsanders.human.cornell.edu/Acid_Rain_Crop_Yields_AEJ_EP.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Long-Run Pollution Exposure and Mortality: Evidence from the Acid Rain Program",
+   "authors": [
+    "Nicholas J. Sanders",
+    "Alan I. Barreca",
+    "Matthew Neidell"
+   ],
+   "year": 2021,
+   "venue": "Journal of Public Economics, 200: 104440",
+   "status": "已发表",
+   "url": "https://njsanders.human.cornell.edu/Acid_Rain_Mortality_JPubE.pdf",
+   "abstract": null
+  },
+  {
+   "title": "The Spread of COVID-19 Shows the Importance of Policy Coordination",
+   "authors": [
+    "Nicholas J. Sanders",
+    "Joshua Graff Zivin"
+   ],
+   "year": 2020,
+   "venue": "Proceedings of the National Academy of Sciences, 117(52): 32842-32844",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Technology and the Effectiveness of Regulatory Programs Over Time: Vehicle Emissions and Smog Checks with a Changing Fleet",
+   "authors": [
+    "Nicholas J. Sanders",
+    "Ryan Sandler"
+   ],
+   "year": 2020,
+   "venue": "Journal of the Association of Environmental and Resource Economists, 7(3): 587-618",
+   "status": "已发表",
+   "url": "https://njsanders.human.cornell.edu/Smog_Checks_JAERE.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Estimating Causal Effects of Particulate Matter Regulation on Mortality",
+   "authors": [
+    "Nicholas J. Sanders",
+    "Alan I. Barreca",
+    "Matthew Neidell"
+   ],
+   "year": 2020,
+   "venue": "Epidemiology, 31(2): 160-167",
+   "status": "已发表",
+   "url": "https://njsanders.human.cornell.edu/Particulates_and_Mortality_Epidemiology.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Success is Something to Sneeze At: Influenza Mortality in Cities that Participate in the Super Bowl",
+   "authors": [
+    "Nicholas J. Sanders",
+    "Charles Stoecker",
+    "Alan I. Barreca"
+   ],
+   "year": 2016,
+   "venue": "American Journal of Health Economics, 2(1): 125-143",
+   "status": "已发表",
+   "url": "https://njsanders.human.cornell.edu/Influenza_Super_Bowl_AJHE.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Caution Drivers! Children Present: Traffic, Pollution, and Infant Health",
+   "authors": [
+    "Nicholas J. Sanders",
+    "Christopher R. Knittel",
+    "Douglas L. Miller"
+   ],
+   "year": 2016,
+   "venue": "Review of Economics and Statistics, 98(2): 350-366",
+   "status": "已发表",
+   "url": "https://njsanders.human.cornell.edu/Traffic_RESTAT.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Under the Cover of Darkness: How Ambient Light Influences Criminal Activity",
+   "authors": [
+    "Nicholas J. Sanders",
+    "Jennifer L. Doleac"
+   ],
+   "year": 2015,
+   "venue": "Review of Economics and Statistics, 97(5): 1093-1103",
+   "status": "已发表",
+   "url": "https://njsanders.human.cornell.edu/DST_Crime_RESTAT.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Where Have All the Young Men Gone? Using Sex Ratios to Measure Fetal Death Rates",
+   "authors": [
+    "Nicholas J. Sanders",
+    "Charles Stoecker"
+   ],
+   "year": 2015,
+   "venue": "Journal of Health Economics, 41: 30-45",
+   "status": "已发表",
+   "url": "https://njsanders.human.cornell.edu/Ratios_JHE.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Verifiable and Non-Verifiable Anonymous Mechanisms for Regulating a Polluting Monopolist",
+   "authors": [
+    "Nicholas J. Sanders",
+    "James E. Prieger"
+   ],
+   "year": 2012,
+   "venue": "Journal of Environmental Economics and Management, 64(3): 410-426",
+   "status": "已发表",
+   "url": "https://njsanders.human.cornell.edu/Mechanisms_JEEM.pdf",
+   "abstract": null
+  },
+  {
+   "title": "What Doesn’t Kill You Makes You Weaker: Prenatal Pollution Exposure and Educational Outcomes",
+   "authors": [
+    "Nicholas J. Sanders"
+   ],
+   "year": 2012,
+   "venue": "Journal of Human Resources, 47(3): 826-850",
+   "status": "已发表",
+   "url": "https://njsanders.human.cornell.edu/In_Utero_Pollution_JHR.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Ability, Gender, and Performance Standards: Evidence from Academic Probation",
+   "authors": [
+    "Nicholas J. Sanders",
+    "Jason M. Lindo",
+    "Philip Oreopoulos"
+   ],
+   "year": 2010,
+   "venue": "American Economic Journal: Applied Economics, 2(2): 95-117",
+   "status": "已发表",
+   "url": "https://njsanders.human.cornell.edu/Probation_AEJ_App.pdf",
+   "abstract": null
+  }
+ ]
+}

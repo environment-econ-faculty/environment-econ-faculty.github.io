@@ -1,0 +1,1489 @@
+{
+ "slug": "martin-d-smith",
+ "name": "Martin D. Smith",
+ "sources": [
+  "https://scholars.duke.edu/person/martin.smith/publications",
+  "https://nicholas.duke.edu/sites/default/files/documents/msmith_OCT_2019_cv_1.pdf"
+ ],
+ "collected": "2026-10-10",
+ "notes": "No homepage; CV on file is from Oct 2019, so the main source is the Scholars@Duke profile (current to Aug 2026; per-publication pages, abstracts verbatim where shown). The profile contains ~25 items clearly belonging to other \"M.D. Smith\" authors (surgery, neuroscience, biochemistry, 1960s-70s engineering, shellfish biology); these were removed. Also removed: duplicates, letters, editorials, a book review, a magazine piece, an essay, a conference abstract, and National Academies committee reports. ~150 items on profile, so all remaining research items kept.",
+ "papers": [
+  {
+   "title": "Dietary DNA in municipal wastewater reveals signatures of wealth, immigration, and coastal proximity",
+   "authors": [
+    "M Dong",
+    "TJ Clerkin",
+    "S Jiang",
+    "N Ives",
+    "OW Osborne",
+    "M Kirtley",
+    "AE Bauer",
+    "KY Anderson",
+    "Martin D. Smith",
+    "RT Noble",
+    "LA David"
+   ],
+   "year": 2026,
+   "venue": "Proc Natl Acad Sci U S A",
+   "status": "已发表",
+   "url": "https://doi.org/10.1073/pnas.2530704123",
+   "abstract": "Public health nutrition lacks scalable, objective tools for real-time dietary surveillance. We developed FoodSeq-FLOW (Food Landscape Observation in Wastewater), a genomic platform that sequences chloroplast trnL and mitochondrial 12SV5 DNA in municipal wastewater. Across 183 samples from 21 North Carolina wastewater treatment plants serving 2.1 million people, we detected 184 plant and 116 animal food taxa at a cost of"
+  },
+  {
+   "title": "Large and small can be beautiful in fisheries and aquaculture",
+   "authors": [
+    "F Asche",
+    "Martin D. Smith"
+   ],
+   "year": 2026,
+   "venue": "ICES Journal of Marine Science",
+   "status": "已发表",
+   "url": "https://doi.org/10.1093/icesjms/fsag092",
+   "abstract": "Many studies in fisheries and aquaculture begin with the premise that small is beautiful, while large is problematic. That is, large fishing vessels, large aquaculture farms, and large seafood companies as well as global markets undermine environmental, economic, and social sustainability in the seafood sector. However, there is limited evidence to support this sweeping generalization. In this paper, we look closer at the thesis that small is beautiful (and the complementary claim that large is not) using literature on economic and social status of fisheries and aquaculture primarily from the last three decades. We find that healthy fish stocks and environmental sustainability in general are independent of scale but highly dependent on governance. Our findings are similar with respect to economic and social sustainability, as different opportunities and resources are best utilized using suitable approaches with varying scales, and poor outcomes are associated with small as well as large sizes. As such, studies that start with a preference for any size are likely to overlook valuable perspectives and solutions."
+  },
+  {
+   "title": "The Impact of Imports on Domestic US Shrimp Prices",
+   "authors": [
+    "F Asche",
+    "A Oglend",
+    "Martin D. Smith"
+   ],
+   "year": 2026,
+   "venue": "Marine Resource Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1086/739083",
+   "abstract": "The US seafood market has fundamentally changed during the last three decades. Stable landings and increasing demand have led to a rapid increase in imports—79% of domestic seafood consumption is estimated to come from imports. Despite several policies supporting vulnerable coastal communities, little attention has been given to the impact of imports on prices obtained by domestic producers. Here we investigate the impact of imports on domestic prices for shrimp, a fishery that in the 1980s was the most valuable in the US, but that has seen real landed values decline by one-half since then. Using cointegration analysis, we show that domestic prices closely track those of “shell-on frozen” imports, indicating that import competition largely drives this trend and that domestic US prices are now set in the global market. A similar market structure is likely to be present for other species facing strong import competition."
+  },
+  {
+   "title": "Mathematical Bio-Economics 2.0 for Sustainable Fisheries",
+   "authors": [
+    "L Doyen",
+    "Martin D. Smith",
+    "UR Sumaila",
+    "G Zaccour",
+    "I Ekeland",
+    "P Cury",
+    "C Lett",
+    "O Thébaud",
+    "JC Poggiale",
+    "A Moussaoui",
+    "JM Fromentin",
+    "S ... Gourguet"
+   ],
+   "year": 2025,
+   "venue": "Natural Resource Modeling",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/nrm.70013",
+   "abstract": "Reconciling food security, economic development, and biodiversity conservation in the face of global changes is a major challenge. The sustainable uses of marine biodiversity in the context of climate change, invasive species, water pollution, and demographic growth is an example of this bio-economic challenge. There is a need for quantitative methods, models, scenarios, and indicators to support policies addressing this issue. Although bio-economic models for marine resources date back to the 1950s and are still used in fisheries management and policy design, they need major improvements, extensions, and breakthroughs. This paper proposes to design a Mathematical Bio-Economics 2.0 (MBE2) for Sustainable Fisheries to advance the development of bio-economic models and scenarios for the management of fisheries and marine ecosystems confronted with unprecedented global change. These models and scenarios should make both ecological and socioeconomic sense while being well-posed mathematically and numerically. To achieve this, we propose to base the MBE2 framework for Sustainable Fisheries on four research axes regarding the mathematics and modeling of: (i) ecosystem-based fisheries management; (ii) criteria of sustainability; (iii) criteria of resilience; and (iv) governance and strategic interactions. The associated methodology of MBE2 draws mainly on dynamic systems theory, optimal and viable controls of systems, game theory, and stochastic approaches. Our analysis, which is based on these four axes, allows us to identify the main methodological gaps to fill compared to current models for fisheries management."
+  },
+  {
+   "title": "The global seafood trade, embodied nutrients, and nutritional affordability",
+   "authors": [
+    "Y Liu",
+    "Martin D. Smith",
+    "JK Abbott",
+    "D Dietz",
+    "D Colson Leaning",
+    "A Smyth",
+    "T Yamashita"
+   ],
+   "year": 2025,
+   "venue": "Nature communications",
+   "status": "已发表",
+   "url": "https://doi.org/10.1038/s41467-025-61012-9",
+   "abstract": "Globalization of seafood markets raises concerns about nutritional insecurity, as developing countries export nutrient-dense seafood to developed countries. However, imported seafood may offset nutritional losses from exports. Developing countries import seafood with low prices relative to developed countries, raising questions of whether low-price imports provide less nutrition and contribute to nutritional insecurity. We construct a dataset connecting country-level seafood trade flows to product-specific data on nutrient concentrations to investigate how the seafood trade affects nutritional affordability. We compare nutrient density per dollar in imported seafood. Across three macronutrients and six micronutrients and using six distinct classifications of development status, we consistently find that developing countries pay lower prices for nutrition in imported seafood than developed countries. We show that the nutritional bargain for developing countries partly reflects differences in the non-nutritional characteristics of seafood imports between developed and developing countries, including the extent of processing and product form."
+  },
+  {
+   "title": "Existing seafood traceability tools are insufficient for enforcing import restrictions",
+   "authors": [
+    "JA Gephart",
+    "P Maxson",
+    "J Simeone",
+    "R Agrawal Bejarano",
+    "CM Anderson",
+    "F Asche",
+    "J Barnes",
+    "L Hauser",
+    "DC Love",
+    "T Mallory",
+    "Martin D. Smith"
+   ],
+   "year": 2025,
+   "venue": "Npj Ocean Sustainability",
+   "status": "已发表",
+   "url": "https://doi.org/10.1038/s44183-025-00103-y",
+   "abstract": "Traceability is critical for achieving seafood sustainability goals. However, trade restrictions highlight challenges for identifying basic information, including country of harvest. We use new seafood trade data to illustrate how trade can elude enforcement using the case of responses following Russian sanctions and quantify pathways through which the US imports Russian-harvested products. We then discuss the current policy landscape for enforcing trade restrictions and highlight priorities for improving seafood traceability."
+  },
+  {
+   "title": "Biological control of a parasite: The efficacy of cleaner fish in salmon farming",
+   "authors": [
+    "RBM Pincinato",
+    "A Oglend",
+    "Martin D. Smith",
+    "F Asche"
+   ],
+   "year": 2025,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.ecolecon.2024.108359",
+   "abstract": "Managing pathogens is a challenge in biological production processes. To manage private risks and reduce externalities, biological controls leverage the technology of natural ecosystems and are often considered environmentally friendly alternatives to chemical controls. In salmon farming, parasitic sea lice reduce own-firm profitability by stressing fish and slowing growth and generate externalities by spreading to neighboring farms and threatening wild fish populations. Cleaner fish are a form of biological control based on ecological interaction that can be used instead of chemical control of sea lice, but little is known about their efficacy and value in commercial use. We estimate efficacy of cleaner fish using facility-level data. To identify exogenous variation in cleaner fish usage, we instrument site-level cleaner fish stocks using distance to cleaner fish farm with a commercial license. Cleaner fish use significantly reduces likelihood of sea lice levels exceeding regulatory threshold levels. Combining efficacy estimates with cost data and a structural model, we provide estimates of cost-effectiveness. Our results show that cleaner fish are privately cost-effective, which is consistent with high levels of adoption. However, cost-effectiveness also suggests that policy could encourage even more adoption of biological controls to reduce externalities."
+  },
+  {
+   "title": "Economic gains from individual fishing quotas: The Norwegian coastal groundfish fisheries",
+   "authors": [
+    "Y Liu",
+    "RBM Pincinato",
+    "F Asche",
+    "Martin D. Smith",
+    "F Ventura"
+   ],
+   "year": 2024,
+   "venue": "Journal of the Agricultural and Applied Economics Association",
+   "status": "已发表",
+   "url": "https://doi.org/10.1002/jaa2.122",
+   "abstract": "Many rights-based systems in fisheries use individual fishing quotas (IFQs) that allocate shares of total allowable catch to individual fishers, vessels, or groups of fishers. We analyze the performance of IFQs in the Norwegian coastal groundfish fisheries that substantially limit transferability. We use data from two similar fishing groups that were treated with different management. Difference-in-differences results show that IFQs increase productivity and prices for some of the main groundfish species. Results suggest that expected productivity gains and price gains from first-best rights-based policies that create highly transferable IFQs can result from second-best policies that substantially limit transferability."
+  },
+  {
+   "title": "Non-parametric tests of behavior in the commons",
+   "authors": [
+    "HS Banzhaf",
+    "Y Liu",
+    "Martin D. Smith",
+    "F Asche"
+   ],
+   "year": 2024,
+   "venue": "Journal of Economic Behavior and Organization",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jebo.2024.06.019",
+   "abstract": "Commons problems present behavioral dilemmas, with tensions between individual and collective rationality. When users of a common-pool resource are not effectively excluded, the collective behavior of individuals pursuing their self-interests dissipates economic surplus. We derive a non-parametric test of whether individuals' collective behavior in resource extraction is consistent with the canonical commons model, namely Nash tragedy-of-the-commons behavior. Our approach allows for an arbitrarily concave, differentiable production function of total inputs and for heterogeneous agents with arbitrarily convex, differentiable costs of supplying inputs. We extend the test to allow for unobserved total output. We also define distance from the data to the model and develop statistical tests using the distance metric. Applying our approach to panel data of Norwegian commercial fishing vessels, we find the results of our test are consistent with the economic intuition that, in the absence of property rights, tragedy-of-the-commons behavior dissipates surplus. Significantly, we find property rights reforms move firms away from Nash tragedy-of-the-commons behavior."
+  },
+  {
+   "title": "Counterfactual Modeling of Multispecies Fisheries Outcomes under Market-Based Regulation",
+   "authors": [
+    "AM Birkenbach",
+    "MY Lee",
+    "Martin D. Smith"
+   ],
+   "year": 2024,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "https://doi.org/10.1086/727356",
+   "abstract": "Much of the recent work evaluating economic impacts of rights-based management (“catch shares”) in fisheries relies on treatment effects models, which typically identify net effects of the policy change but not underlying causal mechanisms. We develop a structural discrete choice model of individual vessel behavior to elucidate how catch shares—and the policies that they replace—influence species targets, timing of fishing activity, and the value generated from the resource. We estimate our model using trip-level data on 286 New England groundfish vessels before and after catch-share implementation. Controlling for weather, costs, and prices, we recover structural parameters characterizing microlevel targeting decisions and simulate the effects of removing input controls and replacing them with catch shares. We find that, under catch shares, the fleet experienced longer and more even fishing seasons, somewhat higher groundfish revenues, fewer closures, and a more balanced portfolio of target stocks than in the counterfactual."
+  },
+  {
+   "title": "Price volatility in fish food systems: spatial arbitrage as an adaptive strategy for small-scale fish traders",
+   "authors": [
+    "ED Rice",
+    "AE Bennett",
+    "Martin D. Smith",
+    "LSO Liverpool-Tasie",
+    "SP Katengeza",
+    "DM Infante",
+    "DL Tschirley"
+   ],
+   "year": 2024,
+   "venue": "Ecology and Society",
+   "status": "已发表",
+   "url": "https://doi.org/10.5751/ES-15076-290213",
+   "abstract": "Anthropogenic stressors such as land-use change, habitat degradation, and climate change stress inland fish populations globally. Such ecological disturbances can affect actors throughout the social-ecological system by contributing to uncertainty in landings, landing prices, and coastal incomes. Most literature to date on the resilience of the fishing sector has focused on fishing (production), fisheries management, and the livelihoods of fishers, whereas little attention has been paid to the post-harvest sector and the livelihoods of fish processors, logistics providers, wholesalers, and retailers. In the empirical case of the small-scale usipa (Engraulicypris sardella) trade in Malawi, we investigated the impacts of price volatility, a form of uncertainty, on small-scale fish retailers’ livelihood outcomes. By concentrating on fish retailers in the downstream region of the value chain, we provide new insight into how small-scale fisheries actors in the broader fish food system experience and adapt to uncertainty. We find that price volatility negatively impacts net income for retailers, and that an important adaptive strategy is spatial arbitrage. However, gender dynamics and access to capital limit retailers’ ability to employ the spatial arbitrage adaptive strategy."
+  },
+  {
+   "title": "Policy and market forces delay real estate price declines on the US coast",
+   "authors": [
+    "DE McNamara",
+    "Martin D. Smith",
+    "Z Williams",
+    "S Gopalakrishnan",
+    "CE Landry"
+   ],
+   "year": 2024,
+   "venue": "Nature communications",
+   "status": "已发表",
+   "url": "https://doi.org/10.1038/s41467-024-46548-6",
+   "abstract": "Despite increasing risks from sea-level rise (SLR) and storms, US coastal communities continue to attract relatively high-income residents, and coastal property values continue to rise. To understand this seeming paradox and explore policy responses, we develop the Coastal Home Ownership Model (C-HOM) and analyze the long-term evolution of coastal real estate markets. C-HOM incorporates changing physical attributes of the coast, economic values of these attributes, and dynamic risks associated with storms and flooding. Resident owners, renters, and non-resident investors jointly determine coastal property values and the policy choices that influence the physical evolution of the coast. In the coupled system, we find that subsidies for coastal management, such as beach nourishment, tax advantages for high-income property owners, and stable or increasing property values outside the coastal zone all dampen the effects of SLR on coastal property values. The effects, however, are temporary and only delay precipitous declines as total inundation approaches. By removing subsidies, prices would more accurately reflect risks from SLR but also trigger more coastal gentrification, as relatively high-income owners enter the market and self-finance nourishment. Our results suggest a policy tradeoff between slowing demographic transitions in coastal communities and allowing property markets to adjust smoothly to risks from climate change."
+  },
+  {
+   "title": "Unraveling complex causal processes that affect sustainability requires more integration between empirical and modeling approaches",
+   "authors": [
+    "M Schlüter",
+    "C Brelsford",
+    "PJ Ferraro",
+    "K Orach",
+    "M Qiu",
+    "Martin D. Smith"
+   ],
+   "year": 2023,
+   "venue": "Proceedings of the National Academy of Sciences of the United States of America",
+   "status": "已发表",
+   "url": "https://doi.org/10.1073/pnas.2215676120",
+   "abstract": "Scientists seek to understand the causal processes that generate sustainability problems and determine effective solutions. Yet, causal inquiry in nature-society systems is hampered by conceptual and methodological challenges that arise from nature-society interdependencies and the complex dynamics they create. Here, we demonstrate how sustainability scientists can address these challenges and make more robust causal claims through better integration between empirical analyses and process- or agent-based modeling. To illustrate how these different epistemological traditions can be integrated, we present four studies of air pollution regulation, natural resource management, and the spread of COVID-19. The studies show how integration can improve empirical estimates of causal effects, inform future research designs and data collection, enhance understanding of the complex dynamics that underlie observed temporal patterns, and elucidate causal mechanisms and the contexts in which they operate. These advances in causal understanding can help sustainability scientists develop better theories of phenomena where social and ecological processes are dynamically intertwined and prior causal knowledge and data are limited. The improved causal understanding also enhances governance by helping scientists and practitioners choose among potential interventions, decide when and how the timing of an intervention matters, and anticipate unexpected outcomes. Methodological integration, however, requires skills and efforts of all involved to learn how members of the respective other tradition think and analyze nature-society systems."
+  },
+  {
+   "title": "Economics of Aquatic Foods: Combining Bioeconomics and Market Analysis to Inform Regulations That Deliver Value",
+   "authors": [
+    "Martin D. Smith"
+   ],
+   "year": 2023,
+   "venue": "Marine Resource Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1086/726026",
+   "abstract": "Bioeconomic modeling and seafood market analysis both have rich intellectual traditions that have contrib-uted insights to understanding the economics of aquatic foods. This paper argues that these traditions, which developed mostly in parallel, should be combined more purposefully to understand management problems in fisheries and aquaculture. First, modeling the feedback between economic incentives and biological mecha-nisms is essential for avoiding management failure, and prices provide important incentives. Second, the form of management affects opportunities to generate value, influencing patterns of exploitation and the types of products that come from fishery resources. Third, price incentives in fisheries and responses to management depend on market context, including competition with aquaculture. By combining these insights with a modern empirical focus on counterfactuals, including both reduced-form and structural modeling approaches to causal inference, economists can inform policy and help to deliver a wide range of values from the production and consumption of aquatic foods."
+  },
+  {
+   "title": "Do Catch Shares Increase Prices? Evidence from US Fisheries",
+   "authors": [
+    "AM Birkenbach",
+    "DJ Kaczan",
+    "Martin D. Smith",
+    "G Ardini",
+    "DS Holland",
+    "MY Lee",
+    "D Lipton",
+    "MD Travis"
+   ],
+   "year": 2023,
+   "venue": "Marine Resource Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1086/725010",
+   "abstract": "Rights-based management of fishery resources theoretically allows firms to minimize the cost of extraction without the threat that other harvesters will take their allocations, but added flexibility also allows firms to exploit revenue margins such that firms balance potential revenue gains with potential cost savings. Using two approaches, difference-in-differences with an index of seafood prices and synthetic control, we test for revenue gains in 39 US fisheries that adopted market-based regulations and find mixed evidence of price increases. Species with price increases tend to have viable fresh markets or other features that discourage gluts, whereas species with price decreases plausibly have more to gain on the cost side or are part of a multispecies complex with a higher-value species experiencing a price increase."
+  },
+  {
+   "title": "Buyouts with rentbacks: a policy proposal for managing coastal retreat",
+   "authors": [
+    "AG Keeler",
+    "M Mullin",
+    "DE McNamara",
+    "Martin D. Smith"
+   ],
+   "year": 2022,
+   "venue": "Journal of Environmental Studies and Sciences",
+   "status": "已发表",
+   "url": "https://doi.org/10.1007/s13412-022-00762-0",
+   "abstract": "The discussion of adaptation to climate change in coastal areas has focused on short-term risk reduction and climate-proofing, but there is growing recognition that—at some point in the future—relocation to less vulnerable geographical areas will become necessary for large numbers of residents in many coastal communities. Spontaneous relocations that occur after catastrophic events can entail high costs, both for those who resettle elsewhere and for the remaining community. Managed retreat attempts to reduce such costs, thereby facilitating the relocation process. Property buyouts, the most prominently discussed policy tool for managed retreat, present significant challenges in terms of equity, timing, finance, and scale. We discuss innovation in buyout policy that allows residents to remain in their homes as renters after being bought out. We develop the basic structure of such a policy and show the pathways through which it can help to finance buyouts, harmonize public and private decision-making, and manage the timing of community transition. We also recommend funding mechanisms and other details to overcome the substantial barriers to implementation. Although buyouts with rentbacks will require institutional innovation in order to serve as an effective policy framework, the policy has the potential to improve social, economic, and environmental outcomes from the eventual unfortunate but necessary migration away from coastal areas."
+  },
+  {
+   "title": "Global insights on managing fishery systems for the three pillars of sustainability",
+   "authors": [
+    "T Garlock",
+    "JL Anderson",
+    "F Asche",
+    "Martin D. Smith",
+    "E Camp",
+    "J Chu",
+    "K Lorenzen",
+    "S Vannuccini"
+   ],
+   "year": 2022,
+   "venue": "Fish and Fisheries",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/faf.12660",
+   "abstract": "There is growing recognition that fisheries should be managed for all three pillars of sustainability: economic, social and environmental sustainability. Limited quantitative evidence exists on factors supporting social sustainability, much less factors that contribute to multiple dimensions of sustainability. To develop a broader understanding of the factors that influence the performance of fishery management systems in environmental, economic and social pillars, we examine 11 input factors conjectured to contribute to successful fisheries using a global dataset of 145 fisheries case studies. The analysis indicates that management approaches are cross-cutting and contribute to multiple dimensions of sustainability to varying extents. Importantly, factors exogenous to fisheries management can be as important as fisheries management, suggesting collaboration of fisheries institutions with other public and private institutions is important for sustainable fisheries development."
+  },
+  {
+   "title": "Discrete Choice Modeling of Fishers’ Landing Locations",
+   "authors": [
+    "AM Birkenbach",
+    "AL Cojocaru",
+    "Martin D. Smith",
+    "F Asche"
+   ],
+   "year": 2022,
+   "venue": "Marine Resource Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1086/719929",
+   "abstract": "Commercial fishing decisions about where to land and sell catches have important efficiency and distributional implications for fishing communities. Unlike fishing location choices, landing locations choices have received little attention. We develop a model of fishers’ landing sites in northern Norway. While fishers are highly responsive to travel distance, we find that expected revenues are a lesser driver of landing location choices. Rather, choices are dominated by strong state dependence, and most vessels always land at the same port. These results suggest that economic policies designed to redistribute landings in order to aid certain communities would not necessarily draw fishers away from their preferred landing sites. On the other hand, the responsiveness of some fishers to intraseasonal stock movements offers a glimpse of how climate change could reshape the spatial equilibria of landings and seafood production in years to come."
+  },
+  {
+   "title": "The “Seafood” System: Aquatic Foods, Food Security, and the Global South",
+   "authors": [
+    "AL Cojocaru",
+    "Y Liu",
+    "Martin D. Smith",
+    "W Akpalu",
+    "C Chávez",
+    "MM Dey",
+    "J Dresdner",
+    "V Kahui",
+    "RBM Pincinato",
+    "N Tran"
+   ],
+   "year": 2022,
+   "venue": "Review of Environmental Economics and Policy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1086/721032",
+   "abstract": "The global seafood system includes three interconnected sectors: commercial capture (or wild-caught) fisheries, recreational and subsistence fisheries, and aquaculture (or farmed seafood). The three sector-focused articles in this symposium review production externalities within and between sectors and between the seafood system and the broader natural environment. Building on the insights from these articles, we discuss seafood as part of an integrated food system and examine both seafood supply and demand. We assess possible tensions between environmental sustainability and food security with an emphasis on the Global South. We examine the inconsistent application of market mechanisms to allocate resources across user groups; highlight governance challenges that are especially pronounced in the Global South; discuss the role of subsistence and poverty alleviation in seafood production; identify sources of demand heterogeneity that are critical to understanding the future of seafood, including the impact of culture; and evaluate concerns about the international seafood trade through an economic lens. We discuss nutritional security in detail, focusing on how product attributes such as micro- and macronutrients that are intrinsically bundled (not purchasable separately) could exacerbate inequality and/or lead to nutritional externalities. We conclude by identifying needs for future research, technological innovation, and governance innovation."
+  },
+  {
+   "title": "Aquaculture: Externalities and Policy Options",
+   "authors": [
+    "F Asche",
+    "H Eggert",
+    "A Oglend",
+    "A Cathy Roheim",
+    "Martin D. Smith"
+   ],
+   "year": 2022,
+   "venue": "Review of Environmental Economics and Policy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1086/721055",
+   "abstract": null
+  },
+  {
+   "title": "China's seafood imports-Not for domestic consumption?",
+   "authors": [
+    "F Asche",
+    "B Yang",
+    "JA Gephart",
+    "Martin D. Smith",
+    "JL Anderson",
+    "EV Camp",
+    "TM Garlock",
+    "DC Love",
+    "A Oglend",
+    "H-M Straume"
+   ],
+   "year": 2022,
+   "venue": "Science (New York, N.Y.)",
+   "status": "已发表",
+   "url": "https://doi.org/10.1126/science.abl4756",
+   "abstract": null
+  },
+  {
+   "title": "Global markets and the commons: The role of imports in the US wild-caught shrimp market",
+   "authors": [
+    "F Asche",
+    "A Oglend",
+    "Martin D. Smith"
+   ],
+   "year": 2022,
+   "venue": "Environmental Research Letters",
+   "status": "已发表",
+   "url": "https://doi.org/10.1088/1748-9326/ac5b3e",
+   "abstract": "The commons literature focuses heavily on rules and the behavior of resource users but places less emphasis on the returns to individual effort. However, for most resource settings, market conditions and associated resource prices are key drivers of exploitation effort. In a globalized world, import competition can strongly influence the incentives for individual resource users, a topic largely unexplored in the commons literature. Import competition is especially salient for seafood, one of the most internationally traded food groups. We analyze the US shrimp market, which was once dominated by domestic catches but is now mostly supplied by imports. For domestic producers (users of the commons), lower revenues result, while US consumers eat more shrimp at lower prices. Globalization changed the sources of price risk and compensation that domestic producers face and altered incentives to exploit the commons. In a market dominated by domestic supply shocks, the price response to a shock moderates the effect on revenue and effort. In a market dominated by imports, domestic shocks are buffered by import adjustments, while price movements are determined by global shocks. Despite losses for the domestic fishery, globalization creates new incentives to coordinate effort and capture price premiums determined in the global market."
+  },
+  {
+   "title": "Implications of new technologies for future food supply systems",
+   "authors": [
+    "S Asseng",
+    "CA Palm",
+    "JL Anderson",
+    "L Fresco",
+    "PA Sanchez",
+    "F Asche",
+    "TM Garlock",
+    "J Fanzo",
+    "Martin D. Smith",
+    "G Knapp",
+    "A Jarvis",
+    "A ... Adesogan"
+   ],
+   "year": 2021,
+   "venue": "Journal of Agricultural Science",
+   "status": "已发表",
+   "url": "https://doi.org/10.1017/S0021859621000836",
+   "abstract": "The combination of advances in knowledge, technology, changes in consumer preference and low cost of manufacturing is accelerating the next technology revolution in crop, livestock and fish production systems. This will have major implications for how, where and by whom food will be produced in the future. This next technology revolution could benefit the producer through substantial improvements in resource use and profitability, but also the environment through reduced externalities. The consumer will ultimately benefit through more nutritious, safe and affordable food diversity, which in turn will also contribute to the acceleration of the next technology. It will create new opportunities in achieving progress towards many of the Sustainable Development Goals, but it will require early recognition of trends and impact, public research and policy guidance to avoid negative trade-offs. Unfortunately, the quantitative predictability of future impacts will remain low and uncertain, while new chocks with unexpected consequences will continue to interrupt current and future outcomes. However, there is a continuing need for improving the predictability of shocks to future food systems especially for ex-ante assessment for policy and planning."
+  },
+  {
+   "title": "Making sense of firms for ocean governance",
+   "authors": [
+    "E Havice",
+    "LM Campbell",
+    "L Campling",
+    "Martin D. Smith"
+   ],
+   "year": 2021,
+   "venue": "One Earth",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.oneear.2021.04.022",
+   "abstract": "Attention to firms in the ocean economy is growing as oceans face rapid ecological change as well as surges in investment and governance efforts under a “blue economy” paradigm. Concepts and methods that can “make sense” of firms and their positioning within value chains are essential for scholars seeking to inform a more sustainable ocean future."
+  },
+  {
+   "title": "Implications of disease in shrimp aquaculture for wild-caught shrimp",
+   "authors": [
+    "T Petesch",
+    "B Dubik",
+    "Martin D. Smith"
+   ],
+   "year": 2021,
+   "venue": "Marine Resource Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1086/712993",
+   "abstract": "We investigate whether supply shocks in shrimp aquaculture caused by disease increase prices of wild-caught shrimp in the US Gulf of Mexico, using Gulf prices and US shrimp imports from Ecuador, Thailand, and Indonesia. Many studies have shown that shrimp markets are cointegrated, meaning relative prices tend not to diverge substantially or for long periods. We also find cointegration, and we evaluate a vector error correction model for structural breaks to determine whether the most significant changes in the price relationships coincide with the timing of disease crises in aquaculture. Gulf prices fell steadily throughout the early 2000s because of innovations in shrimp aquaculture, however, early mortality syndrome (EMS) caused a major disruption in aquaculture starting around 2011. Our results indicate that EMS may have precipitated a disturbance to the long-run relationship of our prices, suggesting that disease may have offered temporary benefits to the US shrimp fishery."
+  },
+  {
+   "title": "An Age-Structured Backward-Bending Supply of Fish: Implications for Conservation of Bluefin Tuna",
+   "authors": [
+    "Q Li",
+    "J Bronnmann",
+    "R Karasik",
+    "MF Quaas",
+    "Martin D. Smith"
+   ],
+   "year": 2021,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "https://doi.org/10.1086/711225",
+   "abstract": "We develop a bioeconomic model to analyze the long-run supply of fish and find that steady-state supply can have multiple bends in an age-structured setting. We parameterize the model using data for the Eastern stock of Atlantic Bluefin tuna dur-ing the predominantly open-access period (1950–2006). The numerical Bluefin supply curve bends backward just once and at a price below the current ex-vessel price and far below historic real prices from the 1990s. Reestimating the model using data through 2015 to account for new management and allowing for cost changes finds that the current backward-bending price is far above the current market price. The results suggest that market developments that lower price, including growth in closed-cycle aquaculture, can influence the stock condition. However, strengthening management in the mid-2000s was necessary to keep the fishery from operating on the backward-bending portion of supply in the long run."
+  },
+  {
+   "title": "Fishery collapse revisited",
+   "authors": [
+    "Q Li",
+    "Martin D. Smith"
+   ],
+   "year": 2021,
+   "venue": "Marine Resource Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1086/711233",
+   "abstract": "Fishery collapse has been defined as a fishery with annual landings less than 10% of the historic maximum observed catch. However, this 10% rule is not grounded in bioeconomic theory despite being widely used in empirical economic studies of fisheries. We assess the 10% rule by simulating fisheries under pure open access, open access with cost changes, open access with critical depensation, optimal management (both deterministic and stochastic cases), and rebuilding plans. We show that the 10% rule generates false negatives and false positives, and that the prevalence of these problems varies under different institutional configurations, economic incentives, and biological conditions. We urge researchers to abandon this outcome measure for comparative empirical tests and encourage more research on collapse that attends to human agency and institutions."
+  },
+  {
+   "title": "Recognize Fish as Food in Policy Discourse and Development Funding",
+   "authors": [
+    "Martin D. Smith",
+    "et al."
+   ],
+   "year": 2021,
+   "venue": "Ambio",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Integration of a local fish market in Namibia with the global seafood trade: Implications for fish traders and sustainability",
+   "authors": [
+    "J Bronnmann",
+    "Martin D. Smith",
+    "J Abbott",
+    "CJ Hay",
+    "TF Næsje"
+   ],
+   "year": 2020,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.worlddev.2020.105048",
+   "abstract": "Within the last decades, globalization has changed the international seafood trade, allowing low-income countries to access markets in high-income countries and vice versa. Nevertheless, the effects of globalization are controversial and in particular the impacts on small-scale fishers and local fish traders are unclear. This paper examines the economic effects of globalization on a local fish market in Katima Mulilo, Namibia along the Zambezi River and near the border with Zambia. Using market data from January 2008 to December 2016, we test two hypotheses. First, we test if the local market is integrated with global markets. Second, we test whether local prices are increasing and associated with positive terms of trade. Using time series methods and hedonic models, results show that the Katima market is linked to the world market, and local fish traders receive higher prices over time as predicted by an increasingly globalized seafood trade."
+  },
+  {
+   "title": "Seasonal Harvest Patterns in Multispecies Fisheries",
+   "authors": [
+    "AM Birkenbach",
+    "AL Cojocaru",
+    "F Asche",
+    "AG Guttormsen",
+    "Martin D. Smith"
+   ],
+   "year": 2020,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1007/s10640-020-00402-7",
+   "abstract": "Fishers face multidimensional decisions: when to fish, what species to target, and how much gear to deploy. Most bioeconomic models assume single-species fisheries with perfectly elastic demand and focus on inter-seasonal dynamics. In real-world fisheries, vessels hold quotas for multiple species with heterogeneous biological and/or market conditions that vary intra-seasonally. We analyze within-season behavior in multispecies fisheries with individual fishing quotas, accounting for stock aggregations, capacity constraints, and downward-sloping demand. Numerical results demonstrate variation in harvest patterns. We specifically find: (1) harvests for species with downward-sloping demand tend to spread out; (2) spreading harvest of a high-value species can cause lower-value species to be harvested earlier in the season; and (3) harvest can be unresponsive or even respond negatively to biological aggregation when fishers balance incentives in multispecies settings. We test these using panel data from the Norwegian multispecies groundfish fishery and find evidence for all three. We extend the numerical model to account for transitions to management with individual fishing quotas in multispecies fisheries. We show that, under some circumstances, fishing seasons could contract or spread out."
+  },
+  {
+   "title": "A Global Blue Revolution: Aquaculture Growth Across Regions, Species, and Countries",
+   "authors": [
+    "T Garlock",
+    "F Asche",
+    "J Anderson",
+    "T Bjørndal",
+    "G Kumar",
+    "K Lorenzen",
+    "A Ropicki",
+    "Martin D. Smith",
+    "R Tveterås"
+   ],
+   "year": 2020,
+   "venue": "Reviews in Fisheries Science and Aquaculture",
+   "status": "已发表",
+   "url": "https://doi.org/10.1080/23308249.2019.1678111",
+   "abstract": "Discussions about global aquaculture production and prospects for future growth largely focus on Asia, where most global production takes place. Countries in Asia accounted for about 89% of global production in 2016. Exclusive attention to Asian aquaculture, however, overlooks the fact that “the blue revolution” is occurring in most parts of the world. This paper examines patterns in the development of aquaculture production by analyzing growth rates across the globe at the regional, species and country levels. The results show that production in some non-Asian countries is growing more rapidly than the major Asian producers. Moreover, most developed countries have played a limited role in the blue revolution despite being leading producers as late as the 1970s."
+  },
+  {
+   "title": "Subsidies, efficiency, and fairness in fisheries policy",
+   "authors": [
+    "Martin D. Smith"
+   ],
+   "year": 2019,
+   "venue": "Science (New York, N.Y.)",
+   "status": "已发表",
+   "url": "https://doi.org/10.1126/science.aaw4087",
+   "abstract": null
+  },
+  {
+   "title": "Causal inference in coupled human and natural systems",
+   "authors": [
+    "PJ Ferraro",
+    "JN Sanchirico",
+    "Martin D. Smith"
+   ],
+   "year": 2019,
+   "venue": "Proceedings of the National Academy of Sciences of the United States of America",
+   "status": "已发表",
+   "url": "https://doi.org/10.1073/pnas.1805563115",
+   "abstract": "Coupled human and natural systems (CHANS) are complex, dynamic, interconnected systems with feedback across social and environmental dimensions. This feedback leads to formidable challenges for causal inference. Two significant challenges involve assumptions about excludability and the absence of interference. These two assumptions have been largely unexplored in the CHANS literature, but when either is violated, causal inferences from observable data are difficult to interpret. To explore their plausibility, structural knowledge of the system is requisite, as is an explicit recognition that most causal variables in CHANS affect a coupled pairing of environmental and human elements. In a large CHANS literature that evaluates marine protected areas, nearly 200 studies attempt to make causal claims, but few address the excludability assumption. To examine the relevance of interference in CHANS, we develop a stylized simulation of a marine CHANS with shocks that can represent policy interventions, ecological disturbances, and technological disasters. Human and capital mobility in CHANS is both a cause of interference, which biases inferences about causal effects, and a moderator of the causal effects themselves. No perfect solutions exist for satisfying excludability and interference assumptions in CHANS. To elucidate causal relationships in CHANS, multiple approaches will be needed for a given causal question, with the aim of identifying sources of bias in each approach and then triangulating on credible inferences. Within CHANS research, and sustainability science more generally, the path to accumulating an evidence base on causal relationships requires skills and knowledge from many disciplines and effective academic-practitioner collaborations."
+  },
+  {
+   "title": "Feature-Taking Stock of Catch Shares: Lessons from the Past and Directions for the Future",
+   "authors": [
+    "AM Birkenbach",
+    "Martin D. Smith",
+    "S Stefanski"
+   ],
+   "year": 2019,
+   "venue": "Review of Environmental Economics and Policy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1093/reep/rey016",
+   "abstract": "With the widespread implementation of catch shares (i.e., rights-based fisheries management) at the end of the twentieth century, economists have begun to examine empirical evidence about their performance. Yet despite documented positive outcomes and predicted gains from wider adoption of this approach, catch shares face persistent political opposition and criticism in the noneconomics literature. The debate surrounding catch shares focuses on equity, industry consolidation, nonlocal ownership of quotas, employment, and other impacts on fishing communities, but the evidence on both sides has been largely anecdotal. To inform this debate, it is important for economists and other researchers to produce rigorous analyses that quantify the effects of catch shares on employment, the distribution of economic value in the harvest and processing sectors, and other indicators of community well-being. We assess catch shares to identify research needs and guide policymakers. Using examples from the experiences of the United States and Argentina with rights-based fisheries, we demonstrate that a key challenge for researchers and policymakers is accounting for multiple species, globalization of seafood markets, and climate change. We urge policymakers to consider these forces and their impacts, along with available empirical evidence, when evaluating fisheries management options that balance efficiency and equity goals."
+  },
+  {
+   "title": "Paying to save the beach: effects of local finance decisions on coastal management",
+   "authors": [
+    "M Mullin",
+    "Martin D. Smith",
+    "DE McNamara"
+   ],
+   "year": 2019,
+   "venue": "Climatic Change",
+   "status": "已发表",
+   "url": "https://doi.org/10.1007/s10584-018-2191-5",
+   "abstract": "As sea level rises and storm frequency and severity increase, communities worldwide are investing in coastline management projects to maintain beach widths and dunes that support recreational amenities and mitigate storm risks. These projects are costly, and differences in property owners’ returns from maintaining wide beaches will influence community-level support for investment in shoreline defense. One way to account for these differences is by funding the project through a tax instrument that imposes the heaviest cost on residents who benefit most from beach nourishment. Some communities along the US east coast have adopted this approach. We use an agent-based model to evaluate how the imposition of project costs affects coastline management over the long-term. Charging higher tax rates on oceanfront properties reduces desired beach width among those owners but increases desired width for owners of inland properties. The aggregate impact on beach width depends on coastline shape and development patterns that determine the balance between these two groups, heterogeneity of beach width preferences and climate change beliefs, and levels of participation in local politics. Overall, requiring property owners who benefit most from beach nourishment to bear the highest cost results in wider beaches. The result suggests that delineating tax rates to account for unequal benefits of local public goods across taxpayers could facilitate local investment in climate change adaptation."
+  },
+  {
+   "title": "Three pillars of sustainability in fisheries",
+   "authors": [
+    "F Asche",
+    "TM Garlock",
+    "JL Anderson",
+    "SR Bush",
+    "Martin D. Smith",
+    "CM Anderson",
+    "J Chu",
+    "KA Garrett",
+    "A Lem",
+    "K Lorenzen",
+    "A Oglend",
+    "S ... Tveteras"
+   ],
+   "year": 2018,
+   "venue": "Proceedings of the National Academy of Sciences of the United States of America",
+   "status": "已发表",
+   "url": "https://doi.org/10.1073/pnas.1807677115",
+   "abstract": "Sustainability of global fisheries is a growing concern. The United Nations has identified three pillars of sustainability: economic development, social development, and environmental protection. The fisheries literature suggests that there are two key trade-offs among these pillars of sustainability. First, poor ecological health of a fishery reduces economic profits for fishers, and second, economic profitability of individual fishers undermines the social objectives of fishing communities. Although recent research has shown that management can reconcile ecological and economic objectives, there are lingering concerns about achieving positive social outcomes. We examined trade-offs among the three pillars of sustainability by analyzing the Fishery Performance Indicators, a unique dataset that scores 121 distinct fishery systems worldwide on 68 metrics categorized by social, economic, or ecological outcomes. For each of the 121 fishery systems, we averaged the outcome measures to create overall scores for economic, ecological, and social performance. We analyzed the scores and found that they were positively associated in the full sample. We divided the data into subsamples that correspond to fisheries management systems with three categories of access-open access, access rights, and harvest rights-and performed a similar analysis. Our results show that economic, social, and ecological objectives are at worst independent and are mutually reinforcing in both types of managed fisheries. The implication is that rights-based management systems should not be rejected on the basis of potentially negative social outcomes; instead, social considerations should be addressed in the design of these systems."
+  },
+  {
+   "title": "Common property resources and the dynamics of overexploitation: The case of the north pacific fur seal—a 42-year legacy",
+   "authors": [
+    "JK Abbott",
+    "JN Sanchirico",
+    "Martin D. Smith"
+   ],
+   "year": 2018,
+   "venue": "Marine Resource Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1086/698020",
+   "abstract": null
+  },
+  {
+   "title": "Viewpoint: Induced Innovation in Fisheries and Aquaculture",
+   "authors": [
+    "F Asche",
+    "Martin D. Smith"
+   ],
+   "year": 2018,
+   "venue": "Food Policy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.foodpol.2018.02.002",
+   "abstract": "Some classical economists, most notably Malthus, predicted that scarcity would undermine long-term human well-being. John Stuart Mill, in contrast, predicted that the threat of scarcity creates incentives for innovation that help to avoid some of the worst outcomes. Popular claims of marine ecologists often apply the Malthusian narrative to supplies of seafood, yet global supplies have continued to grow. We examine the modern seafood industry and evaluate Mill's claims about innovation. We argue that the mechanisms that Mill discusses–innovation in response to and in anticipation of scarcity–account for much of what we see. Scarcities induce technological, policy, and market innovations that enable seafood supplies to grow, and these innovations can build on each other. The challenge for policy makers is to avoid knee-jerk responses to Malthusian narratives and craft policy responses that encourage innovation while recognizing physical limits of ocean resources."
+  },
+  {
+   "title": "Climate change adaptation in coastal environments: Modeling challenges for resource and environmental economists",
+   "authors": [
+    "S Gopalakrishnan",
+    "CE Landry",
+    "Martin D. Smith"
+   ],
+   "year": 2018,
+   "venue": "Review of Environmental Economics and Policy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1093/reep/rex020",
+   "abstract": null
+  },
+  {
+   "title": "Spatial patterns of market participation and resource extraction: Fuelwood collection in Northern Uganda",
+   "authors": [
+    "DA Miteva",
+    "RA Kramer",
+    "ZS Brown",
+    "Martin D. Smith"
+   ],
+   "year": 2017,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1093/ajae/aax027",
+   "abstract": null
+  },
+  {
+   "title": "Disease Risk and Market Structure in Salmon Aquaculture",
+   "authors": [
+    "C Fischer",
+    "AG Guttormsen",
+    "Martin D. Smith"
+   ],
+   "year": 2017,
+   "venue": "Water Economics and Policy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1142/S2382624X16500156",
+   "abstract": null
+  },
+  {
+   "title": "Catch shares slow the race to fish",
+   "authors": [
+    "AM Birkenbach",
+    "DJ Kaczan",
+    "Martin D. Smith"
+   ],
+   "year": 2017,
+   "venue": "Nature",
+   "status": "已发表",
+   "url": "https://doi.org/10.1038/nature21728",
+   "abstract": "In fisheries, the tragedy of the commons manifests as a competitive race to fish that compresses fishing seasons, resulting in ecological damage, economic waste, and occupational hazards. Catch shares are hypothesized to halt the race by securing each individual's right to a portion of the total catch, but there is evidence for this from selected examples only. Here we systematically analyse natural experiments to test whether catch shares reduce racing in 39 US fisheries. We compare each fishery treated with catch shares to an individually matched control before and after the policy change. We estimate an average policy treatment effect in a pooled model and in a meta-analysis that combines separate estimates for each treatment-control pair. Consistent with the theory that market-based management ends the race to fish, we find strong evidence that catch shares extend fishing seasons. This evidence informs the current debate over expanding the use of market-based regulation to other fisheries."
+  },
+  {
+   "title": "Fisheries management",
+   "authors": [
+    "Martin D. Smith"
+   ],
+   "year": 2017,
+   "venue": "In: Economics the Definitive Encyclopedia from Theory to Practice",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Seafood prices reveal impacts of a major ecological disturbance",
+   "authors": [
+    "Martin D. Smith",
+    "A Oglend",
+    "AJ Kirkpatrick",
+    "F Asche",
+    "LS Bennear",
+    "JK Craig",
+    "JM Nance"
+   ],
+   "year": 2017,
+   "venue": "Proceedings of the National Academy of Sciences of the United States of America",
+   "status": "已发表",
+   "url": "https://doi.org/10.1073/pnas.1617948114",
+   "abstract": null
+  },
+  {
+   "title": "Fleet behavior is responsive to a large-scale environmental disturbance: Hypoxia effects on the spatial dynamics of the northern Gulf of Mexico shrimp fishery",
+   "authors": [
+    "KM Purcell",
+    "JK Craig",
+    "JM Nance",
+    "Martin D. Smith",
+    "LS Bennear"
+   ],
+   "year": 2017,
+   "venue": "PloS one",
+   "status": "已发表",
+   "url": "https://doi.org/10.1371/journal.pone.0183032",
+   "abstract": "The northwestern Gulf of Mexico shelf experiences one of the largest seasonal hypoxic zones in the western hemisphere. Hypoxia (dissolved oxygen, DO ≤ 2.0 mg·L-1) is most severe from May to August during the height of the Gulf shrimp fishery, but its effects on the fishery are not well known. Prior studies indicate that hypoxia alters the spatial dynamics of shrimp and other species through habitat loss and aggregation in nearby oxygenated refuge habitats. We hypothesized that hypoxia-induced changes in the distribution of shrimp also alter the spatial dynamics of the Gulf shrimp fleet. We integrated data on the geographic distribution of shrimp tows and bottom DO to evaluate the effects of hypoxia on spatial patterns in shrimping effort. Our analyses indicate that shrimping effort declines in low DO waters on both the Texas and Louisiana shelf, but that considerable effort still occurs in low DO waters off Louisiana, likely because riverine nutrients fuel both benthic production and low bottom DO in the same general regions. The response of the shrimp fleet to hypoxia on the Louisiana shelf was complex with shifts in effort inshore, offshore, westward, and eastward of the hypoxic zone, as well as to an oxygenated area between two hypoxia regimes associated with the Mississippi and the Atchafalaya River outflows. In contrast, effort on the Texas shelf mostly shifted offshore in response to low DO but also shifted inshore in some years. Spatial patterns in total shrimping effort were driven primarily by the number of shrimp tows, consistent with aggregation of the fleet outside of hypoxic waters, though tow duration also declined in low DO waters. Overall, our results demonstrate that hypoxia alters the spatial dynamics of the Gulf shrimp fishery with potential consequences for harvest interactions and the economic condition of the fishery."
+  },
+  {
+   "title": "Economics of coastal erosion and adaptation to sea level rise",
+   "authors": [
+    "S Gopalakrishnan",
+    "CE Landry",
+    "Martin D. Smith",
+    "JC Whitehead"
+   ],
+   "year": 2016,
+   "venue": "Annual Review of Resource Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1146/annurev-resource-100815-095416",
+   "abstract": null
+  },
+  {
+   "title": "Trade intervention: Not a silver bullet to address environmental externalities in global aquaculture",
+   "authors": [
+    "F Asche",
+    "CA Roheim",
+    "Martin D. Smith"
+   ],
+   "year": 2016,
+   "venue": "Marine Policy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.marpol.2015.06.021",
+   "abstract": null
+  },
+  {
+   "title": "Spillovers in regional fisheries management: Do catch shares cause leakage?",
+   "authors": [
+    "S Cunningham",
+    "LS Bennear",
+    "Martin D. Smith"
+   ],
+   "year": 2016,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.3368/le.92.2.344",
+   "abstract": null
+  },
+  {
+   "title": "Economic incentives to target species and fish size: Prices and fine-scale product attributes in Norwegian fisheries",
+   "authors": [
+    "F Asche",
+    "Y Chen",
+    "Martin D. Smith"
+   ],
+   "year": 2015,
+   "venue": "ICES Journal of Marine Science",
+   "status": "已发表",
+   "url": "https://doi.org/10.1093/icesjms/fsu208",
+   "abstract": null
+  },
+  {
+   "title": "Fair Enough? Food Security and the International Trade of Seafood",
+   "authors": [
+    "F Asche",
+    "MF Bellemare",
+    "C Roheim",
+    "Martin D. Smith",
+    "S Tveteras"
+   ],
+   "year": 2015,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.worlddev.2014.10.013",
+   "abstract": null
+  },
+  {
+   "title": "Climate adaptation and policy-induced inflation of coastal property value",
+   "authors": [
+    "DE McNamara",
+    "S Gopalakrishnan",
+    "Martin D. Smith",
+    "AB Murray"
+   ],
+   "year": 2015,
+   "venue": "PloS one",
+   "status": "已发表",
+   "url": "https://doi.org/10.1371/journal.pone.0121278",
+   "abstract": null
+  },
+  {
+   "title": "The fishery performance indicators: a management tool for triple bottom line outcomes",
+   "authors": [
+    "JL Anderson",
+    "CM Anderson",
+    "J Chu",
+    "J Meredith",
+    "F Asche",
+    "G Sylvia",
+    "Martin D. Smith",
+    "D Anggraeni",
+    "R Arthur",
+    "A Guttormsen",
+    "JK McCluney",
+    "T ... Ward"
+   ],
+   "year": 2015,
+   "venue": "PloS one",
+   "status": "已发表",
+   "url": "https://doi.org/10.1371/journal.pone.0122809",
+   "abstract": null
+  },
+  {
+   "title": "Pricing of eco-labels with retailer heterogeneity",
+   "authors": [
+    "F Asche",
+    "TA Larsen",
+    "Martin D. Smith",
+    "G Sogn-Grundvåg",
+    "JA Young"
+   ],
+   "year": 2015,
+   "venue": "Food Policy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.foodpol.2015.04.004",
+   "abstract": null
+  },
+  {
+   "title": "COASTAL ZONES, ECONOMICS, AND POLITICS",
+   "authors": [
+    "PW Schuhmann",
+    "Martin D. Smith",
+    "O Bin"
+   ],
+   "year": 2015,
+   "venue": "In: American Political Culture an Encyclopedia Volume 1 3",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Markets, Trade and Seafood",
+   "authors": [
+    "Martin D. Smith",
+    "F Asche",
+    "C Roheim"
+   ],
+   "year": 2014,
+   "venue": "In: Encyclopedia of Natural Resources - Two-Volume Set (Print)",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Steering the global partnership for oceans",
+   "authors": [
+    "J Abbott",
+    "JL Anderson",
+    "L Campling",
+    "R Hannesson",
+    "E Havice",
+    "MS Lozier",
+    "Martin D. Smith",
+    "MJ Wilberg"
+   ],
+   "year": 2014,
+   "venue": "Marine Resource Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1086/676290",
+   "abstract": null
+  },
+  {
+   "title": "Spatial-dynamics of hypoxia and fisheries: The case of Gulf of Mexico brown shrimp",
+   "authors": [
+    "Martin D. Smith",
+    "F Asche",
+    "LS Bennear",
+    "A Oglend"
+   ],
+   "year": 2014,
+   "venue": "Marine Resource Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1086/676826",
+   "abstract": null
+  },
+  {
+   "title": "Open access and the fishery",
+   "authors": [
+    "Martin D. Smith"
+   ],
+   "year": 2014,
+   "venue": "In: Environmental and Natural Resource Economics: An Encyclopedia",
+   "status": "已发表",
+   "url": null,
+   "abstract": "Economics is the study of the decisions, the insti- tutions, the rules, and the laws that result in how our stuff is made and consumed ... Environmental and Natural Resource Economics: An Encyclopedia offers the critical information needed to ..."
+  },
+  {
+   "title": "From Vegetable Box to Seafood Cooler: Applying the Community-Supported Agriculture Model to Fisheries",
+   "authors": [
+    "LM Campbell",
+    "N Boucquey",
+    "J Stoll",
+    "H Coppola",
+    "Martin D. Smith"
+   ],
+   "year": 2014,
+   "venue": "Society and Natural Resources",
+   "status": "已发表",
+   "url": "https://doi.org/10.1080/08941920.2013.842276",
+   "abstract": "Community-supported fisheries (CSF) projects show signs of rapid growth. Modeled on community-supported agriculture (CSA) projects, CSFs share objectives of reducing social and physical distance between consumers and producers and re-embedding food systems in social and environmental contexts. This article offers a comparison of CSF and CSA, situated in the differences between seafood and agricultural products, and fishing and farming. We draw on economic and resource theory, past research on CSA, and a member survey from a case study CSF. Survey results show CSF members are interested in accessing high-quality, fresh, local seafood, and in supporting fishing communities, and they believe that participating in a CSF achieves both. They are less certain that a CSF can address environmental concerns, and few identify environmental motives as their primary reason for participating. The latter contrasts with CSA research results, and we contextualize these findings in our broader comparison. © 2014 Copyright Taylor and Francis Group, LLC."
+  },
+  {
+   "title": "Will a catch share for whales improve social welfare?",
+   "authors": [
+    "Martin D. Smith",
+    "F Asche",
+    "LS Bennear",
+    "E Havice",
+    "AJ Read",
+    "D Squires"
+   ],
+   "year": 2014,
+   "venue": "Ecological applications : a publication of the Ecological Society of America",
+   "status": "已发表",
+   "url": "https://doi.org/10.1890/13-0085.1",
+   "abstract": null
+  },
+  {
+   "title": "The Dynamic Efficiency Costs of Common-Pool Resource Exploitation",
+   "authors": [
+    "L Huang",
+    "Martin D. Smith"
+   ],
+   "year": 2014,
+   "venue": "American Economic Review",
+   "status": "已发表",
+   "url": "https://doi.org/10.1257/aer.104.12.4071",
+   "abstract": null
+  },
+  {
+   "title": "Fisheries Management",
+   "authors": [
+    "Martin D. Smith"
+   ],
+   "year": 2014,
+   "venue": "In: Environmental and Natural Resource Economics an Encyclopedia",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Coupled economic-coastline modeling with suckers and free riders",
+   "authors": [
+    "ZC Williams",
+    "DE McNamara",
+    "Martin D. Smith",
+    "AB Murray",
+    "S Gopalakrishnan"
+   ],
+   "year": 2013,
+   "venue": "Journal of Geophysical Research Earth Surface",
+   "status": "已发表",
+   "url": "https://doi.org/10.1002/jgrf.20066",
+   "abstract": "Shoreline erosion is a natural trend along most sandy coastlines. Humans often respond to shoreline erosion with beach nourishment to maintain coastal property values. Locally extending the shoreline through nourishment alters alongshore sediment transport and changes shoreline dynamics in adjacent coastal regions. If left unmanaged, sandy coastlines can have spatially complex or simple patterns of erosion due to the relationship of large-scale morphology and the local wave climate. Using a numerical model that simulates spatially decentralized and locally optimal nourishment decisions characteristic of much of U.S. East Coast beach management, we find that human erosion intervention does not simply reflect the alongshore erosion pattern. Spatial interactions generate feedbacks in economic and physical variables that lead to widespread emergence of \"free riders\" and \"suckers\" with subsequent inequality in the alongshore distribution of property value. Along cuspate coastlines, such as those found along the U.S. Southeast Coast, these long-term property value differences span an order of magnitude. Results imply that spatially decentralized management of nourishment can lead to property values that are divorced from spatial erosion signals; this management approach is unlikely to be optimal. Key Points Spatial interactions drive feedbacks between economic and physical variables Property value differences span an order of magnitude along cuspate coastlines Spatially myopic nourishment disconnects property value from physical forcing ©2013. American Geophysical Union. All Rights Reserved."
+  },
+  {
+   "title": "Measuring Welfare Losses from Hypoxia: The Case of North Carolina Brown Shrimp",
+   "authors": [
+    "L Huang",
+    "LAB Nichols",
+    "JK Craig",
+    "Martin D. Smith"
+   ],
+   "year": 2012,
+   "venue": "Marine Resource Economics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "U.S. Shrimp Market Integration",
+   "authors": [
+    "F Asche",
+    "LS Bennear",
+    "A Oglend",
+    "Martin D. Smith"
+   ],
+   "year": 2012,
+   "venue": "Marine Resource Economics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Fish is food--the FAO's fish price index",
+   "authors": [
+    "S Tveterås",
+    "F Asche",
+    "MF Bellemare",
+    "Martin D. Smith",
+    "AG Guttormsen",
+    "A Lem",
+    "K Lien",
+    "S Vannuccini"
+   ],
+   "year": 2012,
+   "venue": "PloS one",
+   "status": "已发表",
+   "url": "https://doi.org/10.1371/journal.pone.0036731",
+   "abstract": null
+  },
+  {
+   "title": "The New Fisheries Economics: Incentives Across Many Margins",
+   "authors": [
+    "Martin D. Smith"
+   ],
+   "year": 2012,
+   "venue": "ANNUAL REVIEW OF RESOURCE ECONOMICS, VOL 4",
+   "status": "已发表",
+   "url": "https://doi.org/10.1146/annurev-resource-110811-114550",
+   "abstract": null
+  },
+  {
+   "title": "Emergent behavior in a coupled economic and coastline model for beach nourishment",
+   "authors": [
+    "ED Lazarus",
+    "DE McNamara",
+    "Martin D. Smith",
+    "S Gopalakrishnan",
+    "AB Murray"
+   ],
+   "year": 2011,
+   "venue": "Nonlinear Processes in Geophysics",
+   "status": "已发表",
+   "url": "https://doi.org/10.5194/npg-18-989-2011",
+   "abstract": "Developed coastal areas often exhibit a strong systemic coupling between shoreline dynamics and economic dynamics. \"Beach nourishment\", a common erosion-control practice, involves mechanically depositing sediment from outside the local littoral system onto an actively eroding shoreline to alter shoreline morphology. Natural sedimenttransport processes quickly rework the newly engineered beach, causing further changes to the shoreline that in turn affect subsequent beach-nourishment decisions. To the limited extent that this landscape/economic coupling has been considered, evidence suggests that towns tend to employ spatially myopic economic strategies under which individual towns make isolated decisions that do not account for their neighbors. What happens when an optimization strategy that explicitly ignores spatial interactions is incorporated into a physical model that is spatially dynamic? The longterm attractor that develops for the coupled system (the state and behavior to which the system evolves over time) is unclear. We link an economic model, in which town-manager agents choose economically optimal beach-nourishment intervals according to past observations of their immediate shoreline, to a simplified coastal-dynamics model that includes alongshore sediment transport and background erosion (e.g. from sea-level rise). Simulations suggest that feedbacks between these human and natural coastal processes can generate emergent behaviors. When alongshore sediment transport and spatially myopic nourishment decisions are coupled, increases in the rate of sea-level rise can destabilize economically optimal nourishment practices into a regime characterized by the emergence of chaotic shoreline evolution. © Author(s) 2011."
+  },
+  {
+   "title": "Prices and Quantities to Control Overfishing",
+   "authors": [
+    "Martin D. Smith",
+    "S Gopalakrishnan"
+   ],
+   "year": 2011,
+   "venue": null,
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Management of an Annual Fishery in the Presence of Ecological Stress: The Case of Shrimp and Hypoxia",
+   "authors": [
+    "L Huang",
+    "Martin D. Smith"
+   ],
+   "year": 2011,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Value of Disappearing Beaches: A Hedonic Model with Endogenous Beach Width",
+   "authors": [
+    "S Gopalakrishnan",
+    "Martin D. Smith",
+    "JM Slott",
+    "AB Murray"
+   ],
+   "year": 2011,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Heterogeneous Response to Marine Reserve Formation: A Sorting Model Approach",
+   "authors": [
+    "J Zhang",
+    "Martin D. Smith"
+   ],
+   "year": 2011,
+   "venue": "Environ & Resource Econ",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Non-spatial and spatial models in bioeconomics",
+   "authors": [
+    "JM Conrad",
+    "Martin D. Smith"
+   ],
+   "year": 2011,
+   "venue": "Natural Resource Modeling",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Estimation of a generalized fishery model: A two-stage approach",
+   "authors": [
+    "J Zhang",
+    "Martin D. Smith"
+   ],
+   "year": 2011,
+   "venue": "Review of Economics and Statistics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1162/REST_a_00075",
+   "abstract": "U.S. federal law calls for an end to overfishing, but measuring overfishing requires knowledge of bioeconomic parameters. Using microlevel economic data from the commercial fishery, this paper proposes a two-stage approach to estimate these parameters for a generalized fishery model. In the first stage, a fishery production function is consistently estimated by a within-period estimator treating the latent stock as a fixed effect. The estimated stock is then substituted into an equation of fish stock dynamics to estimate all other biological parameters. The bootstrap approach is used to correct the standard errors in the two-stage model. This method is applied to the reef-fish fishery in the northeastern Gulf of Mexico. The traditional method, which uses catch-per-unit-effort as a stock proxy, significantly overstates the optimal harvest level. © 2011 by the President and Fellows of Harvard College and the Massachusetts Institute of Technology."
+  },
+  {
+   "title": "Progress in Coupling Models of Human and Coastal Landscape Change",
+   "authors": [
+    "AB Murray",
+    "S Gopalakrishnan",
+    "D McNamara",
+    "Martin D. Smith"
+   ],
+   "year": 2011,
+   "venue": "Computers & Geosciences",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Valuing Ecosystem Services with Fishery Rents: A Lumped-Parameter Approach to Hypoxia in the Neuse River Estuary",
+   "authors": [
+    "Martin D. Smith",
+    "LB Crowder"
+   ],
+   "year": 2011,
+   "venue": "Sustainability",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Genetically Modified Salmon and Full Impact Assessment",
+   "authors": [
+    "Martin D. Smith",
+    "F Asche",
+    "AG Guttormsen",
+    "JB Wiener"
+   ],
+   "year": 2010,
+   "venue": "Science",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Political economy of marine reserves: understanding the role of opportunity costs",
+   "authors": [
+    "Martin D. Smith",
+    "J Lynham",
+    "JN Sanchirico",
+    "JA Wilson"
+   ],
+   "year": 2010,
+   "venue": "Proc Natl Acad Sci U S A",
+   "status": "已发表",
+   "url": "https://doi.org/10.1073/pnas.0907365107",
+   "abstract": "The creation of marine reserves is often controversial. For decisionmakers, trying to find compromises, an understanding of the timing, magnitude, and incidence of the costs of a reserve is critical. Understanding the costs, in turn, requires consideration of not just the direct financial costs but also the opportunity costs associated with reserves. We use a discrete choice model of commercial fishermen's behavior to examine both the short-run and long-run opportunity costs of marine reserves. Our results can help policymakers recognize the factors influencing commercial fishermen's responses to reserve proposals. More generally, we highlight the potential drivers behind the political economy of marine reserves."
+  },
+  {
+   "title": "Economics. Sustainability and global seafood",
+   "authors": [
+    "Martin D. Smith",
+    "CA Roheim",
+    "LB Crowder",
+    "BS Halpern",
+    "M Turnipseed",
+    "JL Anderson",
+    "F Asche",
+    "L Bourillón",
+    "AG Guttormsen",
+    "A Khan",
+    "LA ... Liguori"
+   ],
+   "year": 2010,
+   "venue": "Science",
+   "status": "已发表",
+   "url": "https://doi.org/10.1126/science.1185345",
+   "abstract": null
+  },
+  {
+   "title": "Quantifying the Economic Effects of Hypoxia on a Fishery for Brown Shrimp, Farfantepenaeus aztecus",
+   "authors": [
+    "L Huang",
+    "Martin D. Smith",
+    "JK Craig"
+   ],
+   "year": 2010,
+   "venue": "Marine and Coastal Fisheries: Dynamics, Management, and Ecosystem Science",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Toward an Econometric Foundation for Marine Ecosystem-based Management",
+   "authors": [
+    "Martin D. Smith"
+   ],
+   "year": 2010,
+   "venue": "Bulletin of Marine Science",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Coastal sustainability depends on how economic and coastline responses to climate change affect each other",
+   "authors": [
+    "D McNamara",
+    "AB Murray",
+    "Martin D. Smith"
+   ],
+   "year": 2010,
+   "venue": "Geophysical Research Letters",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The economics of spatial-dynamic processes: Applications to renewable resources",
+   "authors": [
+    "Martin D. Smith",
+    "JN Sanchirico",
+    "JE Wilen"
+   ],
+   "year": 2009,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jeem.2008.08.001",
+   "abstract": "Spatial-dynamic processes in renewable resource economics pose difficult conceptual, analytical, empirical, and institutional challenges that are distinct from either spatial or dynamic problems. We describe the challenges and conceptual approaches using both continuous and discrete depictions of space and summarize key findings. Using a metapopulation model of the fishery and simulated economic and ecological data, we show that it is possible in certain circumstances to recover both biological and economic parameters of a linked spatial-dynamic system from only economic data. We illustrate the application empirically with data from the Gulf of Mexico reef-fish fishery. We conclude with a discussion of key policy and institutional design issues involved in managing spatial-dynamic systems. © 2008 Elsevier Inc. All rights reserved."
+  },
+  {
+   "title": "Beach nourishment as a dynamic capital accumulation problem",
+   "authors": [
+    "Martin D. Smith",
+    "JM Slott",
+    "D McNamara",
+    "AB Murray"
+   ],
+   "year": 2009,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jeem.2008.07.011",
+   "abstract": "Beach nourishment is a common coastal management strategy used to combat erosion along sandy coastlines. It involves building out a beach with sand dredged from another location. This paper develops a positive model of beach nourishment and generates testable hypotheses about how the frequency of nourishment responds to property values, project costs, erosion rates, and discounting. By treating the decision to nourish as a dynamic capital accumulation problem, the model produces new insights about coupled economic geomorphological systems. In particular, determining whether the frequency of nourishment increases in response to physical and economic forces depends on whether the decay rate of nourishment sand exceeds the discount rate. © 2009 Elsevier Inc. All rights reserved."
+  },
+  {
+   "title": "An empirical approach to ecosystem-based fishery management",
+   "authors": [
+    "JN Sanchirico",
+    "Martin D. Smith",
+    "DW Lipton"
+   ],
+   "year": 2008,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Econometric Modeling of Fisheries with Complex Life Histories: Avoiding Biological Management Failures",
+   "authors": [
+    "Martin D. Smith",
+    "J Zhang",
+    "FC Coleman"
+   ],
+   "year": 2008,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jeem.2007.11.003",
+   "abstract": null
+  },
+  {
+   "title": "Bioeconometrics: Empirical Modeling of Bioeconomic Systems",
+   "authors": [
+    "Martin D. Smith"
+   ],
+   "year": 2008,
+   "venue": "Marine Resource Economics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Synergies Between Adjacent Beach-Nourishing Communities in a Morpho-economic Coupled Coastline Model",
+   "authors": [
+    "JM Slott",
+    "Martin D. Smith",
+    "AB Murray"
+   ],
+   "year": 2008,
+   "venue": "Coastal Management",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Generating value in habitat-dependent fisheries: The importance of fishery management institutions",
+   "authors": [
+    "Martin D. Smith"
+   ],
+   "year": 2007,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": null,
+   "abstract": "This paper models dynamic producer and consumer benefits from improving habitat that supports the North Carolina blue crab fishery. It embeds two fishery management institutions - open access and partial rationalization - in a multispecies, two-patch spatial bioeconomic model with endogenous output price and estuarine eutrophication. Producer benefits from improved environmental quality are higher for the rationalized fishery than for open access. Consumer benefits are larger than producer benefits and are comparable across institutions. However, the total benefits from improving environmental quality are small relative to the benefits from rationalizing the fishery and leaving environmental quality the same. © 2007 by the Board of Regents of the University of Wisconsin System."
+  },
+  {
+   "title": "Open access in a spatially delineated artisanal fishery: The case of Minahasa, Indonesia",
+   "authors": [
+    "C Liese",
+    "Martin D. Smith",
+    "RA Kramer"
+   ],
+   "year": 2007,
+   "venue": "Environment and Development Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1017/S1355770X06003421",
+   "abstract": null
+  },
+  {
+   "title": "Structural Modeling of Marine Reserves with Bayesian Estimation",
+   "authors": [
+    "Martin D. Smith",
+    "J Zhang",
+    "FC Coleman"
+   ],
+   "year": 2007,
+   "venue": "Marine Resource Economics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Effectiveness of marine reserves for large-scale fisheries management",
+   "authors": [
+    "Martin D. Smith",
+    "J Zhang",
+    "FC Coleman"
+   ],
+   "year": 2006,
+   "venue": "Canadian Journal of Fisheries and Aquatic Sciences",
+   "status": "已发表",
+   "url": "https://doi.org/10.1139/f05-205",
+   "abstract": "As more no-take marine reserves are established, the importance of evaluating effectiveness retrospectively is growing. This paper adapts methods from program evaluation to quantify the effects of establishing a marine reserve on fisheries using fishery-dependent data. The approach analyzes the effects of a policy at the individual vessel level and accommodates the coarse spatial resolution of fishing logbooks. It illuminates implicit assumptions in previous retrospective analyses of marine reserves that are unlikely to hold for large-scale fisheries. We illustrate the empirical model with an application to the Gulf of Mexico reef-fish fishery. Isolating the effects of reserves requires a full accounting of multiple gear production technologies, heterogeneity in vessel captain skill, spatial heterogeneity of fish stocks, seasonal patterns in abundance, the effects of coexisting management policies, and the possibility that the harvest sector anticipates reserve establishment. We find that the effect of two recently established marine reserves on catch is negative and trending downward, though the reserves have only been in place for 4.5 years. © 2005 NRC."
+  },
+  {
+   "title": "Correlated Risk Preferences and Behavior of Commercial Fishermen: The Perfect Storm/Dilemma",
+   "authors": [
+    "Martin D. Smith",
+    "JE Wilen"
+   ],
+   "year": 2005,
+   "venue": "The Journal of Risk and Uncertainty",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "State Dependence and Heterogeneity in Fishing Location Choice",
+   "authors": [
+    "Martin D. Smith"
+   ],
+   "year": 2005,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Limited Entry Licensing: Insights from a Duration Model",
+   "authors": [
+    "Martin D. Smith"
+   ],
+   "year": 2004,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Fishing Yield, Curvature, and Spatial Behavior: Implications for Modeling Marine Reserves",
+   "authors": [
+    "Martin D. Smith"
+   ],
+   "year": 2004,
+   "venue": "Natural Resource Modeling",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Marine Reserves with Endogenous Ports: Empirical Bioeconomics of the California Sea Urchin Fishery",
+   "authors": [
+    "Martin D. Smith",
+    "JE Wilen"
+   ],
+   "year": 2004,
+   "venue": "Marine Resource Economics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Economic Impacts of Marine Reserves: The Importance of Spatial Behavior",
+   "authors": [
+    "Martin D. Smith",
+    "JE Wilen"
+   ],
+   "year": 2003,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Avoiding surprises: Incorporating fisherman behavior into management models",
+   "authors": [
+    "JE Wilen",
+    "Martin D. Smith",
+    "D Lockwood",
+    "LW Botsford"
+   ],
+   "year": 2002,
+   "venue": "Bulletin of Marine Science",
+   "status": "已发表",
+   "url": null,
+   "abstract": "All fisheries-management models incorporate simplifying assumptions about ecological and oceanographic mechanisms that are fundamentally uncertain or stochastic, but exploited fisheries are also subject to equally important uncertainties associated with fisherman behavior. Fishermen make decisions ranging from long-term entry/exit decisions to daily or even hourly decisions about where and how to fish. These decisions are influenced by regulations, technology, weather, and expectations about prices, costs, and abundance. They ultimately determine the spatial and temporal pattern of mortality in an exploited fishery. Although biologists have tried to incorporate fisherman behavior into management models, much of the work is ad hoc, whereas economics has a rich tradition of both conceptual and empirical behavioral modeling. This paper is an attempt to demonstrate the potential usefulness of economics-based behavioral modeling, with data collected for biological management. A model of participation and spatial choice is constructed, and the economic model is linked to a biological model of metapopulation dynamics and used to forecast the implications of management measures that might be applied to the red sea urchin fishery in California. The results show that modeling spatial behavior strongly affects the predicted outcomes of management policies even if the policies are not spatial in character."
+  },
+  {
+   "title": "Two Econometric Approaches for Predicting the Spatial Behavior of Renewable Resource Harvesters",
+   "authors": [
+    "Martin D. Smith"
+   ],
+   "year": 2002,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Marine Environment: Fencing the Last Frontier",
+   "authors": [
+    "Martin D. Smith",
+    "JE Wilen"
+   ],
+   "year": 2002,
+   "venue": "Review of Agricultural Economics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Entry and exit in California's organic farming sector",
+   "authors": [
+    "K Klonsky",
+    "Martin D. Smith"
+   ],
+   "year": 2002,
+   "venue": "Advances in the Economics of Environmental Resources",
+   "status": "已发表",
+   "url": null,
+   "abstract": "In California, organic acreage increased by 60% and sales of organic commodities increased by 110% between 1992 and 1997. The rate of growth in the organic industry does not reveal the dynamic nature of California's organic agriculture. In this chapter, we explore the characteristics of farmers entering and exiting the organic market in California. In so doing, our analysis provides insight into the impact of policy and growth on the future composition of the organic industry. © 2002."
+  },
+  {
+   "title": "Breeding Incentives and the Demand for California Thoroughbred Racing: Is there a Quality/Quantity Tradeoff?",
+   "authors": [
+    "Martin D. Smith"
+   ],
+   "year": 2001,
+   "venue": "Applied Economics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Spatial search and fishing location choice: Methodological challenges of empirical modeling",
+   "authors": [
+    "Martin D. Smith"
+   ],
+   "year": 2000,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/0002-9092.00120",
+   "abstract": "Discrete choice modeling of fishing location tries to resolve simultaneously behavioral responses to information, what this information is, and the way that the information is gathered and processed. Without observing the process itself, the modeler really only sees choices and revenue (or catch) histories. We cannot separate how these histories are combined into measures of profitability and how these measures affect choice. This paper discussed two fundamentally different attempts to resolve questions about information. The author concludes that structural attempts are essentially intractable in every setting, and reduced-form methods are by nature ad hoc. Nevertheless, some hope lies in reduced-form methods. A conclusion of the first section is that even ad hoc approaches to information processing should account for sampling variance in addition to variance of the underlying stochastic process. Of the methods discussed, the Bayesian approach with a realistic probability model seems most compelling but is also the most difficult to implement. In contrast, it is much less clear how best to model the decay of information."
+  },
+  {
+   "title": "Success or Selection: An Economic Perspective on Fisheries Co-Management",
+   "authors": [
+    "Lori S. Bennear",
+    "Martin D. Smith"
+   ],
+   "year": null,
+   "venue": "Working Paper (Nicholas Institute, Duke)",
+   "status": "工作论文",
+   "url": null,
+   "abstract": null
+  }
+ ]
+}

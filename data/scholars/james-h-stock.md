@@ -4,6 +4,8 @@
 学校: Harvard University
 职称: 正教授
 头衔: Harold Hitchings Burbank Professor of Political Economy
+单位: Department of Economics
+单位类型: 经济系
 聘任类型: 经济系
 领域层级: 领域之一
 研究方向: 能源; 环境; 气候

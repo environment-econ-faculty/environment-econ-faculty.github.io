@@ -4,6 +4,8 @@
 学校: Yale University
 职称: 助理教授
 头衔: Assistant Professor of Economics and Global Affairs
+单位: Department of Economics
+单位类型: 经济系
 聘任类型: 合聘
 领域层级: 相关研究
 研究方向: 农业; 土地利用

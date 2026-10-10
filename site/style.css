@@ -168,3 +168,8 @@ tr.clk:hover td { background: var(--accent-soft); }
   select { max-width: 100%; }
   .kv { grid-template-columns: 5.5em 1fr; }
 }
+
+/* round 2 additions */
+.badge.eee { color: var(--accent-2); background: var(--accent-soft); margin-left: 6px; font-size: 11px; }
+.card .meta .unit-t { color: var(--t3); }
+.pager { display: flex; gap: 12px; align-items: center; justify-content: center; margin: 14px 0 6px; }

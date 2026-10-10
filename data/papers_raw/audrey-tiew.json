@@ -1,0 +1,61 @@
+{
+ "slug": "audrey-tiew",
+ "name": "Audrey Tiew",
+ "sources": [
+  "https://sites.google.com/view/audreytiew/research"
+ ],
+ "collected": "2026-10-10",
+ "notes": "Homepage research page; no publications listed, no abstracts for working papers. Work-in-progress semiconductor coordination project (abstract only, no draft) skipped. CV is a Dropbox link not parsed.",
+ "papers": [
+  {
+   "title": "Flailing Firms and Joint Operating Agreements: An Application to U.S. Local Daily Print Newspapers from 1932 to 1992",
+   "authors": [
+    "Audrey Tiew"
+   ],
+   "year": null,
+   "venue": "Revise & Resubmit, Journal of Political Economy",
+   "status": "修改重投",
+   "url": "https://www.dropbox.com/scl/fi/6u8f1vqasoj3qm66ciblj/ATiew_draft_newspapers_posted.pdf?rlkey=05oyjttok4g154eik8uzy9kxr&st=ifvqrwtx&dl=0",
+   "abstract": null
+  },
+  {
+   "title": "E.U. Trade Restrictions and Heterogeneity among Malaysian Oil Palm Farmers",
+   "authors": [
+    "Audrey Tiew"
+   ],
+   "year": 2025,
+   "venue": null,
+   "status": "工作论文",
+   "url": "https://www.dropbox.com/scl/fi/505kkoysobc8haywaa3d7/draft_palmoil_July2025.pdf?rlkey=hjfnmczd11nbtw67vomy1bu8v&st=kusxc67h&dl=0",
+   "abstract": null
+  },
+  {
+   "title": "Spatial Mobility, Economic Opportunity and Crime",
+   "authors": [
+    "Audrey Tiew",
+    "Gaurav Khanna",
+    "Carlos Medina",
+    "Anant Nyshadham",
+    "Daniel Ramos",
+    "Jorge Tamayo"
+   ],
+   "year": null,
+   "venue": "Revise & Resubmit, American Economic Review",
+   "status": "修改重投",
+   "url": "https://www.econgaurav.com/papers/Spatial_mobility.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Industrial Policy, Location Choice, and Firm Performance in High-Tech Manufacturing",
+   "authors": [
+    "Audrey Tiew",
+    "Ran Zhuo"
+   ],
+   "year": 2026,
+   "venue": null,
+   "status": "工作论文",
+   "url": "https://www.dropbox.com/scl/fi/jr604zignd5t8t6prlfz1/semicoductor_draft_29jan2026.pdf?rlkey=ptf7bzmu09our10gd3pg41kzf&st=nqkw49d9&dl=0",
+   "abstract": null
+  }
+ ]
+}

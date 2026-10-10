@@ -17,7 +17,8 @@ SITE = os.path.join(ROOT, "site")
 LIST_KEYS = {"硕士", "经历"}
 ENUMS = {
     "职称": {"正教授", "副教授", "助理教授"},
-    "聘任类型": {"经济系", "合聘", "外系挂靠"},
+    "聘任类型": {"经济系", "合聘", "外系挂靠", "本院系"},
+    "单位类型": {"经济系", "农经/资源经济", "公共政策", "商学院", "环境学院", "其他"},
     "领域层级": {"核心领域", "领域之一", "相关研究"},
 }
 SUBFIELDS = ["能源", "环境", "气候", "污染与健康", "自然资源", "农业", "土地利用", "水资源", "交通", "其他"]
@@ -89,6 +90,7 @@ def parse_papers(body, fname):
         if p.get("status") and p["status"] not in STATUS:
             warnings.append(f"{fname}: 论文《{title[:30]}》状态「{p['status']}」不在 {STATUS} 中")
         p["authors"] = split_list(p.get("authors", ""))
+        p["eee"] = True
         p["keywords"] = split_list(p.get("keywords", ""))
         papers.append(p)
     return papers
@@ -98,7 +100,7 @@ def main():
     check = "--check" in sys.argv
     schools = json.load(open(os.path.join(DATA, "schools.json"), encoding="utf-8"))
     school_names = {s["name"] for s in schools}
-    scholars, papers = [], []
+    scholars, papers, paper_files = [], [], {}
     for path in sorted(glob.glob(os.path.join(DATA, "scholars", "*.md"))):
         fname = os.path.basename(path)
         if fname.startswith("_"):
@@ -120,10 +122,23 @@ def main():
             if s not in SUBFIELDS:
                 warnings.append(f"{fname}: 研究方向「{s}」不在 {SUBFIELDS} 中")
         ps = parse_papers(body, fname)
+        for p in ps:
+            p["src"] = "手动添加"
+        auto_path = os.path.join(DATA, "papers", slug + ".json")
+        auto_meta = {}
+        if os.path.exists(auto_path):
+            auto = json.load(open(auto_path, encoding="utf-8"))
+            auto_meta = {"sources": auto.get("sources", []), "collected": auto.get("collected", "")}
+            have = {re.sub(r"[^a-z0-9]", "", p["title"].lower()) for p in ps}
+            for p in auto.get("papers", []):
+                if re.sub(r"[^a-z0-9]", "", p["title"].lower()) not in have:
+                    ps.append(p)
+        ps.sort(key=lambda p: (-(p.get("year") or 0), STATUS.index(p["status"]) if p.get("status") in STATUS else 9))
         sc = {
             "id": slug, "name": meta.get("姓名", ""), "name_zh": meta.get("中文名", ""),
             "school": meta.get("学校", ""), "rank": meta.get("职称", ""), "title": meta.get("头衔", ""),
-            "appt": meta.get("聘任类型", ""), "tier": meta.get("领域层级", ""), "subfields": subs,
+            "appt": meta.get("聘任类型", ""), "unit": meta.get("单位", ""), "unit_type": meta.get("单位类型", "经济系"),
+            "other_units": meta.get("其他单位", ""), "orcid": meta.get("ORCID", ""), "scholar_url": meta.get("Google Scholar", ""), "tier": meta.get("领域层级", ""), "subfields": subs,
             "flags": split_list(meta.get("标记")), "fields_stated": meta.get("自述领域", ""),
             "homepage": meta.get("主页", ""), "cv": meta.get("CV", ""), "profile": meta.get("院系页面", ""),
             "affiliations": meta.get("学术兼职", ""),
@@ -134,13 +149,18 @@ def main():
             "joined": meta.get("入职现单位", ""), "rank_since": meta.get("现职称起始", ""),
             "career": meta.get("经历", []), "evidence": meta.get("研究线索", ""),
             "notes": meta.get("数据备注", ""), "cv_date": meta.get("CV日期", ""), "checked": meta.get("信息核对", ""),
-            "n_papers": len(ps),
+            "n_papers": len(ps), "n_eee": sum(1 for p in ps if p.get("eee")),
+            "paper_sources": auto_meta.get("sources", []), "papers_collected": auto_meta.get("collected", ""),
         }
         scholars.append(sc)
+        full = []
         for i, p in enumerate(ps):
-            p["id"] = f"{slug}-{i + 1}"
-            p["scholar"] = slug
-            papers.append(p)
+            full.append({k: p.get(k) for k in ("title", "title_zh", "authors", "year", "venue", "status", "url", "doi",
+                                                 "abstract", "abs_src", "keywords", "eee", "src", "pdf", "replication") if p.get(k)})
+            papers.append([slug, i, p.get("title", ""), p.get("year") or 0, p.get("venue") or "",
+                           STATUS.index(p["status"]) if p.get("status") in STATUS else 3, 1 if p.get("eee") else 0,
+                           1 if p.get("abstract") else 0, ", ".join((p.get("authors") or [])[:6])])
+        paper_files[slug] = full
 
     used = {s["school"] for s in scholars}
     for s in schools:
@@ -149,9 +169,15 @@ def main():
     out = {
         "generated": datetime.now(tz).strftime("%Y-%m-%d"),
         "schools": schools, "scholars": scholars, "papers": papers,
-        "subfields": SUBFIELDS, "statuses": STATUS,
+        "subfields": SUBFIELDS, "statuses": STATUS, "unit_types": ["经济系", "农经/资源经济", "公共政策", "商学院", "环境学院", "其他"],
+        "paper_cols": ["scholar", "i", "title", "year", "venue", "status", "eee", "has_abs", "authors"],
     }
-    os.makedirs(SITE, exist_ok=True)
+    os.makedirs(os.path.join(SITE, "papers"), exist_ok=True)
+    for fn in os.listdir(os.path.join(SITE, "papers")):
+        os.remove(os.path.join(SITE, "papers", fn))
+    for slug, full in paper_files.items():
+        with open(os.path.join(SITE, "papers", slug + ".json"), "w", encoding="utf-8") as f:
+            json.dump(full, f, ensure_ascii=False, separators=(",", ":"))
     with open(os.path.join(SITE, "data.js"), "w", encoding="utf-8") as f:
         f.write("window.EEE_DATA = " + json.dumps(out, ensure_ascii=False, separators=(",", ":")) + ";\n")
     print(f"{len(scholars)} scholars, {len(papers)} papers, {len(used)} schools -> site/data.js")

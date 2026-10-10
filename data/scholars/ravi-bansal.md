@@ -4,6 +4,8 @@
 学校: Duke University
 职称: 正教授
 头衔: J.B. Fuqua Distinguished Professor of Business Administration
+单位: J.B. Fuqua Distinguished Professor of Business Administration
+单位类型: 商学院
 聘任类型: 外系挂靠
 领域层级: 领域之一
 研究方向: 气候

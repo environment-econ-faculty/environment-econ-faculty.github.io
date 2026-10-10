@@ -4,6 +4,8 @@
 学校: Columbia University
 职称: 正教授
 头衔: Professor of International and Public Affairs; SIPA Professorship of Energy Policy (Affiliated Faculty, Economics)
+单位: Professor of International and Public Affairs
+单位类型: 公共政策
 聘任类型: 外系挂靠
 领域层级: 核心领域
 研究方向: 能源; 环境; 气候

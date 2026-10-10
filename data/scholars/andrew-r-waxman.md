@@ -4,6 +4,8 @@
 学校: University of Texas at Austin
 职称: 副教授
 头衔: Associate Professor, LBJ School of Public Affairs (Affiliated Faculty, Department of Economics)
+单位: Associate Professor, LBJ School of Public Affairs (Affiliated Faculty, Department of Economics)
+单位类型: 公共政策
 聘任类型: 外系挂靠
 领域层级: 核心领域
 研究方向: 环境; 交通; 污染与健康; 气候; 土地利用

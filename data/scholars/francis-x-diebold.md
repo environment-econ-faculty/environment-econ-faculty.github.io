@@ -4,6 +4,8 @@
 学校: University of Pennsylvania
 职称: 正教授
 头衔: Paul F. and Warren S. Miller Professor of Economics; Professor of Finance; Professor of Statistics and Data Science
+单位: Department of Economics
+单位类型: 经济系
 聘任类型: 经济系
 领域层级: 领域之一
 研究方向: 气候

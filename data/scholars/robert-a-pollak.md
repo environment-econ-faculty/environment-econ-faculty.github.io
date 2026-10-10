@@ -4,6 +4,8 @@
 学校: Washington University in St. Louis
 职称: 正教授
 头衔: Hernreich Distinguished Professor of Economics (Joint with Olin Business School); Professor of Economics; Professor of Law (courtesy)
+单位: Department of Economics
+单位类型: 经济系
 聘任类型: 合聘
 领域层级: 领域之一
 研究方向: 环境

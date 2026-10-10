@@ -4,6 +4,8 @@
 学校: University of Maryland, College Park
 职称: 正教授
 头衔: Professor, Department of Agricultural and Resource Economics; Affiliate Professor, Department of Economics
+单位: Professor, Department of Agricultural and Resource Economics
+单位类型: 农经/资源经济
 聘任类型: 外系挂靠
 领域层级: 核心领域
 研究方向: 环境; 气候; 能源

@@ -4,6 +4,8 @@
 学校: University of Wisconsin-Madison
 职称: 正教授
 头衔: David Edwin and Lucille Hartmann Davies Chair in Economics
+单位: Department of Economics
+单位类型: 经济系
 聘任类型: 经济系
 领域层级: 相关研究
 研究方向: 能源; 水资源

@@ -4,6 +4,8 @@
 学校: Brown University
 职称: 正教授
 头衔: George and Nancy Parker Professor of Economics
+单位: Department of Economics
+单位类型: 经济系
 聘任类型: 经济系
 领域层级: 核心领域
 研究方向: 环境; 农业; 污染与健康; 土地利用; 自然资源

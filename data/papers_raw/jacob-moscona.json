@@ -1,0 +1,250 @@
+{
+ "slug": "jacob-moscona",
+ "name": "Jacob Moscona",
+ "sources": [
+  "https://economics.mit.edu/people/faculty/jacob-moscona/research"
+ ],
+ "collected": "2026-10-10",
+ "notes": "From MIT research page; no abstracts shown. Companion SSRN note on emulation of Chinese business models not listed separately.",
+ "papers": [
+  {
+   "title": "Searching for Fish in Trees? Economic Development When Context Matters",
+   "authors": [
+    "Jacob Moscona",
+    "Nathan Nunn",
+    "James A. Robinson"
+   ],
+   "year": 2026,
+   "venue": "Handbook of Development Economics",
+   "status": "即将发表",
+   "url": "https://www.sciencedirect.com/science/chapter/handbook/pii/S1573447126000033",
+   "abstract": null
+  },
+  {
+   "title": "The Economics of Climate Innovation: Technology, Climate Policy, and the Clean Energy Transition",
+   "authors": [
+    "Eugenie Dugoua",
+    "Jacob Moscona"
+   ],
+   "year": 2026,
+   "venue": "Handbook of the Economics of Climate Change, Volume 2 (eds. Lint Barrage and Solomon Hsiang), Elsevier, 221-383",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/chapter/handbook/abs/pii/S3050729426000036",
+   "abstract": null
+  },
+  {
+   "title": "Food Policy in a Warming World",
+   "authors": [
+    "Allan Hsiao",
+    "Jacob Moscona",
+    "Karthik Sastry"
+   ],
+   "year": 2026,
+   "venue": "Econometrica 94(2), 537-572",
+   "status": "已发表",
+   "url": "https://www.econometricsociety.org/publications/econometrica/2026/03/01/Food-Policy-in-a-Warming-World/file/ecta70037.pdf",
+   "abstract": null
+  },
+  {
+   "title": "The Management of Aid and Conflict in Africa",
+   "authors": [
+    "Jacob Moscona"
+   ],
+   "year": 2025,
+   "venue": "American Economic Journal: Economic Policy 17(4), 228-259",
+   "status": "已发表",
+   "url": "https://www.aeaweb.org/articles?id=10.1257/pol.20220219",
+   "abstract": null
+  },
+  {
+   "title": "Age Set vs. Kin: Culture and Financial Ties in East Africa",
+   "authors": [
+    "Jacob Moscona",
+    "Awa Ambra Seck"
+   ],
+   "year": 2024,
+   "venue": "American Economic Review 114(9), 2748-2791",
+   "status": "已发表",
+   "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20211856",
+   "abstract": null
+  },
+  {
+   "title": "Does Directed Innovation Mitigate Climate Damage? Evidence from US Agriculture",
+   "authors": [
+    "Jacob Moscona",
+    "Karthik Sastry"
+   ],
+   "year": 2023,
+   "venue": "Quarterly Journal of Economics 138(2), 637-701",
+   "status": "已发表",
+   "url": "https://academic.oup.com/qje/article/138/2/637/6760169",
+   "abstract": null
+  },
+  {
+   "title": "Segmentary Lineage Organization and Conflict in Sub-Saharan Africa",
+   "authors": [
+    "Jacob Moscona",
+    "Nathan Nunn",
+    "James A. Robinson"
+   ],
+   "year": 2020,
+   "venue": "Econometrica 88(5), 1999-2036",
+   "status": "已发表",
+   "url": "https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA16327",
+   "abstract": null
+  },
+  {
+   "title": "Keeping it in the Family: Lineage Organization and the Scope of Trust in Sub-Saharan Africa",
+   "authors": [
+    "Jacob Moscona",
+    "Nathan Nunn",
+    "James A. Robinson"
+   ],
+   "year": 2017,
+   "venue": "American Economic Review Papers and Proceedings 107(5), 565-571",
+   "status": "已发表",
+   "url": "https://www.aeaweb.org/articles?id=10.1257/aer.p20171088",
+   "abstract": null
+  },
+  {
+   "title": "State Capacity and American Technology: Evidence from the 19th Century",
+   "authors": [
+    "Daron Acemoglu",
+    "Jacob Moscona",
+    "James A. Robinson"
+   ],
+   "year": 2016,
+   "venue": "American Economic Review Papers and Proceedings 106(5), 61-67",
+   "status": "已发表",
+   "url": "https://www.aeaweb.org/articles?id=10.1257/aer.p20161071",
+   "abstract": null
+  },
+  {
+   "title": "Appropriate Entrepreneurship: The Rise of China and the Developing World",
+   "authors": [
+    "Josh Lerner",
+    "Junxi Liu",
+    "Jacob Moscona",
+    "David Yang"
+   ],
+   "year": 2026,
+   "venue": "Journal of Political Economy (conditionally accepted)",
+   "status": "即将发表",
+   "url": "https://economics.mit.edu/sites/default/files/inline-files/draft_20260131.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Environmental Catastrophe and the Direction of Invention: Evidence from the American Dust Bowl",
+   "authors": [
+    "Jacob Moscona"
+   ],
+   "year": 2025,
+   "venue": "Review of Economics and Statistics (conditionally accepted)",
+   "status": "即将发表",
+   "url": "https://economics.mit.edu/sites/default/files/inline-files/DB_10282025_0.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Inappropriate Technology: Evidence from Global Agriculture",
+   "authors": [
+    "Jacob Moscona",
+    "Karthik Sastry"
+   ],
+   "year": 2025,
+   "venue": "American Economic Review (conditionally accepted)",
+   "status": "即将发表",
+   "url": "https://economics.mit.edu/sites/default/files/inline-files/IT_Dec2025.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Public R&D Meets Economic Development: Embrapa and Brazil’s Agricultural Revolution",
+   "authors": [
+    "Ariel Akerman",
+    "Jacob Moscona",
+    "Heitor S. Pellegrina",
+    "Karthik Sastry"
+   ],
+   "year": 2026,
+   "venue": "Revise & Resubmit, American Economic Review",
+   "status": "修改重投",
+   "url": "https://economics.mit.edu/sites/default/files/inline-files/embrapa_paper_032026pdf.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Climate Change, Deforestation, and the Expansion of the Global Agricultural Frontier",
+   "authors": [
+    "Allan Hsiao",
+    "Jacob Moscona",
+    "Ben Olken",
+    "Karthik Sastry"
+   ],
+   "year": 2026,
+   "venue": null,
+   "status": "工作论文",
+   "url": "https://allanhsiao.com/files/HMOS_forest.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Foreign Political Risk and Technological Change",
+   "authors": [
+    "Joel Flynn",
+    "Antoine Levy",
+    "Jacob Moscona",
+    "Mai Wo"
+   ],
+   "year": 2025,
+   "venue": null,
+   "status": "工作论文",
+   "url": "https://economics.mit.edu/sites/default/files/inline-files/flmw_11062025.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Flowers of Invention: Patent Protection and Productivity Growth in US Agriculture",
+   "authors": [
+    "Jacob Moscona"
+   ],
+   "year": 2026,
+   "venue": null,
+   "status": "工作论文",
+   "url": "https://economics.mit.edu/sites/default/files/inline-files/flowers-09292026.pdf",
+   "abstract": null
+  },
+  {
+   "title": "With or Without U? Binning Bias and the Causal Effects of Temperature Shocks",
+   "authors": [
+    "Ben Jones",
+    "Ben Olken",
+    "Jacob Moscona",
+    "Cristine von Dessauer"
+   ],
+   "year": 2026,
+   "venue": null,
+   "status": "工作论文",
+   "url": "https://www.dropbox.com/scl/fi/1ya6zzb76g0eayicexr2g/U_Shapes_Paper.pdf?rlkey=rkwfyw4m8iecn1uasrnasaz1m&e=7&st=b5cwqvs7&dl=0",
+   "abstract": null
+  },
+  {
+   "title": "Agricultural Development and Structural Change, Within and Across Countries",
+   "authors": [
+    "Jacob Moscona"
+   ],
+   "year": 2019,
+   "venue": null,
+   "status": "工作论文",
+   "url": "https://economics.mit.edu/sites/default/files/inline-files/moscona_GR_final.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Specializing in Cities: Density and the Pattern of Trade",
+   "authors": [
+    "Antoine Levy",
+    "Jacob Moscona"
+   ],
+   "year": 2022,
+   "venue": null,
+   "status": "工作论文",
+   "url": "https://economics.mit.edu/sites/default/files/inline-files/specializing_in_cities_website.pdf",
+   "abstract": null
+  }
+ ]
+}

@@ -1,0 +1,782 @@
+{
+ "slug": "pietro-f-peretto",
+ "name": "Pietro F. Peretto",
+ "sources": [
+  "https://public.econ.duke.edu/~peretto/papers.html",
+  "https://econ.duke.edu/~peretto"
+ ],
+ "collected": "2026-10-10",
+ "notes": "Papers page (updated Sept 2026) lists working papers and published work; homepage lists two forthcoming books. No abstracts on pages. Skipped 'Effect of Transportation Regulations on Costs, Mode Switching, Innovation, and Growth' (listed without a draft link).",
+ "papers": [
+  {
+   "title": "Knowledge, Industry, and the Endogenous Growth of Nations",
+   "authors": [
+    "Pietro F. Peretto"
+   ],
+   "year": 2027,
+   "venue": "MIT Press (book)",
+   "status": "即将发表",
+   "url": "https://public.econ.duke.edu/~peretto/Peretto%20Book%202026%20TOC.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Schumpeterian Growth Theory, the Great Acceleration, and the Great Divergence",
+   "authors": [
+    "Pietro F. Peretto",
+    "Angus C. Chu"
+   ],
+   "year": null,
+   "venue": "Oxford University Press (book)",
+   "status": "即将发表",
+   "url": "https://public.econ.duke.edu/~peretto/Chu%20Peretto%20Book%202026%20TOC.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Unconditional Transfers, Inequality and Growth in the Short and the Long Run",
+   "authors": [
+    "Pietro F. Peretto",
+    "Filippo Massari"
+   ],
+   "year": 2026,
+   "venue": null,
+   "status": "工作论文",
+   "url": "https://public.econ.duke.edu/~peretto/Massari-Peretto-Unconditional-Transfers-2026.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Current Account and Trade Balance Dynamics in a Schumpeterian Small Open Economy",
+   "authors": [
+    "Pietro F. Peretto",
+    "Domenico Ferraro",
+    "Filippo Massari"
+   ],
+   "year": 2026,
+   "venue": null,
+   "status": "工作论文",
+   "url": "https://www.filippomassari.com/_files/ugd/74cbef_48c4f57e43d3492f9823249a1eeb9f2f.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Cost Push and the Direction of Endogenous Innovation: Transportation, Regulation, and Scarcity",
+   "authors": [
+    "Pietro F. Peretto",
+    "Bentley Coffey",
+    "Patrick McLaughlin"
+   ],
+   "year": 2026,
+   "venue": null,
+   "status": "工作论文",
+   "url": "https://public.econ.duke.edu/~peretto/Transportation-Cost-Push-2026.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Incremental Innovation, Disruptive Innovation and Economic Growth",
+   "authors": [
+    "Pietro F. Peretto",
+    "Antonio Minniti"
+   ],
+   "year": 2025,
+   "venue": "Revise & Resubmit, International Economic Review",
+   "status": "修改重投",
+   "url": "https://public.econ.duke.edu/~peretto/Peretto%20Minniti%20May%202025.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Sustainable Growth and Secular Trends",
+   "authors": [
+    "Pietro F. Peretto",
+    "Simone Valente"
+   ],
+   "year": null,
+   "venue": "Revise & Resubmit, International Economic Review",
+   "status": "修改重投",
+   "url": "https://public.econ.duke.edu/~peretto/PV%20Secular%20Trends.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Paving the Road to Prosperity: Productive Government Spending, Takeoff and Robust Endogenous Growth",
+   "authors": [
+    "Pietro F. Peretto",
+    "Angus Chu",
+    "Xilin Wang"
+   ],
+   "year": null,
+   "venue": "Revise & Resubmit, European Economic Review",
+   "status": "修改重投",
+   "url": "https://public.econ.duke.edu/~peretto/Government%20Spending%20and%20Growth%20May%2027.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Fixed Costs, Markups, and Productivity Growth",
+   "authors": [
+    "Pietro F. Peretto",
+    "Domenico Ferraro",
+    "Soroush Ghazi"
+   ],
+   "year": 2025,
+   "venue": "Revise & Resubmit, American Economic Journal: Macroeconomics",
+   "status": "修改重投",
+   "url": "https://public.econ.duke.edu/~peretto/FGP%20Fixed%20Costs%202025.pdf",
+   "abstract": null
+  },
+  {
+   "title": "The Rise and Evolution of the Innovative Firm",
+   "authors": [
+    "Pietro F. Peretto",
+    "Domenico Ferraro",
+    "Maurizio Iacopetta"
+   ],
+   "year": 2025,
+   "venue": "Revise & Resubmit, Journal of Economic Growth",
+   "status": "修改重投",
+   "url": "https://public.econ.duke.edu/~peretto/FIP_RISE_MANUSCRIPT_REVISED.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Agricultural Trade and Industrial Development",
+   "authors": [
+    "Pietro F. Peretto",
+    "Angus Chu",
+    "Yuichi Furukawa",
+    "Rongxin Xu"
+   ],
+   "year": 2026,
+   "venue": "International Economic Review",
+   "status": "即将发表",
+   "url": "https://public.econ.duke.edu/~peretto/Chu_Furukawa_Peretto_Xu_2024.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Super Robust Endogenous Growth: Theory and Empirical Insights",
+   "authors": [
+    "Pietro F. Peretto",
+    "Filippo Massari"
+   ],
+   "year": 2026,
+   "venue": "Journal of Economic Behavior and Organization",
+   "status": "已发表",
+   "url": "https://public.econ.duke.edu/~peretto/Super%20Robust%20Endogenous%20Growth.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Market Size, Innovation and the Economic Effects of an Epidemic",
+   "authors": [
+    "Pietro F. Peretto",
+    "Domenico Ferraro"
+   ],
+   "year": 2025,
+   "venue": "Journal of Economic Behavior and Organization",
+   "status": "已发表",
+   "url": "https://public.econ.duke.edu/~peretto/PF%20JEBO%202025%20EpiEcon.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Public R&D, Private R&D and Growth: A Schumpeterian Approach",
+   "authors": [
+    "Pietro F. Peretto",
+    "Chien-Yu Huang",
+    "Ching-Chong Lai"
+   ],
+   "year": 2025,
+   "venue": "Journal of Economic Behavior and Organization",
+   "status": "已发表",
+   "url": "https://public.econ.duke.edu/~peretto/JEBO%20Public%20R&D%202025.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Dynamic Effects of Labor Taxation in an Unequal Schumpeterian Economy",
+   "authors": [
+    "Pietro F. Peretto",
+    "Angus Chu",
+    "Chih-Hsing Liao"
+   ],
+   "year": 2025,
+   "venue": "European Economic Review",
+   "status": "已发表",
+   "url": "https://public.econ.duke.edu/~peretto/CLP%20EER%202025.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Growth with Deadly Spillovers",
+   "authors": [
+    "Pietro F. Peretto",
+    "Simone Valente"
+   ],
+   "year": 2025,
+   "venue": "International Economic Review",
+   "status": "已发表",
+   "url": "https://public.econ.duke.edu/~peretto/Int%20Economic%20Review%20-%202025%20-%20Peretto%20-%20Growth%20with%20Deadly%20Spillovers.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Business Tax Reforms, Management Delegation, and Growth",
+   "authors": [
+    "Pietro F. Peretto",
+    "Maurizio Iacopetta"
+   ],
+   "year": 2024,
+   "venue": "European Economic Review",
+   "status": "已发表",
+   "url": "https://public.econ.duke.edu/~peretto/IP%20EER%202024.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Evolution from Political Fragmentation to a Unified Empire in a Malthusian Economy",
+   "authors": [
+    "Pietro F. Peretto",
+    "Angus Chu",
+    "Yuichi Furukawa"
+   ],
+   "year": 2024,
+   "venue": "Journal of Economic Behavior and Organization",
+   "status": "已发表",
+   "url": "https://public.econ.duke.edu/~peretto/CP%20JEBO%202024.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Innovation and Inequality from Stagnation to Growth",
+   "authors": [
+    "Pietro F. Peretto",
+    "Angus Chu"
+   ],
+   "year": 2023,
+   "venue": "European Economic Review",
+   "status": "已发表",
+   "url": "https://public.econ.duke.edu/~peretto/CP%20EER%202023.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Export-Led Takeoff in a Schumpeterian Economy",
+   "authors": [
+    "Pietro F. Peretto",
+    "Angus Chu",
+    "Rongxin Xu"
+   ],
+   "year": 2023,
+   "venue": "Journal of International Economics",
+   "status": "已发表",
+   "url": "https://public.econ.duke.edu/~peretto/CPX%20JIE%202023.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Labor Taxes, Market Size and Productivity Growth",
+   "authors": [
+    "Pietro F. Peretto",
+    "Domenico Ferraro",
+    "Soroush Ghazi"
+   ],
+   "year": 2023,
+   "venue": "Economic Journal",
+   "status": "已发表",
+   "url": "https://public.econ.duke.edu/~peretto/FGP%20EJ%202023.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Agricultural Revolution and Industrialization",
+   "authors": [
+    "Pietro F. Peretto",
+    "Angus Chu",
+    "Xilin Wang"
+   ],
+   "year": 2022,
+   "venue": "Journal of Development Economics",
+   "status": "已发表",
+   "url": "https://public.econ.duke.edu/~peretto/JDE%202022.pdf",
+   "abstract": null
+  },
+  {
+   "title": "The Employment (and Output) of Nations: Theory and Policy Implications",
+   "authors": [
+    "Pietro F. Peretto"
+   ],
+   "year": 2021,
+   "venue": "Economic Modelling",
+   "status": "已发表",
+   "url": "https://public.econ.duke.edu/~peretto/Employment%20of%20Nations%20EC%20Modeling%202021.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Corporate Governance and Industrialization",
+   "authors": [
+    "Pietro F. Peretto",
+    "Maurizio Iacopetta"
+   ],
+   "year": 2021,
+   "venue": "European Economic Review",
+   "status": "已发表",
+   "url": "https://public.econ.duke.edu/~peretto/IP%20EER2021.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Dynamic Effects of Patent Policy on Innovation and Inequality in a Schumpeterian Economy",
+   "authors": [
+    "Pietro F. Peretto",
+    "Angus Chu",
+    "Yuichi Furukawa",
+    "Sushanta Mallick",
+    "Xilin Wang"
+   ],
+   "year": 2021,
+   "venue": "Economic Theory",
+   "status": "已发表",
+   "url": "https://public.econ.duke.edu/~peretto/ET%202021.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Through Scarcity to Prosperity: Toward a Theory of Sustainable Growth",
+   "authors": [
+    "Pietro F. Peretto"
+   ],
+   "year": 2021,
+   "venue": "Journal of Monetary Economics",
+   "status": "已发表",
+   "url": "https://public.econ.duke.edu/~peretto/P%20JME%202021.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Wealth Creation, Wealth Dilution and Population Dynamics",
+   "authors": [
+    "Pietro F. Peretto",
+    "Christa Brunnschweiler",
+    "Simone Valente"
+   ],
+   "year": 2021,
+   "venue": "Journal of Monetary Economics",
+   "status": "已发表",
+   "url": "https://public.econ.duke.edu/~peretto/BPV%20JME%202021.pdf",
+   "abstract": null
+  },
+  {
+   "title": "The Cumulative Cost of Regulations",
+   "authors": [
+    "Pietro F. Peretto",
+    "Bentley Coffey",
+    "Patrick McLaughlin"
+   ],
+   "year": 2020,
+   "venue": "Review of Economic Dynamics",
+   "status": "已发表",
+   "url": "https://public.econ.duke.edu/~peretto/Cumulative-Cost-of-Regulations-2020.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Implications of Tax Policy for Innovation and Aggregate Productivity Growth",
+   "authors": [
+    "Pietro F. Peretto",
+    "Domenico Ferraro",
+    "Soroush Ghazi"
+   ],
+   "year": 2020,
+   "venue": "European Economic Review",
+   "status": "已发表",
+   "url": "https://public.econ.duke.edu/~peretto/FGP%20EER%202020.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Innovation-led Growth in a Time of Debt",
+   "authors": [
+    "Pietro F. Peretto",
+    "Domenico Ferraro"
+   ],
+   "year": 2020,
+   "venue": "European Economic Review",
+   "status": "已发表",
+   "url": "https://public.econ.duke.edu/~peretto/FP%20EER%202020.pdf",
+   "abstract": null
+  },
+  {
+   "title": "More Apples vs. Better Apples: Distribution and Innovation-Driven Growth",
+   "authors": [
+    "Pietro F. Peretto",
+    "Robert Kane"
+   ],
+   "year": 2020,
+   "venue": "Journal of Economic Theory",
+   "status": "已发表",
+   "url": "https://public.econ.duke.edu/~peretto/KP%20JET%202020.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Financial Markets, Industry Dynamics, and Growth",
+   "authors": [
+    "Pietro F. Peretto",
+    "Maurizio Iacopetta",
+    "Raoul Minetti"
+   ],
+   "year": 2019,
+   "venue": "Economic Journal",
+   "status": "已发表",
+   "url": "https://public.econ.duke.edu/~peretto/IMP%20EJ%202019.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Robust Endogenous Growth",
+   "authors": [
+    "Pietro F. Peretto"
+   ],
+   "year": 2018,
+   "venue": "European Economic Review",
+   "status": "已发表",
+   "url": "https://public.econ.duke.edu/~peretto/P%20EER%202018.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Commodity Prices and Growth",
+   "authors": [
+    "Pietro F. Peretto",
+    "Domenico Ferraro"
+   ],
+   "year": 2018,
+   "venue": "Economic Journal",
+   "status": "已发表",
+   "url": "https://public.econ.duke.edu/~peretto/FP%20EJ%202018.pdf",
+   "abstract": null
+  },
+  {
+   "title": "From Smith to Schumpeter: A Theory of Take-off and Convergence to Sustained Growth",
+   "authors": [
+    "Pietro F. Peretto"
+   ],
+   "year": 2015,
+   "venue": "European Economic Review",
+   "status": "已发表",
+   "url": "https://public.econ.duke.edu/~peretto/EER2015b.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Endogenous Growth and Property Rights Over Renewable Resources",
+   "authors": [
+    "Pietro F. Peretto",
+    "Nujin Suphaphiphat",
+    "Simone Valente"
+   ],
+   "year": 2015,
+   "venue": "European Economic Review",
+   "status": "已发表",
+   "url": "https://public.econ.duke.edu/~peretto/EER%202015%20Published.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Growth on a Finite Planet: Resources, Technology and Population in the Long Run",
+   "authors": [
+    "Pietro F. Peretto",
+    "Simone Valente"
+   ],
+   "year": 2015,
+   "venue": "Journal of Economic Growth",
+   "status": "已发表",
+   "url": "https://public.econ.duke.edu/~peretto/Peretto-Valente%20JEG%202015%20official.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Factor-Eliminating Technological Change",
+   "authors": [
+    "Pietro F. Peretto",
+    "John Seater"
+   ],
+   "year": 2013,
+   "venue": "Journal of Monetary Economics",
+   "status": "已发表",
+   "url": "https://public.econ.duke.edu/~peretto/JME2013.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Credit Quantity and Credit Quality: Bank Competition and Capital Accumulation",
+   "authors": [
+    "Pietro F. Peretto",
+    "Nicola Cetorelli"
+   ],
+   "year": 2012,
+   "venue": "Journal of Economic Theory",
+   "status": "已发表",
+   "url": "https://public.econ.duke.edu/~peretto/JET2012.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Resource Abundance, Growth and Welfare: A Schumpeterian Perspective",
+   "authors": [
+    "Pietro F. Peretto"
+   ],
+   "year": 2012,
+   "venue": "Journal of Development Economics",
+   "status": "已发表",
+   "url": "https://public.econ.duke.edu/~peretto/JDE2012.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Market Power, Unemployment, and Growth",
+   "authors": [
+    "Pietro F. Peretto"
+   ],
+   "year": 2012,
+   "venue": "Frontiers of Economic Growth and Development (book chapter)",
+   "status": "已发表",
+   "url": "https://public.econ.duke.edu/~peretto/Peretto%20Growth%20and%20Unemployment%202011%20Paper.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Resources, Innovation and Growth in the Global Economy",
+   "authors": [
+    "Pietro F. Peretto",
+    "Simone Valente"
+   ],
+   "year": 2011,
+   "venue": "Journal of Monetary Economics",
+   "status": "已发表",
+   "url": "https://public.econ.duke.edu/~peretto/JME2011.pdf",
+   "abstract": null
+  },
+  {
+   "title": "The Growth and Welfare Effects of Deficit-Financed Dividend Tax Cuts",
+   "authors": [
+    "Pietro F. Peretto"
+   ],
+   "year": 2011,
+   "venue": "Journal of Money, Credit and Banking",
+   "status": "已发表",
+   "url": "https://public.econ.duke.edu/~peretto/JMCB2011..pdf",
+   "abstract": null
+  },
+  {
+   "title": "Sustaining the Goose That Lays the Golden Egg: A Continuous Treatment of Technological Transfer",
+   "authors": [
+    "Pietro F. Peretto",
+    "Nelson Sá",
+    "Michelle Connolly"
+   ],
+   "year": 2009,
+   "venue": "Scottish Journal of Political Economy",
+   "status": "已发表",
+   "url": "https://public.econ.duke.edu/~peretto/SJPE2009.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Energy Taxes and Endogenous Technological Change",
+   "authors": [
+    "Pietro F. Peretto"
+   ],
+   "year": 2009,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "https://public.econ.duke.edu/~peretto/JEEM2009.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Effluent Taxes, Market Structure and the Rate and Direction of Endogenous Technological Change",
+   "authors": [
+    "Pietro F. Peretto"
+   ],
+   "year": 2008,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "https://public.econ.duke.edu/~peretto/ERE2008.pdf",
+   "abstract": null
+  },
+  {
+   "title": "The Manhattan Metaphor",
+   "authors": [
+    "Pietro F. Peretto",
+    "Michelle Connolly"
+   ],
+   "year": 2007,
+   "venue": "Journal of Economic Growth",
+   "status": "已发表",
+   "url": "https://public.econ.duke.edu/~peretto/JEG2007.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Corporate Taxes, Growth and Welfare in a Schumpeterian Economy",
+   "authors": [
+    "Pietro F. Peretto"
+   ],
+   "year": 2007,
+   "venue": "Journal of Economic Theory",
+   "status": "已发表",
+   "url": "https://public.econ.duke.edu/~peretto/JET2007.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Schumpeterian Growth with Productive Public Spending and Distortionary Taxation",
+   "authors": [
+    "Pietro F. Peretto"
+   ],
+   "year": 2007,
+   "venue": "Review of Development Economics",
+   "status": "已发表",
+   "url": "https://public.econ.duke.edu/~peretto/RDE2007.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Scale Effects in Endogenous Growth Theory: An Error of Aggregation, Not Specification",
+   "authors": [
+    "Pietro F. Peretto",
+    "Christopher Laincz"
+   ],
+   "year": 2006,
+   "venue": "Journal of Economic Growth",
+   "status": "已发表",
+   "url": "https://public.econ.duke.edu/~peretto/JEG2006.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Fiscal Policy and Long-Run Growth in R&D-Based Models with Endogenous Market Structure",
+   "authors": [
+    "Pietro F. Peretto"
+   ],
+   "year": 2003,
+   "venue": "Journal of Economic Growth",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Endogenous Market Structure and the Growth and Welfare Effects of Economic Integration",
+   "authors": [
+    "Pietro F. Peretto"
+   ],
+   "year": 2003,
+   "venue": "Journal of International Economics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Industry and the Family: Two Engines of Growth",
+   "authors": [
+    "Pietro F. Peretto",
+    "Michelle Connolly"
+   ],
+   "year": 2003,
+   "venue": "Journal of Economic Growth",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Technological Distance, Growth and Scale Effects",
+   "authors": [
+    "Pietro F. Peretto",
+    "Sjak Smulders"
+   ],
+   "year": 2002,
+   "venue": "Economic Journal",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Firm Size, Rivalry and the Extent of the Market in Endogenous Technological Change",
+   "authors": [
+    "Pietro F. Peretto"
+   ],
+   "year": 1999,
+   "venue": "European Economic Review",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Industrial Development, Technological Change, and Long-Run Growth",
+   "authors": [
+    "Pietro F. Peretto"
+   ],
+   "year": 1999,
+   "venue": "Journal of Development Economics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Cost Reduction, Entry, and the Interdependence of Market Structure and Economic Growth",
+   "authors": [
+    "Pietro F. Peretto"
+   ],
+   "year": 1999,
+   "venue": "Journal of Monetary Economics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Technological Change and Population Growth",
+   "authors": [
+    "Pietro F. Peretto"
+   ],
+   "year": 1998,
+   "venue": "Journal of Economic Growth",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Technological Change, Market Rivalry, and the Evolution of the Capitalist Engine of Growth",
+   "authors": [
+    "Pietro F. Peretto"
+   ],
+   "year": 1998,
+   "venue": "Journal of Economic Growth",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Variety, Spillovers and Market Structure in a Model of Endogenous Technological Change",
+   "authors": [
+    "Pietro F. Peretto"
+   ],
+   "year": 1998,
+   "venue": "Increasing Returns and Economic Analysis (book chapter)",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Persistence of Innovative Activities, Sectoral Patterns of Innovation, and International Technological Specialization",
+   "authors": [
+    "Pietro F. Peretto",
+    "Franco Malerba",
+    "Luigi Orsenigo"
+   ],
+   "year": 1997,
+   "venue": "International Journal of Industrial Organization",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Sunk Costs, Market Structure, and Growth",
+   "authors": [
+    "Pietro F. Peretto"
+   ],
+   "year": 1996,
+   "venue": "International Economic Review",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Sources, Appropriability and Directions of Technological Change: USA and Italy",
+   "authors": [
+    "Pietro F. Peretto",
+    "Alberto Heimler",
+    "Franco Malerba"
+   ],
+   "year": 1993,
+   "venue": "Banca Nazionale del Lavoro Quarterly Review",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Technology, Learning Opportunity and International Competitiveness",
+   "authors": [
+    "Pietro F. Peretto"
+   ],
+   "year": 1990,
+   "venue": "Giornale degli Economisti",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  }
+ ]
+}

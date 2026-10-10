@@ -1,0 +1,59 @@
+{
+ "slug": "anna-russo",
+ "name": "Anna Russo",
+ "sources": [
+  "https://annarusso.github.io/",
+  "https://annarusso.github.io/files/CV.pdf"
+ ],
+ "collected": "2026-10-10",
+ "notes": "Homepage and CV agree. No abstracts on homepage. Working paper years not shown.",
+ "papers": [
+  {
+   "title": "Flood Risk, Regulated Adaptation, and Housing Supply: Evidence from Florida",
+   "authors": [
+    "Anna Russo",
+    "Abigail Ostriker"
+   ],
+   "year": null,
+   "venue": null,
+   "status": "工作论文",
+   "url": "https://ostriker.github.io/papers/Ostriker-Russo_floodplain-regulations.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Waiting or Paying for Healthcare: Evidence from the Veterans Health Administration",
+   "authors": [
+    "Anna Russo"
+   ],
+   "year": null,
+   "venue": null,
+   "status": "工作论文",
+   "url": "https://annarusso.github.io/papers/russo_wait.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Additionality and Asymmetric Information in Environmental Markets: Evidence from Conservation Auctions",
+   "authors": [
+    "Anna Russo",
+    "Karl M. Aspelund"
+   ],
+   "year": 2026,
+   "venue": "American Economic Review 116(8): 2765-2805 (lead article)",
+   "status": "已发表",
+   "url": "https://annarusso.github.io/papers/aspelund_russo_crp.pdf",
+   "abstract": null
+  },
+  {
+   "title": "The Shape of Regulation: 40 Years of Florida Flood Maps",
+   "authors": [
+    "Anna Russo",
+    "Abigail Ostriker"
+   ],
+   "year": 2025,
+   "venue": "AEA Papers and Proceedings 115: 374-379",
+   "status": "已发表",
+   "url": "https://annarusso.github.io/papers/ostriker-russo-2025-the-shape-of-regulation-40-years-of-florida-flood-maps.pdf",
+   "abstract": null
+  }
+ ]
+}

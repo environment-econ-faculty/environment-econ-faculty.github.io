@@ -4,6 +4,8 @@
 学校: Carnegie Mellon University
 职称: 正教授
 头衔: Teresa and H. John Heinz III Professor of Economics and Public Policy
+单位: Teresa and H. John Heinz III Professor of Economics and Public Policy
+单位类型: 公共政策
 聘任类型: 外系挂靠
 领域层级: 核心领域
 研究方向: 环境; 气候; 能源; 污染与健康

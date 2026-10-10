@@ -1,0 +1,1609 @@
+{
+ "slug": "alexander-pfaff",
+ "name": "Alexander Pfaff",
+ "sources": [
+  "https://sites.sanford.duke.edu/alexpfaff/ (via WordPress posts API /wp-json/wp/v2/posts)",
+  "https://sites.sanford.duke.edu/alexpfaff/wp-content/uploads/sites/15/2024/05/Pfaff240515.pdf"
+ ],
+ "collected": "2026-10-10",
+ "notes": "Homepage research posts (105, with abstracts) used as primary source; they run through 2024 (year categories 2025/2026 exist but are empty). Excluded agency/NGO reports (IPBES Summary for Policy Makers, Meridian Institute reports, Nicholas Institute report, UNICEF KAP report). Added 'Submitted Working Papers' from the May 2024 CV (no links/abstracts); CV 'Presented Working Papers' without posted drafts were skipped. Years are the homepage year category (some differ from final journal year).",
+ "papers": [
+  {
+   "title": "Tackling debt, biodiversity loss, and climate change",
+   "authors": [
+    "Elizabeth C. Losos",
+    "Alexander Pfaff",
+    "Stuart L. Pimm"
+   ],
+   "year": 2024,
+   "venue": "Science volume 343 issue 6696 (2024)",
+   "status": "已发表",
+   "url": "https://doi.org/10.1126/science.ado7418",
+   "abstract": "A “Task Force on Sustainability-Linked Sovereign Financing for Nature and Climate” will convene to establish a framework to ameliorate the debt, biodiversity, and climate crises by reforming debt-for-nature swaps, i.e., voluntary transactions in which creditors reduce or cancel debt in exchange for debtor-country commitments to fund specific environmental activities. We identify four reforms that should underpin the new framework: (i) Offer debt relief at a nationally consequential scale; (ii) defer to debtors on implementation to reduce transaction costs and raise debtors’ benefits; (iii) employ performance-linked instruments based on reliable metrics to ensure global gains; and (iv) integrate all of those metrics across biodiversity conservation, emissions reduction, and climate adaptation to allocate funds most efficiently."
+  },
+  {
+   "title": "A diverse portfolio of marine protected areas can better advance global conservation and equity",
+   "authors": [
+    "David A. Gill",
+    "Sarah E. Lester",
+    "Christopher M. Free",
+    "Alexander Pfaff",
+    "Edwin Iversen",
+    "Brian J. Reich",
+    "Shu Yang",
+    "Gabby Ahmadia",
+    "Dominic A. Andradi-Brown",
+    "Emily S. Darling",
+    "Graham J. Edgar",
+    "Helen E. Fox",
+    "Jonas Geldmann",
+    "Duong Trung Lea",
+    "Michael B. Mascia",
+    "Roosevelt Mesa-Gutiérrez",
+    "Peter J. Mumby",
+    "Laura Veverka",
+    "Laura M. Warmuth"
+   ],
+   "year": 2024,
+   "venue": "Proceedings of the National Academy of Science 121 (2024)",
+   "status": "已发表",
+   "url": "https://doi.org/10.1073/pnas.2313205121",
+   "abstract": "Marine protected areas (MPAs) are widely used for ocean conservation, yet the relative impacts of various types of MPAs are poorly understood. We estimated impacts on fish biomass from no-take and multiple-use (fished) MPAs, employing a rigorous matched counterfactual design with a global dataset of >14,000 surveys in and around 216 MPAs. Both no-take and multiple-use MPAs generated positive conservation outcomes relative to no protection (58.2% and 12.6% fish biomass increases, respectively), with smaller estimated differences between the two MPA types when controlling for additional confounding factors (8.3% increase). Relative performance depended on context and management: no-take MPAs performed better in areas of high human pressure but similar to multiple-use in remote locations. Multiple-use MPA performance was low in high-pressure areas but improved significantly with better management, producing similar outcomes to no-take MPAs when adequately staffed and appropriate use regulations were applied. For priority conservation areas where no-take restrictions are not possible or ethical, our findings show that a portfolio of well-designed and well-managed multiple-use MPAs represents a viable and potentially equitable pathway to advance local and global conservation."
+  },
+  {
+   "title": "No crowding out among those terminated from an ongoing PES program in Colombia",
+   "authors": [
+    "Esther Blanco",
+    "Lina Moros",
+    "Alexander Pfaff",
+    "Ivo Steimanis",
+    "Maria Alejandra Velez",
+    "Bjorn Vollan"
+   ],
+   "year": 2023,
+   "venue": "Journal of Environmental Economics and Management 120 (2023)",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jeem.2023.102826",
+   "abstract": "This paper presents novel evidence of no crowding out, of either motivations or donations, among those terminated from an ongoing program of payments for ecosystem services (PES) in Colombia. PES programs have risen in number. However, claims about perverse impacts after programs end could inhibit their growth. PES end for different reasons (planned duration, budget reduction, issues in implementation) and in different ways (some participants or all). An expressed concern for PES is that receiving payments lowers conservation, after PES end, if participants’ intrinsic motivations for conservation are ‘crowded out’ by financial incentives. We test for crowding out by an ongoing program in which some but not all contracts were terminated. We see no evidence of crowding out, since neither the motivations nor the donations for the terminated farmers are significantly different than for non-PES land owners (and this is robust to matching on levels of assets, residence on farm past donation behavior, main economic activity, and participation in collective activities). Our results add evidence from an actual PES to literature questioning the relevance, importance and even sign of crowding effects."
+  },
+  {
+   "title": "Forest Concessions and Eco-Certifications in the Peruvian Amazon: deforestation impacts of logging rights and logging restrictions",
+   "authors": [
+    "Jimena Rico-Straffon",
+    "Zhenhua Wang",
+    "Stephanie Panlasigui",
+    "Colby J. Loucks",
+    "Jennifer Swenson",
+    "Alexander Pfaff"
+   ],
+   "year": 2023,
+   "venue": "Journal of Environmental Economics and Management 118 (2023)",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jeem.2022.102780",
+   "abstract": "Concessions that grant logging rights to firms support economic development based on forest resources. Eco-certifications put sustainability restrictions on the operations of those concessions. For spatially detailed data, including many pre-treatment years, we use new difference-indifferences estimators to estimate 2002–2018 impacts upon Peruvian Amazon forests from both logging concessions and their eco-certifications. We find that the concessions — which in theory could raise or reduce forest loss — did not raise loss, if anything reducing it slightly by warding off spikes in deforestation pressure. Eco-certifications could reduce or raise forest loss, yet we find no significant impacts."
+  },
+  {
+   "title": "Temporary PES do not crowd out and may crowd in lab-in-the-field forest conservation in Colombia",
+   "authors": [
+    "Lina Moros",
+    "Maria Alejandra Velez",
+    "Daniela Quintero",
+    "Danny Tobin",
+    "Alexander Pfaff"
+   ],
+   "year": 2023,
+   "venue": "Ecological Economics 204 (2023)",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.ecolecon.2022.107652",
+   "abstract": "Payments for ecosystem services (PES) programs exist globally and at times shift behaviors. Unlike protected areas, PES compensate land users, raising local acceptance of conservation. Yet some worry that if payments are temporary, as is often the case, conservation behaviors can be reduced by PES, ‘crowded out’ to be lower after PES than if no PES had existed. We conducted lab-in-the-field experiments in Colombia, where PES policies are expanding, offering either individual or collective conditional payments to 676 farmers who are potential PES participants. Those payments end, within each experimental session, for all or only for some participants. We consistently find that conservation is not lower after PES than before. Also, conservation contributions tend to fall over time without PES, in keeping with public-goods literatures. Taken together, these results imply that even after our payments end, conservation is above the baseline defined by our controls, suggesting some form of (at least short-run) crowding in."
+  },
+  {
+   "title": "Does the Selective Erasure of Protected Areas Raise Deforestation in the Brazilian Amazon?",
+   "authors": [
+    "Derya Keles",
+    "Alexander Pfaff",
+    "Michael B. Mascia"
+   ],
+   "year": 2022,
+   "venue": "Journal of the Association of Environmental and Resource Economists (2022)",
+   "status": "已发表",
+   "url": "https://doi.org/10.1086/723543",
+   "abstract": "Protected areas (PAs) are the leading policy to lower deforestation. Yet resistance by land users leads PAs to be created in remote sites, lowering impact. Resistance continues after PA creation, with both illegal deforestation and advocacy for PADDD, that is, reducing PA status (downgrading) or PA size (partial or full erasure, downsizing or degazettement). For the Brazilian Amazon, we estimate 2010–15 forest impacts of 2009–12 PA erasures, on average and for distinct states. Before panel-DID regression, to find similar controls we matched using static characteristics and 8–10 years of pretreatment deforestation. PA erasures should raise deforestation if erased PAs faced and blocked pressures. Consistent with this, three conditions for “environmental selection” yielded little short-run impact from PADDD: low pressures, unblocked higher pressures, and pressures blocked less by those PAs selected for erasures. Yet for “development selection,” with PA erasures in sites with pressures plus enforcement, PADDD yielded increased deforestation."
+  },
+  {
+   "title": "Environmental Policies Benefit Economic Development: Implications of Economic Geography",
+   "authors": [
+    "Seth Morgan",
+    "Alexander Pfaff",
+    "Julien Wolfersberger"
+   ],
+   "year": 2022,
+   "venue": "Annual Review of Resource Economists (2022) 022804",
+   "status": "已发表",
+   "url": "https://sites.sanford.duke.edu/alexpfaff/wp-content/uploads/sites/15/2023/08/Morgan-Pfaff-Wolfersberger-2022-Annual-Reviews-Resource-Economics-111920-022804.pdf",
+   "abstract": "For over a century, starting with the work of Alfred Marshall (and also in resource economics), economic geography has emphasized the productivity of dense urban agglomerations. Yet little attention is paid to one key policy implication of economic geography’s core mechanisms: Environmental policies can aid economic development, per se—not hurting the economy to help the environment but advancing both objectives.We review mechanisms from economic geography that imply that environmental policies can deliver such win-wins: influences upon agglomeration of long-tanding natural conditions, like usable bays, which long were perceived as fixed yet now are being shifted by global environmental quality; agglomeration’s effects on other influential conditions, like urban environmental quality; and the effects of rural environmental quality on the flows to cities of people and environmental quality. Finally, we consider a geographic policy typology in asking why society leaves money on the table by failing to promote environmental policies despite the potential win-wins that we highlight."
+  },
+  {
+   "title": "The Brazilian intergovernmental fiscal transfer for conservation: a successful but self-limiting incentive program",
+   "authors": [
+    "Patricia G.C. Ruggiero",
+    "Alexander Pfaff",
+    "Paula Pereda",
+    "Elizabeth Nicholas",
+    "Jean Paul Metzger"
+   ],
+   "year": 2021,
+   "venue": "Ecological Economics 191 (2021)",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.ecolecon.2021.107219",
+   "abstract": "Brazil’s ecological intergovernmental fiscal transfer (ICMS-E) is a conservation incentive for protected areas (PAs). It redistributes tax revenues to reward municipalities for hosting PAs. To quantify its impact on the creation of state and municipal PAs, we used panel regressions on a longitudinal municipality dataset that combined information on PA creation and ICMS-E implementation for the 1467 municipalities in 6 Brazilian states in the Atlantic Forest region that never changed borders, from 1987 to 2016. We found that the percent of the municipal area covered with state or municipal PAs increased as a consequence of ICMS-E implementation. However, the magnitude of this effect declined as the ICMS-E revenue is shared more widely due to the expansion of PAs that reduced the gain from new PAs. We also found that ICMS-E policy primarily spurred the creation of PAs with less restrictive rules – similar to IUCN category V reserves – mainly by municipalities. For more restrictive PAs with higher local costs for municipalities, ICMS-E promoted state-proposed PAs but not municipal PAs. Our results suggest that states used ICMS-E to incentivize local implementation of their conservation preferences, including strict conservation, while municipal governments responded mostly with low-cost actions to increase their revenues."
+  },
+  {
+   "title": "Can we increase the impacts from payments for ecosystem services? Impact rose over time in Costa Rica, yet spatial variation indicates more potential",
+   "authors": [
+    "Juan Robalino",
+    "Alexander Pfaff",
+    "Catalina Sandoval",
+    "G. Arturo Sanchez-Azofeifa"
+   ],
+   "year": 2021,
+   "venue": "Forest Policy and Economics 132 (2021)",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.forpol.2021.102577",
+   "abstract": "As programs with payments for ecosystem services (PES) have become more numerous, raising the need for and also the opportunity for rigorous evidence on their contributions, we examine shifts within Costa Rica’s Pagos por Servicios Ambientales (PSA) program. The PSA was heralded from its initiation, despite demonstrations of low early impacts. We study shifts in impact over time across early periods and whether further adjustments could raise contributions. Looking over time, we find that PSA contracts signed for the 2000–2005 period had higher impacts than contracts for the program’s initial time period, 1997–1999 found in previous research. Looking over space, we find that PSA payments have higher impacts for lower slopes and lower market distances. Linking these results, the rise in impact for 2000–2005 occurred alongside a shift in the targeting of PSA, which was along ecological dimensions (limiting effects of owners offering unprofitable lands). Yet the spatial variations in impacts we document suggest that explicitly targeting impact offers the potential to further raise PES impacts in Costa Rica, as well as in other nations."
+  },
+  {
+   "title": "Leaders’ distributional & efficiency effects in collective responses to policy: Lab-in-field experiments with small-scale gold miners in Colombia",
+   "authors": [
+    "Luz A. Rodriguez",
+    "Maria Alejandra Velez",
+    "Alexander Pfaff"
+   ],
+   "year": 2021,
+   "venue": "World Development 147 (2021)",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.worlddev.2021.105648",
+   "abstract": "Globally, small-scale gold mining (SSGM) is an important economic option for many rural poor. It involves local uses of shared resources, like common-pool contexts for which self-governance has avoided ‘tragedies of the commons’. Yet even ideal local governance of SSGM is not societally efficient given non-local damages that suggest external interventions for desired shifts. Because transactions costs are high for rewarding reductions in damages on remote mining frontiers, states could gain if rewards based on low-cost, group compliance measures could successfully induce cooperation in response to policy. However, as group-level rewards invite free-riding, such success requires local collective action. Since that guarantees neither efficient coordination nor equitable distributions of net benefits from compliance, we consider the impacts of emergent leaders on local responses to external policy. We employ framed lab experiments with 200 small-scale gold miners in Colombia’s Pacific to explore leaders’ impacts on equity and efficiency in collective responses to external incentives. Allowing communication before individual choice, which raises efficiency but not always equity, we can identify emergent leaders of groups’ communications. Leaders raise compliance and affect how its costs are distributed, suggesting access to leadership roles matters."
+  },
+  {
+   "title": "Election cycles affect deforestation within Brazil’s Atlantic Forest",
+   "authors": [
+    "Patricia G.C. Ruggiero",
+    "Alexander Pfaff",
+    "Elizabeth Nicholas",
+    "Marcos Rosa",
+    "Jean Paul Metzger"
+   ],
+   "year": 2021,
+   "venue": "Conservation Letters (2021)",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/conl.12818",
+   "abstract": "Policymakers’ incentives during election campaigns can lead to decisions that significantly affect deforestation. Yet this is rarely studied. For Brazil’s Atlantic Forest, a highly biodiverse tropical forest, we link federal-and-state as well as municipal elections to annual deforestation between 1991 and 2014. Across 2253 municipalities, those with higher deforestation see a significant rise in deforestation during federal-and-state election years. Municipal election years raise deforestation for locations with lower deforestation, whereas all of these increases are accentuated when there is party alignment between different levels of government. This effect of election cycles has fallen over time, to date, yet that cannot be assumed to continue. Our results highlight the need to limit opportunistic behaviors that affect natural resources and the environment with implications for biodiversity, carbon storage, and other ecosystem services."
+  },
+  {
+   "title": "What Drives the Erasure of Protected Areas? Evidence from across the Brazilian Amazon",
+   "authors": [
+    "Derya Keles",
+    "Philippe Delacote",
+    "Alexander Pfaff",
+    "Siyu Qin",
+    "Michael B. Mascia"
+   ],
+   "year": 2020,
+   "venue": "Ecological Economics 176 (2020) 106733",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.ecolecon.2020.106733",
+   "abstract": "Protected areas (PAs) are a widely used strategy for conserving forests and ecosystem services. When PAs succeed in deterring economic activities that degrade forests, the impacts include more forest yet less economic gain. These economic opportunity costs of conservation lead actors with economic interests to resist new PAs, driving their sites away from profitable market centers and towards areas featuring lower opportunity costs. Further, after PAs are created, economic actors may want PA downgrading, downsizing, and degazettement (collectively PADDD). We examine reductions in PAs’ spatial extent – downsizings (partial erasures) and degazettements (complete erasures) − that presumably reduce protection. Using data for the entire Brazilian Amazon from PADDDtracker.org, our empirical analyses explore whether size reductions from 2006 to 2015 resulted from bargaining between development and conservation. We find that the risks of PA size reductions are raised by: lower travel costs (as implied by distances to roads and cities), which affect economic gains and enforcement; greater PA size, which affects enforcement; and more prior internal deforestation, which lowers the impacts of size reductions. These dynamics of protection offer insights on the potentially conflicting factors that lead to PA size reductions, with implications for policymaking to enhance PA effectiveness and permanence."
+  },
+  {
+   "title": "The Effectiveness of Forest Conservation Policies and Programs",
+   "authors": [
+    "Jan Borner",
+    "Dario Schulz",
+    "Sven Wunder",
+    "Alexander Pfaff"
+   ],
+   "year": 2020,
+   "venue": "Annual Review of Resource Economics 12:19.1-19.20 (2020)",
+   "status": "已发表",
+   "url": "https://doi.org/10.1146/annurev-resource-110119-025703",
+   "abstract": "The world’s forests provide valuable contributions to people but continue to be threatened by agricultural expansion and other land uses.Counterfactual-based methods are increasingly used to evaluate forest conservation initiatives. This review synthesizes recent studies quantifying the impacts of such policies and programs.Extending past reviews focused on instrument choice, design, and implementation, our theory of change explicitly acknowledges context. Screening over 60,000 abstracts yielded 136 comparable normalized effect sizes (Cohen’s d). Comparing across instrument categories, evaluation methods, and contexts suggests not only a lack of “silver bullets” in the conservation toolbox, but that effectiveness is also low on average. Yet context is critical. Many interventions in our sample were implemented in “bulletproof” contexts of low pressure on natural resources. This greatly limits their potential impacts and suggests the need to invest further not only in understanding but also in better aligning conservation with local and global development goals."
+  },
+  {
+   "title": "Evaluating REDD+ at Subnational Level: Amazon Fund impacts in Alta Floresta, Brazil",
+   "authors": [
+    "Juliano Correa",
+    "Elias Cisneros",
+    "Jan Borner",
+    "Alexander Pfaff",
+    "Marcelo Costa",
+    "Raoni Rajao"
+   ],
+   "year": 2020,
+   "venue": "Forest Policy and Economics 116:102178",
+   "status": "已发表",
+   "url": "https://sites.sanford.duke.edu/alexpfaff/wp-content/uploads/sites/15/2020/04/Correa-et-al.-2020-Amazon-Fund-Alta-Floresta-Forest-Policy-and-Economics.pdf",
+   "abstract": "The Amazon Fund is the world’s largest program to reduce emissions from deforestation and forest degradation (REDD+), funded with over US $1b donated by Norway and Germany between 2008 and 2017 to reward Brazil for prior deforestation reductions. Olhos D’Água da Amazônia is cited as a leading project success − with over one thousand small-to-medium-sized crop and livestock producers in the municipality of Alta Floresta, Mato Grosso State receiving more from the Amazon Fund than all but two other municipalities. To secure property rights, aid environmental planning, and raise farmers’ productivity and output diversity, the project helped farmers register in Brazil’s environmental cadaster and receive property certificates. Furthermore, Olhos D’Água supported milk and honey production and paid farmers to conserve riverine forest sites. We estimate causal effects of Olhos D’Água, versus a counterfactual estimate of what would have happened without the project, using a synthetic-control method. We build from the pool of blacklisted municipalities weighted averages (synthetic controls) that best match pre-treatment outcomes for Alta Floresta. Project effects are estimated as post-treatment differences between Alta Floresta and the synthetic controls. We find that the project increased new CAR registrations, and INCRA certifications, and may have moderately increased honey and milk production. Alta Floresta’s annual forest losses remained historically low but we find no clear causal effect of the project on deforestation rates. Our results support that rigorous impact evaluation can motivate and guide project improvements."
+  },
+  {
+   "title": "Investing in local capacity to respond to a federal environmental mandate: forest & economic impacts of the Green Municipality Program in the Brazilian Amazon",
+   "authors": [
+    "Erin Sills",
+    "Alexander Pfaff",
+    "Luiza Andrade",
+    "Justin Kirkpatrick",
+    "Rebecca Dickson"
+   ],
+   "year": 2020,
+   "venue": "World Development 129:104891",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.worlddev.2020.104891",
+   "abstract": "Over the past decade, the Brazilian federal government has offered a negative collective incentive to reduce deforestation by ‘blacklisting’ the municipalities in the Amazon with the highest deforestation rates. As for any unfunded mandate, the responses to blacklisting depend on both local incentives and local capacities. We evaluate a state program — Programa Municípios Verdes (PMV) or the Green Municipality Program — to increase the capacity of municipal governments in the state of Pará to respond to this federal incentive. The PMV is voluntary, as municipal governments choose whether to participate. To control for differences due to self-selection into the program, we employ quasi-experimental methods: two-way, fixed-effects regressions in matched samples of municipalities; and the synthetic control method that compares outcomes in a participating municipality to outcomes in a weighted blend of control municipalities. Neither approach suggests that the PMV reduced deforestation beyond the effect of the blacklist. We hypothesize that municipalities joined the PMV to ameliorate the costs of complying with blacklist requirements, including the costs of exiting the blacklist. We show that the PMV increased total value added – with substantial heterogeneity – in participating blacklisted municipalities, and that these gains likely are not due to agricultural intensification. They may result from reductions in compliance risk and cost that make economic investments in a municipality more appealing. In the long run, this could make forest conservation more socially and politically sustainable."
+  },
+  {
+   "title": "Pervasive human-driven decline of life on Earth points to the need for transformative change",
+   "authors": [
+    "Sandra Diaz",
+    "Josep Settele",
+    "Eduardo Brondizio",
+    "H.T. Ngo",
+    "A. Arneth",
+    "P. Balvanera",
+    "K.A. Brauman",
+    "S.H.M. Butchart",
+    "K.M.A. Chan",
+    "L.A. Garibaldi",
+    "K. Ichii",
+    "J. Liu",
+    "S.M. Subramanian",
+    "G.F. Midgley",
+    "P. Miloslavish",
+    "Z. Molnar",
+    "D. Obura",
+    "A. Pfaff",
+    "S. Polasky",
+    "A. Purvis",
+    "J. Razzaque",
+    "B. Reyers",
+    "R.R. Chowdury",
+    "Y. Shin",
+    "I. Visseren-Hamakers",
+    "K.J. Willis",
+    "C.N. Zayas"
+   ],
+   "year": 2019,
+   "venue": "Science 366",
+   "status": "已发表",
+   "url": "https://doi.org/10.1126/science.aaw3100",
+   "abstract": "The human impact on life on Earth has increased sharply since the 1970s, driven by the demands of a growing population with rising average per capita income. Nature is currently supplying more materials than ever before, but this has come at the high cost of unprecedented global declines in the extent and integrity of ecosystems, distinctness of local ecological communities, abundance and number of wild species, and the number of local domesticated varieties. Such changes reduce vital benefits that people receive from nature and threaten the quality of life of future generations. Both the benefits of an expanding economy and the costs of reducing nature’s benefits are unequally distributed. The fabric of life on which we all depend — nature and its contributions to people — is unravelling rapidly. Despite the severity of the threats and lack of enough progress in tackling them to date, opportunities exist to change future trajectories through transformative action. Such action must begin immediately, however, and address the root economic, social, and technological causes of nature’s deterioration."
+  },
+  {
+   "title": "Graduated stringency within collective incentives for group environmental compliance: Building coordination in field-lab experiments with artisanal gold miners in Colombia",
+   "authors": [
+    "Luz A. Rodriguez",
+    "Alexander Pfaff",
+    "Maria Alejandra Velez"
+   ],
+   "year": 2019,
+   "venue": "Journal of Environmental Economics and Management 98",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jeem.2019.102276",
+   "abstract": "Small-scale gold mining is important to rural livelihoods in the developing world but also a source of environmental externalities. Incentives for individual producers are the classic policy response for a socially efficient balance between livelihoods and the environment. Yet monitoring individual miners is ineffective, or it is very costly, especially on frontiers with scattered small-scale miners. We ask whether monitoring at a group level effectively incentivizes cleaner artisanal mining by combining lower-cost external monitoring with local collective action.We employ a mining-framed, threshold-public-goods experiment in Colombia’s Pacific region, with 640 participants from frontier mining communities. To study compliance with collective environmental targets, we vary the target stringency, including to compare increases over time in the stringency versus decreases. We find that collective incentives can induce efficient equilibria, with group compliance — and even inefficient overcompliance — despite the existence of equilibria with zero contributions. Yet, for demanding targets in which the reward for compliance barely outweighs the cost, compliance can collapse. Those outcomes improve with past successes for easier targets, however, so our results suggest gain from building coordination via graduated stringency."
+  },
+  {
+   "title": "Impacts of protected areas vary with the level of government: comparing avoided deforestation across agencies in the Brazilian Amazon",
+   "authors": [
+    "Diego Herrera",
+    "Alexander Pfaff",
+    "Juan Robalino"
+   ],
+   "year": 2019,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "https://doi.org/10.1073/pnas.1802877116",
+   "abstract": "Protected areas (PAs) are the leading tools to conserve forests. However, given their mixed effectiveness, we want to know when they have impacts internally and, if they do, when they have spillovers. Political economy posits roles for the level of government. One hypothesis is that federal PAs avoid more internal deforestation than state PAs since federal agencies consider gains for other jurisdictions. Such political differences as well as economic mechanisms can cause PA spillovers to vary greatly, even from “leakage,” more deforestation elsewhere, to “blockage,” less deforestation elsewhere. We examine internal impacts and local spillovers for Brazilian Amazon federal and state agencies. Outside the region’s “arc of deforestation,” we confirm little internal impact and show no spillovers. In the “arc,” we test impacts by state, as states are large and feature considerably different dynamics. For internal impacts, estimates for federal PAs and indigenous lands are higher than for state PAs. For local spillover impacts, estimates for most arc states either are not significant or are not robust; however, for Pará, federal PAs and indigenous lands feature both internal impacts and local spillovers. Yet, the spillovers in Pará go in opposite directions across agencies, leakage for indigenous lands but blockage for federal PAs, suggesting a stronger external signal from the environmental agency. Across all these tools, only federal PAs lower deforestation internally and nearby. Results suggest that agencies’ objectives and capacities are critical parts of the contexts for conservation strategies."
+  },
+  {
+   "title": "Reducing Environmental Risks from Belt and Road Initiative Investments in Transportation Infrastructure",
+   "authors": [
+    "Elizabeth Losos",
+    "Alexander Pfaff",
+    "Lydia Olander",
+    "Sara Mason",
+    "Seth Morgan"
+   ],
+   "year": 2019,
+   "venue": "World Bank Policy Research Working Paper 8718",
+   "status": "工作论文",
+   "url": "https://sites.sanford.duke.edu/alexpfaff/wp-content/uploads/sites/15/2020/04/WPS8718.pdf",
+   "abstract": "The Belt and Road Initiative, due to its diverse and extensive infrastructure investments, poses a wide range of environmental risks. Some projects have easily identifiable and measurable impacts, such as energy projects’ greenhouse gas emissions. Others, such as transportation infrastructure, due to their vast geographic reach, generate more complex and potentially more extensive environmental risks. The proposed Belt and Road Initiative rail and road investments have stimulated concerns because of the history of significant negative environmental impacts from large-scaletransportation projects across the globe. This paper studies environmental risks—direct and indirect—from Belt and Road Initiative transportation projects and the mitigation strategies and policies to address them. The paper concludes with a recommendation on how to take advantage of the scale of the Belt and Road Initiative to address these concerns in a way not typically available to stand-alone projects. In short, this scale motivates and permits early integrated development and conservation planning."
+  },
+  {
+   "title": "Collective Local Payments for Ecosystem Services: new local PES between groups, sanctions, and prior watershed trust in Mexico",
+   "authors": [
+    "Alexander Pfaff",
+    "Luz Angela Rodriguez",
+    "Elizabeth Shapiro-Garza"
+   ],
+   "year": 2019,
+   "venue": "Water Resources and Economics 28",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.wre.2019.01.002",
+   "abstract": "Payments for ecosystem services (PES) programs are now high in number, if not always in impact. When groups of users pay groups of service providers, establishing PES involves collective action. We study the creation of collective PES institutions, and their continuation, as group coordination. We use framed lab-in-field experiments with hydroservices users and providers within watersheds participating in Mexico’s Matching Funds program in Veracruz, Yucatan and Quintana Roo states. We explore the coordination of contributions between downstream users and upstream providers, plus effects of different types of sanctions that can affect expectations for both users and providers. Both information alone and sanctions raise contributions overall, although outcomes varied by site in line with our rankings of ‘watershed trust’. For instance, monetary sanctions raise contributions in the watershed we ranked high in trust, yet initially lowered them for the lowest-trust watershed. This suggests that upstream-downstream social capital will be central to new collective local PES, while our overall trends suggest social capital can be raised by successful coordination over time."
+  },
+  {
+   "title": "Evaluating the impacts of protected areas on human well-being across the developing world",
+   "authors": [
+    "Robin Naidoo",
+    "Drew Gerkey",
+    "David Hole",
+    "Alexander Pfaff",
+    "Alicia Ellis",
+    "Chris Golden",
+    "Diego Herrera",
+    "Kiersten Johnson",
+    "Mark Mulligan",
+    "Taylor Ricketts",
+    "Brendan Fisher"
+   ],
+   "year": 2019,
+   "venue": "Science Advances 5:eaav3006",
+   "status": "已发表",
+   "url": "https://sites.sanford.duke.edu/alexpfaff/wp-content/uploads/sites/15/2020/04/Naidoo-et-al.-Sci.-Adv.-2019.pdf",
+   "abstract": "Protected areas (PAs) are fundamental for biodiversity conservation, yet their impacts on nearby residents are contested. We synthesized environmental and socioeconomic conditions of >87,000 children in >60,000 households situated either near or far from >600 PAs within 34 developing countries. We used quasi-experimental hierarchical regression to isolate the impact of living near a PA on several aspects of human well-being. Households near PAs with tourism also had higher wealth levels (by 17%) and a lower likelihood of poverty (by 16%) than similar households living far from PAs. Children under 5 years old living nearmultiple-use PAs with tourism also had higher height-for-age scores (by 10%) and were less likely to be stunted (by 13%) than similar children living far from PAs. For the largest and most comprehensive socioeconomic-environmental dataset yet assembled, we found no evidence of negative PA impacts and consistent statistical evidence to suggest PAs can positively affect human well-being."
+  },
+  {
+   "title": "Impacts of Certification, Uncertified Concessions, Hunting Zones and Protected Areas on Forest Loss in Cameroon, 2000 to 2013",
+   "authors": [
+    "Stephanie Panlasigui",
+    "Jimena Rico-Straffon",
+    "Alexander Pfaff",
+    "Jennifer Swenson",
+    "Colby Loucks"
+   ],
+   "year": 2018,
+   "venue": "Biological Conservation 227:160-166",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.biocon.2018.09.013",
+   "abstract": "Deforestation and forest fragmentation are leading drivers of biodiversity loss. Protected areas have been the leading conservation policy response, yet their scale and scope remain inadequate to meet biodiversity conservation targets. Managed forest concessions increasingly have been recognized as a complement to protected areas in meeting conservation targets. Similarly, programs for voluntary third-party certification of concession management aim to create incentives for logging companies to manage forests more sustainably. Rigorous evidence on the impacts from large-scale certification programs is thereby critical, yet detailed field observations are limited, temporally and spatially. Remotely-sensed data, in contrast, can provide repeated observations over time and at a fine spatial scale, albeit with less detail. Using the Global Forest Change dataset, we examine annual forest loss in Cameroon during 2000–2013 to assess the impact of Forest Stewardship Council certification, as well as uncertified logging concessions and national parks. We use panel regressions that control for the effects of unobserved factors that vary across space or time. We find low forest loss inside the boundaries of each management intervention, with < 1% lost over the study period. Yet those low levels of loss appear to be influenced more by a site’s proximity to drivers of deforestation, such as distances to population centers or roads, than by national parks, uncertified concessions, or certification. The exception is that if a site faces high deforestation pressure, uncertified logging concessions appear to reduce forest loss. This may reflect private companies’ incentives to protect rights to forest use. Such an influence of private logging companies could provide a foundation for future impacts from certification upon rates of forest loss, at least within areas that are facing elevated deforestation pressures."
+  },
+  {
+   "title": "Nature can deliver on the SDGs",
+   "authors": [
+    "Brendan Fisher",
+    "Diego Herrera",
+    "Diane Adams",
+    "Helen E. Fox",
+    "Louise Gallagher",
+    "Drew Gerkey",
+    "David Gill",
+    "Christopher D. Golden",
+    "David Hole",
+    "Kiersten Johnson",
+    "Mark Mulligan",
+    "Samuel S. Myers",
+    "Robin Naidoo",
+    "Alexander Pfaff",
+    "Ranaivo Rasolofoson",
+    "Elizabeth Selig",
+    "David Tickner",
+    "Timothy Treuer",
+    "Taylor Ricketts"
+   ],
+   "year": 2018,
+   "venue": "Lancet Planetary Health",
+   "status": "已发表",
+   "url": "https://sites.sanford.duke.edu/alexpfaff/wp-content/uploads/sites/15/2020/04/Lancet-Planetary-Health_Nature-and-SDGs_Comment.pdf",
+   "abstract": "The increasing availability of data and improved analytic techniques now enable us to better understand when and where investing in nature can deliver net benefits for people − especially with respect to the most vulnerable populations in developing countries. These advances open the door for efficient interventions that can advance multiple SDGs at once. Recently, we harmonized a suite of global datasets to explore the critical nexus of forests, poverty and human health – an overlap of SDGs 1, 2, 3, 6 and 15. Our approach combined demographic and health surveys for 297,112 children in 35 developing countries with data describing the local environmental conditions for each child4 (Fig. 1a; see online materials for details). This allowed us to estimate the effect forests may play in supporting human health, while controlling for the influence of important socio-economic differences. We extended this work to look at how forests affect three childhood health concerns of global significance – stunting, anemia, and diarrheal disease."
+  },
+  {
+   "title": "Contracts versus Trust for Transfers of Nature’s Services: equity and efficiency in resource allocation and environmental provision",
+   "authors": [
+    "Alexander Pfaff",
+    "Maria Alejandra Velez",
+    "Amar Hamoudi",
+    "Renzo Taddei",
+    "Kenneth Broad"
+   ],
+   "year": 2018,
+   "venue": "Water Resources & Economics 2018",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.wre.2018.04.001",
+   "abstract": "Managing natural-resource allocation and environmental externalities is a challenge. Institutional designs are central when improving water quality for downstream users, for instance, and when reallocating water quantities including for climate adaptation. Views differ on which institutions are best: states; markets; or informal institutions. For transfers of ecosystem services, we compare informal trust-based institutions to enforced contracts, both being institutional types we observe commonly in the field. The trust-based institutions lack binding promises, thus ecosystem-services suppliers are unsure about the compensation they will receive for transferring services to users. We employ decision experiments given the shortcomings of the alternative methods for empirical study of institutions, as well as the limits on theoretical prediction about behaviors under trust. In our bargaining game that decouples equity and efficiency, we find that enforced contracts increased efficiency as well as all measures of equity. This informs the design of institutions to manage transfers of ecosystem services, as equity in surplus sharing is important in of itself and in permitting efficient allocation."
+  },
+  {
+   "title": "Land-use and land-cover change shape the sustainability and impacts of protected areas",
+   "authors": [
+    "Anteneh Tesfaw",
+    "Alexander Pfaff",
+    "Rachel E. Golden Kroner",
+    "Siyu Qin",
+    "Rodrigo Medeiros",
+    "Michael B. Mascia"
+   ],
+   "year": 2018,
+   "venue": "Proceedings of the National Academy of Sciences 115(9):2084-2089",
+   "status": "已发表",
+   "url": "https://doi.org/10.1073/pnas.1716462115",
+   "abstract": "Protected areas (PAs) remain the dominant policy to protect biodiversity and ecosystem services but have been shown to have limited impact when development interests force them to locations with lower deforestation pressure. Far less known is that such interests also cause widespread tempering, reduction, or removal of protection [i.e., PA downgrading, downsizing, and degazettement (PADDD)]. We inform responses to PADDD by proposing and testing a bargaining explanation for PADDD risks and deforestation impacts. We examine recent degazettements for hydropower development and rural settlements in the state of Rondônia in the Brazilian Amazon. Results support two hypotheses: (i) ineffective PAs (i.e., those where internal deforestation was similar to nearby rates) were more likely to be degazetted and (ii) degazettement of ineffective PAs caused limited, if any, additional deforestation. We also report on cases in which ineffective portions were upgraded. Overall our results suggest that enhancing PAs’ ecological impacts enhances their legal durability."
+  },
+  {
+   "title": "Roads & SDGs, Tradeoffs and Synergies: learning from Brazil’s Amazon in distinguishing frontiers",
+   "authors": [
+    "A.Pfaff",
+    "J.Robalino",
+    "R.Walker",
+    "S.Perz",
+    "W.Laurance",
+    "C.Bohrer",
+    "S.Aldrich",
+    "E.Arima",
+    "M.Caldas",
+    "K.Kirby"
+   ],
+   "year": 2018,
+   "venue": "Economics Vol. 12, 2018-11 March 05, 2018",
+   "status": "已发表",
+   "url": "https://doi.org/10.5018/economics-ejournal.ja.2018-11",
+   "abstract": "To reduce SDG tradeoffs in infrastructure provision, and to inform searches for SDG synergies, the authors show that roads’ impacts on Brazilian Amazon forests varied significantly across frontiers. Impacts varied predictably with prior development – prior roads and prior deforestation – and, further, in a pattern that suggests a potential synergy for roads between forests and urban growth. For multiple periods of roads investments, the authors estimate forest impacts for high, medium and low prior roads and deforestation. For each setting, census-tract observations are numerous. Results confirm predictions for this kind of frontier of a pattern not consistent with endogeneity, i.e., short-run forest impacts of new roads are: small for relatively high prior development; larger for medium prior development; and small for low prior development (for the latter setting, impacts in such isolated areas could rise over time, depending on interactions with conservation policies). These Amazonian results suggest ‘SDG strategic’ locations for infrastructure, an idea the authors note for other frontiers while highlighting major differences across frontiers and their SDG opportunities."
+  },
+  {
+   "title": "Upstream watershed condition predicts rural children’s health across 35 developing countries",
+   "authors": [
+    "Diego Herrera",
+    "Alicia Ellis",
+    "Brendan Fisher",
+    "Christopher D. Golden",
+    "Kiersten Johnson",
+    "Mark Mulligan",
+    "Alexander Pfaff",
+    "Timothy Treuer",
+    "Taylor H. Ricketts"
+   ],
+   "year": 2017,
+   "venue": "Nature Communications 8:811",
+   "status": "已发表",
+   "url": "https://doi.org/10.1038/s41467-017-00775-2",
+   "abstract": "Diarrheal disease (DD) due to contaminated water is a major cause of child mortality globally. Forests and wetlands can provide ecosystem services that help maintain water quality. To understand the connections between land cover and childhood DD, we compiled a database of 293,362 children in 35 countries with information on health, socioeconomic factors, climate, and watershed condition. Using hierarchical models, here we find that higher upstream tree cover is associated with lower probability of DD downstream. This effect is significant for rural households but not for urban households, suggesting differing dependence on watershed conditions. In rural areas, the effect of a 30% increase in upstream tree cover is similar to the effect of improved sanitation, but smaller than the effect of improved water source, wealth or education. We conclude that maintaining natural capital within watersheds can be an important public health investment, especially for populations with low levels of built capital."
+  },
+  {
+   "title": "Increasing the Impact of Collective Incentives in Payments for Ecosystem Services",
+   "authors": [
+    "David A. Kaczan",
+    "Alexander Pfaff",
+    "Luz A. Rodriguez",
+    "Elizabeth Shapiro-Garza"
+   ],
+   "year": 2017,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jeem.2017.06.007",
+   "abstract": "Collective payments for ecosystem services (PES )programs make payments to groups, conditional on specified aggregate land-management outcomes.Such collective contracting may be well suited to settings with communal land tenure or decision-making. Given that collective contracting does not require costly individual-level information on outcomes, it may also facilitate conditioning on additionality (i.e., conditioning payments upon clearly improved outcomes relative to baseline). Yet collective contracting often suffers from free-riding, which undermines group outcomes and may be exacerbated or ameliorated by PES designs. We study impacts of conditioning on additionality within a number of collective PES designs. We use a framed field-laboratory experiment with participants from a new PES program in Mexico. Because social interactions are critical within collective processes, we assess the impacts from conditioning on additionality given: (1) group participation in contract design, and (2) a group coordination mechanism. Conditioning on above-baseline outcomes raised contributions, particularly among initially lower contributors. Group participation in contract design increased impact, as did the coordination mechanism."
+  },
+  {
+   "title": "Spillovers from Targeting of Incentives: exploring responses to being excluded",
+   "authors": [
+    "Francisco Alpizar",
+    "Anna Norden",
+    "Alexander Pfaff",
+    "Juan Robalino"
+   ],
+   "year": 2017,
+   "venue": "Journal of Economic Psychology 59:87-98",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.joep.2017.02.007",
+   "abstract": "A growing set of policies involve transfers conditioned upon socially desired actions, such as attending school or conserving forest. However, given a desire to maximize the impact of limited funds by avoiding transfers that do not change behavior, typically some potential recipients are excluded on the basis of their characteristics, their actions or at random. This paper uses a laboratory experiment to study the behavior of individuals excluded on different bases from a new incentive that encourages real monetary donations to a public environmental conservation program. We show that the donations from the individuals who were excluded based on prior high contributions fell significantly. Yet the rationale used for exclusion mattered, in that none of the other selection criteria used as the basis for exclusion resulted in negative effects on contributions."
+  },
+  {
+   "title": "Reduction in exposure to arsenic from drinking well-water in Bangladesh limited by insufficient testing and awareness",
+   "authors": [
+    "Alexander Pfaff",
+    "Amy Schoenfeld",
+    "Kazi Matin Ahmed",
+    "Alexander van Geen"
+   ],
+   "year": 2017,
+   "venue": "Journal of Water, Sanitation and Hygiene for Development 07.2",
+   "status": "已发表",
+   "url": "https://doi.org/10.2166/washdev.2017.136",
+   "abstract": "This study considers potential policy responses to the still very high levels of exposure to arsenic (As) caused by drinking water from shallow tubewells in rural Bangladesh. It examines a survey of 4,109 households in 76 villages of Araihazar upazila conducted two years after a national testing campaign swept through the area. The area is adjacent to the region where a long-term study was initiated in 2000 and where households are periodically reminded of health risks associated with well-water elevated in As. Results confirm that testing spurs switching away from unsafe wells, although the 27% fraction who switched was only about half of that in the long-term study area. By village, the fraction of households that switched varied with the availability of safe wells and the distance from the long-term study area. Lacking follow-up testing, two years only after the campaign 21% of households did not know the status of their well and 21% of households with an unsafe well that switched did so to an untested well. Well testing is again urgently needed in Bangladesh and should be paired with better ways to raise awareness and the installation of additional deep community wells."
+  },
+  {
+   "title": "Spillovers from Conservation Programs",
+   "authors": [
+    "Alexander Pfaff",
+    "Juan Robalino"
+   ],
+   "year": 2017,
+   "venue": "Annual Review of Resource Economics 9:299-315",
+   "status": "已发表",
+   "url": "https://sites.sanford.duke.edu/alexpfaff/wp-content/uploads/sites/15/2020/04/AnnuRevResourceEcon2017-PfaffRobalino-ConservationSpillovers.pdf",
+   "abstract": "Conservation programs have increased significantly, as has the evaluation of their impacts. However,the evaluation of their potential impacts beyond program borders has been scarce.Such spillovers can significantly reduce or increase net impacts. In this review, we discuss how conservation programs might affect outcomes beyond their borders and present some evidence of when they have or have not. We focus on ﬁve major channels by which spillovers can arise:(1) input reallocation; (2) market prices; (3) learning; (4) nonpecuniary motivations; and (5) ecological-physical links. We highlight evidence for each channel and emphasize that estimates often may reﬂect multiple channels. Future research could test for spillovers within different contexts and could separate the effects of different channels."
+  },
+  {
+   "title": "Heterogeneous Local Spillovers from Protected Areas in Costa Rica",
+   "authors": [
+    "Juan Robalino",
+    "Alexander Pfaff",
+    "Laura Villalobos"
+   ],
+   "year": 2017,
+   "venue": "JAERE, volume 4, number 3",
+   "status": "已发表",
+   "url": "https://doi.org/10.1086/692089",
+   "abstract": "Spillovers can significantly reduce or enhance the net effects of land-use policies, yet there exists little rigorous evidence concerning their magnitudes. We examine how Costa Rica’s national parks affect deforestation in nearby areas. We find that average deforestation spillovers are not signiﬁcant in 0–5 km and 5–10 km rings around the parks. However, this average blends multiple effects that are significant and that vary in magnitude across the landscape, yielding varied net impacts. We distinguish the locations with different net spillovers by their distances to roads and park entrances — both of which are of economic importance, given critical local roles for transport costs and tourism. We find large and statistically significant leakage close to roads but far from park entrances, which are areas with high agricultural returns and less influenced by tourism. We do not find leakage far from roads (lower agriculture returns) or close to park entrances (higher tourism returns). Finally, parks facing greater threats of deforestation show greater leakage."
+  },
+  {
+   "title": "Evolving Protected-Area Impacts in Mexico: Political Shifts as Suggested by Impact Evaluations",
+   "authors": [
+    "Alexander Pfaff",
+    "Franciso Santiago-Avila",
+    "Lucas Joppa"
+   ],
+   "year": 2016,
+   "venue": "Forests 2017 8:17",
+   "status": "已发表",
+   "url": "https://doi.org/10.3390/f8010017",
+   "abstract": "For protected areas (PAs), variation in forest impacts over space—including types of PA—are increasingly well documented, while shifts in impacts over time receive less attention. For Mexico, in the 1990s, PAs effectively were ‘paper parks’. Thus, achieving impacts on the forest would require shifts over time in the politics of PA siting and PA implementation. We rigorously analyze the impacts of Mexican PAs on 2000–2005 loss of natural land cover, using matching to reduce location bias caused by typical land-use economics and politics. We find a 3.2% lower loss, on average, due to PAs. Since politics often vary by type of PA, we also show that in Mexico stricter PAs are closer to cities and have greater impact than mixed-use PAs. These shifts in impacts suggest some potential for PAs to conserve forests."
+  },
+  {
+   "title": "Scaling up conservation impact in Madagascar",
+   "authors": [
+    "Theo Gimenez",
+    "Alexander Pfaff",
+    "Ranaivo Rasolofoson",
+    "Lucas Joppa"
+   ],
+   "year": 2016,
+   "venue": "Draft working paper, Duke University",
+   "status": "工作论文",
+   "url": "https://sites.sanford.duke.edu/alexpfaff/wp-content/uploads/sites/15/2016/01/Madagascar_Final_Submitted.pdf",
+   "abstract": "Ten years ago, Madagascar’s government committed to drastically scale up the nation’s protected-area coverage from ~3% to 10% of its area. We ask how successful this PA expansion is likely to be in terms of reducing deforestation (and, thereby, increasing the conservation of biodiversity). We statistically evaluate the impact of the prior generations of Malagasy PAs and use those results to anticipate the conservation impacts of Madagascar’s newest PAs. We find that deforestation was reduced by the prior PAs, although by less than suggested in simpler comparisons that lack explicit controls for land characteristics. Further, impacts are higher where deforestation pressure is higher, which often is closer to roads and cities (and which also may imply higher costs). We find Madagascar’s newest PAs are sited where, if managed correctly, they can achieve impacts at least as high as prior conservation."
+  },
+  {
+   "title": "Deforestation dynamics in response to the evolution of the Western Amazonian Inter-Oceanic Highway",
+   "authors": [
+    "Cesar Delgado",
+    "Dalia Amor Conde",
+    "Joseph O. Sexton",
+    "Fernando Colchero",
+    "Jennifer J. Swenson",
+    "Alexander Pfaff"
+   ],
+   "year": 2016,
+   "venue": "Draft working paper, Duke University",
+   "status": "工作论文",
+   "url": null,
+   "abstract": "Over the last three decades, the first continuous road has been paved to connect northern South America’s Atlantic and Pacific coasts. The final sections of this Inter-Oceanic Highway are now being completed through the western Amazon Basin, a global biodiversity hotspot, at the triple-border of Brazil, Bolivia and Peru. Satellite images from 1989, 2000, and 2007 reveal accelerating clearing across the region, but the countries’ prior infrastructures governed their individual responses to the road. Brazilian deforestation slowed as the frontier expanded away from the highway with a network of capillary roads, but Bolivian clearing accelerated as its urban centers sprawled toward the road. Peru’s forests remain relatively intact, but similar trends isolated from Brazil suggest imminent acceleration as Peruvian infrastructural capacity increases."
+  },
+  {
+   "title": "Sequenced Road Investments & Clearing Of The Mayan Forest",
+   "authors": [
+    "Dalia Amor Conde",
+    "Alexander Pfaff"
+   ],
+   "year": 2016,
+   "venue": "Draft working paper, Duke University",
+   "status": "工作论文",
+   "url": "https://sites.sanford.duke.edu/alexpfaff/wp-content/uploads/sites/15/2016/01/AmorPfaff-MayanForest-080331.pdf",
+   "abstract": "The Selva Maya is an important tropical forest, the second biggest in the Americas after the Amazon and the largest continuous forest patch of the ‘Mesoamerican hotspot’ which contains around 7% of the world species . Located across Mexico, Belize and Guatemala, Selva Maya is subject to different policy, cultural and historical influences and to a grand road expansion program that will intersect its core . Given its biological importance and the environmental services it provides at a local and global scale, this region is a good case to consider road impacts. We focus on four questions: 1) what are the short and medium term effects of paved and unpaved roads investments on deforestation?; 2) do these impacts differ when roads are placed in areas with existing pressure vs. in less developed locations?; 3) do the effect of non-road drivers also vary with development contexts? We might expect that roads in previously pristine areas a new road will be the dominant predictor; and 4) using a different measure of context, do road impacts vary across the countries?"
+  },
+  {
+   "title": "Unintended Effects of Targeting an Environmental Rebate",
+   "authors": [
+    "Francisco Alpizar",
+    "Anna Norden",
+    "Alexander Pfaff",
+    "Juan Robalino"
+   ],
+   "year": 2015,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1007/s10640-015-9981-2",
+   "abstract": "When designing schemes such as conditional cash transfers or payments for ecosystem services, the choice of whom to select and whom to exclude is critical. We incentivize and measure actual contributions to an environmental public good to ascertain whether being excluded from a rebate can affect contributions and, if so, whether the rationale for exclusion inﬂuences such effects. Treatments, i.e., three rules that determine who is selected and excluded, are randomly assigned. Two of the rules base exclusion on subjects’ initial contributions. The third is based upon location and the rationales are always explained. The rule that targets the rebate to low initial contributors, who have more potential to raise contributions, is the only rule that raised contributions by those selected. Yet by design, that same rule excludes the subjects who contributed the most initially. They respond by reducing their contributions even though their income and prices are unchanged."
+  },
+  {
+   "title": "Protected area types, strategies and impacts in Brazil’s Amazon: public PA strategies do not yield a consistent ranking of PA types by impact",
+   "authors": [
+    "Alexander Pfaff",
+    "Juan Robalino",
+    "Catalina Sandoval",
+    "Diego Herrera"
+   ],
+   "year": 2015,
+   "venue": "Philosophical Transactions B 2015 volume 370",
+   "status": "已发表",
+   "url": "https://doi.org/10.1098/rstb.2014.0273",
+   "abstract": "The leading policy to conserve forest is protected areas (PAs). Yet, they are not a single tool: land users and uses vary by PA type; and public PA strategies vary in the extent of each type, as well as in the determinants of impact for each type, i.e. siting and internal deforestation. Further, across regions and time, strategies respond to pressures (deforestation and political).We estimate deforestation impacts of PA types for a critical frontier, the Brazilian Amazon. We separate regions and time periods that differ in their deforestation and political pressures and document considerable variation in PA strategies across regions, time periods and types. The siting of PAs varies across regions. For example, all else being equal, PAs in the arc of deforestation are relatively far from non-forest, while in other states they are relatively near. Internal deforestation varies across time periods, e.g. it is more similar across the PAtypes for PAs after 2000. By contrast, after 2000, PA extent is less similar across PA types with little non-indigenous area created inside the arc. PA strategies generate a range of impacts for PA types—always far higher within the arc—but not a consistent ranking of PA types by impact."
+  },
+  {
+   "title": "Entry Points for Considering Ecosystem Services within Infrastructure Planning: how to integrate conservation with development in order to aid them both",
+   "authors": [
+    "Lisa Mandle",
+    "Benjamin P. Bryant",
+    "Mary Ruckelshaus",
+    "Davide Geneletti",
+    "Joseph M. Kiesecker",
+    "Alexander Pfaff"
+   ],
+   "year": 2015,
+   "venue": "Conservation Letters 2015",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/conl.12201",
+   "abstract": "New infrastructure is needed globally to support economic development and improve human well-being. Investments that do not consider ecosystem services (ES) can eliminate these important societal benefits from nature, undermining the development benefits infrastructure is intended to provide. Such tradeoffs are acknowledged conceptually but in practice have rarely been considered in infrastructure planning. Taking road investments as one important case, here we examine where and what forms of ES information have the potential to meaningfully influence decisions by multilateral development banks (MDBs). Across the stages of a typical road development process, we identify where and how ES information could be integrated, likely barriers to the use of available ES information, and key opportunities to shift incentives and thereby practice. We believe inclusion of ES information is likely to provide the greatest development benefit in early stages of infrastructure decisions. Those strategic planning stages are typically guided by in-country processes, with MDBs playing a supporting role, making it critical to express the ES consequences of infrastructure development using metrics relevant to government decision makers. This approach requires additional evidence of the in-country benefits of cross-sector strategic planning and more tools to lower barriers to quantifying these benefits and facilitating ES inclusion."
+  },
+  {
+   "title": "Protected Areas’ Impacts on Brazilian Amazon Deforestation: examining conservation – development interactions to inform planning",
+   "authors": [
+    "Alexander Pfaff",
+    "Juan Robalino",
+    "Diego Herrera",
+    "Catalina Sandoval"
+   ],
+   "year": 2015,
+   "venue": "PLOS ONE 2015 (forthcoming)",
+   "status": "已发表",
+   "url": "https://doi.org/10.1371/journal.pone.0129460",
+   "abstract": "Protected areas are the leading forest conservation policy for species and ecoservices goals and they may feature in climate policy if countries with tropical forest rely on familiar tools. For Brazil’s Legal Amazon, we estimate the average impact of protection upon deforestation and show how protected areas’ forest impacts vary significantly with development pressure.We use matching, i.e., comparisons that are apples-to-apples in observed land characteristics, to address the fact that protected areas (PAs) tend to be located on lands facing less pressure. Correcting for that location bias lowers our estimates of PAs’ forest impacts by roughly half. Further, it reveals significant variation in PA impacts along development-related dimensions: for example, the PAs that are closer to roads and the PAs closer to cities have higher impact. Planners have multiple conservation and development goals, and are constrained by cost, yet still conservation planning should reflect what our results imply about future impacts of PAs."
+  },
+  {
+   "title": "Estimating the Impacts of Local Policy Innovation: the synthetic control method applied to tropical deforestation",
+   "authors": [
+    "Erin O. Sills",
+    "Diego Herrera",
+    "A. Justin Kirkpatrick",
+    "Amintas Brandao Jr.",
+    "Rebecca Dickson",
+    "Simon Hall",
+    "Subhrendu Pattanayak",
+    "David Shoch",
+    "Mariana Vedoveto",
+    "Luisa Young",
+    "Alexander Pfaff"
+   ],
+   "year": 2015,
+   "venue": "PLOS ONE 2015 (forthcoming)",
+   "status": "已发表",
+   "url": "https://doi.org/10.1371/journal.pone.0132590",
+   "abstract": "Quasi-experimental methods increasingly are used to evaluate the impacts of conservation interventions by generating credible estimates of counterfactual baselines. These methods generally require large samples for statistical comparisons, presenting a challenge for evaluating innovative policies implemented within a few pioneering jurisdictions. Single jurisdictions often are studied using comparative methods, which rely on analysts’ selection of best case comparisons. The synthetic control method (SCM) offers one systematic and transparent way to select cases for comparison, from a sizeable pool, by focusing upon similarity in outcomes before the intervention. We explain SCM, then apply it to one local initiative to limit deforestation in the Brazilian Amazon. The municipality of Paragominas launched a multi-pronged local initiative in 2008 to maintain low deforestation while restoring economic production. This was a response to having been placed, due to high deforestation, on a federal “blacklist” that increased enforcement of forest regulations and restricted access to credit and output markets. The local initiative included mapping and monitoring of rural land plus promotion of economic alternatives compatible with low deforestation. The key motivation for the program may have been to reduce the costs of blacklisting. However its stated purpose was to limit deforestation, and thus we apply SCM to estimate what deforestation would have been in a (counterfactual) scenario of no local initiative. We obtain a plausible estimate, in that deforestation patterns before the intervention were similar in Paragominas and the synthetic control, which suggests that after several years, the initiative did lower deforestation (significantly below the synthetic control in 2012). This demonstrates that SCM can yield helpful land-use counterfactuals for single units, with opportunities to integrate local and expert knowledge and to test innovations and permutations on policies that are implemented in just a few locations."
+  },
+  {
+   "title": "Framed field experiment on resource scarcity & extraction: path-dependent generosity within sequential water appropriation",
+   "authors": [
+    "Alexander Pfaff",
+    "Maria Alejandra Vélez",
+    "Pablo Andres Ramos",
+    "Adriana Molina"
+   ],
+   "year": 2015,
+   "venue": "Ecological Economics 120 (2015) 416–429",
+   "status": "已发表",
+   "url": "https://sites.sanford.duke.edu/alexpfaff/wp-content/uploads/sites/15/2015/01/PfaffVelezRamosMolina-EndogenousOtherRegarding.pdf",
+   "abstract": "How one treats others is important within collective action. We ask if resource scarcity in the past, due to its effects upon past behaviors, influences current other-regarding behaviors. Contrasting theories and empirical findings on scarcity motivate our framed field experiment. Participants are rural Colombian farmers who have experienced scarcity of water within irrigation. We randomly assign participants to groups and places on group canals. Places order extraction decisions. Our treatments are sequences of scarcities: ‘from lower to higher resources’ involves four rounds each of 20, 60, then 100 units of water; ‘from higher to lower resources’ reverses the ordering. We find that upstream farmers extract more, but a lower share, when facing higher resources. Further they take a larger share of higher resources when they faced lower resources in earlier rounds (relative to when facing higher resources initially). That is inconsistent with leading models of responses to scarcity which focus upon one’s own gain. It is consistent with lowering one’s weight on others to, for instance, rationalize having left them little. Our results suggest that facing higher scarcity can erode the bases for collective actions. For establishing new institutions, timing relative to scarcity could affect the probability of success."
+  },
+  {
+   "title": "Evaluating Interactions of Forest Conservation Policies on Avoided Deforestation",
+   "authors": [
+    "Juan Robalino",
+    "Catalina Sandoval",
+    "David N. Barton",
+    "Adriana Chacon",
+    "Alexander Pfaff"
+   ],
+   "year": 2015,
+   "venue": "PLoS ONE 10(4):e0124910 (2015)",
+   "status": "已发表",
+   "url": "https://doi.org/10.1371/journal.pone.0124910",
+   "abstract": "We estimate the effects on deforestation that have resulted from policy interactions between parks and payments and between park buffers and payments in Costa Rica between 2000 and 2005. We show that the characteristics of the areas where protected and unprotected lands are located differ significantly. Additionally, we find that land characteristics of each of the policies and of the places where they interact also differ significantly. To adequately estimate the effects of the policies and their interactions, we use matching methods. Matching is implemented not only to define adequate control groups, as in previous research, but also to define those groups of locations under the influence of policies that are comparable to each other. We find that it is more effective to locate parks and payments away from each other, rather than in the same location or near each other. The high levels of enforcement inside both parks and lands with payments, and the presence of conservation spillovers that reduce deforestation near parks, significantly reduce the potential impact of combining these two policies."
+  },
+  {
+   "title": "Paper Park Performance: Mexico’s Natural Protected Areas in the 1990s",
+   "authors": [
+    "Allen Blackman",
+    "Alexander Pfaff",
+    "Juan Robalino"
+   ],
+   "year": 2015,
+   "venue": "Global Environmental Change 31 (2015) pp50-61",
+   "status": "已发表",
+   "url": "https://sites.sanford.duke.edu/alexpfaff/wp-content/uploads/sites/15/2015/01/GEC2015v30pp50to61-PaperParks.pdf",
+   "abstract": "Although developing countries have established scores of new protected areas over the past three decades, they often amount to little more than ‘‘paper parks’’ that are chronically short of the financial, human, and technical resources needed for effective management. It is not clear whether and how severely under-resourced parks affect deforestation. In principle, they could either stem it by, for example, creating an expectation of future enforcement, or they could spur it by, for example, creating open access regimes. We examine the effect of Mexico’s natural protected areas (NPAs) on deforestation from 1993 to 2000, a period when forest clearing was rampant and the vast majority of protected areas had negligible resources or management. We use high-resolution satellite data to measure deforestation and (covariate and propensity score) matching to control for NPAs’ nonrandom siting and for spillovers. Our broad finding is that Mexico’s paper parks had heterogeneous effects both inside and outside their borders. More specifically, at the national-level, we cannot reject the null hypothesis that NPAs had zero average effect on clearing inside their borders, nor can we reject a similar hypothesis for spillover clearing outside their borders. However, we can detect statistically and economically significant inside- and outside-NPA effects for certain geographic regions. Moreover, these effects have different signs depending on the region. Finally, we find that NPAs with certain characteristics were more effective at stemming deforestation inside their borders, namely, those that were large, new, mixed use, and relatively well-funded. Taken together, these results suggest that paper parks have the potential to either reduce or exacerbate tropical deforestation and highlight the need for further research on the conditions that lead to each outcome."
+  },
+  {
+   "title": "Evolving Protected-Areas Impacts in Panama: impact shifts show that plans require anticipation",
+   "authors": [
+    "Akiko Haruna",
+    "Alexander Pfaff",
+    "Sander van den Ende",
+    "Lucas Joppa"
+   ],
+   "year": 2014,
+   "venue": "Environmental Research Letters 9 (2014)",
+   "status": "已发表",
+   "url": "https://sites.sanford.duke.edu/alexpfaff/wp-content/uploads/sites/15/2014/01/EnvResLetters2014-PanamaImpactShifts.pdf",
+   "abstract": "Protected areas (PAs) are the leading forest conservation policy, so accurate evaluation of future PA impact is critical in conservation planning. Yet by necessity impact evaluations use past data. Here we argue that forwardlooking plans should blend such evaluations with anticipation of shifts in threats. Applying improved methods to evaluate past impact, we provide rigorous support for that conceptual approach by showing that PAs’ impacts on deforestation shifted with land use. We study the Republic of Panama, where species-dense tropical forest faces real pressure. Facing variation in deforestation pressure, the PAs’ impacts varied across space and time. Thus, if shifts in pressure levels and patterns could be anticipated, that could raise impact."
+  },
+  {
+   "title": "Realistic REDD: Improving the Forest Impacts of Domestic Policies in Different Settings",
+   "authors": [
+    "Alexander Pfaff",
+    "Gregory S. Amacher",
+    "Erin O. Sills"
+   ],
+   "year": 2013,
+   "venue": "Review of Environmental Economics and Policy, volume 7, issue 1, winter 2013, pp. 114–135",
+   "status": "已发表",
+   "url": "https://doi.org/10.1093/reep/res023",
+   "abstract": "This article, which is part of a symposium on the economics of REDD, identifies three common settings for forest loss involving different types of decision-making agents that operate under different markets and institutions. That suggests using different theoretical frameworks for these three settings, which in turn generates different predictions concerning policies’ impacts. The first model, “producer profit maximization given market integration,” has been applied to many private decisions about the best locations for profitable land uses, such as agriculture and forest. Its predictions have been widely studied empirically, beginning no later than von Thunen (1826). The second model, “rural household optimization given incomplete markets and household heterogeneity,” has been applied to more isolated settings featuring high transactions costs that yield incomplete integration of households in input and output markets. Its policy impact predictions have been tested with surveys at household and village levels. In the third model, “public optimization given production and corruption responses by private firms,” a public agency determines public forest access by balancing public goods, public revenue needs, and private rents to award concessions. There is potential for corruption, and the decisions may be affected by decentralization. This model’s predictions can be tested using observed policies. We find that past policies rarely addressed the incentives driving forest loss effectively. This helps to explain the limited impact of past policies on deforestation and forest degradation. It also suggests directions for the design of future policies. In sum, the theory and the evidence suggest that REDD success requires an understanding of all the incentives that drive forest loss, so that domestic policy can be tailored to specific settings (i.e., relevant agents and institutions)."
+  },
+  {
+   "title": "Improving stove evaluation using survey data: who received which intervention matters",
+   "authors": [
+    "Valerie Mueller",
+    "Alexander Pfaff",
+    "John Peabody",
+    "Yaping Liu",
+    "Kirk R. Smith"
+   ],
+   "year": 2013,
+   "venue": "Ecological Economics 93 (2013) 301–312",
+   "status": "已发表",
+   "url": "https://sites.sanford.duke.edu/alexpfaff/wp-content/uploads/sites/15/2013/01/MuellerPfaff_etal_EcolEcon_StovesChina.pdf",
+   "abstract": "As biomass fuel use in developing countries causes substantial harm to health and the environment, efficient stoves are candidates for subsidies to reduce emissions. In evaluating improved stoves’ relative benefits, little attention has been given to who received which stove intervention due to choices that are made by agencies and households. Using Chinese household data, we find that the owners of more efficient stoves (i.e., clean-fuel and improved-biomass stoves, as compared with traditional-biomass and coal stoves) live in less healthy counties and differ, across and within counties, in terms of household characteristics such as various assets. On net, that caused efficient stoves to look worse for health than they actually are.We control for counties and household characteristics in testing stove impacts. Unlike tests that lack controls, our preferred tests with controls suggest health benefits from clean-fuel versus traditional-biomass stoves. Also, they eliminate surprising estimates of health benefits from coal, found without using controls. Our results show the value, for learning, of tracking who gets which intervention."
+  },
+  {
+   "title": "Ecopayments and Deforestation in Costa Rica: a nationwide analysis of PSA’s initial years",
+   "authors": [
+    "Juan Robalino",
+    "Alexander Pfaff"
+   ],
+   "year": 2013,
+   "venue": "Land Economics (2013) volume 89 (3): 432–448",
+   "status": "已发表",
+   "url": "https://sites.sanford.duke.edu/alexpfaff/wp-content/uploads/sites/15/2013/01/RobalinoPfaff-LandEconomics-CostaRicaPES.pdf",
+   "abstract": "We offer a nationwide analysis of the initial years of Costa Rica’s PSA program, which pioneered environmental-services payments and inspired similar initiatives. Our estimates of this program’s impact on deforestation, between 1997 and 2000, range from zero to one-fifth of 1% per year (i.e., deforestation is avoided on, at most, 2 out of every 1,000 enrolled hectares). The main explanation for such a low impact is an already low national deforestation rate. We also consider the effect of enrollment. Predicted deforestation on enrolled versus nonenrolled hectares, and matching analyses suggest an enrollment bias toward lower clearing threat. Enrolling land facing higher threat could raise payments’ impact on deforestation."
+  },
+  {
+   "title": "Governance, Location and Avoided Deforestation from Protected Areas: greater restrictions can have lower impact, due to differences in location",
+   "authors": [
+    "Alexander Pfaff",
+    "Juan Robalino",
+    "Eirivelthon Lima",
+    "Catalina Sandoval",
+    "Diego Herrera"
+   ],
+   "year": 2013,
+   "venue": "World Development 2014 volume 55, pp. 7–20",
+   "status": "已发表",
+   "url": "https://sites.sanford.duke.edu/alexpfaff/wp-content/uploads/sites/15/2013/01/PfaffEtAl-2013-WorldDevt55pp0720-PAgovernance.pdf",
+   "abstract": "For Acre, in the Brazilian Amazon, we find that protection types with differences in governance, including different constraints on local economic development, also differ in their locations. Taking this into account, we estimate the deforestation impacts of these protection types that feature different levels of restrictions. To avoid bias, we compare these protected locations with unprotected locations that are similar in their characteristics relevant for deforestation. We find that sustainable use protection, whose governance permits some local deforestation, is found on sites with high clearing threat. That allows more avoided deforestation than from integral protection, which bans clearing but seems feasible only further from deforestation threats. Based on our results, it seems that the political economy involved in siting such restrictions on production is likely to affect the ability of protected areas to reduce emissions from deforestation and degradation."
+  },
+  {
+   "title": "Evolution of households' responses to the groundwater arsenic crisis in Bangladesh: information on environmental health risks can have increasing behavioral impact over time",
+   "authors": [
+    "Soumya Balasubramanya",
+    "Alexander Pfaff",
+    "Lori Bennear",
+    "Alessandro Tarozzi",
+    "Kazi Matin Ahmed",
+    "Amy Schoenfeld",
+    "Alexander van Geen"
+   ],
+   "year": 2013,
+   "venue": "Environment and Development Economics 19: 631–647",
+   "status": "已发表",
+   "url": "https://sites.sanford.duke.edu/alexpfaff/wp-content/uploads/sites/15/2013/01/BalasubramanyaPfaffEtAl2013.pdf",
+   "abstract": "A national campaign of well testing through 2003 enabled households in rural Bangladesh to switch, at least for drinking water, from high-arsenic wells to neighboring lower arsenic wells. We study the well-switching dynamics over time by re-interviewing, in 2008, a randomly selected subset of households in the Araihazar region who had been interviewed in 2005. Contrary to concerns that the impact of arsenic information on switching behavior would erode over time, we find that not only was 2003–2005 switching highly persistent but also new switching by 2008 doubled the share of households at unsafe wells who had switched. The passage of time also had a cost: 22 per cent of households did not recall test results by 2008. The loss of arsenic knowledge led to staying at unsafe wells and switching from safe wells. Our results support ongoing well testing for arsenic to reinforce this beneficial information."
+  },
+  {
+   "title": "On the Endogeneity of Resource Comanagement: Theory and Evidence from Indonesia",
+   "authors": [
+    "Stefanie Engel",
+    "Charles Palmer",
+    "Alexander Pfaff"
+   ],
+   "year": 2013,
+   "venue": "Land Economics 2013 89(2):308-329",
+   "status": "已发表",
+   "url": "https://sites.sanford.duke.edu/alexpfaff/wp-content/uploads/sites/15/2013/01/EngelPalmerPfaff2013-LandEcon892308-329-DecentralizationIndonesia.pdf",
+   "abstract": "We examine theoretically the emergence of participatory comanagement agreements that share between state and user the management of resources and the benefits from use. Going beyond user-user interactions, our state-user model addresses a critical question—when will comanagement arise?— in order to consider the right baseline for evaluating comanagement’s forest and welfare impacts. We then compare our model’s hypotheses concerning de facto rights, negotiated agreements, and transfers (all endogenous) with community-level data including observed agreements in a protected Indonesian forest. These unique data could refute the model, despite being limited, but instead offer support."
+  },
+  {
+   "title": "Unequal Information, Unequal Allocation: bargaining field experiments in NE Brazil",
+   "authors": [
+    "Alexander Pfaff",
+    "Maria Alejandra Velez",
+    "Renzo Taddei",
+    "Kenneth Broad"
+   ],
+   "year": 2013,
+   "venue": "Environmental Science & Policy 26 (2013) 90-101",
+   "status": "已发表",
+   "url": "https://sites.sanford.duke.edu/alexpfaff/wp-content/uploads/sites/15/2013/01/PfaffEtAl-AsymmetricBargaining-ENVSCI1055.pdf",
+   "abstract": "We assess how unequal information affects the bargaining within resource allocation, a stakeholder interaction that is critical for climate adaptation within the water sector. Motivated by water allocation among unequal actors in NE Brazil, within Ceara´ State, we employ ‘ultimatum’ field experiments in which one participant lacks information. We find that, despite having veto power, the less informed are vulnerable to inequity. When all are informed, we see a typical resource split (60% initiator–40% responder) that balances an initiator’s advantage with a responder’s willingness to punish greed. When instead responders have only a resource forecast upon which to base decisions, the fully informed initiators get 80% of resources for conditions of resource scarcity. Thus, despite each of the stakeholder types having an unquestioned ‘seat at the table’, information asymmetries make bargaining outcomes more unequal. Our results are widely relevant for adaptation involving the joint use of information, and suggest that equity can rise with dissemination of scientific outputs that are integral in adaptation."
+  },
+  {
+   "title": "Deforestation and Forest Degradation: Concerns, Causes, Policies and Their Impacts",
+   "authors": [
+    "Alexander Pfaff",
+    "Gregory S. Amacher",
+    "Erin O. Sills",
+    "Michael J. Coren",
+    "Charlotte Streck",
+    "Kathleen Lawlor"
+   ],
+   "year": 2013,
+   "venue": "Encyclopedia of Energy, Natural Resource, and Environmental Economics, (2013), vol. 2, pp. 144-149",
+   "status": "已发表",
+   "url": "https://sites.sanford.duke.edu/alexpfaff/wp-content/uploads/sites/15/2013/01/EncyclopediaENREE-00052final.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Impact of a randomized controlled trial in arsenic risk communication on household water-source choices in Bangladesh",
+   "authors": [
+    "Lori Bennear",
+    "Alessandro Tarozzi",
+    "Alexander Pfaff",
+    "Soumya Balasubramanya",
+    "Kazi Matin Ahmed",
+    "Alexander van Geen"
+   ],
+   "year": 2013,
+   "venue": "Journal of Environmental Economics and Management 65 (2013) 225–240",
+   "status": "已发表",
+   "url": "https://sites.sanford.duke.edu/alexpfaff/wp-content/uploads/sites/15/2013/01/BennearEtal-JEEM.pdf",
+   "abstract": "We conducted a randomized controlled trial in rural Bangladesh to examine how household drinking-water choices were affected by two different messages about risk from naturally occurring groundwater arsenic. Households in both randomized treatment arms were informed about the arsenic level in their well and whether that level was above or below the Bangladesh standard for arsenic. Households in one group of villages were encouraged to seek water from wells below the national standard. Households in the second group of villages received additional information explaining that lower-arsenic well water is always safer and these households were encouraged to seek water from wells with lower levels of arsenic, irrespective of the national standard. A simple model of household drinking-water choice indicates that the effect of the emphasis message is theoretically ambiguous. Empirically, we find that the richer message had a negative, but insignificant, effect on well-switching rates, but the estimates are sufficiently precise that we can rule out large positive effects. The main policy implication of this finding is that a one-time oral message conveying richer information on arsenic risks, while inexpensive and easily scalable, is unlikely to be successful in reducing exposure relative to the status-quo policy."
+  },
+  {
+   "title": "The Advantage of Resource Queues over Spot Resource Markets: decision coordination in experiments under resource uncertainty",
+   "authors": [
+    "Miguel Fonseca",
+    "Alexander Pfaff",
+    "Daniel Osgood"
+   ],
+   "year": 2012,
+   "venue": "Amer. J. Agr. Econ. 94(5): 1136–1153;",
+   "status": "已发表",
+   "url": "https://doi.org/10.1093/ajae/aas065",
+   "abstract": "Farmers have to make key decisions, such as which crops to plant or whether to prepare the soil, before knowing how much water they will get.They face losses if they make costly decisions but do not receive water, and they may forego profits if they receive water without being prepared.We consider the coordination of farmers’ decisions, such as which crops to plant or whether to prepare the soil when farmers must divide an uncertain water supply. We compare ex-ante queues (pre-decision) to an ex-post spot market (post-decision & post-rain) in experiments in rural Brazil and a university in England. Queues have greater coordination success than does the spot market."
+  },
+  {
+   "title": "Protecting forests, biodiversity, and the climate: predicting policy impact to improve policy choice",
+   "authors": [
+    "Alexander Pfaff",
+    "Juan Robalino"
+   ],
+   "year": 2012,
+   "venue": "Oxford Review of Economic Policy, Volume 28, Number 1, 2012, pp. 164–179",
+   "status": "已发表",
+   "url": "https://sites.sanford.duke.edu/alexpfaff/wp-content/uploads/sites/15/2012/01/OxREP2012-PfaffRobalino-v28pp164-179.pdf",
+   "abstract": "Policies must balance forest conservation’s local costs with its benefits—local to global—in terms of biodiversity, the mitigation of climate change, and other eco-services such as water quality. The trade-offs with development vary across forest locations. We argue that considering location in three ways helps to predict policy impact and improve policy choice: (i) policy impacts vary by location because baseline deforestation varies with characteristics (market distances, slopes, soils, etc.) of locations in a landscape; (ii) different mixes of political-economic pressures drive the location of different policies; and (iii) policies can trigger ‘second-order’ or ‘spillover’ effects likely to differ by location. We provide empirical evidence that suggests the importance of all three considerations, by reviewing highquality evaluations of the impact of conservation and development on forest. Impacts of well-enforced conservation rise with private clearing pressure, supporting (i). Protection types (e.g. federal/state) differ in locations and thus in impacts, supporting (ii). Differences in development process explain different signs for spillovers, supporting (iii)."
+  },
+  {
+   "title": "Contagious Development: neighbor interactions in deforestation",
+   "authors": [
+    "Juan Robalino",
+    "Alexander Pfaff"
+   ],
+   "year": 2012,
+   "venue": "Journal of Development Economics 97 (2012) 427–436",
+   "status": "已发表",
+   "url": "https://sites.sanford.duke.edu/alexpfaff/wp-content/uploads/sites/15/2012/01/RobalinoPfaff-Interactions-JDE972012427-436.pdf",
+   "abstract": "We estimate neighbor interactions in deforestation in Costa Rica. To address simultaneity and the presence of spatially correlated unobservables, we measure for neighbors’ deforestation using the slopes of neighbors’ and neighbors’ neighbors’ parcels. We find that neighboring deforestation significantly raises the probability of deforestation. Policies for agricultural development or forest conservation in one area will affect deforestation rates in non-targeted neighboring areas. Correct estimation of the interaction reverses the naive estimate’s prediction of multiple equilibria."
+  },
+  {
+   "title": "Can Environmental Insurance Succeed Where Other Strategies Fail? The case of underground storage tanks.",
+   "authors": [
+    "Haitao Yin",
+    "Alexander Pfaff",
+    "Howard Kunreuther"
+   ],
+   "year": 2011,
+   "venue": "Risk Analysis 2011 volume 31 number 1: 12-24 (",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/j.1539-6924.2010.01479.x",
+   "abstract": "Private risk reduction will be socially efficient only when firms are liable for all the damage that they cause. We find that environmental insurance can achieve social efficiency even when two traditional policy instruments—ex post fines and risk management mandates with ex ante fines—do not. Inefficiency occurs with ex post fines, when small firms declare bankruptcy and escape their liabilities, limiting the incentives from this policy tool. Firms ignore mandates to implement efficient risk management because regulatory agencies do not have sufficient resources to monitor every firm. The evolution of the U.S. Environmental Protection Agency’s and states’ underground storage tank programs suggests that mandating environmental insurance can address inefficiency due to small firms declaring bankruptcy. Comparing insurance mandates to risk management mandates, the burden on a regulator is lower if all it has to do is to confirm that the firm has insurance rather than that the firm has actually, and effectively, implemented required management practices. For underground storage tanks, we show that insurance lowered toxic releases."
+  },
+  {
+   "title": "Demonstrating bias and improved inference for stoves' health benefits",
+   "authors": [
+    "Valerie Mueller",
+    "Alexander Pfaff",
+    "John Peabody",
+    "Yaping Liu",
+    "Kirk R. Smith"
+   ],
+   "year": 2011,
+   "venue": "International Journal of Epidemiology (2011) 1–9",
+   "status": "已发表",
+   "url": "https://doi.org/10.1093/ije/dyr150]",
+   "abstract": "BACKGROUND: Many studies associate health risks with household air pollution from biomass fuels and stoves. Evaluations of stove improvements can suffer from bias because they rarely address health-relevant differences between the households who get improvements and those who do not. METHODS: We demonstrate both the potential for bias and an option for improved stove inference by applying to household air pollution a technique used elsewhere in epidemiology, propensity-score matching (PSM), based on a stoves-and-health survey for China (15 counties, 3500 households). RESULTS: Health-relevant factors (age, wealth, kitchen ventilation) do in fact differ considerably between the households with stove improvements and those without. We study the resulting bias in estimates of cleaner-stove impacts using a self-reported Physical Component Summary (PCS). Typical stoves-literature regressions with little control for non-stove factors suggest no benefits from a cleaner-fuel stove relative to a traditional biomass stove. Yet increasing controls raises the impact estimates. Our PSM estimates address the differences in health-relevant factors using ‘apples to apples’ comparisons between those with improved stoves and ‘similar’ households. This generates higher estimates of clean-stove benefits, which are on the order of one half the standard deviation of the PCS outcome. CONCLUSIONS: Our data demonstrate the potential importance of bias in household air pollution studies. This results from failure to address the possibility that those receiving improved stoves are themselves prone to better or worse health outcomes. It suggests the value of data collection and of study design for cookstove interventions and, more generally, for policy interventions within many health outcomes."
+  },
+  {
+   "title": "Efficiency and equity in negotiated resource transfers: contributions and limitations of trust with limited contracts",
+   "authors": [
+    "Alexander Pfaff",
+    "Maria Alejandra Velez"
+   ],
+   "year": 2011,
+   "venue": "Ecological Economics 74 (2012) 55–63",
+   "status": "已发表",
+   "url": "https://sites.sanford.duke.edu/alexpfaff/wp-content/uploads/sites/15/2011/01/PfaffVelez-Trust-EcolEcon.pdf",
+   "abstract": "We consider a case of water reallocation in Brazil, one which has numerous analogs elsewhere. To permit empirical study of the effects of institutions that can facilitate or restrict allocations, we conducted field experiments to explore trust’s potential when resource contracts are limited, using a novel asymmetric-productivity ultimatum game with a final surplus-sharing step added. As a form of informal institution, trust could in principle make rights and contracts unnecessary. We observe whether trust in compensation is in fact expected and expressed. We also explore whether trust is exploited, and the effect of communication, within our two bargaining structures: (1) no communication; and (2) with a non-binding message concerning the surplus to be shared. We see that our participants both expect and express trust that some of the surplus will be shared. Trust raises total output and some surplus is indeed shared: those who trust gain a bit on average; and the more trust was shown, the more was shared. However, often the trust was barely repaid. Further, the messages—found to help in other research—had little impact and were often untrue. In sum, trust does matter but both efficiency and equity could well rise with complete contracts."
+  },
+  {
+   "title": "Assessing the impact of institutional design of Payments for Environmental Services: the Costa Rican experience",
+   "authors": [
+    "Juan Robalino",
+    "Alexander Pfaff",
+    "Laura Villalobos"
+   ],
+   "year": 2011,
+   "venue": "B. Rapidel, F. DeClerk, J. LeCoq and J. Beer Eds. “Ecosystem services from Agriculture and Agroforestry: Measurement and Payment”. Chapter 14. Earthscan Press",
+   "status": "已发表",
+   "url": "https://sites.sanford.duke.edu/alexpfaff/wp-content/uploads/sites/15/2011/01/RobalinoEtAl-PESdesign-2011chapter14.pdf",
+   "abstract": "in Costa Rica. The first years of implementation set the basis for what the programme has become. Important changes have been made since the beginning, such as the institution in charge of implementing the programme, parcels selection criteria, and new offices that were opened in different areas of the country with the objective of reducing application costs. Using 2003 as the starting point of when these changes took place, we discuss if they had a programme efficiency effect on reducing deforestation. We focus on forest conservation contracts because it is the most important category of the programme in terms of budget and amount of land enrolled. We use matching techniques, geographic information systems (GIS), characterize the areas where payments were implemented in each of the time periods using a long list of variables, and look for similar areas that did not receive payments. We find that, as other studies have found for this period (Robalino et al, 2008; Arriagada, 2008), the impacts are low but significant. While it seems that, overall, institutional changes have not had a significant effect on impact, we also look at the impacts of forest conservation contracts per office. We find that those offices located in areas with high deforestation tend to have higher impacts."
+  },
+  {
+   "title": "Global protected area impacts",
+   "authors": [
+    "Lucas N. Joppa",
+    "Alexander Pfaff"
+   ],
+   "year": 2010,
+   "venue": "Proceedings of the Royal Society B 2010",
+   "status": "已发表",
+   "url": "https://doi.org/10.1098/rspb.2010.1713",
+   "abstract": "Protected areas (PAs) dominate conservation efforts. They will probably play a role in future climate policies too, as global payments may reward local reductions of loss of natural land cover. We estimate the impact of PAs on natural land cover within each of 147 countries by comparing outcomes inside PAs with outcomes outside. We use ‘matching’ (or ‘apples to apples’) for land characteristics to control for the fact that PAs very often are non-randomly distributed across their national landscapes. Protection tends towards land that, if unprotected, is less likely than average to be cleared. For 75 per cent of countries, we find protection does reduce conversion of natural land cover. However, for approximately 80 per cent of countries, our global results also confirm (following smaller-scale studies) that controlling for land characteristics reduces estimated impact by half or more. This shows the importance of controlling for at least a few key land characteristics. Further, we show that impacts vary considerably within a country (i.e. across a landscape): protection achieves less on lands far from roads, far from cities and on steeper slopes. Thus, while planners are, of course, constrained by other conservation priorities and costs, they could target higher impacts to earn more global payments for reduced deforestation."
+  },
+  {
+   "title": "Regional Interdependence and Forest “Transitions”: substitute deforestation limits the relevance of local reversals",
+   "authors": [
+    "Alexander Pfaff",
+    "Robert Walker"
+   ],
+   "year": 2010,
+   "venue": "Land Use Policy 2010 27:119–129",
+   "status": "已发表",
+   "url": "https://sites.sanford.duke.edu/alexpfaff/wp-content/uploads/sites/15/2010/01/PfaffWalker2010LandUsePolicy27pp119-129.pdf",
+   "abstract": "Using case studies and concepts we suggest that constraints upon aggregate or global forest transition are significantly more severe than those upon local forest reversals. The basic reason is that one region’s reversal can be facilitated by other regions that supply resources and goods, reducing the demands upon the region where forests rise. Many past forest reversals involve such interdependence. For ‘facilitating regions’ also to rise in forest requires other changes, since they will not be receiving such help. We start by discussing forest-transitions analysis within the context of Environmental Kuznets Curves (EKCs), for a useful typology of possible shifts underlying transitions. We then consider the historical Northeast US where a regional reversal was dramatic and impressive. Yet this depended upon agricultural price shocks, due to the Midwest US supplying food, and also upon the availability of timber from other US regions. Next we consider deforestation in Amazônia, whose history (like the Northeast US) suggests a potential local role for urbanization, i.e. spatial concentration of population. Yet inter-regional issues again are crucial. For cattle and soy, expansion of global demands may give to Amazonia a role more like the Midwest than the Northeast US. In addition, across-region interdependencies will help determine where reversal and facilitation occur. Finally we discuss the constraints upon very broad forest transition."
+  },
+  {
+   "title": "Indigenous Lands, Protected Areas, and Slowing Climate Change",
+   "authors": [
+    "Taylor H. Ricketts",
+    "Britaldo Soares-Filho",
+    "Gustavo A.B. da Fonseca",
+    "Daniel Nepstad",
+    "Alexander Pfaff",
+    "Annie Petsonk",
+    "Anthony Anderson",
+    "Doug Boucher",
+    "Andrea Cattaneo",
+    "Marc Conte",
+    "Ken Creighton",
+    "Lawrence Linden",
+    "Claudio Maretti",
+    "Paulo Moutinho",
+    "Roger Ullman",
+    "Ray Victurine"
+   ],
+   "year": 2010,
+   "venue": "PLoS Biol 2010 8(3): e1000331",
+   "status": "已发表",
+   "url": "https://doi.org/10.1371/journal.pbio.1000331",
+   "abstract": "Forest clearing and degradation account for roughly 15% of global greenhouse gas emissions, more than all the cars, trains, planes, ships, and trucks on earth. This is simply too big a piece of the problem to ignore; fail to reduce it and we will fail to stabilize our climate. Although the recent climate summit in Copenhagen failed to produce a legally binding treaty, the importance of forest conservation in mitigating climate change was a rare point of agreement between developed and developing countries and is emphasized in the resulting Copenhagen Accord. Language from the meeting calls for developing countries to reduce emissions from deforestation and degradation (nicknamed REDD), and for wealthy nations to compensate them for doing so. For REDD to succeed, forest nations must develop policies and institutions to reduce and eventually eliminate forest clearing and degradation. One of the most straightforward components of such a program is also one of the oldest and most reliable tricks in the conservation book: protected areas. Indigenous lands and other protected areas (hereafter ILPAs)— created to safeguard land rights, indigenous livelihoods, biodiversity, and other values— contain more than 312 billion tons of carbon (GtC). Crucially, and paradoxically, this ‘‘protected carbon’’ is not entirely protected. While ILPAs typically reduce rates of deforestation compared to surrounding areas, deforestation (with resulting greenhouse gas [GHG] emissions) often continues within them, especially inside those that lack sufficient funding, management capacity, or political backing. These facts suggest an attractive but overlooked opportunity to reduce GHG emissions: creating new ILPAs and strengthening existing ones. Here, we evaluate the case for this potential REDD strategy. We focus on the Amazon basin given its importance for global biodiversity, its enormous carbon stocks, and its advanced network of indigenous lands and other protected areas."
+  },
+  {
+   "title": "Reassessing the forest impacts of protection: The challenge of nonrandom location and a corrective method",
+   "authors": [
+    "Lucas Joppa",
+    "Alexander Pfaff"
+   ],
+   "year": 2010,
+   "venue": "Ann. N.Y. Acad. Sci. 1185 (2010) 135–149",
+   "status": "已发表",
+   "url": "https://sites.sanford.duke.edu/alexpfaff/wp-content/uploads/sites/15/2010/01/JoppaPfaff2010ANYAS1885pp135-149.pdf",
+   "abstract": "Protected areas are leading tools in efforts to slow global species loss and appear also to have a role in climate change policy. Understanding their impacts on deforestation informs environmental policies. We review several approaches to evaluating protection’s impact on deforestation, given three hurdles to empirical evaluation, and note that “matching” techniques fromeconomic impact evaluation address those hurdles. The central hurdle derives from the fact that protected areas are distributed nonrandomly across landscapes.Nonrandom location can be intentional, and for good reasons, including biological and political ones. Yet even so, when protected areas are biased in their locations toward less-threatened areas, many methods for impact evaluationwill overestimate protection’s effect. The use ofmatching techniques allows one to control for known landscape biases when inferring the impact of protection. Applications of matching have revealed considerably lower impact estimates of forest protection than produced by other methods. A reduction in the estimated impact from existing parks does not suggest, however, that protection is unable to lower clearing. Rather, it indicates the importance of variation across locations in how much impact protection could possibly have on rates of deforestation.Matching, then, bundles improved estimates of the average impact of protection with guidance on where new parks’ impacts will be highest.While many factors will determine where new protected areas will be sited in the future, we claim that the variation across space in protection’s impact on deforestation rates should inform site choice."
+  },
+  {
+   "title": "Park Location Affects Forest Protection: Land Characteristics Cause Differences in Park Impacts across Costa Rica",
+   "authors": [
+    "Alexander Pfaff",
+    "Juan Robalino",
+    "G. Arturo Sanchez-Azofeifa",
+    "Kwaw S. Andam",
+    "Paul J. Ferraro"
+   ],
+   "year": 2009,
+   "venue": "The B.E. Journal of Economic Analysis & Policy: Vol. 9: Iss. 2 (Contributions), Article 5",
+   "status": "已发表",
+   "url": "https://sites.sanford.duke.edu/alexpfaff/wp-content/uploads/sites/15/2009/01/BEJEAP92article5.pdf",
+   "abstract": "To support conservation planning, we ask whether a park’s impact on deforestation rates varies with observable land characteristics that planners could use to prioritize sites. Using matching methods to address bias from non-random location, we find deforestation impacts vary greatly due to park lands’ characteristics. Avoided deforestation is greater if parks are closer to the capital city, in sites closer to national roads, and on lower slopes. In allocating scarce conservation resources, policy makers may consider many factors such as the ecosystem services provided by a site and the costs of acquiring the site. Pfaff and Sanchez 2004 claim impact can rise with a focus upon threatened land, all else equal. We provide empirical support in the context of Costa Rica’s renowned park system. This insight, alongside information on eco-services and land costs, should guide investments."
+  },
+  {
+   "title": "High and Far: Biases in the Location of Protected Areas",
+   "authors": [
+    "Lucas N. Joppa",
+    "Alexander Pfaff"
+   ],
+   "year": 2009,
+   "venue": "PLoS ONE 2009 4(12): e8273",
+   "status": "已发表",
+   "url": "https://doi.org/10.1371/journal.pone.0008273",
+   "abstract": "Background: About an eighth of the earth’s land surface is in protected areas (hereafter ‘‘PAs’’), most created during the 20th century. Natural landscapes are critical for species persistence and PAs can play a major role in conservation and in climate policy. Such contributions may be harder than expected to implement if new PAs are constrained to the same kinds of locations that PAs currently occupy.\n\nMethodology/Principal Findings: Quantitatively extending the perception that PAs occupy ‘‘rock and ice’’, we show that across 147 nations PA networks are biased towards places that are unlikely to face land conversion pressures even in the absence of protection. We test each country’s PA network for bias in elevation, slope, distances to roads and cities, and suitability for agriculture. Further, within each country’s set of PAs, we also ask if the level of protection is biased in these ways. We find that the significant majority of national PA networks are biased to higher elevations, steeper slopes and greater distances to roads and cities. Also, within a country, PAs with higher protection status are more biased than are the PAs with lower protection statuses.\n\nConclusions/Significance: In sum, PAs are biased towards where they can least prevent land conversion (even if they offer perfect protection). These globally comprehensive results extend findings from nation-level analyses. They imply that siting rules such as the Convention on Biological Diversity’s 2010 Target [to protect 10% of all ecoregions] might raise PA impacts if applied at the country level. In light of the potential for global carbon-based payments for avoided deforestation or REDD, these results suggest that attention to threat could improve outcomes from the creation and management of PAs."
+  },
+  {
+   "title": "Human choices and policies' impacts on ecosystem services: improving evaluations of payment and park effects on conservation and carbon",
+   "authors": [
+    "Alexander Pfaff",
+    "Juan Robalino"
+   ],
+   "year": 2009,
+   "venue": "Engel, S. and C. Palmer, editors, “Avoided Deforestation: Prospects for Mitigating Climate Change”, Routledge Explorations in Environmental Economics 2009",
+   "status": "已发表",
+   "url": "https://sites.sanford.duke.edu/alexpfaff/wp-content/uploads/sites/15/2009/01/PSAchapter-PalmerEngelBook.pdf",
+   "abstract": "This chapter conveys why human choices complicate correct evaluations of impacts. Unobservable land choices, choices affecting policy location and interactions among choices complicate both ex post impact evaluation and ex ante policy planning. Based on application of proper methods to Costa Rica, we then suggest how these hurdles can best be addressed. We provide examples of: how a best practice deforestation baseline rightly conveys the constraints on the impact the pioneering Costa Rican eco-payments programme could have; why it may be critical to have different baselines for different locations to correctly infer the impacts of Costa Rican protected areas; and how choices by conservation agencies and landowners can determine the bias within heretofore typical approaches to impact evaluation."
+  },
+  {
+   "title": "Behavior, Environment, and Health in Developing Countries: evaluation and valuation",
+   "authors": [
+    "Subhrendu Pattanayak",
+    "Alexander Pfaff"
+   ],
+   "year": 2009,
+   "venue": "Annual Review of Resource Economics (2009) 1:183–217",
+   "status": "已发表",
+   "url": "https://sites.sanford.duke.edu/alexpfaff/wp-content/uploads/sites/15/2009/01/AnnuRevResource050708.pdf",
+   "abstract": "We consider health and environmental quality in developing countries, where limited resources constrain behaviors that combat enormously burdensome health challenges. We focus on four huge challenges that are preventable (i.e., are resolved in rich countries). We distinguish them as special cases in a general model of household behavior, which is critical and depends on risk information. Simply informing households may achieve a lot in the simplest challenge (groundwater arsenic); yet, for the three infectious situations discussed (respiratory, diarrhea, and malaria), community coordination and public provision may also be necessary. More generally, social interactions may justify additional policies. For each situation, we discuss the valuation of private spillovers (i.e., externalities) and evaluation of public policies to reduce environmental risks and spillovers. Finally, we reflect on open questions in our model and knowledge gaps in the empirical literature including the challenges of scaling up and climate change."
+  },
+  {
+   "title": "Measuring the effectiveness of protected-area networks in reducing deforestation",
+   "authors": [
+    "Kwaw Andam",
+    "Paul Ferraro",
+    "Alexander Pfaff",
+    "Juan Robalino",
+    "G. Arturo Sanchez-Azofeifa"
+   ],
+   "year": 2008,
+   "venue": "PNAS 105(42):16089-16094",
+   "status": "已发表",
+   "url": "https://sites.sanford.duke.edu/alexpfaff/wp-content/uploads/sites/15/2008/01/PNAS10542p16089-16094.pdf",
+   "abstract": "Global efforts to reduce tropical deforestation rely heavily on the establishment of protected areas. Measuring the effectiveness of these areas is difficult because the amount of deforestation that would have occurred in the absence of legal protection cannot be directly observed. Conventional methods of evaluating the effectiveness of protected areas can be biased because protection is not randomly assigned and because protection can induce deforestation spillovers (displacement) to neighboring forests. We demonstrate that estimates of effectiveness can be substantially improved by controlling for biases along dimensions that are observable, measuring spatial spillovers, and testing the sensitivity of estimates to potential hidden biases. We apply matching methods to evaluate the impact on deforestation of Costa Rica’s renowned protected-area system between 1960 and 1997. We find that protection reduced deforestation: approximately 10% of the protected forests would have been deforested had they not been protected. Conventional approaches to evaluating conservation impact, which fail to control for observable covariates correlated with both protection and deforestation, substantially overestimate avoided deforestation (by over 65%, based on our estimates). We also find that deforestation spillovers from protected to unprotected forests are negligible. Our conclusions are robust to potential hidden bias, as well as to changes in modeling assumptions. Our results show that, with appropriate empirical methods, conservation scientists and policy makers can better understand the relationships between human and natural systems and can use this to guide their attempts to protect critical ecosystem services."
+  },
+  {
+   "title": "Effects of Poverty on Deforestation: distinguishing behavior from location",
+   "authors": [
+    "Alexander Pfaff",
+    "Suzi Kerr",
+    "Romina Cavatassi",
+    "Benjamin Davis",
+    "Leslie Lipper",
+    "G. Arturo Sanchez-Azofeifa",
+    "J. Timmins"
+   ],
+   "year": 2008,
+   "venue": "Economics of poverty, environment and natural resource use (chapter 6)",
+   "status": "已发表",
+   "url": "https://sites.sanford.duke.edu/alexpfaff/wp-content/uploads/sites/15/2008/01/PovertyForest-06_pfaff.pdf",
+   "abstract": "We review many theoretical predictions that link poverty to deforestation and then examine poverty’s net impact empirically using multiple observations of all of Costa Rica after 1960. Countrywide disaggregate (district-level) data facilitate analysis of both poverty’s location and its impact on forest. If the characteristics of the places the poor live are not controlled for, then poverty’s impact is confounded with differences between poorer and less poor areas and we find no significant effect of poverty. Using our data over space and time to control for effects of locations’ differing characteristics, we find that the poorer are on land whose relative quality discourages forest clearing, such that with these controls the poorer areas are cleared more. The latter result suggests that poverty reduction aids the forest. For the poorest areas, this result is weaker but another effect is found: deforestation responds less to productivity, i.e., the poorest have less ability to expand or to reduce given land quality."
+  },
+  {
+   "title": "Road Impacts in Brazilian Amazonia",
+   "authors": [
+    "Alexander Pfaff",
+    "Alisson Barbieri",
+    "Thomas Ludewigs",
+    "Frank Merry",
+    "Stephen Perz",
+    "Eustaquio Reis"
+   ],
+   "year": 2008,
+   "venue": "Chapter in “Amazonia and Global Change” book (American Geophysical Union, linked to the NASA LBA project)",
+   "status": "已发表",
+   "url": "https://sites.sanford.duke.edu/alexpfaff/wp-content/uploads/sites/15/2008/01/AmazonRoadImpactsBookChapter.pdf",
+   "abstract": "We examine the evidence on Amazonian road impacts with a strong emphasis on context. Impacts of a new road, on either deforestation or socioeconomic outcomes, depend upon the conditions into which roads are placed. Conditions that matter include the biophysical setting, such as slope, rainfall, and soil quality, plus externally determined socioeconomic factors like national policies, exchange rates, and the global prices of beef and soybeans. Influential conditions also include all prior infrastructural investments and clearing rates. Where development has already arrived, with significant economic activity and clearing, roads may decrease forest less and raise output more than where development is arriving, while in pristine areas, short-run clearing may be lower than immense long-run impacts. Such differences suggest careful consideration of where to invest further in transport."
+  },
+  {
+   "title": "Can information alone change behavior? Response to arsenic contamination of groundwater in Bangladesh",
+   "authors": [
+    "Malgosia Madajewicz",
+    "Alexander Pfaff",
+    "Alexander van Geen",
+    "Joseph Graziano",
+    "Iftikhar Hussein",
+    "Hasina Momotaj",
+    "Roksana Sylvia",
+    "Habibul Ahsan"
+   ],
+   "year": 2007,
+   "venue": "Journal of Development Economics 84 (2007) 731–754",
+   "status": "已发表",
+   "url": "https://sites.sanford.duke.edu/alexpfaff/wp-content/uploads/sites/15/2007/01/JDE2007v84p731-err-arsenicinformation.pdf",
+   "abstract": "We study how effectively information induces Bangladeshi households to avoid a health risk. The response to information is large and rapid; knowing that the household’s well water has an unsafe concentration of arsenic raises the probability that the household changes to another well within one year by 0.37. Households who change wells increase the time spent obtaining water fifteen-fold. We identify a causal effect of information, since incidence of arsenic is uncorrelated with household characteristics. Our door-to-door information campaign provides well-specific arsenic levels without which behavior does not change. Media communicate general information about arsenic less expensively and no less effectively."
+  },
+  {
+   "title": "Road Investments, Spatial Spillovers and Deforestation in the Brazilian Amazon",
+   "authors": [
+    "Alexander Pfaff",
+    "Juan Robalino",
+    "Robert Walker",
+    "Steven Aldrich",
+    "Marcellus Caldas",
+    "Eustaquio Reis",
+    "Stephen Perz",
+    "Claudio Bohrer",
+    "Eugenio Arima",
+    "William Laurance",
+    "Kathryn Kirby"
+   ],
+   "year": 2007,
+   "venue": "Journal of Regional Science 2007 volume 47, no. 1, 2007, pp. 109–123",
+   "status": "已发表",
+   "url": "https://sites.sanford.duke.edu/alexpfaff/wp-content/uploads/sites/15/2007/01/JRS200747109-123.pdf",
+   "abstract": "Understanding the impact of road investments on deforestation is part of a complete evaluation of the expansion of infrastructure for development.We find evidence of spatial spillovers from roads in the Brazilian Amazon: deforestation rises in the census tracts that lack roads but are in the same county as and within 100 km of a tract with a new paved or unpaved road. At greater distances from the new roads the evidence is mixed, including negative coefficients of inconsistent significance between 100 and 300 km, and if anything, higher neighbor deforestation at distances over 300 km."
+  },
+  {
+   "title": "Costa Rica’s Payment for Environmental Services Program: Intention, Implementation, and Impact",
+   "authors": [
+    "G. Arturo Sanchez-Azofeifa",
+    "Alexander Pfaff",
+    "Juan Robalino",
+    "Judson Boomhower"
+   ],
+   "year": 2007,
+   "venue": "Conservation Biology 2007 volume 21, number 5, 1165–1173",
+   "status": "已发表",
+   "url": "https://sites.sanford.duke.edu/alexpfaff/wp-content/uploads/sites/15/2007/01/ConsBio215p1165-PSAiii.pdf",
+   "abstract": "We evaluated the intention, implementation, and impact of Costa Rica’s program of payments for environmental services (PSA), which was established in the late 1990s. Payments are given to private landowners who own land in forest areas in recognition of the ecosystem services their land provides. To characterize the distribution of PSA in Costa Rica, we combined remote sensing with geographic information system databases and then used econometrics to explore the impacts of payments on deforestation. Payments were distributed broadly across ecological and socioeconomic gradients, but the 1997–2000 deforestation rate was not significantly lower in areas that received payments. Other successful Costa Rican conservation policies, including those prior to the PSA program, may explain the current reduction in deforestation rates. The PSA program is a major advance in the global institutionalization of ecosystem investments because few, if any, other countries have such a conservation history and because much can be learned from Costa Rica’s experiences."
+  },
+  {
+   "title": "Responses of 6500 households to arsenic mitigation in Araihazar, Bangladesh",
+   "authors": [
+    "Alisa Opar",
+    "Alexander Pfaff",
+    "A.A. Seddique",
+    "Kazi Matin Ahmed",
+    "Joseph H. Graziano",
+    "Alexander van Geen"
+   ],
+   "year": 2007,
+   "venue": "Health & Place 13 (2007) 164–172",
+   "status": "已发表",
+   "url": "https://sites.sanford.duke.edu/alexpfaff/wp-content/uploads/sites/15/2007/01/OparEtAl2007-HealthPlace13164-172.pdf",
+   "abstract": "This study documents the response of 6500 rural households in a 25 km2 area of Bangladesh to interventions intended to reduce their exposure to arsenic contained in well water. The interventions included public education, posting test results for arsenic on the wells, and installing 50 community wells. Sixty-five percent of respondents from the subset of 3410 unsafe wells changed their source of drinking water, often to new and untested wells. Only 15% of respondents from the subset of safe wells changed their source, indicating that health concerns motivated the changes. The geo-referenced data indicate that distance to the nearest safe well also influenced household responses."
+  },
+  {
+   "title": "Climate, Stream Flow Prediction and Water Management in Northeast Brazil: societal trends and forecast value",
+   "authors": [
+    "Kenneth Broad",
+    "Alexander Pfaff",
+    "Renzo Taddei",
+    "Sankar Arumugam",
+    "Upmanu Lall",
+    "Francisco Assis de Souza Filho"
+   ],
+   "year": 2007,
+   "venue": "Climatic Change (2007) 84:217–239",
+   "status": "已发表",
+   "url": "https://sites.sanford.duke.edu/alexpfaff/wp-content/uploads/sites/15/2007/01/Broad-et-al_2007_Climate-stream-flow-prediction-and-water-management-in-northeastBrazil.pdf",
+   "abstract": "We assess the potential benefits from innovative forecasts of the stream flows that replenish reservoirs in the semi-arid state of Ceará, Brazil. Such forecasts have many potential applications. In Ceará, they matter for both water-allocation and participatory-governance issues that echo global debates. Our qualitative analysis, based upon extensive fieldwork with farmers, agencies, politicians and other key actors in the water sector, stresses that forecast value changes as a society shifts. In the case of Ceará, current constraints on the use of these forecasts are likely to be reduced by shifts in water demand, water allocation in the agricultural Jaguaribe Valley, participatory processes for water allocation between this valley and the capital city of Fortaleza, and risk perception. Such changes in the water sector can also have major distributional impacts."
+  },
+  {
+   "title": "Will buying tropical forest carbon benefit the poor? evidence from Costa Rica",
+   "authors": [
+    "Alexander Pfaff",
+    "Suzi Kerr",
+    "Leslie Lipper",
+    "Romina Cavatassi",
+    "Benjamin Davis",
+    "Joanna Hendy",
+    "G. Arturo Sanchez-Azofeifa"
+   ],
+   "year": 2007,
+   "venue": "Land Use Policy 24 (2007) 600–610",
+   "status": "已发表",
+   "url": "https://sites.sanford.duke.edu/alexpfaff/wp-content/uploads/sites/15/2007/01/LUP2007v24p600-povertycarbon.pdf",
+   "abstract": "We review claims linking both payments for carbon and poverty to deforestation. We examine these effects empirically for Costa Rica during the late 20th century using an econometric approach that addresses the irreversibilities in deforestation. We find significant effects of the relative returns to forest on deforestation rates. Thus, carbon payments would induce conservation and also carbon sequestration, and if land users were poor could conserve forest while addressing rural poverty. We note that the poor appear to be marginalized in the sense of living where land profitability is lower. Those areas also have more forest. We find that poorer areas may have a higher supply response to payments, but even without this effect poor areas might be included and benefit more due to higher (per capita) forest area. They might be included less due to transactions costs, though. Unless the Clean Development Mechanism of the Kyoto Protocol is modified in its implementation to allow credits from avoided deforestation, such benefits are likely to be limited."
+  },
+  {
+   "title": "Payments for Ecosystem Services: why precision and targeting matter",
+   "authors": [
+    "Francisco Alpizar",
+    "Allen Blackman",
+    "Alexander Pfaff"
+   ],
+   "year": 2007,
+   "venue": "Resources 2007 volume 165:20-22",
+   "status": "已发表",
+   "url": "https://sites.sanford.duke.edu/alexpfaff/wp-content/uploads/sites/15/2007/01/RFF-Resources-165_PaymentsforEcosystemServices.pdf",
+   "abstract": "Even a perfect measure of the ecosystem services provided by each parcel enrolled in a PES program would be insufficient to measure the overall effectiveness of the program. The simple reason is that if a PES program does not lead to an increase in the provision of ecosystem services compared to what would have happened in the absence of the program—that is, the baseline or “counterfactual”—then it has not accomplished anything. Imagine a PES program focused on forest conservation that makes payments to managers of ecologically rich forest land, who have no incentive to clear the land because it is illsuited for logging, agriculture, or urbanization. Payments to these managers would have little impact on deforestation because the risk of clearing was minimal to begin with. In contrast, payments to managers who have incentives to clear their land would be much more likely to have an impact."
+  },
+  {
+   "title": "Estimating Spatial Interactions in Deforestation Decisions",
+   "authors": [
+    "Juan Robalino",
+    "Alexander Pfaff",
+    "G. Arturo Sanchez-Azofeifa"
+   ],
+   "year": 2007,
+   "venue": "Frontiers of Biodiversity Economics, Cambridge University Press",
+   "status": "已发表",
+   "url": "https://sites.sanford.duke.edu/alexpfaff/wp-content/uploads/sites/15/2007/01/BiodiversityEconomicsBookChapter.pdf",
+   "abstract": "This chapter is structured as follows. Section 2 describes a simple model of interactions in the context of deforestation, based on an equilibrium in beliefs about the neighbours’ actions. Section 3 discusses empirical issues in measurement of interactions and the benefits of using an instrumental variable approach. Data requirements for analysing neighbours’ interactions in deforestation decisions are discussed in section 4. Finally, results for two regions within Costa Rica, as well as discussion of how to obtain the equilibria once the parameters of the model are estimated, are presented in section 5."
+  },
+  {
+   "title": "Reduction in Urinary Arsenic Levels in Response to Arsenic Mitigation Efforts in Araihazar, Bangladesh",
+   "authors": [
+    "Yu Chen",
+    "Alexander van Geen",
+    "Joseph H. Graziano",
+    "Alexander Pfaff",
+    "Malgosia Madajewicz",
+    "Faruque Parvez",
+    "A.Z.M Iftehkar Hussain",
+    "Vesna Slavkovich",
+    "Tariqul Islam",
+    "Habibul Ahsan"
+   ],
+   "year": 2007,
+   "venue": "Environmental Health Perspectives, Vol. 115, No. 6 (Jun., 2007), pp. 917-923",
+   "status": "已发表",
+   "url": "https://sites.sanford.duke.edu/alexpfaff/wp-content/uploads/sites/15/2007/01/ChenEtAl-EHP.pdf",
+   "abstract": "BACKGROUND: There is a need to identify and evaluate an effective mitigation program for arsenic exposure from drinking water in Bangladesh. OBJECTIVE: We evaluated the effectiveness of a multifaceted mitigation program to reduce As exposure among 11,746 individuals in a prospective cohort study initiated in 2000 in Araihazar, Bangladesh, by interviewing participants and measuring changes in urinary As levels. METHODS: The interventions included a) person-to-person reporting of well test results and health education; b) well labeling and village-level health education; and c) installations of fifty deep, low-As community wells in villages with the highest As exposure. RESULTS: Two years after these interventions, 58% of the 6,512 participants with unsafe wells (As >=50 micrograms/L) at baseline had responded by switching to other wells. Well labeling and village-level health education was positively related to switching to safe wells (As < 50 micrograms/L) among participants with unsafe wells [rate ratio(RR)= 1.84; 95% confidence interval(CI), 1.60-2.11] and inversely related to any well switching among those with safe wells (RR = 0.80; 95% CI, 0.66-0.98). The urinary As level in participants who switched to a well identified as safe (< 50 micrograms As/L) dropped from an average of 375 micrograms As/g creatinine to 200 micrograms As/g creatinine, a 46% reduction toward the average urinary As content of 136 micrograms As/g creatinine for participants that used safe wells throughout. Urinary As reduction was positively related to educational attainment, body mass index, never-smoking, absence of skin lesions, and time since switching ( p for trend< 0.05). CONCLUSIONS: Our study shows that testing of wells and informing households of the consequences of As exposure, combined with installation of deep community wells where most needed, can effectively address the continuing public health emergency from arsenic in drinking water in Bangladesh."
+  },
+  {
+   "title": "Ensuring Safe Drinking Water in Bangladesh",
+   "authors": [
+    "M.F. Ahmed",
+    "S. Ahuha",
+    "M. Alauddin",
+    "S.J. Hug",
+    "J.R. Lloyd",
+    "A. Pfaff",
+    "T. Pichler",
+    "C. Saltikov",
+    "M. Stute",
+    "A. van Geen"
+   ],
+   "year": 2006,
+   "venue": "Science volume 314 (December 15, 2006): 1687-1688",
+   "status": "已发表",
+   "url": "https://sites.sanford.duke.edu/alexpfaff/wp-content/uploads/sites/15/2006/01/SciencePublishedWithOnlineMaterial.pdf",
+   "abstract": "Excessive levels of arsenic in drinking water is a vast health problem in Southeast Asia. Several viable approaches to mitigation could drastically reduce arsenic exposure, but they all require periodic testing."
+  },
+  {
+   "title": "Household Production and Environmental Kuznets Curves",
+   "authors": [
+    "Alexander Pfaff",
+    "Shubham Chaudhuri",
+    "Howard L.M. Nye"
+   ],
+   "year": 2004,
+   "venue": "Environmental and Resource Economics 27: 187–200, 2004",
+   "status": "已发表",
+   "url": "https://sites.sanford.duke.edu/alexpfaff/wp-content/uploads/sites/15/2004/01/ERE-PfaffChaudhuriNye-HouseholdsAndEKC.pdf",
+   "abstract": "This paper provides a theoretical explanation for the widely debated empirical finding of “Environmental Kuznets Curves”, i.e., U-shaped relationships between per-capita income and indicators of environmental quality. We present a household-production model in which the degradation of environmental quality is a by-product of household activities. Households can not directly purchase environmental quality, but can reduce degradation by substituting more expensive cleaner inputs to production for less costly dirty inputs. If environmental quality is a normal good, one expects substitution towards the less polluting inputs, so that increases in income will increase the quality of the environment. It is shown that this only holds for middle income households. Poorer households spend all income on dirty inputs. When they buy more, as income rises, the pollution also rises. they do not want to substitute, as this would reduce consumption of non-environmental services for environmental amenities that are already abundant. Thus, as income rises from low to middle levels, a U shape can result. Yet an N shape might eventually result, as richer households spend all income on clean inputs. Further substitution possibilities are exhausted. Thus as income rises again pollution rises and environmental quality falls."
+  },
+  {
+   "title": "Endowments, preferences, technologies and abatement: growth-environment microfoundations",
+   "authors": [
+    "Alexander Pfaff",
+    "Shubham Chaudhuri",
+    "Howard L.M. Nye"
+   ],
+   "year": 2004,
+   "venue": "Int. J. Global Environmental Issues (2004) volume 4 number 4: 209-228",
+   "status": "已发表",
+   "url": "https://sites.sanford.duke.edu/alexpfaff/wp-content/uploads/sites/15/2004/01/IJGEIgeneralized.pdf",
+   "abstract": "Will economic growth inevitably degrade the environment, throughout development? We present a household-level framework emphasising the trade-off between consumption that causes pollution and pollution-reducing abatement. Our model provides a simple explanation for upward-turning, non-monotonic paths of environmental quality during economic growth. Its innovation yields sufficient conditions that simultaneously address preferences and technologies. With standard preferences, an asymmetric endowment (i.e., at zero income, consumption is also zero but environmental quality is positive) leads low-income households not to abate, and further this condition is sufficient for an environmental Kuznets curve (EKC) for a wide range of abatement technologies. Without such an endowment, however, even strong economies of scale in abatement are, on their own, insufficient for an EKC"
+  },
+  {
+   "title": "Aid, economic growth and environmental sustainability: rich-poor interactions and environmental choices in developing countries",
+   "authors": [
+    "Alexander Pfaff",
+    "Paulo Barelli",
+    "Shubham Chaudhuri"
+   ],
+   "year": 2004,
+   "venue": "Int. J. Global Environmental Issues (2004) volume 4 numbers 1/2/3: 139-159",
+   "status": "已发表",
+   "url": "https://sites.sanford.duke.edu/alexpfaff/wp-content/uploads/sites/15/2004/01/PfaffBarelliChaudhuri-ExternalitiesAidGrowth.pdf",
+   "abstract": "Rich-poor interactions complicate the search for a stable Environmental Kuznets Curve (an ‘inverted U’ relationship between income per-capita and environmental degradation). We show that aid from richer to poorer countries to support investments in environment, in either of two forms, alters the income-environment relationships that otherwise exist, lowering levels of degradation in the poorer countries conditional upon their incomes. Yet even with environmental aid, in our model environmental quality eventually falls as economic growth continues, although ongoing innovation could change that conclusion. In light of this result, we show that subsidies to clean goods, one form of technological-transfer aid programme, dominate income transfers as environmental aid policy by the rich. Given that aid matters, we then show that when rich countries degrade the environment, a perverse effect exists: when an aid-giving country becomes richer, it gives less aid to the poor country. This is stronger when that degradation is durable, that is, when consumption and degradation by the rich country in the past has durable effects upon the environment."
+  },
+  {
+   "title": "To Err on Humans is not Benign: incentives for adoption of medical error-reporting systems",
+   "authors": [
+    "Joshua Graff Zivin",
+    "Alexander Pfaff"
+   ],
+   "year": 2004,
+   "venue": "Journal of Health Economics 23 (2004) 935–949",
+   "status": "已发表",
+   "url": "https://sites.sanford.duke.edu/alexpfaff/wp-content/uploads/sites/15/2004/01/GraffZivinPfaff-JHE20040-AuditingMedicalErrors.pdf",
+   "abstract": "Concerns about frequent and harmful medical errors have led policy makers to advocate the creation of a system for medical error reporting. Health providers, fearing that reported information about errors would be used against them under the current medical malpractice system, have been reluctant to participate in such reporting systems.We propose a re-design of the malpractice system – one in which penalties are a function of the health provider’s reporting efforts – to overcome this incentive problem.We also consider some alternatives to this mechanism that address two important ways in which reporting effort may not be observable: hospitals may have interests distinct from individual physicians and may not be able to observe their reporting efforts, and a regulatory agency or a court may not be able to adequately observe reporting efforts by a provider."
+  },
+  {
+   "title": "Big Field, Small Potatoes: an empirical assessment of EPA's Self-Audit Policy",
+   "authors": [
+    "Alexander Pfaff",
+    "Chris William Sanchirico"
+   ],
+   "year": 2004,
+   "venue": "Journal of Policy Analysis and Management (2004) volume 23 number 3: 415–432",
+   "status": "已发表",
+   "url": "https://sites.sanford.duke.edu/alexpfaff/wp-content/uploads/sites/15/2004/01/PfaffSanchirio-JPAM-AuditingEmpirics.pdf",
+   "abstract": "Environmental self-auditing is said to deserve and require encouragement. Although firms can audit themselves more cheaply and effectively than regulators, they are deterred for fear that information they uncover will be used against them. To reduce this disincentive, the Environmental Protection Agency’s (EPA’s) Audit Policy lowers punitive fines when firms promptly disclose and correct self-discovered violations. While some contend that the Audit Policy is inadequate, EPA touts its success based on the policy’s track record. Our examination of that track record leads us to question EPA’s claim. Comparing the violations in these cases with those detected by standard EPA enforcement suggests that the typical self-audited violation is relatively minor. Cases arising under the Policy are more likely to concern reporting violations and less likely to concern emissions. The relative insignificance of self-audited violations raises a number of policy questions, including whether the Audit Policy should be revised to play a larger role in enforcement."
+  },
+  {
+   "title": "Deforestation pressure and biological reserve planning: a conceptual approach and an illustrative application for Costa Rica",
+   "authors": [
+    "Alexander Pfaff",
+    "G. Arturo Sanchez-Azofeifa"
+   ],
+   "year": 2004,
+   "venue": "Resource and Energy Economics 26 (2004) 237–254",
+   "status": "已发表",
+   "url": "https://sites.sanford.duke.edu/alexpfaff/wp-content/uploads/sites/15/2004/01/REE2004v26p237-parksplanning.pdf",
+   "abstract": "An index of ‘deforestation pressure’ is suggested as useful for reserve planning alongside the currently used information on the species present at candidate sites. For any location, the index value is correlated with threats to habitat and thus also survival probabilities over time for members of species dependent on that habitat. Threats in the absence of reserves are key information for planning new reserves. The index is estimated using a regression approach derived from a dynamic, micro-economic model of land use, with data on observed clearing of forest over space and time as well as biophysical and socioeconomic factors in land returns. Applying an estimated threat (or probability of clearing) function for Costa Rica to locations of interest yields relevant estimates of sites’ deforestation pressure, which are used to evaluate proposed reserves and to suggest other candidate sites."
+  },
+  {
+   "title": "Integrity and Isolation of Costa Rica’s National Parks and Biological Reserves: examining the dynamics of land-cover change",
+   "authors": [
+    "G. Arturo Sanchez-Azofeifa",
+    "Gretchen C. Daily",
+    "Alexander Pfaff",
+    "Christopher Busch"
+   ],
+   "year": 2003,
+   "venue": "Biological Conservation 109 (2003) 123–135",
+   "status": "已发表",
+   "url": "https://sites.sanford.duke.edu/alexpfaff/wp-content/uploads/sites/15/2003/01/BioCons2003v109p123-parksfacts.pdf",
+   "abstract": "The transformation and degradation of tropical forest is thought to be the primary driving force in the loss of biodiversity worldwide. Developing countries are trying to counter act this massive lost of biodiversity by implementing national parks and biological reserves. Costa Rica is no exception to this rule. National development strategies in Costa Rica, since the early 1970s, have involved the creation of several National Parks and Biological Reserves. This has led to monitoring the integrity of and interactions between these protected areas. Key questions include: ‘‘Are these areas’ boundaries respected?’’; ‘‘Do they create a functioning network?’’; and ‘‘Are they effective conservation tools?’’. This paper quantifies deforestation and secondary growth trends within and around protected areas between 1960 and 1997. We find that inside of national parks and biological reserves, deforestation rates were negligible. For areas outside of National Parks and Biological reserves we report that for 1-km buffer zones around such protected areas, there is a net forest gain for the 1987/1997 time period. Thus, it appears that to this point the boundaries of protected areas are respected. However, in the 10-km buffer zones we find significant forest loss for all study periods. This suggests that increasing isolation of protected areas may prevent them from functioning as an effective network."
+  },
+  {
+   "title": "Carbon dynamics and land-use choices: building a regional-scale, multidisciplinary model",
+   "authors": [
+    "Suzi Kerr",
+    "Shuguang Liu",
+    "Alexander Pfaff",
+    "R. Flint Hughes"
+   ],
+   "year": 2003,
+   "venue": "Journal of Environmental Management 69 (2003) 25–37",
+   "status": "已发表",
+   "url": "https://sites.sanford.duke.edu/alexpfaff/wp-content/uploads/sites/15/2003/01/JEM2003v69p25-regionalcarbondynamics.pdf",
+   "abstract": "Policy enabling tropical forests to approach their potential contribution to global-climate-change mitigation requires forecasts of land use and carbon storage on a large scale over long periods. In this paper, we present an integrated modeling methodology that addresses these needs. We model the dynamics of the human land-use system and of C pools contained in each ecosystem, as well as their interactions. The model is national scale, and is currently applied in a preliminary way to Costa Rica using data spanning a period of over 50 years. It combines an ecological process model, parameterized using field and other data, with an economic model, estimated using historical data to ensure a close link to actual behavior. These two models are linked so that ecological conditions affect land-use choices and vice versa. The integrated model predicts land use and its consequences for C storage for policy scenarios. These predictions can be used to create baselines, reward sequestration, and estimate the value in both environmental and economic terms of including C sequestration in tropical forests as part of the efforts to mitigate global climate change. The model can also be used to assess the benefits from costly activities to increase accuracy and thus reduce errors and their societal costs."
+  },
+  {
+   "title": "Fuel-choice and indoor air quality: a household-level perspective on economic growth and the environment",
+   "authors": [
+    "Shubham Chaudhuri",
+    "Alexander Pfaff"
+   ],
+   "year": 2003,
+   "venue": "Working paper, Columbia University SIPA",
+   "status": "工作论文",
+   "url": "https://sites.sanford.duke.edu/alexpfaff/wp-content/uploads/sites/15/2003/01/fuel-choice-submission.pdf",
+   "abstract": "The fuel-use decisions of households in developing economies, because they directly influence the level of indoor air quality that these households enjoy (with its attendant health effects), provide a natural arena for empirically assessing latent preferences towards the environment and how these evolve with increases in income. Such an assessment is critical for a better understanding of the likely effects of aggregate economic growth on the environment. Using household data from Pakistan we estimate Engel curves for traditional (dirty) and modern (clean) fuels. Our results provide empirical support for a household production framework in which non-monotonic environmental Engel curves can arise quite naturally. Under plausible assumptions about the emissions implied by fuel use, our estimates yield an inverted-U relationship between indoor air pollution and income, mirroring the environmental Kuznets curves that have been documented using aggregate data. We then demonstrate, through a simple voting model, that this household-choice framework can generate aggregate EKCs even in a multi-agent setting with heterogeneous households and purely external environmental effects."
+  },
+  {
+   "title": "Effective & Equitable Dissemination of Seasonal-to-Interannual Climate Forecasts: policy implications from the Peruvian fishery during El Nino 1997-98",
+   "authors": [
+    "Kenneth Broad",
+    "Alexander Pfaff",
+    "Michael. H. Glantz"
+   ],
+   "year": 2002,
+   "venue": "Climatic Change 54: 415–438, 2002",
+   "status": "已发表",
+   "url": "https://sites.sanford.duke.edu/alexpfaff/wp-content/uploads/sites/15/2002/01/BroadPfaffGlantz-ClimaticChange-ForecastsEquity.pdf",
+   "abstract": "The development of seasonal-to-interannual climate predictions has spurred widespread claims that the dissemination of such forecasts will yield benefits for society. Based on the use as well as non-use of forecasts in the Peruvian fishery during the 1997–98 El Niño event, we identify: (1) potential constraints on the realization of benefits, such as limited access to and understanding of information, and unintended reactions; (2) the need for an appropriately detailed definition of societal benefit, considering whose welfare counts as a benefit among groups such as labor, industry, consumers, citizens of different regions, and future generations. We argue that consideration of who benefits, and an understanding of potential socioeconomic constraints and how they might be addressed, should be brought to bear on forecast dissemination choices. We conclude with examples of relevant dissemination choices made using this process."
+  },
+  {
+   "title": "The Dynamics of Deforestation and the Supply of Carbon Sequestration: Illustrative Results from Costa Rica",
+   "authors": [
+    "Suzi Kerr",
+    "Alexander Pfaff",
+    "G. Arturo Sanchez-Azofeifa"
+   ],
+   "year": 2001,
+   "venue": "Central America Project, Environment: Conservation and Competitiveness. HIID 2001. Chapter 15",
+   "status": "已发表",
+   "url": "https://sites.sanford.duke.edu/alexpfaff/wp-content/uploads/sites/15/2001/01/HIIDchapter15.pdf",
+   "abstract": "In this chapter we consider potential gains derived from preventing deforestation, drawing heavily from information from Chapter 14. It uses the same economic model and econometric technique and the same land use/land cover data. It also uses the carbon stock estimates presented there. The key difference is that, instead of using proxies for land-use returns such as ecological characteristics related to higher productivity, we attempt to directly estimate dollar-valued returns. We use these as an independent variable to explain and predict deforestation patterns. This allows us to simulate the potential supply of carbon sequestration in response to dollar-valued returns for certified emissions reductions. Payments for CERs will reduce deforestation by lowering the net return from forest clearing. The loss of the reward for carbon sequestration will partially offset the positive return from agricultural uses. To estimate the effect of such payments on deforestation, and hence CER supply, we need to estimate the response of deforestation to changes in returns to land use. An increase in agricultural returns is empirically equivalent to a reduction in carbon CER payments. Thus, we construct a variable that estimates the potential return of a plot of land if it is cleared. We construct a variable that varies across space (different crop suitability and yields) and time (changes in export prices, technology, and labor costs). We then use this variable in our econometric estimation. The results are used to calculate a supply curve of CERs. These results are illustrative only. They are produced as part of an ongoing effort at estimation (Kerr, Pfaff, Hughes et al. 2000) and are used to show some underlying features of a dynamic supply curve."
+  },
+  {
+   "title": "How Can Carbon Sequestration in Tropical Forests Be Rewarded? Evidence from Case Of Costa Rica",
+   "authors": [
+    "Suzi Kerr",
+    "Alexander Pfaff",
+    "G. Arturo Sanchez-Azofeifa",
+    "Marco Boscolo"
+   ],
+   "year": 2001,
+   "venue": "Central America Project, Environment: Conservation and Competitiveness. HIID 2001. Chapter 14",
+   "status": "已发表",
+   "url": "https://sites.sanford.duke.edu/alexpfaff/wp-content/uploads/sites/15/2001/01/HIIDchapter14.pdf",
+   "abstract": "The chapter is structured as follows. First, below, we begin this analysis of the process influencing land changes with a dynamic model of land-use choices. Such models have often been suggested, but crucial features have often been neglected in application. This model generates testable hypotheses regarding factors underlying patterns of land-use changes in tropical areas. The next section describes the data collected for this project and discusses the quality of land-use data. It also outlines the variables used to test the implications of the model. Following that, we present our results and then discuss the linkage from land-use changes to implied carbon sequestration, and the quality of information currently available on carbon sequestration. Finally, we present some conclusions and lessons learned."
+  },
+  {
+   "title": "Generating Probabilities in Support of Societal Decision Making: the case of abrupt climate change",
+   "authors": [
+    "Alexander Pfaff",
+    "Dorothy M. Peteet"
+   ],
+   "year": 2001,
+   "venue": "EOS (American Geophysical Union), May 15 2001",
+   "status": "已发表",
+   "url": "https://sites.sanford.duke.edu/alexpfaff/wp-content/uploads/sites/15/2001/01/EOSpenultimate.pdf",
+   "abstract": "Earth-science predictions of natural phenomena are increasingly seen as valuable aids to improved societal decision making. Pielke et al. recently (EOS 7/13/99) argued persuasively that good predictions alone won’t achieve better societal decisions. These authors’ call to change the decision environments in which scientific predictions are used, though, may be more relevant to the daily activities of policy makers than to those of scientists. We see a role also for changing the information that scientists feed into those decision environments. In particular, scientists could better serve societal needs by generating not only possible scenarios, but also improved probabilities that decision makers need, including for decisions to be taken in the near future."
+  },
+  {
+   "title": "Environmental Self-Auditing: setting the proper incentives for discovery and correction of environmental harm",
+   "authors": [
+    "Alexander Pfaff",
+    "Chris William Sanchirico"
+   ],
+   "year": 2000,
+   "venue": "Journal of Law, Economics & Organization (2000) volume 16 number 1: 189-208",
+   "status": "已发表",
+   "url": "https://sites.sanford.duke.edu/alexpfaff/wp-content/uploads/sites/15/2000/01/PfaffSanchiricoJLEOenvironmentalselfauditing.pdf",
+   "abstract": "Many firms conduct “environmental audits” to test compliance with a complex array of environmental regulations. Commentators suggest, however, that self-auditing is not as common as it should be, because firms fear that what they find will be used against them. This article analyzes self-auditing as a two-tiered incentive problem involving incentives both to test for and to effect compliance. After demonstrating the inadequacy of conventional remedies, we show that incentives can be properly aligned by conditioning fines on firms’ investigative effort. In practice, however, the regulator may not be able to observe such effort. Accordingly, we propose and evaluate the use of three observable proxies for self-investigation: the manner in which the regulator detected the violation; the firm’s own disclosure of violations; and the firm’s observed corrective actions. Each method has its own efficiency benefits and informational requirements, and each is distinct from EPA’s current audit policy."
+  },
+  {
+   "title": "The Kyoto Protocol & Payments for Tropical Forest: An Interdisciplinary Method for Estimating Carbon-Offset Supply and Increasing the Feasibility of a Carbon Market under the CDM",
+   "authors": [
+    "Alexander Pfaff",
+    "Suzi Kerr",
+    "R. Flint Hughes",
+    "Shuguang Liu",
+    "G. Arturo Sanchez-Azofeifa",
+    "David Schimel",
+    "Joseph Tosi",
+    "Vicente Watson"
+   ],
+   "year": 2000,
+   "venue": "Ecological Economics 35 (2000) 203–221",
+   "status": "已发表",
+   "url": "https://sites.sanford.duke.edu/alexpfaff/wp-content/uploads/sites/15/2000/01/EcolEcon2000v35p203-integrationforpolicy.pdf",
+   "abstract": "Protecting tropical forests under the Clean Development Mechanism (CDM) could reduce the cost of emissions limitations set in Kyoto. However, while society must soon decide whether or not to use tropical forest-based offsets, evidence regarding tropical carbon sinks is sparse. This paper presents a general method for constructing an integrated model (based on detailed historical, remote sensing and field data) that can produce land-use and carbon baselines, predict carbon sequestration supply to a carbon-offsets market and also help to evaluate optimal market rules. Creating such integrated models requires close collaboration between social and natural scientists. Our project combines varied disciplinary expertise (in economics, ecology and geography) with local knowledge in order to create high-quality, empirically grounded, integrated models for Costa Rica."
+  },
+  {
+   "title": "From Deforestation to Reforestation in New England, USA",
+   "authors": [
+    "Alexander Pfaff"
+   ],
+   "year": 2000,
+   "venue": "The Forest in the South and North in the Context of Global Warming (book by WIDER)",
+   "status": "已发表",
+   "url": "https://sites.sanford.duke.edu/alexpfaff/wp-content/uploads/sites/15/2000/01/WIDER5.pdf",
+   "abstract": "Historical data from the late 19th to the early 20th century are examined for New England. From the attempt to explain the reforestation that occurred, three main land-use claims arise: 1) population clearly does not fully dictate land use (e.g., de- or re-forestation); while population may well have an independent effect on land use, that effect clearly does not dominate all others; 2) factors that affect relative land-use returns, whether “external” to a region or not, clearly do affect land use; two examples are transport costs and productivity of other regions, which affect trade; and finally, 3) long-run analysis must consider shifts even in overall framework, such as from agriculture to migration and industrialization processes involving different economic dynamics. Support for these claims comes from limited historical data alongside relevant theory concerning optimal allocation of land between the four most relevant land uses: agriculture, manufacturing, forest (for timber or as a result of abandonment), and shelter (or, more generally, land uses other than for production). Supporting the “population” claim, previous New England farm expansion flattened out post-1850 and eventual reversed itself, even as population was increasing. Regarding the “returns” claim, the breakpoint in the 1790-1930 series of within-region measures (based on county-level data) of concentration of population is very clearly at about 1830, precisely the era in which the transportation revolution involving railroads, steamships and canals started to have its effect. Concerning the “long-run” claim, given an interest in land use there are grounds for attention to shifts in regional output, such as towards manufacturing from agriculture, as there is evidence that such shifts involved significant changes, in particular concentration of population within particular counties, along rivers and in particular locations along rivers."
+  },
+  {
+   "title": "What Drives Deforestation in the Brazilian Amazon? Evidence from Satellite and Socioeconomic Data",
+   "authors": [
+    "Alexander Pfaff"
+   ],
+   "year": 1999,
+   "venue": "Journal of Environmental Economics and Management 1999 volumne 37, pp. 26-43",
+   "status": "已发表",
+   "url": "https://sites.sanford.duke.edu/alexpfaff/wp-content/uploads/sites/15/1999/01/Pfaff-Amazon-JEEM.pdf",
+   "abstract": "While previous empirical analysis of deforestation focused on population, this paper builds from a model of land use which suggests many determinants of deforestation in the Brazilian Amazon. I derive a deforestation equation from this model and test a number of those factors using county-level data for the period 1978-1988. The data include a satellite deforestation measure which allows improved within-country analysis. The major empirical finding is the significance of both land characteristics (such as soil quality and vegetation density) and factors affecting transport costs (such as distance to major markets and both own- and neighboring-county roads). Government development projects also appear to affect clearing, although credit infrastructure does not. However, as such policies themselves may be functions of other factors, estimated effects of policies must be interpreted with some caution. Finally, the population density does not have a significant effect on deforestation when many potential determinants are included. However, a quadratic specification reveals a more robust result: the first migrants to a county have greater impact than later immigrants. This implies that the distribution of population affects its impact."
+  },
+  {
+   "title": "Who benefits from seasonal-to-interannual climate forecasts?",
+   "authors": [
+    "Alexander Pfaff",
+    "Kenneth Broad",
+    "Michael H. Glantz"
+   ],
+   "year": 1999,
+   "venue": "NATURE|VOL 397 | 25 FEBRUARY 1999",
+   "status": "已发表",
+   "url": "https://sites.sanford.duke.edu/alexpfaff/wp-content/uploads/sites/15/1999/01/PfaffBroadGlantz-Nature-ForecastsEquity.pdf",
+   "abstract": "The effective and equitable dissemination of climate forecasts is as important and challenging as their accuracy. During El Niño 1997–98, Peruvian fisheries showed the need to understand forecast use and all parties’ interests."
+  },
+  {
+   "title": "Cost-effective climate mitigation via conservation incentives targeting poverty: Bolsa Verde's impact in Brazilian Amazonia settlements",
+   "authors": [
+    "S. Costedoat",
+    "Alexander Pfaff",
+    "B. Coutinho",
+    "M.B. Mascia"
+   ],
+   "year": null,
+   "venue": "Submitted working paper (per CV, May 2024)",
+   "status": "工作论文",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Are the impacts of external environmental interventions shifted by pre-existing informal and formal institutions?",
+   "authors": [
+    "S. Eisenbarth",
+    "M. Fonseca",
+    "Alexander Pfaff"
+   ],
+   "year": null,
+   "venue": "Submitted working paper (per CV, May 2024)",
+   "status": "工作论文",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Political Economy of Protected-Area Downgrading & Downsizing in the United States",
+   "authors": [
+    "G. Le Velly",
+    "P. Delacote",
+    "R. Golden Kroner",
+    "D. Keles",
+    "Alexander Pfaff"
+   ],
+   "year": null,
+   "venue": "Submitted working paper (per CV, May 2024)",
+   "status": "工作论文",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Targeting Forest Restoration in Densely Populated Landscapes: farmers' interactions affect optimal facilitation of tree planting in India",
+   "authors": [
+    "S. Morgan",
+    "M. Puri",
+    "D. Mariyam",
+    "K.K. Karanth",
+    "Alexander Pfaff"
+   ],
+   "year": null,
+   "venue": "Submitted working paper (per CV, May 2024)",
+   "status": "工作论文",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Do Logging Concessions & Certifications Consistently Affect Forest Disturbance? multiple outcomes in each of the key timber regions within the Peruvian Amazon",
+   "authors": [
+    "J. Rico-Straffon",
+    "Z. Wang",
+    "C. Loucks",
+    "Alexander Pfaff"
+   ],
+   "year": null,
+   "venue": "Submitted working paper (per CV, May 2024)",
+   "status": "工作论文",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Comparing Types of Protection within the Peruvian Amazon: can multiple-use PAs better protect forests, along with livelihoods?",
+   "authors": [
+    "J. Rico-Straffon",
+    "Z. Wang",
+    "Alexander Pfaff"
+   ],
+   "year": null,
+   "venue": "Submitted working paper (per CV, May 2024)",
+   "status": "工作论文",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Colombian Small-Scale Gold Miners' Views About Formalization: considering a step towards 'sustainable' supply chains",
+   "authors": [
+    "M.A. Velez",
+    "X. Rueda",
+    "J.P. Henao",
+    "D. Tobin",
+    "J. Maldonado",
+    "Alexander Pfaff"
+   ],
+   "year": null,
+   "venue": "Submitted working paper (per CV, May 2024)",
+   "status": "工作论文",
+   "url": null,
+   "abstract": null
+  }
+ ]
+}

@@ -1,33 +1,482 @@
 [
-  {"name": "Harvard University", "zh": "哈佛大学", "short": "Harvard", "rank": 1, "screened": 59, "url": "https://www.economics.harvard.edu/faculty"},
-  {"name": "Massachusetts Institute of Technology", "zh": "麻省理工学院", "short": "MIT", "rank": 1, "screened": 41, "url": "https://economics.mit.edu/people/faculty"},
-  {"name": "Stanford University", "zh": "斯坦福大学", "short": "Stanford", "rank": 1, "screened": 67, "url": "https://economics.stanford.edu/people/faculty"},
-  {"name": "University of California, Berkeley", "zh": "加州大学伯克利分校", "short": "UC Berkeley", "rank": 1, "screened": 54, "url": "https://econ.berkeley.edu/people/faculty"},
-  {"name": "University of Chicago", "zh": "芝加哥大学", "short": "Chicago", "rank": 1, "screened": 58, "url": "https://economics.uchicago.edu/directory/faculty"},
-  {"name": "Princeton University", "zh": "普林斯顿大学", "short": "Princeton", "rank": 6, "screened": 59, "url": "https://economics.princeton.edu/people/"},
-  {"name": "Yale University", "zh": "耶鲁大学", "short": "Yale", "rank": 6, "screened": 54, "url": "https://economics.yale.edu/people-economics/faculty"},
-  {"name": "Northwestern University", "zh": "西北大学", "short": "Northwestern", "rank": 8, "screened": 38, "url": "https://economics.northwestern.edu/people/faculty/"},
-  {"name": "Columbia University", "zh": "哥伦比亚大学", "short": "Columbia", "rank": 9, "screened": 46, "url": "https://econ.columbia.edu/faculty/"},
-  {"name": "University of Pennsylvania", "zh": "宾夕法尼亚大学", "short": "Penn", "rank": 9, "screened": 34, "url": "https://economics.sas.upenn.edu/people/faculty"},
-  {"name": "University of California, Los Angeles", "zh": "加州大学洛杉矶分校", "short": "UCLA", "rank": 11, "screened": 43, "url": "https://economics.ucla.edu/faculty/"},
-  {"name": "New York University", "zh": "纽约大学", "short": "NYU", "rank": 12, "screened": 47, "url": "https://as.nyu.edu/departments/econ/people/faculty.html"},
-  {"name": "University of Michigan", "zh": "密歇根大学", "short": "Michigan", "rank": 12, "screened": 58, "url": "https://lsa.umich.edu/econ/people/faculty.html"},
-  {"name": "University of California, San Diego", "zh": "加州大学圣地亚哥分校", "short": "UCSD", "rank": 14, "screened": 39, "url": "https://economics.ucsd.edu/faculty-and-research/faculty-profiles/"},
-  {"name": "Brown University", "zh": "布朗大学", "short": "Brown", "rank": 15, "screened": 42, "url": "https://economics.brown.edu/people/faculty"},
-  {"name": "California Institute of Technology", "zh": "加州理工学院", "short": "Caltech", "rank": 15, "screened": 18, "url": "https://www.hss.caltech.edu/people"},
-  {"name": "Cornell University", "zh": "康奈尔大学", "short": "Cornell", "rank": 15, "screened": 57, "url": "https://economics.cornell.edu/faculty"},
-  {"name": "University of Wisconsin-Madison", "zh": "威斯康星大学麦迪逊分校", "short": "Wisconsin", "rank": 15, "screened": 49, "url": "https://econ.wisc.edu/people/faculty/"},
-  {"name": "Duke University", "zh": "杜克大学", "short": "Duke", "rank": 19, "screened": 68, "url": "https://econ.duke.edu/people/faculty"},
-  {"name": "University of Minnesota", "zh": "明尼苏达大学", "short": "Minnesota", "rank": 20, "screened": 21, "url": "https://cla.umn.edu/economics/people/faculty", "note": "经济系暂无；环境经济学者多在 Applied Economics 系"},
-  {"name": "Carnegie Mellon University", "zh": "卡内基梅隆大学", "short": "CMU", "rank": 21, "screened": 21, "url": "https://www.cmu.edu/tepper/faculty-and-research/faculty-by-area/economics.html"},
-  {"name": "Johns Hopkins University", "zh": "约翰斯·霍普金斯大学", "short": "JHU", "rank": 21, "screened": 36, "url": "https://econ.jhu.edu/people/faculty/"},
-  {"name": "University of Texas at Austin", "zh": "得克萨斯大学奥斯汀分校", "short": "UT Austin", "rank": 21, "screened": 53, "url": "https://liberalarts.utexas.edu/economics/faculty/"},
-  {"name": "Boston University", "zh": "波士顿大学", "short": "BU", "rank": 24, "screened": 42, "url": "https://www.bu.edu/econ/people/faculty/"},
-  {"name": "University of California, Davis", "zh": "加州大学戴维斯分校", "short": "UC Davis", "rank": 24, "screened": 31, "url": "https://economics.ucdavis.edu/people/faculty"},
-  {"name": "University of Maryland, College Park", "zh": "马里兰大学帕克分校", "short": "Maryland", "rank": 24, "screened": 41, "url": "https://www.econ.umd.edu/facultystaff/Faculty"},
-  {"name": "Pennsylvania State University", "zh": "宾夕法尼亚州立大学", "short": "Penn State", "rank": 27, "screened": 26, "url": "https://econ.la.psu.edu/directory/faculty/", "note": "经济系暂无；相关学者多在 AESE 系"},
-  {"name": "University of Rochester", "zh": "罗切斯特大学", "short": "Rochester", "rank": 27, "screened": 26, "url": "https://www.sas.rochester.edu/eco/people/faculty/"},
-  {"name": "Boston College", "zh": "波士顿学院", "short": "BC", "rank": 29, "screened": 36, "url": "https://www.bc.edu/bc-web/schools/morrissey/departments/economics/people.html"},
-  {"name": "University of Virginia", "zh": "弗吉尼亚大学", "short": "UVA", "rank": 29, "screened": 35, "url": "https://economics.virginia.edu/people/faculty"},
-  {"name": "Washington University in St. Louis", "zh": "圣路易斯华盛顿大学", "short": "WashU", "rank": 29, "screened": 23, "url": "https://economics.wustl.edu/people"}
+ {
+  "name": "Harvard University",
+  "zh": "哈佛大学",
+  "short": "Harvard",
+  "rank": 1,
+  "screened": 59,
+  "url": "https://www.economics.harvard.edu/faculty"
+ },
+ {
+  "name": "Massachusetts Institute of Technology",
+  "zh": "麻省理工学院",
+  "short": "MIT",
+  "rank": 1,
+  "screened": 41,
+  "url": "https://economics.mit.edu/people/faculty"
+ },
+ {
+  "name": "Stanford University",
+  "zh": "斯坦福大学",
+  "short": "Stanford",
+  "rank": 1,
+  "screened": 67,
+  "url": "https://economics.stanford.edu/people/faculty"
+ },
+ {
+  "name": "University of California, Berkeley",
+  "zh": "加州大学伯克利分校",
+  "short": "UC Berkeley",
+  "rank": 1,
+  "screened": 54,
+  "url": "https://econ.berkeley.edu/people/faculty"
+ },
+ {
+  "name": "University of Chicago",
+  "zh": "芝加哥大学",
+  "short": "Chicago",
+  "rank": 1,
+  "screened": 58,
+  "url": "https://economics.uchicago.edu/directory/faculty"
+ },
+ {
+  "name": "Princeton University",
+  "zh": "普林斯顿大学",
+  "short": "Princeton",
+  "rank": 6,
+  "screened": 59,
+  "url": "https://economics.princeton.edu/people/"
+ },
+ {
+  "name": "Yale University",
+  "zh": "耶鲁大学",
+  "short": "Yale",
+  "rank": 6,
+  "screened": 54,
+  "url": "https://economics.yale.edu/people-economics/faculty"
+ },
+ {
+  "name": "Northwestern University",
+  "zh": "西北大学",
+  "short": "Northwestern",
+  "rank": 8,
+  "screened": 38,
+  "url": "https://economics.northwestern.edu/people/faculty/"
+ },
+ {
+  "name": "Columbia University",
+  "zh": "哥伦比亚大学",
+  "short": "Columbia",
+  "rank": 9,
+  "screened": 46,
+  "url": "https://econ.columbia.edu/faculty/"
+ },
+ {
+  "name": "University of Pennsylvania",
+  "zh": "宾夕法尼亚大学",
+  "short": "Penn",
+  "rank": 9,
+  "screened": 34,
+  "url": "https://economics.sas.upenn.edu/people/faculty"
+ },
+ {
+  "name": "University of California, Los Angeles",
+  "zh": "加州大学洛杉矶分校",
+  "short": "UCLA",
+  "rank": 11,
+  "screened": 43,
+  "url": "https://economics.ucla.edu/faculty/"
+ },
+ {
+  "name": "New York University",
+  "zh": "纽约大学",
+  "short": "NYU",
+  "rank": 12,
+  "screened": 47,
+  "url": "https://as.nyu.edu/departments/econ/people/faculty.html"
+ },
+ {
+  "name": "University of Michigan",
+  "zh": "密歇根大学",
+  "short": "Michigan",
+  "rank": 12,
+  "screened": 58,
+  "url": "https://lsa.umich.edu/econ/people/faculty.html"
+ },
+ {
+  "name": "University of California, San Diego",
+  "zh": "加州大学圣地亚哥分校",
+  "short": "UCSD",
+  "rank": 14,
+  "screened": 39,
+  "url": "https://economics.ucsd.edu/faculty-and-research/faculty-profiles/"
+ },
+ {
+  "name": "Brown University",
+  "zh": "布朗大学",
+  "short": "Brown",
+  "rank": 15,
+  "screened": 42,
+  "url": "https://economics.brown.edu/people/faculty"
+ },
+ {
+  "name": "California Institute of Technology",
+  "zh": "加州理工学院",
+  "short": "Caltech",
+  "rank": 15,
+  "screened": 18,
+  "url": "https://www.hss.caltech.edu/people"
+ },
+ {
+  "name": "Cornell University",
+  "zh": "康奈尔大学",
+  "short": "Cornell",
+  "rank": 15,
+  "screened": 57,
+  "url": "https://economics.cornell.edu/faculty"
+ },
+ {
+  "name": "University of Wisconsin-Madison",
+  "zh": "威斯康星大学麦迪逊分校",
+  "short": "Wisconsin",
+  "rank": 15,
+  "screened": 49,
+  "url": "https://econ.wisc.edu/people/faculty/"
+ },
+ {
+  "name": "Duke University",
+  "zh": "杜克大学",
+  "short": "Duke",
+  "rank": 19,
+  "screened": 68,
+  "url": "https://econ.duke.edu/people/faculty"
+ },
+ {
+  "name": "University of Minnesota",
+  "zh": "明尼苏达大学",
+  "short": "Minnesota",
+  "rank": 20,
+  "screened": 21,
+  "url": "https://cla.umn.edu/economics/people/faculty"
+ },
+ {
+  "name": "Carnegie Mellon University",
+  "zh": "卡内基梅隆大学",
+  "short": "CMU",
+  "rank": 21,
+  "screened": 21,
+  "url": "https://www.cmu.edu/tepper/faculty-and-research/faculty-by-area/economics.html"
+ },
+ {
+  "name": "Johns Hopkins University",
+  "zh": "约翰斯·霍普金斯大学",
+  "short": "JHU",
+  "rank": 21,
+  "screened": 36,
+  "url": "https://econ.jhu.edu/people/faculty/"
+ },
+ {
+  "name": "University of Texas at Austin",
+  "zh": "得克萨斯大学奥斯汀分校",
+  "short": "UT Austin",
+  "rank": 21,
+  "screened": 53,
+  "url": "https://liberalarts.utexas.edu/economics/faculty/"
+ },
+ {
+  "name": "Boston University",
+  "zh": "波士顿大学",
+  "short": "BU",
+  "rank": 24,
+  "screened": 42,
+  "url": "https://www.bu.edu/econ/people/faculty/"
+ },
+ {
+  "name": "University of California, Davis",
+  "zh": "加州大学戴维斯分校",
+  "short": "UC Davis",
+  "rank": 24,
+  "screened": 31,
+  "url": "https://economics.ucdavis.edu/people/faculty"
+ },
+ {
+  "name": "University of Maryland, College Park",
+  "zh": "马里兰大学帕克分校",
+  "short": "Maryland",
+  "rank": 24,
+  "screened": 41,
+  "url": "https://www.econ.umd.edu/facultystaff/Faculty"
+ },
+ {
+  "name": "Pennsylvania State University",
+  "zh": "宾夕法尼亚州立大学",
+  "short": "Penn State",
+  "rank": 27,
+  "screened": 26,
+  "url": "https://econ.la.psu.edu/directory/faculty/"
+ },
+ {
+  "name": "University of Rochester",
+  "zh": "罗切斯特大学",
+  "short": "Rochester",
+  "rank": 27,
+  "screened": 26,
+  "url": "https://www.sas.rochester.edu/eco/people/faculty/"
+ },
+ {
+  "name": "Boston College",
+  "zh": "波士顿学院",
+  "short": "BC",
+  "rank": 29,
+  "screened": 36,
+  "url": "https://www.bc.edu/bc-web/schools/morrissey/departments/economics/people.html"
+ },
+ {
+  "name": "University of Virginia",
+  "zh": "弗吉尼亚大学",
+  "short": "UVA",
+  "rank": 29,
+  "screened": 35,
+  "url": "https://economics.virginia.edu/people/faculty"
+ },
+ {
+  "name": "Washington University in St. Louis",
+  "zh": "圣路易斯华盛顿大学",
+  "short": "WashU",
+  "rank": 29,
+  "screened": 23,
+  "url": "https://economics.wustl.edu/people"
+ },
+ {
+  "name": "Michigan State University",
+  "zh": "密歇根州立大学",
+  "short": "MSU",
+  "rank": 32,
+  "screened": null,
+  "url": ""
+ },
+ {
+  "name": "University of Illinois Urbana-Champaign",
+  "zh": "伊利诺伊大学厄巴纳-香槟分校",
+  "short": "UIUC",
+  "rank": 32,
+  "screened": null,
+  "url": ""
+ },
+ {
+  "name": "University of North Carolina at Chapel Hill",
+  "zh": "北卡罗来纳大学教堂山分校",
+  "short": "UNC",
+  "rank": 32,
+  "screened": null,
+  "url": ""
+ },
+ {
+  "name": "University of Southern California",
+  "zh": "南加州大学",
+  "short": "USC",
+  "rank": 32,
+  "screened": null,
+  "url": ""
+ },
+ {
+  "name": "Vanderbilt University",
+  "zh": "范德堡大学",
+  "short": "Vanderbilt",
+  "rank": 32,
+  "screened": null,
+  "url": ""
+ },
+ {
+  "name": "Arizona State University",
+  "zh": "亚利桑那州立大学",
+  "short": "ASU",
+  "rank": 37,
+  "screened": null,
+  "url": ""
+ },
+ {
+  "name": "Georgetown University",
+  "zh": "乔治城大学",
+  "short": "Georgetown",
+  "rank": 37,
+  "screened": null,
+  "url": ""
+ },
+ {
+  "name": "Ohio State University",
+  "zh": "俄亥俄州立大学",
+  "short": "Ohio State",
+  "rank": 37,
+  "screened": null,
+  "url": ""
+ },
+ {
+  "name": "University of California, Santa Barbara",
+  "zh": "加州大学圣塔芭芭拉分校",
+  "short": "UCSB",
+  "rank": 37,
+  "screened": null,
+  "url": ""
+ },
+ {
+  "name": "Indiana University Bloomington",
+  "zh": "印第安纳大学布卢明顿分校",
+  "short": "Indiana",
+  "rank": 41,
+  "screened": null,
+  "url": ""
+ },
+ {
+  "name": "University of Arizona",
+  "zh": "亚利桑那大学",
+  "short": "Arizona",
+  "rank": 41,
+  "screened": null,
+  "url": ""
+ },
+ {
+  "name": "University of California, Irvine",
+  "zh": "加州大学尔湾分校",
+  "short": "UC Irvine",
+  "rank": 41,
+  "screened": null,
+  "url": ""
+ },
+ {
+  "name": "University of Pittsburgh",
+  "zh": "匹兹堡大学",
+  "short": "Pitt",
+  "rank": 41,
+  "screened": null,
+  "url": ""
+ },
+ {
+  "name": "University of Washington",
+  "zh": "华盛顿大学",
+  "short": "UW",
+  "rank": 41,
+  "screened": null,
+  "url": ""
+ },
+ {
+  "name": "Rice University",
+  "zh": "莱斯大学",
+  "short": "Rice",
+  "rank": 46,
+  "screened": null,
+  "url": ""
+ },
+ {
+  "name": "Texas A&M University",
+  "zh": "得克萨斯农工大学",
+  "short": "Texas A&M",
+  "rank": 46,
+  "screened": null,
+  "url": ""
+ },
+ {
+  "name": "University of Colorado Boulder",
+  "zh": "科罗拉多大学博尔德分校",
+  "short": "CU Boulder",
+  "rank": 46,
+  "screened": null,
+  "url": ""
+ },
+ {
+  "name": "University of Notre Dame",
+  "zh": "圣母大学",
+  "short": "Notre Dame",
+  "rank": 46,
+  "screened": null,
+  "url": ""
+ },
+ {
+  "name": "Purdue University",
+  "zh": "普渡大学",
+  "short": "Purdue",
+  "rank": 50,
+  "screened": null,
+  "url": ""
+ },
+ {
+  "name": "Rutgers University",
+  "zh": "罗格斯大学",
+  "short": "Rutgers",
+  "rank": 50,
+  "screened": null,
+  "url": ""
+ },
+ {
+  "name": "Emory University",
+  "zh": "埃默里大学",
+  "short": "Emory",
+  "rank": 52,
+  "screened": null,
+  "url": ""
+ },
+ {
+  "name": "Stony Brook University",
+  "zh": "纽约州立大学石溪分校",
+  "short": "Stony Brook",
+  "rank": 53,
+  "screened": null,
+  "url": ""
+ },
+ {
+  "name": "Syracuse University",
+  "zh": "雪城大学",
+  "short": "Syracuse",
+  "rank": 53,
+  "screened": null,
+  "url": ""
+ },
+ {
+  "name": "University of California, Santa Cruz",
+  "zh": "加州大学圣克鲁兹分校",
+  "short": "UC Santa Cruz",
+  "rank": 53,
+  "screened": null,
+  "url": ""
+ },
+ {
+  "name": "University of Georgia",
+  "zh": "佐治亚大学",
+  "short": "UGA",
+  "rank": 56,
+  "screened": null,
+  "url": ""
+ },
+ {
+  "name": "University of Iowa",
+  "zh": "爱荷华大学",
+  "short": "Iowa",
+  "rank": 56,
+  "screened": null,
+  "url": ""
+ },
+ {
+  "name": "University of Oregon",
+  "zh": "俄勒冈大学",
+  "short": "Oregon",
+  "rank": 56,
+  "screened": null,
+  "url": ""
+ },
+ {
+  "name": "University of California, Riverside",
+  "zh": "加州大学河滨分校",
+  "short": "UC Riverside",
+  "rank": 56,
+  "screened": null,
+  "url": ""
+ },
+ {
+  "name": "Southern Methodist University",
+  "zh": "南卫理公会大学",
+  "short": "SMU",
+  "rank": 60,
+  "screened": null,
+  "url": ""
+ }
 ]

@@ -4,6 +4,8 @@
 学校: Duke University
 职称: 正教授
 头衔: Bernard Rhodes Distinguished Professor of Public Policy
+单位: Bernard Rhodes Distinguished Professor of Public Policy
+单位类型: 公共政策
 聘任类型: 外系挂靠
 领域层级: 核心领域
 研究方向: 自然资源; 土地利用; 环境; 气候

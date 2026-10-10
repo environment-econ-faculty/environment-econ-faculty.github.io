@@ -4,6 +4,8 @@
 学校: Stanford University
 职称: 助理教授
 头衔: Assistant Professor of Economics
+单位: Department of Economics
+单位类型: 经济系
 聘任类型: 经济系
 领域层级: 领域之一
 研究方向: 气候

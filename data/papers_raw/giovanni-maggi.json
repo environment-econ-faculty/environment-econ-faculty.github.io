@@ -1,0 +1,412 @@
+{
+ "slug": "giovanni-maggi",
+ "name": "Giovanni Maggi",
+ "sources": [
+  "https://economics.yale.edu/sites/default/files/cv/CV.pdf",
+  "https://economics.yale.edu/people/giovanni-maggi/papers"
+ ],
+ "collected": "2026-10-10",
+ "notes": "No personal homepage; publications from Yale CV, working papers from Yale department papers page. No abstracts available.",
+ "papers": [
+  {
+   "title": "Harmonization... What Else? The Role for International Regulatory Agreements",
+   "authors": [
+    "Giovanni Maggi",
+    "Monika Mrazova"
+   ],
+   "year": 2024,
+   "venue": null,
+   "status": "工作论文",
+   "url": "https://economics.yale.edu/sites/default/files/2024-12/20241218-RegCoop.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Carbon Taxes and Green Subsidies in a World Economy",
+   "authors": [
+    "Giovanni Maggi",
+    "Matthew J. Kotchen"
+   ],
+   "year": 2026,
+   "venue": null,
+   "status": "工作论文",
+   "url": "https://economics.yale.edu/sites/default/files/2026-02/Draftv34rev.pdf",
+   "abstract": null
+  },
+  {
+   "title": "International Agreements on Product Standards: an Incomplete-Contracting Theory",
+   "authors": [
+    "Giovanni Maggi",
+    "Pierpaolo Battigalli"
+   ],
+   "year": 2003,
+   "venue": "NBER Working Paper No. 9533",
+   "status": "工作论文",
+   "url": "https://economics.yale.edu/sites/default/files/2022-10/standards27g.pdf",
+   "abstract": null
+  },
+  {
+   "title": "The Political Economy of Regulatory Cooperation",
+   "authors": [
+    "Giovanni Maggi",
+    "Ralph Ossa"
+   ],
+   "year": null,
+   "venue": "American Economic Review",
+   "status": "即将发表",
+   "url": "https://economics.yale.edu/sites/default/files/2023-06/Maggi-Ossa-Final-Final-Version_050423.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Choked by Red Tape? The Political Economy of Wasteful Trade Barriers",
+   "authors": [
+    "Giovanni Maggi",
+    "Monika Mrazova",
+    "Peter Neary"
+   ],
+   "year": 2022,
+   "venue": "International Economic Review 63(1), 161-188",
+   "status": "已发表",
+   "url": "https://economics.yale.edu/sites/default/files/2022-10/RedTape_2021_06_01(1).pdf",
+   "abstract": null
+  },
+  {
+   "title": "The Political Economy of Deep Integration",
+   "authors": [
+    "Giovanni Maggi",
+    "Ralph Ossa"
+   ],
+   "year": 2021,
+   "venue": "Annual Review of Economics 13(1), 19-38",
+   "status": "已发表",
+   "url": "https://economics.yale.edu/sites/default/files/2022-10/Maggi_Ossa_ARE_113020.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Learning By Ruling and Trade Disputes",
+   "authors": [
+    "Giovanni Maggi",
+    "Robert W. Staiger"
+   ],
+   "year": 2020,
+   "venue": "Journal of International Economics 126",
+   "status": "已发表",
+   "url": "https://economics.yale.edu/sites/default/files/2022-10/LearningbyRuling040820_g.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Anti-Lobbying Gains from International Agreements",
+   "authors": [
+    "Giovanni Maggi"
+   ],
+   "year": 2020,
+   "venue": "Journal of Monetary Economics 109, 20-34",
+   "status": "已发表",
+   "url": "https://economics.yale.edu/sites/default/files/2022-10/AntiLobbyingGains_Rev_110519.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Trade Disputes and Settlement",
+   "authors": [
+    "Giovanni Maggi",
+    "Robert W. Staiger"
+   ],
+   "year": 2018,
+   "venue": "International Economic Review 59(1), 19-50",
+   "status": "已发表",
+   "url": "https://economics.yale.edu/sites/default/files/2022-10/TradeDisputes_Final_062117.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Issue Linkage",
+   "authors": [
+    "Giovanni Maggi"
+   ],
+   "year": 2016,
+   "venue": "The Handbook of Commercial Policy, vol. 1 (eds. K. Bagwell and R.W. Staiger), Elsevier (book chapter)",
+   "status": "已发表",
+   "url": "https://economics.yale.edu/sites/default/files/2022-10/IssueLinkageDraft_041216.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Uncertainty and Trade Agreements",
+   "authors": [
+    "Giovanni Maggi",
+    "Nuno Limão"
+   ],
+   "year": 2015,
+   "venue": "American Economic Journal: Microeconomics 7(4), 1-42",
+   "status": "已发表",
+   "url": "https://economics.yale.edu/sites/default/files/2022-10/TradeAgreementsAndUncertainty_Aug2014.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Optimal Design of Trade Agreements in the Presence of Renegotiation",
+   "authors": [
+    "Giovanni Maggi",
+    "Robert W. Staiger"
+   ],
+   "year": 2015,
+   "venue": "American Economic Journal: Microeconomics 7(1), 109-143",
+   "status": "已发表",
+   "url": "https://economics.yale.edu/sites/default/files/2022-10/Breach%26Remedies_011814.pdf",
+   "abstract": null
+  },
+  {
+   "title": "International Trade Agreements",
+   "authors": [
+    "Giovanni Maggi"
+   ],
+   "year": 2014,
+   "venue": "The Handbook of International Economics, vol. 4 (eds. G. Gopinath, E. Helpman and K. Rogoff), Elsevier (book chapter)",
+   "status": "已发表",
+   "url": "https://economics.yale.edu/sites/default/files/2022-10/InternationalTradeAgreements_HandbookChapter.pdf",
+   "abstract": null
+  },
+  {
+   "title": "The Role of Dispute Settlement Procedures in International Trade Agreements",
+   "authors": [
+    "Giovanni Maggi",
+    "Robert W. Staiger"
+   ],
+   "year": 2011,
+   "venue": "Quarterly Journal of Economics 126(1), 475-515",
+   "status": "已发表",
+   "url": "https://economics.yale.edu/sites/default/files/2022-10/maggi_staiger_dsp_paper_111110final.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Trade Agreements as Endogenously Incomplete Contracts",
+   "authors": [
+    "Henrik Horn",
+    "Giovanni Maggi",
+    "Robert W. Staiger"
+   ],
+   "year": 2010,
+   "venue": "American Economic Review 100(1), 394-419",
+   "status": "已发表",
+   "url": "https://economics.yale.edu/sites/default/files/2022-10/HMS-07-27-08b.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Costly Contracting in a Long-Term Relationship",
+   "authors": [
+    "Pierpaolo Battigalli",
+    "Giovanni Maggi"
+   ],
+   "year": 2008,
+   "venue": "RAND Journal of Economics 39(2), 352-377",
+   "status": "已发表",
+   "url": "https://economics.yale.edu/sites/default/files/2022-10/repeatcontractRAND.pdf",
+   "abstract": null
+  },
+  {
+   "title": "A Political-Economy Theory of Trade Agreements",
+   "authors": [
+    "Giovanni Maggi",
+    "Andres Rodriguez-Clare"
+   ],
+   "year": 2007,
+   "venue": "American Economic Review 97(4), 1374-1406",
+   "status": "已发表",
+   "url": "https://economics.yale.edu/sites/default/files/2022-10/mrworkingpapermarch14.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Self-Enforcing Voting in International Organizations",
+   "authors": [
+    "Giovanni Maggi",
+    "Massimo Morelli"
+   ],
+   "year": 2006,
+   "venue": "American Economic Review 96(4), 1137-1158",
+   "status": "已发表",
+   "url": "https://economics.yale.edu/sites/default/files/2022-10/voting41g.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Rigidity, Discretion and the Costs of Writing Contracts",
+   "authors": [
+    "Pierpaolo Battigalli",
+    "Giovanni Maggi"
+   ],
+   "year": 2002,
+   "venue": "American Economic Review 92(4), 798-817",
+   "status": "已发表",
+   "url": "https://economics.yale.edu/sites/default/files/2022-10/contrwp3.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Trade and Diversity",
+   "authors": [
+    "Gene Grossman",
+    "Giovanni Maggi"
+   ],
+   "year": 2000,
+   "venue": "American Economic Review 90(5), 1255-1275",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Work environment and individual background: explaining regional shirking differentials in a large Italian firm",
+   "authors": [
+    "Andrea Ichino",
+    "Giovanni Maggi"
+   ],
+   "year": 2000,
+   "venue": "Quarterly Journal of Economics 115, 1057-1090",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Import penetration and the politics of trade protection",
+   "authors": [
+    "Giovanni Maggi",
+    "Andres Rodriguez-Clare"
+   ],
+   "year": 2000,
+   "venue": "Journal of International Economics 51, 287-304",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Protection for Sale: an empirical investigation",
+   "authors": [
+    "Pinelopi Goldberg",
+    "Giovanni Maggi"
+   ],
+   "year": 1999,
+   "venue": "American Economic Review 89, 1135-1155",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The value of commitment with imperfect observability and private information",
+   "authors": [
+    "Giovanni Maggi"
+   ],
+   "year": 1999,
+   "venue": "RAND Journal of Economics 30, 555-574",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Strategic trade policy under incomplete information",
+   "authors": [
+    "Giovanni Maggi"
+   ],
+   "year": 1999,
+   "venue": "International Economic Review 40, 571-594",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The role of multilateral institutions in international trade cooperation",
+   "authors": [
+    "Giovanni Maggi"
+   ],
+   "year": 1999,
+   "venue": "American Economic Review 89(1), 190-214",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Free trade vs. strategic trade: a peek into Pandora's box",
+   "authors": [
+    "Gene Grossman",
+    "Giovanni Maggi"
+   ],
+   "year": 1998,
+   "venue": "Global Competition and Integration (eds. R. Sato, R.V. Ramachandran and K. Mino), Kluwer (book chapter)",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A note on 'Strategic Trade Policy Design under Asymmetric Information and Public Contracts'",
+   "authors": [
+    "Giovanni Maggi"
+   ],
+   "year": 1998,
+   "venue": "Review of Economic Studies 65(3), 623-625",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The value of trade agreements in the presence of political pressures",
+   "authors": [
+    "Giovanni Maggi",
+    "Andres Rodriguez-Clare"
+   ],
+   "year": 1998,
+   "venue": "Journal of Political Economy 106, 574-601",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Endogenous leadership in a new market",
+   "authors": [
+    "Giovanni Maggi"
+   ],
+   "year": 1996,
+   "venue": "RAND Journal of Economics 27, 641-59",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Strategic trade policies with endogenous mode of competition",
+   "authors": [
+    "Giovanni Maggi"
+   ],
+   "year": 1996,
+   "venue": "American Economic Review 86(1), 237-58",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Costly distortion of information in agency problems",
+   "authors": [
+    "Giovanni Maggi",
+    "Andres Rodriguez-Clare"
+   ],
+   "year": 1995,
+   "venue": "RAND Journal of Economics 26, 675-89",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "On countervailing incentives",
+   "authors": [
+    "Giovanni Maggi",
+    "Andres Rodriguez-Clare"
+   ],
+   "year": 1995,
+   "venue": "Journal of Economic Theory 66(1), 238-63",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Technology gap and international trade: an evolutionary model",
+   "authors": [
+    "Giovanni Maggi"
+   ],
+   "year": 1993,
+   "venue": "Journal of Evolutionary Economics 3, 109-126",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  }
+ ]
+}

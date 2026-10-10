@@ -1,0 +1,311 @@
+{
+ "slug": "mark-r-jacobsen",
+ "name": "Mark R. Jacobsen",
+ "sources": [
+  "https://econweb.ucsd.edu/~m3jacobs/papers.html",
+  "https://econweb.ucsd.edu/~m3jacobs/Jacobsen_CV.pdf"
+ ],
+ "collected": "2026-10-10",
+ "notes": "From homepage research page (cross-checked with CV). No abstracts. Four current projects listed without drafts skipped; JEL book review and EPA report skipped.",
+ "papers": [
+  {
+   "title": "The Efficiency of Dynamic Electricity Prices",
+   "authors": [
+    "Mark R. Jacobsen",
+    "Andrew Hinchberger",
+    "Christopher Knittel",
+    "James Sallee",
+    "Arthur van Benthem"
+   ],
+   "year": 2026,
+   "venue": "Accepted at American Economic Journal: Economic Policy",
+   "status": "即将发表",
+   "url": "https://www.nber.org/papers/w32995",
+   "abstract": null
+  },
+  {
+   "title": "Inattention Is Not Inefficiency: Correcting the Logic Behind the 2025 Proposed Vehicle Standard Rollback",
+   "authors": [
+    "Mark R. Jacobsen",
+    "Antonio Bento",
+    "Kenneth Gillingham",
+    "Christopher Knittel",
+    "Benjamin Leard",
+    "Joshua Linn",
+    "David Rapson",
+    "James Sallee",
+    "Arthur van Benthem",
+    "Kate Whitefoot"
+   ],
+   "year": 2026,
+   "venue": "Science, Vol. 393, 2026",
+   "status": "已发表",
+   "url": "https://www.science.org/doi/abs/10.1126/science.aef0464",
+   "abstract": null
+  },
+  {
+   "title": "Understanding and Valuing Human Connections to Deep-Sea Methane Seeps Off Costa Rica",
+   "authors": [
+    "Mark R. Jacobsen",
+    "Olívia Pereira",
+    "Richard Carson",
+    "Jorge Cortés",
+    "Lisa Levin"
+   ],
+   "year": 2024,
+   "venue": "Ecological Economics, 2024",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/pii/S0921800924001253",
+   "abstract": null
+  },
+  {
+   "title": "Regulating Untaxable Externalities: Are Vehicle Air Pollution Standards Effective and Efficient?",
+   "authors": [
+    "Mark R. Jacobsen",
+    "James Sallee",
+    "Joseph Shapiro",
+    "Arthur van Benthem"
+   ],
+   "year": 2023,
+   "venue": "The Quarterly Journal of Economics, 2023 (NBER Working Paper W30702)",
+   "status": "已发表",
+   "url": "https://academic.oup.com/qje/article-abstract/138/3/1907/7080183",
+   "abstract": null
+  },
+  {
+   "title": "The Use of Regression Statistics to Analyze Imperfect Pricing Policies",
+   "authors": [
+    "Mark R. Jacobsen",
+    "Christopher Knittel",
+    "James Sallee",
+    "Arthur van Benthem"
+   ],
+   "year": 2020,
+   "venue": "Journal of Political Economy, 2020",
+   "status": "已发表",
+   "url": "https://www.journals.uchicago.edu/doi/full/10.1086/705553",
+   "abstract": null
+  },
+  {
+   "title": "Estimating the Costs and Benefits of Fuel Economy Standards",
+   "authors": [
+    "Mark R. Jacobsen",
+    "Antonio Bento",
+    "Christopher Knittel",
+    "Arthur van Benthem"
+   ],
+   "year": 2020,
+   "venue": "NBER Book Series: Environmental and Energy Policy and the Economy, University of Chicago Press, 2020",
+   "status": "已发表",
+   "url": "https://www.journals.uchicago.edu/doi/full/10.1086/706797",
+   "abstract": null
+  },
+  {
+   "title": "Cost-Effective Climate Policies",
+   "authors": [
+    "Mark R. Jacobsen"
+   ],
+   "year": 2019,
+   "venue": "in Bending the Curve: Climate Change Solutions, Ed. V. Ramanathan, Oakland, CA: Regents of the University of California, 2019",
+   "status": "已发表",
+   "url": "https://escholarship.org/uc/item/6kr8p5rq",
+   "abstract": null
+  },
+  {
+   "title": "Flawed Analyses of U.S. Auto Fuel Economy Standards",
+   "authors": [
+    "Mark R. Jacobsen",
+    "Antonio Bento",
+    "Kenneth Gillingham",
+    "Christopher Knittel",
+    "Benjamin Leard",
+    "Joshua Linn",
+    "Virginia McConnell",
+    "David Rapson",
+    "James Sallee",
+    "Arthur van Benthem",
+    "Kate Whitefoot"
+   ],
+   "year": 2018,
+   "venue": "Science, Vol. 362, 2018",
+   "status": "已发表",
+   "url": "http://science.sciencemag.org/content/362/6419/1119.summary",
+   "abstract": null
+  },
+  {
+   "title": "Environmental Policy in the Presence of an Informal Sector",
+   "authors": [
+    "Mark R. Jacobsen",
+    "Antonio Bento",
+    "Anthony Liu"
+   ],
+   "year": 2018,
+   "venue": "Journal of Environmental Economics and Management, Vol. 90, 2018",
+   "status": "已发表",
+   "url": "https://econweb.ucsd.edu/~m3jacobs/policy_informal_sector.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Public Policy and the Private Provision of Public Goods Under Heterogeneous Preferences",
+   "authors": [
+    "Mark R. Jacobsen",
+    "Jacob LaRiviere",
+    "Michael Price"
+   ],
+   "year": 2017,
+   "venue": "Journal of the Association of Environmental and Resource Economists, Vol. 4, No. 1, 2017",
+   "status": "已发表",
+   "url": "https://econweb.ucsd.edu/~m3jacobs/Jacobsen_LaRiviere_Price_2017.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Vehicle Scrappage and Gasoline Policy",
+   "authors": [
+    "Mark R. Jacobsen",
+    "Arthur van Benthem"
+   ],
+   "year": 2015,
+   "venue": "American Economic Review, Vol. 105, No. 3, 2015",
+   "status": "已发表",
+   "url": "https://econweb.ucsd.edu/~m3jacobs/Jacobsen_and_Van_Benthem_Vehicle_Scrappage.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Fuel Economy and Safety: The Influences of Vehicle Class and Driver Behavior",
+   "authors": [
+    "Mark R. Jacobsen"
+   ],
+   "year": 2013,
+   "venue": "American Economic Journal: Applied Economics, Vol. 5, No. 3, 2013",
+   "status": "已发表",
+   "url": "https://econweb.ucsd.edu/~m3jacobs/Jacobsen_Safety.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Evaluating U.S. Fuel Economy Standards in a Model with Producer and Household Heterogeneity",
+   "authors": [
+    "Mark R. Jacobsen"
+   ],
+   "year": 2013,
+   "venue": "American Economic Journal: Economic Policy, Vol. 5, No. 2, 2013",
+   "status": "已发表",
+   "url": "https://econweb.ucsd.edu/~m3jacobs/Jacobsen_CAFE.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Unintended Consequences from Nested State & Federal Regulations: The Case of the Pavley Greenhouse-Gas-per-Mile Limits",
+   "authors": [
+    "Mark R. Jacobsen",
+    "Lawrence Goulder",
+    "Arthur van Benthem"
+   ],
+   "year": 2012,
+   "venue": "Journal of Environmental Economics and Management, Vol. 63, No. 2, 2012",
+   "status": "已发表",
+   "url": "https://econweb.ucsd.edu/~m3jacobs/Unintended_Consequences.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Fuel Economy, Car Class Mix, and Safety",
+   "authors": [
+    "Mark R. Jacobsen"
+   ],
+   "year": 2011,
+   "venue": "American Economic Review - Papers and Proceedings, Vol. 101, No. 3, 2011",
+   "status": "已发表",
+   "url": "https://econweb.ucsd.edu/~m3jacobs/FuelEconomy_ClassMix_Safety.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Distributional and Efficiency Impacts of Increased U.S. Gasoline Taxes",
+   "authors": [
+    "Mark R. Jacobsen",
+    "Antonio Bento",
+    "Lawrence Goulder",
+    "Roger von Haefen"
+   ],
+   "year": 2009,
+   "venue": "American Economic Review, Vol. 99, No. 3, 2009 (Reprinted in Fuel Taxes and the Poor: The Distributional Effects of Gasoline Taxation and Their Implications for Climate Policy, Ed. Thomas Sterner, Washington DC: RFF Press, 2011.)",
+   "status": "已发表",
+   "url": "https://econweb.ucsd.edu/~m3jacobs/Gas_Taxes.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Costs of Alternative Environmental Policy Instruments in the Presence of Industry Compensation Requirements",
+   "authors": [
+    "Mark R. Jacobsen",
+    "Lans Bovenberg",
+    "Lawrence Goulder"
+   ],
+   "year": 2008,
+   "venue": "Journal of Public Economics, Vol. 92, No. 5, 2008",
+   "status": "已发表",
+   "url": "https://econweb.ucsd.edu/~m3jacobs/CostsofAlternativePolicyInstruments.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Ricardian Rents, Environmental Policy, and the ‘Double-Dividend’ Hypothesis",
+   "authors": [
+    "Mark R. Jacobsen",
+    "Antonio Bento"
+   ],
+   "year": 2007,
+   "venue": "Journal of Environmental Economics and Management, Vol. 53(1), 2007",
+   "status": "已发表",
+   "url": "https://econweb.ucsd.edu/~m3jacobs/Ricardian_Rents.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Distributional and Efficiency Impacts of Gasoline Taxes: An Econometrically Based Multi-market Study",
+   "authors": [
+    "Mark R. Jacobsen",
+    "Antonio Bento",
+    "Lawrence Goulder",
+    "Emeric Henry",
+    "Roger von Haefen"
+   ],
+   "year": 2005,
+   "venue": "American Economic Review - Papers and Proceedings, Vol. 95, No. 2, 2005",
+   "status": "已发表",
+   "url": "https://econweb.ucsd.edu/~m3jacobs/GasTax_MultiMarket.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Electricity Regulation in California and Input Market Distortion",
+   "authors": [
+    "Mark R. Jacobsen",
+    "Azeem Shaikh"
+   ],
+   "year": 2003,
+   "venue": "Stanford Institute for Economic Policy Research Discussion Paper, No. 03-016, 2003",
+   "status": "工作论文",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Meeting Concentration Targets in the Post-Kyoto World — Does Kyoto Further a Least Cost Strategy?",
+   "authors": [
+    "Mark R. Jacobsen",
+    "Gary Yohe"
+   ],
+   "year": 1999,
+   "venue": "Mitigation and Adaptation Strategies for Global Change, Vol. 4, No. 1, 1999",
+   "status": "已发表",
+   "url": "https://econweb.ucsd.edu/~m3jacobs/Post_Kyoto.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Spanning Not Implausible Futures to Assess Relative Vulnerability to Climate Change and Climate Variability",
+   "authors": [
+    "Mark R. Jacobsen",
+    "Gary Yohe",
+    "Taras Gapotchenko"
+   ],
+   "year": 1999,
+   "venue": "Global Environmental Change, Vol. 9, No. 3, 1999",
+   "status": "已发表",
+   "url": "https://econweb.ucsd.edu/~m3jacobs/Scenario_Analysis.pdf",
+   "abstract": null
+  }
+ ]
+}

@@ -10,7 +10,9 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = os.path.join(ROOT, "data", "scholars")
 
 RANK = {"Professor": "正教授", "Associate Professor": "副教授", "Assistant Professor": "助理教授"}
-APPT = {"primary": "经济系", "joint": "合聘", "secondary/courtesy": "外系挂靠"}
+APPT = {"primary": "经济系", "joint": "合聘", "secondary/courtesy": "外系挂靠", "own_unit": "本院系"}
+UNIT = {"economics": "经济系", "ag_resource_econ": "农经/资源经济", "public_policy": "公共政策", "business": "商学院",
+        "environment": "环境学院", "other": "其他"}
 TIER = {"primary_field": "核心领域", "secondary_field": "领域之一", "research_only": "相关研究"}
 SUB = {"energy": "能源", "environmental": "环境", "climate": "气候", "pollution/health": "污染与健康",
        "natural resources": "自然资源", "agricultural": "农业", "land use": "土地利用", "water": "水资源",
@@ -75,6 +77,9 @@ def main():
             add("学校", clean(r["university"]))
             add("职称", RANK.get(r["rank"], r["rank"]))
             add("头衔", clean(r["title_full"]))
+            add("单位", clean(r.get("unit")))
+            add("单位类型", UNIT.get(clean(r.get("unit_type")), "经济系"))
+            add("其他单位", clean(r.get("other_units")))
             add("聘任类型", APPT.get(r["appointment_type"], r["appointment_type"]))
             add("领域层级", TIER.get(r["eee_strength"], r["eee_strength"]))
             subs = [SUB.get(t.strip().lower(), t.strip()) for t in clean(r["eee_subfields"]).split(";") if t.strip()]
@@ -87,6 +92,8 @@ def main():
             add("主页", clean(r["homepage_url"]))
             add("CV", clean(r["cv_url"]))
             add("院系页面", clean(r["profile_url"]))
+            add("ORCID", clean(r.get("orcid")))
+            add("Google Scholar", clean(r.get("google_scholar_url")))
             add("学术兼职", clean(r["other_affiliations"]))
             add("本科", " | ".join([clean(r["ba_institution"]), yr(r["ba_year"]), clean(r["ba_field"])]) if clean(r["ba_institution"]) else "")
             mi = [x.strip() for x in clean(r["ma_institution"]).split(" | ")] if clean(r["ma_institution"]) else []

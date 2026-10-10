@@ -4,6 +4,8 @@
 学校: University of Maryland, College Park
 职称: 正教授
 头衔: Professor, Department of Geographical Sciences; Affiliate Professor, Department of Economics
+单位: Professor, Department of Geographical Sciences
+单位类型: 环境学院
 聘任类型: 外系挂靠
 领域层级: 核心领域
 研究方向: 环境; 气候; 土地利用

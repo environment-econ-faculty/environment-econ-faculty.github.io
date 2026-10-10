@@ -4,6 +4,8 @@
 学校: University of California, Davis
 职称: 正教授
 头衔: Chancellor's Leadership Professor; Professor of Economics
+单位: Department of Economics
+单位类型: 经济系
 聘任类型: 经济系
 领域层级: 核心领域
 研究方向: 能源; 气候; 环境; 交通

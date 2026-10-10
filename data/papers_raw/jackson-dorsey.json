@@ -1,0 +1,84 @@
+{
+ "slug": "jackson-dorsey",
+ "name": "Jackson Dorsey",
+ "sources": [
+  "http://www.jacksonfdorsey.com/"
+ ],
+ "collected": "2026-10-10",
+ "notes": "From homepage; no abstracts shown. \"Fraud, Evasion, and Enforcement in Decentralized Environmental Regulation\" (with Jacob Bradt) excluded: no public draft (\"email for draft\").",
+ "papers": [
+  {
+   "title": "Solar Market Frictions: The Role of Platforms and Policies",
+   "authors": [
+    "Jackson Dorsey"
+   ],
+   "year": null,
+   "venue": "Review of Economics and Statistics",
+   "status": "即将发表",
+   "url": "http://www.jacksonfdorsey.com/papers/solar-market-frictions.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Soaking Up the Sun: Battery Investment, Renewable Energy, and Market Equilibrium",
+   "authors": [
+    "Andrew Butters",
+    "Jackson Dorsey",
+    "Gautam Gowrisankaran"
+   ],
+   "year": 2025,
+   "venue": "Econometrica",
+   "status": "已发表",
+   "url": "http://www.jacksonfdorsey.com/papers/soaking-up-the-sun.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Fueling Alternatives: Gas Station Choice and the Implications for Electric Charging",
+   "authors": [
+    "Jackson Dorsey",
+    "Ashley Langer",
+    "Shaun McRae"
+   ],
+   "year": 2025,
+   "venue": "American Economic Journal: Economic Policy",
+   "status": "已发表",
+   "url": "http://www.jacksonfdorsey.com/papers/fueling-alternatives.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Unequal Uptake: Assessing Distributional Disparities in the Residential Solar Market",
+   "authors": [
+    "Jackson Dorsey",
+    "Derek Wolfson"
+   ],
+   "year": 2024,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "http://www.jacksonfdorsey.com/papers/unequal-uptake.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Waiting for the Courts: Effects of Policy Uncertainty on Pollution and Investment",
+   "authors": [
+    "Jackson Dorsey"
+   ],
+   "year": 2019,
+   "venue": "Environmental & Resource Economics",
+   "status": "已发表",
+   "url": "http://www.jacksonfdorsey.com/papers/waiting-for-the-courts.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Pollution Pricing in Equilibrium: Production, Reallocation, and Aggregate Impacts",
+   "authors": [
+    "Andrew Butters",
+    "Jackson Dorsey",
+    "Ivan Rudik"
+   ],
+   "year": null,
+   "venue": null,
+   "status": "工作论文",
+   "url": "http://www.jacksonfdorsey.com/papers/pollution-pricing-wp.pdf",
+   "abstract": null
+  }
+ ]
+}

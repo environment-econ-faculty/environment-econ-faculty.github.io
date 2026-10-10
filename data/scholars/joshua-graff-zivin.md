@@ -4,6 +4,8 @@
 学校: University of California, San Diego
 职称: 正教授
 头衔: Professor (Dept. of Economics); Center on Global Transformation Endowed Chair in Technology Policy and Associate Dean for Strategic Initiatives, School of Global Policy & Strategy
+单位: Department of Economics
+单位类型: 经济系
 聘任类型: 合聘
 领域层级: 核心领域
 研究方向: 环境; 污染与健康; 气候; 农业

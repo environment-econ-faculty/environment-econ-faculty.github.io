@@ -1,0 +1,49 @@
+---
+姓名: Lusi Xie
+中文名: 
+学校: University of Georgia
+职称: 助理教授
+头衔: Assistant Professor, Department of Agricultural and Applied Economics
+单位: Department of Agricultural and Applied Economics
+单位类型: 农经/资源经济
+聘任类型: 本院系
+领域层级: 核心领域
+研究方向: 环境; 农业
+自述领域: Environmental valuation, Experimental and behavioral economics, Applied econometrics
+主页: http://lusixie.rbind.io/
+CV: https://agecon.uga.edu/content/dam/caes-subsite/ag-econ/documents/cvs/cvs-fall-2024/Lusi%20Xie%20CV%202024%20(December).pdf
+院系页面: https://agecon.uga.edu/people/faculty/lusi-xie.html
+本科: Sun Yat-sen University |  | Economics
+硕士: University of California, Davis |  | Agricultural and Resource Economics
+博士: University of Alberta | 2021 | Agricultural and Resource Economics
+首份工作: Postdoctoral Researcher, CEAE/CBEAR, University of Delaware (2021-2023)
+入职现单位: 2023
+现职称起始: 2023
+经历: Research Assistant, UC Davis ARE, 2014-2015
+经历: Survey Researcher, UC Cooperative Extension, 2015
+经历: Postdoctoral Researcher, University of Delaware, 2021-2023
+研究线索: CV research fields; postdoc at Center for Behavioral and Experimental Agri-Environmental Research (CBEAR)
+数据备注: CV education years printed as a column (2021, 2014, 2013); only PhD year assigned with confidence (MS likely 2014, BA likely 2013).
+CV日期: 2024-12
+信息核对: 2026-10-10
+---
+
+## 论文
+
+<!--
+在下方添加论文，每篇以「### 英文标题」开头，字段可留空或删除。示例：
+
+### Paper Title in English
+- 中文标题：论文中文标题
+- 作者：Author A; Author B
+- 年份：2025
+- 发表：American Economic Review
+- 状态：已发表
+- 链接：https://doi.org/...
+- 关键词：碳税; 电力市场
+- 收录日期：2026-10-10
+
+摘要：在这里粘贴摘要（英文或中文均可，可多段）。
+
+状态可选：已发表 / 即将发表 / 修改重投 / 工作论文
+-->

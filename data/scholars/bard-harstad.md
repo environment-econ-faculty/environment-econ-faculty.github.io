@@ -4,6 +4,8 @@
 学校: Stanford University
 职称: 正教授
 头衔: Professor of Political Economy, Graduate School of Business; Professor, by courtesy, of Economics
+单位: Professor of Political Economy, Graduate School of Business
+单位类型: 商学院
 聘任类型: 外系挂靠
 领域层级: 核心领域
 研究方向: 气候; 环境; 自然资源

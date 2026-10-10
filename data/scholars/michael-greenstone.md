@@ -4,6 +4,8 @@
 学校: University of Chicago
 职称: 正教授
 头衔: The Milton Friedman Distinguished Service Professor in Economics, the College, and the Harris School; Director of the Energy Policy Institute at Chicago; Director of the Institute for Climate and Sustainable Growth
+单位: Department of Economics
+单位类型: 经济系
 聘任类型: 合聘
 领域层级: 核心领域
 研究方向: 环境; 能源; 气候; 污染与健康

@@ -1,0 +1,884 @@
+{
+ "slug": "esteban-rossi-hansberg",
+ "name": "Esteban Rossi-Hansberg",
+ "sources": [
+  "https://rossihansberg.economics.uchicago.edu/research_chrono.html"
+ ],
+ "collected": "2026-10-10",
+ "notes": "Homepage research page (listed chronologically) with abstracts for most items. Venue/year parsed from the status line under each entry. Includes surveys, handbook chapters, NBER Reporter pieces and a solutions manual as listed under 'Books, Chapters, and Surveys'.",
+ "papers": [
+  {
+   "title": "Evaluating the Spatial Consequences of a Climate Tipping Point",
+   "authors": [
+    "Esteban Rossi-Hansberg",
+    "José-Luis Cruz",
+    "Klaus Desmet"
+   ],
+   "year": 2026,
+   "venue": "Working Paper, September 2026",
+   "status": "工作论文",
+   "url": "https://rossihansberg.economics.uchicago.edu/AMOC.pdf",
+   "abstract": "The Atlantic Meridional Overturning Circulation (AMOC) is a system of ocean currents that plays a key role in regulating global climate, including moderating temperatures in Europe and the North Atlantic. Its potential collapse due to global warming is widely considered one of the more likely climate tipping points. This paper examines the economic implications of such a collapse using a dynamic spatially integrated assessment model (S-IAM) of the world economy. Scandinavia and parts of Russia are predicted to experience significant losses in GDP and welfare, while southern Europe, northern Africa, and Brazil benefit from slightly colder temperatures. S-IAMs generally predict that global warming is especially harmful to low-income regions, but an AMOC collapse could mitigate some of these negative impacts in parts of the developing world while instead harming some of the more advanced economies. This lowers spatial inequality, but global welfare drops by 1.9% by 2200 under an intermediate-emissions scenario."
+  },
+  {
+   "title": "Banks in Space",
+   "authors": [
+    "Esteban Rossi-Hansberg",
+    "Ezra Oberfield",
+    "Nicholas Trachter",
+    "Derek Wenning"
+   ],
+   "year": null,
+   "venue": "NBER Working Paper No. 32256",
+   "status": "工作论文",
+   "url": "https://rossihansberg.economics.uchicago.edu/BiS.pdf",
+   "abstract": "We study the spatial expansion of banks in response to banking deregulation in the 1980s and 90s. During this period, large banks expanded rapidly, mostly by adding new branches in new locations, while many small banks exited. We document that large banks sorted into the densest markets, but that sorting weakened over time as large banks expanded to more marginal markets in search of locations with a relative abundance of retail deposits. This allowed large banks to reduce their dependence on expensive wholesale funding and grow further. To rationalize these patterns we propose a theory of multi-branch banks that sort into heterogeneous locations. Our theory yields two forms of sorting. First, span-of-control sorting incentivizes top firms to select the largest markets and smaller banks the more marginal ones. Second, mismatch sorting incentivizes banks to locate in more marginal locations, where deposits are abundant relative to loan demand, to better align their deposits and loans and minimize wholesale funding. Together, these two forms of sorting account well for the sorting patterns we document in the data."
+  },
+  {
+   "title": "The Spatial Diffusion of Technology",
+   "authors": [
+    "Esteban Rossi-Hansberg",
+    "Diego Comin",
+    "Mikhail Dmitriev"
+   ],
+   "year": null,
+   "venue": "NBER Working Paper No. 18534",
+   "status": "工作论文",
+   "url": "https://rossihansberg.economics.uchicago.edu/SDT.pdf",
+   "abstract": "We study technology diffusion across countries and over time empirically. We find signifficant evidence that technology diffuses slower to locations that are farther away from adoption leaders. This effect is stronger across rich countries and also when measuring distance along the southnorth dimension. A simple theory of human interactions can account for these empirical findings. The theory suggests that the effect of distance should vanish over time, a hypothesis that we confirm in the data, and that distinguishes technology from other flows like goods or investments. We then structurally estimate the model. The parameter governing the frequency of interactions is larger for newer and network-based technologies and for the median technology the frequency of interactions decays by 73% every 1000 Kms. Overall, we document the significant role that geography plays in determining technology diffusion across countries."
+  },
+  {
+   "title": "Anticipating Climate Change Across the United States",
+   "authors": [
+    "Esteban Rossi-Hansberg",
+    "Adrien Bilal"
+   ],
+   "year": null,
+   "venue": "Conditionally Accepted in Econometrica",
+   "status": "即将发表",
+   "url": "https://rossihansberg.economics.uchicago.edu/ACCAUS.pdf",
+   "abstract": "We evaluate how anticipation and adaptation shape the aggregate and local costs of climate change. We develop a dynamic spatial model of the U.S. economy and its 3,143 counties that features costly forward-looking migration and capital investment decisions. We leverage the ‘Master Equation’ representation of the economy to make the model tractable. We propose reduced-form estimates of the county-level impact of severe storms and heat waves over the 20th century on local income, employment, and investment. We match these effects in the model by estimating migration and investment elasticities, capital depreciation shocks for storms, and a combination of productivity and amenity shocks for heat waves. Our counterfactuals show, first, that the impact of climate on capital depreciation magnifies the U.S. aggregate welfare costs of climate change twofold to 2.8% in 2025 under a business-as-usual warming scenario. Second, anticipation of future climate damages amplifies climateinduced worker and investment mobility, thereby significantly reducing the losses of workers in the most affected locations. Third, migration offsets 25-40% of aggregate losses and reduces substantially the spatial variance in the welfare impact of climate change."
+  },
+  {
+   "title": "Human Capital Accumulation Across Space",
+   "authors": [
+    "Esteban Rossi-Hansberg",
+    "Klaus Desmet",
+    "Dávid Krisztián Nagy"
+   ],
+   "year": null,
+   "venue": "Forthcoming in the Journal of International Economics",
+   "status": "即将发表",
+   "url": "https://rossihansberg.economics.uchicago.edu/HCAAS.pdf",
+   "abstract": "This paper studies how human capital shapes the economic geography of development. We develop a model in which the cost of acquiring human capital varies across space, and regions with higher human capital invest more in human-capital-augmenting technology. Locations are interconnected through costly migration and trade. Using data on local income and schooling, we quantify the model at a 1° × 1° resolution globally. Over two centuries, the model predicts persistence in the spatial distribution of development. Proportionally lowering education costs in sub-Saharan Africa raises local outcomes but lowers global welfare, while the same policy in Latin America improves global welfare. An alternative policy that equalizes educational costs across sub-Saharan Africa generates relatively worse outcomes, as population shifts within the region toward less productive areas. These results are driven by the estimated negative correlation between education costs and local fundamentals, as well as inefficiencies in the spatial allocation due to externalities."
+  },
+  {
+   "title": "Remote Work and City Structure",
+   "authors": [
+    "Esteban Rossi-Hansberg",
+    "Ferdinando Monte",
+    "Charly Porcher"
+   ],
+   "year": 2026,
+   "venue": "American Economic Review, 2026, 116(8): 3152-3196",
+   "status": "已发表",
+   "url": "https://rossihansberg.economics.uchicago.edu/RWCS.pdf",
+   "abstract": "Relative to remote work, working downtown facilitates valuable interactions with other in-office workers but entails commuting costs. The resulting coordination mechanism can lead to multiple stationary equilibria with varying levels of remote work. Temporary reductions in commuters, as in the COVID-19 pandemic, can lead to persistently large fractions of remote workers. Cell phone-based mobility data for the United States shows commuting trips in the largest cities, which are more likely to exhibit multiplicity, have stabilized at only 60 percent of prepandemic levels, while they are fully back in smaller cities. Cities with permanently low commuting experience average welfare losses of 2.3 percent."
+  },
+  {
+   "title": "On the Geographic Implications of Carbon Taxes",
+   "authors": [
+    "Esteban Rossi-Hansberg",
+    "Bruno Conte",
+    "Klaus Desmet"
+   ],
+   "year": 2026,
+   "venue": "The Economic Journal, 2026, 136(677): 1547–1581",
+   "status": "已发表",
+   "url": "https://rossihansberg.economics.uchicago.edu/GICT.pdf",
+   "abstract": "Using a multi-sector dynamic spatial integrated assessment model, we argue that a carbon tax introduced by the European Union and rebated locally can, if not too large, increase the size of Europe’s economy by concentrating economic activity in its high-productivity non-agricultural core and by incentivising immigration to the European Union. The resulting change in the spatial distribution of economic activity improves global efficiency and welfare. A carbon tax introduced by the United States generates similar effects. This stands in sharp contrast with standard models that ignore trade and migration in a world shaped by economic geography forces."
+  },
+  {
+   "title": "Jialing Zhang",
+   "authors": [
+    "Esteban Rossi-Hansberg"
+   ],
+   "year": 2026,
+   "venue": "Journal of Urban Economics, 2026, 154: 103871",
+   "status": "已发表",
+   "url": null,
+   "abstract": "We use high-resolution spatial data to build a novel global annual gridded GDP dataset at 1°, 0.5°, and 0.25° resolutions from 2012 onward. Our random forest model trained on local and national GDP achieves an R² above 0.92 for GDP levels and above 0.62 for annual changes in regions left out of the training sample. By incorporating diverse indicators beyond population and nighttime lights, our estimates offer more precise subnational GDP measurements for analyzing economic shocks, local policies, and regional disparities. We evaluate the precision of our estimates with a sample case of COVID-19’s impact on local GDP in China."
+  },
+  {
+   "title": "Cognitive Hubs and Spatial Redistribution",
+   "authors": [
+    "Esteban Rossi-Hansberg",
+    "Pierre-Daniel Sarte",
+    "Felipe Schwartzman"
+   ],
+   "year": 2026,
+   "venue": "American Economic Journal: Macroeconomics, 2026, 18(2): 72-111",
+   "status": "已发表",
+   "url": "https://rossihansberg.economics.uchicago.edu/CHSR.pdf",
+   "abstract": "In the U.S., cognitive non-routine (CNR) occupations are disproportionately and increasingly represented in large cities. To study the allocation of workers across cities, we propose a quantitative spatial equilibrium model with multiple industries employing CNR and non-CNR occupations. Productivity is city-industry-occupation specific and, as we estimate, partly determined by externalities that depend on local occupation shares and total employment. An optimal policy that benefits workers equally, incentivizes the formation of cognitive hubs in large cities. It also creates higher overall activity in small cities, greater industrial specialization in both the largest and smallest cities, and greater diversification in medium-sized cities."
+  },
+  {
+   "title": "Plants in Space",
+   "authors": [
+    "Esteban Rossi-Hansberg",
+    "Ezra Oberfield",
+    "Pierre-Daniel Sarte",
+    "Nicholas Trachter"
+   ],
+   "year": 2024,
+   "venue": "Journal of Political Economy, 2024, 132(3): 867-909",
+   "status": "已发表",
+   "url": "https://rossihansberg.economics.uchicago.edu/PIS.pdf",
+   "abstract": "We study the number, size, and location of a firm’s plants. The firm’s decision balances the benefit of delivering goods and services to customers using multiple plants with the cost of setting up and managing these plants, and the potential for cannibalization that arises as their number increases. Modeling the decisions of heterogeneous firms in an economy with a vast number of widely distinct locations is complex because it involves a large combinatorial problem. Using insights from discrete geometry, we study a tractable limit case of this problem in which these forces operate at a local level. Our analysis delivers predictions on sorting across space for industries with many plants per firm. Compared with less productive firms, productive firms place more plants in dense high-rent locations and place fewer plants in markets with low density and low rents. Controlling for the number of plants, productive firms also operate larger plants than those operated by less productive firms. We present evidence consistent with these and several other predictions using U.S. establishment-level data."
+  },
+  {
+   "title": "The Economic Geography of Global Warming",
+   "authors": [
+    "Esteban Rossi-Hansberg",
+    "José-Luis Cruz"
+   ],
+   "year": 2024,
+   "venue": "Review of Economic Studies, 2024, 91(2): 899-939",
+   "status": "已发表",
+   "url": "https://rossihansberg.economics.uchicago.edu/EGGW.pdf",
+   "abstract": "Global warming is a worldwide and protracted phenomenon with heterogeneous local economic effects. We propose a dynamic economic assessment model of the world economy with high spatial resolution to assess its consequences. Our model features several forms of adaptation to local temperature changes, including costly trade and migration, local technological innovations, and local natality rates. We quantify the model at a 1° × 1° resolution and estimate damage functions that determine the impact of temperature changes on a region’s fundamental productivity and amenities conditional on local temperatures. Welfare losses from global warming are very heterogeneous across locations, with 20% losses in parts of Africa and Latin America but also gains in some northern latitudes. Overall, spatial inequality increases. Uncertainty about average welfare effects is significant, but much smaller for relative losses across space. Migration and innovation are shown to be important adaptation mechanisms. We use the model to study the impact of carbon taxes, abatement technologies, and clean energy subsidies. Carbon taxes delay consumption of fossil fuels and help flatten the temperature curve but are much more effective when an abatement technology is forthcoming."
+  },
+  {
+   "title": "The Industrial Revolution in Services",
+   "authors": [
+    "Esteban Rossi-Hansberg",
+    "Chang-Tai Hsieh"
+   ],
+   "year": 2023,
+   "venue": "Journal of Political Economy Macroeconomics, 2023, 1(1): 3-42",
+   "status": "已发表",
+   "url": "https://rossihansberg.economics.uchicago.edu/IRS.pdf",
+   "abstract": "US firms in service industries increasingly operate in more local markets. Employment, sales, and spending on fixed costs have increased rapidly in these industries. These changes have favored top firms, leading to increasing national concentration. Top firms in service industries have grown by expanding into new local markets, predominantly small and mid-sized US cities. Market concentration at the local level has decreased in all US cities, particularly in cities that were initially small. These facts are consistent with the availability of new fixed-cost-intensive technologies that yield lower marginal costs in service sectors. The entry of top service firms into new local markets has led to substantial unmeasured productivity growth, particularly in small markets."
+  },
+  {
+   "title": "Globalization and Pandemics",
+   "authors": [
+    "Esteban Rossi-Hansberg",
+    "Pol Antràs",
+    "Stephen Redding"
+   ],
+   "year": 2023,
+   "venue": "American Economic Review, 2023, 113(4): 939-981",
+   "status": "已发表",
+   "url": "https://rossihansberg.economics.uchicago.edu/GP.pdf",
+   "abstract": "We provide theory and evidence on the relationship between globalization and pandemics. Business travel facilitates trade and travel leads to human interactions that transmit disease. Trade-motivated travel generates an epidemiological externality across countries. If infections lead to deaths, or reduce individual labor supply, we establish a general equilibrium social distancing effect, whereby increases in relative prices in unhealthy countries reduce travel to those countries. If agents internalize the threat of infection, we show that their behavioral responses lead to a reduction in travel that is larger for higher-trade-cost locations, which initially reduces the ratio of trade to output."
+  },
+  {
+   "title": "Location as an Asset",
+   "authors": [
+    "Esteban Rossi-Hansberg",
+    "Adrien Bilal"
+   ],
+   "year": 2021,
+   "venue": "Econometrica, 2021, 89(5): 2459-2495",
+   "status": "已发表",
+   "url": "https://rossihansberg.economics.uchicago.edu/LA.pdf",
+   "abstract": "The location of individuals determines their job and schooling opportunities, amenities, and housing costs. We conceptualize the location choice of individuals as a decision to invest in a `location asset'. This asset has a current cost equal to the location's rent, and a future payoff through better job and schooling opportunities. As with any asset, savers in the location asset transfer resources into the future by going to expensive locations with high future returns. In contrast, borrowers transfer resources to the present by going to cheap locations that offer few other advantages. Holdings of the location asset depend on its comparison to other assets, with the distinction that the location asset is not subject to borrowing constraints. We propose a dynamic location model and derive an agent's mobility choices after experiencing income shocks. We document the investment dimension of location and confirm the core predictions of our theory using French individual panel data from tax returns."
+  },
+  {
+   "title": "Local Sectoral Specialization in a Warming World",
+   "authors": [
+    "Esteban Rossi-Hansberg",
+    "Bruno Conte",
+    "Klaus Desmet",
+    "Dávid Krisztián Nagy"
+   ],
+   "year": 2021,
+   "venue": "Journal of Economic Geography, 2021, 21(4): 493-530, Special Issue on the Economic Geography of Climate Change",
+   "status": "已发表",
+   "url": "https://rossihansberg.economics.uchicago.edu/LSSWW.pdf",
+   "abstract": "This paper quantitatively assesses the world's changing economic geography and sectoral specialization due to global warming. It proposes a two-sector dynamic spatial growth model that incorporates the relation between economic activity, carbon emissions, and temperature. The model is taken to the data at the 1° by 1° resolution for the entire world. Over a 200-year horizon, rising temperatures consistent with emissions under Representative Concentration Pathway 8.5 push people and economic activity northwards to Siberia, Canada, and Scandinavia. Compared to a world without climate change, clusters of agricultural specialization shift from Central Africa, Brazil, and India's Ganges Valley, to Central Asia, parts of China and northern Canada. Equatorial latitudes that lose agriculture specialize more in non-agriculture but, due to their persistently low productivity, lose population. By the year 2200, predicted losses in real GDP and utility are 6% and 15%, respectively. Higher trade costs make adaptation through changes in sectoral specialization more costly, leading to less geographic concentration in agriculture and larger climate-induced migration."
+  },
+  {
+   "title": "Local Industrial Policy and Sectoral Hubs",
+   "authors": [
+    "Esteban Rossi-Hansberg",
+    "Pierre-Daniel Sarte",
+    "Felipe Schwartzman"
+   ],
+   "year": 2021,
+   "venue": "AEA Papers and Proceedings, 2021, 111: 526-31",
+   "status": "已发表",
+   "url": "https://rossihansberg.economics.uchicago.edu/LIPSH.pdf",
+   "abstract": "We study the desirability of industrial policies that generate sectoral hubs using a quantitative spatial model with cognitive non-routine and other occupations. The productivity of each occupation in an industry depends on sector-specific production externalities, which we estimate using a model-implied instrumental variable approach. We find that the optimal policy gives rise to national hubs in coastal cities in tradeable services, like Professional Services, and smaller regional hubs in less tradable services, like Health and Education. The optimal policy prescribes developing Manufacturing in smaller towns. We decompose the implied changes in local costs and the available varieties in each sector."
+  },
+  {
+   "title": "Diverging Trends in National and Local Concentration",
+   "authors": [
+    "Esteban Rossi-Hansberg",
+    "Pierre-Daniel Sarte",
+    "Nicholas Trachter"
+   ],
+   "year": 2021,
+   "venue": "NBER Macroeconomics Annual, 2021, 35: 115-150",
+   "status": "已发表",
+   "url": "https://rossihansberg.economics.uchicago.edu/DTNLC.pdf",
+   "abstract": "Using U.S. NETS data, we present evidence that the positive trend observed in national productmarket concentration between 1990 and 2014 becomes a negative trend when we focus on measures of local concentration. We document diverging trends for several geographic definitions of local markets. SIC 8 industries with diverging trends are pervasive across sectors. In these industries, top firms have contributed to the amplification of both trends. When a top firm opens a plant, local concentration declines and remains lower for at least 7 years. Our findings, therefore, reconcile the increasing national role of large firms with falling local concentration, and a likely more competitive local environment."
+  },
+  {
+   "title": "Evaluating the Economic Cost of Coastal Flooding",
+   "authors": [
+    "Esteban Rossi-Hansberg",
+    "Klaus Desmet",
+    "Robert E. Kopp",
+    "Scott A. Kulp",
+    "Dávid Krisztián Nagy",
+    "Michael Oppenheimer",
+    "Benjamin H. Strauss"
+   ],
+   "year": 2021,
+   "venue": "American Economic Journal: Macroeconomics, 2021, 13(2): 444-86",
+   "status": "已发表",
+   "url": "https://rossihansberg.economics.uchicago.edu/EECCF.pdf",
+   "abstract": "Sea-level rise and ensuing permanent coastal inundation will cause spatial shifts in population and economic activity over the next 200 years. Using a highly spatially disaggregated, dynamic model of the world economy that accounts for the dynamics of migration, trade, and innovation, this paper estimates the consequences of probabilistic projections of local sea-level changes under different emissions scenarios. Under an intermediate greenhouse gas concentration trajectory, permanent flooding is projected to reduce global real GDP by an average of 0.19% in present value terms, with welfare declining by 0.24% as people move to places with less attractive amenities. By the year 2200 a projected 1.46% of world population will be displaced. Losses in many coastal localities are more than an order of magnitude larger, with some low-lying urban areas particularly hard hit. When ignoring the dynamic economic adaptation of investment and migration to flooding, the loss in real GDP in 2200 increases from 0.11% to 4.5%. This shows the importance of including dynamic adaptation in future loss models."
+  },
+  {
+   "title": "Learning from Coworkers",
+   "authors": [
+    "Esteban Rossi-Hansberg",
+    "Gregor Jarosch",
+    "Ezra Oberfield"
+   ],
+   "year": 2021,
+   "venue": "Econometrica, 2021, 89(2): 647-676",
+   "status": "已发表",
+   "url": "https://rossihansberg.economics.uchicago.edu/LC.pdf",
+   "abstract": "We investigate learning at the workplace. To do so, we use German administrative data that contain information on the entire workforce of a sample of establishments. We document that having more highly paid coworkers is strongly associated with future wage growth, particularly if those workers earn more. Motivated by this fact, we propose a dynamic theory of a competitive labor market where firms produce using teams of heterogeneous workers that learn from each other. We develop a methodology to structurally estimate knowledge flows using the full-richness of the German employer-employee matched data. The methodology builds on the observation that a competitive labor market prices coworker learning. Our quantitative approach imposes minimal restrictions on firms' production functions, can be implemented on a very short panel, and allows for potentially rich and flexible coworker learning functions. In line with our reduced form results, learning from coworkers is significant, particularly from more knowledgeable coworkers. We show that between 4 and 9% of total worker compensation is in the form of learning and that inequality in total compensation is significantly lower than inequality in wages."
+  },
+  {
+   "title": "Productivity and Organization in Portuguese Firms",
+   "authors": [
+    "Esteban Rossi-Hansberg",
+    "Lorenzo Caliendo",
+    "Giordano Mion",
+    "Luca David Opromolla"
+   ],
+   "year": 2020,
+   "venue": "Journal of Political Economy, 2020, 128(11): 4211-4257",
+   "status": "已发表",
+   "url": "https://rossihansberg.economics.uchicago.edu/POPF.pdf",
+   "abstract": "Using employer-employee matched and firm production quantity and input data for Portuguese firms, we study the endogenous response of productivity to firm reorganizations as measured by changes in the number of management layers. We show that, as a result of an exogenous demand or productivity shock that makes the firm reorganize and add a management layer, quantity-based productivity increases by about 6%, while revenue-based productivity drops by around 3%. Such a reorganization makes the firm more productive but also increases the quantity produced to an extent that lowers the price charged by the firm and, as a result, its revenue-based productivity as well."
+  },
+  {
+   "title": "Rethinking Detroit",
+   "authors": [
+    "Esteban Rossi-Hansberg",
+    "Raymond Owens III",
+    "Pierre-Daniel Sarte"
+   ],
+   "year": 2020,
+   "venue": "American Economic Journal: Economic Policy, 2020, 12(2): 258-305",
+   "status": "已发表",
+   "url": "https://rossihansberg.economics.uchicago.edu/RD.pdf",
+   "abstract": "This paper studies the urban structure of Detroit - one that is clearly not optimal for its size - which features a business district immediately surrounded by largely vacant neighborhoods. A model is presented where residential externalities lead to multiple equilibria at the neighborhood level. Specifically, neighborhood development requires the coordination of developers and residents, without which it may remain vacant even with sound fundamentals. Given this mechanism, existing strategic visions to revitalize Detroit are evaluated within a quantitative spatial model that can rationalize Detroit's current allocations. Alternative plans that rely on \"development guarantees\" are also considered and shown to yield better outcomes."
+  },
+  {
+   "title": "Learning, Career Paths, and the Distribution of Wages",
+   "authors": [
+    "Esteban Rossi-Hansberg",
+    "Santiago Caicedo",
+    "Robert E. Lucas Jr."
+   ],
+   "year": 2019,
+   "venue": "American Economic Journal: Macroeconomics, 2019, 11(1): 48-88",
+   "status": "已发表",
+   "url": "https://rossihansberg.economics.uchicago.edu/LCPDW.pdf",
+   "abstract": "We develop a theory of career paths and earnings where agents organize in production hierarchies. Agents climb these hierarchies as they learn stochastically from others. Earnings grow as agents acquire knowledge and occupy positions with more subordinates. We contrast these and other implications with US census data for the period 1990 to 2010, matching the Lorenz curve of earnings and the observed mean experience-earnings profiles. We show the increase in wage inequality over this period can be rationalized with a shift in the level of the complexity and profitability of technologies relative to the distribution of knowledge in the population."
+  },
+  {
+   "title": "Commuting, Migration and Local Employment Elasticities",
+   "authors": [
+    "Esteban Rossi-Hansberg",
+    "Ferdinando Monte",
+    "Stephen Redding"
+   ],
+   "year": 2018,
+   "venue": "American Economic Review, 2018, 108(12): 3855-3890",
+   "status": "已发表",
+   "url": "https://rossihansberg.economics.uchicago.edu/CMLEE.pdf",
+   "abstract": "We provide theory and evidence that the elasticity of local employment to a labor demand shock is heterogeneous depending on the commuting openness of the local labor market. We develop a quantitative general equilibrium model that incorporates spatial linkages in goods markets (trade) and factor markets (commuting and migration). We quantify this model to match the observed gravity equation relationships for trade and commuting. We find that empirically-observed reductions in commuting costs generate welfare gains of around 3.3 percent. We provide separate quasi-experimental evidence in support of the model’s predictions using the location decisions of million dollar plants."
+  },
+  {
+   "title": "The Impact of Regional and Sectoral Productivity Changes on the U.S. Economy",
+   "authors": [
+    "Esteban Rossi-Hansberg",
+    "Lorenzo Caliendo",
+    "Fernando Parro",
+    "Pierre-Daniel Sarte"
+   ],
+   "year": 2018,
+   "venue": "Review of Economic Studies, 2018, 85(4): 2042–2096",
+   "status": "已发表",
+   "url": "https://rossihansberg.economics.uchicago.edu/RSSUS.pdf",
+   "abstract": "We study the impact of intersectoral and interregional trade linkages in propagating disaggregated productivity changes to the rest of the economy. Using U.S. regional and industry data, we obtain the aggregate, regional and sectoral elasticities of measured total factor productivity, GDP, and employment to regional and sectoral productivity changes. We find that the elasticities vary significantly depending on the sectors and regions affected, and are importantly determined by the spatial structure of the economy. We use our calibrated model to perform a variety of counterfactual exercises including several specific studies of the aggregate and disaggregate effects of shocks to productivity and infrastructure. The specific episodes we study include the boom in California’s computer industry, the productivity boom in North Dakota associated with the shale oil boom, the disruptions in New York’s finance and real state industries during the 2008 crisis, as well as the effect of the destruction of infrastructure in Louisiana following hurricane Katrina."
+  },
+  {
+   "title": "The Geography of Development",
+   "authors": [
+    "Esteban Rossi-Hansberg",
+    "Klaus Desmet",
+    "Dávid Krisztián Nagy"
+   ],
+   "year": 2018,
+   "venue": "Journal of Political Economy, 2018, 126(3): 903-983",
+   "status": "已发表",
+   "url": "https://rossihansberg.economics.uchicago.edu/GD.pdf",
+   "abstract": "We develop a dynamic spatial growth theory with realistic geography. We characterize the model and its balanced-growth path and propose a methodology to analyze equilibria with different levels of migration frictions. Different migration scenarios change local market size, innovation incentives, and the evolution of technology. We bring the model to the data for the whole world economy at a 1° × 1° geographic resolution. We then use the model to quantify the gains from relaxing migration restrictions. Our results indicate that fully liberalizing migration would increase welfare about threefold and would significantly affect the evolution of particular regions of the world."
+  },
+  {
+   "title": "Asia's Geographic Development",
+   "authors": [
+    "Esteban Rossi-Hansberg",
+    "Klaus Desmet",
+    "Dávid Krisztián Nagy"
+   ],
+   "year": 2017,
+   "venue": "Asian Development Review, 2017, 34(2): 1-25",
+   "status": "已发表",
+   "url": "https://rossihansberg.economics.uchicago.edu/AGD.pdf",
+   "abstract": "This paper studies the impact of spatial frictions on Asia’s long-term spatial development. Using the framework provided in Desmet, Nagy, and Rossi-Hansberg (2016), we analyze the evolution of Asia’s economy and the relative performance of specific regions and countries. We then perform a number of counterfactual experiments and find that a worldwide drop in transport costs of 40% increases the present discounted value of real income by 70.7% globally and 78% in Asia. These figures are much larger than those found in standard quantitative trade models because they include dynamic effects and take into account intracountry transport costs. We also perform exercises in which we upgrade Asia’s road network or relax migratory restrictions between locations in Asia. These exercises emphasize the important role of spatial frictions in the development of Asia’s economy."
+  },
+  {
+   "title": "The Anatomy of French Production Hierarchies",
+   "authors": [
+    "Esteban Rossi-Hansberg",
+    "Lorenzo Caliendo",
+    "Ferdinando Monte"
+   ],
+   "year": 2015,
+   "venue": "Journal of Political Economy, 2015, 123(4): 809-852",
+   "status": "已发表",
+   "url": "https://rossihansberg.economics.uchicago.edu/AFPH.pdf",
+   "abstract": "We study the internal organization of French manufacturing firms. We divide the employees of each firm into “layers” using occupational categories. Layers are hierarchical in that the typical worker in a higher layer earns more, and the typical firm occupies less of them. The probability of adding/dropping a layer is positively/negatively correlated with value added. Reorganization, through changes in layers, is essential to understanding how firms grow. firms that expand substantially add layers and pay lower average wages in all preexisting layers. In contrast, firms that expand little and do not reorganize pay higher average wages in all preexisting layers."
+  },
+  {
+   "title": "On the Spatial Economic Impact of Global Warming",
+   "authors": [
+    "Esteban Rossi-Hansberg",
+    "Klaus Desmet"
+   ],
+   "year": 2015,
+   "venue": "Journal of Urban Economics, 2015, 88: 16-38",
+   "status": "已发表",
+   "url": "https://rossihansberg.economics.uchicago.edu/SEIGW.pdf",
+   "abstract": "We propose a dynamic spatial theory to analyze the geographic impact of climate change. Agricultural and manufacturing firms locate on a hemisphere. Trade is costly, firms innovate, and technology diffuses over space. Emissions from energy used in production contribute to the atmospheric stock of carbon, which increases temperature. Warming differs across latitudes and its effect on productivity varies across sectors. We calibrate the model to analyze how climate change affects the spatial distribution of economic activity, trade, migration, growth, and welfare. We assess quantitatively the impact of migration and trade restrictions, energy taxes, and innovation subsidies."
+  },
+  {
+   "title": "The Spatial Development of India",
+   "authors": [
+    "Esteban Rossi-Hansberg",
+    "Klaus Desmet",
+    "Ejaz Ghani",
+    "Stephen O'Connell"
+   ],
+   "year": 2015,
+   "venue": "Journal of Regional Science, 2015, 55(1): 10-30",
+   "status": "已发表",
+   "url": "https://rossihansberg.economics.uchicago.edu/SDI.pdf",
+   "abstract": "This paper studies the recent spatial development of India. Services, and to a lesser extent manufacturing, are increasingly concentrating in high-density clusters. This stands in contrast with the United States, where in the last decades services have tended to grow fastest in mediumdensity locations, such as Silicon Valley. India’s experience is not common to all fast-growing developing economies. The spatial growth pattern of China looks more similar to that in the United States than to that of India. Our findings suggest that certain frictions are keeping medium-density places in India from growing faster."
+  },
+  {
+   "title": "Spatial Development",
+   "authors": [
+    "Esteban Rossi-Hansberg",
+    "Klaus Desmet"
+   ],
+   "year": 2014,
+   "venue": "American Economic Review, 2014, 104(4): 1211-1243",
+   "status": "已发表",
+   "url": "https://rossihansberg.economics.uchicago.edu/SD.pdf",
+   "abstract": "We present a theory of spatial development. Manufacturing and services firms located in a continuous geographic area choose each period how much to innovate. firms trade subject to transport costs and technology diffuses spatially. We apply the model to study the evolution of the US economy in the last half-century and find that it can generate the reduction in the manufacturing employment share, the increased spatial concentration of services, the growth in service productivity starting in the mid-1990s, the rise in the dispersion of land rents in the same period, as well as several other spatial and temporal patterns."
+  },
+  {
+   "title": "Urban Accounting and Welfare",
+   "authors": [
+    "Esteban Rossi-Hansberg",
+    "Klaus Desmet"
+   ],
+   "year": 2013,
+   "venue": "American Economic Review, 2013, 103(6): 2296-2327",
+   "status": "已发表",
+   "url": "https://rossihansberg.economics.uchicago.edu/UAW.pdf",
+   "abstract": "We use a simple theory of a system of cities to decompose the determinants of the city size distribution into three main components: efficiency, amenities, and frictions. Higher efficiency and better amenities lead to larger cities but also to greater frictions through congestion and other negative effects of agglomeration. Using data on MSAs in the United States, we estimate these city characteristics. Eliminating variation in any of them leads to large population reallocations, but modest welfare effects. We apply the same methodology to Chinese cities and find welfare effects that are many times larger than those in the US."
+  },
+  {
+   "title": "The Impact of Trade on Organization and Productivity",
+   "authors": [
+    "Esteban Rossi-Hansberg",
+    "Lorenzo Caliendo"
+   ],
+   "year": 2012,
+   "venue": "Quarterly Journal of Economics, 2012, 127(3): 1393-1467",
+   "status": "已发表",
+   "url": "https://rossihansberg.economics.uchicago.edu/ITOP.pdf",
+   "abstract": "A firm’s productivity depends on how production is organized. To understand this relationship we develop a theory of an economy where firms with heterogeneous demands use labor and knowledge to produce. Entrepreneurs decide the number of layers of management and the knowledge and span of control of each agent. As a result, in the theory, heterogeneity in demand leads to heterogeneity in productivity and other firms’ outcomes. We use the theory to analyze the impact of international trade on organization and calibrate the model to the U.S. economy. Our results indicate that, as a result of a bilateral trade liberalization, firms that export will increase the number of layers of management. The new organization of the average exporter results in higher productivity, although the responses of productivity are heterogeneous across these firms. Liberalizing trade from autarky to the level of openness in 2002 results in a 1% increase in productivity for the marginal exporter and a 1.8% increase in its revenue productivity. Endogenous organization increases the gains from trade by 41% relative to standard models."
+  },
+  {
+   "title": "Innovation in Space",
+   "authors": [
+    "Esteban Rossi-Hansberg",
+    "Klaus Desmet"
+   ],
+   "year": 2012,
+   "venue": "American Economic Review P&P, 2012, 102(3): 447-452",
+   "status": "已发表",
+   "url": "https://rossihansberg.economics.uchicago.edu/IS.pdf",
+   "abstract": "In this short article we discuss a mechanism that can lead to private innovation by firms even in the presence of perfect competition (see Desmet and Rossi-Hansberg 2011a, where we introduced this logic to analyze development over space)."
+  },
+  {
+   "title": "Task Trade between Similar Countries",
+   "authors": [
+    "Esteban Rossi-Hansberg",
+    "Gene Grossman"
+   ],
+   "year": 2012,
+   "venue": "Econometrica, 2012, 80(2): 593-629",
+   "status": "已发表",
+   "url": "https://rossihansberg.economics.uchicago.edu/TTSC.pdf",
+   "abstract": "We propose a theory of task trade between countries that have similar relative factor endowments and technological capabilities, but may differ in size. firms produce differentiated goods by performing a continuum of tasks, each of which generates local spillovers. Tasks can be performed at home or abroad, but offshoring entails costs that vary by task. In equilibrium, the tasks with the highest offshoring costs may not be traded. Among the remainder, those with the relatively higher offshoring costs are performed in the country that has the higher wage and the higher aggregate output. We discuss the relationship between equilibrium wages, equilibrium outputs, and relative country size."
+  },
+  {
+   "title": "Organizing Growth",
+   "authors": [
+    "Esteban Rossi-Hansberg",
+    "Luis Garicano"
+   ],
+   "year": 2012,
+   "venue": "Journal of Economic Theory, 2012, 147(2): 623-656",
+   "status": "已发表",
+   "url": "https://rossihansberg.economics.uchicago.edu/OG.pdf",
+   "abstract": "We propose a framework to study the impact of information and communication technology on growth through its impact on organization and innovation. Agents accumulate knowledge to use available technologies and invent new ones. The use of a technology requires the development of organizations to coordinate the work of experts, which takes time. We find that while advances in information technology always increase growth, improvements in communication technology may lead to lower growth and even to stagnation, since the payoff to exploiting available technologies through organizations increases relative to the payoff from developing new innovations."
+  },
+  {
+   "title": "Spinoffs and the Market for Ideas",
+   "authors": [
+    "Esteban Rossi-Hansberg",
+    "Satyajit Chatterjee"
+   ],
+   "year": 2012,
+   "venue": "International Economic Review, 2012, 53(1): 53-93",
+   "status": "已发表",
+   "url": "https://rossihansberg.economics.uchicago.edu/SMI.pdf",
+   "abstract": "We present a theory of entry through spinoffs where workers generate ideas and possess private information concerning their quality. Because quality is privately observed, adverse selection implies that the market can only offer a price that reflects the average quality of ideas sold. Only workers with good ideas decide to spin off, whereas workers with mediocre ideas sell them. Existing firms pay a price for ideas sold in the market that implies zero expected profits. Hence, firms’ project selection is independent of firm size, which can lead to scale-independent growth. This mechanism results in invariant firm-size distributions that resemble the data."
+  },
+  {
+   "title": "Housing Externalities",
+   "authors": [
+    "Esteban Rossi-Hansberg",
+    "Pierre-Daniel Sarte",
+    "Raymond Owens III"
+   ],
+   "year": 2010,
+   "venue": "Journal of Political Economy, 2010, 118(3): 409-432",
+   "status": "已发表",
+   "url": "https://rossihansberg.economics.uchicago.edu/NiB.pdf",
+   "abstract": "Using data compiled from concentrated residential urban revitalization programs implemented in Richmond, Virginia, between 1999 and 2004, we study residential externalities. We estimate that housing externalities decrease by half approximately every 1,000 feet. On average, land prices in neighborhoods targeted for revitalization rose by 2–5 percent at an annual rate above those in a control neighborhood. These increases translate into land value gains of between $2 and $6 per dollar invested in the program over a 6-year period. We provide a simple theory that helps us estimate and interpret these effects in terms of the parameters of the model."
+  },
+  {
+   "title": "External Economies and International Trade Redux",
+   "authors": [
+    "Esteban Rossi-Hansberg",
+    "Gene Grossman"
+   ],
+   "year": 2010,
+   "venue": "Quarterly Journal of Economics, 2010, 125(2): 829-858",
+   "status": "已发表",
+   "url": "https://rossihansberg.economics.uchicago.edu/EEITR.pdf",
+   "abstract": "We study a world with national external economies of scale at the industry level. In contrast to the standard treatment with perfect competition and two industries, we assume Bertrand competition in a continuum of industries. With Bertrand competition, each firm can internalize the externalities from production by setting a price below those set by others. This out-of-equilibrium threat eliminates many of the “pathologies” of the standard treatment. There typically exists a unique equilibrium with trade guided by “natural” comparative advantage. And, when a country has CES preferences and any finite elasticity of substitution between goods, gains from trade are ensured."
+  },
+  {
+   "title": "On Spatial Dynamics",
+   "authors": [
+    "Esteban Rossi-Hansberg",
+    "Klaus Desmet"
+   ],
+   "year": 2010,
+   "venue": "Journal of Regional Science, 2010, 50(1): 43-63",
+   "status": "已发表",
+   "url": "https://rossihansberg.economics.uchicago.edu/OSD.pdf",
+   "abstract": "It has long been recognized that the forces that lead to the agglomeration of economic activity and to aggregate growth are similar. Unfortunately, few formal frameworks have been advanced to explore this link. We critically discuss the literature and present a simple framework that can circumvent some of the main obstacles we identify. We discuss the main characteristics of an equilibrium allocation in this dynamic spatial framework, present a numerical example to illustrate the forces at work, and provide some supporting empirical evidence."
+  },
+  {
+   "title": "Spatial Growth and Industry Age",
+   "authors": [
+    "Esteban Rossi-Hansberg",
+    "Klaus Desmet"
+   ],
+   "year": 2009,
+   "venue": "Journal of Economic Theory, 2009, 144(6): 2477-2502",
+   "status": "已发表",
+   "url": "https://rossihansberg.economics.uchicago.edu/SGIA.pdf",
+   "abstract": "Between 1970 and 2000 employment growth across U.S. counties exhibited very different patterns in manufacturing and services. Whereas manufacturing employment growth was negatively related to initial manufacturing employment across the entire distribution of counties, service employment growth was positively related to initial service employment for intermediate sized counties. This paper presents a theory to rationalize these facts. Local sectoral growth is driven by technological diffusion across space and depends on the age of the sector. The theory correctly predicts the relation between county employment growth and initial county employment in manufacturing at the turn of the 20th century."
+  },
+  {
+   "title": "Firm Fragmentation and Urban Patterns",
+   "authors": [
+    "Esteban Rossi-Hansberg",
+    "Pierre-Daniel Sarte",
+    "Raymond Owens III"
+   ],
+   "year": 2009,
+   "venue": "International Economic Review, 2009, 50(1): 143-186",
+   "status": "已发表",
+   "url": "https://rossihansberg.economics.uchicago.edu/FFUP.pdf",
+   "abstract": "We document several empirical regularities regarding the evolution of urban structure in the largest U.S. metropolitan areas over the period 1980–90. These regularities relate to changes in resident population, employment, occupations, as well as the number and size of establishments in different sections of the metropolitan area. We then propose a theory of urban structure that emphasizes the location and internal structure decisions of firms. In particular, firms can decide to locate their headquarters and operation plants in different regions of the city. Given that cities experienced positive population growth throughout the 1980s, we show that firm fragmentation produces the diverse set of facts documented in the article."
+  },
+  {
+   "title": "Trading Tasks: A Simple Theory of Offshoring",
+   "authors": [
+    "Esteban Rossi-Hansberg",
+    "Gene Grossman"
+   ],
+   "year": 2008,
+   "venue": "American Economic Review, 2008, 98(5): 1978-1997",
+   "status": "已发表",
+   "url": "https://rossihansberg.economics.uchicago.edu/TT.pdf",
+   "abstract": "We propose a theory of the global production process that focuses on tradeable tasks, and use it to study how falling costs of offshoring affect factor prices in the source country. We identify a productivity effect of task trade that benefits the factor whose tasks are more easily moved offshore. In the light of this effect, reductions in the cost of trading tasks can generate shared gains for all domestic factors, in contrast to the distributional conflict that typically results from reductions in the cost of trading goods."
+  },
+  {
+   "title": "The Effect of ICT on Urban Structure",
+   "authors": [
+    "Esteban Rossi-Hansberg",
+    "Yannis M. Ioannides",
+    "Henry G. Overman",
+    "Kurt Schmidheiny"
+   ],
+   "year": 2008,
+   "venue": "Economic Policy, 2008, 23(54): 201-242",
+   "status": "已发表",
+   "url": "https://rossihansberg.economics.uchicago.edu/EICTC.pdf",
+   "abstract": "This paper examines the effects of information and communication technologies (ICT) on urban structure. Improvements in ICT may lead to changes in urban structure, for example, because they reduce the costs of communicating ideas from a distance. Hence, they may weaken local agglomeration forces and thus provide incentives for economic activity to relocate to smaller urban centres. We use international data on city size distributions in different countries and on country-level characteristics to test the effect of ICT. We find robust evidence that increases in the number of telephone lines per capita encourage the spatial dispersion of population in that they lead to a more concentrated distribution of city sizes. So far the evidence on internet usage is more speculative, although it goes in the same direction. We argue that the internet is likely to have similar, or even larger, effects on urban structures once its use has spread more thoroughly through different economies."
+  },
+  {
+   "title": "Establishment Size Dynamics in the Aggregate Economy",
+   "authors": [
+    "Esteban Rossi-Hansberg",
+    "Mark L. J. Wright"
+   ],
+   "year": 2007,
+   "venue": "American Economic Review, 2007, 97(5): 1639-1666",
+   "status": "已发表",
+   "url": "https://rossihansberg.economics.uchicago.edu/fsdae.pdf",
+   "abstract": "This paper presents a theory of establishment size dynamics based on the accumulation of industry-specific human capital that simultaneously rationalizes the economy-wide facts on establishment growth rates, exit rates, and size distributions. The theory predicts that establishment growth and net exit rates should decline faster with size, and that the establishment size distribution should have thinner tails, in sectors that use specific human capital less intensively. We establish that there is substantial cross-sector heterogeneity in US establishment size dynamics and distributions, which is well explained by relative factor intensities."
+  },
+  {
+   "title": "Urban Structure and Growth",
+   "authors": [
+    "Esteban Rossi-Hansberg",
+    "Mark L. J. Wright"
+   ],
+   "year": 2007,
+   "venue": "Review of Economic Studies, 2007, 74(2): 597-624",
+   "status": "已发表",
+   "url": "https://rossihansberg.economics.uchicago.edu/USG.pdf",
+   "abstract": "Most economic activity occurs in cities. This creates a tension between local increasing returns, implied by the existence of cities, and aggregate constant returns, implied by balanced growth. To address this tension, we develop a general equilibrium theory of economic growth in an urban environment. In our theory, variation in the urban structure through the growth, birth, and death of cities is the margin that eliminates local increasing returns to yield constant returns to scale in the aggregate. We show that, consistent with the data, the theory produces a city size distribution that is well approximated by Zipf’s law, but that also displays the observed systematic underrepresentation of both very small and very large cities. Using our model, we show that the dispersion of city sizes is consistent with the dispersion of productivity shocks found in the data."
+  },
+  {
+   "title": "Organization and Inequality in a Knowledge Economy",
+   "authors": [
+    "Esteban Rossi-Hansberg",
+    "Luis Garicano"
+   ],
+   "year": 2006,
+   "venue": "Quarterly Journal of Economics, 2006, 121(4): 1383-1435",
+   "status": "已发表",
+   "url": "https://rossihansberg.economics.uchicago.edu/OIKEFinal.pdf",
+   "abstract": "We present an equilibrium theory of the organization of work in an economy where knowledge is an essential input in production and agents are heterogeneous in skill. Agents organize production by matching with others in knowledge hierarchies designed to use and communicate their knowledge efficiently. Relative to autarky, organization leads to larger cross-sectional differences in knowledge and wages: low skill workers learn and earn relatively less. We show that improvements in the technology to acquire knowledge lead to opposite implications on wage inequality and organization than reductions in communication costs."
+  },
+  {
+   "title": "Specialization and Concentration: A Note on Theory and Evidence",
+   "authors": [
+    "Esteban Rossi-Hansberg",
+    "Karl Aiginger"
+   ],
+   "year": 2006,
+   "venue": "Empirica, 2006, 33(4): 255-266",
+   "status": "已发表",
+   "url": "https://rossihansberg.economics.uchicago.edu/SpeCon.pdf",
+   "abstract": "We study the prediction of the theory in Rossi-Hansberg [Rossi-Hansberg E (2005) Am Econ Rev 95(5):1464–1491] that, under quite general circumstances, lower transport costs increase specialization of regions or countries and decrease (regional) concentration of industries. This prediction contradicts the contention of other models and many empirical papers that specialization and concentration should move in parallel. We use two data sets on manufacturing industries across US States and EU member countries to show specialization and concentration do not develop in parallel. The empirical data replicates some of the features of the divergence predicted in the model."
+  },
+  {
+   "title": "The Knowledge Economy at the turn of the Twentieth Century: The Emergence of Hierarchies",
+   "authors": [
+    "Esteban Rossi-Hansberg",
+    "Luis Garicano"
+   ],
+   "year": 2006,
+   "venue": "Journal of the European Economic Association P&P, 2006, 4(2-3): 396-403",
+   "status": "已发表",
+   "url": "https://rossihansberg.economics.uchicago.edu/jeea.2006.4.2-3.pdf",
+   "abstract": "We use a simplified version of Garicano and Rossi-Hansberg (2005) to understand the impact of improvements in communications technology at the turn of the twentieth century on wages and organization. Improvements in communication technology allow individuals of different skills to abandon self-employment and form teams with each other. In particular, they allow high-skill agents to leverage their knowledge by specializing in the hardest tasks and hiring lowskill agents to do the routine tasks. Organization then exploits the complementarities between individual skills, which in turn affects the distribution of earnings."
+  },
+  {
+   "title": "Offshoring in a Knowledge Economy",
+   "authors": [
+    "Esteban Rossi-Hansberg",
+    "Pol Antràs",
+    "Luis Garicano"
+   ],
+   "year": 2006,
+   "venue": "Quarterly Journal of Economics, 2006, 121(1): 31-77",
+   "status": "已发表",
+   "url": "https://rossihansberg.economics.uchicago.edu/OKEQJE.pdf",
+   "abstract": "How does the formation of cross-country teams affect the organization of work and the structure of wages? To study this question, we propose a theory of the assignment of heterogeneous agents into hierarchical teams, where less skilled agents specialize in production and more skilled agents specialize in problem solving. We first analyze the properties of the competitive equilibrium of the model in a closed economy, and show that the model has a unique and efficient solution. We then study the equilibrium of a two-country model (North and South), where countries differ in their distributions of ability, and in which agents in different countries can join together in teams. We refer to this type of integration as globalization. Globalization leads to better matches for all southern workers but only for the best northern workers. As a result, we show that globalization increases wage inequality among nonmanagers in the South, but not necessarily in the North. We also study how globalization affects the size distribution of firms and the patterns of consumption and trade in the global economy."
+  },
+  {
+   "title": "A Spatial Theory of Trade",
+   "authors": [
+    "Esteban Rossi-Hansberg"
+   ],
+   "year": 2005,
+   "venue": "American Economic Review, 2005, 95(5): 1464-1491",
+   "status": "已发表",
+   "url": "https://rossihansberg.economics.uchicago.edu/SToTAER.pdf",
+   "abstract": "The equilibrium relationship between trade and the spatial distribution of economic activity is fundamental to the analysis of national and regional trade patterns, as well as to the effect of trade frictions. We study this relationship using a trade model with a continuum of regions, transport costs, and agglomeration effects caused by production externalities. We analyze the equilibrium specialization and trade patterns for different levels of transport costs and externality parameters. Understanding trade via the distribution of economic activity in space naturally rationalizes the evidence on border effects and the \"gravity equation\"."
+  },
+  {
+   "title": "Cities Under Stress",
+   "authors": [
+    "Esteban Rossi-Hansberg"
+   ],
+   "year": 2004,
+   "venue": "Journal of Monetary Economics, 2004, 51(5): 903-927",
+   "status": "已发表",
+   "url": "https://rossihansberg.economics.uchicago.edu/CUSJME.pdf",
+   "abstract": "This paper studies the effect of terrorist attacks on the internal structure of cities. We develop an urban framework with capital structures suitable for the study of this question and analyze the long and short term implications of this type of events. In the long run, the analysis shows that a terrorist attack will affect urban structure only modestly, relative to the potentially large decrease in the level of economic activity in the city. Land rents will not decline at all locations. In the short run, agglomeration forces will amplify the effect of the original destruction and will reduce urban economic activity temporarily."
+  },
+  {
+   "title": "Inequality and the Organization of Knowledge",
+   "authors": [
+    "Esteban Rossi-Hansberg",
+    "Luis Garicano"
+   ],
+   "year": 2004,
+   "venue": "American Economic Review P&P, 2004, 94(2): 197-202",
+   "status": "已发表",
+   "url": "https://rossihansberg.economics.uchicago.edu/iokAER.pdf",
+   "abstract": "Since the seminal work of Lawrence F. Katz and Kevin M. Murphy (1992), the study of wage inequality has taken as its starting point a neoclassical constant-elasticity-of-substitution production function using as inputs capital and low- and high-skill labor. This approach assumes that the organization of production is fixed and determined by a particular specification of technology, and it ignores both the source of the interaction between workers and the organizational aspects of this interaction. These shortcomings are particularly important in light of growing empirical evidence that points, first, to the importance of decreases in the cost of processing and communicating information and, second, to the complementarity between organizational change and adjustments in the distribution of wages (e.g., Timothy F. Bresnahan et al., 2002). This paper argues that theories that seek to guide empirical research on these areas must put knowledge and information at the center of the analysis of organizations and link the organizational structure with aggregate variables via equilibrium frameworks."
+  },
+  {
+   "title": "Optimal Urban Land Use and Zoning",
+   "authors": [
+    "Esteban Rossi-Hansberg"
+   ],
+   "year": 2004,
+   "venue": "Review of Economic Dynamics, 2004, 7(1): 69-106",
+   "status": "已发表",
+   "url": "https://rossihansberg.economics.uchicago.edu/OLUZRED.pdf",
+   "abstract": "The paper studies the optimal distribution of business and residential land in a circular city. Once the optimum is characterized, we analyze the effect of changes in commuting costs and externality parameters. We also propose policies like labor subsidies, land taxes and zoning restrictions that can implement the efficient allocation as an equilibrium, or close the gap between the optimal and equilibrium allocations. The results show that business land is more concentrated at the center of the city in the optimum and that higher commuting costs increase the difference between optimal and equilibrium allocations."
+  },
+  {
+   "title": "On the Internal Structure of Cities",
+   "authors": [
+    "Esteban Rossi-Hansberg",
+    "Robert E. Lucas Jr."
+   ],
+   "year": 2002,
+   "venue": "Econometrica, 2002, 70(4): 1445-1476",
+   "status": "已发表",
+   "url": "https://rossihansberg.economics.uchicago.edu/OISCEco.pdf",
+   "abstract": "We prove the existence of a symmetric equilibrium in a circular city in which businesses and housing can both be located anywhere in the city. In this equilibrium, firms balance the external benefits from locating near other producers against the costs of longer commutes for workers. An equilibrium city need not take the form of a central business district surrounded by a residential area. We propose a general algorithm for constructing equilibria, and use it to study the way land use is affected by changes in the model's underlying parameters."
+  },
+  {
+   "title": "Local Carbon Policy",
+   "authors": [
+    "Esteban Rossi-Hansberg",
+    "José-Luis Cruz"
+   ],
+   "year": 2026,
+   "venue": "Advances in Economics and Econometrics: Twelfth World Congress, 2026, Volume 2, Cambridge University Press (Edited by Victor Chernozhukov, Johannes Hörner, Eliana La Ferrara, and Iván Werning)",
+   "status": "已发表",
+   "url": "https://rossihansberg.economics.uchicago.edu/LCP.pdf",
+   "abstract": null
+  },
+  {
+   "title": "The Economic Geography of Climate Change: Recent Progress and Open Questions",
+   "authors": [
+    "Esteban Rossi-Hansberg",
+    "Klaus Desmet"
+   ],
+   "year": null,
+   "venue": "Prepared for the 25th Anniversary of the Journal of Economic Geography",
+   "status": "工作论文",
+   "url": "https://rossihansberg.economics.uchicago.edu/EGCCRPOQ.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Climate Change Economics over Time and Space",
+   "authors": [
+    "Esteban Rossi-Hansberg",
+    "Klaus Desmet"
+   ],
+   "year": 2024,
+   "venue": "Annual Review of Economics, 2024, 16: 271-304",
+   "status": "已发表",
+   "url": "https://rossihansberg.economics.uchicago.edu/CCETS.pdf",
+   "abstract": null
+  },
+  {
+   "title": "The Economic Impact of Climate Change over Time and Space",
+   "authors": [
+    "Esteban Rossi-Hansberg",
+    "Klaus Desmet"
+   ],
+   "year": 2021,
+   "venue": "NBER Reporter, 2021, 4: 16-20",
+   "status": "已发表",
+   "url": "https://rossihansberg.economics.uchicago.edu/NBERRep2021.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Geography of Growth and Development",
+   "authors": [
+    "Esteban Rossi-Hansberg"
+   ],
+   "year": 2019,
+   "venue": "Oxford Research Encyclopedia of Economics and Finance, Oxford University Press, July 2019",
+   "status": "已发表",
+   "url": "https://rossihansberg.economics.uchicago.edu/GGD.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Exporting and Organizational Change",
+   "authors": [
+    "Esteban Rossi-Hansberg",
+    "Lorenzo Caliendo",
+    "Ferdinando Monte"
+   ],
+   "year": 2018,
+   "venue": "World Trade Evolution: Growth Productivity and Employment, Routledge, 2018 (Edited by L. Y. Ing and M. Yu)",
+   "status": "已发表",
+   "url": "https://rossihansberg.economics.uchicago.edu/EOC.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Quantitative Spatial Economics",
+   "authors": [
+    "Esteban Rossi-Hansberg",
+    "Stephen Redding"
+   ],
+   "year": 2017,
+   "venue": "Annual Review of Economics, 2017, 9(1): 21-58",
+   "status": "已发表",
+   "url": "https://rossihansberg.economics.uchicago.edu/QSE.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Spatial Growth: Comparing India, China, and the United States",
+   "authors": [
+    "Esteban Rossi-Hansberg",
+    "Klaus Desmet"
+   ],
+   "year": 2017,
+   "venue": "Challenges in the Process of China’s Urbanization, Stanford University Press, 2017 (Edited by Karen Eggleston, Jean C. Oi, and Yiming Wang)",
+   "status": "已发表",
+   "url": "https://rossihansberg.economics.uchicago.edu/SG_CICU.pdf",
+   "abstract": null
+  },
+  {
+   "title": "200 Years of Ricardian Theory: The Missing Dynamics",
+   "authors": [
+    "Esteban Rossi-Hansberg"
+   ],
+   "year": 2017,
+   "venue": "200 Years of Ricardian Trade Theory: Challenges of Globalization, Springer, 2017 (Edited by Ronald W. Jones and Rolf Weder)",
+   "status": "已发表",
+   "url": "https://rossihansberg.economics.uchicago.edu/ERH_200RT.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Knowledge-Based Hierarchies: Using Organizations to Understand the Economy",
+   "authors": [
+    "Esteban Rossi-Hansberg",
+    "Luis Garicano"
+   ],
+   "year": 2015,
+   "venue": "Annual Review of Economics, 2015, 7(1): 1-30",
+   "status": "已发表",
+   "url": "https://rossihansberg.economics.uchicago.edu/KBH.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Analyzing Urban Systems: Have Megacities Become Too Large?",
+   "authors": [
+    "Esteban Rossi-Hansberg",
+    "Klaus Desmet"
+   ],
+   "year": 2014,
+   "venue": "The Urban Imperative, World Bank Publications, The World Bank, May 2014 (Edited by Edward Glaeser and Abha Joshi-Ghani)",
+   "status": "已发表",
+   "url": "https://rossihansberg.economics.uchicago.edu/AUS.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Organizations and Trade",
+   "authors": [
+    "Esteban Rossi-Hansberg",
+    "Pol Antràs"
+   ],
+   "year": 2009,
+   "venue": "Annual Review of Economics, 2009, 1(1): 43-64",
+   "status": "已发表",
+   "url": "https://rossihansberg.economics.uchicago.edu/TO.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Organizations in the Aggregate Economy",
+   "authors": [
+    "Esteban Rossi-Hansberg"
+   ],
+   "year": 2009,
+   "venue": "NBER Reporter, 2009, 1: 19-21",
+   "status": "已发表",
+   "url": "https://rossihansberg.economics.uchicago.edu/NBERRep.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Organizing Offshoring: Middle Managers and Communication Costs",
+   "authors": [
+    "Esteban Rossi-Hansberg",
+    "Pol Antràs",
+    "Luis Garicano"
+   ],
+   "year": 2008,
+   "venue": "The Organization of Firms in a Global Economy, Harvard University Press, 2008 (Edited by Elhanan Helpman, Dalia Marin, and Thierry Verdier)",
+   "status": "已发表",
+   "url": "https://rossihansberg.economics.uchicago.edu/OO.pdf",
+   "abstract": null
+  },
+  {
+   "title": "The Rise of Offshoring: It's Not Wine for Cloth Anymore",
+   "authors": [
+    "Esteban Rossi-Hansberg",
+    "Gene Grossman"
+   ],
+   "year": 2006,
+   "venue": "The New Economic Geography: Effects and Policy Implications, Jackson Hole Conference Volume, Federal Reserve Bank of Kansas City, 2006",
+   "status": "已发表",
+   "url": "https://rossihansberg.economics.uchicago.edu/RO.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Urban Growth",
+   "authors": [
+    "Esteban Rossi-Hansberg",
+    "Yannis M. Ioannides"
+   ],
+   "year": 2010,
+   "venue": "The New Palgrave Dictionary of Economics, 2nd edition, Palgrave Macmillan, 2010",
+   "status": "已发表",
+   "url": "https://rossihansberg.economics.uchicago.edu/UG.pdf",
+   "abstract": null
+  }
+ ]
+}

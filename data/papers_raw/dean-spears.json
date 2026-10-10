@@ -1,0 +1,976 @@
+{
+ "slug": "dean-spears",
+ "name": "Dean Spears",
+ "sources": [
+  "https://www.iza.org/wc/cvs/cv_Spears.pdf"
+ ],
+ "collected": "2026-10-10",
+ "notes": "No homepage given; UT profile has no publication list. Only source is the IZA-hosted CV, which appears to date from ~2021-22, so recent work (e.g., 2025 book with Geruso) is missing. No abstracts. From the CV's 'Policy research, reviews, and book chapters' section, included journal articles and book chapters but skipped Foreign Policy op-eds, a book review, a Seminar piece and the IFPRI report chapter. CV lists many coauthors as 'and coauthors'.",
+ "papers": [
+  {
+   "title": "Air: Pollution, Climate Change, and India's Choice Between Policy and Pretence",
+   "authors": [
+    "Dean Spears"
+   ],
+   "year": 2019,
+   "venue": "Harper Collins India (book)",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Where India Goes: Abandoned Toilets, Stunted Development, and the Costs of Caste",
+   "authors": [
+    "Dean Spears",
+    "Diane Coffey"
+   ],
+   "year": 2017,
+   "venue": "Harper Collins India (book)",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Endogenous inclusion in the Demographic and Health Survey anthropometric sample: Implications for studying height within households",
+   "authors": [
+    "Dean Spears",
+    "Diane Coffey",
+    "Jere Behrman"
+   ],
+   "year": 2022,
+   "venue": "Journal of Development Economics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Neonatal death in India: The effect of birth order in a context of maternal undernutrition",
+   "authors": [
+    "Dean Spears",
+    "Diane Coffey"
+   ],
+   "year": 2021,
+   "venue": "The Economic Journal",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Minimal utilitarian benchmarks for NDCs provide equity, climate, and development advantages",
+   "authors": [
+    "Dean Spears",
+    "Mark Budolfson",
+    "Navroz Dubash"
+   ],
+   "year": 2021,
+   "venue": "Nature Climate Change",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Inversions in Close US Presidential Elections: 1836-2016",
+   "authors": [
+    "Dean Spears",
+    "Michael Geruso",
+    "Ishaana Talesara"
+   ],
+   "year": 2021,
+   "venue": "American Economic Journal: Applied Economics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Additively-separable and rank-discounted variable-population social welfare functions: A characterization",
+   "authors": [
+    "Dean Spears",
+    "H. Orri Stefánsson"
+   ],
+   "year": 2021,
+   "venue": "Economics Letters",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Repugnant Conclusions",
+   "authors": [
+    "Dean Spears",
+    "Mark Budolfson"
+   ],
+   "year": 2021,
+   "venue": "Social Choice and Welfare",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Climate action with revenue recycling has benefits for poverty, inequality, and wellbeing",
+   "authors": [
+    "Dean Spears",
+    "Mark Budolfson",
+    "Noah Scovronick"
+   ],
+   "year": 2021,
+   "venue": "Nature Climate Change",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Population momentum, population ethics, and the prospects for fertility policy as climate mitigation policy",
+   "authors": [
+    "Dean Spears",
+    "Mark Budolfson"
+   ],
+   "year": 2021,
+   "venue": "Journal of Development Studies",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Mere Addition is equivalent to avoiding the Sadistic Conclusion in all plausible variable-population social orderings",
+   "authors": [
+    "Dean Spears",
+    "Nathan Franz"
+   ],
+   "year": 2021,
+   "venue": "Economics Letters",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Those Who Can't Sort, Steal: Caste, Occupational Mobility, and Rent-Seeking in Rural India",
+   "authors": [
+    "Dean Spears",
+    "Nicholas Lawson"
+   ],
+   "year": null,
+   "venue": "Journal of Demographic Economics (forthcoming)",
+   "status": "即将发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Revisiting open defecation: Evidence from a panel survey in rural north India (2014-2018)",
+   "authors": [
+    "Dean Spears",
+    "Aashish Gupta"
+   ],
+   "year": 2020,
+   "venue": "Economic & Political Weekly (special articles)",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Persistence of solid fuel use despite increases in LPG ownership: New survey evidence from rural north India",
+   "authors": [
+    "Dean Spears",
+    "Aashish Gupta"
+   ],
+   "year": 2020,
+   "venue": "Economic & Political Weekly (special articles)",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Exposure to open defecation can account for the Indian enigma of child height",
+   "authors": [
+    "Dean Spears"
+   ],
+   "year": 2020,
+   "venue": "Journal of Development Economics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The association of early-life exposure to ambient PM2.5 and later-childhood height-for-age in India: an observational study",
+   "authors": [
+    "Dean Spears",
+    "Sagnik Dey"
+   ],
+   "year": 2019,
+   "venue": "Environmental Health",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The impact of human health co-benefits on evaluations of global climate policy",
+   "authors": [
+    "Dean Spears",
+    "Noah Scovronick"
+   ],
+   "year": 2019,
+   "venue": "Nature Communications",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Local social inequality, economic inequality, and disparities in child height in India",
+   "authors": [
+    "Dean Spears",
+    "Diane Coffey",
+    "Ashwini Deshpande",
+    "Jeffrey Hammer"
+   ],
+   "year": 2019,
+   "venue": "Demography",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Asymmetry of Population Ethics: Experimental Social Choice and Dual-Process Moral Reasoning",
+   "authors": [
+    "Dean Spears"
+   ],
+   "year": 2019,
+   "venue": "Economics and Philosophy",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Measuring open defecation in India using survey questions: evidence from a randomised survey experiment",
+   "authors": [
+    "Dean Spears",
+    "Sangita Vyas"
+   ],
+   "year": 2019,
+   "venue": "BMJ Open",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The puzzle of open defecation in rural India: Evidence from a novel measure of caste attitudes in a nationally-representative survey",
+   "authors": [
+    "Dean Spears",
+    "Amit Thorat"
+   ],
+   "year": null,
+   "venue": "Economic Development and Cultural Change (forthcoming)",
+   "status": "即将发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Neighborhood sanitation and infant mortality",
+   "authors": [
+    "Dean Spears",
+    "Michael Geruso"
+   ],
+   "year": 2018,
+   "venue": "American Economic Journal: Applied Economics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Impact of population growth and population ethics on climate change mitigation policy",
+   "authors": [
+    "Dean Spears",
+    "Noah Scovronick",
+    "Mark Budolfson",
+    "Francis Dennig",
+    "Marc Fleurbaey",
+    "Asher Siebert",
+    "Robert H. Socolow",
+    "Fabian Wagner"
+   ],
+   "year": 2017,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Child height in India: Facts and interpretations from the 2015-16 NFHS-4",
+   "authors": [
+    "Dean Spears",
+    "Diane Coffey"
+   ],
+   "year": 2018,
+   "venue": "Economic & Political Weekly (special article)",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Implications of WASH Benefits trials for open defecation Sustainable Development Goal",
+   "authors": [
+    "Dean Spears",
+    "Diane Coffey"
+   ],
+   "year": 2018,
+   "venue": "Lancet Global Health",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Optimal climate policy and the future of world economic development",
+   "authors": [
+    "Dean Spears",
+    "Mark Budolfson",
+    "Francis Dennig",
+    "Marc Fleurbaey",
+    "Noah Scovronick",
+    "Asher Siebert",
+    "Fabian Wagner"
+   ],
+   "year": 2019,
+   "venue": "World Bank Economic Review",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Health externalities of India's expansion of coal plants: Evidence from a national panel of 40,000 households",
+   "authors": [
+    "Dean Spears",
+    "Aashish Gupta"
+   ],
+   "year": 2018,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Sanitation, disease externalities, and anemia: Evidence from Nepal",
+   "authors": [
+    "Dean Spears",
+    "Diane Coffey",
+    "Michael Geruso"
+   ],
+   "year": 2018,
+   "venue": "The Economic Journal",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Health and hunger: disease, energy needs, and the Indian calorie consumption puzzle",
+   "authors": [
+    "Dean Spears",
+    "Josephine Duh"
+   ],
+   "year": 2017,
+   "venue": "The Economic Journal",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Sanitation and religion in South Asia: What accounts for differences across countries?",
+   "authors": [
+    "Dean Spears",
+    "Sangita Vyas"
+   ],
+   "year": 2018,
+   "venue": "Journal of Development Studies",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Making people happy or making happy people?: Questionnaire-experimental studies of population ethics and policy",
+   "authors": [
+    "Dean Spears"
+   ],
+   "year": 2017,
+   "venue": "Social Choice and Welfare",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Optimal population with exhaustible resource constraints",
+   "authors": [
+    "Dean Spears",
+    "Nicholas Lawson"
+   ],
+   "year": 2017,
+   "venue": "Journal of Population Economics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Switching to sanitation: Understanding latrine adoption in a representative panel of rural Indian households",
+   "authors": [
+    "Dean Spears",
+    "Diane Coffey",
+    "Sangita Vyas"
+   ],
+   "year": 2017,
+   "venue": "Social Science & Medicine",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Place and child health: The interaction of population density and sanitation behavior in developing countries",
+   "authors": [
+    "Dean Spears",
+    "Payal Hathi",
+    "Sabrina Haque",
+    "Lovey Pant",
+    "Diane Coffey"
+   ],
+   "year": 2017,
+   "venue": "Demography",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Understanding open defecation in rural India: Untouchability, pollution, and latrine pits",
+   "authors": [
+    "Dean Spears",
+    "Diane Coffey",
+    "Aashish Gupta",
+    "Payal Hathi",
+    "Nikhil Srivastav",
+    "Sangita Vyas"
+   ],
+   "year": 2017,
+   "venue": "Economic & Political Weekly (special article)",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "An experiment with air purifiers in Delhi during winter 2015-2016",
+   "authors": [
+    "Dean Spears",
+    "Sangita Vyas",
+    "Nikhil Srivastav"
+   ],
+   "year": 2016,
+   "venue": "PLoS ONE",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Disease externalities and net nutrition: Evidence from changes in sanitation and child height in Cambodia, 2005-2010",
+   "authors": [
+    "Dean Spears",
+    "Sangita Vyas",
+    "Phyrum Kov",
+    "Susanna Smets"
+   ],
+   "year": 2016,
+   "venue": "Economics and Human Biology",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Village sanitation and child health: Effects and external validity in a randomized field experiment in rural India",
+   "authors": [
+    "Dean Spears",
+    "Jeffrey Hammer"
+   ],
+   "year": 2016,
+   "venue": "Journal of Health Economics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Effects of Early-Life Exposure to Rural Sanitation on Childhood Cognitive Skills: Evidence from India's Total Sanitation Campaign",
+   "authors": [
+    "Dean Spears",
+    "Sneha Lamba"
+   ],
+   "year": 2016,
+   "venue": "Journal of Human Resources",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Who is the Identifiable Victim?: Caste and Charitable Giving among Indian Elites",
+   "authors": [
+    "Dean Spears",
+    "Ashwini Deshpande"
+   ],
+   "year": 2016,
+   "venue": "Economic Development and Cultural Change",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "What doesn't kill you makes you poorer: Effects of the early-life disease environment on adult wages in India",
+   "authors": [
+    "Dean Spears",
+    "Nicholas Lawson"
+   ],
+   "year": 2016,
+   "venue": "Economics and Human Biology 21",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A smaller human population in 2100 could importantly reduce the risk of climate catastrophe",
+   "authors": [
+    "Dean Spears"
+   ],
+   "year": 2015,
+   "venue": "Proceedings of the National Academy of Sciences (letter)",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Short-Term Labor Migration from Rural North India: Evidence from New Survey Data",
+   "authors": [
+    "Dean Spears",
+    "Diane Coffey",
+    "John Papp"
+   ],
+   "year": 2015,
+   "venue": "Population Research and Policy Review",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Revealed preference for open defecation: Evidence from a new survey in rural north India",
+   "authors": [
+    "Dean Spears",
+    "Diane Coffey",
+    "Aashish Gupta",
+    "Payal Hathi",
+    "Nidhi Khurana",
+    "Nikhil Srivastav",
+    "Sangita Vyas"
+   ],
+   "year": 2014,
+   "venue": "Economic & Political Weekly (special article)",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Having a son promotes clean cooking fuel use in urban India",
+   "authors": [
+    "Dean Spears",
+    "Avinash Kishore"
+   ],
+   "year": 2014,
+   "venue": "Economic Development and Cultural Change",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Decision Costs and Price Sensitivity: Field Experimental Evidence from India",
+   "authors": [
+    "Dean Spears"
+   ],
+   "year": 2014,
+   "venue": "Journal of Economic Behavior & Organization",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Caste, 'cleanliness', and cash: Effects of caste-based political reservations in Rajasthan on a sanitation prize",
+   "authors": [
+    "Dean Spears",
+    "Sneha Lamba"
+   ],
+   "year": 2013,
+   "venue": "Journal of Development Studies",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Open defecation and childhood stunting in India: An ecological analysis of new data from 112 districts",
+   "authors": [
+    "Dean Spears",
+    "Oliver Cumming",
+    "Arabinda Ghosh"
+   ],
+   "year": 2013,
+   "venue": "PLoS ONE",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Poverty and probability: aspiration and aversion to compound lotteries in El Salvador and India",
+   "authors": [
+    "Dean Spears"
+   ],
+   "year": 2012,
+   "venue": "Experimental Economics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Height and cognitive achievement among Indian children",
+   "authors": [
+    "Dean Spears"
+   ],
+   "year": 2012,
+   "venue": "Economics & Human Biology",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Economic Decision-Making in Poverty Depletes Behavioral Control",
+   "authors": [
+    "Dean Spears"
+   ],
+   "year": 2011,
+   "venue": "B.E. Journal of Economic Analysis & Policy",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Bounded Rationality as Subjective Menus: Contraction Consistency and Intertemporal Choice",
+   "authors": [
+    "Dean Spears"
+   ],
+   "year": 2011,
+   "venue": "B.E. Journal of Theoretical Economics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Intergenerational transmission is not sufficient for positive long-term population growth",
+   "authors": [
+    "Dean Spears",
+    "Sam Arenberg",
+    "Kevin Kuruc"
+   ],
+   "year": null,
+   "venue": "Revise & Resubmit, Demography (research note; resubmitted)",
+   "status": "修改重投",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Women's status and children's height in India: Evidence from joint rural households",
+   "authors": [
+    "Dean Spears",
+    "Diane Coffey",
+    "Reetika Khera"
+   ],
+   "year": null,
+   "venue": "Revise & Resubmit, Demography",
+   "status": "修改重投",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Calibrating variable-value population ethics",
+   "authors": [
+    "Dean Spears",
+    "H. Orri Stefánsson"
+   ],
+   "year": null,
+   "venue": "Revise & Resubmit, Economics & Philosophy",
+   "status": "修改重投",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Excess neonatal mortality in private facility births in India",
+   "authors": [
+    "Dean Spears",
+    "Diane Coffey",
+    "Nikhil Srivastav"
+   ],
+   "year": null,
+   "venue": null,
+   "status": "工作论文",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "How Likely Is It that Courts Will Select the US President? The Probability of Narrow, Reversible Election Results in the Electoral College versus a National Popular Vote",
+   "authors": [
+    "Dean Spears",
+    "Michael Geruso"
+   ],
+   "year": null,
+   "venue": "NBER Working Paper",
+   "status": "工作论文",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Heat, humidity, and infant mortality in the developing world",
+   "authors": [
+    "Dean Spears",
+    "Michael Geruso"
+   ],
+   "year": 2018,
+   "venue": "NBER Working Paper No. 24870",
+   "status": "工作论文",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Open defecation and the Muslim infant survival advantage in India: New evidence from the 2015-16 DHS",
+   "authors": [
+    "Dean Spears",
+    "Michael Geruso"
+   ],
+   "year": null,
+   "venue": null,
+   "status": "工作论文",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "What Should We Agree on about the Repugnant Conclusion?",
+   "authors": [
+    "Dean Spears",
+    "Stéphane Zuber"
+   ],
+   "year": 2021,
+   "venue": "Utilitas",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Persisting Prejudice: Measuring Attitudes and Outcomes by Caste, Religion, and Gender",
+   "authors": [
+    "Dean Spears",
+    "Amit Thorat"
+   ],
+   "year": 2020,
+   "venue": "CASTE: A Global Journal on Social Exclusion",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Assessing high-profile public messaging for sanitation behavior change: Evidence from a mobile phone survey in India",
+   "authors": [
+    "Dean Spears",
+    "Payal Hathi",
+    "Diane Coffey"
+   ],
+   "year": 2020,
+   "venue": "Waterlines",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Does the Repugnant Conclusion have important implications for axiology or for public policy?",
+   "authors": [
+    "Dean Spears",
+    "Mark Budolfson"
+   ],
+   "year": null,
+   "venue": "Oxford Handbook of Population Ethics, OUP (forthcoming)",
+   "status": "即将发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Quantifying Animal Well-Being and Overcoming the Challenge of Interspecies Comparisons",
+   "authors": [
+    "Dean Spears",
+    "Mark Budolfson"
+   ],
+   "year": 2019,
+   "venue": "The Routledge Handbook of Animal Ethics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The consequences of social inequality for the health and development of India's children: The case of caste, sanitation, and child height",
+   "authors": [
+    "Dean Spears",
+    "Melissa LoPalo",
+    "Diane Coffey"
+   ],
+   "year": 2019,
+   "venue": "Social Justice Research",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Quantifying India's Climate Vulnerability",
+   "authors": [
+    "Dean Spears",
+    "Melissa LoPalo",
+    "Kevin Kuruc",
+    "Mark Budolfson"
+   ],
+   "year": 2018,
+   "venue": "India Policy Forum",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Effective Altruism and Barriers to Marginal Impact",
+   "authors": [
+    "Dean Spears",
+    "Mark Budolfson"
+   ],
+   "year": 2019,
+   "venue": "Effective Altruism: Philosophical Issues (book chapter)",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Open Defecation in Rural India, 2015-16: Levels and Trends in NFHS-4",
+   "authors": [
+    "Dean Spears",
+    "Diane Coffey"
+   ],
+   "year": 2018,
+   "venue": "Economic & Political Weekly",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Maximizing the Public Health Benefits from Climate Action",
+   "authors": [
+    "Dean Spears",
+    "George D. Thurston",
+    "Sara De Matteis",
+    "Kris Murray",
+    "Pauline Scheelbeek",
+    "Noah Scovronick",
+    "Mark Budolfson",
+    "Paolo Vineis"
+   ],
+   "year": 2018,
+   "venue": "Environmental Science & Technology",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Purity, pollution, and untouchability: Challenges affecting the adoption, use, and sustainability of sanitation programmes in rural India",
+   "authors": [
+    "Dean Spears",
+    "Aashish Gupta",
+    "Diane Coffey"
+   ],
+   "year": 2016,
+   "venue": "Sustainable Sanitation for All (book chapter)",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Can collective action strategies motivate behavior change to reduce open defecation in rural India?",
+   "authors": [
+    "Dean Spears",
+    "Payal Hathi",
+    "Diane Coffey"
+   ],
+   "year": 2016,
+   "venue": "Waterlines",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Caste and life satisfaction in rural north India",
+   "authors": [
+    "Dean Spears"
+   ],
+   "year": 2016,
+   "venue": "Economic & Political Weekly",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Improving sanitation is a policy priority for children's human capital in rural India: Lessons from recent literature and the IHDS",
+   "authors": [
+    "Dean Spears"
+   ],
+   "year": 2016,
+   "venue": "Undernutrition and Public Policy in India (book chapter)",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Are children in West Bengal shorter than children in Bangladesh?",
+   "authors": [
+    "Dean Spears",
+    "Arabinda Ghosh",
+    "Aashish Gupta"
+   ],
+   "year": 2014,
+   "venue": "Economic & Political Weekly",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Stunting among Children: Facts and Implications",
+   "authors": [
+    "Dean Spears",
+    "Diane Coffey",
+    "Angus Deaton",
+    "Jean Drèze",
+    "Alessandro Tarozzi"
+   ],
+   "year": 2013,
+   "venue": "Economic & Political Weekly",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Policy lessons from the implementation of India's Total Sanitation Campaign",
+   "authors": [
+    "Dean Spears"
+   ],
+   "year": 2012,
+   "venue": "India Policy Forum",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Low Expectations: Reference-Dependent Preferences and Labor Supply in Cape Town, South Africa",
+   "authors": [
+    "Dean Spears"
+   ],
+   "year": 2012,
+   "venue": "Poverty & Public Policy",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  }
+ ]
+}

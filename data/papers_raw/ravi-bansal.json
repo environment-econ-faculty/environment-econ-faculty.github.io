@@ -1,0 +1,533 @@
+{
+ "slug": "ravi-bansal",
+ "name": "Ravi Bansal",
+ "sources": [
+  "https://sites.google.com/view/ravibansal/research/recent-publications-and-working-papers",
+  "https://people.duke.edu/~rb7/bio/CV_bansal.pdf"
+ ],
+ "collected": "2026-10-10",
+ "notes": "Recent publications/working papers from homepage; pre-2011 publications from CV (CV ~2018, older). Comment on Laarits paper skipped; 'Scale, Sectors, and Risk' skipped (no draft). No abstracts on pages.",
+ "papers": [
+  {
+   "title": "Identifying Preference for Early Resolution from Asset Prices",
+   "authors": [
+    "Ravi Bansal",
+    "Hengjie Ai",
+    "Hongye Guo",
+    "Amir Yaron"
+   ],
+   "year": 2026,
+   "venue": "American Economic Review",
+   "status": "已发表",
+   "url": "https://drive.google.com/file/d/1qZsEConLE4TgZ5kuxypCf8iVVq303YXH/view",
+   "abstract": null
+  },
+  {
+   "title": "Endogenous Climate Risk: Embedded Hedge and the Green Premium",
+   "authors": [
+    "Ravi Bansal",
+    "Dana Kiku"
+   ],
+   "year": 2026,
+   "venue": null,
+   "status": "工作论文",
+   "url": "https://drive.google.com/file/d/1vp7JFDBdQ2gAAbO_4kWuG0E2eWry7uUv/view",
+   "abstract": null
+  },
+  {
+   "title": "An Arrow-Pratt Theory of Preference for Early Resolution of Uncertainty",
+   "authors": [
+    "Ravi Bansal",
+    "Hengjie Ai",
+    "Hongye Guo",
+    "Amir Yaron"
+   ],
+   "year": 2025,
+   "venue": null,
+   "status": "工作论文",
+   "url": "https://drive.google.com/file/d/1-A0a92mELJBM2-YtFAg6z0gP3enQMB9j/view",
+   "abstract": null
+  },
+  {
+   "title": "Uncertainty-Induced Reallocations, Innovation, and Growth",
+   "authors": [
+    "Ravi Bansal",
+    "Max Croce",
+    "Wenxi Liao",
+    "Sam Rosen"
+   ],
+   "year": 2024,
+   "venue": null,
+   "status": "工作论文",
+   "url": "https://drive.google.com/file/d/1gLQyuR5QwxhW4s_UNuyWZdFb80ushsR1/view",
+   "abstract": null
+  },
+  {
+   "title": "Macroeconomic Announcement Premium",
+   "authors": [
+    "Ravi Bansal",
+    "Hengjie Ai",
+    "Hongye Guo"
+   ],
+   "year": 2024,
+   "venue": "Oxford Research Encyclopedia of Economics and Finance",
+   "status": "已发表",
+   "url": "https://drive.google.com/file/d/1wa_dcWyVxnHmuXzSud8NmQcLrs-Q1F8h/view",
+   "abstract": null
+  },
+  {
+   "title": "Socially Responsible Investing in Good and Bad Times?",
+   "authors": [
+    "Ravi Bansal",
+    "Amir Yaron",
+    "Di Wu"
+   ],
+   "year": 2022,
+   "venue": "Review of Financial Studies",
+   "status": "已发表",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3259209",
+   "abstract": null
+  },
+  {
+   "title": "The Term Structure of Equity Risk Premia",
+   "authors": [
+    "Ravi Bansal",
+    "Shane Miller",
+    "Dongho Song",
+    "Amir Yaron"
+   ],
+   "year": 2021,
+   "venue": "Journal of Financial Economics",
+   "status": "已发表",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3689947",
+   "abstract": null
+  },
+  {
+   "title": "Macroeconomic Announcement Premium with Production",
+   "authors": [
+    "Ravi Bansal",
+    "Hengjie Ai",
+    "Jay Im",
+    "Chao Ying"
+   ],
+   "year": 2021,
+   "venue": null,
+   "status": "工作论文",
+   "url": "https://drive.google.com/file/d/1gM2W7Kywa8rSoKs7xJixpiFhKkHskyXu/view",
+   "abstract": null
+  },
+  {
+   "title": "Information Acquisition and the Pre-Announcement Drift",
+   "authors": [
+    "Ravi Bansal",
+    "Hengjie Ai",
+    "Leyla Han"
+   ],
+   "year": 2021,
+   "venue": null,
+   "status": "工作论文",
+   "url": "https://drive.google.com/file/d/1y9PGRp2wzFKFVG5S8x9qcPuIER891YPf/view",
+   "abstract": null
+  },
+  {
+   "title": "Price of Long Run Temperature Shifts in Capital Markets",
+   "authors": [
+    "Ravi Bansal",
+    "Dana Kiku",
+    "Marcelo Ochoa"
+   ],
+   "year": 2021,
+   "venue": null,
+   "status": "工作论文",
+   "url": "https://drive.google.com/file/d/1WA5CKR44UO7ugx8XQnLeGk9TcCqV382e/view",
+   "abstract": null
+  },
+  {
+   "title": "Equilibrium Wealth Share Dynamics",
+   "authors": [
+    "Ravi Bansal",
+    "Colin Ward",
+    "Amir Yaron"
+   ],
+   "year": 2020,
+   "venue": null,
+   "status": "工作论文",
+   "url": "https://drive.google.com/file/d/1SASQ5V3naMkfsKykeKxcgVouYPF_sd0U/view",
+   "abstract": null
+  },
+  {
+   "title": "Climate Change and Growth Risks",
+   "authors": [
+    "Ravi Bansal",
+    "Dana Kiku",
+    "Marcelo Ochoa"
+   ],
+   "year": 2020,
+   "venue": "Climate Change Economics: The Role of Uncertainty and Risk (eds. V V Chari and Robert Litterman)",
+   "status": "已发表",
+   "url": "https://www.nber.org/papers/w23009",
+   "abstract": null
+  },
+  {
+   "title": "Risk Preferences and Announcement Premium",
+   "authors": [
+    "Ravi Bansal",
+    "Hengjie Ai"
+   ],
+   "year": 2018,
+   "venue": "Econometrica",
+   "status": "已发表",
+   "url": "https://doi.org/10.3982/ECTA14607",
+   "abstract": null
+  },
+  {
+   "title": "Risks for the Long Run: Estimation and Inference with Time Aggregation",
+   "authors": [
+    "Ravi Bansal",
+    "Dana Kiku",
+    "Amir Yaron"
+   ],
+   "year": 2016,
+   "venue": "Journal of Monetary Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jmoneco.2016.07.003",
+   "abstract": null
+  },
+  {
+   "title": "Volatility, the Macroeconomy and Asset Prices",
+   "authors": [
+    "Ravi Bansal",
+    "Dana Kiku",
+    "Ivan Shaliastovich",
+    "Amir Yaron"
+   ],
+   "year": 2014,
+   "venue": "Journal of Finance",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/jofi.12110",
+   "abstract": null
+  },
+  {
+   "title": "Endogenous Liquidity Supply",
+   "authors": [
+    "Ravi Bansal",
+    "John Coleman",
+    "Chris Lundblad"
+   ],
+   "year": 2014,
+   "venue": null,
+   "status": "工作论文",
+   "url": "https://faculty.fuqua.duke.edu/~rb7/bio/liquidity_bcl.pdf",
+   "abstract": null
+  },
+  {
+   "title": "A Long Run Risks Explanation of Predictability Puzzles in Bond and Currency Markets",
+   "authors": [
+    "Ravi Bansal",
+    "Ivan Shaliastovich"
+   ],
+   "year": 2013,
+   "venue": "Review of Financial Studies",
+   "status": "已发表",
+   "url": "https://doi.org/10.1093/rfs/hhs108",
+   "abstract": null
+  },
+  {
+   "title": "An Empirical Evaluation of the Long-Run Risks Model for Asset Prices",
+   "authors": [
+    "Ravi Bansal",
+    "Dana Kiku",
+    "Amir Yaron"
+   ],
+   "year": 2012,
+   "venue": "Critical Finance Review",
+   "status": "已发表",
+   "url": "http://dx.doi.org/10.1561/104.00000005",
+   "abstract": null
+  },
+  {
+   "title": "Learning, Long Run Risks, and Asset Price Jumps",
+   "authors": [
+    "Ravi Bansal",
+    "Ivan Shaliastovich"
+   ],
+   "year": 2011,
+   "venue": "Review of Financial Studies",
+   "status": "已发表",
+   "url": "https://doi.org/10.1093/rfs/hhr023",
+   "abstract": null
+  },
+  {
+   "title": "Cointegration and Long-Run Asset Allocation",
+   "authors": [
+    "Ravi Bansal",
+    "Dana Kiku"
+   ],
+   "year": 2011,
+   "venue": "Journal of Business and Economic Statistics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1198/jbes.2010.08062",
+   "abstract": null
+  },
+  {
+   "title": "Confidence Risk and Asset Prices",
+   "authors": [
+    "Ravi Bansal",
+    "Ivan Shaliastovich"
+   ],
+   "year": 2010,
+   "venue": "American Economic Review (Papers and Proceedings)",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Long-Run Risks, the Macro-economy and Asset Prices",
+   "authors": [
+    "Ravi Bansal",
+    "Dana Kiku",
+    "Amir Yaron"
+   ],
+   "year": 2010,
+   "venue": "American Economic Review (Papers and Proceedings)",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Cointegration and Consumption Risks in Equity Returns",
+   "authors": [
+    "Ravi Bansal",
+    "Robert Dittmar",
+    "Dana Kiku"
+   ],
+   "year": 2009,
+   "venue": "Review of Financial Studies",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Rational Pessimism, Rational Exuberance, and Asset Pricing Models",
+   "authors": [
+    "Ravi Bansal",
+    "Ronald Gallant",
+    "George Tauchen"
+   ],
+   "year": 2007,
+   "venue": "Review of Economic Studies",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Long Run Risks and Financial Markets",
+   "authors": [
+    "Ravi Bansal"
+   ],
+   "year": 2007,
+   "venue": "The Review, St. Louis Federal Reserve Bank",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Asset Pricing-Macro Nexus",
+   "authors": [
+    "Ravi Bansal",
+    "Amir Yaron"
+   ],
+   "year": 2007,
+   "venue": null,
+   "status": "工作论文",
+   "url": "https://drive.google.com/file/d/13ENSAz6bxVUIAXWXLZXIAnWwrfzhE59k/view",
+   "abstract": null
+  },
+  {
+   "title": "Long Run Risks and Risk Compensation in Equity Markets",
+   "authors": [
+    "Ravi Bansal"
+   ],
+   "year": 2006,
+   "venue": "Handbook of Investments: Equity Risk Premium (ed. Rajnish Mehra), North Holland",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Interpretable Asset Markets?",
+   "authors": [
+    "Ravi Bansal",
+    "Varoujan Khatchatrian",
+    "Amir Yaron"
+   ],
+   "year": 2005,
+   "venue": "European Economic Review",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Consumption, Dividends, and the Cross-Section of Equity Returns",
+   "authors": [
+    "Ravi Bansal",
+    "Robert Dittmar",
+    "Christian Lundblad"
+   ],
+   "year": 2005,
+   "venue": "Journal of Finance",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Regime Shifts, Risk Premiums in the Term Structure, and the Business Cycle",
+   "authors": [
+    "Ravi Bansal",
+    "George Tauchen",
+    "Hao Zhou"
+   ],
+   "year": 2004,
+   "venue": "Journal of Business and Economic Statistics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Risks for the Long Run: A Potential Resolution of Asset Pricing Puzzles",
+   "authors": [
+    "Ravi Bansal",
+    "Amir Yaron"
+   ],
+   "year": 2004,
+   "venue": "Journal of Finance",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Term Structure of Interest Rates with Regime Shifts",
+   "authors": [
+    "Ravi Bansal",
+    "Hao Zhou"
+   ],
+   "year": 2002,
+   "venue": "Journal of Finance",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Market Efficiency, Asset Returns, and the Size of the Risk Premium in Global Equity Markets",
+   "authors": [
+    "Ravi Bansal",
+    "Christian Lundblad"
+   ],
+   "year": 2002,
+   "venue": "Journal of Econometrics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Forward Premium Puzzle: Different Tales from Developed and Emerging Economies",
+   "authors": [
+    "Ravi Bansal",
+    "Magnus Dahlquist"
+   ],
+   "year": 2000,
+   "venue": "Journal of International Economics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Growth-Optimal Portfolio Restrictions on Asset Pricing Models",
+   "authors": [
+    "Ravi Bansal",
+    "Bruce Lehmann"
+   ],
+   "year": 1997,
+   "venue": "Macroeconomic Dynamics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "An Exploration of the Forward Premium Puzzle in Currency Markets",
+   "authors": [
+    "Ravi Bansal"
+   ],
+   "year": 1997,
+   "venue": "Review of Financial Studies",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A Monetary Explanation of the Equity Premium, Term Premium, and the Risk-Free Rate Puzzles",
+   "authors": [
+    "Ravi Bansal",
+    "John Coleman"
+   ],
+   "year": 1996,
+   "venue": "Journal of Political Economy",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Nonparametric Estimation of Structural Models for High-Frequency Currency Market Data",
+   "authors": [
+    "Ravi Bansal",
+    "Ronald Gallant",
+    "Robert Hussey",
+    "George Tauchen"
+   ],
+   "year": 1995,
+   "venue": "Journal of Econometrics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Computational Aspects of Nonparametric Simulation Estimation",
+   "authors": [
+    "Ravi Bansal",
+    "Ronald Gallant",
+    "Robert Hussey",
+    "George Tauchen"
+   ],
+   "year": 1994,
+   "venue": "Computational Techniques for Econometrics and Economic Analysis (Kluwer)",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A New Approach to International Arbitrage Pricing",
+   "authors": [
+    "Ravi Bansal",
+    "David Hsieh",
+    "S. Viswanathan"
+   ],
+   "year": 1993,
+   "venue": "Journal of Finance",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "No Arbitrage and Arbitrage Pricing: A New Approach",
+   "authors": [
+    "Ravi Bansal",
+    "S. Viswanathan"
+   ],
+   "year": 1993,
+   "venue": "Journal of Finance",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  }
+ ]
+}

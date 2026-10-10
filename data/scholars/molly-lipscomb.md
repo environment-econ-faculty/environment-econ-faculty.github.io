@@ -4,6 +4,8 @@
 学校: University of Virginia
 职称: 副教授
 头衔: Associate Professor of Public Policy and Economics, Batten School; Director, Center for Social Innovation; (secondary) Department of Economics
+单位: Associate Professor of Public Policy and Economics, Batten School
+单位类型: 公共政策
 聘任类型: 外系挂靠
 领域层级: 领域之一
 研究方向: 环境; 污染与健康; 水资源; 能源; 土地利用

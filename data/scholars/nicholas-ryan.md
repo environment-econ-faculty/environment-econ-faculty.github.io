@@ -4,6 +4,8 @@
 学校: Yale University
 职称: 副教授
 头衔: Associate Professor of Economics
+单位: Department of Economics
+单位类型: 经济系
 聘任类型: 经济系
 领域层级: 核心领域
 研究方向: 能源; 环境; 污染与健康; 气候; 水资源

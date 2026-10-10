@@ -4,6 +4,8 @@
 学校: University of Texas at Austin
 职称: 正教授
 头衔: Professor, LBJ School of Public Affairs and Department of Economics (by courtesy)
+单位: Professor, LBJ School of Public Affairs and Department of Economics (by courtesy)
+单位类型: 公共政策
 聘任类型: 外系挂靠
 领域层级: 核心领域
 研究方向: 环境; 污染与健康

@@ -1,0 +1,493 @@
+{
+ "slug": "bard-harstad",
+ "name": "Bård Harstad",
+ "sources": [
+  "https://www.gsb.stanford.edu/faculty-research/faculty/bard-harstad",
+  "https://www.econometricsociety.org/images/users/2983/originals/Curriculum-Vitae.pdf"
+ ],
+ "collected": "2026-10-10",
+ "notes": "Stanford GSB profile (homepage given) plus January 2026 CV for handbook chapters and extra working papers. No abstracts shown. Book review (JEL 2015) skipped. 'Informative Activism vs. Lobbying' (GSB page, 2021) kept as working paper; CV lists it only as work in progress.",
+ "papers": [
+  {
+   "title": "Complementary Climate Policies for Supply and Demand",
+   "authors": [
+    "Bård Harstad",
+    "Geir B. Asheim"
+   ],
+   "year": 2026,
+   "venue": "AER: Insights (forthcoming)",
+   "status": "即将发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Contingent Trade Agreements: Linking Free Trade and Environmental Conservation",
+   "authors": [
+    "Bård Harstad"
+   ],
+   "year": 2026,
+   "venue": "Economic Journal (forthcoming)",
+   "status": "即将发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Gas Trap: Outcompeting Coal vs. Renewables",
+   "authors": [
+    "Bård Harstad",
+    "Katinka Holtsmark"
+   ],
+   "year": 2026,
+   "venue": "Journal of Political Economy",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Present Bias in Politics and Self-Committing Treaties",
+   "authors": [
+    "Bård Harstad",
+    "Anke Kessler"
+   ],
+   "year": 2025,
+   "venue": "Journal of Public Economics 246",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Trade and Trees",
+   "authors": [
+    "Bård Harstad"
+   ],
+   "year": 2024,
+   "venue": "American Economic Review: Insights 6(2): 155-175",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Contracts and Induced Institutional Change",
+   "authors": [
+    "Bård Harstad",
+    "Torben K. Mideksa"
+   ],
+   "year": 2024,
+   "venue": "Journal of Law, Economics, and Organization 40(1): 1-33",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Conservation Multiplier",
+   "authors": [
+    "Bård Harstad"
+   ],
+   "year": 2023,
+   "venue": "Journal of Political Economy 131(7): 1731-1771",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Pledge-and-Review Bargaining: from Kyoto to Paris",
+   "authors": [
+    "Bård Harstad"
+   ],
+   "year": 2023,
+   "venue": "The Economic Journal 133(651): 1181-1216",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Certifier for the Long Run",
+   "authors": [
+    "Bård Harstad",
+    "Jacopo Bizzotto"
+   ],
+   "year": 2023,
+   "venue": "International Journal of Industrial Organization 87",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Pledge-And-Review Bargaining",
+   "authors": [
+    "Bård Harstad"
+   ],
+   "year": 2023,
+   "venue": "Journal of Economic Theory 207",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Prices vs. Quantities for Self-Enforcing Agreements",
+   "authors": [
+    "Bård Harstad",
+    "Francesco Lancia",
+    "Alessia Russo"
+   ],
+   "year": 2022,
+   "venue": "Journal of Environmental Economics and Management 111",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Technology and Time Inconsistency",
+   "authors": [
+    "Bård Harstad"
+   ],
+   "year": 2020,
+   "venue": "Journal of Political Economy 128(7)",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Political Economy of Weak Treaties",
+   "authors": [
+    "Bård Harstad",
+    "Marco Battaglini"
+   ],
+   "year": 2020,
+   "venue": "Journal of Political Economy 128(2)",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Gridlock and Inefficient Policy Instruments",
+   "authors": [
+    "Bård Harstad",
+    "David Austen-Smith",
+    "Wioletta Dziuda",
+    "Antoine Loeper"
+   ],
+   "year": 2019,
+   "venue": "Theoretical Economics 14(4): 1483-1534",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Case for a Supply-Side Climate Treaty",
+   "authors": [
+    "Bård Harstad",
+    "Geir B. Asheim",
+    "Taran Fæhn",
+    "Karine Nyborg",
+    "Mads Greaker",
+    "Cathrine Hagem",
+    "Michael O. Hoel",
+    "Diderik Lund",
+    "Knut Einar Rosendahl"
+   ],
+   "year": 2019,
+   "venue": "Science 365(6451): 325-327",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Compliance Technology and Self-Enforcing Agreements",
+   "authors": [
+    "Bård Harstad",
+    "Francesco Lancia",
+    "Alessia Russo"
+   ],
+   "year": 2019,
+   "venue": "Journal of the European Economic Association 17(1): 1-29",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Conservation Contracts and Political Regimes",
+   "authors": [
+    "Bård Harstad",
+    "Torben K. Mideksa"
+   ],
+   "year": 2017,
+   "venue": "Review of Economic Studies 84(4): 1708-1734",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Private Politics and Public Regulation",
+   "authors": [
+    "Bård Harstad",
+    "Georgy Egorov"
+   ],
+   "year": 2017,
+   "venue": "Review of Economic Studies 84(4): 1652-1682",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Market for Conservation and Other Hostages",
+   "authors": [
+    "Bård Harstad"
+   ],
+   "year": 2016,
+   "venue": "Journal of Economic Theory 166: 124-151",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Dynamics of Climate Agreements",
+   "authors": [
+    "Bård Harstad"
+   ],
+   "year": 2016,
+   "venue": "Journal of the European Economic Association 14(3): 719-752",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Participation and Duration of Environmental Agreements",
+   "authors": [
+    "Bård Harstad",
+    "Marco Battaglini"
+   ],
+   "year": 2016,
+   "venue": "Journal of Political Economy 124(1)",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Experimentation in Federal Systems",
+   "authors": [
+    "Bård Harstad",
+    "Steven Callander"
+   ],
+   "year": 2015,
+   "venue": "Quarterly Journal of Economics 130(2): 951-1002",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Climate Contracts: A Game of Emissions, Investments, Negotiations, and Renegotiations",
+   "authors": [
+    "Bård Harstad"
+   ],
+   "year": 2012,
+   "venue": "Review of Economic Studies 79(4): 1527-1557",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Buy Coal! A Case for Supply-Side Environmental Policy",
+   "authors": [
+    "Bård Harstad"
+   ],
+   "year": 2012,
+   "venue": "Journal of Political Economy 120(1)",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Bribes, Lobbying, and Development",
+   "authors": [
+    "Bård Harstad",
+    "Jakob Svensson"
+   ],
+   "year": 2011,
+   "venue": "American Political Science Review 105(1): 46-63",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Trading for the Future: Signaling in Permit Markets",
+   "authors": [
+    "Bård Harstad",
+    "Gunnar S. Eskeland"
+   ],
+   "year": 2010,
+   "venue": "Journal of Public Economics 94(9-10): 749-760",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Strategic Delegation and Voting Rules",
+   "authors": [
+    "Bård Harstad"
+   ],
+   "year": 2010,
+   "venue": "Journal of Public Economics 94(1): 102-113",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Do Side Payments Help? Collective Decisions and Strategic Delegation",
+   "authors": [
+    "Bård Harstad"
+   ],
+   "year": 2008,
+   "venue": "Journal of the European Economic Association 6(2-3): 468-477",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Organizational Form and the Market for Talent",
+   "authors": [
+    "Bård Harstad"
+   ],
+   "year": 2007,
+   "venue": "Journal of Labor Economics 25(3): 581-611",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Harmonization and Side Payments in Political Cooperation",
+   "authors": [
+    "Bård Harstad"
+   ],
+   "year": 2007,
+   "venue": "American Economic Review 97(3): 871-889",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Flexible Integration? Mandatory and Minimum Participation Rules",
+   "authors": [
+    "Bård Harstad"
+   ],
+   "year": 2006,
+   "venue": "Scandinavian Journal of Economics 108(4): 683-702",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Majority Rules and Incentives",
+   "authors": [
+    "Bård Harstad"
+   ],
+   "year": 2005,
+   "venue": "Quarterly Journal of Economics 120(4): 1535-1568",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Conservation by Lending",
+   "authors": [
+    "Bård Harstad",
+    "Kjetil Storesletten"
+   ],
+   "year": 2025,
+   "venue": null,
+   "status": "工作论文",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Improving Tropical Forest Financing",
+   "authors": [
+    "Bård Harstad"
+   ],
+   "year": 2025,
+   "venue": null,
+   "status": "工作论文",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Informative Activism vs. Lobbying",
+   "authors": [
+    "Bård Harstad",
+    "Georgy Egorov"
+   ],
+   "year": 2021,
+   "venue": null,
+   "status": "工作论文",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Politics of Global Public Goods",
+   "authors": [
+    "Bård Harstad"
+   ],
+   "year": 2025,
+   "venue": "Handbook of Political Economy (eds. Acemoglu and Robinson), Elsevier",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "On International Cooperation",
+   "authors": [
+    "Bård Harstad"
+   ],
+   "year": 2024,
+   "venue": "Handbook of the Economics of Climate Change, Vol. 1 (eds. Barrage and Hsiang), Elsevier",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Improving Paris: Credibility, Technology, and Conservation",
+   "authors": [
+    "Bård Harstad"
+   ],
+   "year": 2017,
+   "venue": "Coping with the Climate Crisis, Columbia University Press",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Political Treaties as Incomplete Contracts",
+   "authors": [
+    "Bård Harstad"
+   ],
+   "year": 2016,
+   "venue": "The Impact of Incomplete Contracts on Economics, Oxford University Press, 321-331",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Games and Resources",
+   "authors": [
+    "Bård Harstad",
+    "Matti Liski"
+   ],
+   "year": 2013,
+   "venue": "Encyclopedia of Energy, Natural Resource, and Environmental Economics, 299-308",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "How to Negotiate and Update Climate Agreements",
+   "authors": [
+    "Bård Harstad"
+   ],
+   "year": 2009,
+   "venue": "Post-Kyoto International Climate Policy, Cambridge University Press, 273-299",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  }
+ ]
+}

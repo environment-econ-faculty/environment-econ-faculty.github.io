@@ -4,6 +4,8 @@
 学校: Duke University
 职称: 正教授
 头衔: George M. Woodwell Distinguished Professor of Environmental Economics
+单位: George M. Woodwell Distinguished Professor of Environmental Economics
+单位类型: 环境学院
 聘任类型: 外系挂靠
 领域层级: 核心领域
 研究方向: 自然资源; 环境; 气候; 其他

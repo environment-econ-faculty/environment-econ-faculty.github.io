@@ -4,6 +4,8 @@
 学校: Yale University
 职称: 正教授
 头衔: Jerome Kasoff '54 Professor of Management and Economics
+单位: Department of Economics
+单位类型: 经济系
 聘任类型: 合聘
 领域层级: 领域之一
 研究方向: 环境; 污染与健康; 能源; 水资源; 土地利用; 气候

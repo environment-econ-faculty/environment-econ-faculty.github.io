@@ -4,6 +4,8 @@
 学校: University of Texas at Austin
 职称: 助理教授
 头衔: Assistant Professor of Business, Government and Society (McCombs) and Assistant Professor (by courtesy) of Economics
+单位: Assistant Professor of Business, Government and Society (McCombs) and Assistant Professor (by courtesy) of Economics
+单位类型: 商学院
 聘任类型: 外系挂靠
 领域层级: 核心领域
 研究方向: 环境; 能源; 气候; 水资源

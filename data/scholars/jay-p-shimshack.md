@@ -4,6 +4,8 @@
 学校: University of Virginia
 职称: 正教授
 头衔: Professor of Public Policy and Economics, Frank Batten School of Leadership and Public Policy; Department of Economics (by courtesy); Associate Dean for Academic Affairs
+单位: Professor of Public Policy and Economics, Frank Batten School of Leadership and Public Policy
+单位类型: 公共政策
 聘任类型: 外系挂靠
 领域层级: 核心领域
 研究方向: 环境; 污染与健康; 水资源

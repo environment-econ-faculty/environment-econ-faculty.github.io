@@ -1,0 +1,202 @@
+{
+ "slug": "allan-hsiao",
+ "name": "Allan Hsiao",
+ "sources": [
+  "https://www.allanhsiao.com/",
+  "https://www.allanhsiao.com/files/Hsiao_CV.pdf"
+ ],
+ "collected": "2026-10-10",
+ "notes": "Homepage and CV agree. No abstracts on homepage. Included the VoxDevLit survey and Nature Climate Change piece listed under 'Surveys'; skipped 'Social Safety Nets in Africa' (World Bank report). Working paper years not shown.",
+ "papers": [
+  {
+   "title": "Sea Level Rise and Urban Adaptation in Jakarta",
+   "authors": [
+    "Allan Hsiao"
+   ],
+   "year": null,
+   "venue": "Revise & Resubmit, Econometrica",
+   "status": "修改重投",
+   "url": "https://www.allanhsiao.com/files/Hsiao_jakarta.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Critical Minerals, Geopolitics, and the Green Transition",
+   "authors": [
+    "Allan Hsiao",
+    "Tomás Domínguez-Iino",
+    "Jonathan Elliott"
+   ],
+   "year": null,
+   "venue": null,
+   "status": "工作论文",
+   "url": "https://www.allanhsiao.com/files/DEH_minerals.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Climate Change, Deforestation, and the Expansion of the Global Agricultural Frontier",
+   "authors": [
+    "Allan Hsiao",
+    "Jacob Moscona",
+    "Benjamin Olken",
+    "Karthik Sastry"
+   ],
+   "year": null,
+   "venue": null,
+   "status": "工作论文",
+   "url": "https://www.allanhsiao.com/files/HMOS_forest.pdf",
+   "abstract": null
+  },
+  {
+   "title": "The Global Effects of Carbon Border Adjustment Mechanisms",
+   "authors": [
+    "Allan Hsiao",
+    "Kimberly Clausing",
+    "Jonathan Colmer",
+    "Catherine Wolfram"
+   ],
+   "year": null,
+   "venue": null,
+   "status": "工作论文",
+   "url": "https://www.allanhsiao.com/files/CCHW_cbam.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Educational Investment in Spatial Equilibrium: Evidence from Indonesia",
+   "authors": [
+    "Allan Hsiao"
+   ],
+   "year": null,
+   "venue": null,
+   "status": "工作论文",
+   "url": "https://www.allanhsiao.com/files/Hsiao_schools.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Democratization and Infrastructure Investment: Evidence from Healthcare in Indonesia",
+   "authors": [
+    "Allan Hsiao"
+   ],
+   "year": null,
+   "venue": null,
+   "status": "工作论文",
+   "url": "https://www.allanhsiao.com/files/Hsiao_hospitals.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Coordination and Commitment in International Climate Action: Evidence from Palm Oil",
+   "authors": [
+    "Allan Hsiao"
+   ],
+   "year": 2026,
+   "venue": "Econometrica (lead article)",
+   "status": "已发表",
+   "url": "https://www.allanhsiao.com/files/Hsiao_palmoil.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Food Policy in a Warming World",
+   "authors": [
+    "Allan Hsiao",
+    "Jacob Moscona",
+    "Karthik Sastry"
+   ],
+   "year": 2026,
+   "venue": "Econometrica",
+   "status": "已发表",
+   "url": "https://www.allanhsiao.com/files/HMS_foodpolicy.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Climate Crisis and Policy Inaction in Indonesia",
+   "authors": [
+    "Allan Hsiao",
+    "Nicholas Kuipers"
+   ],
+   "year": 2026,
+   "venue": "American Journal of Political Science",
+   "status": "已发表",
+   "url": "https://www.allanhsiao.com/files/HK_inaction.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Building a Scalable Climate Coalition for Heavy Industry",
+   "authors": [
+    "Catherine Wolfram",
+    "Allan Hsiao",
+    "Joseph Aldy",
+    "Candido Bracher",
+    "Gregory Casey",
+    "Vaibhav Chaturvedi",
+    "Kimberly Clausing",
+    "Carolyn Fischer",
+    "Christian Gollier",
+    "Frank Jotzo",
+    "Marcelo Medeiros",
+    "Kyle Meng",
+    "Athiphat Muthitacharoen",
+    "Axel Ockenfels",
+    "Mari Pangestu",
+    "Marilyn Pereboom",
+    "Arathi Rao",
+    "Ivan Rudik",
+    "Daouda Sembene",
+    "Naomi Shimberg",
+    "E. Somanathan",
+    "Dustin Tingley",
+    "Jennifer Winter"
+   ],
+   "year": 2026,
+   "venue": "Science",
+   "status": "已发表",
+   "url": "https://www.allanhsiao.com/files/science_coalition.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Sea Level Rise and Urban Infrastructure",
+   "authors": [
+    "Allan Hsiao"
+   ],
+   "year": 2025,
+   "venue": "AEA Papers and Proceedings",
+   "status": "已发表",
+   "url": "https://www.allanhsiao.com/files/Hsiao_suds.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Sea Level Rise and Urban Inequality",
+   "authors": [
+    "Allan Hsiao"
+   ],
+   "year": 2024,
+   "venue": "AEA Papers and Proceedings",
+   "status": "已发表",
+   "url": "https://www.allanhsiao.com/files/Hsiao_inequality.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Deforestation",
+   "authors": [
+    "Allan Hsiao",
+    "Francisco Costa",
+    "Heitor Pellegrina",
+    "Eduardo Souza-Rodrigues"
+   ],
+   "year": 2025,
+   "venue": "VoxDevLit",
+   "status": "已发表",
+   "url": "https://www.allanhsiao.com/files/CHPS_forest.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Coastal Investment in the Age of Climate Change",
+   "authors": [
+    "Allan Hsiao"
+   ],
+   "year": 2025,
+   "venue": "Nature Climate Change",
+   "status": "已发表",
+   "url": "https://www.allanhsiao.com/files/Hsiao_coast.pdf",
+   "abstract": null
+  }
+ ]
+}

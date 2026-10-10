@@ -1,0 +1,1158 @@
+{
+ "slug": "nicholas-z-muller",
+ "name": "Nicholas Z. Muller",
+ "sources": [
+  "https://public.tepper.cmu.edu/nmuller/publications",
+  "https://public.tepper.cmu.edu/nmuller/working-papers"
+ ],
+ "collected": "2026-10-10",
+ "notes": "Homepage (Tepper faculty site, Pure-style database) publications + working-papers lists and each item's detail page. Co-author names are given in abbreviated form (e.g., 'Jha A') as on the site. Removed misattributed items (InSight Mars mission papers, Parry 'Issues of the Day'), errata, comments/replies, a conference abstract, a magazine piece, exact duplicates, and SSRN/NBER/WP versions of papers later published. Abstracts appear only for items where the site shows one. No CV link provided.",
+ "papers": [
+  {
+   "title": "CLIMATE POLICY, AIR POLLUTION IMPACTS, AND THE DISTRIBUTION OF INCOME",
+   "authors": [
+    "Nicholas Z. Muller",
+    "Adams P",
+    "Dennin LR",
+    "Jaramillo P",
+    "Jordan K"
+   ],
+   "year": 2026,
+   "venue": "Climate Change Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1142/S2010007826400063",
+   "abstract": null
+  },
+  {
+   "title": "Polluting Public Funds: The Effect of Environmental Regulations on Municipal Bonds",
+   "authors": [
+    "Jha A",
+    "Karolyi SA",
+    "Nicholas Z. Muller"
+   ],
+   "year": 2026,
+   "venue": "Management science",
+   "status": "已发表",
+   "url": "https://doi.org/10.1287/mnsc.2023.02340",
+   "abstract": "We present two findings on how environmental policy uncertainty impacts municipal bond returns. First, yields increase after a new pollution standard is proposed but decrease after this standard is finalized. Second, after annual announcements of compliance status, yields fall for counties that remain in compliance but increase for newly noncompliant counties. We present suggestive evidence linking these short-run municipal bond market reactions to long-run changes in pollution and housing prices. Our findings suggest that increases in either regulatory stringency or uncertainty over future environmental policy increase the cost of municipal debt raised to fund schools, hospitals, and critical infrastructure."
+  },
+  {
+   "title": "An Evaluation of Reduced-Complexity Models of Air Quality Over Historical, Policy-Relevant PM2.5 Concentration Changes",
+   "authors": [
+    "Johnson K",
+    "Hill J",
+    "Marshall JD",
+    "Nicholas Z. Muller",
+    "Tessum C",
+    "Hernandez C",
+    "Dinkelacker B",
+    "Adams P"
+   ],
+   "year": 2026,
+   "venue": "SSRN Working Paper",
+   "status": "工作论文",
+   "url": "https://doi.org/10.2139/ssrn.7198280",
+   "abstract": "Chronic exposure to fine particulate matter (PM2.5) has been linked to increased mortality rates. Chemical transport models (CTMs) are often used to evaluate PM2.5 regulations in the United States, but are computationally expensive and require significant technical expertise. Reduced-complexity models (RCMs) for PM2.5 are computationally-efficient air quality models designed to estimate ambient PM2.5 concentrations attributable to emissions of PM2.5 and PM2.5-precursors. We evaluate the ability of three widely-used RCMs (AP3, EASIUR, and InMAP) to reproduce changes in PM2.5 concentrations during 1990-2010. Compared to changes in observed, speciated PM2.5 concentrations, RCMs demonstrated strong correlation (R=0.61–0.66) and low mean error (0.84–1.03 μg m-3), performing comparably to a CTM (R=0.72, error=0.74 μg m-3). Most RCM applications assume that concentrations respond linearly to emissions; over the 20-year period investigated, during which most PM2.5 precursor emissions declined ~37–65%, we find only modest evidence of nonlinearities. These findings support the use of RCMs for many policy analysis and other applications for which the slight loss of accuracy compared to CTMs is tolerable, especially given RCM benefits. Common benefits of RCMs include increased computational efficiency and accessibility of air pollution modeling."
+  },
+  {
+   "title": "Intended and Unintended Consequences of Facility-Level Mandatory CSR Disclosure: Evidence from the Greenhouse Gas Reporting Program",
+   "authors": [
+    "Liang PJ",
+    "Nicholas Z. Muller",
+    "Yin L"
+   ],
+   "year": 2026,
+   "venue": "Journal of Accounting, Auditing and Finance",
+   "status": "已发表",
+   "url": "https://doi.org/10.1177/0148558X251413807",
+   "abstract": "We study the real effects of the first nationwide mandatory CSR disclosure regulation in the U.S., the Greenhouse Gas Reporting Program (GHGRP). Starting in 2010, the Environmental Protection Agency (EPA) requires the disclosure of greenhouse gas emissions by facilities emitting more than 25,000 metric tons of CO2 per year. We construct a novel set of emission data on power plants around the regulation to examine the causal effects of GHGRP in the utility industry. Using a difference-in-difference research design, we find that while as intended by the policy power plants that are subject to the GHGRP reduced carbon dioxide emission rates by 7%, the reduction in emission no longer holds at the firm level. Specifically, we detect evidence of strategic behavior by firms that own both GHGRP plants and non-GHGRP plants. Presumably unintended by the policy, such firms strategically reallocate emissions between plants to reduce GHGRP-disclosed emissions. This evidence suggests that the reporting program is costly to the affected firms which reacted both positively towards the policy objectives and also somewhat negatively at the same time, not as intended by the policymakers. We also provide evidence of a stronger reduction in plant emissions by publicly traded firms, which is consistent with prior literature supporting shareholder pressure as a primary channel through which mandatory Corporate Social Responsibility (CSR) reporting programs affect firm behavior."
+  },
+  {
+   "title": "Firewood in the American Economy: 1700 to 2010",
+   "authors": [
+    "Nicholas Z. Muller"
+   ],
+   "year": 2025,
+   "venue": "SSRN Working Paper",
+   "status": "工作论文",
+   "url": "https://doi.org/10.2139/ssrn.5330835",
+   "abstract": "Despite the central role of firewood in the development of the early American economy, prices for this energy fuel are absent from official government statistics and the scholarly literature. This paper presents the most comprehensive dataset of firewood prices in the United States compiled to date, encompassing over 6,000 price quotes from 1700 to 2010. Between 1700 and 2010, real firewood prices increased by between 0.2% and 0.4%, annually, and from 1800 to the Civil War, real prices increased especially rapidly, between 0.7% and 1% per year. Rising firewood prices and falling coal prices led to the transition to coal as the primary energy fuel. Between 1860 and 1890, the income elasticity for firewood switched from 0.5 to -0.5. Beginning in the last decade of the 18th century, firewood output increased from about 18% of GDP to just under 30% of GDP in the 1830s. The value of firewood fell to less than 5% of GDP by the 1880s. Prior estimates of firewood output in the 19th century significantly underestimated its value. Finally, incorporating the new estimates of firewood output into agricultural production leads to higher estimates of agricultural productivity growth prior to 1860 than previously reported in the literature."
+  },
+  {
+   "title": "Marginal abatement costs for greenhouse gas emissions in the United States using an energy systems approach",
+   "authors": [
+    "Blackhurst M",
+    "Venkatesh A",
+    "Sinha A",
+    "Jordan K",
+    "Nicholas Z. Muller",
+    "Wade C",
+    "Johnson JX",
+    "Jaramillo P"
+   ],
+   "year": 2025,
+   "venue": "Environmental Research: Energy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1088/2753-3751/adb588",
+   "abstract": "Deep decarbonization requires fundamental changes in meeting energy service demands, with some efforts increasing overall costs. Examining abatement measures in isolation, however, fails to capture their interactive effects within the energy system. Here we show the abatement costs of decarbonization in the United States using an energy system optimization model to capture technological interactions, multi-decadal path dependence, and endogenous end-use technology selection. Energy-system-wide net-zero CO2-eq emissions are achieved in 2050 at a cost under $400 per tonne CO2-eq, led by emissions reductions in power generation, end-use electrification of ground transportation, space heating, and some industrial applications. Differences in mitigation costs and CO2 geological storage potential lead to regional heterogeneities in mitigation rates and residual emissions. The marginal abatement cost curves show that additional decarbonization comes at higher incremental costs, this cost penalty decreases over time, and substantially greater abatement occurs in future time periods at the same abatement cost."
+  },
+  {
+   "title": "Socially vulnerable communities face disproportionate exposure and susceptibility to US wildfire and prescribed burn smoke",
+   "authors": [
+    "Dennin LR",
+    "Nock D",
+    "Nicholas Z. Muller",
+    "Akindele M",
+    "Adams PJ"
+   ],
+   "year": 2025,
+   "venue": "Communications Earth & Environment",
+   "status": "已发表",
+   "url": "https://doi.org/10.1038/s43247-025-02100-y",
+   "abstract": null
+  },
+  {
+   "title": "The Role of Hydrogen in Decarbonizing US Iron and Steel Production",
+   "authors": [
+    "Jordan KH",
+    "Jaramillo P",
+    "Karplus VJ",
+    "Adams PJ",
+    "Nicholas Z. Muller"
+   ],
+   "year": 2025,
+   "venue": "Environmental Science and Technology",
+   "status": "已发表",
+   "url": "https://doi.org/10.1021/acs.est.4c05756",
+   "abstract": null
+  },
+  {
+   "title": "Geographic Resolution in Environmental Policy: EPA's Shift from Regions to Counties Under the Clean Air Act",
+   "authors": [
+    "Cropper M",
+    "Hu M",
+    "Park Y",
+    "Nicholas Z. Muller"
+   ],
+   "year": 2025,
+   "venue": "SSRN Working Paper",
+   "status": "工作论文",
+   "url": "https://doi.org/10.2139/ssrn.5122129",
+   "abstract": "A large literature uses nonattainment status under the U.S. Clean Air Act (CAA) to measure regulatory stringency and to instrument for air pollution in studies of the impact of the CAA on health and other endpoints. Since 1978 U.S. Environmental Protection Agency (EPA) has regulated ambient air quality at the county level; however, prior to 1978 nonattainment status was imposed on Air Quality Control Regions, contiguous counties that comprise an airshed. This is not the definition of nonattainment used in the literature. Using county-level data, we examine the impacts of EPA’s definition of nonattainment status for TSP, CO, ozone, and SO2 in 1972 on ambient air quality and manufacturing employment between 1969 and 1976 and EPA’s definition of nonattainment in 1978 on air quality and manufacturing employment between 1975 and 1988. Nonattainment status in 1972 had no significant impact on either ambient TSP or on the ratio of dirty manufacturing to total employment between 1969 and 1976. We do, however, find significant impacts on ambient TSP using 1978 nonattainment status, and significant impacts of TSP, CO, ozone and SO2 nonattainment in 1978 on the fraction of employment in dirty manufacturing industries from 1975 to 1988. We discuss the implications of these findings for EPA’s decision regarding the geographic level at which to regulate air pollution."
+  },
+  {
+   "title": "Funding a Just Transition Away from Coal in the U.S. Considering Avoided Damage from Air Pollution",
+   "authors": [
+    "Dennin LR",
+    "Nicholas Z. Muller"
+   ],
+   "year": 2025,
+   "venue": "Journal of Benefit-Cost Analysis",
+   "status": "已发表",
+   "url": "https://doi.org/10.1017/bca.2024.20",
+   "abstract": null
+  },
+  {
+   "title": "Measuring and Accounting for Environmental Public Goods A National Accounts Perspective",
+   "authors": [
+    "Nicholas Z. Muller",
+    "Fenichel EP",
+    "Bohman M"
+   ],
+   "year": 2025,
+   "venue": null,
+   "status": "已发表",
+   "url": "https://public.tepper.cmu.edu/nmuller/publications/measuring-and-accounting-for-environmental-public-goods-a-national-accounts-perspective",
+   "abstract": "This volume examines the conceptual and empirical basis for integrating natural capital--forests, oceans, and air--into the economic and environmental statistics that inform public policy."
+  },
+  {
+   "title": "Climate Policy Reduces Racial Disparities in Air Pollution from Transportation and Power Generation",
+   "authors": [
+    "Jordan KH",
+    "Dennin LR",
+    "Adams PJ",
+    "Jaramillo P",
+    "Nicholas Z. Muller"
+   ],
+   "year": 2024,
+   "venue": "Environmental Science and Technology",
+   "status": "已发表",
+   "url": "https://doi.org/10.1021/acs.est.4c03719",
+   "abstract": null
+  },
+  {
+   "title": "Measuring global monetary damages from particulate matter and carbon dioxide emissions to track sustainable growth",
+   "authors": [
+    "Mohan A",
+    "Nicholas Z. Muller",
+    "Thyagarajan A",
+    "Martin RV",
+    "Hammer MS",
+    "Donkelaar AV"
+   ],
+   "year": 2024,
+   "venue": "Communications Earth & Environment",
+   "status": "已发表",
+   "url": "https://doi.org/10.1038/s43247-024-01426-3",
+   "abstract": null
+  },
+  {
+   "title": "Productivity and the Environmental Accounts",
+   "authors": [
+    "Nicholas Z. Muller"
+   ],
+   "year": 2024,
+   "venue": null,
+   "status": "已发表",
+   "url": "https://public.tepper.cmu.edu/nmuller/publications/productivity-and-the-environmental-accounts",
+   "abstract": null
+  },
+  {
+   "title": "The impact of the clean air act on particulate matter in the 1970s",
+   "authors": [
+    "Cropper M",
+    "Nicholas Z. Muller",
+    "Park Y",
+    "Perez-Zetune V"
+   ],
+   "year": 2023,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jeem.2023.102867",
+   "abstract": null
+  },
+  {
+   "title": "Closing the Gap: Achieving U.S. climate goals beyond the Inflation Reduction Act",
+   "authors": [
+    "Jordan K",
+    "Adams P",
+    "Jaramillo P",
+    "Nicholas Z. Muller"
+   ],
+   "year": 2023,
+   "venue": "Renewable and Sustainable Energy Transition",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.rset.2023.100065",
+   "abstract": null
+  },
+  {
+   "title": "Distributional Weights in Economic Analysis",
+   "authors": [
+    "Hahn RW",
+    "Nicholas Z. Muller"
+   ],
+   "year": 2023,
+   "venue": "SSRN Working Paper",
+   "status": "工作论文",
+   "url": "https://doi.org/10.2139/ssrn.4512509",
+   "abstract": "The use of distributional weights in economic analysis is receiving increasing attention in both research and policy circles. This paper examines the extent to which distributional weights affect economic analysis of public good provision. We make two contributions. First, we present a model with distributional weights that allows for marginal benefits and costs of the public good to differ across regions and individual characteristics, such as income or race. Samuelson’s analysis of pure public goods is a special case, as are other cases in which marginal benefits and costs may differ by region when the distributional weights are unity. We show how the provision of a pure public good varies with distributional weights different from unity. Second, we analyze distributional weights in conjunction with the value of a statistical life (VSL). We compare the use of an average VSL with differentiated VSLs. We show when using an average VSL will increase or decrease optimal public goods provision relative to differentiated VSLs for given distributional weights. We also identify conditions under which a low-income group prefers using an average VSL to true VSLs. This depends on the fraction of the costs that the low-income group bears in the provision of the public good."
+  },
+  {
+   "title": "Policy spillovers, technological lock-in, and efficiency gains from regional pollution taxes in the U.S.",
+   "authors": [
+    "Roth MB",
+    "Adams PJ",
+    "Jaramillo P",
+    "Nicholas Z. Muller"
+   ],
+   "year": 2022,
+   "venue": "Energy and Climate Change",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.egycc.2022.100077",
+   "abstract": null
+  },
+  {
+   "title": "War, Influenza, and U.S. Carbon Intensity",
+   "authors": [
+    "Nicholas Z. Muller"
+   ],
+   "year": 2022,
+   "venue": "SSRN Working Paper",
+   "status": "工作论文",
+   "url": "https://doi.org/10.2139/ssrn.4238249",
+   "abstract": "Carbon intensity from fossil fuel use in the United States economy peaked in 1917. World War I ended, and the Spanish Flu pandemic broke out one year later in 1918. This paper contends that these events, coupled with associated turmoil in the domestic coal industry, were largely responsible for the turning point in carbon intensity. It is instructive to consider that geopolitics, labor markets, and public health at the time of peak carbon intensity bear relevance to the global economy from 2019 to the present. Interventions in markets intended to mitigate detrimental consequences of pandemic and war may induce ancillary impacts for long-run climate change and environmental quality."
+  },
+  {
+   "title": "The hidden value of trees: Quantifying the ecosystem services of tree lineages and their major threats across the contiguous US",
+   "authors": [
+    "Cavender-Bares JM",
+    "Nelson E",
+    "Meireles JE",
+    "Lasky JR",
+    "Miteva DA",
+    "Nowak DJ",
+    "Pearse WD",
+    "Helmus MR",
+    "Zanne AE",
+    "Fagan WF"
+   ],
+   "year": 2022,
+   "venue": "PLOS Sustainability and Transformation",
+   "status": "已发表",
+   "url": "https://doi.org/10.1371/journal.pstr.0000010",
+   "abstract": null
+  },
+  {
+   "title": "Greenhouse Gas Estimates of LNG Exports Must Include Global Market Effects",
+   "authors": [
+    "Smillie S",
+    "Nicholas Z. Muller",
+    "Griffin WM",
+    "Apt J"
+   ],
+   "year": 2022,
+   "venue": "Environmental Science and Technology",
+   "status": "已发表",
+   "url": "https://doi.org/10.1021/acs.est.1c04753",
+   "abstract": null
+  },
+  {
+   "title": "The Role of Information in the Market Response to Flood Risk: Hurricane Katrina and the New Jersey Coast",
+   "authors": [
+    "Nicholas Z. Muller",
+    "Hopkins CA"
+   ],
+   "year": 2022,
+   "venue": "SSRN Working Paper",
+   "status": "工作论文",
+   "url": "https://doi.org/10.2139/ssrn.4017205",
+   "abstract": "This study uses hedonic property models to explore how coastal real estate markets subject to heterogeneous information treatments respond to flood risk. We identify reactions to flood risk, distinctly from price effects due to flood damage, by examining non-local flooding events. Utilizing a difference-in-differences methodology, we test whether the coastal real estate market in New Jersey responds to several well-publicized hurricanes that did not strike the Atlantic seaboard. We find that homes in high flood risk zones situated in towns that participate in public flood awareness activities incur a 7 to 16 percent decrease in price after the non-local shock. Further, we show that firms are more responsive to risk information than individuals and that markets exposed to such information are less adversely affected by future disasters."
+  },
+  {
+   "title": "Mortality Risk from PM2.5: A Comparison of Modeling Approaches to Identify Disparities across Racial/Ethnic Groups in Policy Outcomes",
+   "authors": [
+    "Spiller E",
+    "Proville J",
+    "Roy A",
+    "Nicholas Z. Muller"
+   ],
+   "year": 2021,
+   "venue": "Environmental Health Perspectives",
+   "status": "已发表",
+   "url": "https://doi.org/10.1289/EHP9001",
+   "abstract": null
+  },
+  {
+   "title": "Measuring Firm Environmental Performance to Inform Asset Management and Standardized Disclosure",
+   "authors": [
+    "Nicholas Z. Muller"
+   ],
+   "year": 2021,
+   "venue": "SSRN Working Paper",
+   "status": "工作论文",
+   "url": "https://doi.org/10.2139/ssrn.3958641",
+   "abstract": "Investing according to environmental, social, and governance (ESG) criteria is gaining momentum. Most environmental performance indices focus only on the tonnage of carbon dioxide (CO2) emissions. This paper proposes an index covering eight pollutants expressed in monetary damage. Inclusion of multiple pollutants reflects a broader range of reputational and regulatory risks. Monetization appropriately weights emissions. CO2 dominates the mass of other pollutants, yet the marginal damages from other pollutants are larger than CO2. In the U.S. utility sector from 2014 to 2017, indices which only track CO2 mischaracterize firms’ environmental performance and underestimate its effect on financial outcomes relative to the multipollutant index. Dirtier firms exhibit lower share prices and higher forward returns. The effect is twice as large for the multipollutant index compared to CO2. Analysts’ earnings forecasts for dirtier firms systematically undershoot actuals. Earnings errors are between three and five times more sensitive to the multipollutant index than to CO2. The multipollutant index may suggest new management strategies to financial market participants relative to those based on carbon intensity. ESG disclosure standards based on the new index are more likely to affect financial outcomes, capital allocation decisions, and firm behavior than disclosure of carbon intensity."
+  },
+  {
+   "title": "Heterogeneous Solar Capacity Benefits, Appropriability, and the Costs of Suboptimal Siting",
+   "authors": [
+    "Sexton S",
+    "Kirkpatrick AJ",
+    "Harris RI",
+    "Nicholas Z. Muller"
+   ],
+   "year": 2021,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "https://doi.org/10.1086/714970",
+   "abstract": null
+  },
+  {
+   "title": "Expected Health Effects of Reduced Air Pollution from COVID-19 Social Distancing",
+   "authors": [
+    "Cicala S",
+    "Holland SP",
+    "Mansur ET",
+    "Nicholas Z. Muller",
+    "Yates AJ"
+   ],
+   "year": 2021,
+   "venue": "Atmosphere",
+   "status": "已发表",
+   "url": "https://doi.org/10.3390/atmos12080951",
+   "abstract": null
+  },
+  {
+   "title": "Air quality-related health damages of food",
+   "authors": [
+    "Domingo NGG",
+    "Balasubramanian S",
+    "Thakrar SK",
+    "Clark MA",
+    "Adams PJ",
+    "Marshall JD",
+    "Nicholas Z. Muller",
+    "Pandis SN",
+    "Polasky S",
+    "Robinson AL"
+   ],
+   "year": 2021,
+   "venue": "Proceedings of the National Academy of Sciences of the United States of America",
+   "status": "已发表",
+   "url": "https://doi.org/10.1073/pnas.2013637118",
+   "abstract": null
+  },
+  {
+   "title": "On the Green Interest Rate",
+   "authors": [
+    "Nicholas Z. Muller"
+   ],
+   "year": 2021,
+   "venue": "SSRN Working Paper",
+   "status": "工作论文",
+   "url": "https://doi.org/10.2139/ssrn.3965275",
+   "abstract": "This paper demonstrates how a central bank might operationalize an expanded role inclusive of managing risks from environmental pollution. The analysis introduces the green interest rate (rg) which depends on temporal changes in the pollution intensity of output. This policy instrument reallocates consumption from periods when output is pollution intensive to when output is cleaner. In economies on a cleaning-up path, rg exceeds r*. For those growing more polluted, rg is less than r*. In the U.S. economy from 1957 to 2016, rg exceeded r* by 50 basis points. Federal environmental policy reversed the orientation between rg and r*."
+  },
+  {
+   "title": "The environmental benefits of transportation electrification: Urban buses",
+   "authors": [
+    "Holland SP",
+    "Mansur ET",
+    "Nicholas Z. Muller",
+    "Yates AJ"
+   ],
+   "year": 2021,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.enpol.2020.111921",
+   "abstract": null
+  },
+  {
+   "title": "Recent Increases in Air Pollution: Evidence and Implications for Mortality",
+   "authors": [
+    "Clay K",
+    "Nicholas Z. Muller",
+    "Wang X"
+   ],
+   "year": 2021,
+   "venue": "Review of Environmental Economics and Policy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1086/712983",
+   "abstract": null
+  },
+  {
+   "title": "Decompositions and Policy Consequences of an Extraordinary Decline in Air Pollution from Electricity Generation",
+   "authors": [
+    "Holland SP",
+    "Mansur ET",
+    "Nicholas Z. Muller",
+    "Yates AJ"
+   ],
+   "year": 2020,
+   "venue": "American Economic Journal: Economic Policy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1257/pol.20190390",
+   "abstract": null
+  },
+  {
+   "title": "Regional and county flows of particulate matter damage in the US",
+   "authors": [
+    "Sergi B",
+    "Azevedo I",
+    "Davis SJ",
+    "Nicholas Z. Muller"
+   ],
+   "year": 2020,
+   "venue": "Environmental Research Letters",
+   "status": "已发表",
+   "url": "https://doi.org/10.1088/1748-9326/abb429",
+   "abstract": null
+  },
+  {
+   "title": "Reducing Mortality from Air Pollution in the United States by Targeting Specific Emission Sources",
+   "authors": [
+    "Thakrar SK",
+    "Balasubramanian S",
+    "Adams PJ",
+    "Azevedo IML",
+    "Nicholas Z. Muller",
+    "Pandis SN",
+    "Polasky S",
+    "Pope CAIII",
+    "Robinson AL",
+    "Apte JS"
+   ],
+   "year": 2020,
+   "venue": "Environmental Science and Technology Letters",
+   "status": "已发表",
+   "url": "https://doi.org/10.1021/acs.estlett.0c00424",
+   "abstract": null
+  },
+  {
+   "title": "Optimizing Emissions Reductions from the US Power Sector for Climate and Health Benefits",
+   "authors": [
+    "Sergi BJ",
+    "Adams PJ",
+    "Nicholas Z. Muller",
+    "Robinson AL",
+    "Davis SJ",
+    "Marshall JD",
+    "Azevedo IL"
+   ],
+   "year": 2020,
+   "venue": "Environmental Science and Technology",
+   "status": "已发表",
+   "url": "https://doi.org/10.1021/acs.est.9b06936",
+   "abstract": null
+  },
+  {
+   "title": "Near term carbon tax policy in the US Economy: limits to deep decarbonization",
+   "authors": [
+    "Roth MB",
+    "Adams PJ",
+    "Jaramillo P",
+    "Nicholas Z. Muller"
+   ],
+   "year": 2020,
+   "venue": "Environmental Research Communications",
+   "status": "已发表",
+   "url": "https://doi.org/10.1088/2515-7620/ab8616",
+   "abstract": null
+  },
+  {
+   "title": "Quantifying the social equity state of an energy system: environmental and labor market equity of the shale gas boom in Appalachia",
+   "authors": [
+    "Mayfield EN",
+    "Cohon JL",
+    "Nicholas Z. Muller",
+    "Azevedo IML",
+    "Robinson AL"
+   ],
+   "year": 2019,
+   "venue": "Environmental Research Letters",
+   "status": "已发表",
+   "url": "https://doi.org/10.1088/1748-9326/ab59cd",
+   "abstract": null
+  },
+  {
+   "title": "Cumulative environmental and employment impacts of the shale gas boom",
+   "authors": [
+    "Mayfield EN",
+    "Cohon JL",
+    "Nicholas Z. Muller",
+    "Azevedo IML",
+    "Robinson AL"
+   ],
+   "year": 2019,
+   "venue": "Nature Sustainability",
+   "status": "已发表",
+   "url": "https://doi.org/10.1038/s41893-019-0420-1",
+   "abstract": null
+  },
+  {
+   "title": "Fine particulate matter damages and value added in the US economy",
+   "authors": [
+    "Tschofen P",
+    "Azevedo IL",
+    "Nicholas Z. Muller"
+   ],
+   "year": 2019,
+   "venue": "Proceedings of the National Academy of Sciences of the United States of America",
+   "status": "已发表",
+   "url": "https://doi.org/10.1073/pnas.1905030116",
+   "abstract": null
+  },
+  {
+   "title": "An inter-comparison of the social costs of air quality from reduced-complexity models",
+   "authors": [
+    "Gilmore EA",
+    "Heo J",
+    "Nicholas Z. Muller",
+    "Tessum CW",
+    "Hill JD",
+    "Marshall JD",
+    "Adams PJ"
+   ],
+   "year": 2019,
+   "venue": "Environmental Research Letters",
+   "status": "已发表",
+   "url": "https://doi.org/10.1088/1748-9326/ab1ab5",
+   "abstract": null
+  },
+  {
+   "title": "Time Preference and the Great Depression: Evidence from Firewood Prices in Portland, Oregon",
+   "authors": [
+    "Nicholas Z. Muller"
+   ],
+   "year": 2019,
+   "venue": "NBER Working Paper",
+   "status": "工作论文",
+   "url": "https://public.tepper.cmu.edu/nmuller/publications/time-preference-and-the-great-depression-evidence-from-firewood-prices-in-portland-oregon",
+   "abstract": null
+  },
+  {
+   "title": "Hurricane Katrina Floods New Jersey: The Role of Information in the Market Response to Flood Risk",
+   "authors": [
+    "Nicholas Z. Muller",
+    "Hopkins C"
+   ],
+   "year": 2019,
+   "venue": "NBER Working Paper",
+   "status": "工作论文",
+   "url": "https://public.tepper.cmu.edu/nmuller/publications/hurricane-katrina-floods-new-jersey-the-role-of-information-in-the-market-response-to-flood-risk",
+   "abstract": null
+  },
+  {
+   "title": "Market-Based Emissions Regulation When Damages Vary across Sources: What Are the Gains from Differentiation?",
+   "authors": [
+    "Fowlie M",
+    "Nicholas Z. Muller"
+   ],
+   "year": 2019,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "https://doi.org/10.1086/702852",
+   "abstract": null
+  },
+  {
+   "title": "Does Environmental Policy Affect Income Inequality? Evidence from the Clean Air Act",
+   "authors": [
+    "Jha A",
+    "Matthews PH",
+    "Nicholas Z. Muller"
+   ],
+   "year": 2019,
+   "venue": "AEA Papers and Proceedings",
+   "status": "已发表",
+   "url": "https://doi.org/10.1257/pandp.20191062",
+   "abstract": null
+  },
+  {
+   "title": "The derivation of discount rates with an augmented measure of income",
+   "authors": [
+    "Nicholas Z. Muller"
+   ],
+   "year": 2019,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jeem.2019.02.007",
+   "abstract": null
+  },
+  {
+   "title": "Long-Run Environmental Accounting in the U.S. Economy",
+   "authors": [
+    "Nicholas Z. Muller"
+   ],
+   "year": 2019,
+   "venue": "NBER Working Paper",
+   "status": "工作论文",
+   "url": "https://public.tepper.cmu.edu/nmuller/publications/long-run-environmental-accounting-in-the-u-s-economy",
+   "abstract": null
+  },
+  {
+   "title": "Inequity in consumption of goods and services adds to racial-ethnic disparities in air pollution exposure",
+   "authors": [
+    "Tessum CW",
+    "Apte JS",
+    "Goodkind AL",
+    "Nicholas Z. Muller",
+    "Mullins KA",
+    "Paolella DA",
+    "Polasky S",
+    "Springer NP",
+    "Thakrar SK",
+    "Marshall JD"
+   ],
+   "year": 2019,
+   "venue": "Proceedings of the National Academy of Sciences of the United States of America",
+   "status": "已发表",
+   "url": "https://doi.org/10.1073/pnas.1818859116",
+   "abstract": null
+  },
+  {
+   "title": "Distributional Effects of Air Pollution from Electric Vehicle Adoption",
+   "authors": [
+    "Holland SP",
+    "Mansur ET",
+    "Nicholas Z. Muller",
+    "Yates AJ"
+   ],
+   "year": 2019,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "https://doi.org/10.1086/701188",
+   "abstract": null
+  },
+  {
+   "title": "External Costs of Transporting Petroleum Products: Evidence from Shipments of Crude Oil from North Dakota by Pipelines and Rail",
+   "authors": [
+    "Clay K",
+    "Jha A",
+    "Nicholas Z. Muller",
+    "Walsh R"
+   ],
+   "year": 2019,
+   "venue": "Energy Journal",
+   "status": "已发表",
+   "url": "https://doi.org/10.5547/01956574.40.1.kcla",
+   "abstract": null
+  },
+  {
+   "title": "The local air pollution cost of coal storage and handling: Evidence from US power plants",
+   "authors": [
+    "Jha A",
+    "Nicholas Z. Muller"
+   ],
+   "year": 2018,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jeem.2018.09.005",
+   "abstract": null
+  },
+  {
+   "title": "Effect of Model Spatial Resolution on Estimates of Fine Particulate Matter Exposure and Exposure Disparities in the United States",
+   "authors": [
+    "Paolella DA",
+    "Tessum CW",
+    "Adams PJ",
+    "Apte JS",
+    "Chambliss S",
+    "Hill J",
+    "Nicholas Z. Muller",
+    "Marshall JD"
+   ],
+   "year": 2018,
+   "venue": "Environmental Science and Technology Letters",
+   "status": "已发表",
+   "url": "https://doi.org/10.1021/acs.estlett.8b00279",
+   "abstract": null
+  },
+  {
+   "title": "Livestreaming Pollution: A New Form of Public Disclosure and a Catalyst for Citizen Engagement?",
+   "authors": [
+    "Huet-Vaughn E",
+    "Nicholas Z. Muller",
+    "Hsu Y-C"
+   ],
+   "year": 2018,
+   "venue": "NBER Working Paper",
+   "status": "工作论文",
+   "url": "https://public.tepper.cmu.edu/nmuller/publications/livestreaming-pollution-a-new-form-of-public-disclosure-and-a-catalyst-for-citizen-engagement",
+   "abstract": null
+  },
+  {
+   "title": "The distribution of income is worse than you think: Including pollution impacts into measures of income inequality",
+   "authors": [
+    "Nicholas Z. Muller",
+    "Matthews PH",
+    "Wiltshire-Gordon V"
+   ],
+   "year": 2018,
+   "venue": "PLoS ONE",
+   "status": "已发表",
+   "url": "https://doi.org/10.1371/journal.pone.0192461",
+   "abstract": null
+  },
+  {
+   "title": "The impact of trading on the costs and benefits of the Acid Rain Program",
+   "authors": [
+    "Chan HR",
+    "Chupp BA",
+    "Cropper ML",
+    "Nicholas Z. Muller"
+   ],
+   "year": 2018,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jeem.2017.11.004",
+   "abstract": null
+  },
+  {
+   "title": "Environmental Benefit-Cost Analysis and the National Accounts",
+   "authors": [
+    "Nicholas Z. Muller"
+   ],
+   "year": 2018,
+   "venue": "Journal of Benefit-Cost Analysis",
+   "status": "已发表",
+   "url": "https://doi.org/10.1017/bca.2017.15",
+   "abstract": null
+  },
+  {
+   "title": "What Forces Dictate the Design of Pollution Monitoring Networks?",
+   "authors": [
+    "Nicholas Z. Muller",
+    "Ruud PA"
+   ],
+   "year": 2018,
+   "venue": "Environmental Modeling and Assessment",
+   "status": "已发表",
+   "url": "https://doi.org/10.1007/s10666-017-9553-7",
+   "abstract": null
+  },
+  {
+   "title": "Environmental Accounting",
+   "authors": [
+    "Nicholas Z. Muller"
+   ],
+   "year": 2017,
+   "venue": "Wiley",
+   "status": "已发表",
+   "url": "https://doi.org/10.1002/9781118900772.etrds0430",
+   "abstract": "While metrics such as gross domestic product (GDP) constitute important means to gauge the value of production, it is widely recognized that indices that focus exclusively on market production are incomplete. Omitted environmental assets include (i) those that have the capacity to act as a source of valuable inputs to production such as timber, subsurface minerals, or fisheries; and (ii) media that serve as a sink for anthropogenic residuals such as air, water, or soil. The human health impacts depend crucially on two parameters in the integrated asset models (IAMs): the effect that exposures to fine particles have on adult mortality rates and the value attributed to small changes in mortality risk. This essay focuses on recent research that augments standard measures of output to include damages from air and greenhouse gas pollution into national output."
+  },
+  {
+   "title": "Air and Water: Integrated Assessment Models for Multiple Media",
+   "authors": [
+    "Keiser DA",
+    "Nicholas Z. Muller"
+   ],
+   "year": 2017,
+   "venue": "Annual Review of Resource Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1146/annurev-resource-100516-053501",
+   "abstract": null
+  },
+  {
+   "title": "Does environmental policy affect scaling laws between population and pollution? Evidence from American metropolitan areas",
+   "authors": [
+    "Nicholas Z. Muller",
+    "Jha A"
+   ],
+   "year": 2017,
+   "venue": "PLoS ONE",
+   "status": "已发表",
+   "url": "https://doi.org/10.1371/journal.pone.0181407",
+   "abstract": null
+  },
+  {
+   "title": "Are There Environmental Benefits from Driving Electric Vehicles? The Importance of Local Factors",
+   "authors": [
+    "Holland SP",
+    "Mansur ET",
+    "Nicholas Z. Muller",
+    "Yates AJ"
+   ],
+   "year": 2016,
+   "venue": "The American Economic Review",
+   "status": "已发表",
+   "url": "https://doi.org/10.1257/aer.20150897",
+   "abstract": null
+  },
+  {
+   "title": "On the divergence between fuel and service prices: The importance of technological change and diffusion in an American frontier economy",
+   "authors": [
+    "Nicholas Z. Muller"
+   ],
+   "year": 2016,
+   "venue": "Explorations in economic history (EEH)",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.eeh.2016.01.001",
+   "abstract": null
+  },
+  {
+   "title": "Air pollution emissions and damages from energy production in the US: 2002-2011",
+   "authors": [
+    "Jaramillo P",
+    "Nicholas Z. Muller"
+   ],
+   "year": 2016,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.enpol.2015.12.035",
+   "abstract": null
+  },
+  {
+   "title": "Damages and Expected Deaths Due to Excess NOX Emissions from 2009 to 2015 Volkswagen Diesel Vehicles",
+   "authors": [
+    "Holland SP",
+    "Mansur ET",
+    "Nicholas Z. Muller",
+    "Yates AJ"
+   ],
+   "year": 2016,
+   "venue": "Environmental Science and Technology",
+   "status": "已发表",
+   "url": "https://doi.org/10.1021/acs.est.5b05190",
+   "abstract": null
+  },
+  {
+   "title": "Power Laws and Air Pollution",
+   "authors": [
+    "Nicholas Z. Muller"
+   ],
+   "year": 2016,
+   "venue": "Environmental Modeling and Assessment",
+   "status": "已发表",
+   "url": "https://doi.org/10.1007/s10666-015-9466-2",
+   "abstract": null
+  },
+  {
+   "title": "ECONOMICS Boosting GDP growth by accounting for the environment",
+   "authors": [
+    "Nicholas Z. Muller"
+   ],
+   "year": 2014,
+   "venue": "Science",
+   "status": "已发表",
+   "url": "https://doi.org/10.1126/science.1253506",
+   "abstract": null
+  },
+  {
+   "title": "Using index numbers for deflation in environmental accounting",
+   "authors": [
+    "Nicholas Z. Muller"
+   ],
+   "year": 2014,
+   "venue": "Environment and Development Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1017/S1355770X1300048X",
+   "abstract": null
+  },
+  {
+   "title": "Air Pollution Damages from Offshore Energy Production",
+   "authors": [
+    "Nicholas Z. Muller"
+   ],
+   "year": 2014,
+   "venue": "Energy Journal",
+   "status": "已发表",
+   "url": "https://doi.org/10.5547/01956574.35.4.2",
+   "abstract": null
+  },
+  {
+   "title": "PM2.5 co-benefits of climate change legislation part 1: California’s AB 32",
+   "authors": [
+    "Zapata C",
+    "Nicholas Z. Muller",
+    "Kleeman MJ"
+   ],
+   "year": 2013,
+   "venue": "Climatic Change",
+   "status": "已发表",
+   "url": "https://doi.org/10.1007/s10584-012-0545-y",
+   "abstract": "The Scoping Plan for compliance with California Assembly Bill 32 (Global Warming Solutions Act of 2006; AB 32) proposes a substantial reduction in 2020 greenhouse gas (GHG) emissions from all economic sectors through energy efficiency, renewable energy, and other technological measures. Most of the AB 32 Scoping Plan measures will simultaneously reduce emissions of traditional criteria pollutants along with GHGs leading to a co-benefit of improved air quality in California. The present study quantifies the airborne particulate matter (PM2.5) co-benefits of AB 32 by comparing future air quality under a Business as Usual (BAU) scenario (without AB 32) to AB 32 implementation by sector. AB 32 measures were divided into five levels defined by sector as follows: 1) industrial sources, 2) electric utility and natural gas sources, 3) agricultural sources, 4) on-road mobile sources and 5) other mobile sources. Air quality throughout California was simulated using the UCD source-oriented air quality model during 12 days of severe air pollution and over 108 days of typical meteorology representing an annual average period in the year 2030 (10 years after the AB 32 adoption deadline). The net effect of all AB 32 measures reduced statewide primary PM and NOx emissions by ~1 % and ~15 %, respectively. Air quality simulations predict that these emissions reductions lower population-weighted PM2.5 concentrations by ~6 % for California. The South Coast Air Basin (SoCAB) experienced the greatest reductions in PM2.5 concentrations due to the AB 32 transportation measures while the San Joaquin Valley (SJV) experiences the smallest reductions or even slight increases in PM2.5 concentrations due to the AB 32 measures that called for increased use of dairy biogas for electricity generation. The ~6 % reduction in PM2.5 exposure associated with AB 32 predicted in the current study reduced air pollution mortality in California by 6.2 %, avoiding 880 (560–1100) premature deaths per year for the conditions in 2030. The monetary benefit from this avoided mortality was estimated at $5.4B/yr with a weighted average benefit per tonne of $35 k/tonne ($23 k/tonne–$45 k/tonne) of PM, NOx, SOx, and NH3 emissions reduction."
+  },
+  {
+   "title": "The design of optimal climate policy with air pollution co-benefits",
+   "authors": [
+    "Nicholas Z. Muller"
+   ],
+   "year": 2012,
+   "venue": "Resource and Energy Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.reseneeco.2012.07.002",
+   "abstract": null
+  },
+  {
+   "title": "Global Air Quality and Health Co-benefits of Mitigating Near-Term Climate Change through Methane and Black Carbon Emission Controls",
+   "authors": [
+    "Anenberg SC",
+    "Schwartz J",
+    "Shindell D",
+    "Amann M",
+    "Faluvegi G",
+    "Klimont Z",
+    "Janssens-Maenhout G",
+    "Pozzoli L",
+    "Van Dingenen R",
+    "Vignati E"
+   ],
+   "year": 2012,
+   "venue": "Environmental Health Perspectives",
+   "status": "已发表",
+   "url": "https://doi.org/10.1289/ehp.1104301",
+   "abstract": null
+  },
+  {
+   "title": "Simultaneously Mitigating Near-Term Climate Change and Improving Human Health and Food Security",
+   "authors": [
+    "Shindell D",
+    "Kuylenstierna JCI",
+    "Vignati E",
+    "van Dingenen R",
+    "Amann M",
+    "Klimont Z",
+    "Anenberg SC",
+    "Nicholas Z. Muller",
+    "Janssens-Maenhout G",
+    "Raes F"
+   ],
+   "year": 2012,
+   "venue": "Science",
+   "status": "已发表",
+   "url": "https://doi.org/10.1126/science.1210026",
+   "abstract": "Tropospheric ozone and black carbon (BC) contribute to both degraded air quality and global warming. We considered ~400 emission control measures to reduce these pollutants by using current technology and experience. We identified 14 measures targeting methane and BC emissions that reduce projected global mean warming ~0.5°C by 2050. This strategy avoids 0.7 to 4.7 million annual premature deaths from outdoor air pollution and increases annual crop yields by 30 to 135 million metric tons due to ozone reductions in 2030 and beyond. Benefits of methane emissions reductions are valued at $700 to $5000 per metric ton, which is well above typical marginal abatement costs (less than $250). The selected controls target different sources and influence climate on shorter time scales than those of carbon dioxide-reduction measures. Implementing both substantially reduces the risks of crossing the 2°C threshold."
+  },
+  {
+   "title": "Using Marginal Damages in Environmental Policy A Study of Air Pollution in the United States",
+   "authors": [
+    "Nicholas Z. Muller",
+    "Mendelsohn RO"
+   ],
+   "year": 2012,
+   "venue": "Rowman & Littlefield",
+   "status": "已发表",
+   "url": "https://public.tepper.cmu.edu/nmuller/publications/using-marginal-damages-in-environmental-policy-a-study-of-air-pollution-in-the-united-states",
+   "abstract": "This technical volume makes the case that air pollution policy in the United States can be improved through consideration of both the marginal abatement costs facing regulated sources, and the marginal damages associated with their ..."
+  },
+  {
+   "title": "Environmental Accounting for Pollution in the United States Economy",
+   "authors": [
+    "Nicholas Z. Muller",
+    "Mendelsohn R",
+    "Nordhaus W"
+   ],
+   "year": 2011,
+   "venue": "The American Economic Review",
+   "status": "已发表",
+   "url": "https://doi.org/10.1257/aer.101.5.1649",
+   "abstract": null
+  },
+  {
+   "title": "The Social Cost of Trading: Measuring the Increased Damages from Sulfur Dioxide Trading in the United States",
+   "authors": [
+    "Henry DDIII",
+    "Nicholas Z. Muller",
+    "Mendelsohn RO"
+   ],
+   "year": 2011,
+   "venue": "Journal of policy analysis and management",
+   "status": "已发表",
+   "url": "https://doi.org/10.1002/pam.20584",
+   "abstract": null
+  },
+  {
+   "title": "Climate, health, agricultural and economic impacts of tighter vehicle-emission standards",
+   "authors": [
+    "Shindell D",
+    "Faluvegi G",
+    "Walsh M",
+    "Anenberg SC",
+    "Van Dingenen R",
+    "Nicholas Z. Muller",
+    "Austin J",
+    "Koch D",
+    "Milly G"
+   ],
+   "year": 2011,
+   "venue": "Nature Climate Change",
+   "status": "已发表",
+   "url": "https://doi.org/10.1038/NCLIMATE1066",
+   "abstract": null
+  },
+  {
+   "title": "The Ancillary Benefits from Climate Policy in the United States",
+   "authors": [
+    "Groosman B",
+    "Nicholas Z. Muller",
+    "O'Neill-Toy E"
+   ],
+   "year": 2011,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1007/s10640-011-9483-9",
+   "abstract": null
+  },
+  {
+   "title": "Linking Policy to Statistical Uncertainty in Air Pollution Damages",
+   "authors": [
+    "Nicholas Z. Muller"
+   ],
+   "year": 2011,
+   "venue": "B.E. Journal of Economic Analysis & Policy, The",
+   "status": "已发表",
+   "url": "https://doi.org/10.2202/1935-1682.2925",
+   "abstract": null
+  },
+  {
+   "title": "Efficient Pollution Regulation: Getting the Prices Right",
+   "authors": [
+    "Nicholas Z. Muller",
+    "Mendelsohn R"
+   ],
+   "year": 2009,
+   "venue": "The American Economic Review",
+   "status": "已发表",
+   "url": "https://doi.org/10.1257/aer.99.5.1714",
+   "abstract": null
+  },
+  {
+   "title": "Regulating NOx and SO2 Emissions in Atlanta",
+   "authors": [
+    "Nicholas Z. Muller",
+    "Tong D",
+    "Mendelsohn R"
+   ],
+   "year": 2009,
+   "venue": "B.E. Journal of Economic Analysis & Policy, The",
+   "status": "已发表",
+   "url": "https://doi.org/10.2202/1935-1682.1954",
+   "abstract": "Through a series of experiments, we measure the marginal damage of emissions near Atlanta using a sophisticated integrated assessment model. The marginal damages of sulfur dioxide (SO2) are driven by proximity to downtown Atlanta; emissions produced closer to the city lead to higher exposures and therefore damages.The spatial pattern in damages from nitrogen oxide (NOx) emissions are more complex because of the powerful role of atmospheric chemistry. NOx emissions from ground-level sources in downtown Atlanta reduce aggregate exposures to both the tropospheric ozone as well as small particulates. In contrast, NOx discharges in suburban or rural areas lead to higher exposures and damages from both pollutants. These findings raise questions about the current policy of treating all NOx and SOx emissions as though they are alike."
+  },
+  {
+   "title": "Using hedonic property models to value public water bodies: An analysis of specification issues",
+   "authors": [
+    "Nicholas Z. Muller"
+   ],
+   "year": 2009,
+   "venue": "Water Resources Research",
+   "status": "已发表",
+   "url": "https://doi.org/10.1029/2008WR007281",
+   "abstract": null
+  },
+  {
+   "title": "Using air quality modeling to study source-receptor relationships between nitrogen oxides emissions and ozone exposures over the United States",
+   "authors": [
+    "Tong DQ",
+    "Nicholas Z. Muller",
+    "Kan H",
+    "Mendelsohn RO"
+   ],
+   "year": 2009,
+   "venue": "Environment International",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.envint.2009.06.008",
+   "abstract": null
+  },
+  {
+   "title": "Sinusoidal modeling applied to spatially variant tropospheric ozone air pollution",
+   "authors": [
+    "Nicholas Z. Muller",
+    "Phillips PCB"
+   ],
+   "year": 2008,
+   "venue": "Environmetrics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1002/env.897",
+   "abstract": null
+  },
+  {
+   "title": "Measuring the damages of air pollution in the United States",
+   "authors": [
+    "Nicholas Z. Muller",
+    "Mendelsohn R"
+   ],
+   "year": 2007,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jeem.2006.12.002",
+   "abstract": null
+  },
+  {
+   "title": "Integrated Assessment of the Spatial Variability of Ozone Impacts from Emissions of Nitrogen Oxides",
+   "authors": [
+    "Tong DQ",
+    "Nicholas Z. Muller",
+    "Mauzerall DL",
+    "Mendelsohn RO"
+   ],
+   "year": 2006,
+   "venue": "Environmental Science and Technology",
+   "status": "已发表",
+   "url": "https://doi.org/10.1021/es052452n",
+   "abstract": "This paper examines the ozone (O3) damages caused by nitrogen oxides (NO(x)) emissions in different locations around the Atlanta metropolitan area during a summer month. We calculate O3 impacts using a new integrated assessment model that links pollution emissions to their chemical transformation, transport, population exposures, and effects on human health. We find that increased NO(x) emissions in rural areas around Atlanta increase human exposure to ambient O3 twice as much as suburban emissions. However, increased NO(x) emissions in central city Atlanta actually reduce O3 exposures. For downtown emissions, the reduction in human exposures to O3 from titration by NO in the central city outweighs the effects from increased downwind O3. The results indicate that the marginal damage from NO(x) emissions varies greatly across a metropolitan area. The results raise concerns if cap and trade regulations cause emissions to migrate toward higher marginal damage locations."
+  },
+  {
+   "title": "An Input-Output Model of the U.S. Economy with Pollution Externality",
+   "authors": [
+    "Nicholas Z. Muller"
+   ],
+   "year": 2016,
+   "venue": null,
+   "status": "工作论文",
+   "url": "https://public.tepper.cmu.edu/nmuller/working-papers/an-input-output-model-of-the-u-s-economy-with-pollution-externality",
+   "abstract": null
+  }
+ ]
+}

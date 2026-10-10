@@ -1,0 +1,2161 @@
+{
+ "slug": "edward-miguel",
+ "name": "Edward Miguel",
+ "sources": [
+  "https://emiguel.econ.berkeley.edu/research_/ (individual research posts listed via /wp-json/wp/v2/miguel_research)"
+ ],
+ "collected": "2026-10-10",
+ "notes": "Homepage research database: each research post page fetched for authors, year, citation and abstract. Venue is extracted from the citation text and is sometimes the full citation string. Skipped a comment, a book review and a reply letter. Research type from the site's own classification (published paper / working paper / book chapter / other); 'et al.' author lists truncated as on site.",
+ "papers": [
+  {
+   "title": "Cohort Profile: Kenya Life Panel Survey",
+   "authors": [
+    "Eric Hsu",
+    "Edward Miguel",
+    "Eric Ochieng",
+    "Michael Walker"
+   ],
+   "year": 2026,
+   "venue": "Forthcoming in the International Journal of Epidemiology",
+   "status": "即将发表",
+   "url": "https://doi.org/10.26085/C3160N",
+   "abstract": null
+  },
+  {
+   "title": "Climate Change, Conflict, and the Risk of Economic Collapse in Africa",
+   "authors": [
+    "Joel Ferguson",
+    "Marshall Burke",
+    "Edward Miguel",
+    "Solomon Hsiang"
+   ],
+   "year": 2026,
+   "venue": "Forthcoming in the Proceedings of the National Academy of Sciences.",
+   "status": "即将发表",
+   "url": "https://emiguel.econ.berkeley.edu/research/climate-change-conflict-and-the-risk-of-economic-collapse-in-africa/",
+   "abstract": null
+  },
+  {
+   "title": "Preparing for an Aging Africa: Data-Driven Priorities for Economic Research and Policy",
+   "authors": [
+    "Madeline Duhon",
+    "Edward Miguel",
+    "Amos Njuguna",
+    "Daniela Pinto Veizaga",
+    "Michael Walker"
+   ],
+   "year": 2026,
+   "venue": "Duhon, M., Miguel, E., Njuguna, A., Veizaga, D. P., & Walker, M. (2026). Preparing for an aging africa: Data-Driven priorities for economic research and policy. Journal of Political Economy Microeconomics, 4(3). https://doi.org/10.1086/737243",
+   "status": "已发表",
+   "url": "https://emiguel.econ.berkeley.edu/wordpress/wp-content/uploads/2026/07/737243.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Reproducibility and robustness of economics and political science research",
+   "authors": [
+    "Abel Brodeur",
+    "Derek Mikola",
+    "Nikolai Cook",
+    "Edward Miguel",
+    "Fernando Hoces de la Guardia"
+   ],
+   "year": 2026,
+   "venue": "Brodeur, A., Mikola, D., Cook, N. et al. Reproducibility and robustness of economics and political science research. Nature 652, 151–156 (2026). https://doi.org/10.1038/s41586-026-10251-x",
+   "status": "已发表",
+   "url": "https://emiguel.econ.berkeley.edu/wordpress/wp-content/uploads/2026/07/s41586-026-10251-x.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Self-reported, functional, and objective health and sociodemographic characteristics among older adults in Kenya: findings from the pilot longitudinal study of health and ageing in Kenya (LOSHAK)",
+   "authors": [
+    "Eunice Muthoni Mwangi",
+    "James Orwa",
+    "Roselyter Monchari Riang'a",
+    "Niranjani Nagarajan",
+    "Felix Agoi",
+    "Patrick N. Mwangala",
+    "Alden L. Gross",
+    "Jean N. Ikanga",
+    "Kenneth M. Langa",
+    "Edward Miguel",
+    "Muthoni Gichu",
+    "Joshua R. Ehrlich",
+    "Anthony K. Ngugi"
+   ],
+   "year": 2025,
+   "venue": "Mwangi EM, Orwa J, Monchari Riang’a R, Nagarajan N, Agoi F, Mwangala PN, Gross AL, Ikanga JN, Langa KM, Miguel E, Gichu M, Ehrlich JR and Ngugi AK (2025) Self-reported, functional, and objective health and sociodemographic characteristics among older adults in Kenya: findings from the pilot longitudinal study of health and ageing in Kenya (LOSHAK). Front. Aging 6:1693701. doi: 10.3389/fragi.2025.1693701",
+   "status": "已发表",
+   "url": "https://emiguel.econ.berkeley.edu/wordpress/wp-content/uploads/2026/07/fragi-6-1693701.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Validation of cognitive and psychosocial tools in Kenya: findings from the LOSHAK feasibility pilot",
+   "authors": [
+    "Sneha Sarah Mani",
+    "Roselyter Monchari Riang’a",
+    "Niranjani Nagarajan",
+    "Anthony K. Ngugi",
+    "Eunice Muthoni Mwangi",
+    "Muthoni Gichu",
+    "Patrick N. Mwangala",
+    "Edward Miguel",
+    "Michael Walker",
+    "Kenneth M. Langa",
+    "Joshua R. Ehrlich",
+    "Alden L. Gross"
+   ],
+   "year": 2025,
+   "venue": "Mani SS, Riang’a RM, Nagarajan N, Ngugi AK, Mwangi EM, Gichu M, Mwangala PN, Miguel E, Walker M, Langa KM, Ehrlich JR, Gross AL. Validation of cognitive and psychosocial tools in Kenya: findings from the LOSHAK feasibility pilot. BMC Public Health. 2025 Nov 17;25(1):4008. doi: 10.1186/s12889-025-24918-z. PMID: 41249975; PMCID: PMC12625501.",
+   "status": "已发表",
+   "url": "https://link.springer.com/article/10.1186/s12889-025-24918-z",
+   "abstract": null
+  },
+  {
+   "title": "Destructive Behavior, Judgment, and Economic Decision-making under Thermal Stress",
+   "authors": [
+    "Ingvild Almås",
+    "Maximilian Auffhammer",
+    "Tessa Bold",
+    "Ian Bolliger",
+    "Aluma Dembo",
+    "Solomon M. Hsiang",
+    "Shuhei Kitamura",
+    "Edward Miguel",
+    "Robert Pickmans"
+   ],
+   "year": 2025,
+   "venue": "Almås, I., Auffhammer, M., Bold, T., Bolliger, I., Dembo, A., Hsiang, S. M., … & Pickmans, R. (2025). Destructive Behaviour, Judgement, and Economic Decision-making under Thermal Stress. The Economic Journal, ueae116. https://doi.org/10.1093/ej/ueae116",
+   "status": "已发表",
+   "url": "https://doi.org/10.1093/ej/ueae116",
+   "abstract": null
+  },
+  {
+   "title": "Ending publication bias: A values-based approach to surface null and negative results",
+   "authors": [
+    "Stephen Curry",
+    "Eunice Mercado-Lara",
+    "Virginia Arechavala-Gomeza",
+    "C. Glenn Begley",
+    "Christophe Bernard",
+    "René Bernard",
+    "Stefano Bertuzzi",
+    "Needhi Bhalla",
+    "Dawn Bowers",
+    "Samuel Brod",
+    "Christopher Chambers",
+    "Michael R. Dougherty",
+    "Yensi Flores Bueso",
+    "Stefânia Forner",
+    "Alexandra L. J. Freeman",
+    "Magali Haas",
+    "Darla P. Henderson",
+    "Kanika Khanna",
+    "Rebecca Lawrence",
+    "Kif Liakath-Ali",
+    "Christine Liu",
+    "Neil Malhotra",
+    "José G. Merino",
+    "Edward Miguel",
+    "Rachel Miles",
+    "Mary Munson",
+    "Shinichi Nakagawa",
+    "Robert Nobles",
+    "Joy Owango",
+    "Michel Tuan Pham",
+    "Gina Poe",
+    "Alexandra N. Ramirez",
+    "Sarvenaz Sarabipour",
+    "Jill L. Silverman",
+    "Laura N. Smith",
+    "P. Sriramarao",
+    "Paul W. Sternberg",
+    "Geeta K. Swamy",
+    "Malú Gámez Tansey",
+    "Gonzalo E. Torres",
+    "Erick H. Turner",
+    "Lauren von Klinggraeff",
+    "Frances Weis-Garcia"
+   ],
+   "year": 2025,
+   "venue": "Curry S, Mercado-Lara E, Arechavala-Gomeza V, Begley CG, Bernard C, Bernard R, et al. (2025) Ending publication bias: A values-based approach to surface null and negative results. PLoS Biol 23(9): e3003368. https://doi.org/10.1371/journal.pbio.3003368",
+   "status": "已发表",
+   "url": "https://doi.org/10.1371/journal.pbio.3003368",
+   "abstract": null
+  },
+  {
+   "title": "Can Cash Transfers Save Lives? Evidence from a Large-Scale Experiment in Kenya",
+   "authors": [
+    "Michael W. Walker",
+    "Nick Shankar",
+    "Edward Miguel",
+    "Dennis Egger",
+    "Grady Killeen"
+   ],
+   "year": 2025,
+   "venue": "Walker, M. W., Shankar, N., Miguel, E., Egger, D., & Killeen, G. (2025, August). Can cash transfers save lives? Evidence from a large-scale experiment in Kenya (NBER Working Paper No. 34152). National Bureau of Economic Research. https://www.nber.org/papers/w34152",
+   "status": "工作论文",
+   "url": "https://www.nber.org/papers/w34152",
+   "abstract": null
+  },
+  {
+   "title": "Midlife cognitive testing in Africa: validity of the Harmonised Cognitive Assessment Protocol in the Kenya Life Panel Survey",
+   "authors": [
+    "Alden L Gross",
+    "Madeline Duhon",
+    "Eric Ochieng",
+    "Jean N Ikanga",
+    "William H Dow",
+    "Jinkook Lee",
+    "Michael W Walker",
+    "Michelle Layvant",
+    "Anthony Ngugi",
+    "Joshua R Ehrlich",
+    "Edward A Miguel",
+    "Edward Miguel"
+   ],
+   "year": 2025,
+   "venue": "Gross, A. L., Duhon, M., Ochieng, E., Ikanga, J. N., Dow, W. H., Lee, J., … & Miguel, E. A. (2025). Midlife cognitive testing in Africa: validity of the harmonised cognitive assessment protocol in the Kenya life panel survey. BMJ open, 15(8), e096619. https://doi.org/10.1136/bmjopen-2024-096619",
+   "status": "已发表",
+   "url": "https://doi.org/10.1136/bmjopen-2024-096619",
+   "abstract": null
+  },
+  {
+   "title": "Contextualization of Harmonized Cognitive Assessment Protocol (HCAP) in an aging population in rural low-resource settings in Africa: Experiences and Strategies Adopted to Optimize Effective Adaption of Cognitive Tests in Kenya",
+   "authors": [
+    "Roselyter Monchari Riang'a",
+    "Eunice Muthoni Mwangi",
+    "Niranjani Nagarajan",
+    "Felix Agoi",
+    "Patrick N Mwangala",
+    "Alden L Gross",
+    "Jean Ikanga",
+    "Kenneth M Langa",
+    "Edward Miguel",
+    "Muthoni Gichu",
+    "Joshua R Ehrlich",
+    "Anthony K Ngugi"
+   ],
+   "year": 2025,
+   "venue": "Riang’a RM, Mwangi EM, Nagarajan N, Agoi F, Mwangala PN, Gross AL, Ikanga J, Langa KM, Miguel E, Gichu M, Ehrlich JR, Ngugi AK. Contextualization of Harmonized Cognitive Assessment Protocol (HCAP) in an aging population in rural low-resource settings in Africa: Experiences and strategies adopted to optimize effective adaption of cognitive tests in Kenya. Alzheimers Dement. 2025 Aug;21(8):e70552. doi: 10.1002/alz.70552. PMID: 40835849; PMCID: PMC12367447.",
+   "status": "已发表",
+   "url": "https://emiguel.econ.berkeley.edu/wordpress/wp-content/uploads/2026/01/ALZ-21-e70552.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Targeting Impact versus Deprivation",
+   "authors": [
+    "Johannes Haushofer",
+    "Paul Niehaus",
+    "Carlos Paramo",
+    "Edward Miguel",
+    "Michael Walker"
+   ],
+   "year": 2025,
+   "venue": "American Economic Review 115 (6): 1936–74",
+   "status": "已发表",
+   "url": "https://doi.org/10.3886/E206781V1",
+   "abstract": null
+  },
+  {
+   "title": "Parent psychological well-being, home learning environment, and child development among Kenyan families",
+   "authors": [
+    "Ye Rang Park",
+    "Madeline Duhon",
+    "Kyong Ah Kwon",
+    "Amber H. Beisly",
+    "Michael Walker",
+    "Edward Miguel"
+   ],
+   "year": 2025,
+   "venue": "Park, Y. R., Duhon, M., Kwon, K. A., Beisly, A. H., Walker, M., & Miguel, E. (2025). Parent psychological well-being, home learning environment, and child development among Kenyan families. Journal of Applied Developmental Psychology, 97, 101760. https://doi.org/10.1016/j.appdev.2025.101760",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.appdev.2025.101760",
+   "abstract": null
+  },
+  {
+   "title": "New evidence on the economics of climate and conflict",
+   "authors": [
+    "Marshall Burke",
+    "Joel Ferguson",
+    "Solomon Hsiang",
+    "Edward Miguel"
+   ],
+   "year": 2024,
+   "venue": "Burke, M., Ferguson, J., Hsiang, S., & Miguel, E. (2024). New evidence on the economics of climate and conflict. Handbook of the Economics of Conflict, 1, 249-305.",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/bs.hoec.2024.10.008",
+   "abstract": null
+  },
+  {
+   "title": "Unlocking the Benefits of Credit through Saving",
+   "authors": [
+    "Sanghamitra Warrier Mukherjee",
+    "Lauren Falcao Bergquist",
+    "Marshall Burke",
+    "Edward Miguel"
+   ],
+   "year": 2024,
+   "venue": "Mukherjee, S. W., Bergquist, L. F., Burke, M., & Miguel, E. (2024). Unlocking the benefits of credit through saving. Journal of Development Economics, 171, 103346.",
+   "status": "已发表",
+   "url": "https://emiguel.econ.berkeley.edu/wordpress/wp-content/uploads/2026/01/1-s2.0-S0304387824000956-main.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Will Wealth Weaken Weather Wars?",
+   "authors": [
+    "Marshall Burke",
+    "Joel Ferguson",
+    "Solomon Hsiang",
+    "Edward Miguel"
+   ],
+   "year": 2024,
+   "venue": "AEA Papers and Proceedings 114: 65–69",
+   "status": "已发表",
+   "url": "https://emiguel.econ.berkeley.edu/wordpress/wp-content/uploads/2026/01/burke-et-al-2024-will-wealth-weaken-weather-wars.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Meta-Analysis and Public Policy: Reconciling the Evidence on Deworming",
+   "authors": [
+    "Croke",
+    "Kevin",
+    "Joan Hamory Hicks",
+    "Eric Hsu",
+    "Michael Kremer",
+    "Ricardo Maertens",
+    "Edward Miguel",
+    "Witold Więcek"
+   ],
+   "year": null,
+   "venue": "Proceedings of the National Academy of Sciences, vol. 121, no. 25, https://doi.org/10.1073/pnas.2308733121",
+   "status": "已发表",
+   "url": "https://emiguel.econ.berkeley.edu/wordpress/wp-content/uploads/2024/04/croke-et-al-2024-meta-analysis-and-public-policy-reconciling-the-evidence-on-deworming.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Human Capital Affects Religious Identity: Causal Evidence from Kenya",
+   "authors": [
+    "Livia Alfonsi",
+    "Michal Bauer",
+    "Julie Chytilova",
+    "Edward Miguel"
+   ],
+   "year": 2024,
+   "venue": "Journal of Development Economics, vol. 167, p. 103215, https://doi.org/10.1016/j.jdeveco.2023.103215",
+   "status": "已发表",
+   "url": "https://emiguel.econ.berkeley.edu/wordpress/wp-content/uploads/2024/04/1-s2.0-S0304387823001712-main.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Promoting Reproducibility and Replicability in Political Science",
+   "authors": [
+    "Brodeur",
+    "Abel",
+    "Kevin Esterling",
+    "Jörg Ankel-Peters",
+    "Natália Bueno",
+    "Scott Desposato",
+    "Anna Dreber",
+    "Federica Genovese",
+    "Donald Green",
+    "Matthew Hepplewhite",
+    "Fernando Hoces de la Guardia",
+    "Magnus Johannesson",
+    "Andreas Kotsadam",
+    "Edward Miguel",
+    "Yamil Velez",
+    "Lauren Young"
+   ],
+   "year": 2024,
+   "venue": "11(1). https://doi.org/10.1177/20531680241233439",
+   "status": "已发表",
+   "url": "https://emiguel.econ.berkeley.edu/wordpress/wp-content/uploads/2024/04/brodeur-et-al-2024-promoting-reproducibility-and-replicability-in-political-science.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Reproductions and replications at scale",
+   "authors": [
+    "Abel Brodeur",
+    "Anna Dreber",
+    "Fernando Hoces de la Guardia & Edward Miguel",
+    "Edward Miguel"
+   ],
+   "year": 2024,
+   "venue": "Nat Hum Behav 8, 2–3. https://doi.org/10.1038/s41562-023-01807-2",
+   "status": "已发表",
+   "url": "https://emiguel.econ.berkeley.edu/wordpress/wp-content/uploads/2024/04/s41562-023-01807-2.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Preparing for an Aging Africa: Data-Driven Priorities for Economic Research and Policy",
+   "authors": [
+    "Madeline Duhon",
+    "Edward Miguel",
+    "Amos Njuguna",
+    "Daniela Pinto Veizaga",
+    "Michael Walker"
+   ],
+   "year": null,
+   "venue": "https://doi.org/10.3386/w31750",
+   "status": "工作论文",
+   "url": "https://emiguel.econ.berkeley.edu/wordpress/wp-content/uploads/2023/11/eScholarship-UC-item-024117rq.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Money or Power? Choosing Covid-19 aid in Kenya",
+   "authors": [
+    "Susanna Berkouwer",
+    "Pierre Biscaye",
+    "Eric Hsu",
+    "Oliver Kim",
+    "Kenneth Lee",
+    "Edward Miguel",
+    "Catherine Wolfram"
+   ],
+   "year": 2023,
+   "venue": "Energy Economics, vol. 127, p. 107036, https://doi.org/10.1016/j.eneco.2023.107036",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.eneco.2023.107036",
+   "abstract": null
+  },
+  {
+   "title": "Development of the Longitudinal Study of Health and Ageing in Kenya (LOSHAK) ",
+   "authors": [
+    "Niranjani Nagarajan",
+    "Shane D Burns",
+    "Roselyter M Riang’a",
+    "Eunice Muthoni Mwangi",
+    "Shaheen Sayed",
+    "Muthoni Gichu",
+    "Kenneth M Langa",
+    "Edward Miguel",
+    "Anthony K Ngugi",
+    "Joshua R Ehrlich"
+   ],
+   "year": 2023,
+   "venue": "Innovation in Aging, vol. 7, no. Supplement_1, 1 Dec. 2023, pp. 1155–1155, https://doi.org/10.1093/geroni/igad104.3706",
+   "status": "已发表",
+   "url": "https://emiguel.econ.berkeley.edu/wordpress/wp-content/uploads/2024/04/igad111.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Replication games: how to make reproducibility research more systematic",
+   "authors": [
+    "Abel Brodeur",
+    "Anna Dreber",
+    "Fernando Hoces de la Guardia & Edward Miguel",
+    "Edward Miguel"
+   ],
+   "year": null,
+   "venue": "Nature, vol. 621, no. 7980: 684–686, https://doi.org/10.1038/d41586-023-02997-5",
+   "status": "已发表",
+   "url": "https://doi.org/10.1038/d41586-023-02997-5.",
+   "abstract": null
+  },
+  {
+   "title": "Survey of open science practices and attitudes in the social sciences",
+   "authors": [
+    "Joel Ferguson",
+    "Rebecca Littman",
+    "Garret Christensen",
+    "Elizabeth Levy Paluck",
+    "Nicholas Swanson",
+    "Zenan Wang",
+    "Edward Miguel",
+    "David Birke & John-Henry Pezzuto"
+   ],
+   "year": null,
+   "venue": "Nature Communications, vol. 14, no. 1, https://doi.org/10.1038/s41467-023-41111-1",
+   "status": "已发表",
+   "url": "https://doi.org/10.1038/s41467-023-41111-1",
+   "abstract": null
+  },
+  {
+   "title": "Scaling Agricultural Policy Interventions",
+   "authors": [
+    "Lauren Falcao Bergquist",
+    "Benjamin Faber",
+    "Thibault Fally",
+    "Matthias Hoelzlein",
+    "Edward Miguel",
+    "Andres Rodriguez-Clare"
+   ],
+   "year": 2026,
+   "venue": "Berquist, Lauren Falcao, Benjamin Faber, Thibault Fally, Matthias Hoelzlein, Edward Miguel, Andres Rodriguez-Clare. (2026). “Scaling Agricultural Policy Interventions”.",
+   "status": "工作论文",
+   "url": "https://emiguel.econ.berkeley.edu/wordpress/wp-content/uploads/2026/05/ECMA_scaling.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Donor contracting conditions and public procurement: Causal evidence from Kenyan electrification",
+   "authors": [
+    "Catherine D. Wolfram",
+    "Edward Miguel",
+    "Eric Hsu",
+    "Susanna B. Berkouwer"
+   ],
+   "year": null,
+   "venue": "National Bureau of Economic Research (NBER) Working Paper #30948",
+   "status": "工作论文",
+   "url": "https://emiguel.econ.berkeley.edu/wordpress/wp-content/uploads/2023/02/WMHB_donorprocurement-SUBMITTED.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Long-Run Effects of Aid: Forecasts and Evidence from Sierra Leone",
+   "authors": [
+    "Katherine Casey",
+    "Rachel Glennerster",
+    "Edward Miguel",
+    "Maarten Voors"
+   ],
+   "year": null,
+   "venue": "The Economic Journal, vol. 133, no. 652: 1348–1370, https://doi.org/10.1093/ej/uead001",
+   "status": "已发表",
+   "url": "https://doi.org/10.1093/ej/uead001",
+   "abstract": null
+  },
+  {
+   "title": "The Syrian Refugee Life Study: First Glance",
+   "authors": [
+    "Sarah Stillman",
+    "Sandra V. Rozo",
+    "Abdulrazzak Tamim",
+    "I. Bailey Palmer",
+    "Emma Smith",
+    "Edward Miguel"
+   ],
+   "year": 2022,
+   "venue": "Oxford Review of Economic Policy, vol. 38, no. 3: 625–653, https://doi.org/10.1093/oxrep/grac023",
+   "status": "已发表",
+   "url": "https://doi.org/10.1093/oxrep/grac023",
+   "abstract": null
+  },
+  {
+   "title": "The Economics of the COVID-19 Pandemic in Poor Countries",
+   "authors": [
+    "Edward Miguel",
+    "Ahmed Mushfiq Mobarak"
+   ],
+   "year": 2022,
+   "venue": "Annual Review of Economics, 14",
+   "status": "已发表",
+   "url": "https://emiguel.econ.berkeley.edu/wordpress/wp-content/uploads/2022/08/EC14CH11_Miguel253-285.pdf",
+   "abstract": null
+  },
+  {
+   "title": "The illusion of stable fertility preferences",
+   "authors": [
+    "Maximilian W. Müller",
+    "Joan Hamory",
+    "Jennifer Johnson-Hanks",
+    "Edward Miguel"
+   ],
+   "year": 2022,
+   "venue": "Population Studies, 76(2): 169-189",
+   "status": "已发表",
+   "url": "https://emiguel.econ.berkeley.edu/wordpress/wp-content/uploads/2022/05/The-illusion-of-stable-fertility-preferences.pdf",
+   "abstract": null
+  },
+  {
+   "title": "End COVID-19 in Low- and Middle-Income Countries",
+   "authors": [
+    "Ahmed Mushfiq Mobarak",
+    "Edward Miguel",
+    "Jason Abaluck",
+    "Amrita Ahuja",
+    "Marcella Alsan",
+    "Abhijit Banerjee",
+    "Emily Breza",
+    "Arun G. Chandrasekhar",
+    "Esther Duflo",
+    "James Dzansi",
+    "Denise Garrett",
+    "Paul Goldsmith-Pinkham",
+    "Gregg S. Gonsalves",
+    "Muhammad Masqud Hossain",
+    "Aleksandra Jakubowski",
+    "Gagandeep Kang",
+    "Arjun Kharel",
+    "Michael Kremer",
+    "Niccolo Meriggi",
+    "Carol Nekesa",
+    "Benjamin A. Olken",
+    "Saad B. Omer",
+    "Firdausi Qadri",
+    "Helen Rees",
+    "Babatunde Salako",
+    "Maarten Voors",
+    "Shana Warren",
+    "Witold Wiecek"
+   ],
+   "year": 2022,
+   "venue": "Science, 375(6586)",
+   "status": "已发表",
+   "url": "https://emiguel.econ.berkeley.edu/wordpress/wp-content/uploads/2022/03/science.abo4089.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Reporting all results efficiently: A RARE proposal to open up the file drawer",
+   "authors": [
+    "David D Laitin",
+    "Edward Miguel",
+    "Ala' Alrababa'h",
+    "Aleksandar Bogdanoski",
+    "Sean Grant",
+    "Katherine Hoeberling",
+    "Cecilia Hyunjung Mo",
+    "Don A Moore",
+    "Simine Vazire",
+    "Jeremy Weinstein",
+    "Scott Williamson"
+   ],
+   "year": 2021,
+   "venue": "PNAS, 118(52):e2106178118",
+   "status": "已发表",
+   "url": "https://emiguel.econ.berkeley.edu/wordpress/wp-content/uploads/2022/08/pnas.2106178118.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Improving Research Transparency in the Social Sciences: Registration, Pre-registration, and Multiple Testing Adjustments",
+   "authors": [
+    "Edward Miguel",
+    "Garret Christiansen"
+   ],
+   "year": 2021,
+   "venue": "Research Integrity in the",
+   "status": "已发表",
+   "url": "https://emiguel.econ.berkeley.edu/wordpress/wp-content/uploads/2021/08/chapter_oso_9780190938550_chapter_2.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Skill Versus Voice in Local Development",
+   "authors": [
+    "Katherine Casey",
+    "Rachel Glennerster",
+    "Edward Miguel",
+    "Maarten Voors"
+   ],
+   "year": 2021,
+   "venue": "The Review of Economics and Statistics",
+   "status": "已发表",
+   "url": "https://emiguel.econ.berkeley.edu/wordpress/wp-content/uploads/2021/08/rest_a_01082.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Self-reported vs Directly Observed Face Mask Use in Kenya",
+   "authors": [
+    "Aleksandra Jakubowski",
+    "Dennis Egger",
+    "Carolyne Nekesa",
+    "Layna Lowe",
+    "Michael Walker",
+    "Edward Miguel"
+   ],
+   "year": 2021,
+   "venue": "JAMA Network Open, 4(7):e2118830",
+   "status": "已发表",
+   "url": "https://emiguel.econ.berkeley.edu/wordpress/wp-content/uploads/2022/08/jakubowski_2021_ld_210154_1627056043.52861-1.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Evidence on Research Transparency in Economics",
+   "authors": [
+    "Edward Miguel"
+   ],
+   "year": 2021,
+   "venue": "Journal of Economic Perspectives, 35(3): 193-214",
+   "status": "已发表",
+   "url": "https://www.aeaweb.org/articles?id=10.1257/jep.35.3.193",
+   "abstract": null
+  },
+  {
+   "title": "Elections and Selfishness",
+   "authors": [
+    "Kjetil Bjorvatn",
+    "Simon Galle",
+    "Lars Ivar Oppedal Berge",
+    "Edward Miguel",
+    "Daniel Posner",
+    "Bertil Tungodden",
+    "Kelly Zhang"
+   ],
+   "year": 2020,
+   "venue": "forthcoming Electoral Studies",
+   "status": "即将发表",
+   "url": "https://emiguel.econ.berkeley.edu/wordpress/wp-content/uploads/2021/04/ElectionsSelfishness_20201103_ES.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Falling Living Standards during the COVID-19 Crisis: Quantitative Evidence from Nine Developing Countries",
+   "authors": [
+    "Dennis Egger",
+    "Edward Miguel",
+    "Shana S. Warren",
+    "Ashish Shenoy",
+    "Elliott Collins",
+    "Dean Karlan",
+    "Doug Parkerson",
+    "A. Mushfiq Mobarak",
+    "Günther Fink",
+    "Christopher Udry",
+    "Michael Walker",
+    "Johannes Haushofer",
+    "Magdalena Larreboure",
+    "Susan Athey",
+    "Paula Lopez-Pena",
+    "Salim Benhachmi",
+    "Macartan Humphreys",
+    "Layna Lowe",
+    "Niccoló F. Meriggi",
+    "Andrew Wabwire",
+    "C. Austin Davis",
+    "Utz Johann Pape",
+    "Tilman Graff",
+    "Maarten Voors",
+    "Carolyn Nekesa",
+    "Corey Vernot"
+   ],
+   "year": 2021,
+   "venue": "Science Advances, 7(6)",
+   "status": "已发表",
+   "url": "https://emiguel.econ.berkeley.edu/wordpress/wp-content/uploads/2021/08/eabe0997.full_final-published.pdf",
+   "abstract": null
+  },
+  {
+   "title": "A Framework for Open Policy Analysis",
+   "authors": [
+    "Fernando Hoces de la Guardia",
+    "Sean Grant",
+    "Edward Miguel"
+   ],
+   "year": 2020,
+   "venue": "forthcoming Science and Public Policy",
+   "status": "即将发表",
+   "url": "https://emiguel.econ.berkeley.edu/wordpress/wp-content/uploads/2021/03/Hoces-de-la-Guardia-et-al_Open-Policy-Analysis_2020-10.pdf",
+   "abstract": "The evidence-based policy movement promotes the use of empirical evidence to inform policy decision-making. While several social science disciplines are undergoing a “credibility revolution” focused on openness and replication, policy analysis has yet to systematically embrace transparency and reproducibility. We argue that policy analysis should adopt the open research practices increasingly espoused in related disciplines to advance the credibility of evidence-based policymaking. We first discuss the importance of evidence-based policy in an era of increasing disagreement about facts, analysis, and expertise. We present a novel framework for “open” policy analysis (OPA) and how to achieve it, focusing on examples of recent policy analyses that have incorporated open research practices such as transparent reporting, open data, and code sharing. We conclude with recommendations on how key stakeholders in evidence-based policy can make OPA the norm and thus safeguard trust in using empirical evidence to inform important public policy decisions."
+  },
+  {
+   "title": "Twenty Year Economic Impacts of Deworming",
+   "authors": [
+    "Hamory",
+    "Joan",
+    "Edward Miguel",
+    "Michael Walker",
+    "Michael Kremer",
+    "Sarah Baird"
+   ],
+   "year": 2021,
+   "venue": "Hamory, Joan, Edward Miguel, Michael Walker, Michael Kremer, and Sarah Baird. (2021). Twenty Year Economic Impacts of Deworming. Proceedings of the National Academy of Sciences, 118(14): e2023185118. https://doi.org/10.1073/pnas.2023185118",
+   "status": "已发表",
+   "url": "https://www.pnas.org/content/118/14/e2023185118",
+   "abstract": null
+  },
+  {
+   "title": "Transparency and Reproducibility: Conceptualizing the Problem (Chapter 6) and Potential Solutions (Chapter 7)",
+   "authors": [
+    "Christensen",
+    "Garret",
+    "Edward Miguel"
+   ],
+   "year": 2020,
+   "venue": "in The Production of Knowledge: Enhancing Progress in Social Science, (eds.) Colin Elman, John Gerring, and James Mahoney. Cambridge University Press",
+   "status": "已发表",
+   "url": "https://emiguel.econ.berkeley.edu/research/transparency-and-reproducibility-conceptualizing-the-problem-chapter-6-and-potential-solutions-chapter-7/",
+   "abstract": "A broad overview of research transparency and open science issues in the social sciences, across two chapters (Chapters 6 and 7)."
+  },
+  {
+   "title": "Using survey questions to measure preferences: Lessons from an experimental validation in Kenya",
+   "authors": [
+    "Michal Bauer",
+    "Julie Chytilova",
+    "Edward Miguel"
+   ],
+   "year": 2020,
+   "venue": "forthcoming European Economic Review",
+   "status": "即将发表",
+   "url": "https://doi.org/10.1016/j.euroecorev.2020.103493",
+   "abstract": "Can a short survey instrument reliably measure a range of fundamental economic preferences across diverse settings? We focus on survey questions that systematically predict behavior in incentivized experimental tasks among German university students (Becker et al. 2016) and were implemented among representative samples across the globe (Falk et al. 2018). This paper presents results of an experimental validation conducted among low-income individuals in Nairobi, Kenya. We find that quantitative survey measures –hypothetical versions of experimental tasks –of time preference, attitude to risk and altruism are good predictors of choices in incentivized experiments, suggesting these measures are broadly experimentally valid. At the same time, we find that qualitative questions –self-assessments –do not correlate with the experimental measures of preferences in the Kenyan sample. Thus, caution is needed before treating self-assessments as proxies of preferences in new contexts."
+  },
+  {
+   "title": "Deepening or Diminishing Ethnic Divides? The Impact of Urban Migration in Kenya",
+   "authors": [
+    "Kramon",
+    "Eric",
+    "Sarah Baird",
+    "Joan Hamory Hicks",
+    "Edward Miguel.",
+    "Edward Miguel"
+   ],
+   "year": 2021,
+   "venue": "American Journal of Political Science",
+   "status": "已发表",
+   "url": "https://emiguel.econ.berkeley.edu/wordpress/wp-content/uploads/2021/03/KLPS-Urbanization_190219.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Pre-results Review at the Journal of Development Economics: Lessons Learned",
+   "authors": [
+    "Bogdanoski",
+    "Aleksander",
+    "Andrew Foster",
+    "Dean Karlan",
+    "Edward Miguel"
+   ],
+   "year": 2019,
+   "venue": "MeArXiv Pre-print",
+   "status": "工作论文",
+   "url": "https://emiguel.econ.berkeley.edu/wordpress/wp-content/uploads/2021/03/MetaArXiv_Pre-results_Review_at_the_Journal_of_Development_Economics._Lessons_learned_so_far_2.pdf",
+   "abstract": "A discussion of the 2018-19 JDE Pre-results Review Pilot."
+  },
+  {
+   "title": "Research Transparency is on the Rise in Economics",
+   "authors": [
+    "Swanson",
+    "Nicholas",
+    "Garret Christensen",
+    "Rebecca Littman",
+    "David Birke",
+    "Edward Miguel",
+    "Elizabeth Levy Paluck",
+    "Zenan Wang"
+   ],
+   "year": 2020,
+   "venue": "AEA Papers and Proceedings , 110: 61-65",
+   "status": "已发表",
+   "url": "https://www.aeaweb.org/articles?id=10.1257/pandp.20201077",
+   "abstract": "This study provides a first assessment of awareness of, attitudes toward, perceived norms regarding, and adoption of open science practices within a broadly representative sample of active economics researchers. We observe a steep increase in adoption over the last decade, with an accelerating trend: as of 2017, 93 percent of economists had used at least one such practice—including posting data, sharing study materials, and study pre-registration—rising from 33 percent a decade earlier. We document extensive variation in adoption across economics subfields. Notably, most economists appear to underestimate the trend toward research transparency in the discipline."
+  },
+  {
+   "title": "A study of the impact of data sharing on article citations using journal policies as a natural experiment",
+   "authors": [
+    "Christensen",
+    "Garret",
+    "Allan Dafoe",
+    "Edward Miguel",
+    "Don A. Moore",
+    "Andrew K. Rose"
+   ],
+   "year": 2019,
+   "venue": "Christensen G, Dafoe A, Miguel E, Moore DA, Rose AK (2019) A study of the impact of data sharing on article citations using journal policies as a natural experiment. PLoS ONE, 14(12): e0225883. https://doi.org/10.1371/journal.pone.0225883",
+   "status": "已发表",
+   "url": "https://doi.org/10.1371/journal.pone.0225883",
+   "abstract": "This study estimates the effect of data sharing on the citations of academic articles, using journal policies as a natural experiment. We begin by examining 17 high-impact journals that have adopted the requirement that data from published articles be publicly posted. We match these 17 journals to 13 journals without policy changes and find that empirical articles published just before their change in editorial policy have citation rates with no statistically significant difference from those published shortly after the shift. We then ask whether this null result stems from poor compliance with data sharing policies, and use the data sharing policy changes as instrumental variables to examine more closely two leading journals in economics and political science with relatively strong enforcement of new data policies. We find that articles that make their data available receive 97 additional citations (estimate standard error of 34). We conclude that: a) authors who share data may be rewarded eventually with additional scholarly citations, and b) data-posting policies alone do not increase the impact of articles published in a journal unless those policies are enforced."
+  },
+  {
+   "title": "Non-economic factors in violence: Evidence from organized crime, suicides and climate in Mexico",
+   "authors": [
+    "Baysan",
+    "Ceren",
+    "Marshall Burke",
+    "Felipe Gonzalez",
+    "Solomon Hsiang",
+    "Edward Miguel"
+   ],
+   "year": 2019,
+   "venue": "Baysan, Ceren, Marshall Burke, Felipe Gonzalez, Solomon Hsiang, and Edward Miguel. (2019). \"Non-economic factors in violence: Evidence from organized crime, suicides and climate in Mexico\", Journal of Economic Behavior and Organization, 2019, 168: 434-452, doi: 10.1016/j.jebo.2019.10.021.",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jebo.2019.10.021",
+   "abstract": "Organized intergroup violence is almost universally modeled as a calculated act motivated by economic factors. In contrast, it is generally assumed that non-economic factors, such as an individual’s emotional state, play a role in many types of interpersonal violence, such as crimes of passion. We ask whether non-economic factors can also explain the well-established relationship between temperature and violence in a unique context where intergroup killings by drug-trafficking organizations (DTOs) and other interpersonal homicides are separately documented. A constellation of evidence, including the limited influence of a cash transfer program as well as comparisons with both other DTO crime and suicides, indicate that economic factors only partially mitigate the relationship between temperature and violence that we estimate in Mexico. We argue that non-economic psychological and physiological factors that are affected by temperature, modeled here as a “taste for violence,” likely play an important role in causing both interpersonal and intergroup violence."
+  },
+  {
+   "title": "Does Electrification Supercharge Economic Development?",
+   "authors": [
+    "Lee",
+    "Kenneth",
+    "Edward Miguel",
+    "Catherine Wolfram"
+   ],
+   "year": 2020,
+   "venue": "Journal of Economic Perspectives, 34(1): 122-144",
+   "status": "已发表",
+   "url": "https://www.aeaweb.org/articles?id=10.1257/jep.34.1.122",
+   "abstract": "In this paper, we discuss what we can learn from the past decade of microeconomic research on the impacts of household electrification, with the goal of highlighting how future initiatives can be better designed. We begin with an overview of how household electrification has traditionally been captured in official statistics and then turn to some of the historical electrification programs from around the world, paying special attention to those that are most closely related to the settings that have been studied over the past decade or so. Our main point is that providing poor households with access to electricity alone is not enough to improve economic and noneconomic outcomes in a meaningful way. The literature documents large gains from electrification in a number of settings, but in many cases, we cannot rule out the possibility that other factors—either correlated with or visibly part of the electrification efforts—are driving economic outcomes. Universal energy access is arguably an important goal for global equity considerations. But large-scale contemporary initiatives to expand residential access to electricity may not produce meaningful economic impacts unless they are combined with complementary programs that will make electrical appliances more accessible, or they are targeted towards regions that already benefit from complementary factors."
+  },
+  {
+   "title": "General Equilibrium Effects of Cash Transfers: Experimental Evidence from Kenya",
+   "authors": [
+    "Dennis Egger",
+    "Johannes Haushofer",
+    "Edward Miguel",
+    "Paul Niehaus",
+    "Michael Walker"
+   ],
+   "year": 2022,
+   "venue": "Econometrica, 90 (6): 2603-2643",
+   "status": "已发表",
+   "url": "https://emiguel.econ.berkeley.edu/wordpress/wp-content/uploads/2019/11/ecta200500.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Using RCTs to Estimate Long-Run Impacts in Development Economics",
+   "authors": [
+    "Adrien Bouguen",
+    "Yue Huang",
+    "Michael Kremer",
+    "Edward Miguel"
+   ],
+   "year": 2019,
+   "venue": "Annual Review of Economics, 11: 523-561",
+   "status": "已发表",
+   "url": "https://emiguel.econ.berkeley.edu/wordpress/wp-content/uploads/2021/03/Bouguen-etal_AR-2019_2018-12-02_Plain.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Sell Low and Buy High: Arbitrage and Local Price Effects in Kenyan Markets",
+   "authors": [
+    "Burke",
+    "Marshall",
+    "Lauren Falcao Bergquist",
+    "Edward Miguel"
+   ],
+   "year": 2019,
+   "venue": "Quarterly Journal of Economics, 134(2): 785-842",
+   "status": "已发表",
+   "url": "https://academic.oup.com/qje/article-abstract/134/2/785/5266398?redirectedFrom=fulltext",
+   "abstract": "Large and regular seasonal price fluctuations in local grain markets appear to offer African farmers substantial inter-temporal arbitrage opportunities, but these opportunities remain largely unexploited: small-scale farmers are commonly observed to \"sell low and buy high\" rather than the reverse. In a field experiment in Kenya, we show that credit market imperfections limit farmers' abilities to move grain inter-temporally. Providing timely access to credit allows farmers to buy at lower prices and sell at higher prices, increasing farm revenues and generating a return on investment of 29%. To understand general equilibrium effects of these changes in behavior, we vary the density of loan offers across locations. We document significant effects of the credit intervention on seasonal price fluctuations in local grain markets, and show that these GE effects shape individual level profitability estimates. In contrast to existing experimental work, the results indicate a setting in which microcredit can improve farm profitability, and suggest that GE effects can substantially shape microcredit's effectiveness. In particular, failure to consider these GE effects could lead to underestimates of the social welfare benefits of microcredit interventions."
+  },
+  {
+   "title": "Economics of Mass Deworming Programs",
+   "authors": [
+    "Ahuja",
+    "Amrita",
+    "Sarah Baird",
+    "Joan Hamory Hicks",
+    "Michael Kremer",
+    "Edward Miguel"
+   ],
+   "year": 2017,
+   "venue": "\"Economics of Mass Deworming Programs\" (co-authors Amrita Ahuja, Sarah Baird, Joan Hamory Hicks, Michael Kremer), Chapter 29 in Disease Control Priorities (third edition): Volume 8, Child and Adolescent Health and Development, (eds.) D. A. P. Bundy, N. de Silva, S. Horton, D. T. Jamison, and G. C. Patton. Washington, DC: World Bank, 2017.",
+   "status": "已发表",
+   "url": "https://emiguel.econ.berkeley.edu/wordpress/wp-content/uploads/2021/03/Ahuja-DCP3_Volume-8_Chapter-29_2017.pdf",
+   "abstract": "Soil-transmitted helminth (STH) and schistosomiasis infections affect more than 1 billion people, mainly in"
+  },
+  {
+   "title": "Spillover effects in epidemiology: parameters, study designs, and methodological considerations",
+   "authors": [
+    "Jade Benjamin-Chung",
+    "David Berger",
+    "Benjamin F. Arnold",
+    "Alan E. Hubbard",
+    "Stephen P. Luby",
+    "Edward Miguel",
+    "John M. Colford Jr."
+   ],
+   "year": 2017,
+   "venue": "International Journal of Epidemiology",
+   "status": "已发表",
+   "url": "https://academic.oup.com/ije/article/47/1/332/4583505",
+   "abstract": "Many public health interventions provide benefits that extend beyond their direct recipients and impact people in close physical or social proximity who did not directly receive the intervention themselves. A classic example of this phenomenon is the herd protection provided by many vaccines. If these 'spillover effects' (i.e., 'herd effects') are present in the same direction as the effects on the intended recipients, studies that only estimate direct effects on recipients will likely underestimate the full public health benefits of the intervention. Causal inference assumptions for spillover parameters have been articulated in the vaccine literature, but many studies measuring spillovers of other types of public health interventions have not drawn upon that literature. In conjunction with a systematic review we conducted of spillovers of public health interventions delivered in low- and middle-income countries, we classified the most widely used spillover parameters reported in the empirical literature into a standard notation. General classes of spillover parameters include: cluster-level spillovers; spillovers conditional on treatment or outcome density, distance or the number of treated social network links; and vaccine efficacy parameters related to spillovers. We draw on high quality empirical examples to illustrate each of these parameters. We describe study designs to estimate spillovers and assumptions required to make causal inferences about spillovers. We aim to advance and encourage methods for spillover estimation and reporting by standardizing spillover parameter nomenclature and articulating the causal inference assumptions required to estimate spillovers."
+  },
+  {
+   "title": "Spillover effects on health outcomes in low- and middle-income countries: a systematic review",
+   "authors": [
+    "Jade Benjamin-Chung",
+    "Jaynal Abedin",
+    "David Berger",
+    "Ashley Clark",
+    "Veronica Jimenez",
+    "Eugene Konagaya",
+    "Diana Tran",
+    "Benjamin F. Arnold",
+    "Alan E. Hubbard",
+    "Stephen P. Luby",
+    "Edward Miguel",
+    "John M. Colford Jr"
+   ],
+   "year": 2017,
+   "venue": "International Journal of Epidemiology",
+   "status": "已发表",
+   "url": "https://doi.org/10.1093/ije/dyx039",
+   "abstract": "Background: Many interventions delivered to improve health may benefit not only direct recipients but also people in close physical or social proximity. Our objective was to review all published literature about the spillover effects of interventions on health outcomes in low-middle income countries and to identify methods used in estimating these effects. Methods: We searched 19 electronic databases for articles published before 2014 and hand-searched titles from 2010 to 2013 in five relevant journals. We adapted the Cochrane Collaboration’s quality grading tool for spillover estimation and rated the quality of evidence. Results: A total of 54 studies met inclusion criteria. We found a wide range of terminology used to describe spillovers, a lack of standardization among spillover methods and poor reporting of spillovers in many studies. We identified three primary mechanisms of spillovers: reduced disease transmission, social proximity and substitution of resources within households. We found the strongest evidence for spillovers through reduced disease transmission, particularly vaccines and mass drug administration. In general, the proportion of a population receiving an intervention was associated with improved health. Most studies were of moderate or low quality. We found evidence of publication bias for certain spillover estimates but not for total or direct effects. To facilitate improved reporting and standardization in future studies, we developed a reporting checklist adapted from the CONSORT framework specific to reporting spillover effects. Conclusions: We found the strongest evidence for spillovers from vaccines and mass drug administration to control infectious disease. There was little high quality evidence of spillovers for other interventions."
+  },
+  {
+   "title": "Self-Control and Demand for Preventive Health: Evidence from Hypertension in India",
+   "authors": [
+    "Bai",
+    "Liang",
+    "Benjamin Handel",
+    "Edward Miguel",
+    "Gautam Rao"
+   ],
+   "year": 2020,
+   "venue": "forthcoming Review of Economics and Statistics",
+   "status": "即将发表",
+   "url": "http://www.nber.org/papers/w23727",
+   "abstract": "Self-control problems constitute a potential explanation for the under-investment in preventive health in low-income countries. Behavioral economics offers a tool to solve such problems: commitment devices. We conduct a field experiment to evaluate the effectiveness of different types of theoretically-motivated commitment contracts in increasing preventive doctor visits by hypertensive patients in rural India. Despite achieving high take-up of such contracts in some treatment arms, we find no effects on actual doctor visits or individual health outcomes. A substantial number of individuals pay for commitment but fail to follow through on the doctor visit, losing money without experiencing health benefits. We develop and structurally estimate a pre-specified model of consumer behavior under present bias with varying levels of naivete. The results are consistent with a large share of individuals being partially naive about their own self-control problems: sophisticated enough to demand some commitment, but overly optimistic about whether a given level of commitment is suffciently strong to be effective. The results suggest that commitment devices may in practice be welfare diminishing, at least in some contexts, and serve as a cautionary tale about their role in health care."
+  },
+  {
+   "title": "Should the WHO withdraw support for mass deworming?",
+   "authors": [
+    "Kevin Croke",
+    "Joan Hamory Hicks",
+    "Eric Hsu",
+    "Michael Kremer",
+    "Edward Miguel"
+   ],
+   "year": 2017,
+   "venue": "PLoS Neglected Tropical Diseases",
+   "status": "已发表",
+   "url": "http://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0005481",
+   "abstract": "In April 2016, the World Health Organization (WHO)’s Control of Neglected Tropical Diseases (NTD) department and Nutrition for Health and Development (NHD) department convened a Guidelines Development Group meeting to review the WHO’s recommendations for the control of soil-transmitted helminths in high-risk groups. Subsequent to this meeting, the WHO will announce whether it will reaffirm its long-standing recommendation of mass drug administration (MDA) in areas with more than 20% prevalence of soil-transmitted helminths (hookworm, whipworm, and roundworm). We recently released a new meta-analysis working paper focusing on the effect of MDA on weight gain for children, which was presented at this WHO convening. In light of the mounting evidence on both the short-run impacts on child weight and long-run educational and economic effects of deworming, we believe that the expected benefits of deworming are likely to greatly exceed the cost, and that the long-standing support of WHO and other international donors and organizations for mass deworming remains scientifically justified."
+  },
+  {
+   "title": "Reevaluating Agricultural Productivity Gaps with Longitudinal Microdata",
+   "authors": [
+    "Joan Hamory Hicks",
+    "Marieke Kleemans",
+    "Nicholas Y. Li",
+    "Edward Miguel"
+   ],
+   "year": 2020,
+   "venue": "forthcoming Journal of the European Economic Association",
+   "status": "即将发表",
+   "url": "http://www.nber.org/papers/w23253",
+   "abstract": "Recent research has pointed to large gaps in labor productivity between the agricultural and non-agricultural sectors in low-income countries, as well as between workers in rural and urban areas. Most estimates are based on national accounts or repeated cross-sections of micro-survey data, and as a result typically struggle to account for individual selection between sectors. This paper uses long-run individual-level panel data from two low-income countries (Indonesia and Kenya) to explore these gaps. Accounting for individual fixed effects leads to much smaller estimated productivity gains from moving into the non-agricultural sector (or urban areas), reducing estimated gaps by roughly 67 to 92%. Furthermore, gaps do not emerge up to five years after a move between sectors. We evaluate whether these findings imply a re-assessment of the conventional wisdom regarding sectoral gaps, discuss how to reconcile them with existing cross-sectional estimates, and consider implications for the desirability of sectoral reallocation of labor."
+  },
+  {
+   "title": "Commentary: Assessing long-run deworming impacts on education and economic outcomes: a comment on Jullien, Sinclair and Garner (2016)",
+   "authors": [
+    "Sarah Baird",
+    "Joan Hamory Hicks",
+    "Michael Kremer",
+    "Edward Miguel"
+   ],
+   "year": 2017,
+   "venue": "International Journal of Epidemiology",
+   "status": "已发表",
+   "url": "https://academic.oup.com/ije/article/doi/10.1093/ije/dyw350/2970180/Commentary-Assessing-long-run-deworming-impacts-on",
+   "abstract": "Jullien, Sinclair and Garner (2016) (henceforth JSG) state that they seek to ‘appraise the methods’ of three recent papers that estimate long-run impacts of mass deworming on educational or economic outcomes. This commentary focuses on their discussion of Baird, Hicks, Kremer and Miguel (2016) (henceforth Baird).We welcome scrutiny of our work, and appreciate the opportunity to discuss JSG. Baird finds evidence of gains in some educational and labour outcomes 10 years after a deworming programme in 75 Kenyan primary schools. Some gains are found in the full sample, and others among either males or females, in ways that are sensible given the context, e.g. there are gains in manufacturing employment among males but not females, fewer of whom work in this sector in Kenya. Below we discuss JSG’s claim that the evidence in Baird is unreliable. It is not surprising that any two scholars might interpret a body of results differently, but JSG make a series of claims that appear overstated or are somewhat misleading."
+  },
+  {
+   "title": "Transparency, Reproducibility, and the Credibility of Economics Research",
+   "authors": [
+    "Garret S. Christensen",
+    "Edward Miguel"
+   ],
+   "year": 2018,
+   "venue": "Journal of Economic Literature, 56(3): 920-980",
+   "status": "已发表",
+   "url": "https://www.aeaweb.org/articles?id=10.1257/jel.20171350",
+   "abstract": "There is growing interest in enhancing research transparency and reproducibility in economics and other scientific fields. We survey existing work on these topics within economics, and discuss the evidence suggesting that publication bias, inability to replicate, and specification searching remain widespread in the discipline. We next discuss recent progress in this area, including through improved research design, study registration and pre-analysis plans, disclosure standards, and open sharing of data and materials, drawing on experiences in both economics and other social sciences. We discuss areas where consensus is emerging on new practices, as well as approaches that remain controversial, and speculate about the most effective ways to make economics research more credible in the future."
+  },
+  {
+   "title": "Does Mass Deworming Affect Child Nutrition? Meta-analysis, Cost-effectiveness, and Statistical Power",
+   "authors": [
+    "Croke",
+    "Kevin",
+    "Joan Hamory Hicks",
+    "Eric Hsu",
+    "Michael Kremer",
+    "Edward Miguel"
+   ],
+   "year": 2016,
+   "venue": "National Bureau of Economic Research (NBER) Working Paper #22382",
+   "status": "工作论文",
+   "url": "http://www.nber.org/papers/w22382",
+   "abstract": "The WHO has recently debated whether to reaffirm its long-standing recommendation of mass drug administration (MDA) in areas with more than 20% prevalence of soil-transmitted helminths (hookworm, whipworm, and roundworm). There is consensus that the relevant deworming drugs are safe and effective, so the key question facing policymakers is whether the expected benefits of MDA exceed the roughly $0.30 per treatment cost. The literature on long run educational and economic impacts of deworming suggests that this is the case. However, a recent meta-analysis by Taylor-Robinson et al. (2015) (hereafter TMSDG), disputes these findings. The authors conclude that while treatment of children known to be infected increases weight by 0.75 kg (95% CI: 0.24, 1.26; p=0.0038), there is substantial evidence that MDA has no impact on weight or other child outcomes. We update the TMSDG analysis by including studies omitted from that analysis and extracting additional data from included studies, such as deriving standard errors from p-values when the standard errors are not reported in the original article. The updated sample includes twice as many trials as analyzed by TMSDG, substantially improving statistical power. We find that the TMSDG analysis is underpowered: it would conclude that MDA has no effect even if the true effect were (1) large enough to be cost-effective relative to other interventions in similar populations, or (2) of a size that is consistent with results from studies of children known to be infected. The hypothesis of a common zero effect of multiple-dose MDA deworming on child weight at longest follow-up is rejected at the 10% level using the TMSDG dataset, and with a p-value < 0.001 using the updated sample. Applying either of two study classification approaches used in previous Cochrane Reviews (prior to TMSDG) also leads to rejection at the 5% level. In the full sample, including studies in environments where prevalence is low enough that the WHO does not recommend deworming, the average effect on child weight is 0.134 kg (95% CI: 0.031, 0.236, random effects estimation). In environments with greater than 20% prevalence, where the WHO recommends mass treatment, the average effect on child weight is 0.148 kg (95% CI: 0.039, 0.258). The implied average effect of MDA on infected children in the full sample (calculated by dividing estimated impact by worm prevalence for each study and applying a random effects model) is 0.301 kg. At 0.22 kg per U.S. dollar, the estimated average weight gain per dollar expenditure from deworming MDA is more than 35 times that from school feeding programs as estimated in RCTs. Under-powered meta-analyses (such as TMSDG) are common in health research, and this methodological issue will be increasingly important as growing numbers of economists and other social scientists conduct meta-analysis."
+  },
+  {
+   "title": "Can War Foster Cooperation?",
+   "authors": [
+    "Michael Bauer",
+    "Christopher Blattman",
+    "Julie Chytilova",
+    "Joseph Henrich",
+    "Edward Miguel",
+    "Tamar Mitts"
+   ],
+   "year": 2016,
+   "venue": "Journal of Economic Perspectives, 30(3): 249-274",
+   "status": "已发表",
+   "url": "https://www.aeaweb.org/articles?id=10.1257/jep.30.3.249",
+   "abstract": "In the past decade, nearly 20 studies have found a strong, persistent pattern in surveys and behavioral experiments from over 40 countries: individual exposure to war violence tends to increase social cooperation at the local level, including community participation and prosocial behavior. Thus while war has many negative legacies for individuals and societies, it appears to leave a positive legacy in terms of local cooperation and civic engagement. We discuss, synthesize and reanalyze the emerging body of evidence, and weigh alternative explanations. There is some indication that war violence especially enhances in-group or \"parochial\" norms and preferences, a finding that, if true, suggests that the rising social cohesion we document need not promote broader peace."
+  },
+  {
+   "title": "Appliance Ownership and Aspirations among Electric Grid and Home Solar Households in Rural Kenya",
+   "authors": [
+    "Kenneth Lee",
+    "Edward Miguel",
+    "Catherine Wolfram"
+   ],
+   "year": 2016,
+   "venue": "American Economic Review: Papers & Proceedings, 106(5): 89-94",
+   "status": "已发表",
+   "url": "https://www.aeaweb.org/articles?id=10.1257/aer.p20161097",
+   "abstract": "In this paper, we summarize the results of a recent household appliance survey conducted in Western Kenya to provide descriptive evidence on how rural households with and without grid connections, and those with home solar systems, compare in terms of the appliances they own and the appliances they aspire to own. Our data indicate that home solar users own quite different appliances compared to grid-connected households, and suggest that home solar does not satisfy the full range of household energy needs, given current appliance technologies. We also document planned expansions in centralized electricity generating capacity in a number of Sub-Saharan African countries, including Kenya. We find that the environmental advantages of decentralized solar are likely to be relatively small in countries like Kenya, where a large proportion of existing and planned grid electricity is generated without fossil fuels."
+  },
+  {
+   "title": "Experimental Evidence on the Economics of Rural Electrification",
+   "authors": [
+    "Kenneth Lee",
+    "Edward Miguel",
+    "Catherine Wolfram"
+   ],
+   "year": 2020,
+   "venue": "Journal of Political Economy, 128(4): 1523-1565",
+   "status": "已发表",
+   "url": "https://doi.org/10.1086/705417",
+   "abstract": "We present results from an experiment that randomized the expansion of electric grid infrastructure in rural Kenya. Electricity distribution is a canonical example of a natural monopoly. Experimental variation in the number of connections, combined with administrative cost data, reveals considerable scale economies, as hypothesized. Randomized price offers indicate that demand for connections falls sharply with price. Among newly connected households, average electricity consumption is very low, implying low consumer surplus. We do not find meaningful medium-run impacts on economic and noneconomic outcomes. We discuss implications for current efforts to increase rural electrification in Kenya and highlight how various factors may affect interpretation."
+  },
+  {
+   "title": "Impacts and Determinants of Health Levels in Low-Income Countries",
+   "authors": [
+    "Pascaline Dupas",
+    "Edward Miguel"
+   ],
+   "year": 2017,
+   "venue": "2017, Handbook of Field Experiments, (eds.) Esther Duflo and Abhijit Banerjee",
+   "status": "已发表",
+   "url": "https://emiguel.econ.berkeley.edu/wordpress/wp-content/uploads/2021/03/1-s2.0-S2214658X16300113-main.pdf",
+   "abstract": "Improved health in low-income countries could considerably improve wellbeing and possibly promote economic growth. The last decade has seen a surge in field experiments designed to understand the barriers that households and governments face in investing in health and how these barriers can be overcome, and to assess the impacts of subsequent health gains. This chapter first discusses the methodological pitfalls that field experiments in the health sector are particularly susceptible to, then reviews the evidence that rigorous field experiments have generated so far. While the link from in utero and child health to later outcomes has increasingly been established, few experiments have estimated the impacts of health on contemporaneous productivity among adults, and few experiments have explored the potential for infrastructural programs to impact health outcomes. Many more studies have examined the determinants of individual health behavior, on the side of consumers as well as among providers of health products and services."
+  },
+  {
+   "title": "Analysis of statistical power reconciles drought-conflict results in Africa",
+   "authors": [
+    "Solomon M. Hsiang",
+    "Marshall Burke",
+    "Edward Miguel",
+    "Kyle C. Meng",
+    "Mark A. Cane"
+   ],
+   "year": 2016,
+   "venue": "CEGA Working Paper #53, December 2015",
+   "status": "工作论文",
+   "url": "https://emiguel.econ.berkeley.edu/wordpress/wp-content/uploads/2021/03/eScholarship_UC_item_77s421cd.pdf",
+   "abstract": "Whether changes in climate substantially shape human conflict is a question of considerable recent interest to both academics and policymakers. Despite a substantial body of evidence for a strong association between climate and conflict, it remains widely claimed that large-sample empirical evidence linking climatic conditions and modern human conflict in Africa is mixed and thus any reported evidence for a strong association should be discounted. Theisen, Holterman, and Buhaug (henceforth THB) is one of the studies used to support this claim. Here we show that the results in THB are not inconsistent with earlier studies that report a substantial e ect of of climate on conflict. We demonstrate using power calculations and Monte Carlo simulations that even if a large association between climate and conflict existed in the data, the approach of THB would not be able to reliably distinguish this association from a null e ect, indicating that the approach taken by THB is statistically underpowered in this context. Therefore THB's analysis provides no basis for discarding earlier analyses and THB's conclusions drawn from this analysis overstate the extent to which they disagree with the literature. We also demonstrate that THB's stated advantage from using exceptionally high resolution data is unlikely to be realized in their analysis, since high resolution rainfall data was not actually collected in the majority conflict zones studied by THB. Although unremarked in the original analysis, the rainfall data in THB are interpolations of sparse and incomplete rainfall measurements."
+  },
+  {
+   "title": "Tracking, Attrition and Data Quality in the Kenyan Life Panel Survey Round 1 (KLPS-1)",
+   "authors": [
+    "Sarah Baird",
+    "Joan Hamory Hicks",
+    "Edward Miguel"
+   ],
+   "year": 2008,
+   "venue": "Baird, Sarah, Joan Hamory Hicks, and Edward Miguel. (2008). \"Tracking, Attrition and Data Quality in the Kenyan Life Panel Survey Round 1 (KLPS-1)\", University of California CIDER Working Paper #C08-151.",
+   "status": "工作论文",
+   "url": "https://emiguel.econ.berkeley.edu/wordpress/wp-content/uploads/2021/03/attrition_paper_FINAL-CIDER_aug08.pdf",
+   "abstract": "Understanding the possible pitfalls of survey data is critical for empirical research. Among other things, poor data quality can lead to biased regression estimates, potentially resulting in incorrect interpretations that mislead researchers and policymakers alike. Common data problems include difficulties in tracking respondents and high survey attrition, enumerator error and bias, and respondent reporting error. This paper describes and analyzes these issues in Round 1 of the Kenyan Life Panel Survey (KLPS-1), collected in 2003-2005. The KLPS-1 is an innovative longitudinal dataset documenting a wide range of outcomes for Kenyan youths who had originally attended schools participating in a deworming treatment program starting in 1998. The careful design of this survey allows for examination of an array of data quality issues."
+  },
+  {
+   "title": "Willingness to pay for cleaner water in less developed countries: systematic review of experimental evidence",
+   "authors": [
+    "Clair Null",
+    "Michael Kremer",
+    "Edward Miguel",
+    "Jorge Garcia Hombrados",
+    "Robyn Meeks",
+    "Alix Petersen Zwane"
+   ],
+   "year": 2012,
+   "venue": "Clair Null, Michael Kremer, Jorge Garcia Hombrados, Robyn Meeks, Edward Miguel, and Alix Petersen Zwane. (2012). \"Willingness to pay for cleaner water in less developed countries: systematic review of experimental evidence\", 3ie Systematic Review 006.",
+   "status": "已发表",
+   "url": "https://emiguel.econ.berkeley.edu/wordpress/wp-content/uploads/2021/03/SR006.pdf",
+   "abstract": "Diarrheal diseases kill two million children every year despite the availability of effective and inexpensive technologies to improve water quality and limit the spread of pathogens. There is a growing literature on the effectiveness of such technologies but important gaps remain in understanding the demand for these products and the adoption decision. This review expands upon and complements several existing summary articles by focusing on willingness to pay for cleaner water. Willingness to pay can be measured by price randomizations that induce people to reveal their valuation in real purchase decisions or by other methods such as contingent valuation exercises in hypothetical situations and discrete choice analysis. The review conducts a systematic search for experimental evidence on willingness to pay for cleaner water."
+  },
+  {
+   "title": "Methodologies to Evaluate Early Childhood Development Programs",
+   "authors": [
+    "Jere Behrman",
+    "Paul Glewwe",
+    "Edward Miguel"
+   ],
+   "year": 2007,
+   "venue": "World Bank Doing Impact Evaluation #9",
+   "status": "已发表",
+   "url": "https://emiguel.econ.berkeley.edu/wordpress/wp-content/uploads/2021/03/Doing_ie_series_09.pdf",
+   "abstract": "This chapter is devoted to discussions of how assessments of early childhood development (ECD) interventions in developing countries can be improved and extended. There are estimates that ECD problems are widespread in developing countries, increasing evidence that what happens in early childhood affects significantly options and productivities over the life cycles but very little systematic evidence to support that the impacts of these ECD programs are large or, more importantly, that the benefit-to-cost ratios of ECD interventions are high – particularly in light of the heterogeneous market, policy, and cultural contexts across developing countries that may limit the transferability of inferences from one context to another. Therefore the returns are potentially great not only for those who already are persuaded that more resources should be devoted to EDC interventions in developing countries in order that they can make their case more persuasively but also for those who are concerned more broadly about prioritizing resource allocations across what might seem to be a number of strong but difficult-to-compare alternatives ranging from other human resource investments to physical infrastructure investments to policies that affect markets such as for international goods and services and labor and capital flows, to have more systematic evaluations of the impacts of ECD interventions and of their benefit-to-cost ratios."
+  },
+  {
+   "title": "Ethnically biased? Experimental Evidence from Kenya",
+   "authors": [
+    "Lars Ivar Oppedal Berge",
+    "Kjetil Bjorvatn",
+    "Simon Galle",
+    "Edward Miguel",
+    "Daniel Posner",
+    "Bertil Tungodden",
+    "Kelly Zhang"
+   ],
+   "year": 2019,
+   "venue": "Journal of the European Economic Association, 2019",
+   "status": "已发表",
+   "url": "https://doi.org/10.1093/jeea/jvz003",
+   "abstract": "Ethnicity has been shown to shape political, social, and economic behavior in Africa, but the underlying mechanisms remain contested. We utilize lab experiments to isolate one mechanism—an individual’s bias in favor of coethnics and against non-coethnics—that has been central in both theory and in the conventional wisdom about the impact of ethnicity. We employ an unusually rich research design involving a large sample of 1300 participants from Nairobi, Kenya; the collection of multiple rounds of experimental data with varying proximity to national elections; within-lab priming conditions; both standard and novel experimental measures of coethnic bias; and an implicit association test (IAT). We find very little evidence of an ethnic bias in the behavioral games, which runs against the common presumption of extensive coethnic bias among ordinary Africans and suggests that mechanisms other than a coethnic bias in preferences must account for the associations we see in the region between ethnicity and political, social, and economic outcomes."
+  },
+  {
+   "title": "The case for mass treatment of intestinal helminths in endemic areas",
+   "authors": [
+    "Joan Hamory Hicks",
+    "Michael Kremer",
+    "Edward Miguel"
+   ],
+   "year": 2015,
+   "venue": "Hicks, Joan Hamory, Michael Kremer, and Edward Miguel. \"The Case of Mass Treatment of Intestinal Helminths in Endemic Areas\", PLOS Neglected Tropical Diseases, 2015, 9(10): e0004214. 10.1371/journal.pntd.0004214.",
+   "status": "已发表",
+   "url": "http://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0004214",
+   "abstract": "Two articles published earlier this year in the International Journal of Epidemiology have re-ignited the debate over the World Health Organization’s long-held recommendation of mass-treatment of intestinal helminths in endemic areas. In this note, we discuss the content and relevance of these articles to the policy debate, and review the broader research literature on the educational and economic impacts of deworming. We conclude that existing evidence still indicates that mass deworming is a cost-effective health investment for governments in low-income countries where worm infections are widespread."
+  },
+  {
+   "title": "Global non-linear effect of temperature on economic production",
+   "authors": [
+    "Marshall Burke",
+    "Solomon Hsiang",
+    "Edward Miguel"
+   ],
+   "year": 2015,
+   "venue": "Nature",
+   "status": "已发表",
+   "url": "http://www.nature.com/nature/journal/vaop/ncurrent/full/nature15725.html",
+   "abstract": "We show that overall economic productivity is nonlinear in temperature for all countries, with productivity peaking at an annual average temperature of 13 C and declining strongly at higher temperatures. The relationship is globally generalizable, unchanged since 1960, and apparent for agricultural and non-agricultural activity in both rich and poor countries, with important implications. If future adaptation mimics past adaptation, unmitigated warming is expected to reshape the global economy by reducing average global incomes roughly 23% by 2100 and widening global income inequality, relative to scenarios without climate change."
+  },
+  {
+   "title": "War and Deforestation in Sierra Leone",
+   "authors": [
+    "Robin Burgess",
+    "Edward Miguel",
+    "Charlotte Stanton"
+   ],
+   "year": 2015,
+   "venue": "Environmental Research Letters, 10 (2015) 095014",
+   "status": "已发表",
+   "url": "https://emiguel.econ.berkeley.edu/wordpress/wp-content/uploads/2021/03/ERL-published-pdf_2015-09.pdf",
+   "abstract": "The impact of armed conflict on the environment is of major public policy importance. We use a geographically disaggregated dataset of civil war violence together with satellite imagery of land cover to test whether war facilitated or prevented forest loss in Sierra Leone. The conflict data set allows us to establish where rebel groups were stationed and where battles and attacks occurred. The satellite data enables to us to monitor the change in forest cover (total, primary, and secondary) in all of Sierra Leone's 151 chiefdoms, between 1990 (prior to the war) and 2000 (just prior to its end). The results suggest that conflict in Sierra Leone acted as a brake on local deforestation: conflict-ridden areas experienced significantly less forest loss relative to their more conflict-free counterparts."
+  },
+  {
+   "title": "Estimating spillover effects in a causal inference framework: a systematic review and methods synthesis",
+   "authors": [
+    "Edward Miguel",
+    "Jade Benjamin-Chung",
+    "Benjamin F Arnold",
+    "David Berger",
+    "Ashley Clark",
+    "Lauren Falcao",
+    "Veronica Jimenez",
+    "Diana Tran",
+    "Eugene Konagaya",
+    "Alan Hubbard",
+    "Stephen P Luby",
+    "John M Colford",
+    "Jr"
+   ],
+   "year": 2015,
+   "venue": "Miguel, Edward, Jade Benjamin-Chung, Benjamin F Arnold, David Berger, Ashley Clark, Lauren Falcao, Veronica Jimenez, Diana Tran, Eugene Konagaya, lan Hubbard, Stephen P Luby, John M Colford, Jr. (2015) 3ie Systematic Review.",
+   "status": "已发表",
+   "url": "https://emiguel.econ.berkeley.edu/research/estimating-spillover-effects-in-a-causal-inference-framework-a-systematic-review-and-methods-synthesis/",
+   "abstract": null
+  },
+  {
+   "title": "Worms at work: Long-run impacts of a child health investment",
+   "authors": [
+    "Sarah Baird",
+    "Joan Hamory Hicks",
+    "Michael Kremer",
+    "Edward Miguel"
+   ],
+   "year": 2016,
+   "venue": "Quarterly Journal of Economics, 131(4): 1637-1680",
+   "status": "已发表",
+   "url": "https://qje.oxfordjournals.org/content/131/4/1637.short",
+   "abstract": "This study estimates long-run impacts of a child health investment, exploiting community-wide experimental variation in school-based deworming. The program increased labor supply among men and education among women, with accompanying shifts in labor market specialization. Ten years after deworming treatment, men who were eligible as boys stay enrolled for more years of primary school, work 17% more hours each week, spend more time in non-agricultural self-employment, are more likely to hold manufacturing jobs, and miss one fewer meal per week. Women who were in treatment schools as girls are approximately one quarter more likely to have attended secondary school, halving the gender gap. They reallocate time from traditional agriculture into cash crops and non-agricultural self-employment. We estimate a conservative annualized financial internal rate of return to deworming of 32%, and show that mass deworming may generate more in future government revenue than it costs in subsidies."
+  },
+  {
+   "title": "Commentary: Deworming externalities and schooling impacts in Kenya: a comment on Aiken et al. (2015) and Davey et al. (2015)",
+   "authors": [
+    "Joan Hamory Hicks",
+    "Michael Kremer",
+    "Edward Miguel"
+   ],
+   "year": 2015,
+   "venue": "International Journal of Epidemiology",
+   "status": "已发表",
+   "url": "http://ije.oxfordjournals.org/content/early/2015/07/21/ije.dyv129.full?keytype=ref&#038;ijkey=F2Tzby4TFkd2zfN",
+   "abstract": "Aiken et al. (2015) and Davey et al (2015) draw the conclusion that the evidence for a relationship between deworming and school attendance is “weak” based on two fundamental errors in their data analysis. First, the authors redefine treatment to include pre-treatment control periods. Second, while the original research design was based on a stepped-wedge analysis that was adequately powered, the re-analysis authors undertake a clearly under-powered alternative analysis which ignores the time series element of the data, and then splits the cross-sectional analysis into two separate components, each of which has inadequate power. Examining the fully powered analysis, they report that in a fully-adjusted logistic regression model making maximum use of the data available, there is strong evidence of an improvement in school attendance. If either error is corrected, deworming significantly increases school attendance under the full range of statistical analyses considered by Davey et al. Their analysis also underestimates the impact of deworming on school attendance by neglecting violations of the SUTVA assumption generated by transmission of worm infection to nearby schools (as in Miguel and Kremer 2004)."
+  },
+  {
+   "title": "When Should Governments Subsidize Health? The Case of Mass Deworming",
+   "authors": [
+    "Amrita Ahuja",
+    "Sarah Baird",
+    "Joan Hamory Hicks",
+    "Michael Kremer",
+    "Edward Miguel",
+    "Shawn Powers"
+   ],
+   "year": 2015,
+   "venue": "World Bank Economic Review, 10.1093/wber/lhv008",
+   "status": "已发表",
+   "url": "http://wber.oxfordjournals.org/content/early/2015/06/03/wber.lhv008.abstract",
+   "abstract": "We discuss how evidence and theory can be combined to provide insight on the appropriate subsidy level for health products, focusing on the specific case of deworming. Although intestinal worm infections can be treated using safe, low-cost drugs, some have challenged the view that mass school-based deworming should be a policy priority. We review well-identified research which both uses experimental or quasiexperimental methods to demonstrate causal relationships and adequately accounts for epidemiological externalities from deworming treatment, including studies of deworming campaigns in the Southern United States, Kenya, and Uganda. The existing evidence shows consistent positive impacts on school participation in the short run and on academic test scores, employment, and income in the long run, while suggesting that most parents will not pay for deworming treatment that is not fully subsidized. There is also evidence for a fiscal externality through higher future tax revenue, which may exceed the cost of the program. Our analysis suggests that the economic benefits of school-based deworming programs are likely to exceed their costs in places where worm infestations are endemic. This would likely be the case even if the benefits were only a fraction of estimates in the existing literature."
+  },
+  {
+   "title": "Promoting an Open Research Culture",
+   "authors": [
+    "B. A. Nosek",
+    "G. Alter",
+    "G. C. Banks",
+    "D. Borsboom",
+    "S. D. Bowman",
+    "S. J. Breckler",
+    "S. Buck",
+    "C. D. Chambers",
+    "G. Chin",
+    "G. Christensen",
+    "M. Contestabile",
+    "A. Dafoe",
+    "E. Eich",
+    "J. Freese",
+    "R. Glennerster",
+    "D. Goroff",
+    "D. P. Green",
+    "B. Hesse",
+    "M. Humphreys",
+    "J. Ishiyama",
+    "D. Karlan",
+    "A. Kraut",
+    "A. Lupia",
+    "P. Mabry",
+    "T. A. Madon",
+    "N. Malhotra",
+    "E. Mayo-Wilson",
+    "M. McNutt",
+    "Edward Miguel",
+    "E. Levy Paluck",
+    "U. Simonsohn",
+    "C. Soderberg",
+    "B. A. Spellman",
+    "J. Turitto",
+    "G. VandenBos",
+    "S. Vazire",
+    "E. J. Wagenmakers",
+    "R. Wilson",
+    "T. Yarkoni"
+   ],
+   "year": 2015,
+   "venue": "B. A. Nosek, G. Alter, G. C. Banks, D. Borsboom, S. D. Bowman, S. J. Breckler, S. Buck, C. D. Chambers, G. Chin, G. Christensen, M. Contestabile, A. Dafoe, E. Eich, J. Freese, R. Glennerster, D. Goroff, D. P. Green, B. Hesse, M. Humphreys, J. Ishiyama, D. Karlan, A. Kraut, A. Lupia, P. Mabry, T. A. Madon, N. Malhotra, E. Mayo-Wilson, M. McNutt, E. Miguel, E. Levy Paluck, U. Simonsohn, C. Soderberg, B. A. Spellman, J. Turitto, G. VandenBos, S. Vazire, E. J. Wagenmakers, R. Wilson, and T. Yarkoni. \"Promoting an Open Research Culture: Author guidelines for journals could help to promote transparency, openness, and reproducibility\", Science, 2015, 26 June 2015 348(6242): 1422-1425, 10.1126/science.aab2374.",
+   "status": "已发表",
+   "url": "https://emiguel.econ.berkeley.edu/research/promoting-an-open-research-culture/",
+   "abstract": "The journal article is central to the research communication process. Guidelines for authors define what aspects of the research process should be made available to the community to evaluate, critique, reuse, and extend. Scientists recognize the value of transparency, openness, and reproducibility. Improvement of journal policies can help those values become more evident in daily practice and ultimately improve the public trust in science, and science itself."
+  },
+  {
+   "title": "War and Local Collective Action in Sierra Leone: A Comment on the Use of Coefficient Stability Approaches",
+   "authors": [
+    "Felipe Gonzalez",
+    "Edward Miguel"
+   ],
+   "year": 2015,
+   "venue": "2015, Journal of Public Economics, 128: 30-33, 10.1016/j.jpubeco.2015.05.004",
+   "status": "已发表",
+   "url": "http://www.sciencedirect.com/science/article/pii/S0047272715000997",
+   "abstract": "In a study of the effect of civil war exposure on local collective action outcomes in Sierra Leone, Bellows and Miguel (2009) employ a coefï¬cient stability approach to assess the importance of omitted variable bias building on Altonji et al. (2005a). Here we clarify the econometric assumptions underlying Bellows and Miguel (2009), and extend their analysis using data on dependent variable reliability ratios and the method developed in Oster (2015)."
+  },
+  {
+   "title": "Reconciling climate-conflict meta-analyses: reply to Buhaug et al.",
+   "authors": [
+    "Solomon M. Hsiang",
+    "Marshall Burke",
+    "Edward Miguel"
+   ],
+   "year": 2014,
+   "venue": "Climatic Change",
+   "status": "已发表",
+   "url": "http://link.springer.com/article/10.1007/s10584-014-1276-z",
+   "abstract": "A comment by Buhaug et al. attributes disagreement between our recent analyses and their review articles to biased decisions in our meta-analysis and a difference of opinion regarding statistical approaches. The claim is false. Buhaug et al.’s alteration of our metaanalysis misrepresents findings in the literature, makes statistical errors, misclassifies multiple studies, makes coding errors, and suppresses the display of results that are consistent with our original analysis. We correct these mistakes and obtain findings in line with our original results, even when we use the study selection criteria proposed by Buhaug et al. We conclude that there is no evidence in the data supporting the claims raised in Buhaug et al."
+  },
+  {
+   "title": "Climate and Conflict",
+   "authors": [
+    "Burke",
+    "Marshall",
+    "Solomon M. Hsiang",
+    "Edward Miguel"
+   ],
+   "year": 2015,
+   "venue": "Annual Review of Economics",
+   "status": "已发表",
+   "url": "https://emiguel.econ.berkeley.edu/assets/miguel_research/58/w20598.pdf",
+   "abstract": "We review the emerging literature on climate and conflict.We consider multiple types of human conflict, including both interpersonal conflict, such as assault and murder, and intergroup conflict, including riots and civil war. We discuss key methodological issues in estimating causal relationships and largely focus on natural experiments that exploit variation in climate over time. Using a hierarchical meta-analysis that allows us to both estimate the mean effect and quantify the degree of variability across 55 studies, we find that deviations from moderate temperatures and precipitation patterns systematically increase conflict risk. Contemporaneous temperature has the largest average impact, with each 1 sd increase in temperature increasing interpersonal conflict by 2.4% and intergroup conflict by 11.3%.We conclude by highlighting research priorities, including a better understanding of the mechanisms linking climate to conflict, societies’ ability to adapt to climatic changes, and the likely impacts of future global warming."
+  },
+  {
+   "title": "Electrification for ‘Under Grid’ Households in Rural Kenya",
+   "authors": [
+    "Kenneth Lee",
+    "Eric Brewer",
+    "Carson Christiano",
+    "Francis Meyo",
+    "Edward Miguel",
+    "Matthew Podolsky",
+    "Javier Rosa",
+    "Catherine Wolfram"
+   ],
+   "year": 2015,
+   "venue": "Development Engineering, 2015",
+   "status": "已发表",
+   "url": "http://www.sciencedirect.com/science/article/pii/S235272851530035X",
+   "abstract": "In Sub-Saharan Africa, 600 million people live without electricity. Despite ambitions of governments and donors to invest in rural electrification, decisions about how to extend electricity access are being made in the absence of rigorous evidence. Using a novel dataset of 20,000 geo-tagged structures in rural Western Kenya, we provide descriptive evidence that electrification rates remain very low despite significant investments in grid infrastructure. This pattern holds across time and for both poor and relatively well-off households and businesses. We argue that if governments wish to leverage existing infrastructure and economies of scale, subsidies and new approaches to financing connections are necessary."
+  },
+  {
+   "title": "Temperature and violence",
+   "authors": [
+    "Mark A. Cane",
+    "Solomon M. Hsiang",
+    "David B. Lobell",
+    "Kyle C. Meng",
+    "Edward Miguel",
+    "Shanker Satyanath"
+   ],
+   "year": 2014,
+   "venue": "Cane, Mark A., Marshall Burke, Solomon M. Hsiang, David B. Lobell, Kyle C. Meng, Edward Miguel, Shanker Satyanath, \"Temperature and violence\", Nature Climate Change, 2014, 4, 234-235, 10.1038/nclimate2171.",
+   "status": "已发表",
+   "url": "http://www.nature.com/nclimate/journal/v4/n4/full/nclimate2171.html",
+   "abstract": null
+  },
+  {
+   "title": "Promoting Transparency in Social Science Research",
+   "authors": [
+    "Edward Miguel",
+    "C. Camerer",
+    "K. Casey",
+    "J. Cohen",
+    "K. M. Esterling",
+    "A. Gerber",
+    "R. Glennerster",
+    "D. P. Green",
+    "M. Humphreys",
+    "G. Imbens",
+    "D. Laitin",
+    "T. Madon",
+    "L. Nelson",
+    "B. A. Nosek",
+    "M. Petersen",
+    "R. Sedlmayr",
+    "J. P. Simmons",
+    "U. Simonsohn",
+    "M. Van der Laan"
+   ],
+   "year": 2014,
+   "venue": "Science, 10.1126/science.1245317",
+   "status": "已发表",
+   "url": "https://emiguel.econ.berkeley.edu/research/promoting-transparency-in-social-science-research/",
+   "abstract": "We survey recent progress toward research transparency in the social sciences and make the case for standards and practices that help realign scholarly incentives with scholarly values. There is growing appreciation for the advantages of experimentation in the social sciences, but accompanying these changes is a growing sense that incentives, norms, and institutions under which social science operates undermine gains from improved research design. We describe promising, bottom-up innovations in the social sciences, including the three core practices of: disclosure; registration and preanalysis plans; and open data and materials. We also assess common objections to the move toward greater transparency, and argue that new practices need to be implemented in a way that does not stifle creativity or create excess burden."
+  },
+  {
+   "title": "Reconciling Temperature-conflict Results in Kenya",
+   "authors": [
+    "Solomon M. Hsiang",
+    "Marshall Burke",
+    "Edward Miguel"
+   ],
+   "year": 2013,
+   "venue": "Hsiang, Solomon M; Burke, Marshall; Miguel, Edward. (2013). Reconciling Temperature-conflict Results in Kenya.",
+   "status": "工作论文",
+   "url": "https://emiguel.econ.berkeley.edu/wordpress/wp-content/uploads/2021/03/Reconciling_Tempurature-conflict_Results_in_Kenya.pdf",
+   "abstract": "Theisen (JPR, 2012) recently constructed a novel high-resolution data set of intergroup and political conflict in Kenya (1989-2004) and examined whether the risk of conflict onset and incidence responds to annual pixel-level variations in temperature and precipitation. Thiesen concluded that only extreme precipitation is associated with conflict incidence and that temperature is unrelated to conflict, seemingly at odds with recent studies that found a positive association at the pixel scale (O'laughlin et al., PNAS 2012), at the country scale (Burke et al., PNAS 2009), and at the continental scale (Hsiang et al., Nature 2011) in Africa. Here we show these ndings can be reconciled when we correct the erroneous coding of temperature-squared in Thiesen. In contrast to the original conclusions presented in Theisen, both conflict onset and conflict incidence are significantly and positively associated with local temperature in this new and independently assembled data set."
+  },
+  {
+   "title": "Epidemiology of Single and Multiple Species of Helminth Infections Among School Children in Busia District, Kenya",
+   "authors": [
+    "Simon Brooker",
+    "Edward A. Miguel",
+    "Sylvie Moulin",
+    "Alfred I. Louba",
+    "Donald A.P. Bundy",
+    "Michael Kremer",
+    "Edward Miguel"
+   ],
+   "year": 2000,
+   "venue": "East African Medical Journal 77(3): 157-161",
+   "status": "已发表",
+   "url": "http://journals.cambridge.org/action/displayAbstract?fromPage=online&#038;aid=5192580",
+   "abstract": "OBJECTIVE: To describe the patterns of single and multiple helminth infection in school children from Busia District, Kenya."
+  },
+  {
+   "title": "The Potential of Rapid Screening Methods for <i>Schistosoma Mansoni</i> in Western Kenya",
+   "authors": [
+    "Simon Brooker",
+    "Edward A. Miguel",
+    "Polycarp Waswa",
+    "Robert Namunyu",
+    "Sylvie Moulin",
+    "Helen Guyatt",
+    "Donald A.P. Bundy",
+    "Edward Miguel"
+   ],
+   "year": 2001,
+   "venue": "Annals of Tropical Medicine & Parasitology 95(4): 343-351",
+   "status": "已发表",
+   "url": "https://emiguel.econ.berkeley.edu/wordpress/wp-content/uploads/2021/03/Brooker-Annals.pdf",
+   "abstract": "Data from 46 schools in western Kenya were used to investigate the performance of school-based questionnaires, on reported blood in stool and water-contact patterns, as indicators of the prevalence of human infection with Schistosoma mansoni. Prevalence of infection was associated with the prevalence of self-reported blood in stool, recent history of swimming and recent history of fishing. It was shown that use of a threshold of 30% of subjects reporting blood in stool would identify 42.9% of the `high-prevalence’ schools (i.e. prevalence ≥ 50%) and 87.5% of the `low-prevalence’ schools (i.e. prevalence < 50%). A threshold of 25% reporting swimming would identify 57.1% and 93.7% of the high- and low-prevalence schools, respectively. Blood in stool appears to be too coarse an indicator to identify schools for mass treatment correctly. Although the use of multiple questions improved the diagnostic performance of the questionnaire in identifying the high-prevalence schools, it was unclear how questions can best be combined in other settings. However, there is a direct relationship between prevalence of S. mansoni infection and distance of the school from the lakeshore; analysis indicated that use of a threshold of 5 km from the lakeshore would correctly identify most (90%) of both the low- and high-prevalence schools. Distance to the lakeshore may therefore be used to screen schools in much of East Africa (i.e. those areas close to the Great Lakes where the infection is known to be prevalent and where much of the region’ s population is concentrated). In other areas of transmission , such as irrigation areas, further studies are still required."
+  },
+  {
+   "title": "Anaemia in Schoolchildren in Eight Countries in Africa and Asia",
+   "authors": [
+    "Andrew Hall",
+    "Emily Bobrow",
+    "Simon Brooker",
+    "Matthew Jukes",
+    "Kate Nokes",
+    "Jane Lambo",
+    "Helen Guyatt",
+    "Don Bundy",
+    "Sam Adjei",
+    "Su-Tung Wen",
+    "Satoto",
+    "Hertanto Subagio",
+    "Mohammed Zen Rafiluddin",
+    "Edward Miguel",
+    "Sylvie Moulin",
+    "Joseph de Graft Johnson",
+    "Mary Mukaka",
+    "Nathalie Roschnik",
+    "Moussa Sacko",
+    "Anna Zacher",
+    "Bonifacio Mahumane",
+    "Charles Kihamia",
+    "Lillian Mwanri",
+    "Simon Tatala",
+    "Nicholas Lwambo",
+    "Julius Siza",
+    "Le Nguyen Bao Khanh",
+    "Ha Huy Khoi",
+    "Nguyen Duy Toan"
+   ],
+   "year": 2001,
+   "venue": "Public Health Nutrition 4(3): 749-756",
+   "status": "已发表",
+   "url": "http://journals.cambridge.org/action/displayAbstract?fromPage=online&#038;aid=5192580",
+   "abstract": "OBJECTIVE: To report on the haemoglobin concentrations and prevalence of anaemia in schoolchildren in eight countries in Africa and Asia."
+  },
+  {
+   "title": "Economic Shocks and Democratization in Africa",
+   "authors": [
+    "Manuel Barron",
+    "Edward Miguel",
+    "Shanker Satyanath"
+   ],
+   "year": 2013,
+   "venue": "Political Science Research and Methods, Available on CJO 2013",
+   "status": "已发表",
+   "url": "http://journals.cambridge.org/abstract_S2049847013000277",
+   "abstract": "The literature on the determinants of democratization was long dominated by a view that claimed a central role for economic development (“modernization”). Acemoglu et al. (2008, 2009) have recently challenged the robustness of empirical support for the modernization hypothesis. As an alternative they claim that democratization is likely to occur in moments of economic crisis. An article in a leading economics journal by Bruckner and Ciccone (2011) appears to offer strong support for this latter view; it claims that lagged adverse GDP shocks generated by poor rainfall generate “windows of opportunity” for democratization in contemporary Sub-Saharan Africa. In this paper, we present evidence that this provocative finding does not survive several sensible robustness checks, leading us to doubt if the paper offers new insights into the process of democratization."
+  },
+  {
+   "title": "Political Competition and Ethnic Identification in Africa",
+   "authors": [
+    "Benn Eifert",
+    "Edward Miguel",
+    "Daniel N. Posner"
+   ],
+   "year": 2010,
+   "venue": "American Journal of Political Science 54 (2): 494-510",
+   "status": "已发表",
+   "url": "http://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2010.00443.x/abstract",
+   "abstract": "This article draws on data from over 35,000 respondents in 22 public opinion surveys in 10 countries and finds strong evidence that ethnic identities in Africa are strengthened by exposure to political competition. In particular, for every month closer their country is to a competitive presidential election, survey respondents are 1.8 percentage points more likely to identify in ethnic terms. Using an innovative multinomial logit empirical methodology, we find that these shifts are accompanied by a corresponding reduction in the salience of occupational and class identities. Our findings lend support to situational theories of social identification and are consistent with the view that ethnic identities matter in Africa for instrumental reasons: because they are useful in the competition for political power."
+  },
+  {
+   "title": "Tribe or Nation? Nation Building and Public Goods in Kenya Versus Tanzania",
+   "authors": [
+    "Edward Miguel"
+   ],
+   "year": 2004,
+   "venue": "World Politics 56 (3): 327-362",
+   "status": "已发表",
+   "url": "http://journals.cambridge.org/action/displayAbstract?aid=7604860",
+   "abstract": "This article examines how government policies affect ethnic relations by comparing outcomes across two nearby districts, one in Kenya and one in Tanzania, using colonial-era boundary placement as a \"natural experiment.\" Despite similar geography and historical legacies, governments in Kenya and Tanzania have followed radically different language, education, and local institutional policies, with Tanzania consistently pursuing more serious nation building. The evidence suggests that nation building has allowed diverse communities in rural Tanzania to achieve considerably better local public goods outcomes than diverse communities in Kenya. To illustrate, while Kenyan communities at mean levels of diversity have 25 percent less local school funding than homogeneous communities on average, the comparable figure in the Tanzanian district is near zero. The Kenya-Tanzania comparison provides empirical evidence that serious reforms can ameliorate social divisions and suggests that nation-building should take a place on policy agendas, especially in Africa."
+  },
+  {
+   "title": "Economic Shocks and Civil Conflict: An Instrumental Variables Approach",
+   "authors": [
+    "Edward Miguel",
+    "Shanker Satyanath",
+    "Ernest Sergenti"
+   ],
+   "year": 2004,
+   "venue": "Journal of Political Economy 112 (4): 725-753",
+   "status": "已发表",
+   "url": "http://www.jstor.org/stable/10.1086/421174",
+   "abstract": "Estimating the impact of economic conditions on the likelihood of civil conflict is difficult because of endogeneity and omitted variable bias. We use rainfall variation as an instrumental variable for economic growth in 41 African countries during 1981-99. Growth is strongly negatively related to civil conflict: a negative growth shock of five percentage points increases the likelihood of conflict by one?half the following year. We attempt to rule out other channels through which rainfall may affect conflict. Surprisingly, the impact of growth shocks on conflict is not significantly different in richer, more democratic, or more ethnically diverse countries."
+  },
+  {
+   "title": "Worms: Identifying Impacts on Education and Health in the Presence of Treatment Externalities",
+   "authors": [
+    "Edward Miguel",
+    "Michael Kremer"
+   ],
+   "year": 2004,
+   "venue": "Econometrica 72 (1): 159-217",
+   "status": "已发表",
+   "url": "http://onlinelibrary.wiley.com/doi/10.1111/j.1468-0262.2004.00481.x/abstract",
+   "abstract": "Intestinal helminths–including hookworm, roundworm, whipworm, and schistosomiasis–infect more than one-quarter of the world's population. Studies in which medical treatment is randomized at the individual level potentially doubly underestimate the benefits of treatment, missing externality benefits to the comparison group from reduced disease transmission, and therefore also underestimating benefits for the treatment group. We evaluate a Kenyan project in which school-based mass treatment with deworming drugs was randomly phased into schools, rather than to individuals, allowing estimation of overall program effects. The program reduced school absenteeism in treatment schools by one-quarter, and was far cheaper than alternative ways of boosting school participation. Deworming substantially improved health and school participation among untreated children in both treatment schools and neighboring schools, and these externalities are large enough to justify fully subsidizing treatment. Yet we do not find evidence that deworming improved academic test scores."
+  },
+  {
+   "title": "Poverty and Witch Killing",
+   "authors": [
+    "Edward Miguel"
+   ],
+   "year": 2005,
+   "venue": "Review of Economic Studies 72 (4): 1153-1172",
+   "status": "已发表",
+   "url": "http://restud.oxfordjournals.org/content/72/4/1153.abstract",
+   "abstract": "This study uses rainfall variation to estimate the impact of income shocks on murder in rural Tanzania. Extreme rainfall (drought or flood) leads to a large increase in the murder of \"witches\"–typically elderly women killed by relatives–but not other murders. The findings provide novel evidence on the role of income shocks in causing violent crime, and religious violence in particular."
+  },
+  {
+   "title": "Health, Education, and Economic Development",
+   "authors": [
+    "Edward Miguel"
+   ],
+   "year": 2005,
+   "venue": "In Health and Economic Growth: Findings and Policy Implications, edited by Guillem LÃ³pez-Casasnovas, Berta Rivera and Luis Currais, 140-168. Cambridge: MIT Press",
+   "status": "已发表",
+   "url": "https://emiguel.econ.berkeley.edu/wordpress/wp-content/uploads/2021/03/Chapter__Health__Education__and_Economic_Development.pdf",
+   "abstract": "The volume Health and Economic Growth: Findings and Policy Implications is evidence of the growing awareness within economics of the important connections between health and poverty in less developed countries. The aim of this chapter is to review recent evidence on one potential channel through which health may affect income: education."
+  },
+  {
+   "title": "Does Social Capital Promote Industrialization? Evidence from a Rapid Industrializer",
+   "authors": [
+    "Edward Miguel",
+    "Paul Gertler",
+    "David I. Levine"
+   ],
+   "year": 2005,
+   "venue": "Review of Economics and Statistics 87 (4): 754-762",
+   "status": "已发表",
+   "url": "http://www.mitpressjournals.org/doi/abs/10.1162/003465305775098099",
+   "abstract": "A new stylized fact in development economics is the importance of social capital in promoting economic growth. This paper examines the effect of social capital on industrialization in Indonesia. We analyze a rich set of social capital and social interaction measures, including voluntary associational activity and levels of trust and informal cooperation. The main finding is that initial social capital does not predict subsequent industrial development across 274 Indonesian districts. Though these findings are for only a single nation and may not apply everywhere, they call into question recent claims regarding social capital and economic development."
+  },
+  {
+   "title": "Ethnic Diversity, Social Sanctions, and Public Goods in Kenya",
+   "authors": [
+    "Edward Miguel",
+    "Mary Kay Gugerty"
+   ],
+   "year": 2005,
+   "venue": "Journal of Public Economics 89 (11-12): 2325-2368",
+   "status": "已发表",
+   "url": "http://www.sciencedirect.com/science/article/pii/S0047272704001562",
+   "abstract": "This paper examines ethnic diversity and local public goods in rural western Kenya. The identification strategy relies on the stable historically determined patterns of ethnic land settlement. Ethnic diversity is associated with lower primary school funding and worse school facilities, and there is suggestive evidence that it leads to poor water well maintenance. The theoretical model illustrates how inability to impose social sanctions in diverse communities leads to collective action failures, and we find that school committees in diverse areas do impose fewer sanctions on defaulting parents. We relate these results to the literature on social capital and economic development and discuss implications for decentralization in less developed countries."
+  },
+  {
+   "title": "Who are Russia’s Entrepreneurs?",
+   "authors": [
+    "Simeon Djankov",
+    "Edward Miguel",
+    "Yingyi Qian",
+    "Gerard Roland",
+    "Ekaterina Zhuravskaya"
+   ],
+   "year": 2005,
+   "venue": "Journal of the European Economic Association 3 (2-3): 587-597",
+   "status": "已发表",
+   "url": "http://onlinelibrary.wiley.com/doi/10.1162/jeea.2005.3.2-3.587/abstract",
+   "abstract": "Social scientists studying entrepreneurship have emphasized three distinct sets of variables: the institutional environment, sociological variables, and personal and psychological characteristics. We are conducting surveys in five large developing and transition economies to better understand entrepreneurship. In this short paper, using over 2,000 interviews from a pilot study in Russia, we find evidence that the three sets of variables matter: perceptions of the local institutional environment, social network effects, and individual characteristics are all important in determining entrepreneurial behavior."
+  },
+  {
+   "title": "Ethnic Diversity and Poverty Reduction",
+   "authors": [
+    "Edward Miguel"
+   ],
+   "year": 2006,
+   "venue": "In Understanding Poverty, edited by Abhijit Banerjee, Roland Benabou, and Dilip Mookherjee, 169-184. Oxford: Oxford University Press",
+   "status": "已发表",
+   "url": "https://emiguel.econ.berkeley.edu/wordpress/wp-content/uploads/2021/03/Chapter__Ethnic_Diversity_and_Poverty_Reduction.pdf",
+   "abstract": "This essay begins with a discussion of the recent social science literature on the impact of ethnic, racial, and religious divisions, and then proposes a set of policies that less-developed countries should follow to help them overcome ethnic conflict. It advocates the adoption of “nation-building” policies that foster the development of a common national identity. The case of Tanzania, and the contrast of Tanzania with its East African neighbor, Kenya, is the focus of this essay. It is argued that Tanzania’s serious approach to forging a common national identity attractive across ethnic groups — which takes the form of extensive linguistic, educational, and institutional reforms — offers a model for other less-developed countries that inherited ethnic divisions in the post-independence period. An overview of empirical evidence based on original field data collection is presented, which shows that this nation-building approach has allowed ethnically diverse communities in rural Tanzania to achieve considerable success in local fund-raising for primary schools, while ethnically diverse Kenyan communities have largely failed in this task."
+  },
+  {
+   "title": "Does Industrialization Build or Destroy Social Networks?",
+   "authors": [
+    "Edward Miguel",
+    "Paul Gertler",
+    "David I. Levine"
+   ],
+   "year": 2006,
+   "venue": "Economic Development and Cultural Change 54 (2): 287-318",
+   "status": "已发表",
+   "url": "http://www.jstor.org/stable/10.1086/497014",
+   "abstract": "This article estimates the relationship between changes in industrialization and changes in social networks measures in Indonesia during 1985-97 using repeated cross sections of nationally representative surveys. We analyze a rich set of social interaction measures, including various measures of voluntary associational activity, levels of trust, and informal cooperation. Districts that experienced rapid industrialization showed significant increases in most measures of social interaction. However, districts that neighbor rapidly industrializing areas exhibited high rates of out?migration, significantly fewer community credit cooperatives, and a reduction in \"mutual cooperation\" as assessed by village elders. Manufacturing growth can be thought of as a proxy for income growth here. The findings are contrary to several recent claims regarding the role of social capital in economic development."
+  },
+  {
+   "title": "Poverty and Crime in 19th Century Germany",
+   "authors": [
+    "Halvor Mehlum",
+    "Edward Miguel",
+    "Ragnar Torvik"
+   ],
+   "year": 2006,
+   "venue": "Journal of Urban Economics 59 (3): 370-388",
+   "status": "已发表",
+   "url": "http://www.sciencedirect.com/science/article/pii/S0094119006000052",
+   "abstract": "We estimate the impact of poverty on crime in 19th century Bavaria, Germany. Rainfall is used as an instrumental variable for grain (rye) prices to address econometric identification problems in the existing literature. The rye price was a major determinant of living standards during this period. The rye price has a positive effect on property crime: a one standard deviation increased property crime by 8%. OLS estimates are twice as large as instrumental variable estimates, highlighting the value of our empirical approach. Higher rye prices lead to significantly less violent crime, though, and we argue that higher beer prices, caused by the higher rye prices, are a likely explanation."
+  },
+  {
+   "title": "Anemia and School Participation",
+   "authors": [
+    "Gustavo J. Bobonis",
+    "Edward Miguel",
+    "Charu Puri-Sharma"
+   ],
+   "year": 2006,
+   "venue": "Journal of Human Resources 41 (4): 692-721",
+   "status": "已发表",
+   "url": "https://emiguel.econ.berkeley.edu/wordpress/wp-content/uploads/2021/03/Paper__Anemia_and_School_Participation.pdf",
+   "abstract": "Anemia is among the most widespread health problems for children in developing countries. This paper evaluates the impact of a randomized health intervention delivering iron supplementation and deworming drugs to Indian preschool children. At baseline, 69 percent were anemic and 30 percent had intestinal worm infections. Weight increased among assisted children, and preschool-participation rates rose by 5.8 percentage points, reducing absenteeism by one-fifth. Gains were especially pronounced for those most likely to be anemic at baseline. Results contribute to a growing view that school-based health programs are an effective way of promoting school attendance in less developed countries."
+  },
+  {
+   "title": "War and Institutions: New Evidence from Sierra Leone",
+   "authors": [
+    "John Bellows",
+    "Edward Miguel"
+   ],
+   "year": 2006,
+   "venue": "American Economic Review 96 (2): 394-399",
+   "status": "已发表",
+   "url": "http://www.aeaweb.org/articles.php?doi=10.1257/000282806777212323",
+   "abstract": "Scholars of economic development have argued that war can have adverse impacts on later economic performance: war destroys physical capital and infrastructure and disrupts human capital accumulation, and it may also damage institutions by creating political instability, destroying the social fabric and endangering civil liberties (World Bank, 2003)."
+  },
+  {
+   "title": "Poverty and Violence: An Overview of Recent Research and Implications for Foreign Aid",
+   "authors": [
+    "Edward Miguel"
+   ],
+   "year": 2007,
+   "venue": "In Too Poor for Peace? Global Poverty, Conflict and Security in the 21st Century, edited by Lael Brainard and Derek Chollet, 50-59. Washington, DC: Brookings Institution Press",
+   "status": "已发表",
+   "url": "https://emiguel.econ.berkeley.edu/wordpress/wp-content/uploads/2021/03/Chapter__Poverty_and_Violence.pdf",
+   "abstract": "Dozens of countries around the world have suffered civil conflicts in the past few decades, with the highest concentration in Sub-Saharan Africa. The direct humanitarian consequences of war for survivors are enormous in physical insecurity, loss of property, and psychological trauma. There may also be lasting economic development costs for societies that experience violent civil conflicts. And the international “spillover” effects of conflicts can be large for neighboring countries faced with refugee flows, lawlessness on their borders, and the illicit trades in drugs, arms, and minerals that proliferate in conflict zones. This insecurity has foreign policy implications for the United States along multiple dimensions."
+  },
+  {
+   "title": "The Illusion of Sustainability",
+   "authors": [
+    "Michael Kremer",
+    "Edward Miguel"
+   ],
+   "year": 2007,
+   "venue": "Quarterly Journal of Economics 112 (3): 1007-1065",
+   "status": "已发表",
+   "url": "http://qje.oxfordjournals.org/content/122/3/1007.short",
+   "abstract": "We use a randomized evaluation of a Kenyan deworming program to estimate peer effects in technology adoption and to shed light on foreign aid donors' movement towards sustainable community provision of public goods. Deworming is a public good since much of its social benefit comes through reduced disease transmission. People were less likely to take deworming if their direct first-order or indirect second-order social contacts were exposed to deworming. Efforts to replace subsidies with sustainable worm control measures were ineffective: a drug cost-recovery program reduced take-up 80 percent; health education did not affect behavior, and a mobilization intervention failed. At least in this context, it appears unrealistic for a one-time intervention to generate sustainable voluntary local public goods provision."
+  },
+  {
+   "title": "The Electoral Cost of War: Iraq Casualties and the 2004 U.S. Presidential Election",
+   "authors": [
+    "David Karol",
+    "Edward Miguel"
+   ],
+   "year": 2007,
+   "venue": "Journal of Politics 69 (3): 633-648",
+   "status": "已发表",
+   "url": "http://journals.cambridge.org/action/displayAbstract?aid=1965116",
+   "abstract": "Many contend that President Bush's reelection and increased vote share in 2004 prove that the Iraq War was either electorally irrelevant or aided him. We present contrary evidence. Focusing on the change in Bush's 2004 showing compared to 2000, we discover that Iraq casualties from a state significantly depressed the President's vote share there. We infer that were it not for the approximately 10,000 U.S. dead and wounded by Election Day, Bush would have won nearly 2% more of the national popular vote, carrying several additional states and winning decisively. Such a result would have been close to forecasts based on models that did not include war impacts. Casualty effects are largest in \"blue\" states. In contrast, National Guard/Reservist call-ups had no impact beyond the main casualty effect. We discuss implications for both the election modeling enterprise and the debate over the \"casualty sensitivity\" of the U.S. public."
+  },
+  {
+   "title": "The Impact of Child Health and Nutrition on Education in Less Developed Countries",
+   "authors": [
+    "Paul Glewwe",
+    "Edward A. Miguel",
+    "Edward Miguel"
+   ],
+   "year": 2007,
+   "venue": "In Handbook of Development Economics, Volume 4, edited by T. Paul Schultz and John Strauss, 3561-3606. Oxford: Elsevier B.V",
+   "status": "已发表",
+   "url": "http://www.sciencedirect.com/science/article/pii/S1573447107040569",
+   "abstract": "Hundreds of millions of children in less developed countries suffer from poor health and nutrition. Children in most less developed countries also complete far fewer years of schooling, and learn less per year of schooling, than do children in developed countries. Recent research has shown that poor health and nutrition among children reduces their time in school and their learning during that time. This implies that programs or policies that increase children's health status could also improve their education outcomes. Given the importance of education for economic development, this link could be a key mechanism to improve the quality of life in less developed countries. Many researchers have attempted to estimate the impact of child health on education outcomes, but there are formidable obstacles to obtaining credible estimates. Data are often scarce, although much less scarce than in previous decades. Even more importantly, there are many possible sources of bias when attempting to estimate relationships between child health and education. This Chapter provides an overview of what has been learned thus far. Although significant progress has been made, much more research is still needed — especially in estimating the long term impact of child health status on living standards. The chapter first reviews some basic facts about child health and education in less developed countries. It then provides a framework for analyzing the impact of health and nutrition on education, describes estimation problems and potential solutions, and summarizes recent empirical evidence, including both non-experimental and experimental studies. It concludes with suggestions for future research directions."
+  },
+  {
+   "title": "Corruption, Norms and Legal Enforcement: Evidence from Diplomatic Parking Tickets",
+   "authors": [
+    "Raymond Fisman",
+    "Edward Miguel"
+   ],
+   "year": 2007,
+   "venue": "Journal of Political Economy 115 (6): 1020-1048",
+   "status": "已发表",
+   "url": "http://www.jstor.org/stable/10.1086/527495",
+   "abstract": "We study cultural norms and legal enforcement in controlling corruption by analyzing the parking behavior of United Nations officials in Manhattan. Until 2002, diplomatic immunity protected UN diplomats from parking enforcement actions, so diplomats' actions were constrained by cultural norms alone. We find a strong effect of corruption norms: diplomats from high-corruption countries (on the basis of existing survey-based indices) accumulated significantly more unpaid parking violations. In 2002, enforcement authorities acquired the right to confiscate diplomatic license plates of violators. Unpaid violations dropped sharply in response. Cultural norms and (particularly in this context) legal enforcement are both important determinants of corruption."
+  },
+  {
+   "title": "Orphans and Schooling in Africa: A Longitudinal Analysis",
+   "authors": [
+    "David K. Evans",
+    "Edward Miguel"
+   ],
+   "year": 2007,
+   "venue": "Demography 44 (1): 35-57",
+   "status": "已发表",
+   "url": "http://link.springer.com/article/10.1353/dem.2007.0002",
+   "abstract": "AIDS deaths could have a major impact on economic development by affecting the human capital accumulation of the next generation. We estimate the impact of parent death on primary school participation using an unusual five-year panel data set of over 20,000 Kenyan children. There is a substantial decrease in school participation following a parent death and a smaller drop before the death (presumably due to pre-death morbidity). Estimated impacts are smaller in specifications without individual fixed effects, suggesting that estimates based on cross-sectional data are biased toward zero. Effects are largest for children whose mothers died and, in a novel finding, for those with low baseline academic performance."
+  },
+  {
+   "title": "Individual Ability and Selection into Migration in Kenya",
+   "authors": [
+    "Edward Miguel",
+    "Joan Hamory"
+   ],
+   "year": 2009,
+   "venue": "United Nations Development Programme: Human Development Reports Research Paper 45",
+   "status": "工作论文",
+   "url": "https://emiguel.econ.berkeley.edu/wordpress/wp-content/uploads/2021/03/WorkingPaper__Individual_Ability_and_Selection_into_Migration_in_Kenya.pdf",
+   "abstract": "This study exploits a new longitudinal dataset to examine selective migration among 1,500 Kenyan youth originally living in rural areas. We examine whether migration rates are related to individual \"ability\", broadly defined to include cognitive aptitude as well as health, and then use these estimates to determine how much of the urban-rural wage gap in Kenya is due to selection versus actual productivity differences. Whereas previous empirical work has focused on schooling attainment as a proxy for cognitive ability, we employ an arguably preferable measure, a pre-migration primary school academic test score. Pre-migration randomized assignment to a deworming treatment program provides variation in health status. We find a positive relationship between both measures of human capital (cognitive ability and deworming) and subsequent migration, though only the former is robust at standard statistical significance levels. Specifically, an increase of two standard deviations in academic test score increases the likelihood of rural-urban migration by 17%. Accounting for migration selection due to both cognitive ability and schooling attainment does not explain more than a small fraction of the sizeable urban-rural wage gap in Kenya, suggesting that productivity differences across sectors remain large."
+  },
+  {
+   "title": "Incentives to Learn",
+   "authors": [
+    "Michael Kremer",
+    "Edward Miguel",
+    "Rebecca Thorton"
+   ],
+   "year": 2009,
+   "venue": "Review of Economics and Statistics 91 (3): 437-456",
+   "status": "已发表",
+   "url": "http://www.mitpressjournals.org/doi/abs/10.1162/rest.91.3.437",
+   "abstract": "We study a randomized evaluation of a merit scholarship program in which Kenyan girls who scored well on academic exams had school fees paid and received a grant. Girls showed substantial exam score gains, and teacher attendance improved in program schools. There were positive externalities for girls with low pretest scores, who were unlikely to win a scholarship. We see no evidence for weakened intrinsic motivation. There were heterogeneous program effects. In one of the two districts, there were large exam gains and positive spillovers to boys. In the other, attrition complicates estimation, but we cannot reject the hypothesis of no program effect."
+  },
+  {
+   "title": "Warming Increases the Risk of Civil War in Africa",
+   "authors": [
+    "Marshall B. Burke",
+    "Edward Miguel",
+    "Shanker Satyanath",
+    "John A. Dykema",
+    "David B. Lobell"
+   ],
+   "year": 2009,
+   "venue": "Proceedings of the National Academy of Sciences 106 (49): 20670-20674",
+   "status": "已发表",
+   "url": "http://www.pnas.org/content/106/49/20670.abstract",
+   "abstract": "Armed conflict within nations has had disastrous humanitarian consequences throughout much of the world. Here we undertake the first comprehensive examination of the potential impact of global climate change on armed conflict in sub-Saharan Africa. We find strong historical linkages between civil war and temperature in Africa, with warmer years leading to significant increases in the likelihood of war. When combined with climate model projections of future temperature trends, this historical response to temperature suggests a roughly 54% increase in armed conflict incidence by 2030, or an additional 393,000 battle deaths if future wars are as deadly as recent wars. Our results suggest an urgent need to reform African governments' and foreign aid donors' policies to deal with rising temperatures."
+  },
+  {
+   "title": "Deworming and Development: Asking the Right Questions, Asking the Questions Right",
+   "authors": [
+    "Donald A. P. Bundy",
+    "Michael Kremer",
+    "Hoyt Bleakley",
+    "Matthew C. H. Jukes",
+    "Edward Miguel"
+   ],
+   "year": 2009,
+   "venue": "PLoS Neglected Tropical Diseases 3 (1): e362",
+   "status": "已发表",
+   "url": "https://emiguel.econ.berkeley.edu/wordpress/wp-content/uploads/2021/03/Paper__Deworming_and_Development.pdf",
+   "abstract": "Two billion people are infected with intestinal worms. In many areas, the majority of schoolchildren are infected, and the World Health Organization (WHO) has called for school-based mass deworming. The key area for debate is not whether deworming medicine works–in fact, the medical literature finds that treatment is highly effective, and thus the standard of care calls for treating any patient known to harbor an infection. As the authors of the Cochrane systematic review point out, a critical issue in evaluating current soil-transmitted helminth policies is whether the benefits of deworming exceed the costs or whether it would be more prudent to use the money for other purposes. While in general we think the Cochrane approach is very valuable, we argue below that many of the underlying studies of deworming suffer from three critical methodological problems: treatment externalities in dynamic infection systems, inadequate measurement of cognitive outcomes and school attendance, and sample attrition. We then argue that the currently available evidence from studies that address these issues is consistent with the consensus view expressed by other reviews and by policymakers that deworming is a very cost-effective way to increase school participation and has a high benefit to cost ratio."
+  },
+  {
+   "title": "War and Local Collective Action in Sierra Leone",
+   "authors": [
+    "John Bellows",
+    "Edward Miguel"
+   ],
+   "year": 2009,
+   "venue": "Journal of Public Economics 93 (11-12): 1144-1157",
+   "status": "已发表",
+   "url": "http://www.sciencedirect.com/science/article/pii/S0047272709000942",
+   "abstract": "We study the brutal 1991-2002 Sierra Leone civil war using nationally representative household data on conflict experiences, postwar economic outcomes, local politics and collective action. Individuals whose households directly experienced more intense war violence are robustly more likely to attend community meetings, more likely to join local political and community groups, and more likely to vote. Tests using prewar controls and alternative samples suggest that selection into victimization is unlikely to be driving the results. More speculatively, the findings could help partially explain the rapid postwar political and economic recoveries observed in Sierra Leone and after several other recent African civil wars."
+  },
+  {
+   "title": "Civil War",
+   "authors": [
+    "Christopher Blattman",
+    "Edward Miguel"
+   ],
+   "year": 2010,
+   "venue": "Journal of Economic Literature 48 (1): 3-57",
+   "status": "已发表",
+   "url": "http://www.aeaweb.org/articles.php?doi=10.1257/jel.48.1.3",
+   "abstract": "Most nations have experienced an internal armed conflict since 1960. Yet while civil war is central to many nations' development, it has stood at the periphery of economics research and teaching. The past decade has witnessed a long overdue explosion of research into war's causes and consequences. We summarize progress, identify weaknesses, and chart a path forward. Why war? Existing theory is provocative but incomplete, omitting advances in behavioral economics and making little progress in key areas, like why armed groups form and cohere, or how more than two armed sides compete. Empirical work finds that low per capita incomes and slow economic growth are both robustly linked to civil war. Yet there is little consensus on the most effective policies to avert conflicts or promote postwar recovery. Cross-country analysis of war will benefit from more attention to causal identification and stronger links to theory. We argue that micro-level analysis and case studies are also crucial to decipher war's causes, conduct, and consequences. We bring a growth theoretic approach to the study of conflict consequences to highlight areas for research, most of all the study of war's impact on institutions. We conclude with a plea for new and better data."
+  },
+  {
+   "title": "Being Surveyed Can Change Later Behavior and Related Parameter Estimates",
+   "authors": [
+    "Alix Peterson Zwane",
+    "Jonathan Zinman",
+    "Eric Van Dusen",
+    "William Pariente",
+    "Clair Null",
+    "Edward Miguel",
+    "Michael Kremer",
+    "Dean S. Karlan",
+    "Richard Hornbeck",
+    "Xavier Gine",
+    "Esther Duflo",
+    "Florencia Devoto",
+    "Bruno Crepon",
+    "Abhijit Banerjee"
+   ],
+   "year": 2011,
+   "venue": "Proceedings of the National Academy of Sciences 108 (5): 1821-1826",
+   "status": "已发表",
+   "url": "http://www.pnas.org/content/108/5/1821.abstract",
+   "abstract": "Does completing a household survey change the later behavior of those surveyed? In three field studies of health and two of microlending, we randomly assigned subjects to be surveyed about health and/or household finances and then measured subsequent use of a related product with data that does not rely on subjects' self-reports. In the three health experiments, we find that being surveyed increases use of water treatment products and take-up of medical insurance. Frequent surveys on reported diarrhea also led to biased estimates of the impact of improved source water quality. In two microlending studies, we do not find an effect of being surveyed on borrowing behavior. The results suggest that limited attention could play an important but context-dependent role in consumer choice, with the implication that researchers should reconsider whether, how, and how much to survey their subjects."
+  },
+  {
+   "title": "Civil War Exposure and Violence",
+   "authors": [
+    "Edward Miguel",
+    "Sebastian M. Saiegh",
+    "Shanker Satyanath"
+   ],
+   "year": 2011,
+   "venue": "Economics & Politics 23 (1): 59-73",
+   "status": "已发表",
+   "url": "http://onlinelibrary.wiley.com/doi/10.1111/j.1468-0343.2010.00372.x/abstract",
+   "abstract": "In recent years scholars have begun to focus on the consequences of individuals' exposure to civil war, including its severe health and psychological consequences. Our innovation is to move beyond the survey methodology that is widespread in this literature to analyze the actual behavior of individuals with varying degrees of exposure to civil war in a common institutional setting. We exploit the presence of thousands of international soccer (football) players with different exposures to civil conflict in the European professional leagues, and find a strong relationship between the extent of civil conflict in a player's home country and his propensity to behave violently on the soccer field, as measured by yellow and red cards. This link is robust to region fixed effects, country characteristics (e.g. rule of law, per capita income), player characteristics (e.g. age, field position, quality), outliers, and team fixed effects. Reinforcing our claim that we isolate the effect of civil war exposure rather than simple rule breaking or something else entirely, there is no meaningful correlation between our measure of exposure to civil war and soccer performance measures not closely related to violent conduct. The result is also robust to controlling for civil wars before a player's birth, suggesting that it is not driven by factors from the distant historical past."
+  },
+  {
+   "title": "Re-examining Economic Shocks and Civil Conflict",
+   "authors": [
+    "Edward Miguel",
+    "Shanker Satyanath"
+   ],
+   "year": 2011,
+   "venue": "American Economic Journal: Applied Economics 3 (4): 228-232",
+   "status": "已发表",
+   "url": "http://www.aeaweb.org/articles.php?doi=10.1257/app.3.4.228",
+   "abstract": "Miguel, Satyanath, and Ernest Sergenti (2004), henceforth MSS, show that economic growth is negatively related to civil conflict in Africa, using annual rainfall variation as an IV for growth. Antonio Ciccone (2011) argues that thanks to rainfall's mean-reverting nature, rainfall levels are preferable to annual changes. We make three points. First, MSS's findings hold using rainfall levels as instruments. Second, Ciccone (2011) does not provide theoretical justification for preferring rainfall levels. Third, the first-stage relationship between rainfall and growth is weaker after 2000, suggesting that alternative instruments are needed when studying recent conflicts. We highlight the accumulating microeconomic evidence that adverse economic shocks lead to political violence."
+  },
+  {
+   "title": "The Long-run Impact of Bombing Vietnam",
+   "authors": [
+    "Edward Miguel",
+    "Gerard Roland"
+   ],
+   "year": 2011,
+   "venue": "Journal of Development Economics 96 (1): 1-15",
+   "status": "已发表",
+   "url": "http://www.sciencedirect.com/science/article/pii/S0304387810000817",
+   "abstract": null
+  },
+  {
+   "title": "Government Transfers and Political Support",
+   "authors": [
+    "Marco Manacorda",
+    "Edward Miguel",
+    "Andrea Vigorito"
+   ],
+   "year": 2011,
+   "venue": "American Economic Journal: Applied Economics 3 (3): 1-28",
+   "status": "已发表",
+   "url": "http://www.aeaweb.org/articles.php?doi=10.1257/app.3.3.1",
+   "abstract": "This paper estimates the impact of a large anti-poverty cash transfer program, the Uruguayan PANES, on political support for the government that implemented it. Using the discontinuity in program assignment based on a pretreatment eligibility score, we find that beneficiary households are 11 to 13 percentage points more likely to favor the current government relative to the previous government. Political support effects persist after the program ends. Our results are consistent with theories of rational but poorly informed voters who use policy to infer politicians' redistributive preferences or competence, as well as with behavioral economics explanations grounded in reciprocity."
+  },
+  {
+   "title": "Spring Cleaning: Rural Water Impacts, Valuation, and Property Rights Institutions",
+   "authors": [
+    "Michael Kremer",
+    "Jessica Leino",
+    "Edward Miguel",
+    "Alix Peterson"
+   ],
+   "year": 2011,
+   "venue": "Quarterly Journal of Economics 126 (1): 145-205",
+   "status": "已发表",
+   "url": "http://qje.oxfordjournals.org/content/126/1/145.abstract",
+   "abstract": "Using a randomized evaluation in Kenya, we measure health impacts of spring protection, an investment that improves source water quality. We also estimate households' valuation of spring protection and simulate the welfare impacts of alternatives to the current system of common property rights in water, which limits incentives for private investment. Spring infrastructure investments reduce fecal contamination by 66%, but household water quality improves less, due to recontamination. Child diarrhea falls by one quarter. Travel-cost based revealed preference estimates of households' valuations are much smaller than both stated preference valuations and health planners' valuations, and are consistent with models in which the demand for health is highly income elastic. We estimate that private property norms would generate little additional investment while imposing large static costs due to above-marginal-cost pricing, private property would function better at higher income levels or under water scarcity, and alternative institutions could yield Pareto improvements."
+  },
+  {
+   "title": "Social Engineering: Evidence from a Suite of Take-up Experiments in Kenya",
+   "authors": [
+    "Michael Kremer",
+    "Edward Miguel",
+    "Sendhil Mullainathan",
+    "Clair Null",
+    "Alix Peterson Zwane"
+   ],
+   "year": 2011,
+   "venue": "Unpublished Working Paper",
+   "status": "工作论文",
+   "url": "https://emiguel.econ.berkeley.edu/research/social-engineering-evidence-from-a-suite-of-take-up-experiments-in-kenya/",
+   "abstract": "Many effective health products and behaviors available through the private market are not widely adopted in less developed countries. For example, fewer than 10% of households in our Kenyan study area treat their water with dilute chlorine. Using a suite of randomized evaluations, we find that information and marketing interventions do little to boost use of chlorine. However, chlorine take-up is highly sensitive to price, convenience and social context, with more than half of households using chlorine when an individually-packaged supply is delivered free to the home. The highest sustained take-up is achieved by combining free, convenient, salient, and public access through a point-of-collection chlorine dispenser system and a local promoter. More than half of households treat their water and this use continues 30 months later even though promoters are paid only for the first six months. The estimated long-run costs of this intervention at scale, including administrative costs, are between $0.25 and $0.50 per person per year."
+  },
+  {
+   "title": "The Price of Political Opposition: Evidence from Venezuela’s Maisanta",
+   "authors": [
+    "Chang-Tai Hsieh",
+    "Edward Miguel",
+    "Daniel Ortega",
+    "Francisco Rodriguez"
+   ],
+   "year": 2011,
+   "venue": "American Economic Journal: Applied Economics 3 (2): 196-214",
+   "status": "已发表",
+   "url": "http://www.aeaweb.org/articles.php?doi=10.1257/app.3.2.196",
+   "abstract": "In 2004, the Hugo Chávez regime in Venezuela distributed the list of several million voters who had attempted to remove him from office throughout the government bureaucracy, allegedly to identify and punish these voters. We match the list of petition signers distributed by the government to household survey respondents to measure the economic effects of being identified as a Chávez political opponent. We find that voters who were identified as Chávez opponents experienced a 5 percent drop in earnings and a 1.3 percentage point drop in employment rates after the voter list was released."
+  },
+  {
+   "title": "Education as Liberation?",
+   "authors": [
+    "Willa Friedman",
+    "Michael Kremer",
+    "Edward Miguel",
+    "Rebecca Thornton"
+   ],
+   "year": 2016,
+   "venue": "Economica, 83(329): 1-30, 10.1111/ecca.12168",
+   "status": "已发表",
+   "url": "http://onlinelibrary.wiley.com/doi/10.1111/ecca.12168/abstract",
+   "abstract": "This paper studies the political and social impacts of increased education by utilizing a randomized girls’ merit scholarship programme in Kenya that raised test scores and secondary schooling. Consistent with the view that education empowers the disadvantaged to challenge authority, we find that the programme reduced the acceptance of domestic violence and political authority. Young women in programme schools also increased their objective political knowledge. We find that this rejection of the status quo did not translate into greater perceived political efficacy, community participation or voting intentions. Instead, there is suggestive evidence that the perceived legitimacy of political violence increased."
+  },
+  {
+   "title": "Incorporating Climate Uncertainty into Estimates of Climate Change Impacts",
+   "authors": [
+    "Marshall Burke",
+    "John Dykema",
+    "David Lobell",
+    "Edward Miguel",
+    "Shanker Satyanath"
+   ],
+   "year": 2015,
+   "venue": "Review of Economics and Statistics, 97(2): 461-471, 10.1162/REST_a_00478",
+   "status": "已发表",
+   "url": "http://www.mitpressjournals.org/doi/abs/10.1162/REST_a_00478#.VYwvB_lViko",
+   "abstract": "Quantitative estimates of the impacts of climate change on economic outcomes are important for public policy. We show that the vast majority of estimates fail to account for well-established uncertainty in future temperature and rainfall changes, leading to potentially misleading projections. We reexamine seven well-cited studies and show that accounting for climate uncertainty leads to a much larger range of projected climate impacts and a greater likelihood of worst-case outcomes, an important policy parameter. Incorporating climate uncertainty into future economic impact assessments will be critical for providing the best possible information on potential impacts."
+  },
+  {
+   "title": "You’ve Earned It: Estimating the Impact of Human Capital on Social Preferences",
+   "authors": [
+    "Pamela Jakiela",
+    "Edward Miguel",
+    "Vera L. te Velde"
+   ],
+   "year": 2014,
+   "venue": "Experimental Economics, 10.1007/s10683-014-9409-9",
+   "status": "已发表",
+   "url": "http://link.springer.com/article/10.1007/s10683-014-9409-9",
+   "abstract": "We combine data from a randomized evaluation and a laboratory experiment to measure the causal impact of human capital on respect for earned property rights, a component of social preferences with important implications for economic growth and development. We find that higher academic achievement reduces the willingness of young Kenyan women to appropriate others' labor income, and shifts players toward a 50-50 split norm in a modified dictator game. This study demonstrates that education may have long-run impacts on social preferences, norms and institutions beyond the human capital directly produced."
+  },
+  {
+   "title": "Incentivizing Safe Sex: a Randomized Trial of Conditional Cash Transfers for HIV and Sexually Transmitted Infection Prevention in Rural Tanzania",
+   "authors": [
+    "Damien de Walque",
+    "William H. Dow",
+    "Rose Nathan",
+    "Ramadhani Abdul",
+    "Faraji Abilahi",
+    "Erick Gong",
+    "Zachary Isdahl",
+    "Julian Jamison",
+    "Boniphace Jullu",
+    "Suneeta Krishnan",
+    "Albert Majura",
+    "Edward Miguel",
+    "Jeanne Moncada",
+    "Sally Mtenga",
+    "Mathew Alexander Mwanyangala",
+    "Laura Packel",
+    "Julius Schachter",
+    "Kizito Shirima",
+    "Carol A. Medlin"
+   ],
+   "year": 2012,
+   "venue": "BMJ Open 2:e000747",
+   "status": "已发表",
+   "url": "http://bmjopen.bmj.com/content/2/1/e000747.abstract",
+   "abstract": "OBJECTIVE: The authors evaluated the use of conditional cash transfers as an HIV and sexually transmitted infection prevention strategy to incentivise safe sex."
+  },
+  {
+   "title": "Reshaping Institutions: Evidence on Aid Impacts Using a Preanalysis Plan",
+   "authors": [
+    "Katherine Casey",
+    "Rachel Glennerster",
+    "Edward Miguel"
+   ],
+   "year": 2012,
+   "venue": "Quarterly Journal of Economics 127 (4): 1755-1812",
+   "status": "已发表",
+   "url": "http://qje.oxfordjournals.org/content/127/4/1755.abstract",
+   "abstract": "Despite their importance, there is limited evidence on how institutions can be strengthened. Evaluating the effects of specific reforms is complicated by the lack of exogenous variation in institutions, the difficulty of measuring institutional performance, and the temptation to \"cherry pick\" estimates from among the large number of indicators required to capture this multifaceted subject. We evaluate one attempt to make local institutions more democratic and egalitarian by imposing participation requirements for marginalized groups (including women) and test for learning-by-doing effects. We exploit the random assignment of a governance program in Sierra Leone, develop innovative real-world outcome measures, and use a preanalysis plan (PAP) to bind our hands against data mining. The intervention studied is a \"community-driven development\" program, which has become a popular strategy for foreign aid donors. We find positive short-run effects on local public goods and economic outcomes, but no evidence for sustained impacts on collective action, decision making, or the involvement of marginalized groups, suggesting that the intervention did not durably reshape local institutions. We discuss the practical trade-offs faced in implementing a PAP and show how in its absence we could have generated two divergent, equally erroneous interpretations of program impacts on institutions."
+  },
+  {
+   "title": "Do Cash Transfers Improve Birth Outcomes? Evidence from Matched Vital Statistics, Social Security and Program Data",
+   "authors": [
+    "Verónica Amarante",
+    "Marco Manacorda",
+    "Edward Miguel",
+    "Andrea Vigorito"
+   ],
+   "year": 2016,
+   "venue": "American Economic Journal: Economic Policy, 2016, 8(2): 1-43",
+   "status": "已发表",
+   "url": "https://www.aeaweb.org/articles?id=10.1257/pol.20140344",
+   "abstract": "There is limited empirical evidence on whether cash transfers to poor pregnant women improve children's birth outcomes and potentially help weaken the cycle of intergenerational poverty. Using a unique array of program and social security administrative micro- data matched to longitudinal vital statistics in Uruguay, we estimate that participation in a generous social assistance program led to a sizable reduction in the incidence of low birthweight. The effect is due to faster intrauterine growth rather than longer gestational length. Our findings are consistent with improved maternal nutrition during pregnancy being a key driver of improved birthweight."
+  },
+  {
+   "title": "Quantifying the Influence of Climate on Human Conflict",
+   "authors": [
+    "Solomon M. Hsiang",
+    "Marshall Burke",
+    "Edward Miguel"
+   ],
+   "year": 2013,
+   "venue": "Science, 10.1126/science.1235367",
+   "status": "已发表",
+   "url": "https://emiguel.econ.berkeley.edu/research/quantifying-the-influence-of-climate-on-human-conflict/",
+   "abstract": "A rapidly growing body of research examines whether human conflict can be affected by climatic changes. Drawing from archaeology, criminology, economics, geography, history, political science, and psychology, we assemble and analyze the 60 most rigorous quantitative studies and document, for the first time, a remarkable convergence of results. We find strong causal evidence linking climatic events to human conflict across a range of spatial and temporal scales and across all major regions of the world. The magnitude of climate's influence is substantial: for each 1 standard deviation (1σ) change in climate toward warmer temperatures or more extreme rainfall, median estimates indicate that the frequency of interpersonal violence rises 4% and the frequency of intergroup conflict rises 14%. Because locations throughout the inhabited world are expected to warm 2 to 4σ by 2050, amplified rates of human conflict could represent a large and critical impact of anthropogenic climate change."
+  },
+  {
+   "title": "Risky Transportation Choices and the Value of a Statistical Life",
+   "authors": [
+    "Gianmarco León",
+    "Edward Miguel"
+   ],
+   "year": 2017,
+   "venue": "American Economic Journal: Applied Economics, 9(1): 202-228",
+   "status": "已发表",
+   "url": "https://www.aeaweb.org/articles?id=10.1257/app.20160140",
+   "abstract": "This paper exploits an unusual transportation setting to generate some of the first revealed preference value of a statistical life (VSL) estimates from a low-income setting. We estimate the trade-offs individuals are willing to make between mortality risk and cost as they travel to and from the international airport in Sierra Leone. The setting and original dataset allow us to address some typical omitted variable concerns, and also to compare VSL estimates for travelers from different countries, all facing the same choice situation. The average VSL estimate for African travelers in the sample is US$577,000 compared to US$924,000 for non-Africans."
+  },
+  {
+   "title": "Collective Action in Diverse Sierra Leone Communities",
+   "authors": [
+    "Rachel Glennerster",
+    "Edward Miguel",
+    "Alexander D. Rothenberg"
+   ],
+   "year": 2013,
+   "venue": "Economic Journal 123 (568): 285-316",
+   "status": "已发表",
+   "url": "http://onlinelibrary.wiley.com/doi/10.1111/ecoj.12030/abstract",
+   "abstract": "Scholars have identified ethnic divisions as a leading cause of underdevelopment, due partially to their adverse effects on public goods. We investigate this issue in post-war Sierra Leone, one of the world's poorest and most ethnically diverse countries. To address concerns over endogenous local ethnic composition, we use an instrumental variables strategy using earlier census data on ethnicity and include several historical and geographic covariates. Perhaps surprisingly, we find that local diversity is not associated with worse public goods provision across multiple outcomes and specifications, with precisely estimated zeros. We investigate the role of historical factors in generating the findings."
+  },
+  {
+   "title": "Political Competition and Ethnic Identification in Africa (Book Chapter)",
+   "authors": [
+    "Benn Eifert",
+    "Edward Miguel",
+    "Daniel N. Posner"
+   ],
+   "year": 2013,
+   "venue": "In Voting and Democratic Citizenship in Africa, edited by Michael Bratton, 61-78. Boulder: Lynne Rienner Publishers",
+   "status": "已发表",
+   "url": "https://emiguel.econ.berkeley.edu/wordpress/wp-content/uploads/2021/03/Chapter__Political_Competition_and_Ethnic_Identification_in_Africa.pdf",
+   "abstract": "Ethnic identities are believed to be powerful motivators of behavior in Africa, but the source of their salience in political and social affairs remains debated. One perspective holds that ethnic identities are salient in Africa because they reflect traditional loyalties to kith and kin. By this view, ethnic identities are hardwired – intrinsically part of who people are – and their salience follows directly from their link to people's natural makeup. A contrary perspective argues that ethnicity is salient because it is functional. The world is a competitive place, proponents of this position hold, and in that world ethnicity serves as a useful tool for mobilizing people, policing boundaries, and building coalitions that can be deployed in the struggle for power and scarce resources. By this view, the salience of ethnicity is intrinsically bound up in political competition."
+  },
+  {
+   "title": "The Value of Democracy: Evidence from Road Building in Kenya",
+   "authors": [
+    "Robin Burgess",
+    "Remi Jedwab",
+    "Edward Miguel",
+    "Ameet Morjaria",
+    "Gerard Padró i Miquel"
+   ],
+   "year": 2015,
+   "venue": "2015, American Economic Review, 105(6): 1817-1851, 10.1257/aer.20131031",
+   "status": "已发表",
+   "url": "https://www.aeaweb.org/articles.php?doi=10.1257/aer.20131031",
+   "abstract": "Ethnic favoritism is seen as antithetical to development. This paper provides credible quantification of the extent of ethnic favoritism using data on road building in Kenyan districts across the 1963-2011 period. Guided by a model it then examines whether the transition in and out of democracy under the same president constrains or exacerbates ethnic favoritism. Across the 1963 to 2011 period, we Â…find strong evidence of ethnic favoritism: districts that share the ethnicity of the president receive twice as much expenditure on roads and have four times the length of paved roads built. This favoritism disappears during periods of democracy."
+  },
+  {
+   "title": "Healing the Wounds: Learning from Sierra Leone’s Post-war Institutional Reforms",
+   "authors": [
+    "Katherine Casey",
+    "Rachel Glennerster",
+    "Edward Miguel"
+   ],
+   "year": 2016,
+   "venue": "In African Successes, Volume I: Government and Institutions, edited by Sebastian Edwards, Simon Johnson, and David Weil. Chicago: University of Chicago Press",
+   "status": "已发表",
+   "url": "https://emiguel.econ.berkeley.edu/wordpress/wp-content/uploads/2021/03/w18368.pdf",
+   "abstract": "While its recent history of civil war, chronic poverty and corrupt governance would cause many to dismiss Sierra Leone as a hopeless case, the country's economic and political performance over the last decade has defied expectations. We examine how several factors—including the legacy of war, ethnic diversity, decentralization and community-driven development (CDD)—have shaped local institutions and national political dynamics. The story that emerges is a nuanced one: war does not necessarily destroy the capacity for local collective action; ethnicity affects residential choice, but does not impede local public goods provision; while politics remain heavily ethnic, voters are willing to cross ethnic boundaries when they have better information about candidates; decentralization can work even where capacity is limited, although the results are mixed; and for all of its promise, CDD does not appear to transform local institutions nor social norms. All of these findings are somewhat “unexpected,” but they are quite positive in signaling that even one of the world’s poorest, most violent and ethnically diverse societies can overcome major challenges and progress towards meaningful economic and political development."
+  }
+ ]
+}

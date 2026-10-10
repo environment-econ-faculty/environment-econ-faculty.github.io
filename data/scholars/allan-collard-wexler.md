@@ -4,6 +4,8 @@
 学校: Duke University
 职称: 正教授
 头衔: Professor of Economics
+单位: Department of Economics
+单位类型: 经济系
 聘任类型: 经济系
 领域层级: 相关研究
 研究方向: 能源; 自然资源; 环境

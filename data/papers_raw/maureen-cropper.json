@@ -1,0 +1,1591 @@
+{
+ "slug": "maureen-cropper",
+ "name": "Maureen Cropper",
+ "sources": [
+  "https://www.econ.umd.edu/sites/www.econ.umd.edu/files/cv/Cropper%20CV%20September%202026.docx"
+ ],
+ "collected": "2026-10-10",
+ "notes": "No homepage; all items from CV (Sept 2026, .docx). Fewer than 150 research items so all included. Skipped: discussions/comments, an interview (\"A Conversation with Maureen Cropper\"), National Research Council / National Academies / Inter-Academy Council committee reports, World Bank reports (Guatemala fuel use; Striving for Clean Air; Global Monitoring Report chapter), and working papers that are earlier versions of listed publications with the same title. No abstracts. Co-author lists given as in CV (\"co-author\"/\"others\" where CV omits names).",
+ "papers": [
+  {
+   "title": "Valuing Environmental Benefits: The Selected Essays of Maureen Cropper",
+   "authors": [
+    "Maureen Cropper"
+   ],
+   "year": 1999,
+   "venue": "Book, Edward Elgar Publishers",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A State Preference Approach to the Precautionary Demand for Money",
+   "authors": [
+    "Maureen Cropper"
+   ],
+   "year": 1976,
+   "venue": "American Economic Review 66 (1976), 388-394",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Regulating Activities with Catastrophic Environmental Effects",
+   "authors": [
+    "Maureen Cropper"
+   ],
+   "year": 1976,
+   "venue": "Journal of Environmental Economics and Management 3 (1976), 1-15",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Health, Investment in Health, and Occupational Choice",
+   "authors": [
+    "Maureen Cropper"
+   ],
+   "year": 1977,
+   "venue": "Journal of Political Economy 85 (1977), 1273-1294",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Optimal Consumption of a Depletable Natural Resource: An Elaboration, Correction and Extension",
+   "authors": [
+    "Maureen Cropper",
+    "Milton Weinstein",
+    "Richard Zeckhauser"
+   ],
+   "year": 1978,
+   "venue": "Quarterly Journal of Economics 92 (1978), 337-344",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Optimal Extinction of a Renewable Natural Resource",
+   "authors": [
+    "Maureen Cropper",
+    "Dwight Lee",
+    "S.S. Pannu"
+   ],
+   "year": 1979,
+   "venue": "Journal of Environmental Economics and Management 6 (1979), 341-349",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Inter-city Wage Differentials and the Value of Air Quality",
+   "authors": [
+    "Maureen Cropper",
+    "A.S. Arriaga-Salinas"
+   ],
+   "year": 1980,
+   "venue": "Journal of Urban Economics 8 (1980), 236-254",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Pollution Aspects of Nuclear Energy Use",
+   "authors": [
+    "Maureen Cropper"
+   ],
+   "year": 1980,
+   "venue": "Journal of Environmental Economics and Management 7 (1980), 334-352",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Measuring Benefits from Reduced Morbidity",
+   "authors": [
+    "Maureen Cropper"
+   ],
+   "year": 1981,
+   "venue": "American Economic Review Proceedings 71 (1981), 235-240",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Value of Urban Amenities",
+   "authors": [
+    "Maureen Cropper"
+   ],
+   "year": 1981,
+   "venue": "Journal of Regional Science 21 (1981), 359-374",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Economic Incentives for Pollution Control",
+   "authors": [
+    "Maureen Cropper"
+   ],
+   "year": 1985,
+   "venue": "in Lecture Notes, American Mathematical Society Short Course on Environmental and Natural Resource Mathematics, American Mathematical Society, Providence, R.I., 1985",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A Note on the Extinction of Renewable Resources",
+   "authors": [
+    "Maureen Cropper"
+   ],
+   "year": 1988,
+   "venue": "Journal of Environmental Economics and Management 15 (1988), 64-70",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Families and the Economics of Risks to Life",
+   "authors": [
+    "Maureen Cropper",
+    "Frances G. Sussman"
+   ],
+   "year": 1988,
+   "venue": "American Economic Review 78 (1988), 255-260",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "On the Choice of Functional Form for Hedonic Price Functions",
+   "authors": [
+    "Maureen Cropper",
+    "Leland B. Deck",
+    "Kenneth E. McConnell"
+   ],
+   "year": 1988,
+   "venue": "Review of Economics and Statistics 70 (1988), 668-675",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Valuing Future Risks to Life",
+   "authors": [
+    "Maureen Cropper",
+    "Frances G. Sussman"
+   ],
+   "year": 1990,
+   "venue": "Journal of Environmental Economics and Management, 19 (1990), 160-174",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Discounting and the Evaluation of Life-Saving Programs",
+   "authors": [
+    "Maureen Cropper",
+    "Paul R. Portney"
+   ],
+   "year": 1990,
+   "venue": "Journal of Risk and Uncertainty, 3 (1990), 369-380",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Wasteful Commuting: A Re-examination",
+   "authors": [
+    "Maureen Cropper",
+    "Patrice L. Gordon"
+   ],
+   "year": 1991,
+   "venue": "Journal of Urban Economics, 29 (1991), 2-13",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Valuing Environmental Health Effects",
+   "authors": [
+    "Maureen Cropper",
+    "A.M. Freeman III"
+   ],
+   "year": 1991,
+   "venue": "in John Braden and Charles Kolstad (eds.) Measuring the Demand for Environmental Commodities. Amsterdam: North-Holland, 1991",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Discounting Human Lives",
+   "authors": [
+    "Maureen Cropper",
+    "Sema K. Aydede",
+    "Paul R. Portney"
+   ],
+   "year": 1991,
+   "venue": "American Journal of Agricultural Economics, 73 (1991), 1410-1415",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Determinants of Pesticide Regulation: A Statistical Analysis of EPA Decisionmaking",
+   "authors": [
+    "Maureen Cropper",
+    "William N. Evans",
+    "Stephen J. Berardi",
+    "Maria M. Ducla-Soares",
+    "Paul R. Portney"
+   ],
+   "year": 1992,
+   "venue": "Journal of Political Economy, 100 (1992), 175-198",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Effect of Information on Health Risk Valuations",
+   "authors": [
+    "Maureen Cropper",
+    "Alan J. Krupnick"
+   ],
+   "year": 1992,
+   "venue": "Journal of Risk and Uncertainty, 5 (1992), 29-48",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Rates of Time Preference for Saving Lives",
+   "authors": [
+    "Maureen Cropper",
+    "Sema K. Aydede",
+    "Paul R. Portney"
+   ],
+   "year": 1992,
+   "venue": "American Economic Review Proceedings 82 (1992), 469-472",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Environmental Economics: A Survey",
+   "authors": [
+    "Maureen Cropper",
+    "Wallace E. Oates"
+   ],
+   "year": 1992,
+   "venue": "Journal of Economic Literature, 30 (1992), 675-740",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Pesticide Regulation and the Rule-making Process",
+   "authors": [
+    "Maureen Cropper",
+    "William N. Evans",
+    "Stephen J. Berardi",
+    "Maria M. Ducla-Soares",
+    "Paul R. Portney"
+   ],
+   "year": 1992,
+   "venue": "Northeastern Journal of Agricultural and Resource Economics, 21 (1992), 77-82",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Estimation of Consumer Preferences for Attributes: A Comparison of Hedonic and Discrete Choice Approaches",
+   "authors": [
+    "Maureen Cropper",
+    "Leland Deck",
+    "Nalin Kishor",
+    "Ted McConnell"
+   ],
+   "year": 1993,
+   "venue": "Review of Economics and Statistics 75 (1993), 225-232",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Preferences for Life-Saving Programs: How the Public Discounts Time and Age",
+   "authors": [
+    "Maureen Cropper",
+    "Sema K. Aydede",
+    "Paul R. Portney"
+   ],
+   "year": 1994,
+   "venue": "Journal of Risk and Uncertainty 8 (1994), 243-265",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Interaction of Population Growth and Environmental Quality",
+   "authors": [
+    "Maureen Cropper",
+    "Charles Griffiths"
+   ],
+   "year": 1994,
+   "venue": "American Economic Review Proceedings 84 (1994), 250-254",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Do Benefits and Costs Matter in Environmental Regulation? An Analysis of EPA Decisions Under Superfund",
+   "authors": [
+    "Maureen Cropper",
+    "Shreekant Gupta",
+    "George L. Van Houtven"
+   ],
+   "year": 1995,
+   "venue": "in R. Revesz and R Stewart (eds.) Reauthorizing Superfund: Theoretical and Empirical Issues. Baltimore: Johns Hopkins University Press for Resources for the Future, 1995",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "What is the Value of Reduced Morbidity in Taiwan?",
+   "authors": [
+    "Maureen Cropper",
+    "A. Alberini",
+    "Tsu-Tan Fu",
+    "A. Krupnick",
+    "Jin-Tan Liu",
+    "Daigee Shaw",
+    "Winston Harrington"
+   ],
+   "year": 1996,
+   "venue": "in R. Mendelsohn and D. Shaw (eds.) The Economics of Pollution Control in the Asian Pacific. London: Edward Elgar Publishers, 1996",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Benefit-Cost Analysis in Environmental Health and Safety Regulation: A Statement of Principles",
+   "authors": [
+    "Maureen Cropper",
+    "K.J. Arrow",
+    "G.C. Eads",
+    "R.W. Hahn",
+    "L.B. Lave",
+    "R.G. Noll",
+    "P.R. Portney",
+    "M. Russell",
+    "R. Schmalensee",
+    "V.K. Smith",
+    "R. N. Stavins"
+   ],
+   "year": 1996,
+   "venue": "AEI Press, 1996",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Is There A Role for Benefit-Cost Analysis in Environmental, Health and Safety Regulation?",
+   "authors": [
+    "Maureen Cropper",
+    "K.J. Arrow",
+    "G.C. Eads",
+    "R.W. Hahn",
+    "L.B. Lave",
+    "R.G. Noll",
+    "P.R. Portney",
+    "M. Russell",
+    "R. Schmalensee",
+    "V.K. Smith",
+    "R. N. Stavins"
+   ],
+   "year": 1996,
+   "venue": "Science 272 (1996), 221-222",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "When is a Life Too Costly to Save? The Evidence from U.S. Environmental Regulations",
+   "authors": [
+    "Maureen Cropper",
+    "George L. Van Houtven"
+   ],
+   "year": 1996,
+   "venue": "Journal of Environmental Economics and Management 30 (1996), 348-68",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Paying for Permanence: An Economic Analysis of EPA’s Cleanup Decisions at Superfund Sites",
+   "authors": [
+    "Maureen Cropper",
+    "Shreekant Gupta",
+    "George Van Houtven"
+   ],
+   "year": 1996,
+   "venue": "The RAND Journal of Economics 27 (1996), 563-82",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Health Benefits of Air Pollution Control in Delhi",
+   "authors": [
+    "Maureen Cropper",
+    "Nathalie Simon",
+    "Anna Alberini",
+    "Seema Arora",
+    "P.K. Sharma"
+   ],
+   "year": 1997,
+   "venue": "American Journal of Agricultural Economics 79 (1997), 1625-1629",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Valuing Health Effects of Air Pollution in Developing Countries: The Case of Taiwan",
+   "authors": [
+    "Maureen Cropper",
+    "Anna Alberini",
+    "Tsu-Tan Fu",
+    "Alan Krupnick",
+    "Jin-Tan Liu",
+    "Daigee Shaw",
+    "Winston Harrington"
+   ],
+   "year": 1997,
+   "venue": "Journal of Environmental Economics and Management 34 (1997), 107-126",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Contingent Valuation",
+   "authors": [
+    "Maureen Cropper",
+    "Anna Alberini"
+   ],
+   "year": 1998,
+   "venue": "in The New Palgrave Dictionary of Economics and the Law, Peter Newman (ed.). London: Macmillan, 1998",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Roads, Population Pressures and Deforestation in Thailand, 1976-1989",
+   "authors": [
+    "Maureen Cropper",
+    "C. Griffiths",
+    "M. Mani"
+   ],
+   "year": 1999,
+   "venue": "Land Economics, 75 (1999), 58-73",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Environmental Federalism: Welfare Losses from Uniform National Drinking Water Standards",
+   "authors": [
+    "Maureen Cropper",
+    "Terry M. Dinan",
+    "Paul R. Portney"
+   ],
+   "year": 1999,
+   "venue": "in Environmental and Public Economics: Essays in Honor of Wallace E. Oates, Arvind Panagariya, Paul Portney, and Robert M. Schwab eds., Cheltenham, UK: Edward Elgar Publishing Company, 1999",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Implications of Hyperbolic Discounting for Project Evaluation",
+   "authors": [
+    "Maureen Cropper",
+    "David Laibson"
+   ],
+   "year": 1999,
+   "venue": "in Discounting Intergenerational Equity. Paul R. Portney and John Weyant (eds.) Washington, DC: Resources for the Future, 1999",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Has Economic Research Answered the Needs of Environmental Policy?",
+   "authors": [
+    "Maureen Cropper"
+   ],
+   "year": 2000,
+   "venue": "Journal of Environmental Economics and Management, 39 (2000), 328-350",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Public Choices Between Life-Saving Programs: The Tradeoff Between Qualitative Factors and Lives Saved",
+   "authors": [
+    "Maureen Cropper",
+    "Uma Subramanian"
+   ],
+   "year": 2000,
+   "venue": "Journal of Risk and Uncertainty, 21(1):117-149, July 2000",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Sulfur Dioxide Control by Electric Utilities: What Are the Gains from Trade?",
+   "authors": [
+    "Maureen Cropper",
+    "Curtis Carlson",
+    "Dallas Burtraw",
+    "Karen Palmer"
+   ],
+   "year": 2000,
+   "venue": "Journal of Political Economy, 108 (2000), 1292-1317",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Predicting the Location of Deforestation in North Thailand: The Role of Roads and Protected Areas",
+   "authors": [
+    "Maureen Cropper",
+    "Jyotsna Puri",
+    "Charles Griffiths"
+   ],
+   "year": 2001,
+   "venue": "Land Economics, 77(2):172-186, May 2001",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Age, Health, and the Willingness to Pay for Mortality Risk Reductions: A Contingent Valuation Survey of Ontario Residents",
+   "authors": [
+    "Maureen Cropper",
+    "Alan Krupnick",
+    "Anna Alberini",
+    "Nathalie Simon",
+    "Bernie O’Brien",
+    "Ron Goeree",
+    "Martin Heintzelman"
+   ],
+   "year": 2002,
+   "venue": "Journal of Risk and Uncertainty, 24(2):161-186, March 2002",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Demand for a Malaria Vaccine: Evidence from Ethiopia",
+   "authors": [
+    "Maureen Cropper",
+    "Mitiku Haile",
+    "Julian Lampietti",
+    "Christine Poulos",
+    "Dale Whittington"
+   ],
+   "year": 2004,
+   "venue": "Journal of Development Economics, 75(1):303-318, October 2004",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Does the Value of a Statistical Life Vary with Age and Health Status? Evidence from the U.S. and Canada",
+   "authors": [
+    "Maureen Cropper",
+    "Alan Krupnick",
+    "Anna Alberini",
+    "Nathalie Simon"
+   ],
+   "year": 2004,
+   "venue": "Journal of Environmental Economics and Management, 48(1): 769-792, July 2004",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Better Evaluation of Life-Saving Environmental Regulations",
+   "authors": [
+    "Maureen Cropper"
+   ],
+   "year": 2004,
+   "venue": "in New Approaches on Energy and the Environment: Policy Advice for the President. Richard D. Morgenstern and Paul R. Portney (eds.) Washington, DC: Resources for the Future, 2004",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Traffic Fatalities and Economic Growth",
+   "authors": [
+    "Maureen Cropper",
+    "Elizabeth Kopits"
+   ],
+   "year": 2005,
+   "venue": "Accident Analysis and Prevention, 37(1):169-178, January 2005",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Impact of Urban Spatial Structure on Travel Demand in the United States",
+   "authors": [
+    "Maureen Cropper",
+    "Antonio Bento",
+    "Ahmed Mobarak",
+    "Katja Vinha"
+   ],
+   "year": 2005,
+   "venue": "The Review of Economics and Statistics, 87(3): 466-478, August 2005",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Demand for Insecticide-Treated Mosquito Nets",
+   "authors": [
+    "Maureen Cropper",
+    "C. Poulos",
+    "J. Lampietti",
+    "D. Whittington",
+    "M. Haile"
+   ],
+   "year": 2006,
+   "venue": "in the Handbook of Contingent Valuation, J. Kahn and A. Alberini (eds.), pp. 324-339. Edward Elgar, 2006",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Willingness to Pay for Mortality Risk Reductions: Does Latency Matter?",
+   "authors": [
+    "Maureen Cropper",
+    "Anna Alberini",
+    "Alan Krupnick",
+    "Nathalie Simon"
+   ],
+   "year": 2006,
+   "venue": "Journal of Risk and Uncertainty, 32(3): 231-245, May 2006",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Value of Mortality Risk Reductions in Delhi, India",
+   "authors": [
+    "Maureen Cropper",
+    "Soma Bhattacharya",
+    "Anna Alberini"
+   ],
+   "year": 2007,
+   "venue": "Journal of Risk and Uncertainty, 34(1): 21-47, February 2007",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Impact of Policies to Control Motor Vehicle Emissions in Mumbai, India",
+   "authors": [
+    "Maureen Cropper",
+    "Akie Takeuchi",
+    "Antonio Bento"
+   ],
+   "year": 2007,
+   "venue": "Journal of Regional Science, 47(1): 27-46, February 2007",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Why Have Traffic Fatalities Declined in Industrialised Countries? Implications for Pedestrians and Vehicle Occupants",
+   "authors": [
+    "Maureen Cropper",
+    "Elizabeth Kopits"
+   ],
+   "year": 2008,
+   "venue": "Journal of Transport Economics and Policy, 42(1):129-154, January 2008",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Welfare Effects of Slum Improvement Programs: The Case of Mumbai",
+   "authors": [
+    "Maureen Cropper",
+    "Akie Takeuchi",
+    "Antonio Bento"
+   ],
+   "year": 2008,
+   "venue": "Journal of Urban Economics, 64(1), 65-84, July 2008",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "What Are the Health Effects of Air Pollution in China?",
+   "authors": [
+    "Maureen Cropper"
+   ],
+   "year": 2010,
+   "venue": "in Is Economic Growth Sustainable?, G.M. Heal (ed). London: Palgrave-Macmillan, 2010",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Political Economy of Health Services Provision in Brazil",
+   "authors": [
+    "Maureen Cropper",
+    "Ahmed Mobarak",
+    "Andrew Sunil Rajkumar"
+   ],
+   "year": 2011,
+   "venue": "Economic Development and Cultural Change, 59(4), 723-751, July 2011",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Valuing Mortality Risks Reductions: Progress and Challenges",
+   "authors": [
+    "Maureen Cropper",
+    "James K. Hammitt",
+    "Lisa A. Robinson"
+   ],
+   "year": 2011,
+   "venue": "Annual Review of Resource Economics, vol. 3, 313-336, 2011",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Cost of Fuel Economy in the Indian Passenger Vehicle Market",
+   "authors": [
+    "Maureen Cropper",
+    "Randy Chugh",
+    "Urvashi Narain"
+   ],
+   "year": 2011,
+   "venue": "Energy Policy, 39(11), 7174-7183, November 2011",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Public Transport Subsidies and Affordability in Mumbai, India",
+   "authors": [
+    "Maureen Cropper",
+    "Soma Bhattacharya"
+   ],
+   "year": 2012,
+   "venue": "Urban Studies Research, vol. 2012, November 2012",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Determining Benefits and Costs For Future Generations",
+   "authors": [
+    "Maureen Cropper",
+    "Kenneth J. Arrow",
+    "Christian Gollier",
+    "Ben Groom",
+    "Geoffrey M. Heal",
+    "Richard G. Newell",
+    "William D. Nordhaus",
+    "Robert S. Pindyck",
+    "William A. Pizer",
+    "Paul R. Portney",
+    "Thomas Sterner",
+    "Richard S. J. Tol",
+    "Martin L. Weitzman"
+   ],
+   "year": 2013,
+   "venue": "Science, vol 341(6144), 349-350, July 2013",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Why Are Power Plants in India Less Efficient than Power Plants in the United States?",
+   "authors": [
+    "Maureen Cropper",
+    "Hei Sing (Ron) Chan",
+    "Kabir Malik"
+   ],
+   "year": 2014,
+   "venue": "American Economic Review Papers and Proceedings, 104(5), 586-90, May 2014",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "How Effective are U.S. Renewable Energy Subsidies in Cutting Greenhouse Gases?",
+   "authors": [
+    "Maureen Cropper",
+    "Brian C. Murray",
+    "Francisco de la Chesnaye",
+    "John M. Reilly"
+   ],
+   "year": 2014,
+   "venue": "American Economic Review Papers and Proceedings, 104(5), 569-74, May 2014",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Declining Discount Rates",
+   "authors": [
+    "Maureen Cropper",
+    "Mark C. Freeman",
+    "Ben Groom",
+    "William A. Pizer"
+   ],
+   "year": 2014,
+   "venue": "American Economic Review Papers and Proceedings, 104(5), 538-43, May 2014",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Getting Cars Off the Road: The Cost-Effectiveness of an Episodic Pollution Control Program",
+   "authors": [
+    "Maureen Cropper",
+    "Yi Jiang",
+    "Anna Alberini",
+    "Patrick Baur"
+   ],
+   "year": 2014,
+   "venue": "Environmental and Resource Economics, vol. 57, 117-143, May 2014",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Should Governments Use a Declining Discount Rate in Project Analysis?",
+   "authors": [
+    "Maureen Cropper",
+    "K.J. Arrow",
+    "C. Gollier",
+    "B. Groom",
+    "G.M. Heal",
+    "R.G. Newell",
+    "W.D. Nordhaus",
+    "R.S. Pindyck",
+    "W.A. Pizer",
+    "P.R. Portney",
+    "T. Sterner",
+    "R.S.J. Tol",
+    "M.L. Weitzman"
+   ],
+   "year": 2014,
+   "venue": "Review of Environmental Economics and Policy, 8(2)",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "How Should Benefits and Costs Be Discounted in an Inter-generational Context?",
+   "authors": [
+    "Maureen Cropper"
+   ],
+   "year": 2014,
+   "venue": "Ch. 5 in Sustainable Consumption: Multi-Dimensional Perspectives in Honour of Sir Partha Dasgupta, Dale Southeron and Alistair Ulph (eds.), Oxford University Press, 2014",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Using and Improving the Social Cost of Carbon",
+   "authors": [
+    "Maureen Cropper",
+    "William Pizer",
+    "Matthew Adler",
+    "Joseph Aldy",
+    "David Anthoff",
+    "Kenneth Gillingham",
+    "Michael Greenstone",
+    "Brian Murray",
+    "Richard Newell",
+    "Richard Richels",
+    "Arden Rowell",
+    "Stephanie Waldhoff",
+    "Jonathan Wiener"
+   ],
+   "year": 2014,
+   "venue": "Science, 346 (6213), 1181-1182, December 2014",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Health Benefits of Air Pollution Abatement Policy: Role of the Shape of the Concentration-Response Function",
+   "authors": [
+    "Maureen Cropper",
+    "Arden Pope",
+    "Jay Coggins",
+    "Aaron Cohen"
+   ],
+   "year": 2015,
+   "venue": "Journal of the Air & Waste Management Association, 65(5), 2015",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Impact of Electricity Sector Restructuring on Coal-Fired Power Plants in India",
+   "authors": [
+    "Maureen Cropper",
+    "Kabir Malik",
+    "Alex Limonov",
+    "Anoop Singh"
+   ],
+   "year": 2015,
+   "venue": "The Energy Journal, 36 (4), 287-312, 2015",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Looking Backward to Move Regulation Forward",
+   "authors": [
+    "Maureen Cropper",
+    "Arthur Fraas",
+    "Richard Morgernstern"
+   ],
+   "year": 2017,
+   "venue": "Science, 355 (6332), 1375-1376, March 2017",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Costs and Benefits of Installing Flue-Gas Desulfurization Units at Coal-Fired Power Plants in India",
+   "authors": [
+    "Maureen Cropper",
+    "Sarath Guttikunda",
+    "Puja Jawahar",
+    "Kabir Malik",
+    "Ian Partridge"
+   ],
+   "year": 2017,
+   "venue": "Chapter 13 in Disease Control Priorities, Third Edition: Volume 7, Injury Prevention and Environmental Health, 2017",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Welfare Effects of Fuel Conservation Policies in a Dual-Fuel Car Market: Evidence from India",
+   "authors": [
+    "Maureen Cropper",
+    "Randy Chugh"
+   ],
+   "year": 2017,
+   "venue": "Journal of Environmental Economics and Management, 86, 244-261, November 2017",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Household Location Decisions and the Value of Climate Amenities",
+   "authors": [
+    "Maureen Cropper",
+    "Paramita Sinha",
+    "Martha L. Caulkins"
+   ],
+   "year": 2018,
+   "venue": "Journal of Environmental Economics and Management, 92 (2018): 608-637",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Lancet Commission on Pollution and Health",
+   "authors": [
+    "Maureen Cropper",
+    "co-authors"
+   ],
+   "year": 2018,
+   "venue": "The Lancet, 391(10119):462-512, 2018",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Impact of Trading on the Costs and Benefits of the Acid Rain Program",
+   "authors": [
+    "Maureen Cropper",
+    "H. Ron Chan",
+    "B. Andrew Chupp",
+    "Nicholas Z. Muller"
+   ],
+   "year": 2018,
+   "venue": "Journal of Environmental Economics and Management, 88, 180-209, March 2018",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Facilitating Retrospective Analysis of Environmental Regulations",
+   "authors": [
+    "Maureen Cropper",
+    "Richard Morgenstern",
+    "Nicholas Rivers"
+   ],
+   "year": 2018,
+   "venue": "Review of Environmental Economics and Policy, 12(2): 359-370, Summer 2018",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Pollution and Global Health – An Agenda for Prevention",
+   "authors": [
+    "Maureen Cropper",
+    "Philip J. Landrigan",
+    "Richard Fuller",
+    "Howard Hu",
+    "Jack Caravanos",
+    "David Hanrahan",
+    "Karti Sandilya",
+    "Thomas Chiles",
+    "Pushpam Kumar",
+    "William A. Suk"
+   ],
+   "year": 2018,
+   "venue": "Environmental Health Perspectives. 2018 Aug. 6; 126(8): 084501",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Applying Benefit-Cost Analysis to Air Pollution Control in the Indian Power Sector",
+   "authors": [
+    "Maureen Cropper",
+    "S. Guttikunda",
+    "P. Jawahar",
+    "Z. Lazri",
+    "K. Malik",
+    "X.P. Song",
+    "Z. Yao"
+   ],
+   "year": 2019,
+   "venue": "Journal of Benefit-Cost Analysis, 10(S1): 185-205, 2019",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Health and Economic Impact of Air Pollution in the States of India: The Global Burden of Disease Study 2019",
+   "authors": [
+    "Maureen Cropper",
+    "members of the India State-Level Disease Burden Initiative Air Pollution Collaborators"
+   ],
+   "year": 2021,
+   "venue": "The Lancet Planetary Health, 5(1): e25-e38, 2021",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Mortality Impacts of Current and Planned Coal-Fired Power Plants in India",
+   "authors": [
+    "Maureen Cropper",
+    "R. Cui",
+    "S. Guttikunda",
+    "N. Hultman",
+    "P. Jawahar",
+    "Y. Park",
+    "X. Yao",
+    "X.-P. Song"
+   ],
+   "year": 2021,
+   "venue": "Proceedings of the National Academy of Sciences, February 2021 118 (5) e2017936188",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Health Impacts of Coal-Fired Power Plants in India and the Co-Benefits of GHG Reductions",
+   "authors": [
+    "Maureen Cropper",
+    "R. Cui",
+    "S. Guttikunda",
+    "N. Hultman",
+    "P. Jawahar",
+    "Y. Park",
+    "X. Yao",
+    "X.-P. Song"
+   ],
+   "year": 2021,
+   "venue": "AEA Papers and Proceedings, May 2021, pp. 385-90",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Eight Priorities for Calculating the Social Costs of Carbon",
+   "authors": [
+    "Maureen Cropper",
+    "G. Wagner",
+    "D. Anthoff",
+    "S. Dietz",
+    "K. Gillingham",
+    "B. Groom",
+    "P. Kelleher",
+    "F. Moore",
+    "J. Stock"
+   ],
+   "year": 2021,
+   "venue": "Nature, 590, February 25, 2021, pp. 548-550",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Value of Climate Amenities: A Comparison of Hedonic and Discrete Choice Approaches",
+   "authors": [
+    "Maureen Cropper",
+    "P. Sinha",
+    "M. Caulkins"
+   ],
+   "year": 2021,
+   "venue": "Journal of Urban Economics, 126, June 2021 https://doi.org/10.1016/j.jue.2021.103371",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Air Pollution and Development in Africa: Impacts on Health, the Economy and Human Capital",
+   "authors": [
+    "Maureen Cropper",
+    "S. Fisher",
+    "D.C. Bellinger",
+    "P. Landrigan et al."
+   ],
+   "year": 2021,
+   "venue": "The Lancet Planetary Health, 5(10), October 2021, pp. e681-e688",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Looking Back at 50 Years of the Clean Air Act",
+   "authors": [
+    "Maureen Cropper",
+    "J. Aldy",
+    "M. Auffhammer",
+    "A. Fraas",
+    "R. Morgenstern"
+   ],
+   "year": 2022,
+   "venue": "Journal of Economic Literature, 60(1), pp. 179-232, March 2022",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Pollution and Health: A Progress Update",
+   "authors": [
+    "Maureen Cropper",
+    "Rich Fuller",
+    "Phil Landrigan et al."
+   ],
+   "year": 2022,
+   "venue": "The Lancet Planetary Health, 2022, 6: e535-47",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "How Does the US Price Carbon? How Could We Price Carbon?",
+   "authors": [
+    "Maureen Cropper",
+    "J. Aldy",
+    "D. Burtraw",
+    "C. Fischer",
+    "M. Fowlie",
+    "R. Williams"
+   ],
+   "year": 2022,
+   "venue": "Journal of Benefit-Cost Analysis, 13(3), pp. 310-334, November 2022",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Health Benefits of Air Pollution Control in India",
+   "authors": [
+    "Maureen Cropper",
+    "Yongjoon Park"
+   ],
+   "year": 2022,
+   "venue": "Indian Economic Review, 57(2), December 2022",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Minderoo Monaco Commission on Plastics and Human Health",
+   "authors": [
+    "Maureen Cropper",
+    "co-author"
+   ],
+   "year": 2023,
+   "venue": "Annals of Global Health, 89(1), March 2023 http://doi.org/10.5334/aogh.4056",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Impact of the Clean Air Act on Particulate Matter in the 1970s",
+   "authors": [
+    "Maureen Cropper",
+    "Nicholas Muller",
+    "Yongjoon Park",
+    "Victoria Perez-Zetune"
+   ],
+   "year": 2023,
+   "venue": "Journal of Environmental Economics and Management, 121, August 2023",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Revisiting EPA’s VSL",
+   "authors": [
+    "Maureen Cropper",
+    "Emily Joiner",
+    "Alan Krupnick"
+   ],
+   "year": 2024,
+   "venue": "Review of Environmental Economics and Policy, Vol. 18, No. 2, Summer 2024",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Space Exploration and Economic Growth: New Issues and Horizons",
+   "authors": [
+    "Maureen Cropper",
+    "Luisa Corrado",
+    "Akhil Rao"
+   ],
+   "year": 2023,
+   "venue": "Proceedings of the National Academy of Sciences, Vol. 120, No. 43, October 16, 2023",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Measuring the Air Pollution Benefits of Public Transport Projects",
+   "authors": [
+    "Maureen Cropper",
+    "Palak Suri"
+   ],
+   "year": 2024,
+   "venue": "Regional Science and Urban Economics, Vol. 107, July 2024",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Incorporating Air and Water Pollution into the National Income and Product Accounts",
+   "authors": [
+    "Maureen Cropper",
+    "Yongjoon Park"
+   ],
+   "year": 2024,
+   "venue": "in Measuring and Accounting for Environmental Public Goods: A National Accounts Perspective. Edited by: Nicholas Z. Muller, Eli P. Fenichel, and Mary Bohman, NBER Studies in Income and Wealth, 2024",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Benefits of Removing Toxic Chemicals from Plastics",
+   "authors": [
+    "Maureen Cropper",
+    "Sarah Dunlop",
+    "Hudson Hinshaw",
+    "Philip Landrigan",
+    "Christos Symeonides",
+    "Yongjoon Park"
+   ],
+   "year": 2024,
+   "venue": "Proceedings of the National Academy of Sciences, Vol. 121, No. 52, December 16, 2024",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Manufactured Chemicals and Children’s Health—The Need for New Law",
+   "authors": [
+    "Maureen Cropper",
+    "Phil Landrigan",
+    "others"
+   ],
+   "year": 2025,
+   "venue": "New England Journal of Medicine, 392(3): 299-305, January 2025",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Lancet Countdown on Health and Plastics",
+   "authors": [
+    "Maureen Cropper",
+    "Phil Landrigan",
+    "others"
+   ],
+   "year": 2025,
+   "venue": "The Lancet (2025). https://doi.org/10.1016/s0140-6736(25)01447-3, 406: 1044-59, September 2025",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Mortality and Economic Benefits of Achieving Air Pollution Standards in India",
+   "authors": [
+    "Maureen Cropper",
+    "Paramita Sinha",
+    "others"
+   ],
+   "year": 2026,
+   "venue": "Proceedings of the National Academy of Sciences, Vol. 123, No. 8, February 17, 2026. https://doi.org/10.1073/pnas.2522228123",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Benefits of Public Transit to Households: Evidence from India",
+   "authors": [
+    "Maureen Cropper",
+    "Palak Suri"
+   ],
+   "year": 2026,
+   "venue": "Journal of Development Economics, vol. 183, 103839, September 2026",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "What Are the Benefits of Metro Rail in Mumbai, India?",
+   "authors": [
+    "Maureen Cropper",
+    "Palak Suri"
+   ],
+   "year": 2026,
+   "venue": "Regional Science and Urban Economics, vol. 121, 104262, September 2026",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Improving Air Quality in Metropolitan Mexico City: An Economic Valuation",
+   "authors": [
+    "Maureen Cropper",
+    "co-authors"
+   ],
+   "year": 2002,
+   "venue": "Policy Research Working Paper 2785, February 2002",
+   "status": "工作论文",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Urban Poverty and Transport: The Case of Mumbai",
+   "authors": [
+    "Maureen Cropper",
+    "Judy Baker",
+    "Rakhi Basu",
+    "Somik Lall",
+    "Akie Takeuchi"
+   ],
+   "year": 2005,
+   "venue": "World Bank Policy Research Working Paper 3693, September 2005",
+   "status": "工作论文",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Valuing Mortality and Morbidity in the Context of Disaster Risks",
+   "authors": [
+    "Maureen Cropper",
+    "Sebnem Sahin"
+   ],
+   "year": 2009,
+   "venue": "Policy Research Working Paper 4832, February 2009",
+   "status": "工作论文",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Options for Energy Efficiency in India and Barriers to Their Adoption: A Scoping Study",
+   "authors": [
+    "Maureen Cropper",
+    "Soma Bhattacharya"
+   ],
+   "year": 2010,
+   "venue": "Resources for the Future Discussion Paper DP10-20, April 2010",
+   "status": "工作论文",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Policy Response to Pandemic Influenza: The Value of Collective Action",
+   "authors": [
+    "Maureen Cropper",
+    "Georgiy Bobashev",
+    "Joshua M. Epstein",
+    "D. Michael Goedecke",
+    "Stephen Hutton",
+    "Mead Over"
+   ],
+   "year": 2011,
+   "venue": "NBER Working Paper 17195, July 2011",
+   "status": "工作论文",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Benefits of Achieving the Chesapeake Bay TMDLs",
+   "authors": [
+    "Maureen Cropper",
+    "William Isaac"
+   ],
+   "year": 2011,
+   "venue": "Resources for the Future Discussion Paper DP11-31, September 2011",
+   "status": "工作论文",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Health Effects of Coal Electricity Generation in India",
+   "authors": [
+    "Maureen Cropper",
+    "Shama Gamkhar",
+    "Kabir Malik",
+    "Alex Limonov",
+    "Ian Partridge"
+   ],
+   "year": 2012,
+   "venue": "Resources for the Future Discussion Paper DP12-25, June 2012",
+   "status": "工作论文",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Value of Climate Amenities: Evidence from US Migration Decisions",
+   "authors": [
+    "Maureen Cropper",
+    "Paramita Sinha"
+   ],
+   "year": 2013,
+   "venue": "Resources for the Future Discussion Paper, DP13-01, January 2013, and NBER Working Paper 18756, January 2013",
+   "status": "工作论文",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "How Should the World Bank Estimate Air Pollution Damages?",
+   "authors": [
+    "Maureen Cropper",
+    "Shefali Khanna"
+   ],
+   "year": 2014,
+   "venue": "Resources for the Future Discussion Paper, DP14-30, September 2014",
+   "status": "工作论文",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Net Benefits of the Acid Rain Program: What Can We Learn from the Grand Policy Experiment?",
+   "authors": [
+    "Maureen Cropper",
+    "H. Ron Chan",
+    "B. Andrew Chupp",
+    "Nicholas Z. Muller"
+   ],
+   "year": 2015,
+   "venue": "Resources for the Future Discussion Paper, DP15-25, June 2015, and NBER Working Paper 21383, July 2015. Revised as “The Impact of Trading on the Costs and Benefits of the Acid Rain Program,” DP15-25 REV, April 2017",
+   "status": "工作论文",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Preferences for Equality in Environmental Outcomes",
+   "authors": [
+    "Maureen Cropper",
+    "Alan J. Krupnick",
+    "William Raich"
+   ],
+   "year": 2016,
+   "venue": "Resources for the Future Discussion Paper DP16-36, September 2016",
+   "status": "工作论文",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Do Discrete Choice Approaches to Valuing Urban Amenities Yield Different Results Than Hedonic Models?",
+   "authors": [
+    "Maureen Cropper",
+    "Paramita Sinha",
+    "Martha L. Caulkins"
+   ],
+   "year": 2018,
+   "venue": "NBER Working Paper 24290, February 2018",
+   "status": "工作论文",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Reference Case Guidelines for Benefit-Cost Analysis in Global Health and Development",
+   "authors": [
+    "Maureen Cropper",
+    "L.A. Robinson",
+    "J.K. Hammitt",
+    "et al."
+   ],
+   "year": 2019,
+   "venue": null,
+   "status": "工作论文",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Closing the Gap: Gender, Transport and Employment in Mumbai",
+   "authors": [
+    "Maureen Cropper",
+    "M. Alam",
+    "M. Dappe",
+    "P. Suri"
+   ],
+   "year": 2021,
+   "venue": "World Bank Policy Research Working Paper 9569. March 2021",
+   "status": "工作论文",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Geographic Resolution in Environmental Policy: EPA’s Shift from Region to Counties Under the Clean Air Act",
+   "authors": [
+    "Maureen Cropper",
+    "M. Hu",
+    "Y. Park",
+    "N.Z. Muller"
+   ],
+   "year": 2025,
+   "venue": "NBER Working Paper 33412, January 2025",
+   "status": "工作论文",
+   "url": null,
+   "abstract": null
+  }
+ ]
+}

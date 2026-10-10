@@ -4,6 +4,8 @@
 学校: Northwestern University
 职称: 副教授
 头衔: Gerald F. and Marjorie G. Fitzgerald Associate Professor of Economics
+单位: Department of Economics
+单位类型: 经济系
 聘任类型: 经济系
 领域层级: 领域之一
 研究方向: 环境; 污染与健康; 气候

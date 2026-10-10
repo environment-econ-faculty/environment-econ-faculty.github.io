@@ -4,6 +4,8 @@
 学校: Massachusetts Institute of Technology
 职称: 正教授
 头衔: Institute Professor
+单位: Department of Economics
+单位类型: 经济系
 聘任类型: 经济系
 领域层级: 相关研究
 研究方向: 环境; 能源; 气候

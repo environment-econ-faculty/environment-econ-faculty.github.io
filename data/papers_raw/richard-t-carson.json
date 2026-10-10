@@ -1,0 +1,1585 @@
+{
+ "slug": "richard-t-carson",
+ "name": "Richard T. Carson",
+ "sources": [
+  "https://econweb.ucsd.edu/~rcarson/rtcvit.pdf",
+  "https://econweb.ucsd.edu/~rcarson/"
+ ],
+ "collected": "2026-10-10",
+ "notes": "Homepage paper lists are old (to ~2015); items taken from CV (latest entry 2025). Senior scholar with >150 CV items: included all publications from 2005 onward plus earlier refereed journal articles; skipped pre-2005 book chapters/proceedings/books, comments/replies/letters, guest-editor and review items, and the CV section of reports (except two NBER working papers). Parsed from PDF text; venue strings trimmed of volume numbers. No abstracts available.",
+ "papers": [
+  {
+   "title": "Choose Your Moments: Peer Review and Scientific Risk Taking",
+   "authors": [
+    "Richard T. Carson",
+    "Jeffrey R. Shrader",
+    "Joshua S. Graff Zivin"
+   ],
+   "year": 2023,
+   "venue": "NBER Working Paper 31409",
+   "status": "工作论文",
+   "url": "https://www.nber.org/papers/w31409",
+   "abstract": null
+  },
+  {
+   "title": "Using Administrative Data to Impute Income Non-Response in Household Surveys",
+   "authors": [
+    "Richard T. Carson",
+    "V. Kerry Smith",
+    "Michael P. Welsh",
+    "Stanley Presser"
+   ],
+   "year": 2022,
+   "venue": "NBER Working Paper 30420",
+   "status": "工作论文",
+   "url": "https://www.nber.org/papers/w30420",
+   "abstract": null
+  },
+  {
+   "title": "The Public's Views on Climate Policies in Seven Large Global South Countries",
+   "authors": [
+    "Richard T. Carson",
+    "Jiajun Lu",
+    "Emily A. Khossravi",
+    "Gunnar Köhlin",
+    "Erik Sterner",
+    "Thomas Sterner",
+    "Dale Whittington"
+   ],
+   "year": 2025,
+   "venue": "Nature Climate Change",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Understanding and Valuing Human Connections to Deep-Sea Methane Seeps off Costa Rica",
+   "authors": [
+    "Richard T. Carson",
+    "Olívia S. Pereira",
+    "Mark Jacobsen",
+    "Jorge Cortés",
+    "Lisa A. Levin"
+   ],
+   "year": 2024,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Attitude-Behavior Dichotomy in the Time of COVID-19 An Exploration Using Generalized Structural Equation Modeling",
+   "authors": [
+    "Richard T. Carson",
+    "W. Michael Hanemann",
+    "Dohyeong Kim",
+    "Hanna Shin",
+    "Dale Whittington"
+   ],
+   "year": 2024,
+   "venue": "Singapore Economic Review",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Benefit Cost Analysis of Water Investments in the Anthropocene",
+   "authors": [
+    "Richard T. Carson",
+    "Dale Whittington",
+    "Thomas Sterner"
+   ],
+   "year": 2023,
+   "venue": "Water Economics and Policy",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Perceptions of the Seriousness of Major Public Health Problems During the COVID-19 Pandemic in Seven Middle-Income Countries",
+   "authors": [
+    "Richard T. Carson",
+    "Michael Hanemann",
+    "Gunnar Kohlin",
+    "Wiktor Adamowicz",
+    "Thomas Sterner",
+    "Frankin Amuakwa-Mensah",
+    "Francisco Alpizar",
+    "Emily A. Kohassravi",
+    "Marc Jeuland",
+    "Jorge A. Bonilla",
+    "Jie-Sheng Tan-Soo",
+    "Pham Khanh Nam",
+    "Simon Wagura Ndiritu",
+    "Shivani Wadehra",
+    "Martin J. Chegere",
+    "Martine Visser",
+    "Nnaemeka A. Chukwuone",
+    "Dale Whittington"
+   ],
+   "year": 2023,
+   "venue": "Communications in Medicine",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Precautionary Heuristic Management and Learning for Data-Poor Fisheries",
+   "authors": [
+    "Richard T. Carson",
+    "Jason H. Murray"
+   ],
+   "year": 2023,
+   "venue": "David Zilberman, Jeffrey M. Perloff, and Cyndi Berck, eds., Sustainable Resource Development in the 21st Century: Essays in Memory of Peter Berck (Cham, Switzerland: Springer, 2023)",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Integrating Non-Targeted Ecosystem Services into Assessment of Natural Stormwater Treatment Systems",
+   "authors": [
+    "Richard T. Carson",
+    "Jennifer T. Le",
+    "Jennifer P. Gonzalez",
+    "Richard F. Ambrose",
+    "Lisa A. Levin"
+   ],
+   "year": 2023,
+   "venue": "Water",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Support for Regulation versus Compliance: Face Masks During COVID-19",
+   "authors": [
+    "Richard T. Carson",
+    "Dohyeong Kim",
+    "Dale Whittington",
+    "Michael Hanemann"
+   ],
+   "year": 2023,
+   "venue": "Public Health in Practice",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Usefulness of Socio-demographic Variables in Predicting Purchase Decisions: Evidence from Machine Learning Procedures (MLPs)",
+   "authors": [
+    "Richard T. Carson",
+    "Towhidul Islam",
+    "Nigel Meade",
+    "Jordan J. Louviere",
+    "J.J. Wang"
+   ],
+   "year": 2022,
+   "venue": "Journal of Business Research",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Risk of Caution: Evidence from an R&D Experiment",
+   "authors": [
+    "Richard T. Carson",
+    "Jeffrey Schrader",
+    "Jordan J. Louviere",
+    "Sally Sadoff",
+    "Joshua Graff Zivin"
+   ],
+   "year": 2022,
+   "venue": "Management Science",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Volumetric Choice Experiments",
+   "authors": [
+    "Richard T. Carson",
+    "Thomas C. Eagle",
+    "Towhid Islam",
+    "Jordan J. Louviere"
+   ],
+   "year": 2022,
+   "venue": "Journal of Choice Modelling",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "COVID Choices: Research and Online System for Main Street Decision Making",
+   "authors": [
+    "Richard T. Carson",
+    "Kevin Clark",
+    "Jordan J. Louviere",
+    "Sandra O. Archibald"
+   ],
+   "year": 2022,
+   "venue": "Global Issues: (Disease Control and Pandemic Prevention), Proceedings of the AHFE 2022 International Conference. (and Helen Cardenas, W. Michael Hanemann, Jordan J. Louviere, and Dale Whittington), \"Who Should Get the Scarce ICU Bed? The US Public's View on Triage in the Time of COVID-19,\" Emergency Room Medicine",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "COVID-19's U.S. Temperature Response Profile",
+   "authors": [
+    "Richard T. Carson",
+    "Samuel L. Carson",
+    "Thane K. Dye",
+    "Samuel A. Mayfield",
+    "Daniel C. Moyer",
+    "Chu A. Yu"
+   ],
+   "year": 2021,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Existence Value of a Distinctive Native American Culture: Survival of the Hopi Reservation",
+   "authors": [
+    "Richard T. Carson",
+    "W. Michael Hanemann",
+    "Dale Whittington"
+   ],
+   "year": 2020,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Coastal Wetlands Reduce Property Damage During Tropical Cyclones",
+   "authors": [
+    "Richard T. Carson",
+    "Fanglin Sun"
+   ],
+   "year": 2020,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Modeling Stockpilable Product Purchase Decisions Using Volumetric Choice Experiments",
+   "authors": [
+    "Richard T. Carson",
+    "Towhidul Islam",
+    "Jordan J. Louviere"
+   ],
+   "year": 2020,
+   "venue": "Proceedings of the 21st Annual Sawtooth Software Conference (Sequim, WA: Sawtooth Software, 2020)",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A New Baseline Model for Estimating Willingness to Pay from Discrete Choice Models",
+   "authors": [
+    "Richard T. Carson",
+    "Mikolaj Czajkowski"
+   ],
+   "year": 2019,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Demand for Green Refueling Infrastructure",
+   "authors": [
+    "Richard T. Carson",
+    "Tamara L. Sheldon",
+    "J.R. DeShazo"
+   ],
+   "year": 2019,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Structural Uncertainty and Pollution Control: Optimal Stringency with Unknown Pollution Sources",
+   "authors": [
+    "Richard T. Carson",
+    "Jacob LaRiviere"
+   ],
+   "year": 2018,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Estimation of Broad-Scale Tradeoffs in Community Policing Policies",
+   "authors": [
+    "Richard T. Carson",
+    "Jordan J. Louviere"
+   ],
+   "year": 2017,
+   "venue": "Journal of Benefit-Cost Analysis",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Putting a Value on Injuries to Natural Assets: The BP Oil Spill",
+   "authors": [
+    "Richard T. Carson",
+    "Richard C. Bishop",
+    "Kevin J. Boyle",
+    "David Chapman",
+    "W. Michael Hanemann",
+    "Barbara Kanninen",
+    "Raymond J. Kopp",
+    "Jon A. Krosnick",
+    "John List",
+    "Norman Meade",
+    "Robert Paterson",
+    "Stanley Presser",
+    "V. Kerry Smith",
+    "Roger Tourangeau",
+    "Michael Welsh",
+    "Jeffrey M. Wooldridge",
+    "Matthew DeBell",
+    "Colleen Donovan",
+    "Matthew Konopka",
+    "Nora Scherer"
+   ],
+   "year": 2017,
+   "venue": "Science",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Electric and Plug-In Hybrid Vehicle Demand: Lessons for an Emerging Market",
+   "authors": [
+    "Richard T. Carson",
+    "Tamara L. Sheldon",
+    "J.R. DeShazo"
+   ],
+   "year": 2017,
+   "venue": "Economic Inquiry",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Designing Policy Incentives for Cleaner Technologies: Lessons from California's Plug-in Electric Vehicle Rebate Program",
+   "authors": [
+    "Richard T. Carson",
+    "J.R. DeShazo",
+    "Tamara L. Sheldon"
+   ],
+   "year": 2017,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Incorporating Ecosystem Services into Environmental Management of Deep-Seabed Mining",
+   "authors": [
+    "Richard T. Carson",
+    "Jennifer T. Le",
+    "Lisa A. Levin"
+   ],
+   "year": 2017,
+   "venue": "Deep Sea Research Part II",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Using the Delphi Method to Value Protection of the Amazon Rainforest",
+   "authors": [
+    "Richard T. Carson",
+    "Jon Strand",
+    "Ståle Navrud",
+    "Ariel Ortiz Bobea",
+    "Jeffrey R. Vincent"
+   ],
+   "year": 2017,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Valuing Shifts in the Distribution of Visibility in Class I Visibility Areas",
+   "authors": [
+    "Richard T. Carson",
+    "Kevin Boyle",
+    "Robert Paterson",
+    "Christopher Leggett",
+    "Barbara Kanninen",
+    "John Molenar"
+   ],
+   "year": 2016,
+   "venue": "Journal of Environmental Management",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Opportunities for Advances in Climate Change Economics: Target Carbon's Costs, Policy Designs and Developing Countries",
+   "authors": [
+    "Richard T. Carson",
+    "M. Burke",
+    "Craxton",
+    "C.D. Kolstad",
+    "C. Onda",
+    "H. Allcott",
+    "E. Baker",
+    "L. Barrage",
+    "R. Carson",
+    "K. Gillingham",
+    "J. Graff-Zivin",
+    "M. Greenstone",
+    "S. Hallegatte",
+    "W.M. Hanemann",
+    "G. Heal",
+    "S. Hsiang",
+    "B. Jones",
+    "D.L. Kelly",
+    "R. Kopp",
+    "M. Kotchen",
+    "R. Mendelsohn",
+    "K. Meng",
+    "G. Metcalf",
+    "J. Moreno-Cruz",
+    "R. Pindyck",
+    "S. Rose",
+    "I. Rudik",
+    "J. Stock",
+    "R. Tol"
+   ],
+   "year": 2016,
+   "venue": "Science",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "When the Ayes Don't Have It: Supplementing an Accept/ Reject DCE with a Case 2 Best-Worst Scaling Task",
+   "authors": [
+    "Richard T. Carson",
+    "Jordan J. Louviere"
+   ],
+   "year": 2015,
+   "venue": "Best-Worst Scaling: Theory, Methods and Applications,\" in Jordan J. Louviere, Terry N. Flynn, and A.A.J. Marley, eds., Best-Worst Scaling: Theory, Methods and Applications (New York: Cambridge University Press, 2015)",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Determining the Influence of Reddit Posts on Wikipedia Pageviews",
+   "authors": [
+    "Richard T. Carson",
+    "Daniel Moyer",
+    "Samuel L. Carson",
+    "Thayne Keegan Dye",
+    "David Goldbaum"
+   ],
+   "year": 2015,
+   "venue": "Proceedings of the Ninth International AAAI Conference on Web and Social Media, (Palo Alto, CA: Association for the Advancement of Artificial Intelligence 2015)",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Incorporating Local Visitor Valuation Information into the Design of New Recreation Sites in Tropical Forests",
+   "authors": [
+    "Richard T. Carson",
+    "J.R. DeShazo",
+    "Kurt A. Schwabe",
+    "Jeffrey R. Vincent",
+    "Ismariah Ahmade"
+   ],
+   "year": 2015,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Nonmarket Valuation and Water Resource Management",
+   "authors": [
+    "Richard T. Carson"
+   ],
+   "year": 2015,
+   "venue": "Ariel Dinar and Kurt A. Schwabe, eds., The Handbook of Water Economics (Northampton, MA: Edward Elgar, 2015)",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Designing and Implementing Surveys to Value Tropical Forests: A Malaysian Application",
+   "authors": [
+    "Richard T. Carson",
+    "J.R. DeShazo",
+    "Kurt A. Schwabe",
+    "Jeffrey R. Vincent",
+    "Ismariah Ahmade",
+    "Chong Siew Kook",
+    "Chang Yii Tan"
+   ],
+   "year": 2015,
+   "venue": "Journal of Tropical Forest Science",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Frontiers in Modelling Discrete Choice Experiments: A Benefit-Transfer Perspective",
+   "authors": [
+    "Richard T. Carson",
+    "Jordan J. Louviere",
+    "John M. Rose",
+    "Joffre Swait"
+   ],
+   "year": 2015,
+   "venue": "Robert Johnston, John Rolfe, Randy Rosenberger, and Roy Brouwer, eds., Benefit Transfer of Environmental and Resource Values: A Handbook for Researchers and Practitioners (Dordrecht, Netherlands: Springer, 2015)",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Creation of Malaysia's Royal Belum State Park: A Case Study of Conservation in a Developing Country",
+   "authors": [
+    "Richard T. Carson",
+    "Kurt A. Schwabe",
+    "J.R. DeShazo",
+    "Matthew D. Potts",
+    "Ashley N. Reese",
+    "Jeffrey R. Vincent"
+   ],
+   "year": 2015,
+   "venue": "Journal of Environment and Development",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Statistical Properties of Consideration Sets",
+   "authors": [
+    "Richard T. Carson",
+    "Jordan J. Louviere"
+   ],
+   "year": 2014,
+   "venue": "Journal of Choice Modelling",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Tropical Countries May Be Willing to Pay More to Protect Their Forests",
+   "authors": [
+    "Richard T. Carson",
+    "Jeffrey R. Vincent",
+    "J.R. DeShazo",
+    "Kurt A. Schwabe",
+    "Ismariah Ahmade",
+    "Chong Siew Kook",
+    "Chang Y. Tan",
+    "Matthew D. Potts"
+   ],
+   "year": 2014,
+   "venue": "Proceedings of National Academy of Sciences",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Consequentiality: A Theoretical and Experimental Exploration of a Single Binary Choice",
+   "authors": [
+    "Richard T. Carson",
+    "Theodore Groves",
+    "John A. List"
+   ],
+   "year": 2014,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Discrete Choice Experiment Approach to Environmental Contingent Valuation",
+   "authors": [
+    "Richard T. Carson",
+    "Mikolaj Czajkowski"
+   ],
+   "year": 2014,
+   "venue": "Stephane Hess and Andrew Daly, eds. Handbook of Choice Modelling (Northampton, MA: Edward Elgar, 2014)",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Exxon Valdez",
+   "authors": [
+    "Richard T. Carson"
+   ],
+   "year": 2014,
+   "venue": "T.C. Haab and J. Whitehead, eds., Encyclopedia of Environmental and Natural Resource Economics (Westport, CT: Greenwood Press, 2014)",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Influence of Rebate Programs on the Demand for Water Heaters: The Case of New South Wales",
+   "authors": [
+    "Richard T. Carson",
+    "Nada Wasi"
+   ],
+   "year": 2013,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Private and Social Economics of Bulk Electricity Storage",
+   "authors": [
+    "Richard T. Carson",
+    "Kevin Novan"
+   ],
+   "year": 2013,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Sequential Preference Questions: Factors Influencing Completion Rates and Response Times Using an Online Panel",
+   "authors": [
+    "Richard T. Carson",
+    "Jordan J. Louviere",
+    "Leonie Burgess",
+    "A.A.J. Marley",
+    "Deborah Street"
+   ],
+   "year": 2013,
+   "venue": "Journal of Choice Modelling",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Preliminary Valuation of a Cultural Heritage Site of Global Significance: A Delphi Contingent Valuation Study",
+   "authors": [
+    "Richard T. Carson",
+    "Michael B. Conaway",
+    "Ståle Navrud"
+   ],
+   "year": 2013,
+   "venue": "Ilde Rizzo and Anna Mignosa, eds., Handbook on the Economics of Cultural Heritage (Northampton, MA: Edward Elgar, 2013)",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "After the Fall: An Ex Post Characterization of Housing Price Declines Across Metropolitan Areas",
+   "authors": [
+    "Richard T. Carson",
+    "Samuel R. Dastrup"
+   ],
+   "year": 2013,
+   "venue": "Contemporary Economic Policy",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Contingent Valuation: A Practical Alternative When Prices Aren't Available",
+   "authors": [
+    "Richard T. Carson"
+   ],
+   "year": 2012,
+   "venue": "Journal of Economic Perspectives",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "An Assessment of the Non-Market Benefits of the Water Framework Directive for Households in England and Wales",
+   "authors": [
+    "Richard T. Carson",
+    "Paul Metcalfe",
+    "William Baker",
+    "Kevin Andrews",
+    "Giles Atkinson",
+    "Ian Bateman",
+    "Sara Butler",
+    "Jo East",
+    "Yves Gueron",
+    "Rob Sheldon",
+    "Kenneth Train"
+   ],
+   "year": 2012,
+   "venue": "Water Resources Research",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Ordering Effects and Choice Set Awareness in Repeat-Response Stated Preference Studies",
+   "authors": [
+    "Richard T. Carson",
+    "Brett Day",
+    "Ian J. Bateman",
+    "Diane Dupont",
+    "Jordan J. Louviere",
+    "Sanae Morimoto",
+    "Riccardo Scarpa",
+    "Paul Wang"
+   ],
+   "year": 2012,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A Common Nomenclature for Stated Preference Approaches",
+   "authors": [
+    "Richard T. Carson",
+    "Jordan J. Louviere"
+   ],
+   "year": 2011,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Aggregation Issues in Forecasting Aggregate Demand: An Application to U.S. Commercial Air Travel",
+   "authors": [
+    "Richard T. Carson",
+    "Tolga Cenesizoglu",
+    "Roger Parker"
+   ],
+   "year": 2011,
+   "venue": "International Journal of Forecasting",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Incentive and Information Properties of Preference Questions: Commentary and Extensions",
+   "authors": [
+    "Richard T. Carson",
+    "Theodore Groves"
+   ],
+   "year": 2011,
+   "venue": "Jeff Bennett, ed., International Handbook of Non- Market Environmental Valuation (Northampton, MA: Edward Elgar, 2011). Contingent Valuation: A Comprehensive Bibliography and History (Northampton, MA: Edward Elgar, 2011)",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Design of Discrete Choice Experiments: A Discussion of Issues That Matter in Future Applied Research",
+   "authors": [
+    "Richard T. Carson",
+    "David Philens",
+    "Jordan Louviere"
+   ],
+   "year": 2011,
+   "venue": "Journal of Choice Modelling",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Arsenic Mitigation in Bangladesh: A Household Labor Market Approach",
+   "authors": [
+    "Richard T. Carson",
+    "Phoebe Koundouri",
+    "Céline Nauges"
+   ],
+   "year": 2011,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Discrete Choice Experiments Are Not Conjoint Analysis",
+   "authors": [
+    "Richard T. Carson",
+    "Jordan J. Louviere",
+    "Terry N. Flynn"
+   ],
+   "year": 2010,
+   "venue": "Journal of Choice Modelling",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Some Observations on the Great Sawtooth Model-Off Competition and a Few Remarks on Ralph Wirth's Simulation Results",
+   "authors": [
+    "Richard T. Carson",
+    "Christine Ebling",
+    "Bart Frischknecht",
+    "Jordan J. Louviere",
+    "John Rose"
+   ],
+   "year": 2010,
+   "venue": "Proceedings of the 15th Annual Sawtooth Software Conference (Sequim, WA: Sawtooth Software, 2010)",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Experimental Design and the Estimation of Willingness to Pay in Choice Experiments for Health Policy Evaluation",
+   "authors": [
+    "Richard T. Carson",
+    "Jordan J. Louviere"
+   ],
+   "year": 2010,
+   "venue": "Philip Clarke, Emma Frew, Jordan Louviere and Emma McIntosh, eds., Applied Methods of Cost-Benefit Analysis in Health Care (Oxford: Oxford University Press, 2010)",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Alternative Australia's Climate Change Plan: The Public's Views",
+   "authors": [
+    "Richard T. Carson",
+    "Jordan J. Louviere",
+    "Edward Wei"
+   ],
+   "year": 2010,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Environmental Kuznets Curve: Searching for Empirical Regularity and Theoretical Structure",
+   "authors": [
+    "Richard T. Carson"
+   ],
+   "year": 2010,
+   "venue": "Review of Environmental Economics and Policy",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Discounting Behavior and Environmental Decisions",
+   "authors": [
+    "Richard T. Carson",
+    "Brigitte Roth Tran"
+   ],
+   "year": 2009,
+   "venue": "Journal of Neuroscience, Psychology and Economics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Conceptual Issues in Designing a Policy to Phase Out Metal-Based Antifouling Paints on Recreational Boats in San Diego Bay",
+   "authors": [
+    "Richard T. Carson",
+    "Maria Damon",
+    "Leigh T. Johnson",
+    "Jamie A. Miller"
+   ],
+   "year": 2009,
+   "venue": "Journal of Environmental Management",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A Cautionary Note on Designing Discrete Choice Experiments: A Comment on Lusk and Norwood's 'Effect of Experiment Design on Choice-Based Contingent Valuation Estimates'",
+   "authors": [
+    "Richard T. Carson",
+    "Jordan Louviere",
+    "Nada Wasi"
+   ],
+   "year": 2009,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A Nested Logit Model of Recreational Fishing Demand in Alaska",
+   "authors": [
+    "Richard T. Carson",
+    "W. Michael Hanemann",
+    "Thomas C. Wegge"
+   ],
+   "year": 2009,
+   "venue": "Marine Resource Economics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Exploring the Number of First Order Political Subdivisions Across Countries: Some Stylized Facts",
+   "authors": [
+    "Richard T. Carson",
+    "Maximillian Auffhammer"
+   ],
+   "year": 2009,
+   "venue": "Journal of Regional Science",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Fisheries Management Under Cyclical Population Dynamics",
+   "authors": [
+    "Richard T. Carson",
+    "Clive Granger",
+    "Jeremy Jackson",
+    "Wolfram Schlenker"
+   ],
+   "year": 2009,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Forecasting the Path of China's CO2 Emissions: Using Province Level Information",
+   "authors": [
+    "Richard T. Carson",
+    "Maximillian Auffhammer"
+   ],
+   "year": 2008,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Tobit Model with a Non-Zero Threshold",
+   "authors": [
+    "Richard T. Carson",
+    "Y. Sun"
+   ],
+   "year": 2007,
+   "venue": "Econometrics Journal",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Incentive and Information Properties of Preference Questions",
+   "authors": [
+    "Richard T. Carson",
+    "T. Groves"
+   ],
+   "year": 2007,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Preventing Damage from Oil Spills: Lessons for the Exxon Valdez",
+   "authors": [
+    "Richard T. Carson",
+    "Sheila Walsh"
+   ],
+   "year": 2006,
+   "venue": "Oceanis",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Public Preferences Toward Risk: The Case of Trihalomethanes",
+   "authors": [
+    "Richard T. Carson",
+    "Robert Cameron Mitchell"
+   ],
+   "year": 2006,
+   "venue": "A. Alberini, D. Bjornstad, and J.R. Kahn, eds., Handbook of Contingent Valuation (Northampton, MA: Edward Elgar, 2006)",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Contingent Valuation",
+   "authors": [
+    "Richard T. Carson",
+    "W. Michael Hanemann"
+   ],
+   "year": 2005,
+   "venue": "Handbook of Environmental Economics, Karl-Göran Mäler and Jeffrey R. Vincent, eds. (Amsterdam: North- Holland, 2005)",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Recent Progress on Endogeneity in Choice Modeling",
+   "authors": [
+    "Richard T. Carson",
+    "Jordan Louviere",
+    "Kenneth Train",
+    "Moshe Ben-Akiva",
+    "Chandra Bhat",
+    "David Brownstone",
+    "Trudy Ann Cameron",
+    "J.R. DeShazo",
+    "Denzil Fiebig",
+    "William Greene",
+    "David Hensher",
+    "Donald Waldman"
+   ],
+   "year": 2005,
+   "venue": "Marketing Letters",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Contingent Valuation and Lost Passive Use: Damages from the Exxon Valdez Oil Spill",
+   "authors": [
+    "Richard T. Carson",
+    "Robert Cameron Mitchell",
+    "W. Michael Hanemann",
+    "Raymond J. Kopp",
+    "Stanley Presser",
+    "Paul A. Ruud"
+   ],
+   "year": 2003,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Impact of \"No Opinion\" Response Options on Data Quality: Non-Attitude Reduction or an Invitation to Satisfice?",
+   "authors": [
+    "Richard T. Carson",
+    "Jon A. Krosnick",
+    "Allyson Holbrook",
+    "Matthew K. Berent",
+    "W. Michael Hanemann",
+    "Raymond J. Kopp",
+    "Robert Cameron Mitchell",
+    "Paul A. Ruud",
+    "V. Kerry Smith",
+    "Wendy R. Moody",
+    "Melanie C. Green",
+    "Michael Conaway"
+   ],
+   "year": 2002,
+   "venue": "Public Opinion Quarterly",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Dissecting the Random Component",
+   "authors": [
+    "Richard T. Carson",
+    "Jordan Louviere",
+    "Deborah Street",
+    "Andrew Ainslie",
+    "Trudy Cameron",
+    "J.R. DeShazo",
+    "David Hensher",
+    "Robert Kohn",
+    "Tony Marley"
+   ],
+   "year": 2002,
+   "venue": "Marketing Letters",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Contingent Valuation: Controversies and Evidence",
+   "authors": [
+    "Richard T. Carson",
+    "Nicholas E. Flores",
+    "Norman F. Meade"
+   ],
+   "year": 2001,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Violating Conversational Conventions Disrupts Cognitive Processing of Attitude Questions",
+   "authors": [
+    "Richard T. Carson",
+    "Allyson L. Holbrook",
+    "Jon A. Krosnick",
+    "Robert Cameron Mitchell"
+   ],
+   "year": 2000,
+   "venue": "Journal of Experimental Social Psychology",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Population-Based Time Preferences for Future Health Outcomes",
+   "authors": [
+    "Richard T. Carson",
+    "Theodore G. Ganiats",
+    "Robert Hamm",
+    "Scott Cantor",
+    "Walton Sumner",
+    "Stephen Spann",
+    "Michael Hagen",
+    "Christopher Miller"
+   ],
+   "year": 2000,
+   "venue": "Medical Decision Making",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Contingent Valuation: A User's Guide",
+   "authors": [
+    "Richard T. Carson"
+   ],
+   "year": 2000,
+   "venue": "Environmental Science and Technology",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Combining Sources of Preference Data for Modeling Complex Decision Processes",
+   "authors": [
+    "Richard T. Carson",
+    "Jordan J. Louviere",
+    "Robert J. Meyer",
+    "David Bunch",
+    "Benedict Delleart",
+    "W. Michael Hanemann",
+    "David Hensher",
+    "Julie Irwin"
+   ],
+   "year": 1999,
+   "venue": "Marketing Letters",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Sequencing and Valuing Public Goods",
+   "authors": [
+    "Richard T. Carson",
+    "Nicholas E. Flores",
+    "W. Michael Hanemann"
+   ],
+   "year": 1998,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Referendum Design and Contingent Valuation: The NOAA Panel's No-Vote Recommendation",
+   "authors": [
+    "Richard T. Carson",
+    "W. Michael Hanemann",
+    "Raymond J. Kopp",
+    "Jon A. Krosnick",
+    "Robert C. Mitchell",
+    "Stanley Presser",
+    "Paul A. Ruud",
+    "V. Kerry Smith"
+   ],
+   "year": 1998,
+   "venue": "Review of Economics and Statistics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Valuation of Tropical Rainforest: Philosophical and Practical Issues in the Use of Contingent Valuation",
+   "authors": [
+    "Richard T. Carson"
+   ],
+   "year": 1998,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Relationship Between Air Pollution Emissions and Income: U.S. Data",
+   "authors": [
+    "Richard T. Carson",
+    "Yongil Jeon",
+    "Donald R. McCubbin"
+   ],
+   "year": 1997,
+   "venue": "Environment and Development Economics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Contingent Valuation: Theoretical Advances Since the NOAA Panel",
+   "authors": [
+    "Richard T. Carson"
+   ],
+   "year": 1997,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Modeling Response Incentive Effects in Dichotomous Choice Contingent Valuation Data",
+   "authors": [
+    "Richard T. Carson",
+    "Anna Alberini",
+    "Barbara J. Kanninen"
+   ],
+   "year": 1997,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Relationship Between Income Elasticities of Demand and Willingness to Pay",
+   "authors": [
+    "Richard T. Carson",
+    "Nicholas E. Flores"
+   ],
+   "year": 1997,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Temporal Reliability of Estimates from Contingent Valuation",
+   "authors": [
+    "Richard T. Carson",
+    "W. Michael Hanemann",
+    "Raymond J. Kopp",
+    "Jon A. Krosnick",
+    "Robert C. Mitchell",
+    "Stanley Presser",
+    "Paul A. Ruud",
+    "V. Kerry Smith"
+   ],
+   "year": 1997,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Sequencing and Nesting in Contingent Valuation Surveys",
+   "authors": [
+    "Richard T. Carson",
+    "Robert Cameron Mitchell"
+   ],
+   "year": 1995,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Valuing the Preservation of Australia's Kakadu Conservation Zone",
+   "authors": [
+    "Richard T. Carson",
+    "Leanne Wilks",
+    "David Imber"
+   ],
+   "year": 1994,
+   "venue": "Oxford Economic Papers",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Experimental Analysis of Choice",
+   "authors": [
+    "Richard T. Carson",
+    "Jordan Louviere",
+    "Donald Anderson",
+    "Phipps Arabie",
+    "David Bunch",
+    "David Hensher",
+    "Richard M. Johnson",
+    "Warren F. Kuhfeld",
+    "Dan Steinberg",
+    "Joffre Swait",
+    "Harry Timmermans",
+    "James B. Wiley"
+   ],
+   "year": 1994,
+   "venue": "Marketing Letters",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Issue of Scope in Contingent Valuation Surveys",
+   "authors": [
+    "Richard T. Carson",
+    "Robert Cameron Mitchell"
+   ],
+   "year": 1993,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Baseline Risk and Preference for Reductions in Risk-to-Life",
+   "authors": [
+    "Richard T. Carson",
+    "John K. Horowitz"
+   ],
+   "year": 1993,
+   "venue": "Risk Analysis",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Passive Use Values and Contingent Valuation: Introducing the Issues",
+   "authors": [
+    "Richard T. Carson",
+    "Norman F. Meade",
+    "V. Kerry Smith"
+   ],
+   "year": 1993,
+   "venue": "Choices",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Value of Clean Water: The Public's Willingness to Pay for Boatable, Fishable, and Swimmable Quality Water",
+   "authors": [
+    "Richard T. Carson",
+    "Robert Cameron Mitchell"
+   ],
+   "year": 1993,
+   "venue": "Water Resources Research",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "On the Theory of Growth Controls",
+   "authors": [
+    "Richard T. Carson",
+    "Robert F. Engle",
+    "Peter Navarro"
+   ],
+   "year": 1992,
+   "venue": "Journal of Urban Economics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A Classification Tree for Predicting Consumer Preferences for Risk Reduction",
+   "authors": [
+    "Richard T. Carson",
+    "John K. Horowitz"
+   ],
+   "year": 1991,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Models for Truncated Counts",
+   "authors": [
+    "Richard T. Carson",
+    "Jeffrey T. Grogger"
+   ],
+   "year": 1991,
+   "venue": "Journal of Applied Econometrics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Growth Controls: Policy Analysis for the Second Generation",
+   "authors": [
+    "Richard T. Carson",
+    "Peter Navarro"
+   ],
+   "year": 1991,
+   "venue": "Policy Sciences",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Measuring the Benefits of Fresh Water Quality Changes: Techniques and Empirical Findings",
+   "authors": [
+    "Richard T. Carson",
+    "Kerry M. Martin"
+   ],
+   "year": 1991,
+   "venue": "Ariel Dinar and David Zilberman, The Economics and Management of Water and Drainage in Agriculture (Boston: Kluwer, 1991)",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "An Examination of Systematic Differences in the Appreciation of Individual Housing Units",
+   "authors": [
+    "Richard T. Carson",
+    "K.A. Kiel"
+   ],
+   "year": 1990,
+   "venue": "Journal of Real Estate Research",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Discounting Statistical Lives",
+   "authors": [
+    "Richard T. Carson",
+    "John Horowitz"
+   ],
+   "year": 1990,
+   "venue": "Journal of Risk and Uncertainty",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A Discrete Choice Contingent Valuation Estimate of the Value of Kenai King Salmon",
+   "authors": [
+    "Richard T. Carson",
+    "W. Michael Hanemann",
+    "Dan Steinberg"
+   ],
+   "year": 1990,
+   "venue": "Journal of Behavioral Economics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Robust Regression in the Presence of Heteroscedasticity",
+   "authors": [
+    "Richard T. Carson",
+    "Shankar Subramanian"
+   ],
+   "year": 1988,
+   "venue": "Advances in Econometrics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Fundamental Issues in Natural Resource Damage Assessment",
+   "authors": [
+    "Richard T. Carson",
+    "Peter Navarro"
+   ],
+   "year": 1988,
+   "venue": "Natural Resources Journal",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A Seller's (& Buyer's) Guide to the Job Market for Beginning Academic Economists",
+   "authors": [
+    "Richard T. Carson",
+    "Peter Navarro"
+   ],
+   "year": 1988,
+   "venue": "Journal of Economic Perspectives",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Functional Ability and Equipment Use Among Patients with Neuromuscular Disease",
+   "authors": [
+    "Richard T. Carson",
+    "Janet Lord",
+    "Margaret Portwood",
+    "William Fowler",
+    "James Lieberman"
+   ],
+   "year": 1987,
+   "venue": "Archives of Physical Medicine and Rehabilitation",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Upper vs. Lower Extremity Functional Loss in Neuromuscular Disease",
+   "authors": [
+    "Richard T. Carson",
+    "Janet Lord",
+    "Margaret Portwood",
+    "William Fowler",
+    "James Lieberman"
+   ],
+   "year": 1987,
+   "venue": "Archives of Physical Medicine and Rehabilitation",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Property Rights, Protest, and the Siting of Hazardous Waste Facilities",
+   "authors": [
+    "Richard T. Carson",
+    "Robert Cameron Mitchell"
+   ],
+   "year": 1986,
+   "venue": "American Economic Review",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Implications of Environmental Policy for U.S. Agriculture: The Case of Ambient Ozone",
+   "authors": [
+    "Richard T. Carson",
+    "Ray J. Kopp",
+    "William J. Vaughan",
+    "Michael Hazilla"
+   ],
+   "year": 1985,
+   "venue": "Journal of Environmental Management",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A Method of Estimating the Personal Ideology of Political Representatives",
+   "authors": [
+    "Richard T. Carson",
+    "Joe A. Oppenheimer"
+   ],
+   "year": 1984,
+   "venue": "American Political Science Review",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  }
+ ]
+}

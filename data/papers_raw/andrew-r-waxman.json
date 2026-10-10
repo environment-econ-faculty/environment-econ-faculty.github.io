@@ -1,0 +1,241 @@
+{
+ "slug": "andrew-r-waxman",
+ "name": "Andrew R. Waxman",
+ "sources": [
+  "https://www.andrewrwaxman.com/research/"
+ ],
+ "collected": "2026-10-10",
+ "notes": "From homepage research page. Skipped working-paper titles listed without drafts or links (Shale Gas Drilling and Municipal Finance; Instrument Choice for Carbon Capture Incentives; A Long Way from Home; Low Emission Zones in Urban Viet Nam). 'The Long Road to Work' has an abstract but no link; included as working paper.",
+ "papers": [
+  {
+   "title": "Surface Parking Lots in Downtown Areas and the Role of Regulatory Delay in Optimal Dynamic Land Use",
+   "authors": [
+    "Andrew R. Waxman",
+    "Sofia Franco"
+   ],
+   "year": 2026,
+   "venue": "Regional Science & Urban Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.regsciurbeco.2026.104203",
+   "abstract": "In this paper, we explore the implication for urban form, urban structure and optimal land use policy of vacant land used for downtown surface parking lots in urban areas. We develop a dynamic, spatial general equilibrium urban model to show cases where vacant land can be optimal and suboptimal depending upon its temporary use, economic and regulatory conditions as well as externalities. We show in numerical simulations how the structure of the urban economy responds to different policies and consider their implications for different types of cities. These results have important implications for cities concerned about the impacts of vacant land and in particular of surface parking lots in downtown areas."
+  },
+  {
+   "title": "How to design better incentives for carbon capture and storage in the United States",
+   "authors": [
+    "Andrew R. Waxman",
+    "Sheila Olmstead",
+    "Benjamin D. Leibowicz",
+    "Charles Mason",
+    "Emily Grubert",
+    "HR Huber-Rodriguez",
+    "Joseph Stemmler"
+   ],
+   "year": 2025,
+   "venue": "Proceedings of the National Academy of Sciences (Opinion)",
+   "status": "已发表",
+   "url": "https://doi.org/10.1073/pnas.2404677122",
+   "abstract": null
+  },
+  {
+   "title": "Making Carbon Management Work – navigating technical and policy uncertainty towards a net-zero future",
+   "authors": [
+    "Andrew R. Waxman",
+    "Hugh Daigle",
+    "Sergio Castellanos",
+    "Benjamin D. Leibowicz",
+    "Arvind Ravikumar"
+   ],
+   "year": 2025,
+   "venue": "Environmental Research Communications",
+   "status": "已发表",
+   "url": "https://doi.org/10.1088/2515-7620/ae2c3f",
+   "abstract": null
+  },
+  {
+   "title": "Efficiency and Equity Impacts of Urban Transportation Policies with Equilibrium Sorting",
+   "authors": [
+    "Andrew R. Waxman",
+    "Shanjun Li",
+    "Panle Jia Barwick",
+    "Jing Wu",
+    "Tianli Xia"
+   ],
+   "year": 2024,
+   "venue": "American Economic Review",
+   "status": "已发表",
+   "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20220212",
+   "abstract": "We estimate an equilibrium sorting model of housing location and commuting mode choice with endogenous traffic congestion to evaluate urban transportation policies. Leveraging fine-scale data from travel diaries and housing transactions identifying residents’ home and work locations, we recover rich preference heterogeneity over both travel mode and residential location decisions. While different policies produce the same congestion reduction, their impacts on social welfare differ drastically. In addition, sorting undermines the congestion reduction under driving restrictions and subway expansion but strengthens it under congestion pricing. The combination of congestion pricing and subway expansion delivers the greatest congestion relief and efficiency gains."
+  },
+  {
+   "title": "The Value of Urgency: Evidence from Real-Time Congestion Pricing",
+   "authors": [
+    "Andrew R. Waxman",
+    "Antonio Bento",
+    "Kevin Roth"
+   ],
+   "year": 2024,
+   "venue": "Journal of Political Economy Microeconomics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1086/731832",
+   "abstract": "Taking advantage of repeated appearances of drivers in Los Angeles’s ExpressLanes under varied traffic conditions, we uncover the distribution of individuals’ preferences for time savings in a novel application of a hedonic pricing model. In this setting, we introduce the concept of the value of urgency, defined by a component of willingness to pay to enter tolled lanes to avoid a congested alternative route. The value of urgency does not scale in the amount of time saved, reflecting discrete penalties for late arrival. We show that this value accounts for 87% of total willingness to pay to use the ExpressLanes, while the contributions to WTP from other widely used valuation measures, such as the values of time and reliability, are negligible. We suggest that quality-of-service pricing that varies in real time and removes uncertainty over travel times creates new markets for individuals to avoid lateness and reveal their preferences for urgency."
+  },
+  {
+   "title": "What are the likely air pollution impacts of carbon capture and storage?",
+   "authors": [
+    "Andrew R. Waxman",
+    "HR Huber Rodriguez",
+    "Sheila Olmstead"
+   ],
+   "year": 2024,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "https://doi.org/10.1086/732195",
+   "abstract": "Because fossil fuels currently account for 60% of U.S. power generation and an even larger share of industrial energy use, a key component of many net-zero carbon plans is the expansion of carbon capture, utilization and storage (CCUS) through tax credits and other incentives. We quantify the potential impacts of CCUS on local air pollution, focusing on the U.S. Gulf region, given a large agglomeration of carbon-intensive industrial facilities and significant CCUS deployment underway. We characterize pre-CCUS local air pollution emissions from fossil-fuel electricity generation and large industrial carbon emitters (e.g., petrochemicals, refining) and compare these with projected post-CCUS local air pollution emissions, leveraging emission factor estimates from the engineering literature. We then analyze net emissions impacts on secondary particulate matter formation and damages via the AP3 integrated air pollution assessment model (Clay, et al. 2019). An important, though under-emphasized aspect of the emissions impact of CCUS is increased ammonia emissions from CCUS technology, which we show can lead to net air pollution damages from CCUS from natural gas power plants and most industrial facilities. These damages partially counterbalance the substantial climate benefits of CCUS adoption. Because facility-level impacts are highly variable, our results highlight potential environmental justice challenges from CCUS deployment. We find that deleterious local air pollution impacts of CCUS are correlated with prior air pollution exposure at both the county and census tract levels, suggesting that CCUS may pose significant tradeoffs between global climate benefits and costs to local communities."
+  },
+  {
+   "title": "Views from the Statehouse: Survey Results from State Legislative Committee Members",
+   "authors": [
+    "Andrew R. Waxman",
+    "Gian-Claudia Sciara"
+   ],
+   "year": 2024,
+   "venue": "Transportation Research Interdisciplinary Perspectives",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.trip.2024.101245",
+   "abstract": null
+  },
+  {
+   "title": "State Legislator Views on Funding 21st Century Transportation: Important Problems, Missed Connections",
+   "authors": [
+    "Andrew R. Waxman",
+    "Gian-Claudia Sciara",
+    "Ross Buchanan"
+   ],
+   "year": 2024,
+   "venue": "Transport Policy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.tranpol.2024.02.021",
+   "abstract": null
+  },
+  {
+   "title": "Leveraging scale economies and policy incentives: Carbon capture, utilization & storage in Gulf clusters",
+   "authors": [
+    "Andrew R. Waxman",
+    "Sean Corcoran",
+    "Andrew Robison",
+    "Benjamin D. Leibowicz",
+    "Sheila Olmstead"
+   ],
+   "year": 2021,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.enpol.2021.112452",
+   "abstract": "Carbon capture, utilization and storage (CCUS) represents a set of technologies essential to meeting ambitious mid-to late-century decarbonization goals. Yet deployment of CCUS has been slow, with fewer than 20 large-scale facilities operating worldwide in 2019. We estimate the total and marginal cost of constructing and operating new CCUS facilities and associated infrastructure to reduce carbon dioxide (CO2) emissions from current and planned industrial facilities on the Texas and Louisiana Gulf Coast. We compare these cost estimates to scheduled CCUS tax incentives through 2026 under section 45Q of the U.S. Internal Revenue Code to quantify cost-effective emissions abatement. Our analysis measures the cost-reducing potential of economies of scale in regional CO2 pipeline networks. We also compare CCUS costs to one measure of the benefits of carbon capture, the social cost of carbon. Results suggest that U.S. federal tax incentives currently in place through 2026 could justify between 3.3 million and 77.6 million tons of annual CCUS in the Gulf region, depending on the choice of storage technology and the degree of pipeline network coordination. Finally, we highlight several potential policy barriers that may explain low adoption of CCUS in the Gulf Region and elsewhere."
+  },
+  {
+   "title": "Tightening Belts to Buy a Home: Consumption Responses to Rising Housing Prices in Urban China",
+   "authors": [
+    "Andrew R. Waxman",
+    "Shanjun Li",
+    "Panle Jia Barwick",
+    "Yuanning Liang",
+    "Meng Zhao"
+   ],
+   "year": 2020,
+   "venue": "Journal of Urban Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jue.2019.103190",
+   "abstract": "This paper measures the impact of housing price changes on household consumption at the city level using the universe of credit and debit card transactions in China from 2011 to 2013. In sharp contrast to the literature on the U.S. housing market, our analysis shows a large and negative housing price elasticity of consumption: a 10% increase in housing prices would lead to a 9.1% reduction in non-housing spending. We argue that the negative elasticity is driven by the combination of a strong investment incentive in housing and heavy borrowing constraints faced by households. This is corroborated by the finding that households increase their savings as housing prices increase. Relative to the existing literature, our analysis helps to better explain how low- and middle-income households adapt to the limited investment venues and surging housing prices in the"
+  },
+  {
+   "title": "Emissions in the Stream: Estimating the Greenhouse Gas Impacts of an Oil and Gas Boom",
+   "authors": [
+    "Andrew R. Waxman",
+    "Achmad Khomaini",
+    "Benjamin D. Leibowicz",
+    "Sheila Olmstead"
+   ],
+   "year": 2020,
+   "venue": "Environmental Research Letters",
+   "status": "已发表",
+   "url": "https://doi.org/10.1088/1748-9326/ab5e6f",
+   "abstract": "We compile a detailed inventory of projected upstream oil and gas production expansions as well as recently and soon-to-be built midstream and downstream facilities within the region. Using data from emissions permits, emissions factors, and facility capacities, we estimate expected GHG emissions at the facility level for facilities that have recently been constructed or are soon to be constructed. Our central estimate suggests that the total annual emissions impact of the regional oil and gas infrastructure buildout may reach 541 million tons of CO2 equivalent (CO2e) by 2030, which is more than 8% of total US GHG emissions in 2017 and roughly equivalent to the emissions of 131 coal-fired power plants. Researchers have largely focused on upstream emissions such as fugitive methane (CH4) associated with new US production; our findings reveal the potentially greater prominence of midstream and downstream sources in the studied region."
+  },
+  {
+   "title": "Pain at the Pump & the Ballot Box: Gas Taxes & Electoral Penalties",
+   "authors": [
+    "Andrew R. Waxman",
+    "Matias Navarro-Sudy",
+    "Gian-Claudia Sciara"
+   ],
+   "year": null,
+   "venue": "Under review",
+   "status": "工作论文",
+   "url": "http://dx.doi.org/10.2139/ssrn.4999378",
+   "abstract": "Perhaps the greatest challenge to addressing climate change comprehensively through government policy in the US has been limited political feasibility. We investigate whether politicians are punished by voters for increasing motor fuel taxes by compiling a comprehensive dataset on state legislative election outcomes and gasoline taxes. Leveraging a difference-in-discontinuities research design, we estimate the effect of legislated gasoline tax changes on incumbent state legislators’ subsequent electoral outcomes. For very close elections, we show how the incumbency advantage attenuates when gasoline tax increases have been legislated in the intervening legislative session. Specifically, we find a small, but economically and statistically meaningful decrease in the incumbency advantage of 1.3 to 1.9 percentage points for Republican and Democratic incumbents, respectively. This penalty represents 14-21% of the overall electoral advantage of incumbents in our sample, which highlights the relative importance of environmental and energy taxes in voter priorities."
+  },
+  {
+   "title": "Maintaining Vehicle Emission Reduction Rates Requires Policies to Remove Cars from the Road",
+   "authors": [
+    "Andrew R. Waxman",
+    "Antonio Bento",
+    "Ruozi Song",
+    "Rajat Kochhar"
+   ],
+   "year": null,
+   "venue": "Under review",
+   "status": "工作论文",
+   "url": "http://dx.doi.org/10.2139/ssrn.4954574",
+   "abstract": "This paper seeks to understand the localized effect of automobile congestion on air pollution. We leverage air pollution sensors on Google Street View cars combined with fine grain speed and vehicle density observations on Los Angeles Highways, to understand this effect at level of granularity never previously considered using causally identified methods. We show that higher pollution occurs at very low and very high speeds due to lowered engine efficiency. Given the success to date of reducing pollution via tailpipe emission standards, we show that the magnitude of our effects points to the need to focus more attention by policymakers on vehicle speeds for further mitigation of health impacts from vehicle emissions. Our results have important implications for understanding human health effects of anti-congestion policies, speed limits and point to a need to better regulate sources of fine particulate matter pollution from tires and brakes."
+  },
+  {
+   "title": "The Long Road to Work: Divergent Effects of Transportation Policies by Worker Skill in a Locational Sorting Model",
+   "authors": [
+    "Andrew R. Waxman"
+   ],
+   "year": null,
+   "venue": null,
+   "status": "工作论文",
+   "url": null,
+   "abstract": "This paper examines the effect of transportation policies directed at reducing travel times for commuting on inequality in urban labor markets. I consider the choice of city of residence by workers with and without a college degree to model the effect of changes in commuting patterns on economic inequality. Behavioral and supply parameters are estimated in a sorting model that controls for the effect on location decisions vis-à-vis wages, rents and amenities. Compelling findings emerging from these estimates include the fact that while cities with the most productive skilled workers tend to have shorter commutes, the opposite relationship holds for unskilled workers commuting from suburbs, yet these workers seem to benefit from living in cities that have more efficient transportation systems. This would suggest that availability of better transportation infrastructure may not be the constraining factor for productive low skilled workers. I also find that these relationships seem to hold for public transit usage, where more productive cities tend to have higher rates of commuting via public transit by skilled workers, and less productive workers higher rates of usage by unskilled workers. Based on these estimates, policy simulations consider the effect of public transit expansion to lower travel times to work financed by a head tax, congestion pricing or fare increase. Overall the paper documents limited benefits to workers without a college education from the set of proposed policies relative to those with a degree. These results have important distributional consequences for national and state-level policies intended to mitigate congestion externalities and spatial mismatch of workers in urban labor markets, suggesting that alternative policies that reallocate workers in space might better serve equity concerns."
+  },
+  {
+   "title": "Can Minimum Wages Close the Gender Wage Gap? Evidence From Indonesia",
+   "authors": [
+    "Andrew R. Waxman",
+    "Mary Hallward-Driemeier",
+    "Bob Rijkers"
+   ],
+   "year": 2017,
+   "venue": "Review of Income and Wealth",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/roiw.12219",
+   "abstract": null
+  },
+  {
+   "title": "Do Employers' Responses to Crises Impact Men and Women Differently? Firm-level Evidence from Indonesia",
+   "authors": [
+    "Andrew R. Waxman",
+    "Mary Hallward-Driemeier",
+    "Bob Rijkers"
+   ],
+   "year": 2017,
+   "venue": "Review of Development Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/rode.12230",
+   "abstract": null
+  },
+  {
+   "title": "Profit Sharing Between Governments and Multinationals in Natural Resource Extraction: Evidence from a Firm-Level Panel",
+   "authors": [
+    "Andrew R. Waxman",
+    "Margaret McMillan"
+   ],
+   "year": 2007,
+   "venue": "Brookings Trade Forum",
+   "status": "已发表",
+   "url": "https://www.jstor.org/stable/25063220",
+   "abstract": null
+  }
+ ]
+}

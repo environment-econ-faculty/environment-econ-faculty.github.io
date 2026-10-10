@@ -1,0 +1,405 @@
+{
+ "slug": "costas-arkolakis",
+ "name": "Costas Arkolakis",
+ "sources": [
+  "https://arkolakis.com/research/"
+ ],
+ "collected": "2026-10-10",
+ "notes": "Homepage research page (updated Sept 2026). No abstracts. Coauthor surnames expanded to full names from linked homepages/known authorship; 'Ioannou et al.' kept truncated.",
+ "papers": [
+  {
+   "title": "Optimal City Structure",
+   "authors": [
+    "Costas Arkolakis",
+    "Treb Allen",
+    "Xiangliang Li"
+   ],
+   "year": null,
+   "venue": "Preliminary",
+   "status": "工作论文",
+   "url": "https://arkolakis.com/wp-content/uploads/research/OptimalCity/AAL-City-Structure.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Gambling for Goals",
+   "authors": [
+    "Costas Arkolakis",
+    "Spencer Kwon",
+    "Dominic Russel",
+    "Claire Shi",
+    "Yang"
+   ],
+   "year": 2026,
+   "venue": null,
+   "status": "工作论文",
+   "url": "https://papers.ssrn.com/abstract=5761702",
+   "abstract": null
+  },
+  {
+   "title": "Immigration, Innovation, and the Geography of Growth",
+   "authors": [
+    "Costas Arkolakis",
+    "Sun Kyoung Lee",
+    "Michael Peters"
+   ],
+   "year": 2026,
+   "venue": null,
+   "status": "工作论文",
+   "url": "https://arkolakis.com/wp-content/uploads/immigration_growth.pdf",
+   "abstract": null
+  },
+  {
+   "title": "A Geospatial Approach to Measuring Economic Activity",
+   "authors": [
+    "Costas Arkolakis",
+    "Jianwei Ai",
+    "Anton Yang"
+   ],
+   "year": 2026,
+   "venue": "Nature Communications (conditionally accepted with minor revisions)",
+   "status": "即将发表",
+   "url": "https://www.dropbox.com/scl/fi/2yhw8cg4sgy17r7z3totd/geospatial_main_2026.pdf?rlkey=way0v3zlfs9y1jvh5web5tjm1&st=4v0u8bp3&e=1&dl=0",
+   "abstract": null
+  },
+  {
+   "title": "Clean Growth",
+   "authors": [
+    "Costas Arkolakis",
+    "Conor Walsh"
+   ],
+   "year": null,
+   "venue": "Submitted or under revision",
+   "status": "工作论文",
+   "url": "https://static1.squarespace.com/static/5b4b997eda02bc592b5131cd/t/64e38ceeb5dae75b3b9cb7e3/1692634362860/CleanGrowth.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Production Network Formation, Trade, and Welfare",
+   "authors": [
+    "Costas Arkolakis",
+    "Federico Huneeus",
+    "Yuhei Miyauchi"
+   ],
+   "year": 2025,
+   "venue": "Submitted or under revision",
+   "status": "工作论文",
+   "url": "https://www.fedehuneeus.com/s/AHM.pdf",
+   "abstract": null
+  },
+  {
+   "title": "General Equilibrium Effects in Space: Theory and Measurement",
+   "authors": [
+    "Costas Arkolakis",
+    "Rodrigo Adão",
+    "Federico Esposito"
+   ],
+   "year": 2025,
+   "venue": "American Economic Journal: Macroeconomics (accepted)",
+   "status": "即将发表",
+   "url": "https://arkolakis.com/wp-content/uploads/AAE.pdf",
+   "abstract": null
+  },
+  {
+   "title": "A Multivariate Distribution with Pareto Tails and Pareto Maxima",
+   "authors": [
+    "Costas Arkolakis",
+    "Andrés Rodríguez-Clare",
+    "Jiun-Hua Su"
+   ],
+   "year": null,
+   "venue": "Economic Theory (accepted)",
+   "status": "即将发表",
+   "url": "https://arkolakis.com/wp-content/uploads/multivariate-distribution-pareto.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Combinatorial Discrete Choice: Theory and Application to Multinational Production",
+   "authors": [
+    "Costas Arkolakis",
+    "Fabian Eckert",
+    "Rowan Shi"
+   ],
+   "year": null,
+   "venue": "American Economic Review (forthcoming)",
+   "status": "即将发表",
+   "url": "https://arkolakis.com/wp-content/uploads/cdc.pdf",
+   "abstract": null
+  },
+  {
+   "title": "From Heterogeneous Firms to Heterogeneous Trade Elasticities: The Aggregate Implications of Firm Export Decisions",
+   "authors": [
+    "Costas Arkolakis",
+    "Rodrigo Adão",
+    "Sharat Ganapati"
+   ],
+   "year": null,
+   "venue": "Journal of Political Economy (accepted)",
+   "status": "即将发表",
+   "url": "https://arkolakis.com/wp-content/uploads/AAG_final.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Quantitative Regional Economics",
+   "authors": [
+    "Costas Arkolakis",
+    "Treb Allen"
+   ],
+   "year": 2025,
+   "venue": "Handbook of Regional and Urban Economics, 1-72",
+   "status": "已发表",
+   "url": "https://arkolakis.com/wp-content/uploads/AA-Quantitative-Regional-Economics.pdf",
+   "abstract": null
+  },
+  {
+   "title": "The Economic Impacts of Clean Energy",
+   "authors": [
+    "Costas Arkolakis",
+    "Conor Walsh"
+   ],
+   "year": 2024,
+   "venue": "Brookings Papers on Economic Activity",
+   "status": "已发表",
+   "url": "https://static1.squarespace.com/static/5b4b997eda02bc592b5131cd/t/672fbfc705373d7ca371cded/1731182536882/BrookingsPaper.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Optimizing Electric Vehicle Infrastructure",
+   "authors": [
+    "Costas Arkolakis",
+    "Kenneth Gillingham",
+    "Seungyong Yoo"
+   ],
+   "year": 2025,
+   "venue": "AEA Papers and Proceedings 115: 563-567",
+   "status": "已发表",
+   "url": "https://arkolakis.com/wp-content/uploads/optimizing-electric-vehicle-infrastructure.pdf",
+   "abstract": null
+  },
+  {
+   "title": "The Impact of Workplace Heat and Cold on Work Time Loss",
+   "authors": [
+    "Ioannou",
+    "Costas Arkolakis"
+   ],
+   "year": 2025,
+   "venue": "Journal of Occupational and Environmental Medicine 67(6): 393-399",
+   "status": "已发表",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12105968/",
+   "abstract": null
+  },
+  {
+   "title": "On the Equilibrium Properties of Spatial Models",
+   "authors": [
+    "Costas Arkolakis",
+    "Treb Allen",
+    "Xiangliang Li"
+   ],
+   "year": 2024,
+   "venue": "American Economic Review: Insights 6(4)",
+   "status": "已发表",
+   "url": "https://arkolakis.com/wp-content/uploads/AAL-Equilibrium-Networks.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Economic Activity Across Space: A Supply and Demand Approach",
+   "authors": [
+    "Costas Arkolakis",
+    "Treb Allen"
+   ],
+   "year": 2023,
+   "venue": "Journal of Economic Perspectives 37(2): 3-28",
+   "status": "已发表",
+   "url": "https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.37.2.3",
+   "abstract": null
+  },
+  {
+   "title": "The Welfare Effects of Transportation Infrastructure Improvements",
+   "authors": [
+    "Costas Arkolakis",
+    "Treb Allen"
+   ],
+   "year": 2022,
+   "venue": "Review of Economic Studies 89(6): 2911-2957",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Firm Dynamics and Trade",
+   "authors": [
+    "Costas Arkolakis",
+    "George Alessandria",
+    "Kim J. Ruhl"
+   ],
+   "year": 2021,
+   "venue": "Annual Review of Economics 13: 253-280",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Extensive Margin of Exporting Products: A Firm-Level Analysis",
+   "authors": [
+    "Costas Arkolakis",
+    "Marc-Andreas Muendler",
+    "Sharat Ganapati"
+   ],
+   "year": 2021,
+   "venue": "American Economic Journal: Macroeconomics 13(4): 182-245",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Universal Gravity",
+   "authors": [
+    "Costas Arkolakis",
+    "Treb Allen",
+    "Yuta Takahashi"
+   ],
+   "year": 2020,
+   "venue": "Journal of Political Economy 128(2): 393-433",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Elusive Pro-Competitive Effects of Trade",
+   "authors": [
+    "Costas Arkolakis",
+    "Arnaud Costinot",
+    "Dave Donaldson",
+    "Andrés Rodríguez-Clare"
+   ],
+   "year": 2019,
+   "venue": "Review of Economic Studies 86(1): 46-80",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Innovation and Production in the Global Economy",
+   "authors": [
+    "Costas Arkolakis",
+    "Natalia Ramondo",
+    "Andrés Rodríguez-Clare",
+    "Stephen Yeaple"
+   ],
+   "year": 2018,
+   "venue": "American Economic Review 108(8): 2128-2173",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Firm Learning and Growth",
+   "authors": [
+    "Costas Arkolakis",
+    "Theodore Papageorgiou",
+    "Olga A. Timoshenko"
+   ],
+   "year": 2018,
+   "venue": "Review of Economic Dynamics 27: 146-168",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Modern Spatial Economics, A Primer",
+   "authors": [
+    "Costas Arkolakis",
+    "Treb Allen"
+   ],
+   "year": null,
+   "venue": "World Trade Evolution (eds. Lili Yan Ing and Miaojie Yu)",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A Unified Theory of Firm Selection and Growth",
+   "authors": [
+    "Costas Arkolakis"
+   ],
+   "year": 2016,
+   "venue": "Quarterly Journal of Economics 131(1): 89-155",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Trade and the Topography of the Spatial Economy",
+   "authors": [
+    "Costas Arkolakis",
+    "Treb Allen"
+   ],
+   "year": 2014,
+   "venue": "Quarterly Journal of Economics 129(3)",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Exporters and Their Products: A Collection of Empirical Regularities",
+   "authors": [
+    "Costas Arkolakis",
+    "Marc-Andreas Muendler"
+   ],
+   "year": 2013,
+   "venue": "CESifo Economic Studies 59(2): 223-248",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "New Trade Models, Same Old Gains?",
+   "authors": [
+    "Costas Arkolakis",
+    "Arnaud Costinot",
+    "Andrés Rodríguez-Clare"
+   ],
+   "year": 2012,
+   "venue": "American Economic Review 102(1): 94-130",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Market Penetration Costs and the New Consumers Margin in International Trade",
+   "authors": [
+    "Costas Arkolakis"
+   ],
+   "year": 2010,
+   "venue": "Journal of Political Economy 118(6): 1151-1199",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Vertical Specialization and International Business Cycles Synchronization",
+   "authors": [
+    "Costas Arkolakis",
+    "Ananth Ramanarayanan"
+   ],
+   "year": 2009,
+   "venue": "Scandinavian Journal of Economics 111(4): 665-680",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Endogenous Variety and the Gains from Trade",
+   "authors": [
+    "Costas Arkolakis",
+    "Peter J. Klenow",
+    "Svetlana Demidova",
+    "Andrés Rodríguez-Clare"
+   ],
+   "year": 2008,
+   "venue": "American Economic Review Papers and Proceedings 98(4): 444-450",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  }
+ ]
+}

@@ -1,0 +1,93 @@
+{
+ "slug": "will-rafey",
+ "name": "Will Rafey",
+ "sources": [
+  "https://rafey.io/research.html"
+ ],
+ "collected": "2026-10-10",
+ "notes": "Research page lists publications and working papers; ongoing projects without drafts skipped. Science article lists 'Simon Greenhill, et al.' (full author list not given). No abstracts on page.",
+ "papers": [
+  {
+   "title": "Conservation priorities and environmental offsets: Markets for Florida wetlands",
+   "authors": [
+    "Will Rafey",
+    "Daniel Aronoff"
+   ],
+   "year": 2026,
+   "venue": "American Economic Review",
+   "status": "已发表",
+   "url": "https://rafey.io/files/aer.20231016.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Using markets to adapt to climate change",
+   "authors": [
+    "Will Rafey",
+    "Simon Greenhill"
+   ],
+   "year": 2026,
+   "venue": "Science",
+   "status": "已发表",
+   "url": "https://rafey.io/files/science_2026_10_1126.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Droughts, deluges, and (river) diversions: Valuing market-based water reallocation",
+   "authors": [
+    "Will Rafey"
+   ],
+   "year": 2023,
+   "venue": "American Economic Review",
+   "status": "已发表",
+   "url": "https://rafey.io/files/aer.20201434.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Mirage on the horizon: Geoengineering and carbon taxation without commitment",
+   "authors": [
+    "Will Rafey",
+    "Daron Acemoglu"
+   ],
+   "year": 2023,
+   "venue": "Journal of Public Economics",
+   "status": "已发表",
+   "url": "https://rafey.io/files/acemoglu_rafey_2023.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Competing discourses of energy development: The implications of the Medupi coal-fired power plant in South Africa",
+   "authors": [
+    "Will Rafey",
+    "Benjamin K. Sovacool"
+   ],
+   "year": 2011,
+   "venue": "Global Environmental Change",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/abs/pii/S0959378011000823",
+   "abstract": null
+  },
+  {
+   "title": "Measuring water misallocation in California",
+   "authors": [
+    "Will Rafey"
+   ],
+   "year": 2026,
+   "venue": "NBER Working Paper 35176",
+   "status": "工作论文",
+   "url": "https://rafey.io/files/blue_farm.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Omitted variable bias in wetland-flood regressions",
+   "authors": [
+    "Will Rafey",
+    "Matthew Cherfane"
+   ],
+   "year": 2026,
+   "venue": null,
+   "status": "工作论文",
+   "url": "https://rafey.io/files/floods.pdf",
+   "abstract": null
+  }
+ ]
+}
