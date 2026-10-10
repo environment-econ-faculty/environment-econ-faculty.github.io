@@ -1,0 +1,919 @@
+{
+ "slug": "aaron-smith",
+ "name": "Aaron Smith",
+ "sources": [
+  "https://www.dropbox.com/scl/fi/9hq8xvl52e5gxn6qqzay9/CV_Aaron_Smith.pdf",
+  "https://www.aaronsmithagecon.com/research"
+ ],
+ "collected": "2026-10-10",
+ "notes": "Main list from CV (64 journal/report items + book + chapters). Comment chapter and outreach/policy articles skipped except the EI working paper. Abstracts from homepage research page for a few items. Vegetable-oil deforestation WP from homepage (first coauthor listed only by file name \"Chen\"; first name not shown).",
+ "papers": [
+  {
+   "title": "Perceptions of voluntary horizontal confidential food safety data sharing: An exploratory interview study with food industry leadership",
+   "authors": [
+    "L. Kalunga",
+    "K. Koebel",
+    "C. Alexander",
+    "M. Wiedmann",
+    "Aaron Smith",
+    "A. Adalja",
+    "R. Ivanek"
+   ],
+   "year": 2026,
+   "venue": "npj Science of Food",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Policy Options to Achieve US Sustainable Aviation Fuel Targets",
+   "authors": [
+    "M. Wu",
+    "K. McCormack",
+    "W. A. Scott",
+    "Aaron Smith",
+    "J. Zhang",
+    "J. H. Stock"
+   ],
+   "year": 2026,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "即将发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Biofuels: Past, Present, and Future",
+   "authors": [
+    "G. Lade",
+    "Aaron Smith"
+   ],
+   "year": 2025,
+   "venue": "Annual Review of Resource Economics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Agriculture's Nitrogen Legacy",
+   "authors": [
+    "K. Metaxoglou",
+    "Aaron Smith"
+   ],
+   "year": 2025,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": null,
+   "abstract": "Nitrogen pollution of waterways is a large global problem, particularly in regions with intensive cropland agriculture, such as the Mississippi River Basin. Unlike prior studies based on agronomic and hydrologic (ag-hydro) models, we collect detailed data from water quality monitors and employ panel data econometric methods to estimate the relationship between cropland and nitrogen pollution. We find an increase in nitrogen load in nearby downstream waterways associated with an additional corn acre upstream that is substantially smaller than the field-to-river adjusted loss per cropland acre based on ag-hydro models. Our findings are consistent with those of recent research documenting the accumulation of large amounts of nitrogen in subsurface soil and groundwater over several decades; this is surplus nitrogen that was applied to fields but has yet to appear in waterways. In the presence of large amounts of legacy nitrogen, land retirement may not be cost effective, fluvial wetlands, which remove both legacy and new nitrogen, can be cost-effective."
+  },
+  {
+   "title": "The Economic and Policy Challenges of Climate-Smart Agriculture",
+   "authors": [
+    "Aaron Smith",
+    "A. Swanson"
+   ],
+   "year": 2025,
+   "venue": "Review of Environmental Economics and Policy 19, 90–117",
+   "status": "已发表",
+   "url": null,
+   "abstract": "Climate-smart agriculture promises to mitigate climate change by sequestering carbon in soils on working lands. However, this promise faces substantial policy challenges due to heterogeneity, costly measurement, and uncertainty. We summarize the latest scientific literature on carbon sequestration in agricultural soils, and we describe the current policy environment. With that background, we present an economic framework for policy analysis. We conclude by emphasizing (i) the need for better measurement and policy that is robust to poor measurement, and (ii) the importance of improving agricultural productivity to avoid future carbon losses from expanded agricultural land use."
+  },
+  {
+   "title": "Who is Responsible for ‘Responsible AI' ?: Navigating Challenges to Build Trust in AI Agriculture and Food System Technology Research",
+   "authors": [
+    "C. Alexander",
+    "M. Yarborough",
+    "Aaron Smith"
+   ],
+   "year": 2024,
+   "venue": "Precision Agriculture 25, 146–185",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Do Time-of-Use Prices Deliver Energy Savings at the Right Time?",
+   "authors": [
+    "Z. Fu",
+    "K. Novan",
+    "Aaron Smith"
+   ],
+   "year": 2024,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Safer Not to Know?: Shaping Liability Law and Policy to Incentivize Adoption of Predictive AI Technologies in the Food System",
+   "authors": [
+    "C. Alexander",
+    "Aaron Smith",
+    "R. Ivanek"
+   ],
+   "year": 2023,
+   "venue": "Frontiers in Artificial Intelligence 6, 1–8",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The effects of agricultural policy on supply and productivity: Evidence from differential changes in distortions",
+   "authors": [
+    "N. P. Hendricks",
+    "Aaron Smith",
+    "N. B. Villoria",
+    "M. Stigler"
+   ],
+   "year": 2023,
+   "venue": "Agricultural Economics 54, 44–61",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Food vs. Fuel? Impacts of the North Dakota Oil Boom on Agricultural Prices",
+   "authors": [
+    "J. B. Bushnell",
+    "J. E. Hughes",
+    "Aaron Smith"
+   ],
+   "year": 2022,
+   "venue": "Journal of the Association of Environmental and Resource Economists 9, 79–112",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Import Demand Elasticities Based on Quantity Data: Theory and Evidence",
+   "authors": [
+    "S. M. Ferguson",
+    "Aaron Smith"
+   ],
+   "year": 2022,
+   "venue": "Canadian Journal of Economics 55, 1027–1056",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Causality in Structural Vector Autoregressions: Science or Sorcery?",
+   "authors": [
+    "D. Ghanem",
+    "Aaron Smith"
+   ],
+   "year": 2022,
+   "venue": "American Journal of Agricultural Economics 104, 881–904",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Environmental Outcomes of the US Renewable Fuel Standard",
+   "authors": [
+    "T. J. Lark",
+    "N. P. Hendricks",
+    "Aaron Smith",
+    "N. Pates",
+    "S. A. Spawn-Lee",
+    "M. Bougie",
+    "E. G. Booth",
+    "C. J. Kucharik",
+    "H. K. Gibbs"
+   ],
+   "year": 2022,
+   "venue": "Proceedings of the National Academy of Sciences 119, 1–8",
+   "status": "已发表",
+   "url": null,
+   "abstract": "The Renewable Fuel Standard (RFS) specifies the use of biofuels in the United States and thereby guides nearly half of all global biofuel production. We combine econometric analyses, land use observations, and biophysical models to estimate the realized effects of the RFS in aggregate and down to the scale of individual agricultural fields across the United States. We find that the RFS expanded US corn cultivation by 2.8 Mha (8.7%) and total cropland by 2.1 Mha (2.4%) in the years following policy enactment (2008 to 2016). These changes caused enough domestic land use change emissions such that the carbon intensity of corn ethanol produced under the RFS is no less than gasoline and likely at least 24% higher."
+  },
+  {
+   "title": "Residential Building Codes Do Save Energy: Evidence From Hourly Smart-Meter Data",
+   "authors": [
+    "K. Novan",
+    "Aaron Smith",
+    "T. Zhou"
+   ],
+   "year": 2022,
+   "venue": "Review of Economics and Statistics 104, 483–500",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Estimating the Market Effect of a Trade War: The Case of Soybean Tariffs",
+   "authors": [
+    "M. K. Adjemian",
+    "Aaron Smith",
+    "W. He"
+   ],
+   "year": 2021,
+   "venue": "Food Policy",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "What are the Benefits of High-Frequency Data for Fixed Effects Panel Models",
+   "authors": [
+    "D. Ghanem",
+    "Aaron Smith"
+   ],
+   "year": 2021,
+   "venue": "Journal of the Association of Environmental and Resource Economists 8, 199–234",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Returns to Investing in Commodity Futures: Separating the Wheat from the Chaff",
+   "authors": [
+    "S. H. Irwin",
+    "D. R. Sanders",
+    "Aaron Smith",
+    "S. Main"
+   ],
+   "year": 2020,
+   "venue": "Applied Economic Perspectives and Policy 42, 583–610",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Productivity Spillovers from Pollution Reduction: Reducing Coal use Increases Crop Yields",
+   "authors": [
+    "K. Metaxoglou",
+    "Aaron Smith"
+   ],
+   "year": 2020,
+   "venue": "American Journal of Agricultural Economics 102, 259–280",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Do Speculators Drive Commodity Prices Away from Supply and Demand Fundamentals?",
+   "authors": [
+    "R. P. Fishe",
+    "Aaron Smith"
+   ],
+   "year": 2019,
+   "venue": "Journal of Commodity Markets",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Option-Implied Equity Premium Predictions via Entropic Tilting",
+   "authors": [
+    "K. Metaxoglou",
+    "D. Pettenuzzo",
+    "Aaron Smith"
+   ],
+   "year": 2019,
+   "venue": "Journal of Financial Econometrics 17, 559–586",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A Century of US Farm Productivity Growth: A Surge then a Slowdown",
+   "authors": [
+    "M. A. Andersen",
+    "J. M. Alston",
+    "P. G. Pardey",
+    "Aaron Smith"
+   ],
+   "year": 2018,
+   "venue": "American Journal of Agricultural Economics 100, 1072–1090",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Commodity Price Comovement and Financial Speculation: The Case of Cotton",
+   "authors": [
+    "J. P. Janzen",
+    "Aaron Smith",
+    "C. A. Carter"
+   ],
+   "year": 2018,
+   "venue": "American Journal of Agricultural Economics 100, 264–285",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Designing Climate Policy: Lessons from the Renewable Fuel Standard and the Blend Wall",
+   "authors": [
+    "G. E. Lade",
+    "C. Cynthia Lin Lawell",
+    "Aaron Smith"
+   ],
+   "year": 2018,
+   "venue": "American Journal of Agricultural Economics 100, 585–599",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Policy Shocks and Market-Based Regulations: Evidence from the Renewable Fuel Standard",
+   "authors": [
+    "G. E. Lade",
+    "C.-Y. C. Lin Lawell",
+    "Aaron Smith"
+   ],
+   "year": 2018,
+   "venue": "American Journal of Agricultural Economics 100, 707–731",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Financialization and the Returns to Commodity Investments",
+   "authors": [
+    "S. Main",
+    "S. H. Irwin",
+    "D. R. Sanders",
+    "Aaron Smith"
+   ],
+   "year": 2018,
+   "venue": "Journal of Commodity Markets 10, 22–28",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Incentive to Overinvest in Energy Efficiency: Evidence from Hourly Smart-Meter Data",
+   "authors": [
+    "K. Novan",
+    "Aaron Smith"
+   ],
+   "year": 2018,
+   "venue": "Journal of the Association of Environmental and Resource Economists 5, 577–605",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Effects of Crop Insurance Premium Subsidies on Crop Acreage",
+   "authors": [
+    "J. Yu",
+    "Aaron Smith",
+    "D. A. Sumner"
+   ],
+   "year": 2018,
+   "venue": "American Journal of Agricultural Economics 100, 91–114",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Commodity Storage and the Market Effects of Biofuel Policies",
+   "authors": [
+    "C. A. Carter",
+    "G. C. Rausser",
+    "Aaron Smith"
+   ],
+   "year": 2017,
+   "venue": "American Journal of Agricultural Economics 99, 1027–1055",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Forecasting Stock Returns Using Option-Implied State Prices",
+   "authors": [
+    "K. Metaxoglou",
+    "Aaron Smith"
+   ],
+   "year": 2017,
+   "venue": "Journal of Financial Econometrics 15, 427–473",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "State Prices of Conditional Quantiles: New Evidence on Time Variation in the Pricing Kernel",
+   "authors": [
+    "K. Metaxoglou",
+    "Aaron Smith"
+   ],
+   "year": 2017,
+   "venue": "Journal of Applied Econometrics 32, 192–217",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A Time Series Paradox: Unit Root Tests Perform Poorly When Data are Cointegrated",
+   "authors": [
+    "W. R. Reed",
+    "Aaron Smith"
+   ],
+   "year": 2017,
+   "venue": "Economics Letters 151, 71–74",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Foreign Central Bank Activities in US Futures Markets",
+   "authors": [
+    "R. P. Fishe",
+    "M. A. Robe",
+    "Aaron Smith"
+   ],
+   "year": 2016,
+   "venue": "Journal of Futures Markets 36, 3–29",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Supplemental Nutrition Assistance Program, Energy Balance, and Weight Gain",
+   "authors": [
+    "J. P. MacEwan",
+    "Aaron Smith",
+    "J. M. Alston"
+   ],
+   "year": 2016,
+   "venue": "Food Policy 61, 103–120",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Futures Market Failure?",
+   "authors": [
+    "P. Garcia",
+    "S. H. Irwin",
+    "Aaron Smith"
+   ],
+   "year": 2015,
+   "venue": "American Journal of Agricultural Economics 97, 40–64",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Futures Prices in Supply Analysis: Are Instrumental Variables Necessary?",
+   "authors": [
+    "N. P. Hendricks",
+    "J. P. Janzen",
+    "Aaron Smith"
+   ],
+   "year": 2015,
+   "venue": "American Journal of Agricultural Economics 97, 22–39",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Grouped Coefficients to Reduce Bias in Heterogeneous Dynamic Panel Models with Small T ",
+   "authors": [
+    "N. P. Hendricks",
+    "Aaron Smith"
+   ],
+   "year": 2015,
+   "venue": "Applied Economics 47, 4335–4348",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Ethanol Production and Gasoline Prices: A Spurious Correlation",
+   "authors": [
+    "C. R. Knittel",
+    "Aaron Smith"
+   ],
+   "year": 2015,
+   "venue": "The Energy Journal",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Hedging and Speculative Trading in Agricultural Futures Markets",
+   "authors": [
+    "R. P. Fishe",
+    "J. P. Janzen",
+    "Aaron Smith"
+   ],
+   "year": 2014,
+   "venue": "American Journal of Agricultural Economics 96, 542–556",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Environmental Effects of Crop Price Increases: Nitrogen Losses in the US Corn Belt",
+   "authors": [
+    "N. P. Hendricks",
+    "S. Sinnathamby",
+    "K. Douglas-Mankin",
+    "Aaron Smith",
+    "D. A. Sumner",
+    "D. H. Earnhart"
+   ],
+   "year": 2014,
+   "venue": "Journal of Environmental Economics and Management 68, 507–526",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Crop Supply Dynamics and the Illusion of Partial Adjustment",
+   "authors": [
+    "N. P. Hendricks",
+    "Aaron Smith",
+    "D. A. Sumner"
+   ],
+   "year": 2014,
+   "venue": "American Journal of Agricultural Economics 96, 1469–1491",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Deconstructing Wheat Price Spikes: A Model of Supply and Demand, Financial Speculation, and Commodity Price Comovement",
+   "authors": [
+    "J. Janzen",
+    "C. A. Carter",
+    "Aaron Smith",
+    "M. Adjemian"
+   ],
+   "year": 2014,
+   "venue": "USDA-ERS Economic Research Report",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Weather Shocks and Inter-Hemispheric Supply Responses: Implications for Climate Change Effects on Global Food Markets",
+   "authors": [
+    "T. J. Lybbert",
+    "Aaron Smith",
+    "D. A. Sumner"
+   ],
+   "year": 2014,
+   "venue": "Climate Change Economics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Cars on Crutches: How Much Abatement do Smog Check Repairs Actually Provide?",
+   "authors": [
+    "P. Merel",
+    "Aaron Smith",
+    "J. Williams",
+    "E. Wimberger"
+   ],
+   "year": 2014,
+   "venue": "Journal of Environmental Economics and Management 67, 371–395",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Non-Convergence in Domestic Commodity Futures Markets: Causes, Consequences, and Remedies",
+   "authors": [
+    "M. Adjemian",
+    "P. Garcia",
+    "S. H. Irwin",
+    "Aaron Smith"
+   ],
+   "year": 2013,
+   "venue": "USDA-ERS Economic Information Bulletin",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Nonlinear Multidimensional Relationship Between Stock Returns and the Macroeconomy",
+   "authors": [
+    "P. Chen",
+    "Aaron Smith"
+   ],
+   "year": 2013,
+   "venue": "Applied Economics 45, 4985–4999",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Using USDA Forecasts to Estimate the Price Flexibility of Demand for Agricultural Commodities",
+   "authors": [
+    "M. K. Adjemian",
+    "Aaron Smith"
+   ],
+   "year": 2012,
+   "venue": "American Journal of Agricultural Economics 94, 978–995",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Identifying Informed Traders in Futures Markets",
+   "authors": [
+    "R. P. Fishe",
+    "Aaron Smith"
+   ],
+   "year": 2012,
+   "venue": "Journal of Financial Markets 15, 329–359",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Does the Red Flag Rule Induce Risk Taking in Sprint Finishes? Moral Hazard Crashes in Cycling's Grand Tours",
+   "authors": [
+    "T. J. Lybbert",
+    "T. C. Lybbert",
+    "Aaron Smith",
+    "S. Warren"
+   ],
+   "year": 2012,
+   "venue": "Journal of Sports Economics 13, 603–618",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Markov Breaks in Regression Models",
+   "authors": [
+    "Aaron Smith"
+   ],
+   "year": 2012,
+   "venue": "Journal of Time Series Econometrics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Immigration and the US Farm Labour Supply",
+   "authors": [
+    "J. E. Taylor",
+    "S. R. Boucher",
+    "Aaron Smith",
+    "P. L. Fletcher",
+    "A. Yu´nez-Naude"
+   ],
+   "year": 2012,
+   "venue": "Migration Letters 9, 87–99",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Commodity Booms and Busts",
+   "authors": [
+    "C. A. Carter",
+    "G. C. Rausser",
+    "Aaron Smith"
+   ],
+   "year": 2011,
+   "venue": "Annual Review of Resource Economics 3, 87–118",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Volatility Dynamics and Seasonality in Energy Prices: Implications for Crack-Spread Price Risk",
+   "authors": [
+    "H. Suenaga",
+    "Aaron Smith"
+   ],
+   "year": 2011,
+   "venue": "The Energy Journal 32, 27–58",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Volatility Dynamics of NYMEX Natural Gas Futures Prices",
+   "authors": [
+    "H. Suenaga",
+    "Aaron Smith",
+    "J. Williams"
+   ],
+   "year": 2008,
+   "venue": "Journal of Futures Markets 28, 438–463",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Effects of Milk Marketing Order Regulation on the Share of Fluid-Grade Milk in the United States",
+   "authors": [
+    "J. V. Balagtas",
+    "Aaron Smith",
+    "D. A. Sumner"
+   ],
+   "year": 2007,
+   "venue": "American Journal of Agricultural Economics 89, 839–851",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Impacts of Policy Reforms on the Supply of Mexican Labor to US Farms: New Evidence from Mexico",
+   "authors": [
+    "S. R. Boucher",
+    "Aaron Smith",
+    "J. E. Taylor",
+    "A. Yu´nez-Naude"
+   ],
+   "year": 2007,
+   "venue": "Review of Agricultural Economics 29, 4–16",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Estimating the Market Effect of a Food Scare: The Case of Genetically Modified Starlink Corn",
+   "authors": [
+    "C. A. Carter",
+    "Aaron Smith"
+   ],
+   "year": 2007,
+   "venue": "The Review of Economics and Statistics 89, 522–533",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Efficiency of the California Electricity Reserves Market",
+   "authors": [
+    "K. Metaxoglou",
+    "Aaron Smith"
+   ],
+   "year": 2007,
+   "venue": "Journal of Applied Econometrics 22, 1127–1144",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Maximum Likelihood Estimation of VARMA Models Using a State-Space EM Algorithm",
+   "authors": [
+    "K. Metaxoglou",
+    "Aaron Smith"
+   ],
+   "year": 2007,
+   "venue": "Journal of Time Series Analysis 28, 666–685",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Markov-Switching Model Selection Using Kullback–Leibler Divergence",
+   "authors": [
+    "Aaron Smith",
+    "P. A. Naik",
+    "C.-L. Tsai"
+   ],
+   "year": 2006,
+   "venue": "Journal of Econometrics 134, 553–577",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Forecasting in the Presence of Level Shifts",
+   "authors": [
+    "Aaron Smith"
+   ],
+   "year": 2005,
+   "venue": "Journal of Forecasting 24, 557–574",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Level Shifts and the Illusion of Long Memory in Economic Time Series",
+   "authors": [
+    "Aaron Smith"
+   ],
+   "year": 2005,
+   "venue": "Journal of Business and Economic Statistics 23, 321–335",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Partially Overlapping Time Series: A New Model for Volatility Dynamics in Commodity Futures",
+   "authors": [
+    "Aaron Smith"
+   ],
+   "year": 2005,
+   "venue": "Journal of Applied Econometrics 20, 405–422",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Computer and Internet use by Great Plains Farmers",
+   "authors": [
+    "Aaron Smith",
+    "W. R. Goe",
+    "M. Kenney",
+    "C. J. M. Paul"
+   ],
+   "year": 2004,
+   "venue": "Journal of Agricultural and Resource Economics, 481–500",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Stochastic Permanent Breaks",
+   "authors": [
+    "R. F. Engle",
+    "Aaron Smith"
+   ],
+   "year": 1999,
+   "venue": "Review of Economics and Statistics 81, 553–574",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Essentials of Applied Econometrics",
+   "authors": [
+    "Aaron Smith",
+    "J. E. Taylor"
+   ],
+   "year": 2016,
+   "venue": "University of California Press (book)",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Modeling Uncertainty in Climate Policy: An Application to the US IRA",
+   "authors": [
+    "J. Bushnell",
+    "Aaron Smith"
+   ],
+   "year": 2025,
+   "venue": "Environmental and Energy Policy and the Economy (University of Chicago Press); NBER Working Paper No. 32830",
+   "status": "已发表",
+   "url": "https://www.nber.org/papers/w32830",
+   "abstract": null
+  },
+  {
+   "title": "Nutrient Pollution and US Agriculture: Causal Effects, Integrated Assessment, and Implications of Climate Change",
+   "authors": [
+    "K. Metaxoglou",
+    "Aaron Smith"
+   ],
+   "year": 2023,
+   "venue": "American Agriculture, Water Resources, and Climate Change (University of Chicago Press), book chapter",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "High Frequency Trading of Commodities",
+   "authors": [
+    "R. P. H. Fishe",
+    "Aaron Smith"
+   ],
+   "year": 2018,
+   "venue": "Commodities: Markets, Performance, and Strategies (Oxford University Press), book chapter",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Using Vegetable Oils for Biofuel Accelerates Tropical Deforestation and Increases Carbon Emissions",
+   "authors": [
+    "Chen",
+    "Steven Sexton",
+    "Aaron Smith"
+   ],
+   "year": 2025,
+   "venue": null,
+   "status": "工作论文",
+   "url": "https://drive.google.com/file/d/1v_vX4GDiChpw-3gX7lFC6AJrZiMyRrqC/view",
+   "abstract": "Biofuels are promoted worldwide as a strategy to replace fossil fuels and cut greenhouse gas emissions. However, their climate benefits are uncertain because biofuel production can induce deforestation and other land use change that causes carbon emissions. Here we show that global demand for biomass-based diesel fuel between 2002 and 2018 drove the conversion of approximately 1.7 million hectares of forest to oil palm in Indonesia and Malaysia, which released more than one gigaton of CO2, giving biomass based diesel higher carbon emissions per megajoule than that of fossil diesel"
+  },
+  {
+   "title": "Effects of the Proposed New California SAF Tax Credit",
+   "authors": [
+    "M. Wu",
+    "K. McCormack",
+    "W. A. Scott",
+    "Aaron Smith",
+    "J. Zhang",
+    "J. H. Stock"
+   ],
+   "year": 2026,
+   "venue": "Energy Institute at Haas Working Paper",
+   "status": "工作论文",
+   "url": null,
+   "abstract": null
+  }
+ ]
+}

@@ -1,0 +1,471 @@
+{
+ "slug": "adair-morse",
+ "name": "Adair Morse",
+ "sources": [
+  "https://sites.google.com/berkeley.edu/adair-morse/research",
+  "https://drive.google.com/file/d/1ikkHkhL1n1D5_NgZ0rnp2fqTeY32tOaE/view"
+ ],
+ "collected": "2026-10-10",
+ "notes": "Titles and links from homepage research page, cross-checked with CV. No abstracts on site. Skipped the Brookings discussion (comment) and research in progress without drafts (Venture Studios). Sources list coauthors only as \"with ...\"; author order for published papers set from the usual published order where known, otherwise scholar first.",
+ "papers": [
+  {
+   "title": "Physical AI",
+   "authors": [
+    "Adair Morse",
+    "Amrita Nain"
+   ],
+   "year": null,
+   "venue": null,
+   "status": "工作论文",
+   "url": "https://drive.google.com/file/d/1kf51MqLz9isd5iJEVIcFoRnfnkDGOIhZ/view",
+   "abstract": null
+  },
+  {
+   "title": "Banks as Stewards",
+   "authors": [
+    "Adair Morse",
+    "Kristian Blickle",
+    "Parinitha Sastry"
+   ],
+   "year": null,
+   "venue": null,
+   "status": "工作论文",
+   "url": "https://drive.google.com/file/d/1EG4Mtu8shYoplHlETdkzf8Gz9_Ra-xZJ/view",
+   "abstract": null
+  },
+  {
+   "title": "The Emergence of Silicon Valleys: A Role for Government",
+   "authors": [
+    "Adair Morse",
+    "Ofer Eldar",
+    "Ian Sapollnik"
+   ],
+   "year": null,
+   "venue": null,
+   "status": "工作论文",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Jurisdictional Reinforcement in New Institutionalism: Evidence from Organizational Sustainability",
+   "authors": [
+    "Adair Morse",
+    "Katherine Baird",
+    "Janna Huang"
+   ],
+   "year": null,
+   "venue": null,
+   "status": "工作论文",
+   "url": "https://drive.google.com/file/d/1LHLn-X0ebUaQwf9HiKvGlXMglOCpFUzQ/view",
+   "abstract": null
+  },
+  {
+   "title": "Auto Finance, Credit Risk, and the Electric Vehicle Transition",
+   "authors": [
+    "Adair Morse",
+    "Elizabeth Klee",
+    "Chaehee Shin"
+   ],
+   "year": null,
+   "venue": null,
+   "status": "工作论文",
+   "url": "https://drive.google.com/file/d/1KKu_ylbG002xyrQX26zxWTncpwDKcUzs/view",
+   "abstract": null
+  },
+  {
+   "title": "Roy Sorting: Climate Transition and Status Quo Strategies",
+   "authors": [
+    "Adair Morse",
+    "Thomas Cauthorn",
+    "Samuel Drempetic",
+    "Andreas G.F. Hoepner",
+    "Christian Klein"
+   ],
+   "year": null,
+   "venue": null,
+   "status": "工作论文",
+   "url": "https://drive.google.com/file/d/1EGEAEWE5NFu41U_p2EfOzorI6GS4Qntg/view",
+   "abstract": null
+  },
+  {
+   "title": "When Technology Processors Come to Town: High Electricity-Use Spillovers to the Local Economy",
+   "authors": [
+    "Adair Morse",
+    "Matteo Benetton",
+    "Giovanni Compiani"
+   ],
+   "year": null,
+   "venue": null,
+   "status": "工作论文",
+   "url": "https://drive.google.com/file/d/1kjT6sSBFlqpjGJHOqTA4JP7PWx7siLUr/view",
+   "abstract": null
+  },
+  {
+   "title": "The Leveraging of Silicon Valley",
+   "authors": [
+    "Adair Morse",
+    "Jesse Davis",
+    "Xinxin Wang"
+   ],
+   "year": null,
+   "venue": null,
+   "status": "工作论文",
+   "url": "http://faculty.haas.berkeley.edu/morse/research/papers/VentureDebt.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Sovereign Wealth Fund Portfolios",
+   "authors": [
+    "Adair Morse",
+    "Alexander Dyck"
+   ],
+   "year": 2012,
+   "venue": null,
+   "status": "工作论文",
+   "url": "http://faculty.haas.berkeley.edu/morse/research/papers/DyckMorse_2012AFA_SWF.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Nature Investing: Mobilizing and Blending Finance",
+   "authors": [
+    "Adair Morse",
+    "Joshua Lerner",
+    "Jonah Zahnd"
+   ],
+   "year": 2027,
+   "venue": "Princeton University Press (book, contracted, forthcoming)",
+   "status": "即将发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Economics of Net Zero Banking",
+   "authors": [
+    "Adair Morse",
+    "Parinitha Sastry"
+   ],
+   "year": 2026,
+   "venue": "Annual Review of Financial Economics",
+   "status": "即将发表",
+   "url": "https://drive.google.com/file/d/1eZX1UsEPXkAZXX0HwVNYUotKF5ZytAiM/view",
+   "abstract": null
+  },
+  {
+   "title": "How Pervasive is Corporate Fraud?",
+   "authors": [
+    "Adair Morse",
+    "Alexander Dyck",
+    "Luigi Zingales"
+   ],
+   "year": 2024,
+   "venue": "Review of Accounting Studies",
+   "status": "已发表",
+   "url": "https://drive.google.com/file/d/1ZGZVir13UkybeIp0dpGDTscL7AhtcEJe/view",
+   "abstract": null
+  },
+  {
+   "title": "Venture Debt",
+   "authors": [
+    "Adair Morse"
+   ],
+   "year": 2024,
+   "venue": "The Palgrave Encyclopedia of Private Equity (Palgrave Macmillan), chapter",
+   "status": "已发表",
+   "url": "https://drive.google.com/file/d/1k1FpP9wM2G4j3ICc27a4GYf06Ul4A4-H/view",
+   "abstract": null
+  },
+  {
+   "title": "Outrage and Compensation in Public Pension Performance",
+   "authors": [
+    "Adair Morse",
+    "Alexander Dyck",
+    "Paulo Manoel"
+   ],
+   "year": 2022,
+   "venue": "Review of Financial Studies",
+   "status": "已发表",
+   "url": "https://drive.google.com/file/d/1kZIlEWULp-oVxCB473-6DTMVzpXOUnht/view",
+   "abstract": null
+  },
+  {
+   "title": "Consumer-Lending Discrimination in the FinTech Era",
+   "authors": [
+    "Adair Morse",
+    "Robert Bartlett",
+    "Richard Stanton",
+    "Nancy Wallace"
+   ],
+   "year": 2022,
+   "venue": "Journal of Financial Economics",
+   "status": "已发表",
+   "url": "http://faculty.haas.berkeley.edu/morse/research/papers/discrim.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Small Business Survival Capabilities and Policy Effectiveness: Evidence from Oakland",
+   "authors": [
+    "Adair Morse",
+    "Robert Bartlett"
+   ],
+   "year": 2021,
+   "venue": "Journal of Financial and Quantitative Analysis",
+   "status": "已发表",
+   "url": "https://drive.google.com/file/d/11yVSRQeBzw2BPlkPDzl5SLXNQePnjmch/view",
+   "abstract": null
+  },
+  {
+   "title": "What Explains Differences in Finance Research Productivity During the Pandemic?",
+   "authors": [
+    "Brad M. Barber",
+    "Wei Jiang",
+    "Adair Morse",
+    "Manju Puri",
+    "Heather Tookes",
+    "Ingrid M. Werner"
+   ],
+   "year": 2021,
+   "venue": "Journal of Finance",
+   "status": "已发表",
+   "url": "https://drive.google.com/file/d/1I9RZl9GiB2mUL-ivDTl2diP4HYjT3apg/view",
+   "abstract": null
+  },
+  {
+   "title": "Algorithmic Accountability: A Legal and Economic Framework",
+   "authors": [
+    "Adair Morse",
+    "Robert Bartlett",
+    "Richard Stanton",
+    "Nancy Wallace"
+   ],
+   "year": 2021,
+   "venue": "Berkeley Technology Law Journal",
+   "status": "已发表",
+   "url": "http://faculty.haas.berkeley.edu/morse/research/papers/AlgorithmicAccountability_BartlettMorseStantonWallace.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Impact Investing",
+   "authors": [
+    "Brad M. Barber",
+    "Adair Morse",
+    "Ayako Yasuda"
+   ],
+   "year": 2021,
+   "venue": "Journal of Financial Economics",
+   "status": "已发表",
+   "url": "http://faculty.haas.berkeley.edu/morse/research/papers/BarberMorseYasuda.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Discrimination",
+   "authors": [
+    "Adair Morse",
+    "Karen Pence"
+   ],
+   "year": 2021,
+   "venue": "Palgrave-MacMillan Handbook of Technological Finance, chapter",
+   "status": "已发表",
+   "url": "http://faculty.haas.berkeley.edu/morse/research/papers/MorsePenceDiscrimination.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Asset Managers: Factor Investing and Performance",
+   "authors": [
+    "Joseph Gerakos",
+    "Juhani Linnainmaa",
+    "Adair Morse"
+   ],
+   "year": 2021,
+   "venue": "Journal of Finance",
+   "status": "已发表",
+   "url": "http://faculty.haas.berkeley.edu/morse/research/papers/GerakosLinnainmaaMorse.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Stock Returns over the FOMC Cycle",
+   "authors": [
+    "Anna Cieslak",
+    "Adair Morse",
+    "Annette Vissing-Jorgensen"
+   ],
+   "year": 2019,
+   "venue": "Journal of Finance",
+   "status": "已发表",
+   "url": "http://faculty.haas.berkeley.edu/morse/research/papers/cycle_paper_cieslak_morse_vissingjorgensen.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Executive Lawyers: Gatekeepers or Strategic Officers?",
+   "authors": [
+    "Adair Morse",
+    "Wei Wang",
+    "Serena Wu"
+   ],
+   "year": 2016,
+   "venue": "Journal of Law and Economics",
+   "status": "已发表",
+   "url": "http://faculty.haas.berkeley.edu/morse/research/papers/MorseWangWu.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Trickle-Down Consumption",
+   "authors": [
+    "Marianne Bertrand",
+    "Adair Morse"
+   ],
+   "year": 2016,
+   "venue": "Review of Economics and Statistics",
+   "status": "已发表",
+   "url": "http://faculty.haas.berkeley.edu/morse/research/papers/BertrandMorse_trickle.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Measuring Income Tax Evasion using Bank Credit: Evidence from Greece",
+   "authors": [
+    "Nikolaos Artavanis",
+    "Adair Morse",
+    "Margarita Tsoutsoura"
+   ],
+   "year": 2016,
+   "venue": "Quarterly Journal of Economics",
+   "status": "已发表",
+   "url": "http://faculty.haas.berkeley.edu/morse/research/papers/ArtavanisMorseTsoutsouraTaxEvasionGreece..pdf",
+   "abstract": null
+  },
+  {
+   "title": "Peer-to-Peer Crowdfunding: Information and the Potential for Disruption in Consumer Lending",
+   "authors": [
+    "Adair Morse"
+   ],
+   "year": 2015,
+   "venue": "Annual Review of Financial Economics",
+   "status": "已发表",
+   "url": "http://faculty.haas.berkeley.edu/morse/research/papers/Morse_CrowdPeertoPeerReview.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Compensation Rigging by Powerful CEOs: A Reply and Cross-Sectional Evidence",
+   "authors": [
+    "Adair Morse",
+    "Vikram Nanda",
+    "Amit Seru"
+   ],
+   "year": 2013,
+   "venue": "Critical Finance Review",
+   "status": "已发表",
+   "url": "http://faculty.haas.berkeley.edu/morse/research/papers/MorseNandaSeru_RiggingCrossSectionFinal.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Information Disclosure, Cognitive Biases and Payday Borrowing",
+   "authors": [
+    "Marianne Bertrand",
+    "Adair Morse"
+   ],
+   "year": 2011,
+   "venue": "Journal of Finance",
+   "status": "已发表",
+   "url": "http://faculty.haas.berkeley.edu/morse/research/papers/BertrandMorsePaydayFieldExpJuly2010.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Payday Lenders: Heroes or Villains?",
+   "authors": [
+    "Adair Morse"
+   ],
+   "year": 2011,
+   "venue": "Journal of Financial Economics",
+   "status": "已发表",
+   "url": "http://faculty.haas.berkeley.edu/morse/research/papers/morsepayday_jfe2.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Are Incentive Contracts Rigged by Powerful CEOs?",
+   "authors": [
+    "Adair Morse",
+    "Vikram Nanda",
+    "Amit Seru"
+   ],
+   "year": 2011,
+   "venue": "Journal of Finance",
+   "status": "已发表",
+   "url": "http://faculty.haas.berkeley.edu/morse/research/papers/ceo_paper_JF_v5x.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Who Blows the Whistle on Corporate Fraud?",
+   "authors": [
+    "Alexander Dyck",
+    "Adair Morse",
+    "Luigi Zingales"
+   ],
+   "year": 2010,
+   "venue": "Journal of Finance",
+   "status": "已发表",
+   "url": "http://faculty.haas.berkeley.edu/morse/research/papers/whistle_forthcoming110909.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Patriotism in Your Portfolio",
+   "authors": [
+    "Adair Morse",
+    "Sophie Shive"
+   ],
+   "year": 2010,
+   "venue": "Journal of Financial Markets",
+   "status": "已发表",
+   "url": "http://faculty.haas.berkeley.edu/morse/research/papers/nat080211.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Are Elite Universities Losing Their Competitive Edge?",
+   "authors": [
+    "E. Han Kim",
+    "Adair Morse",
+    "Luigi Zingales"
+   ],
+   "year": 2009,
+   "venue": "Journal of Financial Economics",
+   "status": "已发表",
+   "url": "http://faculty.haas.berkeley.edu/morse/research/papers/Facprod.pdf",
+   "abstract": null
+  },
+  {
+   "title": "What do High-Interest Borrowers do with their Tax Rebates?",
+   "authors": [
+    "Marianne Bertrand",
+    "Adair Morse"
+   ],
+   "year": 2009,
+   "venue": "American Economic Review: Papers & Proceedings",
+   "status": "已发表",
+   "url": "http://faculty.haas.berkeley.edu/morse/research/papers/bertrandMorse_Stimulus.pdf",
+   "abstract": null
+  },
+  {
+   "title": "What Has Mattered to Economics Since 1970?",
+   "authors": [
+    "E. Han Kim",
+    "Adair Morse",
+    "Luigi Zingales"
+   ],
+   "year": 2006,
+   "venue": "Journal of Economic Perspectives",
+   "status": "已发表",
+   "url": "http://faculty.haas.berkeley.edu/morse/research/papers/kim_morse_zingales.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Tariff Rate Quota Implementation and Administration by Developing Countries",
+   "authors": [
+    "Philip Abbott",
+    "Adair Morse"
+   ],
+   "year": 2000,
+   "venue": "Agricultural and Resource Economics Review",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  }
+ ]
+}

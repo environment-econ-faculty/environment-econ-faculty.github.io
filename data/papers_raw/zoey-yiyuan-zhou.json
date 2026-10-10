@@ -1,0 +1,139 @@
+{
+ "slug": "zoey-yiyuan-zhou",
+ "name": "Zoey Yiyuan Zhou",
+ "sources": [
+  "https://sites.google.com/site/yiyuanzhouresearch/",
+  "https://drive.google.com/file/d/1d0ICiN_7MAX6QdWRHgWLVwJ1CzZ1fxhX/view"
+ ],
+ "collected": "2026-10-10",
+ "notes": "Homepage + CV. 'Abstracts' are the one-sentence summaries shown on the homepage (verbatim), not full abstracts. Working papers undated (set to 2026). Included early engineering papers listed under 'Other Publications'; skipped patent.",
+ "papers": [
+  {
+   "title": "The Curse of Green Shareholder Oversight: Evidence from Emission Spillover of Divested Plants",
+   "authors": [
+    "Zoey Yiyuan Zhou"
+   ],
+   "year": 2026,
+   "venue": null,
+   "status": "工作论文",
+   "url": null,
+   "abstract": "Uncover how the pressure by climate-conscious shareholders can propagate greenhouse gases to asset owners under less oversight."
+  },
+  {
+   "title": "The Hidden Unequal Burden of Clean Air: Evidence from Cost Pass-Through under the NOx Budget Trading Program",
+   "authors": [
+    "Zoey Yiyuan Zhou",
+    "Tse-Chun Lin",
+    "Hong Zou"
+   ],
+   "year": 2026,
+   "venue": "Revise & Resubmit, Journal of Financial and Quantitative Analysis",
+   "status": "修改重投",
+   "url": null,
+   "abstract": "Reveal unintended spillovers along the supply chain, which disproportionately impede air quality equity for underprivileged local communities."
+  },
+  {
+   "title": "Air Pollution After the Shutdown of U.S. Embassy Monitoring",
+   "authors": [
+    "Zoey Yiyuan Zhou",
+    "Fanyu Wang",
+    "Allen Huang",
+    "Douglas Almond"
+   ],
+   "year": 2026,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "https://www.pnas.org/doi/10.1073/pnas.2605467123",
+   "abstract": null
+  },
+  {
+   "title": "Biodiversity Co-Benefits in Carbon Markets? Evidence from Voluntary Offset Projects",
+   "authors": [
+    "Zoey Yiyuan Zhou",
+    "Douglas Almond"
+   ],
+   "year": 2025,
+   "venue": "Review of Finance",
+   "status": "已发表",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5678422",
+   "abstract": "Uncover how market-driven carbon offset projects, despite biodiversity claims, can erode habitat integrity through monoculture expansion and land-use simplification."
+  },
+  {
+   "title": "Attention Constraints and Financial Inclusion",
+   "authors": [
+    "Zoey Yiyuan Zhou",
+    "Bo Huang",
+    "Jiacui Li",
+    "Tse-Chun Lin",
+    "Mingzhu Tai"
+   ],
+   "year": 2025,
+   "venue": "Journal of Financial and Quantitative Analysis 60(4): 1727-1759",
+   "status": "已发表",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3865478",
+   "abstract": "Loan officer attention allocation under time constraints hinders financial inclusion."
+  },
+  {
+   "title": "Serving Multiple 'Masters': Evidence from the Loan Decisions of a State-Owned Publicly Listed Bank Around a Massive Economic Stimulus Programme",
+   "authors": [
+    "Zoey Yiyuan Zhou",
+    "Hongqi Yuan",
+    "Hong Zou"
+   ],
+   "year": 2022,
+   "venue": "Journal of Corporate Finance",
+   "status": "已发表",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3675052",
+   "abstract": "Explore state-owned bank's response to governmental countercyclical financing through internal credit rating allocation."
+  },
+  {
+   "title": "Preparation and Characterization of Hydrochar from Waste Eucalyptus Bark by Hydrothermal Carbonization",
+   "authors": [
+    "P. Gao",
+    "Zoey Yiyuan Zhou",
+    "F. Meng",
+    "Y. Zhang",
+    "Z. Liu",
+    "W. Zhang",
+    "G. Xue"
+   ],
+   "year": 2016,
+   "venue": "Energy 97: 238-245",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Hydrothermal Carbonization of Waste Eucalyptus Bark",
+   "authors": [
+    "Zoey Yiyuan Zhou",
+    "F. Meng",
+    "Z. Liu",
+    "G. Xue",
+    "P. Gao"
+   ],
+   "year": 2015,
+   "venue": "Materials Reports 1: 344-347",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Adsorption Characteristics of Typical PPCPs onto River Sediments and Its Influencing Factors",
+   "authors": [
+    "K. Wang",
+    "K. Li",
+    "Zoey Yiyuan Zhou",
+    "F. Meng",
+    "Z. Liu",
+    "G. Xue",
+    "P. Gao"
+   ],
+   "year": 2015,
+   "venue": "Environmental Science 36(3): 847-854",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  }
+ ]
+}

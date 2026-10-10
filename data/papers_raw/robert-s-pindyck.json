@@ -1,0 +1,1116 @@
+{
+ "slug": "robert-s-pindyck",
+ "name": "Robert S. Pindyck",
+ "sources": [
+  "https://mitsloan.mit.edu/shared/ods/documents?PersonID=41022&DocID=12629",
+  "http://web.mit.edu/rpindyck/www/resume.pdf?v13",
+  "http://web.mit.edu/rpindyck/www/papers.htm"
+ ],
+ "collected": "2026-10-10",
+ "notes": "Long-CV rule applied (more than 150 items): includes everything from 2005 onward (articles, chapters, working papers, the latest textbook edition, and the 2022 book) plus earlier refereed journal articles. Excluded pre-2005 books (e.g. Investment under Uncertainty, 1994), book chapters, policy and magazine pieces (Challenge, The Public Interest, Foreign Policy, Technology Review, Regulation 1979, Harvard Business Review, Electricity Journal), old reports and working papers, and book reviews. 'On the Social Value of Life' (draft, March 2026) is listed only in the homepage CV. PDF links come from the homepage papers page; no abstracts are shown. The papers page lists the forest CO2 paper as NBER WP 32207 while the CV says 33207; 32207 is used. Co-author first names were expanded where known; others are initials as in the CV.",
+ "papers": [
+  {
+   "title": "Climate Future: Averting and Adapting to Climate Change",
+   "authors": [
+    "Robert S. Pindyck"
+   ],
+   "year": 2022,
+   "venue": "Oxford University Press (book)",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Microeconomics, Ninth Edition",
+   "authors": [
+    "Robert S. Pindyck",
+    "Daniel L. Rubinfeld"
+   ],
+   "year": 2018,
+   "venue": "Pearson / Prentice Hall (textbook; 1st ed. 1989)",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "On the Social Value of Life",
+   "authors": [
+    "Robert S. Pindyck"
+   ],
+   "year": 2026,
+   "venue": "Draft manuscript",
+   "status": "工作论文",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A Supply Curve for Forest-Based CO2 Removal",
+   "authors": [
+    "Sergio Franklin",
+    "Robert S. Pindyck"
+   ],
+   "year": 2024,
+   "venue": "NBER Working Paper No. 32207",
+   "status": "工作论文",
+   "url": "http://web.mit.edu/rpindyck/www/Papers/Trees_Feb2024.pdf",
+   "abstract": null
+  },
+  {
+   "title": "COVID-19 and the Welfare Effects of Reducing Contagion",
+   "authors": [
+    "Robert S. Pindyck"
+   ],
+   "year": 2020,
+   "venue": "NBER Working Paper No. 27121",
+   "status": "工作论文",
+   "url": "http://web.mit.edu/rpindyck/www/Papers/COVID-WelfareEffects-0520.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Averting Catastrophes that Kill",
+   "authors": [
+    "Ian Martin",
+    "Robert S. Pindyck"
+   ],
+   "year": 2017,
+   "venue": "NBER Working Paper No. 23346",
+   "status": "工作论文",
+   "url": "http://web.mit.edu/rpindyck/www/Papers/AvertingCatastrophesKillApril2017.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Risk and Return in Environmental Economics",
+   "authors": [
+    "Robert S. Pindyck"
+   ],
+   "year": 2012,
+   "venue": "NBER Working Paper No. 18262",
+   "status": "工作论文",
+   "url": "http://web.mit.edu/rpindyck/www/Papers/RiskReturnAugust2012.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Sunk Costs and Risk-Based Barriers to Entry",
+   "authors": [
+    "Robert S. Pindyck"
+   ],
+   "year": 2009,
+   "venue": "NBER Working Paper No. 14755",
+   "status": "工作论文",
+   "url": "http://web.mit.edu/rpindyck/www/Papers/RiskEntryBarriersWP0209.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Pricing Capital under Mandatory Unbundling and Facilities Sharing",
+   "authors": [
+    "Robert S. Pindyck"
+   ],
+   "year": 2005,
+   "venue": "NBER Working Paper No. 11225",
+   "status": "工作论文",
+   "url": "http://web.mit.edu/rpindyck/www/Papers/Pricing_Capital.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Population, Productivity, and Sustainable Consumption",
+   "authors": [
+    "Robert S. Pindyck"
+   ],
+   "year": 2024,
+   "venue": "American Economic Journal: Macroeconomics",
+   "status": "已发表",
+   "url": "http://web.mit.edu/rpindyck/www/Papers/population-productivity-sustainable-consumption-AEJMacro-2024.pdf",
+   "abstract": null
+  },
+  {
+   "title": "What We Know and Don't Know about Climate Change, and Implications for Policy",
+   "authors": [
+    "Robert S. Pindyck"
+   ],
+   "year": 2021,
+   "venue": "Environmental and Energy Policy and the Economy",
+   "status": "已发表",
+   "url": "http://web.mit.edu/rpindyck/www/Papers/KnowAboutClimateChangeEEPE2021.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Welfare Costs of Catastrophes: Lost Consumption and Lost Lives",
+   "authors": [
+    "Ian Martin",
+    "Robert S. Pindyck"
+   ],
+   "year": 2021,
+   "venue": "The Economic Journal",
+   "status": "已发表",
+   "url": "http://web.mit.edu/rpindyck/www/Papers/WelfareCostsCatastrophesEJ2021.pdf",
+   "abstract": null
+  },
+  {
+   "title": "A Simple Rule for Pricing with Limited Knowledge of Demand",
+   "authors": [
+    "Maxime Cohen",
+    "Georgia Perakis",
+    "Robert S. Pindyck"
+   ],
+   "year": 2021,
+   "venue": "Management Science",
+   "status": "已发表",
+   "url": "http://web.mit.edu/rpindyck/www/Papers/SimplePricingRuleManScience2020.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Scarcity, Market Power, and Prices at Slot-Constrained Airports: Evidence from Mexico City",
+   "authors": [
+    "A. Arcelus",
+    "A.M. Fix",
+    "J-Y. Lehmann",
+    "F.G. Mantovanelli",
+    "Robert S. Pindyck"
+   ],
+   "year": 2019,
+   "venue": "Journal of Transport Economics and Policy",
+   "status": "已发表",
+   "url": "http://web.mit.edu/rpindyck/www/Papers/JTEP_53-02_119-134.pdf",
+   "abstract": null
+  },
+  {
+   "title": "The Social Cost of Carbon Revisited",
+   "authors": [
+    "Robert S. Pindyck"
+   ],
+   "year": 2019,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "http://web.mit.edu/rpindyck/www/Papers/SCCRevisitedJEEM2019.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Tropical Forests, Tipping Points, and the Social Cost of Deforestation",
+   "authors": [
+    "Sergio Franklin",
+    "Robert S. Pindyck"
+   ],
+   "year": 2018,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "http://web.mit.edu/rpindyck/www/Papers/FranklinPindyckDeforestationEE2018.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Coase Lecture - Taxes, Targets, and the Social Cost of Carbon",
+   "authors": [
+    "Robert S. Pindyck"
+   ],
+   "year": 2017,
+   "venue": "Economica",
+   "status": "已发表",
+   "url": "http://web.mit.edu/rpindyck/www/Papers/TaxesTargetsEconomicaJuly2017.pdf",
+   "abstract": null
+  },
+  {
+   "title": "The Use and Misuse of Models for Climate Policy",
+   "authors": [
+    "Robert S. Pindyck"
+   ],
+   "year": 2017,
+   "venue": "Review of Environmental Economics and Policy",
+   "status": "已发表",
+   "url": "http://web.mit.edu/rpindyck/www/Papers/MisuseClimateModelsREEP2017.pdf",
+   "abstract": null
+  },
+  {
+   "title": "The Simple Economics of Commodity Price Speculation",
+   "authors": [
+    "Christopher R. Knittel",
+    "Robert S. Pindyck"
+   ],
+   "year": 2016,
+   "venue": "American Economic Journal: Macroeconomics",
+   "status": "已发表",
+   "url": "http://web.mit.edu/rpindyck/www/Papers/CommodityPriceSpecAEJMacro2016.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Averting Catastrophes: The Strange Economics of Scylla and Charybdis",
+   "authors": [
+    "Ian Martin",
+    "Robert S. Pindyck"
+   ],
+   "year": 2015,
+   "venue": "American Economic Review",
+   "status": "已发表",
+   "url": "http://web.mit.edu/rpindyck/www/Papers/CatastrophesAEROct2015.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Risk and Return in the Design of Environmental Policy",
+   "authors": [
+    "Robert S. Pindyck"
+   ],
+   "year": 2014,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "http://web.mit.edu/rpindyck/www/Papers/RiskReturnEnvironPolicyJAERE2014.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Should Governments Use a Declining Discount Rate in Project Analysis?",
+   "authors": [
+    "Kenneth Arrow",
+    "Maureen Cropper",
+    "et al.",
+    "Robert S. Pindyck"
+   ],
+   "year": 2014,
+   "venue": "Review of Environmental Economics and Policy",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Economic and Policy Consequences of Catastrophes",
+   "authors": [
+    "Robert S. Pindyck",
+    "Neng Wang"
+   ],
+   "year": 2013,
+   "venue": "American Economic Journal: Economic Policy",
+   "status": "已发表",
+   "url": "http://web.mit.edu/rpindyck/www/Papers/PindyckWangAEJPolNov2013.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Climate Change Policy: What Do the Models Tell Us?",
+   "authors": [
+    "Robert S. Pindyck"
+   ],
+   "year": 2013,
+   "venue": "Journal of Economic Literature",
+   "status": "已发表",
+   "url": "http://web.mit.edu/rpindyck/www/Papers/PindyckClimateModelsJELSept2013.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Determining Benefits and Costs for Future Generations",
+   "authors": [
+    "Kenneth Arrow",
+    "Maureen Cropper",
+    "et al.",
+    "Robert S. Pindyck"
+   ],
+   "year": 2013,
+   "venue": "Science",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Pricing Carbon Emissions When We Don't Know the Right Price",
+   "authors": [
+    "Robert S. Pindyck"
+   ],
+   "year": 2013,
+   "venue": "Regulation",
+   "status": "已发表",
+   "url": "http://web.mit.edu/rpindyck/www/Papers/PricingCarbonRegulation2013.pdf",
+   "abstract": null
+  },
+  {
+   "title": "The Climate Policy Dilemma",
+   "authors": [
+    "Robert S. Pindyck"
+   ],
+   "year": 2013,
+   "venue": "Review of Environmental Economics and Policy",
+   "status": "已发表",
+   "url": "http://web.mit.edu/rpindyck/www/Papers/ClimatePolicyDilemma2013.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Uncertain Outcomes and Climate Change Policy",
+   "authors": [
+    "Robert S. Pindyck"
+   ],
+   "year": 2012,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "http://web.mit.edu/rpindyck/www/Papers/UncertainOutcomesJEEM2012.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Fat Tails, Thin Tails, and Climate Change Policy",
+   "authors": [
+    "Robert S. Pindyck"
+   ],
+   "year": 2011,
+   "venue": "Review of Environmental Economics and Policy",
+   "status": "已发表",
+   "url": "http://web.mit.edu/rpindyck/www/Papers/RSPFatTailsThinTailsREEP2011.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Solving Optimal Timing Problems in Environmental Economics",
+   "authors": [
+    "Metin Balikcioglu",
+    "Paul L. Fackler",
+    "Robert S. Pindyck"
+   ],
+   "year": 2011,
+   "venue": "Resource and Energy Economics",
+   "status": "已发表",
+   "url": "http://web.mit.edu/rpindyck/www/Papers/SolvingOptimalTiming2011.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Modeling the Impact of Warming in Climate Change Economics",
+   "authors": [
+    "Robert S. Pindyck"
+   ],
+   "year": 2011,
+   "venue": "In G. Libecap and R. Steckel, eds., The Economics of Climate Change: Adaptations Past and Present, University of Chicago Press",
+   "status": "已发表",
+   "url": "http://web.mit.edu/rpindyck/www/Papers/The-Economics-of-Climate-Change.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Governance, Issuance Restrictions, and Competition in Payment Card Networks",
+   "authors": [
+    "Robert S. Pindyck"
+   ],
+   "year": 2009,
+   "venue": "In J. Kwoka and L. White, eds., The Antitrust Revolution, 5th Ed., Oxford University Press (NBER Working Paper, 2007)",
+   "status": "已发表",
+   "url": "http://web.mit.edu/rpindyck/www/Papers/PaymentCardsRSPJune07WP.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Sunk Costs and Real Options in Antitrust",
+   "authors": [
+    "Robert S. Pindyck"
+   ],
+   "year": 2008,
+   "venue": "In W. D. Collins, ed., Issues in Competition Law and Policy, ABA Press",
+   "status": "已发表",
+   "url": "http://web.mit.edu/rpindyck/www/Papers/Vol.%20IChap.%2026CompetitionLaw_m1.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Uncertainty in Environmental Economics",
+   "authors": [
+    "Robert S. Pindyck"
+   ],
+   "year": 2007,
+   "venue": "Review of Environmental Economics and Policy",
+   "status": "已发表",
+   "url": "http://web.mit.edu/rpindyck/www/Papers/UncertEnvironEconPrinted_version.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Mandatory Unbundling and Irreversible Investment in Telecom Networks",
+   "authors": [
+    "Robert S. Pindyck"
+   ],
+   "year": 2007,
+   "venue": "Review of Network Economics",
+   "status": "已发表",
+   "url": "http://web.mit.edu/rpindyck/www/Papers/MandatoryUnbundlingTelecomRNE2007.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Volatility and Commodity Price Dynamics",
+   "authors": [
+    "Robert S. Pindyck"
+   ],
+   "year": 2004,
+   "venue": "Journal of Futures Markets",
+   "status": "已发表",
+   "url": "http://web.mit.edu/rpindyck/www/Papers/Volatility_Comm_Price.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Volatility in Natural Gas and Oil Markets",
+   "authors": [
+    "Robert S. Pindyck"
+   ],
+   "year": 2004,
+   "venue": "Journal of Energy and Development",
+   "status": "已发表",
+   "url": "http://web.mit.edu/rpindyck/www/Papers/Vol_NG.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Consumption Externalities and Diffusion in Pharmaceutical Markets: Antiulcer Drugs",
+   "authors": [
+    "Ernst R. Berndt",
+    "Robert S. Pindyck",
+    "Pierre Azoulay"
+   ],
+   "year": 2003,
+   "venue": "Journal of Industrial Economics",
+   "status": "已发表",
+   "url": "http://web.mit.edu/rpindyck/www/Papers/Consumption_Externalities.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Optimal Timing Problems in Environmental Economics",
+   "authors": [
+    "Robert S. Pindyck"
+   ],
+   "year": 2002,
+   "venue": "Journal of Economic Dynamics and Control",
+   "status": "已发表",
+   "url": "http://web.mit.edu/rpindyck/www/Papers/Optimal_Timing.pdf",
+   "abstract": null
+  },
+  {
+   "title": "The Dynamics of Commodity Spot and Futures Markets: A Primer",
+   "authors": [
+    "Robert S. Pindyck"
+   ],
+   "year": 2001,
+   "venue": "The Energy Journal",
+   "status": "已发表",
+   "url": "http://web.mit.edu/rpindyck/www/Papers/Dynamics_Comm_Spot.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Irreversibilities and the Timing of Environmental Policy",
+   "authors": [
+    "Robert S. Pindyck"
+   ],
+   "year": 2000,
+   "venue": "Resource and Energy Economics",
+   "status": "已发表",
+   "url": "http://web.mit.edu/rpindyck/www/Papers/Irreversibilities_Timing.pdf",
+   "abstract": null
+  },
+  {
+   "title": "A Markup Interpretation of Optimal Investment Rules",
+   "authors": [
+    "Avinash K. Dixit",
+    "Robert S. Pindyck",
+    "Sigbjørn Sødal"
+   ],
+   "year": 1999,
+   "venue": "The Economic Journal",
+   "status": "已发表",
+   "url": "http://web.mit.edu/rpindyck/www/Papers/Markup_Interpretation_Printed.pdf",
+   "abstract": null
+  },
+  {
+   "title": "The Long-Run Evolution of Energy Prices",
+   "authors": [
+    "Robert S. Pindyck"
+   ],
+   "year": 1999,
+   "venue": "The Energy Journal",
+   "status": "已发表",
+   "url": "http://web.mit.edu/rpindyck/www/Papers/Long-Run_Evolution.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Uncertainty, Investment, and Industry Evolution",
+   "authors": [
+    "Ricardo Caballero",
+    "Robert S. Pindyck"
+   ],
+   "year": 1996,
+   "venue": "International Economic Review",
+   "status": "已发表",
+   "url": "http://web.mit.edu/rpindyck/www/Papers/Uncertainty_Investment.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Options, the Value of Capital, and Investment",
+   "authors": [
+    "Andrew Abel",
+    "Avinash K. Dixit",
+    "Janice Eberly",
+    "Robert S. Pindyck"
+   ],
+   "year": 1996,
+   "venue": "Quarterly Journal of Economics",
+   "status": "已发表",
+   "url": "http://web.mit.edu/rpindyck/www/Papers/OptionsCapitalQJEAug06[1].pdf",
+   "abstract": null
+  },
+  {
+   "title": "Inventories and the Short-Run Dynamics of Commodity Prices",
+   "authors": [
+    "Robert S. Pindyck"
+   ],
+   "year": 1994,
+   "venue": "RAND Journal of Economics",
+   "status": "已发表",
+   "url": "http://web.mit.edu/rpindyck/www/Papers/Pindyck%20Inventories%20and%20the%20short-run%20dynamics%20of%20commodity%20prices,%20RAND%20Spring%201994.pdf",
+   "abstract": null
+  },
+  {
+   "title": "A Note on Competitive Investment under Uncertainty",
+   "authors": [
+    "Robert S. Pindyck"
+   ],
+   "year": 1993,
+   "venue": "American Economic Review",
+   "status": "已发表",
+   "url": "http://web.mit.edu/rpindyck/www/Papers/CompetitiveInvestUncertAER1993.pdf",
+   "abstract": null
+  },
+  {
+   "title": "The Present Value Model of Rational Commodity Pricing",
+   "authors": [
+    "Robert S. Pindyck"
+   ],
+   "year": 1993,
+   "venue": "The Economic Journal",
+   "status": "已发表",
+   "url": "http://web.mit.edu/rpindyck/www/Papers/PresentValueModelCommodityEJ1993.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Investments of Uncertain Cost",
+   "authors": [
+    "Robert S. Pindyck"
+   ],
+   "year": 1993,
+   "venue": "Journal of Financial Economics",
+   "status": "已发表",
+   "url": "http://web.mit.edu/rpindyck/www/Papers/InvestUncertainCostJFE1993.pdf",
+   "abstract": null
+  },
+  {
+   "title": "The Comovement of Stock Prices",
+   "authors": [
+    "Robert S. Pindyck",
+    "Julio Rotemberg"
+   ],
+   "year": 1993,
+   "venue": "Quarterly Journal of Economics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Economic Instability and Aggregate Investment",
+   "authors": [
+    "Robert S. Pindyck",
+    "Andrés Solimano"
+   ],
+   "year": 1993,
+   "venue": "NBER Macroeconomics Annual",
+   "status": "已发表",
+   "url": "http://web.mit.edu/rpindyck/www/Papers/EconomicInstabilityNBERMacroAnnual1993.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Investments in Flexible Production Capacity",
+   "authors": [
+    "Hua He",
+    "Robert S. Pindyck"
+   ],
+   "year": 1992,
+   "venue": "Journal of Economic Dynamics and Control",
+   "status": "已发表",
+   "url": "http://web.mit.edu/rpindyck/www/Papers/InvestmentsFlexibleProdCapacityJEDC1992.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Irreversibility, Uncertainty, and Investment",
+   "authors": [
+    "Robert S. Pindyck"
+   ],
+   "year": 1991,
+   "venue": "Journal of Economic Literature",
+   "status": "已发表",
+   "url": "http://web.mit.edu/rpindyck/www/Papers/IrreverUncertInvestmentJEL1991.pdf",
+   "abstract": null
+  },
+  {
+   "title": "The Excess Co-movement of Commodity Prices",
+   "authors": [
+    "Robert S. Pindyck",
+    "Julio Rotemberg"
+   ],
+   "year": 1990,
+   "venue": "The Economic Journal",
+   "status": "已发表",
+   "url": "http://web.mit.edu/rpindyck/www/Papers/ExcessComovementCommodPricesEJ1990.pdf",
+   "abstract": null
+  },
+  {
+   "title": "The Learning Curve and Optimal Production under Uncertainty",
+   "authors": [
+    "Saman Majd",
+    "Robert S. Pindyck"
+   ],
+   "year": 1989,
+   "venue": "RAND Journal of Economics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Irreversible Investment, Capacity Choice, and the Value of the Firm",
+   "authors": [
+    "Robert S. Pindyck"
+   ],
+   "year": 1988,
+   "venue": "American Economic Review",
+   "status": "已发表",
+   "url": "http://web.mit.edu/rpindyck/www/Papers/IrreversibleInvestmentCapacityAER1988.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Risk Aversion and Determinants of Stock Market Behavior",
+   "authors": [
+    "Robert S. Pindyck"
+   ],
+   "year": 1988,
+   "venue": "Review of Economics and Statistics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Time to Build, Option Value, and Investment Decisions",
+   "authors": [
+    "Saman Majd",
+    "Robert S. Pindyck"
+   ],
+   "year": 1987,
+   "venue": "Journal of Financial Economics",
+   "status": "已发表",
+   "url": "http://web.mit.edu/rpindyck/www/Papers/TimetoBuildOptionValueJFE1987.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Are Imports to Blame? Attribution of Injury under the 1974 Trade Act",
+   "authors": [
+    "Robert S. Pindyck",
+    "Julio Rotemberg"
+   ],
+   "year": 1987,
+   "venue": "Journal of Law and Economics",
+   "status": "已发表",
+   "url": "http://web.mit.edu/rpindyck/www/Papers/AreImportsToBlameJLE1987.pdf",
+   "abstract": null
+  },
+  {
+   "title": "On Monopoly Power in Extractive Resource Markets",
+   "authors": [
+    "Robert S. Pindyck"
+   ],
+   "year": 1987,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Measurement of Monopoly Power in Dynamic Markets",
+   "authors": [
+    "Robert S. Pindyck"
+   ],
+   "year": 1985,
+   "venue": "Journal of Law and Economics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Energy Shocks and the Macroeconomy",
+   "authors": [
+    "Robert S. Pindyck",
+    "Julio Rotemberg"
+   ],
+   "year": 1984,
+   "venue": "Natural Resources Journal",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Uncertainty in the Theory of Renewable Resource Markets",
+   "authors": [
+    "Robert S. Pindyck"
+   ],
+   "year": 1984,
+   "venue": "Review of Economic Studies",
+   "status": "已发表",
+   "url": "http://web.mit.edu/rpindyck/www/Papers/UncertRenewableResourceMarketsRES1984.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Risk, Inflation, and the Stock Market",
+   "authors": [
+    "Robert S. Pindyck"
+   ],
+   "year": 1984,
+   "venue": "American Economic Review",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Dynamic Factor Demands under Rational Expectations",
+   "authors": [
+    "Robert S. Pindyck",
+    "Julio Rotemberg"
+   ],
+   "year": 1983,
+   "venue": "Scandinavian Journal of Economics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Dynamic Factor Demands and the Effects of Energy Price Shocks",
+   "authors": [
+    "Robert S. Pindyck",
+    "Julio Rotemberg"
+   ],
+   "year": 1983,
+   "venue": "American Economic Review",
+   "status": "已发表",
+   "url": "http://web.mit.edu/rpindyck/www/Papers/DynamicFactorDemands-AER-1983.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Adjustment Costs, Uncertainty, and the Behavior of the Firm",
+   "authors": [
+    "Robert S. Pindyck"
+   ],
+   "year": 1982,
+   "venue": "American Economic Review",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Optimal Phasing of Phased Deregulation",
+   "authors": [
+    "Robert S. Pindyck"
+   ],
+   "year": 1982,
+   "venue": "Journal of Economic Dynamics and Control",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Jointly Produced Exhaustible Resources",
+   "authors": [
+    "Robert S. Pindyck"
+   ],
+   "year": 1982,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "http://web.mit.edu/rpindyck/www/Papers/JointlyProducedExhaustResourcesJEEM1982.pdf",
+   "abstract": null
+  },
+  {
+   "title": "The Optimal Production of an Exhaustible Resource When Price Is Exogenous and Stochastic",
+   "authors": [
+    "Robert S. Pindyck"
+   ],
+   "year": 1981,
+   "venue": "Scandinavian Journal of Economics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Models of Resource Markets and the Explanation of Resource Price Behavior",
+   "authors": [
+    "Robert S. Pindyck"
+   ],
+   "year": 1981,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Pricing of Durable Exhaustible Resources",
+   "authors": [
+    "David Levhari",
+    "Robert S. Pindyck"
+   ],
+   "year": 1981,
+   "venue": "Quarterly Journal of Economics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "International Comparisons of the Residential Demand for Energy",
+   "authors": [
+    "Robert S. Pindyck"
+   ],
+   "year": 1980,
+   "venue": "European Economic Review",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Energy Price Increases and Macroeconomic Policy",
+   "authors": [
+    "Robert S. Pindyck"
+   ],
+   "year": 1980,
+   "venue": "The Energy Journal",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Uncertainty and Exhaustible Resource Markets",
+   "authors": [
+    "Robert S. Pindyck"
+   ],
+   "year": 1980,
+   "venue": "Journal of Political Economy",
+   "status": "已发表",
+   "url": "http://web.mit.edu/rpindyck/www/Papers/UncertExhaustResourceJPE1980.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Interfuel Substitution and the Industrial Demand for Energy: An International Comparison",
+   "authors": [
+    "Robert S. Pindyck"
+   ],
+   "year": 1979,
+   "venue": "Review of Economics and Statistics",
+   "status": "已发表",
+   "url": "http://web.mit.edu/rpindyck/www/Papers/InterfuelSubstitution-REStat-1979[62].pdf",
+   "abstract": null
+  },
+  {
+   "title": "The Cartelization of World Commodity Markets",
+   "authors": [
+    "Robert S. Pindyck"
+   ],
+   "year": 1979,
+   "venue": "American Economic Review",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Some Long-Term Problems in OPEC Oil Pricing",
+   "authors": [
+    "Robert S. Pindyck"
+   ],
+   "year": 1979,
+   "venue": "Journal of Energy and Development",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Gains to Producers from the Cartelization of Exhaustible Resources",
+   "authors": [
+    "Robert S. Pindyck"
+   ],
+   "year": 1978,
+   "venue": "Review of Economics and Statistics",
+   "status": "已发表",
+   "url": "http://web.mit.edu/rpindyck/www/Papers/GainsToProducers-REStat-1978[98].pdf",
+   "abstract": null
+  },
+  {
+   "title": "The Optimal Exploration and Production of Nonrenewable Resources",
+   "authors": [
+    "Robert S. Pindyck"
+   ],
+   "year": 1978,
+   "venue": "Journal of Political Economy",
+   "status": "已发表",
+   "url": "http://web.mit.edu/rpindyck/www/Papers/OptExplorProductionJPE1978.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Cartel Pricing and the Structure of the World Bauxite Market",
+   "authors": [
+    "Robert S. Pindyck"
+   ],
+   "year": 1977,
+   "venue": "Bell Journal of Economics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Optimal Stabilization Policies under Decentralized Control and Conflicting Objectives",
+   "authors": [
+    "Robert S. Pindyck"
+   ],
+   "year": 1977,
+   "venue": "IEEE Transactions on Automatic Control",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Higher Energy Prices and the Supply of Natural Gas",
+   "authors": [
+    "Robert S. Pindyck"
+   ],
+   "year": 1977,
+   "venue": "Energy Systems and Policy",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Cost of Conflicting Objectives in Policy Formulation",
+   "authors": [
+    "Robert S. Pindyck"
+   ],
+   "year": 1976,
+   "venue": "Annals of Economic and Social Measurement",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Instruments, Intermediate Targets, and Monetary Controllability",
+   "authors": [
+    "Robert S. Pindyck",
+    "Steven M. Roberts"
+   ],
+   "year": 1976,
+   "venue": "International Economic Review",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Pricing Policies for a Two-Part Exhaustible Resource Cartel: The Case of OPEC",
+   "authors": [
+    "Esteban Hnyilicza",
+    "Robert S. Pindyck"
+   ],
+   "year": 1976,
+   "venue": "European Economic Review",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "An Optimal Control Model for Multi-Sectoral Investment Planning in Tunisia",
+   "authors": [
+    "Robert S. Pindyck",
+    "André Martens"
+   ],
+   "year": 1975,
+   "venue": "Journal of Development Economics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Regulatory Implications of Three Alternative Econometric Supply Models of Natural Gas",
+   "authors": [
+    "Robert S. Pindyck"
+   ],
+   "year": 1974,
+   "venue": "Bell Journal of Economics and Management Science",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Econometrics of U.S. Natural Gas and Oil Markets",
+   "authors": [
+    "Robert S. Pindyck"
+   ],
+   "year": 1974,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Optimal Policies for Monetary Control",
+   "authors": [
+    "Robert S. Pindyck",
+    "Steven M. Roberts"
+   ],
+   "year": 1974,
+   "venue": "Annals of Economic and Social Measurement",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Alternative Regulatory Policies for Dealing with the Natural Gas Shortage",
+   "authors": [
+    "Paul W. MacAvoy",
+    "Robert S. Pindyck"
+   ],
+   "year": 1973,
+   "venue": "Bell Journal of Economics and Management Science",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Optimal Policies for Economic Stabilization",
+   "authors": [
+    "Robert S. Pindyck"
+   ],
+   "year": 1973,
+   "venue": "Econometrica",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A Generalized Approach to Estimation for the TROLL/1 System",
+   "authors": [
+    "Mark Eisner",
+    "Robert S. Pindyck"
+   ],
+   "year": 1973,
+   "venue": "Annals of Economic and Social Measurement",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Optimal Stabilization Policies via Deterministic Control",
+   "authors": [
+    "Robert S. Pindyck"
+   ],
+   "year": 1972,
+   "venue": "Annals of Economic and Social Measurement",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Discrete-Time Tracking Problem with a Time-Delay in the Control",
+   "authors": [
+    "Robert S. Pindyck"
+   ],
+   "year": 1972,
+   "venue": "IEEE Transactions on Automatic Control",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Application of the Linear-Quadratic Tracking Problem to Economic Stabilization Policy",
+   "authors": [
+    "Robert S. Pindyck"
+   ],
+   "year": 1972,
+   "venue": "IEEE Transactions on Automatic Control",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  }
+ ]
+}

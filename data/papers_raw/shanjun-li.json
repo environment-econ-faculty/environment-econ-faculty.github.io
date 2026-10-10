@@ -1,0 +1,836 @@
+{
+ "slug": "shanjun-li",
+ "name": "Shanjun Li",
+ "sources": [
+  "https://shanjunli6.github.io/CV/CV_Jan2026.pdf",
+  "https://shanjunli6.github.io/research.html"
+ ],
+ "collected": "2026-10-10",
+ "notes": "Main list from CV dated Jan 2026 (newer than the July 2025 CV in the task file); one R&R paper (From Trade War to Green Transition, NBER w35334) added from the research page. URLs from research page where available. Excluded from \"Other publications\": special-issue introductions, NBER Reporter piece, Nature comment, op-ed. No abstracts on the site. Working papers without a year on the CV have year null.",
+ "papers": [
+  {
+   "title": "Attribute-Based Subsidies and Market Power: An Application to Electric Vehicles",
+   "authors": [
+    "Panle Jia Barwick",
+    "Hyuk-soo Kwon",
+    "Shanjun Li"
+   ],
+   "year": null,
+   "venue": "Revise & Resubmit, Journal of Political Economy",
+   "status": "修改重投",
+   "url": "https://www.nber.org/papers/w32264",
+   "abstract": null
+  },
+  {
+   "title": "Drive Down the Cost: Learning by Doing and Government Policies in the Global EV Battery Industry",
+   "authors": [
+    "Panle Jia Barwick",
+    "Hyuk-Soo Kwon",
+    "Shanjun Li",
+    "Nahim B. Zahur"
+   ],
+   "year": null,
+   "venue": "Revise & Resubmit, American Economic Review",
+   "status": "修改重投",
+   "url": "http://www.nber.org/papers/w33378",
+   "abstract": null
+  },
+  {
+   "title": "From Trade War to Green Transition: Optimal Electric Vehicle Tariffs with Revenue-Funded Subsidies",
+   "authors": [
+    "Panle Jia Barwick",
+    "Jack Collison",
+    "Penny Goldberg",
+    "Shanjun Li",
+    "Yucheng Wang"
+   ],
+   "year": null,
+   "venue": "Revise & Resubmit, Quarterly Journal of Economics; NBER Working Paper No. 35334",
+   "status": "修改重投",
+   "url": "https://www.nber.org/papers/w35334",
+   "abstract": null
+  },
+  {
+   "title": "Transportation Networks, Short-term Mobility, and Pollution Exposure: Evidence from High-Speed Rail",
+   "authors": [
+    "Deyu Rao",
+    "Yatang Lin",
+    "Panle Jia Barwick",
+    "Dave Donaldson",
+    "Shanjun Li"
+   ],
+   "year": null,
+   "venue": null,
+   "status": "工作论文",
+   "url": "https://www.nber.org/papers/w30462",
+   "abstract": null
+  },
+  {
+   "title": "Climate Change and Market Power",
+   "authors": [
+    "Jack Ma",
+    "Hui Zhou",
+    "Wangyang Lai",
+    "Ivan Rudik",
+    "Shanjun Li"
+   ],
+   "year": null,
+   "venue": null,
+   "status": "工作论文",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Range Anxiety",
+   "authors": [
+    "Panle Jia Barwick",
+    "Shanjun Li",
+    "Tianli Xia"
+   ],
+   "year": null,
+   "venue": null,
+   "status": "工作论文",
+   "url": "https://www.nber.org/papers/w34871",
+   "abstract": null
+  },
+  {
+   "title": "Dynamic Inefficiency in Resource Allocation: Evidence from Vehicle License Allocations in Beijing",
+   "authors": [
+    "Youming Liu",
+    "Shanjun Li",
+    "Caixia Shen"
+   ],
+   "year": 2026,
+   "venue": "Rand Journal of Economics (forthcoming)",
+   "status": "即将发表",
+   "url": "https://www.nber.org/papers/w26904",
+   "abstract": null
+  },
+  {
+   "title": "Industrial Policies and Innovation: Evidence from the Global Automobile Industry",
+   "authors": [
+    "Panle Jia Barwick",
+    "Hyuk-Soo Kwon",
+    "Shanjun Li",
+    "Yucheng Wang",
+    "Nahim B. Zahur"
+   ],
+   "year": 2026,
+   "venue": "International Journal of Industrial Organization (forthcoming)",
+   "status": "即将发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Entry Deregulation, Market Turnover, and Efficiency: China's Business Registration Reform",
+   "authors": [
+    "Panle Jia Barwick",
+    "Luming Chen",
+    "Shanjun Li",
+    "Xiaobo Zhang"
+   ],
+   "year": 2026,
+   "venue": "Review of Economics and Statistics (forthcoming)",
+   "status": "即将发表",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4090077",
+   "abstract": null
+  },
+  {
+   "title": "The Healthcare Cost of Air Pollution: Evidence from the World's Largest Payment Network",
+   "authors": [
+    "Panle Jia Barwick",
+    "Shanjun Li",
+    "Deyu Rao",
+    "Nahim bin Zahur"
+   ],
+   "year": 2026,
+   "venue": "Review of Economics and Statistics (forthcoming)",
+   "status": "即将发表",
+   "url": "https://www.nber.org/papers/w24688",
+   "abstract": null
+  },
+  {
+   "title": "Quid Pro Quo, Knowledge Spillovers, and Industrial Quality Upgrading: Chinese Auto Industry",
+   "authors": [
+    "Jie Bai",
+    "Panle Jia Barwick",
+    "Shengmao Cao",
+    "Shanjun Li"
+   ],
+   "year": 2025,
+   "venue": "American Economic Review, 115(11): 3825-3852, 2025",
+   "status": "已发表",
+   "url": "https://www.nber.org/papers/w27644",
+   "abstract": null
+  },
+  {
+   "title": "Efficiency and Equity Impacts of Urban Transportation Policies with Equilibrium Sorting",
+   "authors": [
+    "Panle Jia Barwick",
+    "Shanjun Li",
+    "Andrew Waxman",
+    "Jing Wu",
+    "Tianli Xia"
+   ],
+   "year": 2024,
+   "venue": "American Economic Review, 114(10): 3161-3205, 2024",
+   "status": "已发表",
+   "url": "https://www.nber.org/papers/w29012",
+   "abstract": null
+  },
+  {
+   "title": "Decarbonizing passenger transportation in developing countries: Lessons and perspectives",
+   "authors": [
+    "Shanjun Li",
+    "Binglin Wang",
+    "Hui Zhou"
+   ],
+   "year": 2024,
+   "venue": "Regional Science and Urban Economics, 107, 2024",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Impact of Road Rationing on Housing Demand and Sorting",
+   "authors": [
+    "Rhiannon Jerch",
+    "Panle Jia Barwick",
+    "Shanjun Li",
+    "Jing Wu"
+   ],
+   "year": 2024,
+   "venue": "Journal of Urban Economics, 140: 103642, 2024",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "From Fog to Smog: the Value of Pollution Information",
+   "authors": [
+    "Panle Jia Barwick",
+    "Shanjun Li",
+    "Liguo Lin",
+    "Eric Zou"
+   ],
+   "year": 2024,
+   "venue": "American Economic Review, 114(5):1338-81, 2024",
+   "status": "已发表",
+   "url": "https://www.nber.org/papers/w26541",
+   "abstract": null
+  },
+  {
+   "title": "Commercial Casualties: Political Boycotts and International Disputes",
+   "authors": [
+    "Panle Jia Barwick",
+    "Shanjun Li",
+    "Jeremy Wallace",
+    "Jessica Weiss"
+   ],
+   "year": 2023,
+   "venue": "Journal of East Asian Studies , 23(3):387-410, 2023",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Coronavirus Pandemic and Unemployment: Evidence from Mobile Phone Data in China",
+   "authors": [
+    "Teng Li",
+    "Panle Jia Barwick",
+    "Yongheng Deng",
+    "Xinfei Huang",
+    "Shanjun Li"
+   ],
+   "year": 2023,
+   "venue": "Journal of Urban Economics, 135:103543, 2023",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Mortality Impact of Fine Particulate Matter in China: Evidence from Trade Shocks",
+   "authors": [
+    "Yazhen Gong",
+    "Shanjun Li",
+    "Nick Sanders",
+    "Guang Shi"
+   ],
+   "year": 2023,
+   "venue": "Journal of Environmental Economics and Management, 117:102759, 2023",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Cost of Greening Stimulus: A Dynamic Discrete Analysis of Vehicle Scrappage Programs",
+   "authors": [
+    "Shanjun Li",
+    "Youming Liu",
+    "Chao Wei"
+   ],
+   "year": 2022,
+   "venue": "International Economic Review, 63(4): 1561-1594, 2022",
+   "status": "已发表",
+   "url": "http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2254375",
+   "abstract": null
+  },
+  {
+   "title": "Designed Quadrature to Approximate Integrals in Maximum Simulated Likelihood Estimation",
+   "authors": [
+    "Prateek Bansal",
+    "Vahid Keshavarzzadeh",
+    "Angelo Guevara",
+    "Shanjun Li",
+    "Ricardo A. Daziano"
+   ],
+   "year": 2022,
+   "venue": "Econometrics Journal, 25(2): 301-321, 2022",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Adaptation Mitigates the Negative Effect of Temperature Shocks on Household Consumption",
+   "authors": [
+    "Wangyang Lai",
+    "Shanjun Li",
+    "Yanyan Liu",
+    "Panle Jia Barwick"
+   ],
+   "year": 2022,
+   "venue": "Nature Human Behaviour, March 17, 2022",
+   "status": "已发表",
+   "url": "https://www.nature.com/articles/s41562-022-01315-9",
+   "abstract": null
+  },
+  {
+   "title": "The Role of Government in the Market for Electric Vehicles: Evidence from China",
+   "authors": [
+    "Shanjun Li",
+    "Xianglie Zhu",
+    "Yiding Ma",
+    "Fan Zhang",
+    "Hui Zhou"
+   ],
+   "year": 2022,
+   "venue": "Journal of Policy Analysis and Management, 41(2): 450-485, 2022",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Agricultural Fires and Cognitive Function: Evidence from Crop Production Cycles",
+   "authors": [
+    "Wangyang Lai",
+    "Shanjun Li",
+    "Yanan Li",
+    "Xiaohui Tian"
+   ],
+   "year": 2022,
+   "venue": "American Journal of Agricultural Economics, 104(1): 190-208, 2022",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Consumer Boycotts, Country of Origin, and Product Competition",
+   "authors": [
+    "Qi Sun",
+    "Fang Wu",
+    "Shanjun Li",
+    "Raj Grewal"
+   ],
+   "year": 2021,
+   "venue": "Management Science, 67(9):5857-5877, 2021",
+   "status": "已发表",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3142667",
+   "abstract": null
+  },
+  {
+   "title": "Local Protectionism, Market Structure, and Social Welfare: China's Automobile Market",
+   "authors": [
+    "Panle Jia Barwick",
+    "Shengmao Cao",
+    "Shanjun Li"
+   ],
+   "year": 2021,
+   "venue": "American Economic Journal: Economic Policy, 13(4): 112-151,2021",
+   "status": "已发表",
+   "url": "http://www.nber.org/papers/w23678",
+   "abstract": null
+  },
+  {
+   "title": "China's War on Pollution: Evidence from the First Five Years",
+   "authors": [
+    "Michael Greenstone",
+    "Guojun He",
+    "Shanjun Li",
+    "Eric Zou"
+   ],
+   "year": 2021,
+   "venue": "Review of Environmental Economics and Policy, 15(2):281-299, 2021",
+   "status": "已发表",
+   "url": "https://www.nber.org/papers/w28467",
+   "abstract": null
+  },
+  {
+   "title": "What Does an Electric Vehicle Replace?",
+   "authors": [
+    "Jianwei Xing",
+    "Ben Leard",
+    "Shanjun Li"
+   ],
+   "year": 2021,
+   "venue": "Journal of Environmental Economics and Management, 107:102432, 2021",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Transportation and the Environment in Developing Countries",
+   "authors": [
+    "Shanjun Li",
+    "Jianwei Xing",
+    "Lin Yang",
+    "Fan Zhang"
+   ],
+   "year": 2020,
+   "venue": "Annual Review of Resource Economics, 12:389-409, 2020",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Tightening Belts to Buy a Home: Consumption Responses to Rising Housing Prices",
+   "authors": [
+    "Andrew Waxman",
+    "Yuanning Liang",
+    "Shanjun Li",
+    "Panle Jia Barwick",
+    "Meng Zhao"
+   ],
+   "year": 2020,
+   "venue": "Journal of Urban Economics, 115: 103190, 2020",
+   "status": "已发表",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3244054",
+   "abstract": null
+  },
+  {
+   "title": "The Marginal Cost of Traffic Congestion: Evidence from a Natural Experiment in Beijing",
+   "authors": [
+    "Jun Yang",
+    "Avralt-od Purevjav",
+    "Shanjun Li"
+   ],
+   "year": 2020,
+   "venue": "American Economic Journal: Economic Policy, 12(1): 418-453, 2020",
+   "status": "已发表",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2948619",
+   "abstract": null
+  },
+  {
+   "title": "Does Subway Expansion Improve Air Quality?",
+   "authors": [
+    "Shanjun Li",
+    "Yanyan Liu",
+    "Avralt-Od Purevjav",
+    "Lin Yang"
+   ],
+   "year": 2019,
+   "venue": "Journal of Environmental Economics and Management, 96: 213-235, 2019",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/pii/S0095069618309173",
+   "abstract": null
+  },
+  {
+   "title": "Brand Names and Consumer Demand: Evidence from China's Automobile Market",
+   "authors": [
+    "Qi Sun",
+    "Fang Wu",
+    "Raj Grewal",
+    "Shanjun Li"
+   ],
+   "year": 2019,
+   "venue": "Journal of Marketing Research, 56(1):158-175, 2019",
+   "status": "已发表",
+   "url": "https://journals.sagepub.com/doi/full/10.1177/0022243718820571",
+   "abstract": null
+  },
+  {
+   "title": "Dynamics of Technology Adoption and the Critical Mass in the Market for Electric Vehicles",
+   "authors": [
+    "Yiyi Zhou",
+    "Shanjun Li"
+   ],
+   "year": 2018,
+   "venue": "Journal of Industrial Economics, 2: 423-480, 2018",
+   "status": "已发表",
+   "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/joie.12176",
+   "abstract": null
+  },
+  {
+   "title": "Better Lucky than Rich? Welfare Analysis of Vehicle License Allocations in Beijing and Shanghai",
+   "authors": [
+    "Shanjun Li"
+   ],
+   "year": 2018,
+   "venue": "Review of Economic Studies, 85(4): 2389-2428, 2018",
+   "status": "已发表",
+   "url": "https://academic.oup.com/restud/article/85/4/2389/4638454",
+   "abstract": null
+  },
+  {
+   "title": "The Efficiency of Local Government: The Role of Privatization and Public Sector Unions",
+   "authors": [
+    "Rhiannon Jerch",
+    "Matthew E. Kahn",
+    "Shanjun Li"
+   ],
+   "year": 2017,
+   "venue": "Journal of Public Economics, 154: 95-121, 2017",
+   "status": "已发表",
+   "url": "https://ideas.repec.org/p/nbr/nberwo/22088.html",
+   "abstract": null
+  },
+  {
+   "title": "The Market for Electric Vehicles: Indirect Network Effects and Policy Impacts",
+   "authors": [
+    "Shanjun Li",
+    "Lang Tong",
+    "Jianwei Xing",
+    "Yiyi Zhou"
+   ],
+   "year": 2017,
+   "venue": "Journal of the Association of Environmental and Resource Economists, 4(1): 89-133, 2017",
+   "status": "已发表",
+   "url": "http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2515037",
+   "abstract": null
+  },
+  {
+   "title": "Efficiency and Environmental Impacts of Electricity Market Restructuring on Coal-fired Power Plants",
+   "authors": [
+    "Ron Chan",
+    "Harrison Fell",
+    "Ian Lange",
+    "Shanjun Li"
+   ],
+   "year": 2017,
+   "venue": "Journal of Environmental Economics and Management, 81: 1-18, 2017",
+   "status": "已发表",
+   "url": "http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2243451",
+   "abstract": null
+  },
+  {
+   "title": "Wheels of Fortune: Subway Expansion and Property Values in Beijing",
+   "authors": [
+    "Shanjun Li",
+    "Jun Yang",
+    "Ping Qin",
+    "Shun Chonabayashi"
+   ],
+   "year": 2016,
+   "venue": "Journal of Regional Science, 56(5), 792-813, 2016",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Market Dynamics of Electric Vehicle Adoption",
+   "authors": [
+    "Zhe Yu",
+    "Shanjun Li",
+    "Lang Tong"
+   ],
+   "year": 2016,
+   "venue": "Transportation Research Part D, 47: 336-356, 2016",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Public Bus Procurement: The Role of Regulation, Energy Prices and Federal Subsidies",
+   "authors": [
+    "Shanjun Li",
+    "Matthew E. Kahn",
+    "Jerry Nickelsburg"
+   ],
+   "year": 2015,
+   "venue": "Journal of Urban Economics, 87: 57-71, 2015",
+   "status": "已发表",
+   "url": "http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2393806",
+   "abstract": null
+  },
+  {
+   "title": "The Price Evolution of China's Automobile Market",
+   "authors": [
+    "Shanjun Li",
+    "Junji Xiao",
+    "Yimin Liu"
+   ],
+   "year": 2015,
+   "venue": "Journal of Economics & Management Strategy, 24(4), 2015",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Assessing the Role of Renewable Energy Policies in Landfill Gas to Energy Projects",
+   "authors": [
+    "Shanjun Li",
+    "Han Kyul Yoo",
+    "Molly Macauley",
+    "Karen Palmer",
+    "Jhih-Shyang Shih"
+   ],
+   "year": 2015,
+   "venue": "Energy Economics, 49: 687-697, 2015",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Are Physicians' Prescribing Decisions Sensitive to Drug Prices?",
+   "authors": [
+    "Shanjun Li",
+    "Ramanan Laxminarayan"
+   ],
+   "year": 2015,
+   "venue": "Health Economics, 24(2):158-174, 2015",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A New Look at Residential Electricity Demand Using Household Expenditure Data",
+   "authors": [
+    "Harrison Fell",
+    "Shanjun Li",
+    "Anthony Paul"
+   ],
+   "year": 2014,
+   "venue": "International Journal of Industrial Organization 33: 37-47, 2014",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Gasoline Taxes and Consumer Behavior",
+   "authors": [
+    "Shanjun Li",
+    "Joshua Linn",
+    "Erich Muehlegger"
+   ],
+   "year": 2014,
+   "venue": "American Economic Journal: Economic Policy, 6(4):302-342, 2014",
+   "status": "已发表",
+   "url": "http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2010202",
+   "abstract": null
+  },
+  {
+   "title": "How Should Different Countries Tax Fuels to Correct Environmental Externalities?",
+   "authors": [
+    "Ian Parry",
+    "Dirk Heine",
+    "Shanjun Li",
+    "Eliza Lis"
+   ],
+   "year": 2014,
+   "venue": "Economics of Energy & Environmental Policy, 3(2), 2014",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "How Important Are Endogenous Peer Effects in Group Lending? Estimating a Static Game",
+   "authors": [
+    "Shanjun Li",
+    "Yanyan Liu",
+    "Klaus Deininger"
+   ],
+   "year": 2013,
+   "venue": "Journal of Applied Econometrics, 28(5): 864-882, 2013",
+   "status": "已发表",
+   "url": "pdf/jae_grouplending.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Evaluating \"Cash-for-Clunkers\": Program Effects on Auto Sales and the Environment",
+   "authors": [
+    "Shanjun Li",
+    "Joshua Linn",
+    "Elisheba Spiller"
+   ],
+   "year": 2013,
+   "venue": "Journal of Environmental Economics and Management, 65(2): 165-193, 2013",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Firm Competitiveness and EU Emissions Trading System",
+   "authors": [
+    "Ron Chan",
+    "Shanjun Li",
+    "Fan Zhang"
+   ],
+   "year": 2013,
+   "venue": "Energy Policy, 63: 1056-1064, 2013",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Traffic Safety and Vehicle Choice: Quantifying the Arms Race on American Roads",
+   "authors": [
+    "Shanjun Li"
+   ],
+   "year": 2012,
+   "venue": "Journal of Applied Econometrics, 27(1): 34-62, 2012",
+   "status": "已发表",
+   "url": "pdf/JAE_2012.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Is There an Energy Paradox in Fuel Economy?",
+   "authors": [
+    "Antonio Bento",
+    "Shanjun Li",
+    "Kevin Roth"
+   ],
+   "year": 2012,
+   "venue": "Economics Letters, 115(1): 44-48, 2012",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Cost-Effectiveness of Electricity Energy Efficiency Programs",
+   "authors": [
+    "Toshi Arimura",
+    "Shanjun Li",
+    "Richard Newell",
+    "Karen Palmer"
+   ],
+   "year": 2012,
+   "venue": "Energy Journal, 33(2): 63-99, 2012",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Lose Some, Save Some: Obesity, Automobile Demand, and Gasoline Consumption",
+   "authors": [
+    "Shanjun Li",
+    "Yanyan Liu",
+    "Junjie Zhang"
+   ],
+   "year": 2011,
+   "venue": "Journal of Environmental Economics and Management, 61(1): 52-66, 2011",
+   "status": "已发表",
+   "url": "pdf/JEEM_2011.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Gasoline Prices, Government Support, and the Demand for Hybrid Vehicles",
+   "authors": [
+    "Arie Beresteanu",
+    "Shanjun Li"
+   ],
+   "year": 2011,
+   "venue": "International Economic Review, 52(1): 161-182, 2011",
+   "status": "已发表",
+   "url": "pdf/IER_2011.pdf",
+   "abstract": null
+  },
+  {
+   "title": "How Do Gasoline Prices Affect Fleet Fuel Economy?",
+   "authors": [
+    "Shanjun Li",
+    "Chris Timmins",
+    "Roger von Haefen"
+   ],
+   "year": 2009,
+   "venue": "American Economic Journal: Economic Policy, 1(2): 113-137, 2009",
+   "status": "已发表",
+   "url": "pdf/AEJ_2009.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Policies for Electrifying the Light-Duty Vehicle Fleet in the United States",
+   "authors": [
+    "Cassandra Cole",
+    "Michael Droste",
+    "Christopher Knittel",
+    "Shanjun Li",
+    "James Stock"
+   ],
+   "year": 2023,
+   "venue": "AEA: Papers and Proceedings, 113:316-322, May 2023",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Environmental Protection or Environmental Protectionism? Tailpipe Emission Standards in China",
+   "authors": [
+    "Jie Bai",
+    "Shanjun Li",
+    "Danxia Xie",
+    "Hui Zhou"
+   ],
+   "year": 2021,
+   "venue": "AEA: Papers and Proceedings, 111: 381-385, 2021",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Mobility as a Service (MaaS): The Importance of Transportation Psychology",
+   "authors": [
+    "Geoff Tomaino",
+    "Jasper Teow",
+    "Ziv Carmon",
+    "Leonard Lee",
+    "Moshe Ben-Akiva",
+    "Charlene Chen",
+    "Wai Yan Leong",
+    "Shanjun Li",
+    "Nan Yang",
+    "Jinhua Zhao"
+   ],
+   "year": 2020,
+   "venue": "Marketing Letters, 31: 419-428, 2020",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "On market dynamics of electric vehicle diffusion",
+   "authors": [
+    "Zhe Yu",
+    "Lang Tong",
+    "Shanjun Li"
+   ],
+   "year": 2014,
+   "venue": "52nd Annual Allerton Conference on Communication, Control, and Computing, 1051-1057, 2014",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Getting Energy Prices Right: from Principle to Practice",
+   "authors": [
+    "Ian Parry",
+    "Eliza Lis",
+    "Dirk Heine",
+    "Shanjun Li"
+   ],
+   "year": 2014,
+   "venue": "International Monetary Fund Press, Book (183 pages), 2014",
+   "status": "已发表",
+   "url": "http://www.elibrary.imf.org/view/IMF071/21171-9781484388570/21171-9781484388570/21171-9781484388570.xml?rskey=kHyJS5&result=1&highlight=true",
+   "abstract": null
+  }
+ ]
+}

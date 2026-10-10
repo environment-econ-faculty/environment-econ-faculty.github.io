@@ -1,0 +1,47 @@
+{
+ "slug": "karl-m-aspelund",
+ "name": "Karl M. Aspelund",
+ "sources": [
+  "https://karlaspelund.github.io",
+  "https://karlaspelund.github.io/papers/Aspelund_CV.pdf"
+ ],
+ "collected": "2026-10-10",
+ "notes": "Homepage + CV. AER year not shown on page (set to 2025, approximate). 'Diagnosing Spatial Policies' listed as working paper in CV (research-in-progress on site, abstract shown, no PDF). Skipped works in progress without drafts.",
+ "papers": [
+  {
+   "title": "Additionality and Asymmetric Information in Environmental Markets: Evidence from Conservation Auctions",
+   "authors": [
+    "Karl M. Aspelund",
+    "Anna Russo"
+   ],
+   "year": 2025,
+   "venue": "American Economic Review (lead article)",
+   "status": "已发表",
+   "url": "https://karlaspelund.github.io/papers/aspelund_russo_crp.pdf",
+   "abstract": "Market mechanisms aim to reduce environmental degradation at low cost, but they are undermined when participants' conservation actions are not marginal to the incentive — or \"additional\" — as the lowest-cost participants may not offer the highest social value. We investigate this challenge in the Conservation Reserve Program’s auction mechanism for ecosystem services, linking bids to satellite-derived land use. Three-quarters of marginal auction winners are not additional. The heterogeneity in counterfactual land use introduces adverse selection. We develop a model of bidding and additionality to quantify welfare implications. Alternative auctions increase efficiency by using scoring rules that incorporate expected land use impacts."
+  },
+  {
+   "title": "Redistribution in Environmental Permit Markets: Transfers and Efficiency Costs with Trade Restrictions",
+   "authors": [
+    "Karl M. Aspelund"
+   ],
+   "year": 2025,
+   "venue": null,
+   "status": "工作论文",
+   "url": "https://karlaspelund.github.io/papers/aspelund_jmp_20dec25.pdf",
+   "abstract": "Regulators often impose trade restrictions in environmental permit markets, lowering gains from trade in order to redistribute to groups that do not directly benefit from permit trade, such as labor in regulated firms. I evaluate the efficiency and distributional impacts of two common trade restrictions in Iceland’s fisheries permit market: segmented trading by firm size and individual production requirements. Using detailed harvest and permit trading data linked to administrative records on worker employment and earnings, I conduct a difference-in-differences analysis showing that permit trade increases the harvest share of productive boats by 15 percentage points, shifts income from lowerto higher-income workers, and reduces aggregate labor demand by 12%. I further demonstrate that the trade restrictions, designed to counteract these labor impacts, are binding and lower productivity. To quantify the trade-offs from each restriction, I develop a model of fishery production and permit trading to simulate profits, labor demand, and worker earnings in permit market equilibria without the restrictions. The comparison reveals distinct benefits for each restriction: Per dollar of foregone profit, segmentation increases labor demand 20 times more than the production requirement, while the production requirement redistributes 14% more income to low-income workers than segmentation. Implementing both restrictions creates more jobs and higher-paying ones and even outperforms the production requirement alone."
+  },
+  {
+   "title": "Diagnosing Spatial Policies in a Changing Commons",
+   "authors": [
+    "Karl M. Aspelund",
+    "Aaron Berman"
+   ],
+   "year": 2026,
+   "venue": null,
+   "status": "工作论文",
+   "url": null,
+   "abstract": "How does the value of spatial regulation change as ecological variability increases due to climate change? We develop a framework that decomposes the regulator's recursive problem into three structurally distinct efficiency conditions—intratemporal, spatial, and intertemporal—while allowing for spatial substitution, heterogeneous ecological shocks, and distributional concerns. Applied to detailed ecological and harvest data in the U.S. Atlantic sea scallop fishery, we find that the existing set of closures, harvest limits in certain areas, and day restrictions is too lax overall and has substnatial spatial misallocation of harvests. Leakage destroys about 17\\% of the marginal value of future conservation. The regulations, meanwhile, implicitly under-value the resource stock year to year. Climate-induced changes in the resource amplifies each type of inefficiency, though slowing mean growth versus increasing variance and spatial correlation of ecological shocks play varying roles. The existing regulation can be rationalized statically by rather moderate inequality aversion and dynamically by a regulator using out-dated expectations over the level and correlation of resource growth over space."
+  }
+ ]
+}

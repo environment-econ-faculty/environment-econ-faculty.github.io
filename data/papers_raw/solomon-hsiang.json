@@ -1,0 +1,1248 @@
+{
+ "slug": "solomon-hsiang",
+ "name": "Solomon Hsiang",
+ "sources": [
+  "https://www.dropbox.com/scl/fi/2koz3xhoozco7h9ae4bh4/Hsiang_CV.pdf (CV dated July 2025, linked from homepage)",
+  "https://www.solomonhsiang.com/",
+  "https://cap.stanford.edu/profiles/viewCV?facultyId=206040&name=Solomon_Hsiang"
+ ],
+ "collected": "2026-10-10",
+ "notes": "Main list from the July 2025 CV linked on the homepage (newer than the Dec 2024 Stanford CAP CV). Statuses and URLs updated from homepage links (e.g., loss & damage now Nature 2026, HDI now Nature Communications 2026, robot-scanning pipeline now npj Heritage Science 2026, markets-adaptation paper in Science, Annual Review of Economics published). CV lists coauthors with initials only; kept as shown. Excluded: NCA5 and UN HDR report chapters, IPCC AR5 chapters, correspondence/letters, testimony, op-eds. CV is under 150 items so no date cutoff applied. No abstracts on homepage.",
+ "papers": [
+  {
+   "title": "Data anomalies and the economic commitment of climate change",
+   "authors": [
+    "T Bearpark",
+    "D Hogan",
+    "Solomon Hsiang"
+   ],
+   "year": 2025,
+   "venue": "Nature",
+   "status": "已发表",
+   "url": "https://www.nature.com/articles/s41586-025-09320-4",
+   "abstract": null
+  },
+  {
+   "title": "Estimating global impacts to agriculture from climate change accounting for adaptation",
+   "authors": [
+    "A Hultgren",
+    "T Carleton",
+    "M Delgado",
+    "DR Gergel",
+    "M Greenstone",
+    "T Houser",
+    "Solomon Hsiang",
+    "A Jina",
+    "RE Kopp",
+    "SB Malevich",
+    "KE McCusker",
+    "T Mayer",
+    "I Nath",
+    "J Rising",
+    "A Rode",
+    "J Yuan"
+   ],
+   "year": 2025,
+   "venue": "Nature",
+   "status": "已发表",
+   "url": "https://www.nature.com/articles/s41586-025-09085-w",
+   "abstract": null
+  },
+  {
+   "title": "The local damages from global climate change",
+   "authors": [
+    "T Carleton",
+    "M Greenstone",
+    "Solomon Hsiang",
+    "A Hultgren",
+    "R Kopp",
+    "K McCusker",
+    "I Nath",
+    "J Rising",
+    "A Rode"
+   ],
+   "year": 2025,
+   "venue": null,
+   "status": "工作论文",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Climate Change, Conflict, and the Risk of Economic Collapse in Africa",
+   "authors": [
+    "J Ferguson",
+    "M Burke",
+    "E Miguel",
+    "Solomon Hsiang"
+   ],
+   "year": 2025,
+   "venue": "NBER Working Paper No. 34320",
+   "status": "工作论文",
+   "url": "https://www.solomonhsiang.com/s/w34320_Furguson_Burke_Miguel_Hsiang_Conflict_GDP.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Strategies for Using Markets to Adapt to Climate Change",
+   "authors": [
+    "S Greenhill",
+    "Solomon Hsiang",
+    "C Balboni",
+    "L Barrage",
+    "I Bolliger",
+    "J Boomhower",
+    "D Diaz",
+    "H Druckenmiller",
+    "T Garg",
+    "M Hino",
+    "H Hong",
+    "C Kousky",
+    "J Martinich",
+    "I Nath",
+    "K Oremus",
+    "J Park",
+    "T Phan",
+    "J Proctor",
+    "W Rafey",
+    "M Sarofim",
+    "W Schlenker",
+    "B Simon"
+   ],
+   "year": 2025,
+   "venue": "Science",
+   "status": "已发表",
+   "url": "https://www.solomonhsiang.com/s/Greenhill_Markets_Adaptation.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Global Economic Impacts of Climate Change: An Empirical Perspective",
+   "authors": [
+    "Solomon Hsiang"
+   ],
+   "year": 2025,
+   "venue": "Annual Review of Economics",
+   "status": "已发表",
+   "url": "https://www.annualreviews.org/content/journals/10.1146/annurev-economics-102224-021145",
+   "abstract": null
+  },
+  {
+   "title": "What can satellite imagery and machine learning measure?",
+   "authors": [
+    "J Proctor",
+    "T Carleton",
+    "T Chong",
+    "T Fransen",
+    "S Greenhill",
+    "J Katz",
+    "H Murayama",
+    "L Sherman",
+    "J Tseng",
+    "H Druckenmiller",
+    "Solomon Hsiang"
+   ],
+   "year": 2025,
+   "venue": "NBER Working Paper No. 34315",
+   "status": "工作论文",
+   "url": "https://www.solomonhsiang.com/s/w34315_Proctor_Hsiang_SIML.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Empirically Distinguishing Health Impacts of Transboundary and Domestic Air Pollution in Mixture",
+   "authors": [
+    "J Lee",
+    "AJ Wilson",
+    "Solomon Hsiang"
+   ],
+   "year": 2025,
+   "venue": "NBER Working Paper 33379",
+   "status": "工作论文",
+   "url": "https://www.solomonhsiang.com/s/w33379_Lee_Wilson_Hsiang_Air_Pollution.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Destructive Behavior, Judgment, and Economic Decision-making Under Thermal Stress",
+   "authors": [
+    "I Almås",
+    "M Auffhammer",
+    "T Bold",
+    "I Bolliger",
+    "A Dembo",
+    "Solomon Hsiang",
+    "S Kitamura",
+    "E Miguel",
+    "R Pickmans"
+   ],
+   "year": 2025,
+   "venue": "The Economic Journal",
+   "status": "已发表",
+   "url": "https://academic.oup.com/ej/advance-article/doi/10.1093/ej/ueae116/7964900",
+   "abstract": null
+  },
+  {
+   "title": "A robot-assisted pipeline to rapidly scan 1.7 million historical aerial photographs",
+   "authors": [
+    "S Masson",
+    "A Potts",
+    "A Williams",
+    "S Berggreen",
+    "K McLaren",
+    "S Martin",
+    "E Noda",
+    "N Nordfors",
+    "N Ruecroft",
+    "H Druckenmiller",
+    "Solomon Hsiang",
+    "A Madestam",
+    "A Tompsett"
+   ],
+   "year": 2026,
+   "venue": "npj Heritage Science",
+   "status": "已发表",
+   "url": "https://www.nature.com/articles/s40494-026-02365-2",
+   "abstract": null
+  },
+  {
+   "title": "Mortality Caused by Tropical Cyclones in the United States",
+   "authors": [
+    "R Young",
+    "Solomon Hsiang"
+   ],
+   "year": 2024,
+   "venue": "Nature",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A machine-learning pipeline for merging and georeferencing very large archives of historical aerial photographs",
+   "authors": [
+    "E Noda",
+    "LY Huang",
+    "T Chong",
+    "S Jain",
+    "A Madestam",
+    "A Tompsett",
+    "H Druckenmiller",
+    "Solomon Hsiang"
+   ],
+   "year": 2024,
+   "venue": "IEEE International Conference on Big Data",
+   "status": "已发表",
+   "url": "https://ieeexplore.ieee.org/abstract/document/10825635",
+   "abstract": null
+  },
+  {
+   "title": "New Evidence on the Economics of Climate and Conflict",
+   "authors": [
+    "M Burke",
+    "J Ferguson",
+    "Solomon Hsiang",
+    "E Miguel"
+   ],
+   "year": 2024,
+   "venue": "NBER Working Paper 33040",
+   "status": "工作论文",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Are we adapting to climate change?",
+   "authors": [
+    "M Burke",
+    "M Zahid",
+    "M Martins",
+    "C Callahan",
+    "R Lee",
+    "T Avirmed",
+    "S Heft-Neal",
+    "M Kiang",
+    "Solomon Hsiang",
+    "D Lobell"
+   ],
+   "year": 2024,
+   "venue": "NBER Working Paper 32985",
+   "status": "工作论文",
+   "url": "https://www.nber.org/papers/w32985",
+   "abstract": null
+  },
+  {
+   "title": "Mainstreaming nature in US federal policy",
+   "authors": [
+    "H Tallis",
+    "EP Fenichel",
+    "L Petes",
+    "Solomon Hsiang",
+    "PS Levin",
+    "H Levy",
+    "J Lubchenco"
+   ],
+   "year": 2024,
+   "venue": "Science",
+   "status": "已发表",
+   "url": "https://www.science.org/doi/abs/10.1126/science.adp5394",
+   "abstract": null
+  },
+  {
+   "title": "Global Health and Economic Impacts of Behavior Change During the First Wave of the COVID-19 Pandemic",
+   "authors": [
+    "J Tseng",
+    "K Coy",
+    "C Ilin",
+    "A Ewing",
+    "T Chong",
+    "S Marks",
+    "I Bolliger",
+    "N Mejia Gonzalez",
+    "K Bell",
+    "A Hakim",
+    "Solomon Hsiang"
+   ],
+   "year": 2024,
+   "venue": null,
+   "status": "工作论文",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Quantifying climate change loss and damage consistent with a social cost of greenhouse gases",
+   "authors": [
+    "M Burke",
+    "M Zahid",
+    "N Diffenbaugh",
+    "Solomon Hsiang"
+   ],
+   "year": 2026,
+   "venue": "Nature 651, 959-966",
+   "status": "已发表",
+   "url": "https://www.nature.com/articles/s41586-026-10272-6",
+   "abstract": null
+  },
+  {
+   "title": "DSCIM-Coastal v1. 1: an open-source modeling platform for global impacts of sea level rise",
+   "authors": [
+    "N Depsky",
+    "I Bolliger",
+    "D Allen",
+    "JH Choi",
+    "M Delgado",
+    "M Greenstone",
+    "A Hamidi",
+    "T Houser",
+    "RE Kopp",
+    "Solomon Hsiang"
+   ],
+   "year": 2023,
+   "venue": "Geoscientific Model Development",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Global high-resolution estimates of the United Nations Human Development Index using satellite imagery and machine-learning",
+   "authors": [
+    "L Sherman",
+    "J Proctor",
+    "H Druckenmiller",
+    "H Tapia",
+    "Solomon Hsiang"
+   ],
+   "year": 2026,
+   "venue": "Nature Communications",
+   "status": "已发表",
+   "url": "https://www.nature.com/articles/s41467-026-68805-6",
+   "abstract": null
+  },
+  {
+   "title": "Valuing the Global Mortality Consequences of Climate Change Accounting for Adaptation Costs and Benefits",
+   "authors": [
+    "T Carleton",
+    "A Jina",
+    "M Delgado",
+    "M Greenstone",
+    "T Houser",
+    "Solomon Hsiang",
+    "A Hultgren",
+    "R Kopp",
+    "K McCusker",
+    "I Nath",
+    "J Rising",
+    "A Rode",
+    "HK Seo",
+    "J Simcock",
+    "A Viaene",
+    "J Yuan",
+    "A Zhang"
+   ],
+   "year": 2022,
+   "venue": "Quarterly Journal of Economics",
+   "status": "已发表",
+   "url": "https://academic.oup.com/qje/article-abstract/137/4/2037/6571943",
+   "abstract": null
+  },
+  {
+   "title": "The Welfare Economics of a Data Driven Social Cost of Carbon",
+   "authors": [
+    "I Nath",
+    "KE McCusker",
+    "I Bolliger",
+    "T Carleton",
+    "M Delgado",
+    "M Greenstone",
+    "T Houser",
+    "Solomon Hsiang",
+    "A Hultgren",
+    "A Jina",
+    "RE Kopp",
+    "J Rising",
+    "A Rode"
+   ],
+   "year": 2022,
+   "venue": null,
+   "status": "工作论文",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Labor disutility in a warmer world: The impact of climate change on the global workforce",
+   "authors": [
+    "A Rode",
+    "RE Baker",
+    "T Carleton",
+    "A D'Agostino",
+    "M Delgado",
+    "T Foreman",
+    "DR Gergel",
+    "M Greenstone",
+    "T Houser",
+    "Solomon Hsiang",
+    "A Hultgren",
+    "A Jina",
+    "RE Kopp",
+    "SB Malevich",
+    "KE McCusker",
+    "I Nath",
+    "M Pecenco",
+    "J Rising",
+    "J Yuan"
+   ],
+   "year": 2022,
+   "venue": "Revise & Resubmit, Journal of Political Economy",
+   "status": "修改重投",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Harmonized nitrogen and phosphorus concentrations in the Mississippi/Atchafalaya River Basin from 1980 to 2018",
+   "authors": [
+    "E Krasovich",
+    "P Lau",
+    "J Tseng",
+    "J Longmate",
+    "K Bell",
+    "Solomon Hsiang"
+   ],
+   "year": 2022,
+   "venue": "Scientific Data",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A Distribution of Human Attention to Moments in Time",
+   "authors": [
+    "S Annan-Phan",
+    "L Biardeau",
+    "Solomon Hsiang"
+   ],
+   "year": 2022,
+   "venue": "Revisions requested",
+   "status": "修改重投",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Estimating a Social Cost of Carbon for Global Energy Consumption",
+   "authors": [
+    "A Rode",
+    "T Carleton",
+    "M Delgado",
+    "M Greenstone",
+    "T Houser",
+    "Solomon Hsiang",
+    "A Hultgren",
+    "A Jina",
+    "R Kopp",
+    "K McCusker",
+    "I Nath",
+    "J Rising",
+    "J Yuan"
+   ],
+   "year": 2021,
+   "venue": "Nature",
+   "status": "已发表",
+   "url": "https://www.nature.com/articles/s41586-021-03883-8",
+   "abstract": null
+  },
+  {
+   "title": "A Generalizable and Accessible Approach to Machine Learning with Global Satellite Imagery",
+   "authors": [
+    "E Rolf",
+    "J Proctor",
+    "T Carleton",
+    "I Bolliger",
+    "V Shankar",
+    "M Ishihara",
+    "B Recht",
+    "Solomon Hsiang"
+   ],
+   "year": 2021,
+   "venue": "Nature Communications",
+   "status": "已发表",
+   "url": "https://www.nature.com/articles/s41467-021-24638-z",
+   "abstract": null
+  },
+  {
+   "title": "Empirically valuing natural capital",
+   "authors": [
+    "K Bell",
+    "S Sum",
+    "J Longmate",
+    "J Tseng",
+    "Solomon Hsiang"
+   ],
+   "year": 2021,
+   "venue": null,
+   "status": "工作论文",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Using Satellite Imagery and Deep Learning to Evaluate the Impact of Anti-Poverty Programs",
+   "authors": [
+    "LY Huang",
+    "Solomon Hsiang",
+    "M Gonzalez-Navarro"
+   ],
+   "year": 2021,
+   "venue": "arXiv preprint arXiv:2104.11772",
+   "status": "工作论文",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Public mobility data enables covid-19 forecasting and management at local and global scales",
+   "authors": [
+    "C Ilin",
+    "S Annan-Phan",
+    "XH Tai",
+    "S Mehra",
+    "Solomon Hsiang",
+    "J Blumenstock"
+   ],
+   "year": 2021,
+   "venue": "Scientific Reports",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Combined modeling of US fluvial, pluvial, and coastal flood hazard under current and future climates",
+   "authors": [
+    "PD Bates",
+    "N Quinn",
+    "C Sampson",
+    "A Smith",
+    "O Wing",
+    "J Sosa",
+    "J Savage",
+    "G Olcese",
+    "J Neal",
+    "G Schumann",
+    "L Giustarini",
+    "et al."
+   ],
+   "year": 2021,
+   "venue": "Water Resources Research",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The effect of large-scale anti-contagion policies on the COVID-19 pandemic",
+   "authors": [
+    "Solomon Hsiang",
+    "D Allen",
+    "S Annan-Phan",
+    "K Bell",
+    "I Bolliger",
+    "T Chong",
+    "H Druckenmiller",
+    "L.Y. Huang",
+    "A Hultgren",
+    "E Krasovich",
+    "P Lau",
+    "J Lee",
+    "E Rolf",
+    "J Tseng",
+    "T Wu"
+   ],
+   "year": 2020,
+   "venue": "Nature",
+   "status": "已发表",
+   "url": "https://doi.org/10.1038/s41586-020-2404-8",
+   "abstract": null
+  },
+  {
+   "title": "The COVID-19 lockdowns: a window into the Earth System",
+   "authors": [
+    "Diffenbaugh",
+    "Field",
+    "Appel",
+    "Azevedo",
+    "Baldocchi",
+    "Burke",
+    "Burney",
+    "Ciais",
+    "Davis",
+    "Fiore",
+    "Fletcher",
+    "Hertel",
+    "Horton",
+    "Solomon Hsiang",
+    "Jackson",
+    "Jin",
+    "Levi",
+    "Lobell",
+    "McKinley",
+    "Moore",
+    "Montgomery",
+    "Nadeau",
+    "Pataki",
+    "Randerson",
+    "Reichstein",
+    "Schnell",
+    "Seneviratne",
+    "Singh",
+    "Steiner",
+    "Wong-Parodi"
+   ],
+   "year": 2020,
+   "venue": "Nature Reviews Earth & Environment",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Reply to: Temporal displacement, adaptation and the effect of climate on suicide rates",
+   "authors": [
+    "M Burke",
+    "F Gonzalez",
+    "P Baylis",
+    "S Heft-Neal",
+    "C Baysan",
+    "S Basu",
+    "Solomon Hsiang"
+   ],
+   "year": 2020,
+   "venue": "Nature Climate Change",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Distribution of Environmental Damages",
+   "authors": [
+    "Solomon Hsiang",
+    "P Oliva",
+    "WR Walker"
+   ],
+   "year": 2019,
+   "venue": "Review of Environmental Economics and Policy",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Non-economic factors in violence: Evidence from organized crime, suicides and climate in Mexico",
+   "authors": [
+    "Baysan",
+    "Burke",
+    "Gonzalez",
+    "Solomon Hsiang",
+    "Miguel"
+   ],
+   "year": 2019,
+   "venue": "Journal of Economic Behavior & Organization",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Strengthened scientific support for the Endangerment Finding for atmospheric greenhouse gases",
+   "authors": [
+    "P Duffy",
+    "C Field",
+    "N Diffenbaugh",
+    "S Doney",
+    "Z Dutton",
+    "S Goodman",
+    "L Heinzerling",
+    "Solomon Hsiang",
+    "D Lobell",
+    "L Mickley",
+    "S Myers",
+    "S Natali",
+    "C Parmesan",
+    "S Tierney",
+    "AP Williams"
+   ],
+   "year": 2019,
+   "venue": "Science",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Spatial Correlation, Trade, and Inequality: Evidence from the Global Climate",
+   "authors": [
+    "J Dingle",
+    "K Meng",
+    "Solomon Hsiang"
+   ],
+   "year": 2019,
+   "venue": "NBER Working Paper No. 25447",
+   "status": "工作论文",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "An Economist's Guide to Climate Change Science",
+   "authors": [
+    "Solomon Hsiang",
+    "R Kopp"
+   ],
+   "year": 2018,
+   "venue": "Journal of Economic Perspectives",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Accounting for Unobservable Heterogeneity in Cross Section Using Spatial First Differences",
+   "authors": [
+    "H Druckenmiller",
+    "Solomon Hsiang"
+   ],
+   "year": 2018,
+   "venue": "NBER Working Paper No. 25177",
+   "status": "工作论文",
+   "url": "https://www.nber.org/papers/w25177",
+   "abstract": null
+  },
+  {
+   "title": "Estimating the global agricultural effects of geoengineering using volcanoes",
+   "authors": [
+    "J Proctor",
+    "Solomon Hsiang",
+    "J Burney",
+    "M Burke",
+    "W Schlenker"
+   ],
+   "year": 2018,
+   "venue": "Nature",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Warming increases suicide rates in the United States and Mexico",
+   "authors": [
+    "M Burke",
+    "F Gonzalez",
+    "P Baylis",
+    "S Heft-Neal",
+    "C Baysan",
+    "S Basu",
+    "Solomon Hsiang"
+   ],
+   "year": 2018,
+   "venue": "Nature Climate Change",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Marginal Product of Climate",
+   "authors": [
+    "T Deryugina",
+    "Solomon Hsiang"
+   ],
+   "year": 2017,
+   "venue": "NBER Working Paper No. 24072",
+   "status": "工作论文",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Temperature and Human Capital in the Short- and Long-Run",
+   "authors": [
+    "J Graff Zivin",
+    "Solomon Hsiang",
+    "M Neidell"
+   ],
+   "year": 2017,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Estimating economic damage from climate change in the United States",
+   "authors": [
+    "Solomon Hsiang",
+    "R Kopp",
+    "A Jina",
+    "J Rising",
+    "M Delgado",
+    "S Mohan",
+    "DJ Rasmussen",
+    "R Muir-Wood",
+    "P Wilson",
+    "M Oppenheimer",
+    "K Larsen",
+    "T Houser"
+   ],
+   "year": 2017,
+   "venue": "Science 356(6345):1362-1369",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Social and economic impacts of climate",
+   "authors": [
+    "T Carleton",
+    "Solomon Hsiang"
+   ],
+   "year": 2016,
+   "venue": "Science",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Does legalization reduce black market activity? Evidence from a global ivory experiment and elephant poaching data",
+   "authors": [
+    "Solomon Hsiang",
+    "N Sekar"
+   ],
+   "year": 2016,
+   "venue": "NBER Working Paper No. 22314",
+   "status": "工作论文",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Climate Econometrics",
+   "authors": [
+    "Solomon Hsiang"
+   ],
+   "year": 2016,
+   "venue": "Annual Review of Resource Economics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Potentially Extreme Population Displacement and Concentration in the Tropics Under Non-Extreme Warming",
+   "authors": [
+    "Solomon Hsiang",
+    "AH Sobel"
+   ],
+   "year": 2016,
+   "venue": "Scientific Reports",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Conflict in a Changing Climate",
+   "authors": [
+    "T Carleton",
+    "Solomon Hsiang",
+    "M Burke"
+   ],
+   "year": 2016,
+   "venue": "European Physical Journal Special Topics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Opportunities for advances in climate change economics",
+   "authors": [
+    "M Burke",
+    "M. Craxton",
+    "C. D. Kolstad",
+    "C. Onda",
+    "H. Allcott",
+    "E. Baker",
+    "L. Barrage",
+    "R. Carson",
+    "K. Gillingham",
+    "J. Graf-Zivin",
+    "M. Greenstone",
+    "S. Hallegatte",
+    "W.M. Hanemann",
+    "G. Heal",
+    "Solomon Hsiang",
+    "B. Jones",
+    "D. L. Kelly",
+    "R. Kopp",
+    "M. Kotchen",
+    "R. Mendelsohn",
+    "K. Meng",
+    "G. Metcalf",
+    "J. Moreno-Cruz",
+    "R. Pindyck",
+    "S. Rose",
+    "I. Rudik",
+    "J. Stock",
+    "R. S. J. Tol"
+   ],
+   "year": 2016,
+   "venue": "Science 352(6283):292-293",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Global non-linear effect of temperature on economic production",
+   "authors": [
+    "M Burke",
+    "Solomon Hsiang",
+    "E. Miguel"
+   ],
+   "year": 2015,
+   "venue": "Nature",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Climate and conflict",
+   "authors": [
+    "M Burke",
+    "Solomon Hsiang",
+    "E. Miguel"
+   ],
+   "year": 2015,
+   "venue": "Annual Review of Economics",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The causal effect of environmental catastrophe on long-run economic growth: Evidence from 6,700 cyclones",
+   "authors": [
+    "Solomon Hsiang",
+    "AS Jina"
+   ],
+   "year": 2014,
+   "venue": "Revise & Resubmit, Journal of Political Economy (NBER Working Paper No. 20352)",
+   "status": "修改重投",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Does the Environment Still Matter? Daily Temperature and Income in the United States",
+   "authors": [
+    "T Deryugina",
+    "Solomon Hsiang"
+   ],
+   "year": 2014,
+   "venue": "NBER Working Paper No. 20750",
+   "status": "工作论文",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Nonlinear permanent migration response to climatic variations but minimal response to disasters",
+   "authors": [
+    "P Bohra-Mishra",
+    "M. Oppenheimer",
+    "Solomon Hsiang"
+   ],
+   "year": 2014,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Reconciling disagreement over climate-conflict results in Africa",
+   "authors": [
+    "Solomon Hsiang",
+    "K.C. Meng"
+   ],
+   "year": 2014,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Reconciling climate-conflict meta-analyses: Reply to Buhaug et al.",
+   "authors": [
+    "Solomon Hsiang",
+    "M. Burke",
+    "E. Miguel"
+   ],
+   "year": 2014,
+   "venue": "Climatic Change",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Quantifying the Influence of Climate on Human Conflict",
+   "authors": [
+    "Solomon Hsiang",
+    "M. Burke",
+    "E. Miguel"
+   ],
+   "year": 2013,
+   "venue": "Science, 341",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Climate, Conflict and Social Stability: What does the evidence say?",
+   "authors": [
+    "Solomon Hsiang",
+    "M. Burke"
+   ],
+   "year": 2013,
+   "venue": "Climatic Change",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Using Weather Data and Climate Model Output in Economic Analyses of Climate Change Auffhammer, M., S.M.Hsiang, W. Schlenker, A.H. Sobel. Review of Environmental Economics and Policy, 7",
+   "authors": [
+    "M Auffhammer",
+    "Solomon Hsiang",
+    "W Schlenker",
+    "AH Sobel"
+   ],
+   "year": 2013,
+   "venue": "Review of Environmental Economics and Policy 7: 181-198",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Destruction, Disinvestment, and Death: Economic and Human Losses Following Environmental Disaster",
+   "authors": [
+    "J Anttila-Hughes",
+    "Solomon Hsiang"
+   ],
+   "year": 2012,
+   "venue": "Mimeo",
+   "status": "工作论文",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Adaptation to Cyclone Risk: Evidence from the Global Cross-Section",
+   "authors": [
+    "Solomon Hsiang",
+    "D Narita"
+   ],
+   "year": 2012,
+   "venue": "Climate Change Economics 3 (Special Issue on Adaptation)",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Civil conflicts are associated with the global climate",
+   "authors": [
+    "Solomon Hsiang",
+    "KC Meng",
+    "MA Cane"
+   ],
+   "year": 2011,
+   "venue": "Nature 476: 438-441",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Temperatures and cyclones strongly associated with economic production in the Caribbean and Central America",
+   "authors": [
+    "Solomon Hsiang"
+   ],
+   "year": 2010,
+   "venue": "Proceedings of the National Academy of Sciences 107: 15367-15372",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Handbook of the Economics of Climate Change (1st Edition, Volume 1)",
+   "authors": [
+    "L Barrage",
+    "Solomon Hsiang"
+   ],
+   "year": 2024,
+   "venue": "Elsevier (edited volume)",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Economic Risks of Climate Change: An American Prospectus",
+   "authors": [
+    "T Houser",
+    "Solomon Hsiang",
+    "R. Kopp",
+    "K. Larson",
+    "M. Delgado",
+    "A.S. Jina",
+    "M. Mastreandrea",
+    "S. Mohan",
+    "R Muir-Wood",
+    "D.J. Rasmussen",
+    "J. Rising",
+    "P Wilson"
+   ],
+   "year": 2015,
+   "venue": "Columbia University Press",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Will Wealth Weaken Weather Wars?",
+   "authors": [
+    "M Burke",
+    "J Ferguson",
+    "Solomon Hsiang",
+    "E Miguel"
+   ],
+   "year": 2024,
+   "venue": "American Economic Review Papers & Proceedings",
+   "status": "已发表",
+   "url": "https://www.aeaweb.org/articles?id=10.1257%2Fpandp.20241055",
+   "abstract": null
+  },
+  {
+   "title": "Ground Control to Major Tom: the importance of field surveys in remotely sensed data analysis",
+   "authors": [
+    "I Bolliger",
+    "T Carlton",
+    "Solomon Hsiang",
+    "J Kadish",
+    "J Proctor",
+    "E Rolf",
+    "B Recht",
+    "V Shankar"
+   ],
+   "year": 2017,
+   "venue": "Bloomberg Data for Good Exchange, New York (conference paper)",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Tropical Economics",
+   "authors": [
+    "Solomon Hsiang",
+    "K.C. Meng"
+   ],
+   "year": 2015,
+   "venue": "American Economic Review Papers & Proceedings 105(5): 257-261",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Geography, Depreciation, and Growth",
+   "authors": [
+    "Solomon Hsiang",
+    "A.S. Jina"
+   ],
+   "year": 2015,
+   "venue": "American Economic Review Papers & Proceedings 105(5): 252-256",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Empirically calibrating damage functions and considering stochasticity when integrated assessment models are used as decision tools",
+   "authors": [
+    "RE Kopp",
+    "Solomon Hsiang",
+    "M. Oppenheimer"
+   ],
+   "year": 2013,
+   "venue": "International Conference on Climate Change Effects, Potsdam (conference paper)",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Tropical Cyclones: From the Influence of Climate to their Socio-Economic Impacts",
+   "authors": [
+    "S Camargo",
+    "Solomon Hsiang"
+   ],
+   "year": 2015,
+   "venue": "Extreme Events: Observations, Modeling, and Economics (Chavez, Ghil, Fucugauchi, eds.), Wiley",
+   "status": "已发表",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Analysis of Statistical Power Reconciles Climate-Conflict Results in Africa",
+   "authors": [
+    "Solomon Hsiang",
+    "M. Burke",
+    "E. Miguel",
+    "M. Cane",
+    "K. Meng"
+   ],
+   "year": 2015,
+   "venue": "CEGA working paper",
+   "status": "工作论文",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Reconciling temperature-conflict results in Kenya",
+   "authors": [
+    "Solomon Hsiang",
+    "M. Burke",
+    "E. Miguel"
+   ],
+   "year": 2013,
+   "venue": "CEGA working paper",
+   "status": "工作论文",
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Visually-Weighted Regression",
+   "authors": [
+    "Solomon Hsiang"
+   ],
+   "year": 2012,
+   "venue": null,
+   "status": "工作论文",
+   "url": null,
+   "abstract": null
+  }
+ ]
+}

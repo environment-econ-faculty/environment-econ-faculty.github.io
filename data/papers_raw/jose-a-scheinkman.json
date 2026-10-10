@@ -1,0 +1,699 @@
+{
+ "slug": "jose-a-scheinkman",
+ "name": "José A. Scheinkman",
+ "sources": [
+  "https://jascheinkman.com/"
+ ],
+ "collected": "2026-10-10",
+ "notes": "Homepage (CV + 'Selected Papers' list, updated Jan 2026); no full CV PDF available (CV folder is Dropbox). Long-CV rule applied: all items 2005+ plus earlier refereed journal articles; skipped pre-2005 chapters/lecture notes (Non-Market Interactions 2002, Measuring Social Interactions 2001, Heterogeneous Beliefs 2004 lecture notes), unpublished 1980/1984 notes, and the 1979 edited volume. Coauthor lists given as 'with X' so recorded as [Scheinkman, X...]; first names expanded from initials where unambiguous. Working-paper years are SSRN posting years (approximate) since page gives no dates. No abstracts on page.",
+ "papers": [
+  {
+   "title": "Carbon Prices and Reforestation in Tropical Forest",
+   "authors": [
+    "José A. Scheinkman"
+   ],
+   "year": 2024,
+   "venue": "BIS Working Paper No. 1223",
+   "status": "工作论文",
+   "url": "https://www.bis.org/publ/work1223.htm",
+   "abstract": null
+  },
+  {
+   "title": "Carbon Prices and Forest Preservation over Space and Time in the Brazilian Amazon",
+   "authors": [
+    "José A. Scheinkman",
+    "Juliano Assunção",
+    "Lars Peter Hansen",
+    "Todd Munson"
+   ],
+   "year": 2023,
+   "venue": "SSRN Working Paper 4414217",
+   "status": "工作论文",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4414217",
+   "abstract": null
+  },
+  {
+   "title": "Going-Concern Debt of Financial Intermediaries",
+   "authors": [
+    "José A. Scheinkman",
+    "Yueran Ma"
+   ],
+   "year": 2020,
+   "venue": "SSRN Working Paper 3725957",
+   "status": "工作论文",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3725957",
+   "abstract": null
+  },
+  {
+   "title": "Repricing Avalanches in the Billion-Prices Data",
+   "authors": [
+    "José A. Scheinkman",
+    "L. Leal",
+    "H. Mateen",
+    "Makoto Nirei"
+   ],
+   "year": 2021,
+   "venue": "SSRN Working Paper 3907149",
+   "status": "工作论文",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3907149",
+   "abstract": null
+  },
+  {
+   "title": "Crime, Punishment and the Value of Social Responsibility",
+   "authors": [
+    "José A. Scheinkman",
+    "Harrison Hong",
+    "Jeffrey D. Kubik",
+    "Inessa Liskovich"
+   ],
+   "year": 2014,
+   "venue": "SSRN Working Paper 2492202",
+   "status": "工作论文",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2492202",
+   "abstract": null
+  },
+  {
+   "title": "Days to Cover and Stock Returns",
+   "authors": [
+    "José A. Scheinkman",
+    "Harrison Hong",
+    "Weikai Li",
+    "Sophie X. Ni",
+    "Phillip Yan"
+   ],
+   "year": 2015,
+   "venue": "SSRN Working Paper 2568768",
+   "status": "工作论文",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2568768",
+   "abstract": null
+  },
+  {
+   "title": "Financial Constraints on Corporate Goodness",
+   "authors": [
+    "José A. Scheinkman",
+    "Harrison Hong",
+    "Jeffrey D. Kubik"
+   ],
+   "year": 2011,
+   "venue": "SSRN Working Paper 1734164",
+   "status": "工作论文",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1734164",
+   "abstract": null
+  },
+  {
+   "title": "Emission Prices, Biomass, and Biodiversity in Tropical Forests",
+   "authors": [
+    "José A. Scheinkman",
+    "Lars Peter Hansen"
+   ],
+   "year": 2025,
+   "venue": "AEA Papers and Proceedings",
+   "status": "已发表",
+   "url": "https://www.aeaweb.org/articles?id=10.1257/pandp.20251071",
+   "abstract": null
+  },
+  {
+   "title": "Foreign Transfers, Biomass, and Biodiversity in the Amazon",
+   "authors": [
+    "José A. Scheinkman",
+    "Juliano Assunção"
+   ],
+   "year": 2025,
+   "venue": "In Paris Report 3: Global Action Without Global Governance, CEPR Press (book chapter)",
+   "status": "已发表",
+   "url": "https://cepr.org/system/files/publication-files/254802-paris_report_3_paris_report_3_global_action_without_global_governance_building_coalitions_for_climate_transition_and_nature_r.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Repricing Avalanches",
+   "authors": [
+    "José A. Scheinkman",
+    "Makoto Nirei"
+   ],
+   "year": 2024,
+   "venue": "Journal of Political Economy 132(4)",
+   "status": "已发表",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3815392",
+   "abstract": null
+  },
+  {
+   "title": "Estimating the Spatial Amplification of Damage Caused by Degradation in the Amazon",
+   "authors": [
+    "José A. Scheinkman",
+    "Rafael Araujo",
+    "Juliano Assunção",
+    "Marina Hirota"
+   ],
+   "year": 2023,
+   "venue": "Proceedings of the National Academy of Sciences 120(46)",
+   "status": "已发表",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4530883",
+   "abstract": null
+  },
+  {
+   "title": "A Class of Short-Term Models for the Oil Industry Addressing Speculative Storage",
+   "authors": [
+    "José A. Scheinkman",
+    "Yves Achdou",
+    "et al."
+   ],
+   "year": 2022,
+   "venue": "Finance and Stochastics 26(3)",
+   "status": "已发表",
+   "url": "https://ar5iv.org/abs/2003.11790",
+   "abstract": null
+  },
+  {
+   "title": "When a Master Dies: Speculation and Asset Float",
+   "authors": [
+    "José A. Scheinkman",
+    "Luc Renneboog",
+    "Julien Pénasse"
+   ],
+   "year": 2021,
+   "venue": "Review of Financial Studies 34(8)",
+   "status": "已发表",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3385460",
+   "abstract": null
+  },
+  {
+   "title": "Savings Gluts and Financial Fragility",
+   "authors": [
+    "José A. Scheinkman",
+    "Patrick Bolton",
+    "Tano Santos"
+   ],
+   "year": 2021,
+   "venue": "Review of Financial Studies 34(3)",
+   "status": "已发表",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2743700",
+   "abstract": null
+  },
+  {
+   "title": "Climate Finance",
+   "authors": [
+    "José A. Scheinkman",
+    "Harrison Hong",
+    "G. Andrew Karolyi"
+   ],
+   "year": 2020,
+   "venue": "Review of Financial Studies 33(3)",
+   "status": "已发表",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3478737",
+   "abstract": null
+  },
+  {
+   "title": "Shorting in Speculative Markets",
+   "authors": [
+    "José A. Scheinkman",
+    "Marcel Nutz"
+   ],
+   "year": 2020,
+   "venue": "Journal of Finance 75(2)",
+   "status": "已发表",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2969112",
+   "abstract": null
+  },
+  {
+   "title": "Bubbles in Assets with Finite Life",
+   "authors": [
+    "José A. Scheinkman",
+    "Henri Berestycki",
+    "Cameron Bruggeman",
+    "Régis Monneau"
+   ],
+   "year": 2019,
+   "venue": "Mathematics and Financial Economics 13(3)",
+   "status": "已发表",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2617078",
+   "abstract": null
+  },
+  {
+   "title": "Stochastic Compounding and Uncertain Valuation",
+   "authors": [
+    "José A. Scheinkman",
+    "Lars Peter Hansen"
+   ],
+   "year": 2017,
+   "venue": "In Après le Déluge: Finance and the Common Good after the Crisis, University of Chicago Press (book chapter)",
+   "status": "已发表",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2256246",
+   "abstract": null
+  },
+  {
+   "title": "Cream Skimming in Financial Markets",
+   "authors": [
+    "José A. Scheinkman",
+    "Patrick Bolton",
+    "Tano Santos"
+   ],
+   "year": 2016,
+   "venue": "Journal of Finance 71(2)",
+   "status": "已发表",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1770065",
+   "abstract": null
+  },
+  {
+   "title": "Misspecified Recovery",
+   "authors": [
+    "José A. Scheinkman",
+    "Jaroslav Borovička",
+    "Lars Peter Hansen"
+   ],
+   "year": 2016,
+   "venue": "Journal of Finance 71(6)",
+   "status": "已发表",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2441376",
+   "abstract": null
+  },
+  {
+   "title": "Yesterday's Heroes: Compensation and Risk at Financial Firms",
+   "authors": [
+    "José A. Scheinkman",
+    "Ing-Haw Cheng",
+    "Harrison Hong"
+   ],
+   "year": 2015,
+   "venue": "Journal of Finance 70(2)",
+   "status": "已发表",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1502762",
+   "abstract": null
+  },
+  {
+   "title": "Shock Elasticities and Impulse Responses",
+   "authors": [
+    "José A. Scheinkman",
+    "Jaroslav Borovička",
+    "Lars Peter Hansen"
+   ],
+   "year": 2014,
+   "venue": "Mathematics and Financial Economics 8(4)",
+   "status": "已发表",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2425195",
+   "abstract": null
+  },
+  {
+   "title": "Speculation, Trading, and Bubbles",
+   "authors": [
+    "José A. Scheinkman"
+   ],
+   "year": 2014,
+   "venue": "Columbia University Press, Kenneth J. Arrow Lecture Series (book)",
+   "status": "已发表",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2227701",
+   "abstract": null
+  },
+  {
+   "title": "A Non Local Free Boundary Problem Arising in a Theory of Financial Bubbles",
+   "authors": [
+    "José A. Scheinkman",
+    "Henri Berestycki",
+    "Régis Monneau"
+   ],
+   "year": 2014,
+   "venue": "Philosophical Transactions of the Royal Society A 372(2028)",
+   "status": "已发表",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2349839",
+   "abstract": null
+  },
+  {
+   "title": "Speculating on Home Improvements",
+   "authors": [
+    "José A. Scheinkman",
+    "Hyun-Soo Choi",
+    "Harrison Hong"
+   ],
+   "year": 2014,
+   "venue": "Journal of Financial Economics 111(3)",
+   "status": "已发表",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1685005",
+   "abstract": null
+  },
+  {
+   "title": "Shadow Finance",
+   "authors": [
+    "José A. Scheinkman",
+    "Patrick Bolton",
+    "Tano Santos"
+   ],
+   "year": 2014,
+   "venue": "In Rethinking the Financial Crisis, A. Blinder, A. Lo and R. Solow (eds.) (book chapter)",
+   "status": "已发表",
+   "url": "https://www.dropbox.com/s/6m649znbffevxj8/Shadow%20Finance.pdf?dl=0",
+   "abstract": null
+  },
+  {
+   "title": "Recursive Utility in a Markov Environment with Stochastic Growth",
+   "authors": [
+    "José A. Scheinkman",
+    "Lars Peter Hansen"
+   ],
+   "year": 2012,
+   "venue": "Proceedings of the National Academy of Sciences 109(30): 11967-11972",
+   "status": "已发表",
+   "url": "https://www.pnas.org/content/109/30/11967.full.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Pricing Growth-Rate Risk",
+   "authors": [
+    "José A. Scheinkman",
+    "Lars Peter Hansen"
+   ],
+   "year": 2012,
+   "venue": "Finance and Stochastics 16(1)",
+   "status": "已发表",
+   "url": "https://www.dropbox.com/s/mq2bkr129nmo85e/Pricing%20Growth-Rate%20Risk.pdf?dl=0",
+   "abstract": null
+  },
+  {
+   "title": "The Informal Sector: An Equilibrium Model and Some Empirical Evidence From Brazil",
+   "authors": [
+    "José A. Scheinkman",
+    "Aureo de Paula"
+   ],
+   "year": 2011,
+   "venue": "Review of Income and Wealth 57(s1)",
+   "status": "已发表",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1517201",
+   "abstract": null
+  },
+  {
+   "title": "Risk Price Dynamics",
+   "authors": [
+    "José A. Scheinkman",
+    "Jaroslav Borovička",
+    "Lars Peter Hansen",
+    "Mark Hendricks"
+   ],
+   "year": 2011,
+   "venue": "Journal of Financial Econometrics 9(1)",
+   "status": "已发表",
+   "url": "https://www.dropbox.com/s/hgdak32xazhw3pz/Risk%20Price%20Dynamics.pdf?dl=0",
+   "abstract": null
+  },
+  {
+   "title": "Outside and Inside Liquidity",
+   "authors": [
+    "José A. Scheinkman",
+    "Patrick Bolton",
+    "Tano Santos"
+   ],
+   "year": 2011,
+   "venue": "Quarterly Journal of Economics 126(1)",
+   "status": "已发表",
+   "url": "https://www.dropbox.com/s/87f76jopwu14845/Outside%20%26%20Inside%20Liquidity.pdf?dl=0",
+   "abstract": null
+  },
+  {
+   "title": "Value Added Taxes, Chain Effects and Informality",
+   "authors": [
+    "José A. Scheinkman",
+    "Aureo de Paula"
+   ],
+   "year": 2010,
+   "venue": "American Economic Journal: Macroeconomics 2(4)",
+   "status": "已发表",
+   "url": "https://ideas.repec.org/p/pen/papers/09-041.html",
+   "abstract": null
+  },
+  {
+   "title": "Market and Public Liquidity",
+   "authors": [
+    "José A. Scheinkman",
+    "Patrick Bolton",
+    "Tano Santos"
+   ],
+   "year": 2009,
+   "venue": "American Economic Review Papers and Proceedings",
+   "status": "已发表",
+   "url": "https://www.dropbox.com/s/4yqarf3jlugxuz3/Market%20%26%20Public%20Liquidity.pdf?dl=0",
+   "abstract": null
+  },
+  {
+   "title": "Long Term Risk: An Operator Approach",
+   "authors": [
+    "José A. Scheinkman",
+    "Lars Peter Hansen"
+   ],
+   "year": 2009,
+   "venue": "Econometrica 77(1)",
+   "status": "已发表",
+   "url": "https://www.dropbox.com/s/pmv0o4e6p0ixg6n/Long%20Term%20Risk.pdf?dl=0",
+   "abstract": null
+  },
+  {
+   "title": "Nonlinear Principal Components and Long-run Implications of Multivariate Diffusions",
+   "authors": [
+    "José A. Scheinkman",
+    "Xiaohong Chen",
+    "Lars Peter Hansen"
+   ],
+   "year": 2009,
+   "venue": "Annals of Statistics 37(6B)",
+   "status": "已发表",
+   "url": "https://www.dropbox.com/s/4eb00784nd3180t/Nonlinear%20Principal%20Components.pdf?dl=0",
+   "abstract": null
+  },
+  {
+   "title": "A Limit Theorem for Systems of Social Interactions",
+   "authors": [
+    "José A. Scheinkman",
+    "Ulrich Horst"
+   ],
+   "year": 2009,
+   "venue": "Journal of Mathematical Economics 45",
+   "status": "已发表",
+   "url": "https://www.dropbox.com/s/u2xhnn03rnxs4c6/Limit%20Theorem.pdf?dl=0",
+   "abstract": null
+  },
+  {
+   "title": "Speculative Trading and Stock Prices: Evidence from Chinese A-B Share Premia",
+   "authors": [
+    "José A. Scheinkman",
+    "Jianping Mei",
+    "Wei Xiong"
+   ],
+   "year": 2009,
+   "venue": "Annals of Economics and Finance 10(2)",
+   "status": "已发表",
+   "url": "https://www.princeton.edu/~wxiong/papers/china.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Operator Methods for Continuous Time Markov Processes",
+   "authors": [
+    "José A. Scheinkman",
+    "Yacine Aït-Sahalia",
+    "Lars Peter Hansen"
+   ],
+   "year": 2009,
+   "venue": "Handbook of Financial Econometrics, Vol. 1 (book chapter)",
+   "status": "已发表",
+   "url": "https://www.dropbox.com/s/w7b2khm4b6187k8/Operator%20Methods.pdf?dl=0",
+   "abstract": null
+  },
+  {
+   "title": "Advisors and Asset Prices: A Model of the Origins of Bubbles",
+   "authors": [
+    "José A. Scheinkman",
+    "Harrison Hong",
+    "Wei Xiong"
+   ],
+   "year": 2008,
+   "venue": "Journal of Financial Economics 89",
+   "status": "已发表",
+   "url": "https://www.princeton.edu/~wxiong/papers/advisor.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Social Interactions",
+   "authors": [
+    "José A. Scheinkman"
+   ],
+   "year": 2008,
+   "venue": "The New Palgrave Dictionary of Economics, 2nd edition (book chapter)",
+   "status": "已发表",
+   "url": "https://www.dropbox.com/s/0bvjac9zejt67tb/Social%20Interactions.pdf?dl=0",
+   "abstract": null
+  },
+  {
+   "title": "Optimal Exercise of American Claims When Markets Are Not Complete",
+   "authors": [
+    "José A. Scheinkman",
+    "L.C.G. Rogers"
+   ],
+   "year": 2007,
+   "venue": "Finance and Stochastics",
+   "status": "已发表",
+   "url": "https://www.dropbox.com/s/izaepr9yn19nlgy/Optimal%20Exercise%20of%20Executive%20Stock%20Options.pdf?dl=0",
+   "abstract": null
+  },
+  {
+   "title": "Asset Float and Speculative Bubbles",
+   "authors": [
+    "José A. Scheinkman",
+    "Harrison Hong",
+    "Wei Xiong"
+   ],
+   "year": 2006,
+   "venue": "Journal of Finance",
+   "status": "已发表",
+   "url": "https://www.princeton.edu/~wxiong/papers/float.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Equilibria in Systems of Social Interactions",
+   "authors": [
+    "José A. Scheinkman",
+    "Ulrich Horst"
+   ],
+   "year": 2006,
+   "venue": "Journal of Economic Theory 130",
+   "status": "已发表",
+   "url": "https://www.dropbox.com/s/g82fxx509els30f/Equilibria%20in%20Systems%20of%20Social%20Interactions%20-%20JAS.pdf?dl=0",
+   "abstract": null
+  },
+  {
+   "title": "Executive Compensation and Short-termist Behavior in Speculative Markets",
+   "authors": [
+    "José A. Scheinkman",
+    "Patrick Bolton",
+    "Wei Xiong"
+   ],
+   "year": 2006,
+   "venue": "Review of Economic Studies 73",
+   "status": "已发表",
+   "url": "https://www.princeton.edu/~wxiong/papers/ceo.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Pay for Short-Term Performance: Executive Compensation in Speculative Markets",
+   "authors": [
+    "José A. Scheinkman",
+    "Patrick Bolton",
+    "Wei Xiong"
+   ],
+   "year": 2005,
+   "venue": "Journal of Corporation Law",
+   "status": "已发表",
+   "url": "https://www.dropbox.com/s/6923t2vi4irnvx9/Pay%20for%20Short%20Term%20Performance.pdf?dl=0",
+   "abstract": null
+  },
+  {
+   "title": "Overconfidence and Speculative Bubbles",
+   "authors": [
+    "José A. Scheinkman",
+    "Wei Xiong"
+   ],
+   "year": 2003,
+   "venue": "Journal of Political Economy",
+   "status": "已发表",
+   "url": "https://www.dropbox.com/s/da1fm2iqyfvdltx/Overconfidence%20%26%20Speculative%20Bubbles.pdf?dl=0",
+   "abstract": null
+  },
+  {
+   "title": "The Social Multiplier",
+   "authors": [
+    "José A. Scheinkman",
+    "Edward Glaeser",
+    "Bruce Sacerdote"
+   ],
+   "year": 2003,
+   "venue": "Journal of the European Economic Association",
+   "status": "已发表",
+   "url": "https://www.dropbox.com/s/xhgujo0clzhodkc/Social%20Multiplier.pdf?dl=0",
+   "abstract": null
+  },
+  {
+   "title": "The Injustice of Inequality",
+   "authors": [
+    "José A. Scheinkman",
+    "Edward Glaeser",
+    "Andrei Shleifer"
+   ],
+   "year": 2003,
+   "venue": "Journal of Monetary Economics: 199-222",
+   "status": "已发表",
+   "url": "https://www.dropbox.com/s/ei2glcyieuyf950/Injustice%20of%20Inequality.pdf?dl=0",
+   "abstract": null
+  },
+  {
+   "title": "Financial Intermediation without Exclusivity",
+   "authors": [
+    "José A. Scheinkman",
+    "Tano Santos"
+   ],
+   "year": 2001,
+   "venue": "American Economic Review Papers and Proceedings",
+   "status": "已发表",
+   "url": "https://www.dropbox.com/s/p410042ka8ewarf/Financial%20Intermediation.pdf?dl=0",
+   "abstract": null
+  },
+  {
+   "title": "Competition Among Exchanges",
+   "authors": [
+    "José A. Scheinkman",
+    "Tano Santos"
+   ],
+   "year": 2001,
+   "venue": "Quarterly Journal of Economics",
+   "status": "已发表",
+   "url": "https://www.dropbox.com/s/szvyrt21txzhlw5/Competition%20Among%20Exchanges.pdf?dl=0",
+   "abstract": null
+  },
+  {
+   "title": "Optimal Environmental Management in the Presence of Irreversibilities",
+   "authors": [
+    "José A. Scheinkman",
+    "Thaleia Zariphopoulou"
+   ],
+   "year": 2001,
+   "venue": "Journal of Economic Theory 96",
+   "status": "已发表",
+   "url": "https://www.dropbox.com/s/2rjdv45ateeqc2m/Optimal%20Environmental%20Mgmt.pdf?dl=0",
+   "abstract": null
+  },
+  {
+   "title": "Spectral Methods for Identifying Scalar Diffusions",
+   "authors": [
+    "José A. Scheinkman",
+    "Lars Peter Hansen",
+    "Nizar Touzi"
+   ],
+   "year": 1998,
+   "venue": "Journal of Econometrics 86",
+   "status": "已发表",
+   "url": "https://www.dropbox.com/s/5ekykk4svuipoum/Spectral%20Methods%20for%20Identifying%20Scalar%20Diffusions.pdf?dl=0",
+   "abstract": null
+  },
+  {
+   "title": "Short-Term Interest Rates as Subordinated Diffusions",
+   "authors": [
+    "José A. Scheinkman",
+    "Timothy Conley",
+    "Lars Peter Hansen",
+    "Erzo Luttmer"
+   ],
+   "year": 1997,
+   "venue": "Review of Financial Studies 10(3)",
+   "status": "已发表",
+   "url": "https://www.dropbox.com/s/ncdckid83omz1ka/short_term_int_rates.pdf?dl=0",
+   "abstract": null
+  },
+  {
+   "title": "Aggregate Fluctuations from Independent Sectoral Shocks: Self-Organized Criticality in a Model of Production and Inventory Dynamics",
+   "authors": [
+    "José A. Scheinkman",
+    "Per Bak",
+    "Kan Chen",
+    "Michael Woodford"
+   ],
+   "year": 1993,
+   "venue": "Ricerche Economiche 47",
+   "status": "已发表",
+   "url": "https://www.dropbox.com/s/3lcw1jeq54clkp1/Aggregate%20Fluctuations%20from%20Independent%20Sectoral%20Shocks.pdf?dl=0",
+   "abstract": null
+  }
+ ]
+}

@@ -1,0 +1,352 @@
+{
+ "slug": "amir-jina",
+ "name": "Amir Jina",
+ "sources": [
+  "http://www.amirjina.com/wp-content/uploads/2026/03/amirjina_CV_mar26.pdf"
+ ],
+ "collected": "2026-10-10",
+ "notes": "From CV (updated March 2026); URLs from the CV hyperlinks. Homepage blocked automated fetch (Mod_Security 406). \"Selected Ongoing Research\" items without drafts excluded. CV lists the scholar first followed by \"with ...\" coauthors, so author order is not the publication order. No abstracts available.",
+ "papers": [
+  {
+   "title": "The value of clean water: Experimental evidence from rural India",
+   "authors": [
+    "Amir Jina",
+    "F. Burlig",
+    "A. Sudarshan"
+   ],
+   "year": 2026,
+   "venue": "American Economic Review 116(3): 1148-1187",
+   "status": "已发表",
+   "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20250278",
+   "abstract": null
+  },
+  {
+   "title": "Designing probabilistic AI monsoon forecasts to inform agricultural decision-making",
+   "authors": [
+    "Amir Jina",
+    "C. Aitken",
+    "R. Masiwal",
+    "A. Marchakitus",
+    "K. Kowal",
+    "M. Gupta",
+    "T. Yang",
+    "P. Hassanzadeh",
+    "W. Boos",
+    "M. Kremer"
+   ],
+   "year": 2026,
+   "venue": "arXiv preprint",
+   "status": "工作论文",
+   "url": "https://arxiv.org/abs/2603.07893",
+   "abstract": null
+  },
+  {
+   "title": "Decision-oriented benchmarking to transform AI weather forecast access: Application to the Indian monsoon",
+   "authors": [
+    "Amir Jina",
+    "R. Masiwal",
+    "C. Aitken",
+    "A. Marchakitus",
+    "M. Gupta",
+    "K. Kowal",
+    "H.A. Pahlavan",
+    "T. Yang",
+    "Y.Q. Sun",
+    "M. Kremer",
+    "W.R. Boos",
+    "P. Hassanzadeh"
+   ],
+   "year": 2026,
+   "venue": "arXiv preprint",
+   "status": "工作论文",
+   "url": "https://arxiv.org/abs/2602.03767",
+   "abstract": null
+  },
+  {
+   "title": "Labor Disutility in a Warmer World: The Impact of Climate Change on the Global Workforce",
+   "authors": [
+    "Amir Jina",
+    "A. Rode",
+    "R.E. Baker",
+    "T. Carleton",
+    "A.L. D'Agostino",
+    "M. Delgado",
+    "T. Foreman",
+    "M. Greenstone",
+    "T. Houser",
+    "S. Hsiang",
+    "A. Hultgren",
+    "R. Kopp",
+    "K. McCusker",
+    "I. Nath",
+    "M. Pecenco",
+    "J. Rising",
+    "J. Yuan"
+   ],
+   "year": 2022,
+   "venue": "Revise & Resubmit, Journal of Political Economy",
+   "status": "修改重投",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4221478",
+   "abstract": null
+  },
+  {
+   "title": "Estimating Global Agricultural Impacts of Climate Change Accounting for Adaptation",
+   "authors": [
+    "Amir Jina",
+    "A. Hultgren",
+    "T. Carleton",
+    "M. Delgado",
+    "D. Gergel",
+    "M. Greenstone",
+    "T. Houser",
+    "S. Hsiang",
+    "R. Kopp",
+    "K. McCusker",
+    "S.B. Malevich",
+    "T. Mayer",
+    "I. Nath",
+    "J. Rising",
+    "A. Rode",
+    "J. Yuan"
+   ],
+   "year": 2025,
+   "venue": "Nature 642(8068): 644-652",
+   "status": "已发表",
+   "url": "https://www.nature.com/articles/s41586-025-09085-w",
+   "abstract": null
+  },
+  {
+   "title": "Long-range forecasts as climate adaptation: Experimental evidence from developing-country agriculture",
+   "authors": [
+    "Amir Jina",
+    "F. Burlig",
+    "E. Kelley",
+    "G. Lane",
+    "H. Sahai"
+   ],
+   "year": 2024,
+   "venue": "NBER Working Paper No. w32173",
+   "status": "工作论文",
+   "url": "https://www.nber.org/papers/w32173",
+   "abstract": null
+  },
+  {
+   "title": "Up in smoke: California's greenhouse gas reductions could be wiped out by 2020 wildfires",
+   "authors": [
+    "Amir Jina",
+    "Michael Jerrett",
+    "Miriam E. Marlier"
+   ],
+   "year": 2022,
+   "venue": "Environmental Pollution 310: 119888",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/pii/S0269749122011022",
+   "abstract": null
+  },
+  {
+   "title": "Valuing the global mortality consequences of climate change accounting for adaptation costs and benefits",
+   "authors": [
+    "Amir Jina",
+    "Tamma A. Carleton",
+    "Michael T. Delgado",
+    "Michael Greenstone",
+    "Trevor Houser",
+    "Solomon M. Hsiang",
+    "Andrew Hultgren",
+    "Robert E. Kopp",
+    "Kelly E. McCusker",
+    "Ishan B. Nath",
+    "James Rising",
+    "Ashwin Rode",
+    "Hee Kwon Seo",
+    "Arvid Viaene",
+    "Jiacan Yuan",
+    "Alice Tianbo Zhang"
+   ],
+   "year": 2022,
+   "venue": "Quarterly Journal of Economics 137(4): 2037-2105",
+   "status": "已发表",
+   "url": "https://academic.oup.com/qje/article/137/4/2037/6571943",
+   "abstract": null
+  },
+  {
+   "title": "The Social Cost of Global Energy Consumption due to Climate Change",
+   "authors": [
+    "Amir Jina",
+    "A. Rode",
+    "T. Carleton",
+    "M. Delgado",
+    "M. Greenstone",
+    "T. Houser",
+    "S. Hsiang",
+    "A. Hultgren",
+    "R. Kopp",
+    "K. McCusker",
+    "I. Nath",
+    "J. Rising",
+    "J. Simcock",
+    "J. Yuan"
+   ],
+   "year": 2021,
+   "venue": "Nature 598: 308-314",
+   "status": "已发表",
+   "url": "https://www.nature.com/articles/s41586-021-03883-8",
+   "abstract": null
+  },
+  {
+   "title": "ENSO impacts child undernutrition in the global tropics",
+   "authors": [
+    "Amir Jina",
+    "J.K. Anttila-Hughes",
+    "G.C. McCord"
+   ],
+   "year": 2021,
+   "venue": "Nature Communications 12(5785)",
+   "status": "已发表",
+   "url": "https://www.nature.com/articles/s41467-021-26048-7",
+   "abstract": null
+  },
+  {
+   "title": "Inequality and the Biosphere",
+   "authors": [
+    "Amir Jina",
+    "Beijer Young Scholars"
+   ],
+   "year": 2018,
+   "venue": "Annual Review of Environment and Resources 43: 61-83",
+   "status": "已发表",
+   "url": "https://www.annualreviews.org/doi/abs/10.1146/annurev-environ-102017-025949",
+   "abstract": null
+  },
+  {
+   "title": "Estimating economic damage from climate change in the United States",
+   "authors": [
+    "Amir Jina",
+    "S. Hsiang",
+    "R. Kopp",
+    "J. Rising",
+    "M. Delgado",
+    "S. Mohan",
+    "DJ Rasmussen",
+    "R. Muir-Wood",
+    "P. Wilson",
+    "M. Oppenheimer",
+    "K. Larsen",
+    "T. Houser"
+   ],
+   "year": 2017,
+   "venue": "Science 356(6345): 1362-1369",
+   "status": "已发表",
+   "url": "https://www.science.org/doi/10.1126/science.aal4369",
+   "abstract": null
+  },
+  {
+   "title": "Extreme air pollution in global megacities",
+   "authors": [
+    "Amir Jina",
+    "M.E. Marlier",
+    "R.S. DeFries",
+    "P.L. Kinney"
+   ],
+   "year": 2016,
+   "venue": "Current Climate Change Reports 2(1): 15-27",
+   "status": "已发表",
+   "url": "https://link.springer.com/article/10.1007/s40641-016-0032-z",
+   "abstract": null
+  },
+  {
+   "title": "Satellites, Self-reports, and Submersion: Exposure to Floods in Bangladesh",
+   "authors": [
+    "Amir Jina",
+    "R.P. Guiteras",
+    "A.M. Mobarak"
+   ],
+   "year": 2015,
+   "venue": "American Economic Review: Papers and Proceedings 105(5): 232-36",
+   "status": "已发表",
+   "url": "https://www.aeaweb.org/articles?id=10.1257/aer.p20151095",
+   "abstract": null
+  },
+  {
+   "title": "Geography, Depreciation, and Growth",
+   "authors": [
+    "Amir Jina",
+    "S.M. Hsiang"
+   ],
+   "year": 2015,
+   "venue": "American Economic Review: Papers and Proceedings 105(5): 252-56",
+   "status": "已发表",
+   "url": "https://www.aeaweb.org/articles?id=10.1257/aer.p20151029",
+   "abstract": null
+  },
+  {
+   "title": "The Causal Effect of Environmental Catastrophe on Long-Run Economic Growth: Evidence from 6,700 cyclones",
+   "authors": [
+    "Amir Jina",
+    "S.M. Hsiang"
+   ],
+   "year": 2014,
+   "venue": "Revise & Resubmit, Journal of Political Economy (NBER Working Paper No. 20352)",
+   "status": "修改重投",
+   "url": "https://www.nber.org/papers/w20352",
+   "abstract": null
+  },
+  {
+   "title": "Economic Risks of Climate Change: An American Prospectus",
+   "authors": [
+    "Amir Jina",
+    "T. Houser",
+    "S. Hsiang",
+    "R. Kopp",
+    "M. Delgado",
+    "K. Larsen",
+    "M. Mastrandrea",
+    "S. Mohan",
+    "R. Muir-Wood",
+    "DJ Rasmussen",
+    "J. Rising",
+    "P. Wilson"
+   ],
+   "year": 2015,
+   "venue": "Columbia University Press (book)",
+   "status": "已发表",
+   "url": "https://impactlab.org/research/american-climate-prospectus/",
+   "abstract": null
+  },
+  {
+   "title": "Smallholder farmer cropping decisions related to climate variability across multiple regions",
+   "authors": [
+    "Amir Jina",
+    "S. Wood",
+    "M. Jain",
+    "R.S. DeFries",
+    "P. Kristjanson"
+   ],
+   "year": 2014,
+   "venue": "Global Environmental Change 25: 163-172",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/pii/S0959378013002410",
+   "abstract": null
+  },
+  {
+   "title": "Biophysical and Socioeconomic Factors Associated with Forest Transitions at Multiple Spatial and Temporal Scales",
+   "authors": [
+    "Amir Jina",
+    "M. Jain",
+    "C.B. Yackulic",
+    "M. Fagan",
+    "Y. Lim",
+    "M. Marlier",
+    "R. Muscarella",
+    "P. Adame",
+    "R.S. DeFries",
+    "M. Uriarte"
+   ],
+   "year": 2011,
+   "venue": "Ecology and Society 16(3)",
+   "status": "已发表",
+   "url": "https://www.jstor.org/stable/pdf/26268936.pdf",
+   "abstract": null
+  }
+ ]
+}
