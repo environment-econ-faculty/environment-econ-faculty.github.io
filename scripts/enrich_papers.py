@@ -16,6 +16,7 @@ RAW = os.path.join(ROOT, "data", "papers_raw")
 OUT = os.path.join(ROOT, "data", "papers")
 CACHE = os.path.join(ROOT, "data", "openalex_title_cache.json")
 MAILTO = "zh443@cornell.edu"
+API_KEY = os.environ.get("OPENALEX_API_KEY", "")  # free key from openalex.org; without it a shared daily IP budget applies
 STATUSES = ["已发表", "即将发表", "修改重投", "工作论文"]
 
 EEE_RE = re.compile(
@@ -65,9 +66,13 @@ def lookup(title, sname, cache):
     key = norm(title)
     if key in cache:
         return cache[key]
-    q = urllib.parse.urlencode({"search": title[:250], "per_page": 6, "mailto": MAILTO,
-                                "select": "id,doi,title,publication_year,authorships,abstract_inverted_index"})
-    d = get(f"https://api.openalex.org/works?{q}")
+    params = {"search": title[:250], "per_page": 6, "mailto": MAILTO,
+              "select": "id,doi,title,publication_year,authorships,abstract_inverted_index"}
+    if API_KEY:
+        params["api_key"] = API_KEY
+    d = get(f"https://api.openalex.org/works?{urllib.parse.urlencode(params)}")
+    if d is None:  # request failed (e.g. rate limit) -> don't cache, so it is retried next run
+        return None
     best = None
     for w in (d or {}).get("results", []):
         wt = norm(w.get("title") or "")
