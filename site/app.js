@@ -37,12 +37,13 @@
   const PC = D.paper_cols;
   const PAPERS = D.papers.map((r) => Object.fromEntries(PC.map((c, i) => [c, r[i]])));
   // papers page: one entry per paper (co-authored papers appear once, listing every directory scholar)
+  const pkey = (t) => (t || "").toLowerCase().replace(/[^a-z0-9\u4e00-\u9fff]/g, "").slice(0, 90);
   const PAPERS_U = (() => {
     const m = new Map();
     for (const p of PAPERS) {
-      const k = (p.title || "").toLowerCase().replace(/[^a-z0-9\u4e00-\u9fff]/g, "").slice(0, 90);
+      const k = pkey(p.title);
       const e = m.get(k);
-      if (!e) m.set(k, Object.assign({}, p, { scholars: [p.scholar] }));
+      if (!e) m.set(k, Object.assign({}, p, { scholars: [p.scholar], key: k }));
       else {
         if (!e.scholars.includes(p.scholar)) e.scholars.push(p.scholar);
         if (!e.url && p.url) e.url = p.url;
@@ -52,6 +53,43 @@
     }
     return [...m.values()];
   })();
+  const PKEY = new Map(PAPERS_U.map((e) => [e.key, e]));
+  // author name -> directory scholar (only among scholars this paper is attributed to): surname + first initial
+  const nameKey = (n) => (n || "").normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase().replace(/[^a-z\s-]/g, " ").split(/\s+/).filter((t) => t && !["jr", "ii", "iii", "iv"].includes(t));
+  // global fallback: "initial|surname" -> scholar ids; used only when the name maps to exactly one scholar
+  const NAME_IDX = new Map();
+  for (const x of D.scholars) {
+    const t = nameKey(x.name);
+    if (!t.length) continue;
+    const k = t[0][0] + "|" + t[t.length - 1];
+    NAME_IDX.set(k, (NAME_IDX.get(k) || []).concat(x.id));
+  }
+  function matchAuthor(a, cands) {
+    const t = nameKey(a);
+    if (!t.length) return null;
+    const hit = cands.find(({ t: c }) => c.length && c[c.length - 1] === t[t.length - 1] && c[0][0] === t[0][0]);
+    if (hit) return hit.x;
+    const g = NAME_IDX.get(t[0][0] + "|" + t[t.length - 1]) || [];
+    if (g.length !== 1) return null;
+    const x = SCHOLAR.get(g[0]), c = nameKey(x.name);
+    // if both first names are spelled out, they must agree
+    return t[0].length > 1 && c[0].length > 1 && t[0] !== c[0] && !c.includes(t[0]) ? null : x;
+  }
+  function linkedScholars(authors, ids) {
+    const list = Array.isArray(authors) ? authors : String(authors || "").split(/,\s*/).filter(Boolean);
+    const cands = (ids || []).map((id) => SCHOLAR.get(id)).filter(Boolean).map((x) => ({ x, t: nameKey(x.name) }));
+    const out = (ids || []).slice();
+    for (const a of list) { const x = matchAuthor(a, cands); if (x && !out.includes(x.id)) out.push(x.id); }
+    return out;
+  }
+  function authorsHtml(authors, ids) {
+    const list = Array.isArray(authors) ? authors : String(authors || "").split(/,\s*/).filter(Boolean);
+    const cands = (ids || []).map((id) => SCHOLAR.get(id)).filter(Boolean).map((x) => ({ x, t: nameKey(x.name) }));
+    return list.map((a) => {
+      const x = matchAuthor(a, cands);
+      return x ? `<a class="au" href="#/s/${encodeURIComponent(x.id)}" title="${esc(x.name)} · ${esc(schoolShort(x.school))}">${esc(a)}</a>` : esc(a);
+    }).join(", ");
+  }
   for (const p of PAPERS) p.statusName = D.statuses[p.status] || "工作论文";
 
   const byScholarOrder = (a, b) =>
@@ -88,6 +126,7 @@
     const v = parts[0] || "";
     if (v === "s" && parts[1]) { setNav("scholars"); renderProfile(decodeURIComponent(parts[1])); }
     else if (v === "papers") { setNav("papers"); renderPapers(q); }
+    else if (v === "paper" && parts[1]) { setNav("papers"); renderPaperDetail(decodeURIComponent(parts[1])); }
     else if (v === "schools") { setNav("schools"); renderSchools(); }
     else if (v === "about") { setNav("about"); renderAbout(); }
     else { setNav("scholars"); renderScholars(q); }
@@ -319,13 +358,16 @@
     const sc = scholarId ? SCHOLAR.get(scholarId) : null;
     const url = p.url || (p.doi ? "https://doi.org/" + p.doi : "");
     const gs = "https://scholar.google.com/scholar?q=" + encodeURIComponent('"' + p.title + '"');
-    const title = `<a href="${esc(url || gs)}" target="_blank" rel="noopener">${esc(p.title)}</a>`;
+    const ent = PKEY.get(pkey(p.title));
+    const ids = ent ? ent.scholars : (scholarId ? [scholarId] : []);
+    const title = ent ? `<a href="#/paper/${encodeURIComponent(ent.key)}" title="查看论文详情">${esc(p.title)}</a>`
+      : `<a href="${esc(url || gs)}" target="_blank" rel="noopener">${esc(p.title)}</a>`;
     const src = url ? `<a class="src" href="${esc(url)}" target="_blank" rel="noopener">${/doi\.org/.test(url) ? "DOI" : "来源"} ↗</a>`
       : `<a class="src srch" href="${esc(gs)}" target="_blank" rel="noopener" title="暂无直接链接">Google Scholar 搜索 ↗</a>`;
     const tps = (p.topics || []).map((i) => `<a class="tag ptopic" href="#/papers?tp=${i}&all=1">${esc(D.topics[i])}</a>`).join("");
     const status = typeof p.status === "string" ? p.status : (p.statusName || D.statuses[p.status]);
     const authors = Array.isArray(p.authors) ? p.authors.join(", ") : (p.authors || "");
-    const meta = [authors ? esc(authors) : "", p.venue ? `<span class="venue">${esc(p.venue)}</span>` : "", p.year || ""].filter(Boolean).join(" · ");
+    const meta = [authors ? authorsHtml(p.authors, ids) : "", p.venue ? `<span class="venue">${esc(p.venue)}</span>` : "", p.year || ""].filter(Boolean).join(" · ");
     const absBlock = p.abstract
       ? `<details><summary>摘要${p.abs_src === "OpenAlex" ? ' <span class="small">（来自 OpenAlex）</span>' : ""}</summary><div class="abs">${esc(p.abstract)}</div></details>`
       : (p.has_abs ? `<details data-lazy="${esc(scholarId)}|${p.i}"><summary>摘要</summary><div class="abs">加载中…</div></details>` : "");
@@ -340,6 +382,45 @@
       ${absBlock}
       ${(p.pdf || p.replication) ? `<div class="pm">${link(p.pdf, "PDF ↗")} ${link(p.replication, "代码与数据 ↗")}</div>` : ""}
     </article>`;
+  }
+
+  function renderPaperDetail(key) {
+    const e = PKEY.get(key);
+    requestAnimationFrame(() => window.scrollTo(0, 0));
+    if (!e) { app.innerHTML = `<p class="crumb"><a href="#/papers">← 返回论文</a></p><p class="empty">未找到该论文。</p>`; return; }
+    app.innerHTML = `<p class="crumb"><a href="#/papers">论文</a> / 论文详情</p><p class="small">加载中…</p>`;
+    loadPapers(e.scholar).then((ps) => {
+      const f = Object.assign({}, e, ps[e.i] || {});
+      const url = f.url || e.url || (f.doi ? "https://doi.org/" + f.doi : "");
+      const gs = "https://scholar.google.com/scholar?q=" + encodeURIComponent('"' + f.title + '"');
+      const status = typeof f.status === "string" ? f.status : (e.statusName || D.statuses[e.status]);
+      const tps = (f.topics || e.topics || []).map((i) => `<a class="tag ptopic" href="#/papers?tp=${i}&all=1">${esc(D.topics[i])}</a>`).join("");
+      const scs = linkedScholars(f.authors || e.authors, e.scholars).map((id) => SCHOLAR.get(id)).filter(Boolean);
+      const same = PAPERS_U.filter((x) => x !== e && x.scholars.some((id) => e.scholars.includes(id))).sort((a, b) => b.year - a.year).slice(0, 8);
+      app.innerHTML = `
+        <p class="crumb"><a href="#/papers">论文</a> / 论文详情</p>
+        <section class="profile-h">
+          <h1 style="font-size:22px">${esc(f.title)}</h1>
+          ${f.title_zh ? `<div class="ttl">${esc(f.title_zh)}</div>` : ""}
+          <div class="ttl">${authorsHtml(f.authors || e.authors, e.scholars)}</div>
+          <div>${status ? `<span class="badge st st-${esc(status)}">${esc(status)}</span>` : ""} ${f.venue ? `<span class="badge plain">${esc(f.venue)}</span>` : ""} ${f.year ? `<span class="badge plain">${f.year}</span>` : ""}
+            ${e.eee ? `<span class="badge eee">EEE</span>` : ""}</div>
+          ${tps ? `<div style="margin-top:10px">${tps}</div>` : ""}
+          <div class="links">${url ? `<a href="${esc(url)}" target="_blank" rel="noopener">${/doi\.org/.test(url) ? "DOI" : "论文来源"} ↗</a>` : ""}
+            <a href="${esc(gs)}" target="_blank" rel="noopener">Google Scholar ↗</a>${link(f.pdf, "PDF ↗")}${link(f.replication, "代码与数据 ↗")}</div>
+        </section>
+        <div class="grid2">
+          <div>
+            <section class="box"><h3>数据库中的作者</h3>${scs.map((x) => `<a class="card" href="#/s/${encodeURIComponent(x.id)}" style="margin-bottom:8px">
+              <div class="nm">${esc(x.name)}${x.name_zh ? `<span class="zh">${esc(x.name_zh)}</span>` : ""}</div>
+              <div class="meta">${esc(x.rank)} · ${esc(schoolShort(x.school))}${x.unit ? " · " + esc(x.unit) : ""}</div></a>`).join("")}</section>
+          </div>
+          <div>
+            <section class="box"><h3>摘要</h3>${f.abstract ? `<p class="abs" style="white-space:pre-line">${esc(f.abstract)}</p>${f.abs_src === "OpenAlex" ? '<p class="small">摘要来自 OpenAlex</p>' : ""}` : `<p class="small">暂无摘要。</p>`}</section>
+            ${same.length ? `<section class="box"><h3>这些作者的其他论文</h3>${same.map((x) => paperHtml(x, x.scholar)).join("")}</section>` : ""}
+          </div>
+        </div>`;
+    });
   }
 
   const P = { q: "", tp: "", sub: "", status: "", unit: "", eee: true, ymin: "", sort: "year", page: 1 };
