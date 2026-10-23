@@ -29,6 +29,7 @@ PAPER_KEYS = {"中文标题": "title_zh", "作者": "authors", "年份": "year",
 errors, warnings = [], []
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from topics_zh import NAMES as TOPIC_NAMES, classify as topic_of  # noqa: E402
+from venues import clean_venue  # noqa: E402
 
 
 def split_list(v):
@@ -171,6 +172,7 @@ def main():
             tk = re.sub(r"[^a-z0-9]", "", (p.get("title") or "").lower())[:80]
             if tk in AUTH_FILL and p.get("authors"):
                 p["authors"] = [AUTH_FILL[tk].get(a, a) for a in p["authors"]]
+            p["venue"] = clean_venue(p.get("venue"))  # 只留期刊/书名，去卷期页码年份（scripts/venues.py）
             if p.get("eee") and tk in ABS and p.get("src") != "手动添加":
                 a = ABS[tk]
                 p["abstract"], p["abs_src"] = a.get("en", ""), a.get("src", "")
