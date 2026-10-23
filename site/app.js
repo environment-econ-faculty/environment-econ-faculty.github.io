@@ -355,7 +355,6 @@
 
   // ----------------------------------------------------------------- papers ----
   function paperHtml(p, scholarId) {
-    const sc = scholarId ? SCHOLAR.get(scholarId) : null;
     const url = p.url || (p.doi ? "https://doi.org/" + p.doi : "");
     const gs = "https://scholar.google.com/scholar?q=" + encodeURIComponent('"' + p.title + '"');
     const ent = PKEY.get(pkey(p.title));
@@ -376,8 +375,6 @@
       ${p.title_zh ? `<div class="ptz">${esc(p.title_zh)}</div>` : ""}
       ${meta ? `<div class="pm">${meta} · ${src}</div>` : `<div class="pm">${src}</div>`}
       ${tps ? `<div class="ptags">${tps}</div>` : ""}
-      ${p.scholars && p.scholars.length ? `<div class="by">${p.scholars.map((id) => SCHOLAR.get(id)).filter(Boolean).map((x) => `<a href="#/s/${encodeURIComponent(x.id)}">${esc(x.name)}</a> <span class="small">· ${esc(schoolShort(x.school))}</span>`).join("；")}</div>`
-        : sc ? `<div class="by"><a href="#/s/${encodeURIComponent(sc.id)}">${esc(sc.name)}</a> <span class="small">· ${esc(schoolShort(sc.school))}${unitLabel(sc) ? " · " + esc(unitLabel(sc)) : ""}</span></div>` : ""}
       ${p.keywords && p.keywords.length ? `<div style="margin-top:5px">${p.keywords.map((k) => `<span class="tag">${esc(k)}</span>`).join("")}</div>` : ""}
       ${absBlock}
       ${(p.pdf || p.replication) ? `<div class="pm">${link(p.pdf, "PDF ↗")} ${link(p.replication, "代码与数据 ↗")}</div>` : ""}

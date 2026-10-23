@@ -133,7 +133,6 @@ select { max-width: 280px; }
 .paper details { margin-top: 8px; }
 .paper summary { cursor: pointer; color: var(--accent); font-size: 13.5px; user-select: none; }
 .paper .abs { white-space: pre-line; font-size: 14px; margin-top: 6px; padding: 10px 12px; background: var(--bg); border-radius: 8px; }
-.paper .by { font-size: 13px; margin-top: 4px; }
 .placeholder { border: 1px dashed var(--line); border-radius: var(--radius); padding: 22px; text-align: center; color: var(--muted); background: var(--panel); }
 .placeholder .btn { margin-top: 10px; }
 
