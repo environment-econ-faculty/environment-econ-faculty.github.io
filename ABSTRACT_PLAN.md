@@ -1,4 +1,9 @@
-# 中英文摘要补全计划（2026-10-22 制定，待执行）
+# 中英文摘要补全计划（2026-10-22 制定，2026-10-23 已对 EEE 论文执行完毕）
+
+**执行结果**：3,103 篇 EEE 论文中 2,067 篇有核对过的英文摘要（Crossref 988 / OpenAlex 861 / 主页 218）+ 中文翻译；1,036 篇查不到。
+重跑：`python scripts/fetch_abstracts.py --no-batch` → `python scripts/trans_batches.py make` → 翻译 trans/in（提示词 trans/PROMPT.md，Haiku agent）→ `trans_batches.py merge` → build。
+注意：OpenAlex 免费 key 每日 $1，search 每次 $0.001（约 1000 次/天），singleton 免费——所以按标题找 DOI 用 Crossref。
+
 
 目标：为 EEE 站全部论文（约 9,586 条，去重后约 8,800 篇）提供**可靠的英文摘要 + 中文翻译**，两者在论文详情页和列表的"摘要"折叠框中一起显示。
 
