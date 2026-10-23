@@ -7,7 +7,7 @@ Usage:
   python scripts/build.py           # build site/data.js
   python scripts/build.py --check   # build and print validation warnings (exit 1 on errors)
 """
-import json, os, re, sys, glob
+import hashlib, json, os, re, sys, glob
 from datetime import datetime, timezone, timedelta
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -110,6 +110,8 @@ def main():
     ap, zp = os.path.join(DATA, "abstracts.json"), os.path.join(DATA, "abstracts_zh.json")
     ABS = json.load(open(ap, encoding="utf-8")) if os.path.exists(ap) else {}
     ABS_ZH = json.load(open(zp, encoding="utf-8")) if os.path.exists(zp) else {}
+    hp = os.path.join(DATA, "abstracts_zh_hash.json")  # 只用与当前英文一致的译文
+    ZH_HASH = json.load(open(hp, encoding="utf-8")) if os.path.exists(hp) else {}
     for path in sorted(glob.glob(os.path.join(DATA, "scholars", "*.md"))):
         fname = os.path.basename(path)
         if fname.startswith("_"):
@@ -170,7 +172,7 @@ def main():
                 p["abstract"], p["abs_src"] = a.get("en", ""), a.get("src", "")
                 if a.get("doi") and not p.get("doi"):
                     p["doi"] = a["doi"]
-                if p["abstract"] and ABS_ZH.get(tk):
+                if p["abstract"] and ABS_ZH.get(tk) and ZH_HASH.get(tk) == hashlib.md5(p["abstract"].encode("utf-8")).hexdigest()[:10]:
                     p["abstract_zh"] = ABS_ZH[tk]
             if not p.get("url"):  # source link: own url > DOI > Crossref-resolved DOI (scripts/resolve_dois.py)
                 d = p.get("doi") or DOI_FILL.get(re.sub(r"[^a-z0-9]", "", (p.get("title") or "").lower())[:80])

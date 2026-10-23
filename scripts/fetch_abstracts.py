@@ -2,8 +2,9 @@
 
 流程（见 ABSTRACT_PLAN.md）：
   1. 收集 DOI：论文自带 doi > data/doi_fill.json > 从链接解析（doi.org、NBER、SSRN、nature.com、各出版社 /doi/ 路径）。
-  2. 有 DOI 的：OpenAlex 按 DOI 批量查（每次 50 个），并查 Crossref 摘要；返回标题须与本地标题一致，防止 DOI 配错。
-  3. 无 DOI（或 DOI 查不到）的：OpenAlex 标题搜索，规范化标题一致 + 作者姓氏吻合才采用。
+  2. 有 DOI 的：OpenAlex 按 DOI 批量查（每次 50 个，list 请求很便宜），并查 Crossref 摘要；返回标题须与本地标题一致，防止 DOI 配错。
+  3. 无 DOI（或 DOI 查不到）的：Crossref 书目检索（免费）按标题 + 作者找 DOI，再用 OpenAlex 单篇 DOI 查询（免费）。
+     注意：OpenAlex 免费 key 每日 $1，search 每次 $0.001，所以不用 OpenAlex 标题搜索。
   4. 清洗与校验：去 JATS/HTML 标签和开头的 "Abstract"；长度 250–6000 字符；剔除版权页/登录页文字、非英文。
   5. 选用：Crossref（出版社提供）> OpenAlex；都没有则保留主页抄录的旧摘要（通过校验时），旧的 OpenAlex 标题匹配摘要作废。
 输出 data/abstracts.json：{title_key: {"en", "src", "doi"}}；data/abstracts_log.json 记录每篇的处理结果。
@@ -24,11 +25,15 @@ OA_KEY = os.environ.get("OPENALEX_API_KEY") or (open(KEYFILE).read().strip() if 
 BAD = re.compile(r"jstor|purchase|log ?in|sign ?in|cookies?\b|this content downloaded|subscribe|access to this|"
                  r"full[- ]text|preview|copyright clearance|all rights reserved\.?$|^no abstract|abstract not available|"
                  r"terms and conditions|cambridge core|click here", re.I)
+TOC = re.compile(r"introduction\s+\d+\s*[;,]?\s|this version\s*:|table of contents", re.I)  # 目录页、封面页
 EN_WORDS = re.compile(r"\b(the|of|and|in|to|we|that|this|for|is|on|with)\b", re.I)
 
 
 def norm(s):
-    s = unicodedata.normalize("NFKD", html.unescape(s or "")).encode("ascii", "ignore").decode().lower()
+    s = re.sub(r"['’‘`]", "", html.unescape(s or ""))  # Brazil’s / Brazil's
+    s = unicodedata.normalize("NFKD", s).encode("ascii", "ignore").decode().lower()
+    s = re.sub(r"(?<![a-z])u\.\s?s\.", "us", s).replace("united states", "us")
+    s = re.sub(r"(?<![a-z])versus(?![a-z])", "vs", s)
     return re.sub(r"[^a-z0-9]+", " ", s).strip()
 
 
@@ -115,6 +120,7 @@ def clean(t):
     t = re.sub(r"[ \t\r\f\v]+", " ", t)
     t = re.sub(r"\s*\n\s*", "\n", t).strip()
     t = re.sub(r"^(abstract|summary|a b s t r a c t)\s*[:.\-—]?\s*", "", t, flags=re.I)
+    t = re.sub(r"(?<=[a-z]{2}[.?!])(?=[A-Z][a-z])", " ", t)  # OpenAlex 倒排索引常丢句间空格："fuels.In"
     return t.strip()
 
 
@@ -122,7 +128,7 @@ def valid(t, title=""):
     if not (250 <= len(t) <= 6000):
         return False
     head = t[:300]
-    if BAD.search(head) or BAD.search(t[-120:]):
+    if BAD.search(head) or BAD.search(t[-120:]) or TOC.search(t):
         return False
     if len(EN_WORDS.findall(t)) < len(t.split()) * 0.12:  # 非英文或乱码
         return False
@@ -143,6 +149,7 @@ def crossref_abs(doi):
     return clean(m.get("abstract", "")), (m.get("title") or [""])[0]
 
 
+REDO = "--redo-empty" in sys.argv  # 重查没有合格摘要的（如标题规范化规则改动后）
 SEL = "id,doi,title,authorships,abstract_inverted_index,publication_year"
 
 
@@ -172,14 +179,39 @@ def oa_title_search(p):
     return hits
 
 
+def crossref_title_dois(p):
+    """Crossref 书目检索（免费）：标题一致 + 作者姓氏吻合的 DOI 列表。"""
+    title, authors = p["title"], p.get("authors") or []
+    sn = {surname(a) for a in authors if a}
+    q = {"query.bibliographic": title[:300], "rows": 5, "select": "DOI,title,author,abstract"}
+    if authors:
+        q["query.author"] = authors[0][:80]
+    r = get("https://api.crossref.org/works?" + urllib.parse.urlencode(q), tries=3)
+    out = []
+    for it in (r or {}).get("message", {}).get("items", []):
+        if not same_title((it.get("title") or [""])[0], title):
+            continue
+        cs = {surname(f"{a.get('given', '')} {a.get('family', '')}") for a in it.get("author") or []}
+        if sn and cs and not (sn & cs):
+            continue
+        out.append((it["DOI"].lower(), clean(it.get("abstract", ""))))
+    return out
+
+
+def oa_single(doi):
+    """OpenAlex 按 DOI 单篇查询（singleton，免费）。"""
+    r = get(oa_url("works/doi:" + urllib.parse.quote(doi, safe="/:"), select=SEL), tries=3)
+    return r or None
+
+
 def process(item):
     k, p, doi, cache = item
-    if k in cache:
+    if k in cache and ((cache[k].get("v") == 2 and not REDO) or any(valid(c[1], p["title"]) for c in cache[k].get("cands", []))):
         return k, cache[k]
-    res = {"doi": doi, "cands": []}
+    res = {"doi": doi, "cands": [], "v": 2}
     title = p["title"]
     if doi:
-        w = p.get("_oa")
+        w = p.get("_oa") or oa_single(doi)
         if w and not same_title(w.get("title"), title):
             res["doi_mismatch"] = w.get("title")
             w = None
@@ -189,15 +221,16 @@ def process(item):
         if ca and (not ct or same_title(ct, title)):
             res["cands"].append(["Crossref", ca])
     if not any(valid(c[1], title) for c in res["cands"]):
-        for w in oa_title_search(p):
-            d = (w.get("doi") or "").replace("https://doi.org/", "").lower()
-            res["cands"].append(["OpenAlex", clean(inv_to_text(w.get("abstract_inverted_index")))])
-            if d and not res["doi"]:
+        for d, ca in crossref_title_dois(p)[:3]:
+            if d == doi:
+                continue
+            if not res["doi"]:
                 res["doi"] = d
-            if d and d != doi:
-                ca, ct = crossref_abs(d)
-                if ca and (not ct or same_title(ct, title)):
-                    res["cands"].append(["Crossref", ca])
+            if ca:
+                res["cands"].append(["Crossref", ca])
+            w = oa_single(d)
+            if w and same_title(w.get("title"), title):
+                res["cands"].append(["OpenAlex", clean(inv_to_text(w.get("abstract_inverted_index")))])
     return k, res
 
 
@@ -221,7 +254,7 @@ def main():
     dois = {k: doi_from(p, fill) for k, p in items}
     need = sorted({d for k, d in dois.items() if d and k not in cache})
     print(f"{len(items)} EEE papers; {sum(1 for d in dois.values() if d)} with DOI; querying OpenAlex for {len(need)} DOIs", flush=True)
-    oa = oa_by_dois(need)
+    oa = oa_by_dois(need) if "--no-batch" not in a else {}
     print(f"  OpenAlex DOI hits: {len(oa)}", flush=True)
     todo = []
     for k, p in items:
@@ -240,7 +273,7 @@ def main():
     out, log, stats = {}, {}, {}
     for k, p in items:
         res = cache.get(k, {})
-        good = [c for c in res.get("cands", []) if valid(c[1], p["title"])]
+        good = [c for c in ([src, clean(t)] for src, t in res.get("cands", [])) if valid(c[1], p["title"])]  # 缓存文本按最新规则重洗
         good.sort(key=lambda c: (score(c[1])[0], c[0] == "Crossref", score(c[1])[1]), reverse=True)
         old = clean(p.get("abstract", ""))
         if good:
@@ -254,8 +287,8 @@ def main():
                   "old_src": p.get("abs_src", "") if old else "", "doi_mismatch": res.get("doi_mismatch", "")}
         if en:
             out[k] = {"en": en, "src": src, "doi": res.get("doi", "")}
-        elif res.get("doi"):
-            out[k] = {"en": "", "src": "", "doi": res["doi"]}
+        else:  # 没有合格摘要：记空，build 时清掉旧的不可靠摘要
+            out[k] = {"en": "", "src": "", "doi": res.get("doi", "")}
     json.dump(out, open(OUT, "w", encoding="utf-8"), ensure_ascii=False, indent=0)
     json.dump(log, open(LOG, "w", encoding="utf-8"), ensure_ascii=False, indent=0)
     print("sources:", stats, f"({time.time() - t0:.0f}s)")

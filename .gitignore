@@ -6,3 +6,4 @@ trans/
 data/abstracts_cache.json
 data/abstracts_log.json
 data/fetch_abstracts.out
+data/abstracts_round1.json
