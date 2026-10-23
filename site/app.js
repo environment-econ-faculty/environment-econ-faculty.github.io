@@ -369,7 +369,7 @@
     const authors = Array.isArray(p.authors) ? p.authors.join(", ") : (p.authors || "");
     const meta = [authors ? authorsHtml(p.authors, ids) : "", p.venue ? `<span class="venue">${esc(p.venue)}</span>` : "", p.year || ""].filter(Boolean).join(" · ");
     const absBlock = p.abstract
-      ? `<details><summary>摘要${p.abs_src === "OpenAlex" ? ' <span class="small">（来自 OpenAlex）</span>' : ""}</summary><div class="abs">${esc(p.abstract)}</div></details>`
+      ? `<details><summary>摘要${p.abstract_zh ? '（中英文）' : ""}</summary><div class="abs">${absHtml(p)}</div></details>`
       : (p.has_abs ? `<details data-lazy="${esc(scholarId)}|${p.i}"><summary>摘要</summary><div class="abs">加载中…</div></details>` : "");
     return `<article class="paper">
       <div class="pt">${title}${status ? `<span class="badge st st-${esc(status)}">${esc(status)}</span>` : ""}${p.eee ? `<span class="badge eee" title="能源/环境/资源相关">EEE</span>` : ""}</div>
@@ -382,6 +382,13 @@
       ${absBlock}
       ${(p.pdf || p.replication) ? `<div class="pm">${link(p.pdf, "PDF ↗")} ${link(p.replication, "代码与数据 ↗")}</div>` : ""}
     </article>`;
+  }
+
+  const ABS_SRC = { Crossref: "Crossref（出版社提供）", OpenAlex: "OpenAlex", "主页": "作者主页" };
+  function absHtml(f) {
+    const src = f.abs_src && ABS_SRC[f.abs_src] ? `英文摘要来源：${ABS_SRC[f.abs_src]}` : "";
+    return (f.abstract_zh ? `<div class="abs-h">中文摘要 <span class="small">（模型翻译，以英文原文为准）</span></div><div class="abs-zh">${esc(f.abstract_zh)}</div>
+      <div class="abs-h">英文原文</div>` : "") + `<div class="abs-en">${esc(f.abstract)}</div>` + (src ? `<div class="small abs-src">${src}</div>` : "");
   }
 
   function renderPaperDetail(key) {
@@ -416,7 +423,7 @@
               <div class="meta">${esc(x.rank)} · ${esc(schoolShort(x.school))}${x.unit ? " · " + esc(x.unit) : ""}</div></a>`).join("")}</section>
           </div>
           <div>
-            <section class="box"><h3>摘要</h3>${f.abstract ? `<p class="abs" style="white-space:pre-line">${esc(f.abstract)}</p>${f.abs_src === "OpenAlex" ? '<p class="small">摘要来自 OpenAlex</p>' : ""}` : `<p class="small">暂无摘要。</p>`}</section>
+            <section class="box"><h3>摘要</h3>${f.abstract ? `<div class="abs">${absHtml(f)}</div>` : `<p class="small">暂无摘要。</p>`}</section>
             ${same.length ? `<section class="box"><h3>这些作者的其他论文</h3>${same.map((x) => paperHtml(x, x.scholar)).join("")}</section>` : ""}
           </div>
         </div>`;
@@ -487,7 +494,7 @@
     app.querySelectorAll("details[data-lazy]").forEach((d) => d.addEventListener("toggle", () => {
       if (!d.open || d.dataset.done) return;
       const [slug, i] = d.dataset.lazy.split("|");
-      loadPapers(slug).then((ps) => { d.dataset.done = "1"; d.querySelector(".abs").textContent = (ps[+i] || {}).abstract || "（无摘要）"; });
+      loadPapers(slug).then((ps) => { d.dataset.done = "1"; const f = ps[+i] || {}; d.querySelector(".abs").innerHTML = f.abstract ? absHtml(f) : "（无摘要）"; });
     }));
   }
 
@@ -557,7 +564,7 @@
       </ul>
 
       <h2>论文数据</h2>
-      <p>论文与工作论文列表从学者<b>个人主页、学校主页和 CV</b> 整理；主页上未提供摘要的，按标题（并核对作者姓氏）在 OpenAlex 中匹配补全，标注「来自 OpenAlex」。<span class="badge eee">EEE</span> 标签由标题与摘要关键词自动识别，仅供参考。资深学者若论文极多，可能只收录 2005 年以后及更早的期刊论文。</p>
+      <p>论文与工作论文列表从学者<b>个人主页、学校主页和 CV</b> 整理；能源/环境类论文的英文摘要按 DOI 从 Crossref（出版社提供）与 OpenAlex 重新获取并核对标题，无 DOI 的按标题与作者姓氏匹配，查不到的保留作者主页原文；<b>中文摘要由模型翻译，以英文原文为准</b>。<span class="badge eee">EEE</span> 标签由标题与摘要关键词自动识别，仅供参考。资深学者若论文极多，可能只收录 2005 年以后及更早的期刊论文。</p>
 
       <h2>数据来源</h2>
       <p>院系教师名录、个人主页与公开 CV（2026 年 10 月整理），部分博士导师信息来自论文记录、RePEc Genealogy 等，具体见各学者页面的「数据说明」。难免有错漏，欢迎纠正。</p>

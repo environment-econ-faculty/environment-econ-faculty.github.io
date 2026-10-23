@@ -180,3 +180,8 @@ tr.clk:hover td { background: var(--accent-soft); }
 .paper a.src.srch { color: var(--muted); }
 
 .pm a.au, .ttl a.au { color: var(--accent); font-weight: 600; }
+.abs-h { font-weight: 600; font-size: 13px; color: var(--muted, #666); margin: 2px 0 4px; }
+.abs-h:not(:first-child) { margin-top: 12px; }
+.abs-zh { white-space: pre-line; line-height: 1.75; }
+.abs-en { white-space: pre-line; }
+.abs-src { margin-top: 8px; }

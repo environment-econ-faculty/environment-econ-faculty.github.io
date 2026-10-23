@@ -2,3 +2,7 @@ __pycache__/
 *.pyc
 .DS_Store
 data/openalex_title_cache.json
+trans/
+data/abstracts_cache.json
+data/abstracts_log.json
+data/fetch_abstracts.out
