@@ -64,16 +64,18 @@
     const k = t[0][0] + "|" + t[t.length - 1];
     NAME_IDX.set(k, (NAME_IDX.get(k) || []).concat(x.id));
   }
+  // if both first names are spelled out, they must agree (Siyuan Li ≠ Shanjun Li)
+  const firstOk = (t, c) => t[0].length === 1 || c[0].length === 1 || t[0].startsWith(c[0]) || c[0].startsWith(t[0]) || c.includes(t[0]);
   function matchAuthor(a, cands) {
     const t = nameKey(a);
     if (!t.length) return null;
-    const hit = cands.find(({ t: c }) => c.length && c[c.length - 1] === t[t.length - 1] && c[0][0] === t[0][0]);
+    const hit = cands.find(({ t: c }) => c.length && c[c.length - 1] === t[t.length - 1] && c[0][0] === t[0][0] && firstOk(t, c));
     if (hit) return hit.x;
+    if (t[0].length === 1) return null;  // 简写名只在本论文所属学者中匹配，不做全库匹配
     const g = NAME_IDX.get(t[0][0] + "|" + t[t.length - 1]) || [];
     if (g.length !== 1) return null;
-    const x = SCHOLAR.get(g[0]), c = nameKey(x.name);
-    // if both first names are spelled out, they must agree
-    return t[0].length > 1 && c[0].length > 1 && t[0] !== c[0] && !c.includes(t[0]) ? null : x;
+    const x = SCHOLAR.get(g[0]);
+    return firstOk(t, nameKey(x.name)) ? x : null;
   }
   function linkedScholars(authors, ids) {
     const list = Array.isArray(authors) ? authors : String(authors || "").split(/,\s*/).filter(Boolean);

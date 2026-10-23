@@ -110,6 +110,8 @@ def main():
     ap, zp = os.path.join(DATA, "abstracts.json"), os.path.join(DATA, "abstracts_zh.json")
     ABS = json.load(open(ap, encoding="utf-8")) if os.path.exists(ap) else {}
     ABS_ZH = json.load(open(zp, encoding="utf-8")) if os.path.exists(zp) else {}
+    afp = os.path.join(DATA, "author_fill.json")  # scripts/fill_authors.py：简写作者名 -> 全名
+    AUTH_FILL = json.load(open(afp, encoding="utf-8")) if os.path.exists(afp) else {}
     hp = os.path.join(DATA, "abstracts_zh_hash.json")  # 只用与当前英文一致的译文
     ZH_HASH = json.load(open(hp, encoding="utf-8")) if os.path.exists(hp) else {}
     for path in sorted(glob.glob(os.path.join(DATA, "scholars", "*.md"))):
@@ -167,6 +169,8 @@ def main():
         full = []
         for i, p in enumerate(ps):
             tk = re.sub(r"[^a-z0-9]", "", (p.get("title") or "").lower())[:80]
+            if tk in AUTH_FILL and p.get("authors"):
+                p["authors"] = [AUTH_FILL[tk].get(a, a) for a in p["authors"]]
             if p.get("eee") and tk in ABS and p.get("src") != "手动添加":
                 a = ABS[tk]
                 p["abstract"], p["abs_src"] = a.get("en", ""), a.get("src", "")
