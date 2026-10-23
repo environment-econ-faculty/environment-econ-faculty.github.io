@@ -27,6 +27,8 @@ PAPER_KEYS = {"中文标题": "title_zh", "作者": "authors", "年份": "year",
               "链接": "url", "关键词": "keywords", "收录日期": "added", "PDF": "pdf", "代码数据": "replication"}
 
 errors, warnings = [], []
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from topics_zh import NAMES as TOPIC_NAMES, classify as topic_of  # noqa: E402
 
 
 def split_list(v):
@@ -101,6 +103,9 @@ def main():
     schools = json.load(open(os.path.join(DATA, "schools.json"), encoding="utf-8"))
     school_names = {s["name"] for s in schools}
     scholars, papers, paper_files = [], [], {}
+    global DOI_FILL
+    dfp = os.path.join(DATA, "doi_fill.json")
+    DOI_FILL = json.load(open(dfp, encoding="utf-8")) if os.path.exists(dfp) else {}
     for path in sorted(glob.glob(os.path.join(DATA, "scholars", "*.md"))):
         fname = os.path.basename(path)
         if fname.startswith("_"):
@@ -155,11 +160,16 @@ def main():
         scholars.append(sc)
         full = []
         for i, p in enumerate(ps):
+            if not p.get("url"):  # source link: own url > DOI > Crossref-resolved DOI (scripts/resolve_dois.py)
+                d = p.get("doi") or DOI_FILL.get(re.sub(r"[^a-z0-9]", "", (p.get("title") or "").lower())[:80])
+                if d:
+                    p["url"] = "https://doi.org/" + d
+            p["topics"] = topic_of(p.get("title"), p.get("abstract"), bool(p.get("eee")))
             full.append({k: p.get(k) for k in ("title", "title_zh", "authors", "year", "venue", "status", "url", "doi",
-                                                 "abstract", "abs_src", "keywords", "eee", "src", "pdf", "replication") if p.get(k)})
+                                                 "abstract", "abs_src", "keywords", "eee", "src", "pdf", "replication", "topics") if p.get(k)})
             papers.append([slug, i, p.get("title", ""), p.get("year") or 0, p.get("venue") or "",
                            STATUS.index(p["status"]) if p.get("status") in STATUS else 3, 1 if p.get("eee") else 0,
-                           1 if p.get("abstract") else 0, ", ".join((p.get("authors") or [])[:6])])
+                           1 if p.get("abstract") else 0, ", ".join((p.get("authors") or [])[:6]), p.get("url") or "", p["topics"]])
         paper_files[slug] = full
 
     used = {s["school"] for s in scholars}
@@ -170,7 +180,8 @@ def main():
         "generated": datetime.now(tz).strftime("%Y-%m-%d"),
         "schools": schools, "scholars": scholars, "papers": papers,
         "subfields": SUBFIELDS, "statuses": STATUS, "unit_types": ["经济系", "农经/资源经济", "公共政策", "商学院", "环境学院", "其他"],
-        "paper_cols": ["scholar", "i", "title", "year", "venue", "status", "eee", "has_abs", "authors"],
+        "paper_cols": ["scholar", "i", "title", "year", "venue", "status", "eee", "has_abs", "authors", "url", "topics"],
+        "topics": TOPIC_NAMES,
     }
     os.makedirs(os.path.join(SITE, "papers"), exist_ok=True)
     for fn in os.listdir(os.path.join(SITE, "papers")):

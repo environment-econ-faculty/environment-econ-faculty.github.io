@@ -36,6 +36,22 @@
   // paper index rows -> objects
   const PC = D.paper_cols;
   const PAPERS = D.papers.map((r) => Object.fromEntries(PC.map((c, i) => [c, r[i]])));
+  // papers page: one entry per paper (co-authored papers appear once, listing every directory scholar)
+  const PAPERS_U = (() => {
+    const m = new Map();
+    for (const p of PAPERS) {
+      const k = (p.title || "").toLowerCase().replace(/[^a-z0-9\u4e00-\u9fff]/g, "").slice(0, 90);
+      const e = m.get(k);
+      if (!e) m.set(k, Object.assign({}, p, { scholars: [p.scholar] }));
+      else {
+        if (!e.scholars.includes(p.scholar)) e.scholars.push(p.scholar);
+        if (!e.url && p.url) e.url = p.url;
+        if (!e.has_abs && p.has_abs) { e.has_abs = p.has_abs; e.scholar = p.scholar; e.i = p.i; }
+        if (p.status < e.status) { e.status = p.status; e.statusName = p.statusName; e.venue = p.venue || e.venue; }
+      }
+    }
+    return [...m.values()];
+  })();
   for (const p of PAPERS) p.statusName = D.statuses[p.status] || "工作论文";
 
   const byScholarOrder = (a, b) =>
@@ -302,8 +318,12 @@
   function paperHtml(p, scholarId) {
     const sc = scholarId ? SCHOLAR.get(scholarId) : null;
     const url = p.url || (p.doi ? "https://doi.org/" + p.doi : "");
-    const title = url ? `<a href="${esc(url)}" target="_blank" rel="noopener">${esc(p.title)}</a>` : esc(p.title);
-    const status = p.status || p.statusName;
+    const gs = "https://scholar.google.com/scholar?q=" + encodeURIComponent('"' + p.title + '"');
+    const title = `<a href="${esc(url || gs)}" target="_blank" rel="noopener">${esc(p.title)}</a>`;
+    const src = url ? `<a class="src" href="${esc(url)}" target="_blank" rel="noopener">${/doi\.org/.test(url) ? "DOI" : "来源"} ↗</a>`
+      : `<a class="src srch" href="${esc(gs)}" target="_blank" rel="noopener" title="暂无直接链接">Google Scholar 搜索 ↗</a>`;
+    const tps = (p.topics || []).map((i) => `<a class="tag ptopic" href="#/papers?tp=${i}&all=1">${esc(D.topics[i])}</a>`).join("");
+    const status = typeof p.status === "string" ? p.status : (p.statusName || D.statuses[p.status]);
     const authors = Array.isArray(p.authors) ? p.authors.join(", ") : (p.authors || "");
     const meta = [authors ? esc(authors) : "", p.venue ? `<span class="venue">${esc(p.venue)}</span>` : "", p.year || ""].filter(Boolean).join(" · ");
     const absBlock = p.abstract
@@ -312,23 +332,26 @@
     return `<article class="paper">
       <div class="pt">${title}${status ? `<span class="badge st st-${esc(status)}">${esc(status)}</span>` : ""}${p.eee ? `<span class="badge eee" title="能源/环境/资源相关">EEE</span>` : ""}</div>
       ${p.title_zh ? `<div class="ptz">${esc(p.title_zh)}</div>` : ""}
-      ${meta ? `<div class="pm">${meta}</div>` : ""}
-      ${sc ? `<div class="by"><a href="#/s/${encodeURIComponent(sc.id)}">${esc(sc.name)}</a> <span class="small">· ${esc(schoolShort(sc.school))}${unitLabel(sc) ? " · " + esc(unitLabel(sc)) : ""}</span></div>` : ""}
+      ${meta ? `<div class="pm">${meta} · ${src}</div>` : `<div class="pm">${src}</div>`}
+      ${tps ? `<div class="ptags">${tps}</div>` : ""}
+      ${p.scholars && p.scholars.length ? `<div class="by">${p.scholars.map((id) => SCHOLAR.get(id)).filter(Boolean).map((x) => `<a href="#/s/${encodeURIComponent(x.id)}">${esc(x.name)}</a> <span class="small">· ${esc(schoolShort(x.school))}</span>`).join("；")}</div>`
+        : sc ? `<div class="by"><a href="#/s/${encodeURIComponent(sc.id)}">${esc(sc.name)}</a> <span class="small">· ${esc(schoolShort(sc.school))}${unitLabel(sc) ? " · " + esc(unitLabel(sc)) : ""}</span></div>` : ""}
       ${p.keywords && p.keywords.length ? `<div style="margin-top:5px">${p.keywords.map((k) => `<span class="tag">${esc(k)}</span>`).join("")}</div>` : ""}
       ${absBlock}
       ${(p.pdf || p.replication) ? `<div class="pm">${link(p.pdf, "PDF ↗")} ${link(p.replication, "代码与数据 ↗")}</div>` : ""}
     </article>`;
   }
 
-  const P = { q: "", sub: "", status: "", unit: "", eee: true, ymin: "", sort: "year", page: 1 };
+  const P = { q: "", tp: "", sub: "", status: "", unit: "", eee: true, ymin: "", sort: "year", page: 1 };
 
   function renderPapers(q) {
-    P.q = q.get("q") || ""; P.sub = q.get("sub") || ""; P.status = q.get("status") || ""; P.unit = q.get("unit") || "";
+    P.q = q.get("q") || ""; P.tp = q.get("tp") || ""; P.sub = q.get("sub") || ""; P.status = q.get("status") || ""; P.unit = q.get("unit") || "";
     P.eee = q.get("all") !== "1"; P.ymin = q.get("from") || ""; P.sort = q.get("sort") || "year"; P.page = +(q.get("p") || 1);
     const ql = P.q.toLowerCase();
-    const list = PAPERS.filter((p) => {
+    const list = PAPERS_U.filter((p) => {
       const sc = SCHOLAR.get(p.scholar) || { subfields: [], name: "", school: "" };
       if (P.eee && !p.eee) return false;
+      if (P.tp !== "" && !(p.topics || []).includes(+P.tp)) return false;
       if (P.sub && !sc.subfields.includes(P.sub)) return false;
       if (P.unit && sc.unit_type !== P.unit) return false;
       if (P.status && p.statusName !== P.status) return false;
@@ -341,19 +364,21 @@
     const pages = Math.max(1, Math.ceil(list.length / CONFIG.pageSize));
     P.page = Math.min(Math.max(1, P.page), pages);
     const shown = list.slice((P.page - 1) * CONFIG.pageSize, P.page * CONFIG.pageSize);
-    const nEee = PAPERS.filter((p) => p.eee).length;
+    const nEee = PAPERS_U.filter((p) => p.eee).length;
+    const tpCount = {}; for (const p of PAPERS_U) if (!P.eee || p.eee) for (const i of p.topics || []) tpCount[i] = (tpCount[i] || 0) + 1;
     const years = [2026, 2025, 2024, 2022, 2020, 2015, 2010, 2000];
 
     app.innerHTML = `
-      <p class="intro">汇总所有学者的发表论文与工作论文。论文列表来自学者个人主页与 CV，部分摘要由 OpenAlex 按标题补全。默认只显示能源/环境/资源相关论文（按标题与摘要关键词识别）。</p>
+      <p class="intro">汇总所有学者的发表论文与工作论文。论文列表来自学者个人主页与 CV；每篇论文按标题与摘要关键词归入 1–2 个话题，并附来源链接（DOI 或原文页面；暂无链接的提供 Google Scholar 搜索）。默认只显示能源/环境/资源相关论文。</p>
       <section class="stats">
-        <div class="stat"><div class="n">${PAPERS.length.toLocaleString()}</div><div class="l">篇论文</div><div class="sub">能源/环境相关 ${nEee.toLocaleString()}</div></div>
-        <div class="stat"><div class="n">${PAPERS.filter((p) => p.statusName === "已发表" || p.statusName === "即将发表").length.toLocaleString()}</div><div class="l">已发表 / 即将发表</div></div>
-        <div class="stat"><div class="n">${PAPERS.filter((p) => p.statusName === "工作论文" || p.statusName === "修改重投").length.toLocaleString()}</div><div class="l">工作论文 / 修改重投</div></div>
-        <div class="stat"><div class="n">${PAPERS.filter((p) => p.has_abs).length.toLocaleString()}</div><div class="l">篇含摘要</div></div>
+        <div class="stat"><div class="n">${PAPERS_U.length.toLocaleString()}</div><div class="l">篇论文</div><div class="sub">能源/环境相关 ${nEee.toLocaleString()}</div></div>
+        <div class="stat"><div class="n">${PAPERS_U.filter((p) => p.statusName === "已发表" || p.statusName === "即将发表").length.toLocaleString()}</div><div class="l">已发表 / 即将发表</div></div>
+        <div class="stat"><div class="n">${PAPERS_U.filter((p) => p.statusName === "工作论文" || p.statusName === "修改重投").length.toLocaleString()}</div><div class="l">工作论文 / 修改重投</div></div>
+        <div class="stat"><div class="n">${PAPERS_U.filter((p) => p.has_abs).length.toLocaleString()}</div><div class="l">篇含摘要</div></div>
       </section>
       <section class="controls"><div class="row">
         <input id="p-q" type="search" placeholder="搜索标题 / 作者 / 期刊 / 学者 …" value="${esc(P.q)}" autocomplete="off">
+        <select id="p-tp"><option value="">全部话题</option>${D.topics.map((n, i) => opt(String(i), `${n} (${tpCount[i] || 0})`, P.tp)).join("")}</select>
         <select id="p-status"><option value="">全部状态</option>${D.statuses.map((f) => opt(f, f, P.status)).join("")}</select>
         <select id="p-sub"><option value="">学者研究方向：全部</option>${D.subfields.map((f) => opt(f, f, P.sub)).join("")}</select>
         <select id="p-unit"><option value="">全部单位类型</option>${UNITS.map((u) => opt(u, u, P.unit)).join("")}</select>
@@ -366,10 +391,11 @@
       ${pages > 1 ? `<div class="pager">${P.page > 1 ? `<button class="btn" data-pg="${P.page - 1}">← 上一页</button>` : ""}
         <span class="small">第 ${P.page} / ${pages} 页</span>${P.page < pages ? `<button class="btn" data-pg="${P.page + 1}">下一页 →</button>` : ""}</div>` : ""}`;
 
-    const push = (page) => setQuery("/papers", { q: P.q, sub: P.sub, status: P.status, unit: P.unit, all: !P.eee, from: P.ymin,
+    const push = (page) => setQuery("/papers", { q: P.q, tp: P.tp, sub: P.sub, status: P.status, unit: P.unit, all: !P.eee, from: P.ymin,
       sort: P.sort === "year" ? "" : P.sort, p: page > 1 ? page : "" });
     const rer = (page = 1) => { push(page); renderPapers(route().q); };
     bindSearch("p-q", (v) => { P.q = v; rer(); });
+    document.getElementById("p-tp").onchange = (e) => { P.tp = e.target.value; rer(); };
     document.getElementById("p-status").onchange = (e) => { P.status = e.target.value; rer(); };
     document.getElementById("p-sub").onchange = (e) => { P.sub = e.target.value; rer(); };
     document.getElementById("p-unit").onchange = (e) => { P.unit = e.target.value; rer(); };

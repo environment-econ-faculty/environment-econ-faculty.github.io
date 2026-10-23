@@ -173,3 +173,8 @@ tr.clk:hover td { background: var(--accent-soft); }
 .badge.eee { color: var(--accent-2); background: var(--accent-soft); margin-left: 6px; font-size: 11px; }
 .card .meta .unit-t { color: var(--t3); }
 .pager { display: flex; gap: 12px; align-items: center; justify-content: center; margin: 14px 0 6px; }
+
+.ptags { margin-top: 5px; }
+.tag.ptopic { background: var(--accent-soft); color: var(--accent); }
+.paper a.src { font-size: 12.5px; }
+.paper a.src.srch { color: var(--muted); }
