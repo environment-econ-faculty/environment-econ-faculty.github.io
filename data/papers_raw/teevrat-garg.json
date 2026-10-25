@@ -1,0 +1,420 @@
+{
+ "slug": "teevrat-garg",
+ "name": "Teevrat Garg",
+ "sources": [
+  "https://www.teevratgarg.com/ (fetched text had no paper list)",
+  "https://drive.google.com/file/d/1bXlDKYwxodmJm8mqlPmZxCHwWIge7YHG/view (CV, updated June 15, 2026)"
+ ],
+ "collected": "2026-10-25",
+ "notes": "Source: CV (updated June 2026); bylines as in CV. Included lead/co-lead publications and Selected Working Papers. Skipped: Nature Comment (2024), Science Policy Forum (2026), and the 'Other Publications' section (truncated 'et al.' bylines, non-lead role), so those team papers are omitted. Working-paper years per CV. Three JDE registered reports (accepted in principle) marked 即将发表 with venue JDE as the CV states; 'Submitted' items marked 工作论文. Review of Economics and Statistics 2025 (pp. 1-42, no volume) treated as published.",
+ "papers": [
+  {
+   "title": "Crimes Against Nature: The Colonial Roots of Homophobia in Sub-Saharan Africa",
+   "authors": [
+    "Jon Denton-Schneider",
+    "Teevrat Garg"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Scaling Low-Cost Digital Interventions: Lessons from an Energy Conservation Experiment",
+   "authors": [
+    "Teevrat Garg",
+    "Minkyong Ko",
+    "Eric Lewis",
+    "Chi Ta"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Comparison of Contests and Contracts to Deliver Cost-Effective Energy Conservation",
+   "authors": [
+    "Teevrat Garg",
+    "Guillermo Marshall",
+    "Jorge Lemus",
+    "Chi Ta"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Air Purifiers in Bangladeshi Firms",
+   "authors": [
+    "Teevrat Garg",
+    "Maulik Jagnani",
+    "Nancy Lozano-Gracia"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Agricultural Productivity and Deforestation",
+   "authors": [
+    "Ryan Abman",
+    "Teevrat Garg",
+    "Yao Pan",
+    "Saurabh Singhal"
+   ],
+   "year": 2024,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Tropical Storms and Birth Outcomes in Mexico",
+   "authors": [
+    "Nino Abashidze",
+    "James T. Erbaugh",
+    "Teevrat Garg",
+    "Jacob Hochard",
+    "Samuel Nonemaker",
+    "Wai Yan Siu",
+    "Yuta J. Masuda"
+   ],
+   "year": 2025,
+   "venue": "Economic Development and Cultural Change",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Energy Conservation under Repeated Contracts and Contests",
+   "authors": [
+    "Teevrat Garg",
+    "Guillermo Marshall",
+    "Jorge Lemus",
+    "Chi Ta"
+   ],
+   "year": 2026,
+   "venue": "Journal of Development Economics",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Barriers to Demand for Civic Action for Air Pollution (Registered Report)",
+   "authors": [
+    "Patrick Baylis",
+    "Shweta Bhogale",
+    "Teevrat Garg",
+    "Lucy Page"
+   ],
+   "year": 2025,
+   "venue": "Journal of Development Economics",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Residential Air Purifiers and the Value of Clean Air",
+   "authors": [
+    "Ashfaqul Chowdhury",
+    "Teevrat Garg",
+    "Maulik Jagnani",
+    "Martin Mattsson"
+   ],
+   "year": 2024,
+   "venue": "Journal of Development Economics",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Electric Vehicle Charging in the Workplace: Experimental Evidence on Incentives and Environmental Nudges",
+   "authors": [
+    "Teevrat Garg",
+    "Ryan Hanna",
+    "Jeff Myers",
+    "Sebastian Tebbe",
+    "David Victor"
+   ],
+   "year": 2026,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Co-Benefit Premiums can Enhance Nature-Based Climate Solutions",
+   "authors": [
+    "Jacob Hochard",
+    "James T. Erbaugh",
+    "Teevrat Garg",
+    "Nino Abashidze",
+    "Stefanie Simpson",
+    "Samuel Nonemaker",
+    "Lindsey Smart",
+    "Wai Yan Siu",
+    "Stuart Hamilton",
+    "Yuta J. Masuda"
+   ],
+   "year": 2026,
+   "venue": "Nature Climate Change",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Prejudice in Sub-Saharan Africa: (Why) Is Homophobia Different?",
+   "authors": [
+    "Jon Denton-Schneider",
+    "Teevrat Garg"
+   ],
+   "year": 2026,
+   "venue": "AEA Papers and Proceedings",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Fostering Cooperation: The Conflict-Reducing Effects of Inter-village Competition for Government Transfers",
+   "authors": [
+    "Teevrat Garg",
+    "Caterina Gennaioli",
+    "Stefania Lovo",
+    "Gregor Singer"
+   ],
+   "year": 2026,
+   "venue": "American Economic Journal: Applied Economics",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Tradeoffs and synergies for agriculture and environmental outcomes in the tropics",
+   "authors": [
+    "Jennifer Alix-Garcia",
+    "Juliano Assunção",
+    "Teevrat Garg",
+    "Prakash Mishra",
+    "Fanny Moffette"
+   ],
+   "year": 2025,
+   "venue": "Review of Environmental Economics and Policy",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Heat and Team Production: Experimental Evidence from Bangladesh",
+   "authors": [
+    "Teevrat Garg",
+    "Maulik Jagnani",
+    "Liz Lyons"
+   ],
+   "year": 2025,
+   "venue": "Review of Economics and Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Can Social Protection Reduce Environmental Damages?",
+   "authors": [
+    "Teevrat Garg",
+    "Gordon McCord",
+    "Aleister Montfort"
+   ],
+   "year": 2025,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Going Viral: Public Attention and Environmental Action in the Amazon",
+   "authors": [
+    "Rafael Araujo",
+    "Francisco Costa",
+    "Teevrat Garg"
+   ],
+   "year": 2024,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Rural Roads, Farm Labor Exits and Crop Fires",
+   "authors": [
+    "Teevrat Garg",
+    "Maulik Jagnani",
+    "Hemant K. Pullabhotla"
+   ],
+   "year": 2024,
+   "venue": "American Economic Journal: Economic Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Ecological Impact of Place-Based Economic Policies",
+   "authors": [
+    "Teevrat Garg",
+    "Ajay Shenoy"
+   ],
+   "year": 2021,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Warming from Tropical Deforestation Reduces Worker Productivity in Rural Communities",
+   "authors": [
+    "Yuta J. Masuda",
+    "Teevrat Garg",
+    "Ike Aggraeni",
+    "Kristie Ebi",
+    "Jennifer Krenz",
+    "Edward T. Game",
+    "Nicolas H. Wolff",
+    "June T. Spector"
+   ],
+   "year": 2021,
+   "venue": "Nature Communications",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Extreme Temperatures and Time-Use in China",
+   "authors": [
+    "Teevrat Garg",
+    "Matthew Gibson",
+    "Fanglin Sun"
+   ],
+   "year": 2020,
+   "venue": "Journal of Economic Behavior and Organization",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Heat Exposure from Tropical Deforestation Decreases Cognitive Performance of Rural Workers: An Experimental Study",
+   "authors": [
+    "Yuta J. Masuda",
+    "Teevrat Garg",
+    "Ike Aggraeni",
+    "Nicolas H. Wolff",
+    "Kristie Ebi",
+    "Edward T. Game",
+    "Jennifer Krenz",
+    "June T. Spector"
+   ],
+   "year": 2020,
+   "venue": "Environmental Research Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Temperature and Human Capital in India",
+   "authors": [
+    "Teevrat Garg",
+    "Maulik Jagnani",
+    "Vis Taraz"
+   ],
+   "year": 2020,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Ecological Impact of Transportation Infrastructure",
+   "authors": [
+    "Sam Asher",
+    "Teevrat Garg",
+    "Paul Novosad"
+   ],
+   "year": 2020,
+   "venue": "Economic Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Ecosystems and Human Health: The Local Benefits of Forest Cover in Indonesia",
+   "authors": [
+    "Teevrat Garg"
+   ],
+   "year": 2019,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "(Not So) Gently Down the Stream: River Pollution and Health in Indonesia",
+   "authors": [
+    "Teevrat Garg",
+    "Jacob Hochard",
+    "Stuart Hamilton",
+    "Evan Kresch",
+    "John Talbot"
+   ],
+   "year": 2018,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Emissions Reductions or Green Booms? The General Equilibrium Effects of a Renewable Portfolio Standard",
+   "authors": [
+    "Antonio Bento",
+    "Teevrat Garg",
+    "Daniel Kaffine"
+   ],
+   "year": 2018,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Well-Being Dynamics and Poverty Traps",
+   "authors": [
+    "Christopher B. Barrett",
+    "Teevrat Garg",
+    "Linden McBride"
+   ],
+   "year": 2016,
+   "venue": "Annual Review of Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Market Prices and Food Aid Local and Regional Procurement and Distribution: A Multi-Country Analysis",
+   "authors": [
+    "Teevrat Garg",
+    "Christopher B. Barrett",
+    "Miguel I. Gómez",
+    "Erin C. Lentz",
+    "William Violette"
+   ],
+   "year": 2013,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

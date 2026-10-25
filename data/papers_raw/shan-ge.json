@@ -1,0 +1,129 @@
+{
+ "slug": "shan-ge",
+ "name": "Shan Ge",
+ "sources": [
+  "https://www.shan-ge.com/copy-of-teach",
+  "https://www.shan-ge.com/",
+  "https://www.stern.nyu.edu/faculty/bio/shan-ge"
+ ],
+ "collected": "2026-10-25",
+ "notes": "Homepage (Wix) text is JS-rendered; the CV page (shan-ge.com/copy-of-teach, seminars listed through 2025 incl. scheduled) was fetched from page HTML and has no links or abstracts. CV gives only 'with ...' lists, so authors are alphabetical by surname incl. Ge. Papers with no stated status or 'under journal review' are labelled 工作论文; their year and the R&R years are set to 2026 (CV undated). One web search showed the Hidden Effects paper is R&R at RFS per a coauthor's site (not on Ge's page), left as working paper. Omitted 'work in progress' list. Dept bio page has no publication list.",
+ "papers": [
+  {
+   "title": "The Effect of Insurance Premiums on the Housing Market and Climate Risk Pricing",
+   "authors": [
+    "Shan Ge",
+    "Ammon Lam",
+    "Ryan Lewis"
+   ],
+   "year": 2026,
+   "venue": "Journal of Finance",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Physical Climate Risk Factors and an Application to Measuring Insurers' Climate Risk",
+   "authors": [
+    "Robert Engle",
+    "Shan Ge",
+    "Hyeyoon Jung",
+    "Xuran Zeng"
+   ],
+   "year": 2026,
+   "venue": "Review of Financial Studies",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Hidden Effects of Climate Risk: Rising Insurance Premiums Increase Mortgage Delinquency and Drive Relocation to Safer Areas",
+   "authors": [
+    "Shan Ge",
+    "Stephanie Johnson",
+    "Nitzan Tzur-Ilan"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Does Loan Securitization Expose Borrowers to Non-Bank Investor Shocks?—Evidence from Insurers",
+   "authors": [
+    "Abhishek Bhardwaj",
+    "Shan Ge",
+    "Saptarshi Mukherjee"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How Do Health Insurance Costs Affect Low- and High-Income Workers?",
+   "authors": [
+    "Janet Gao",
+    "Shan Ge",
+    "Lawrence Schmidt",
+    "Cristina Tello-Trillo"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Real Effects of Financial Conditions: How Does Provider Financial Health Affect Opioid Prescription?",
+   "authors": [
+    "Isil Erel",
+    "Shan Ge",
+    "Pengfei Ma"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Conflicting Interests and Fiduciary Duty—Evidence from Variable Annuities",
+   "authors": [
+    "Mark Egan",
+    "Shan Ge",
+    "Johnny Tang"
+   ],
+   "year": 2022,
+   "venue": "Review of Financial Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How Do Financial Constraints Affect Product Pricing? Evidence from Weather and Life Insurance Premiums",
+   "authors": [
+    "Shan Ge"
+   ],
+   "year": 2022,
+   "venue": "Journal of Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Role of Financial Conditions in Portfolio Choices: The Case of Insurers",
+   "authors": [
+    "Shan Ge",
+    "Michael Weisbach"
+   ],
+   "year": 2021,
+   "venue": "Journal of Financial Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

@@ -1,0 +1,323 @@
+{
+ "slug": "catherine-hausman",
+ "name": "Catherine Hausman",
+ "sources": [
+  "https://public.websites.umich.edu/~chausman/CHausman_CV.pdf"
+ ],
+ "collected": "2026-10-25",
+ "notes": "Source: CV dated Oct 2026 (homepage returned Cloudflare 403). Author names kept as initials exactly as on the CV. Skipped op-eds, comments, policy docs, public comments and the JAERE special-issue introduction; included the Haddad-Harrison-Hausman book chapter (2011) and NBER WP 16253 (2010) listed under Other Writing. Lemoine/Hausman/Shrader accepted at JEL: no year on CV, set to 2026. Armitage et al. WP: no year given, set to 2026 (CV date). CV says author order is randomized for Lemoine/Hausman/Shrader and Ham/Kay/Hausman.",
+ "papers": [
+  {
+   "title": "Navigating the 'Problem from Hell': A Guide to Climate Damages",
+   "authors": [
+    "D. Lemoine",
+    "C. Hausman",
+    "J. Shrader"
+   ],
+   "year": 2026,
+   "venue": "Journal of Economic Literature",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Transmission lowers US generation costs, but generator incentives are not aligned",
+   "authors": [
+    "D. Ham",
+    "O. Kay",
+    "C. Hausman"
+   ],
+   "year": 2026,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Power Flows: Transmission Lines, Allocative Efficiency, and Corporate Profits",
+   "authors": [
+    "C. Hausman"
+   ],
+   "year": 2025,
+   "venue": "American Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Power system decarbonization: A comparison between carbon taxes and forcing coal power plant retirements",
+   "authors": [
+    "J. Peng",
+    "J. Buchsbaum",
+    "C. Hausman",
+    "J. L. Mathieu"
+   ],
+   "year": 2024,
+   "venue": "IEEE Transactions on Sustainable Energy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Measurement-based carbon intensity of US offshore oil and gas production",
+   "authors": [
+    "A. M. Gorchov Negron",
+    "E. A. Kort",
+    "G. Plant",
+    "A. R. Brandt",
+    "Y. Chen",
+    "C. Hausman",
+    "M. L. Smith"
+   ],
+   "year": 2024,
+   "venue": "Environmental Research Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Spillovers from Ancillary Services to Wholesale Energy Markets",
+   "authors": [
+    "J. Buchsbaum",
+    "C. Hausman",
+    "J. L. Mathieu",
+    "J. Peng"
+   ],
+   "year": 2024,
+   "venue": "RAND Journal of Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Transmission Impossible? Prospects for Decarbonizing the US Grid",
+   "authors": [
+    "L. W. Davis",
+    "C. Hausman",
+    "N. L. Rose"
+   ],
+   "year": 2023,
+   "venue": "Journal of Economic Perspectives",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Excess methane emissions from shallow water platforms elevate the carbon intensity of US Gulf of Mexico oil and gas production",
+   "authors": [
+    "A. M. Gorchov Negron",
+    "E. A. Kort",
+    "Y. Chen",
+    "A. R. Brandt",
+    "M. L. Smith",
+    "G. Plant",
+    "A. K. Ayasse",
+    "S. Schwietzke",
+    "D. Zavala-Araiza",
+    "C. Hausman",
+    "A. F. Adames-Corraliza"
+   ],
+   "year": 2023,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Who Will Pay for Legacy Utility Costs?",
+   "authors": [
+    "L. Davis",
+    "C. Hausman"
+   ],
+   "year": 2022,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Long-term Impacts of Energy Storage Providing Regulation on Power Plant Retirements and System Emissions",
+   "authors": [
+    "J. Peng",
+    "J. L. Mathieu",
+    "J. Buchsbaum",
+    "C. Hausman"
+   ],
+   "year": 2022,
+   "venue": "Proceedings of the Hawaii International Conference on System Sciences (HICSS)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Inequality, Information Failures, and Air Pollution",
+   "authors": [
+    "C. Hausman",
+    "S. Stolper"
+   ],
+   "year": 2021,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Are Energy Executives Rewarded For Luck?",
+   "authors": [
+    "L. Davis",
+    "C. Hausman"
+   ],
+   "year": 2020,
+   "venue": "The Energy Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Shock Value: Bill Smoothing and Energy Price Pass-Through",
+   "authors": [
+    "C. Hausman"
+   ],
+   "year": 2019,
+   "venue": "Journal of Industrial Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Price Regulation and Environmental Externalities: Evidence from Methane Leaks",
+   "authors": [
+    "C. Hausman",
+    "L. Muehlenbachs"
+   ],
+   "year": 2019,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Regression Discontinuity in Time: Considerations for Empirical Applications",
+   "authors": [
+    "C. Hausman",
+    "D. Rapson"
+   ],
+   "year": 2018,
+   "venue": "Annual Review of Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Climate Change is Projected to Have Severe Impact on the Frequency and Intensity of Peak Electricity Demand across the United States",
+   "authors": [
+    "M. Auffhammer",
+    "P. Baylis",
+    "C. Hausman"
+   ],
+   "year": 2017,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Market Impacts of a Nuclear Power Plant Closure",
+   "authors": [
+    "L. Davis",
+    "C. Hausman"
+   ],
+   "year": 2016,
+   "venue": "American Economic Journal: Applied Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Welfare and Distributional Implications of Shale Gas",
+   "authors": [
+    "C. Hausman",
+    "R. Kellogg"
+   ],
+   "year": 2015,
+   "venue": "Brookings Papers on Economic Activity",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Corporate Incentives and Nuclear Safety",
+   "authors": [
+    "C. Hausman"
+   ],
+   "year": 2014,
+   "venue": "American Economic Journal: Economic Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Biofuels and Land Use Change: Sugarcane and Soybean Acreage Response in Brazil",
+   "authors": [
+    "C. Hausman"
+   ],
+   "year": 2012,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Farm Acreage Shocks and Crop Prices: An SVAR Approach to Understanding the Impacts of Biofuels",
+   "authors": [
+    "C. Hausman",
+    "M. Auffhammer",
+    "P. Berck"
+   ],
+   "year": 2012,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Anatomy of Trade in the 2008-09 Crisis",
+   "authors": [
+    "M. Haddad",
+    "A. Harrison",
+    "C. Hausman"
+   ],
+   "year": 2011,
+   "venue": "Managing Openness: Trade and Outward-Oriented Growth after the Crisis (book chapter, World Bank)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Decomposing the Great Trade Collapse: Products, Prices and Quantities in 2007-2009",
+   "authors": [
+    "M. Haddad",
+    "A. Harrison",
+    "C. Hausman"
+   ],
+   "year": 2010,
+   "venue": "NBER Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Cutting Costs or Cutting Corners: Asset Reallocation in Oil and Gas Production",
+   "authors": [
+    "S. Armitage",
+    "C. Hausman",
+    "J. Boomhower"
+   ],
+   "year": 2026,
+   "venue": "NBER Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

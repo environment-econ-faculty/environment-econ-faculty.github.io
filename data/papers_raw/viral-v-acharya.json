@@ -1,0 +1,1676 @@
+{
+ "slug": "viral-v-acharya",
+ "name": "Viral V. Acharya",
+ "sources": [
+  "https://drive.google.com/uc?export=download&id=1k1qm4WSEOl9V-WMWmi0t2a8Aw1yfT5pT (CV PDF, Acharya)"
+ ],
+ "collected": "2026-10-25",
+ "notes": "From the Google Drive CV (very long; dated 2026, lists items forthcoming into 2026). Kept 'Publications' (refereed journal articles; dropped Jackson Hole proceedings paper, central-bank volume chapter, and non-technical summaries/reprints), 'Papers under revision' (R&R), 'Submitted papers' and 'Working papers'; dropped 'Work in progress', 'Dormant papers', Books. Forthcoming items (no year given) and all undated working/R&R/submitted papers set to year 2026. Items marked 'conditionally accepted' (Zombie Lending and Policy Traps; Do Firms Mitigate Climate Impact on Employment; When Do Treasuries Earn the Convenience Yield) are labelled 即将发表. The 'Deposit and Credit Reallocation' paper is 'reject and resubmit' at JFE, labelled 修改重投. CV gives only 'with ...' lists, so authors are alphabetical by surname including Acharya. Homepage is an old frameset with no links or abstracts, so url is empty and abstract null.",
+ "papers": [
+  {
+   "title": "How do Supply Shocks to Inflation Generalize? Evidence from the Pandemic Era in Europe",
+   "authors": [
+    "Viral V. Acharya",
+    "Matteo Crosignani",
+    "Tim Eisert",
+    "Christian Eufinger"
+   ],
+   "year": 2026,
+   "venue": "Review of Financial Studies",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Climate Transition Risks and the Energy Sector",
+   "authors": [
+    "Viral V. Acharya",
+    "Stefano Giglio",
+    "Stefano Pastore",
+    "Johannes Stroebel",
+    "Zhenhao Tan",
+    "Tiffany Yong"
+   ],
+   "year": 2026,
+   "venue": "Review of Financial Studies",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Deposit and Credit Reallocation in a Banking Panic: The Role of State-Owned Banks",
+   "authors": [
+    "Viral V. Acharya",
+    "Abhiman Das",
+    "Nirupama Kulkarni",
+    "Prachi Mishra",
+    "N.R. Prabhala"
+   ],
+   "year": 2026,
+   "venue": "Journal of Financial Economics",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Is Physical Climate Risk Priced? Evidence from Regional Variation in Exposure to Heat Stress",
+   "authors": [
+    "Viral V. Acharya",
+    "Timothy Johnson",
+    "Suresh Sundaresan",
+    "Tuomas Tomunen"
+   ],
+   "year": 2026,
+   "venue": "Review of Finance",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "When Is Less More? Bank Arrangements for Liquidity vs Central Bank Support",
+   "authors": [
+    "Viral V. Acharya",
+    "Raghuram Rajan",
+    "Zhi Quan (Bill) Shu"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Indebted Supply and Monetary Policy: A Theory of Financial Dominance",
+   "authors": [
+    "Viral V. Acharya",
+    "Guillaume Plantin",
+    "Olivier Wang"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Tariff War Shock and the Convenience Yield of US Treasuries – A Hedging Perspective",
+   "authors": [
+    "Viral V. Acharya",
+    "Toomas Laarits"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Inflation Uncertainty: Measurement, Causes and Consequences",
+   "authors": [
+    "Viral V. Acharya",
+    "Sebastian Hillenbrand",
+    "Margaret Underwood",
+    "Venky Venkateswaran"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Shadow Always Touches the Feet: Implications of Bank Credit Lines to Non-Bank Financial Intermediaries",
+   "authors": [
+    "Viral V. Acharya",
+    "Manasa Gopal",
+    "Maximilian Jager",
+    "Sascha Steffen"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "AI and Productivity: The Role of Innovation",
+   "authors": [
+    "Viral V. Acharya",
+    "Xuehua Shao",
+    "Zhaoxia Xu"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Strategic Commitments to Decarbonize: The Role of Large Firms, Common Ownership, and Governments",
+   "authors": [
+    "Viral V. Acharya",
+    "Rob Engle",
+    "Olivier Wang"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Liquidity Dependence and the Waxing and Waning of Central Bank Balance Sheets",
+   "authors": [
+    "Viral V. Acharya",
+    "Rahul Singh Chauhan",
+    "Raghuram Rajan",
+    "Sascha Steffen"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Fragile Financing: How Corporate Reliance on Shadow Banking Affects Bank Provision of Liquidity",
+   "authors": [
+    "Viral V. Acharya",
+    "Manasa Gopal",
+    "Sascha Steffen"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Credit Risk to NBFIs, Liquidity Risk to Banks: A Conceptual Framework",
+   "authors": [
+    "Viral V. Acharya",
+    "Nicola Cetorelli",
+    "Bruce Tuckman"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "'Safety' by Designation: How Regulatory Treatment Affects the Convenience Yield of Near-Safe Assets",
+   "authors": [
+    "Viral V. Acharya",
+    "Patrick Augustin",
+    "Marti G Subrahmanyam",
+    "Davide Tomio"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Cross-Selling, Bank Performance and Liquidity Risk: Evidence from Norwegian Banks",
+   "authors": [
+    "Viral V. Acharya",
+    "Christoph Basten",
+    "Ragnar Juelsrud",
+    "Karolis Liaudinskas"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Bankruptcy Code and Corporate Information Environment",
+   "authors": [
+    "Viral V. Acharya",
+    "Yakov Amihud",
+    "Yiwei Dou",
+    "Zhaoxia Xu"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Stablecoins and the Upcoming Battle for Depositors",
+   "authors": [
+    "Viral V. Acharya",
+    "Peter Koudijs",
+    "Bruce Tuckman"
+   ],
+   "year": 2026,
+   "venue": "Financial Review",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Corporate Resiliency and the Choice between Operational and Financial Hedging",
+   "authors": [
+    "Viral V. Acharya",
+    "Heitor Almeida",
+    "Yakov Amihud",
+    "Ping Liu"
+   ],
+   "year": 2026,
+   "venue": "Journal of Financial and Quantitative Analysis",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Zombie Lending and Policy Traps",
+   "authors": [
+    "Viral V. Acharya",
+    "Simone Lenzu",
+    "Olivier Wang"
+   ],
+   "year": 2026,
+   "venue": "Review of Economic Studies",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do Firms Mitigate Climate Impact on Employment? Evidence from US Heat Shocks",
+   "authors": [
+    "Viral V. Acharya",
+    "Abhishek Bhardwaj",
+    "Tuomas Tomunen"
+   ],
+   "year": 2026,
+   "venue": "Review of Financial Studies",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Transformed Intermediation: Credit Risk to NBFIs, Liquidity Risk to Banks",
+   "authors": [
+    "Viral V. Acharya",
+    "Nicola Cetorelli",
+    "Bruce Tuckman"
+   ],
+   "year": 2026,
+   "venue": "Journal of Finance: Insights and Perspectives",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Where Do Banks End and NBFIs Begin?",
+   "authors": [
+    "Viral V. Acharya",
+    "Nicola Cetorelli",
+    "Bruce Tuckman"
+   ],
+   "year": 2026,
+   "venue": "Review of Corporate Finance Studies",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "When Do Treasuries Earn the Convenience Yield? – A Hedging Perspective",
+   "authors": [
+    "Viral V. Acharya",
+    "Toomas Laarits"
+   ],
+   "year": 2026,
+   "venue": "Journal of Finance",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Repeated Disasters with Unobserved Duration and Frequency: A Quantitative Equilibrium Analysis",
+   "authors": [
+    "Viral V. Acharya",
+    "Timothy Johnson",
+    "Suresh Sundaresan",
+    "Steven Zheng"
+   ],
+   "year": 2026,
+   "venue": "Management Science",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Sensitivity of Cash Savings to the Cost of Capital",
+   "authors": [
+    "Viral V. Acharya",
+    "Soku Byoun",
+    "Zhaoxia Xu"
+   ],
+   "year": 2026,
+   "venue": "Journal of Financial and Quantitative Analysis",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Systemic Risk Measures: From the Panic of 1907 to the Banking Stress of 2023",
+   "authors": [
+    "Viral V. Acharya",
+    "Markus Brunnermeier",
+    "Diane Pierret"
+   ],
+   "year": 2026,
+   "venue": "Annual Review of Financial Economics",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Bankruptcy Exemption of Repo Markets: Too Much Today for Too Little Tomorrow?",
+   "authors": [
+    "Viral V. Acharya",
+    "Ravi Anshuman",
+    "S. Viswanathan"
+   ],
+   "year": 2025,
+   "venue": "Journal of Political Economy: Macroeconomics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Exorbitant Privilege? Quantitative Easing and the Bond Market Subsidy of Prospective Fallen Angels",
+   "authors": [
+    "Viral V. Acharya",
+    "Ryan Banerjee",
+    "Matteo Crosignani",
+    "Tim Eisert",
+    "Renee Spigt"
+   ],
+   "year": 2025,
+   "venue": "Journal of Financial Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Regulating Carry Trades: Evidence from Foreign Currency Borrowing of Corporations in India",
+   "authors": [
+    "Viral V. Acharya",
+    "Siddharth Vij"
+   ],
+   "year": 2025,
+   "venue": "Review of Economic Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Financing Infrastructure in the Shadow of Expropriation",
+   "authors": [
+    "Viral V. Acharya",
+    "Cecilia Parlatore",
+    "Suresh Sundaresan"
+   ],
+   "year": 2025,
+   "venue": "Review of Financial Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Monetary Easing, Leveraged Payouts and Lack of Investment",
+   "authors": [
+    "Viral V. Acharya",
+    "Guillaume Plantin"
+   ],
+   "year": 2025,
+   "venue": "Management Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Fiscal Stimulus, Deposit Competition, and the Rise of Shadow Banking: Evidence from China",
+   "authors": [
+    "Viral V. Acharya",
+    "Jun \"QJ\" Qian",
+    "Yang Su",
+    "Zhishu Yang"
+   ],
+   "year": 2024,
+   "venue": "Management Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Liquidity, Liquidity Everywhere, Not a Drop To Use: Why Flooding Banks With Central Bank Reserves May Not Expand Liquidity",
+   "authors": [
+    "Viral V. Acharya",
+    "Raghuram G Rajan"
+   ],
+   "year": 2024,
+   "venue": "Journal of Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Why Did Bank Stocks Crash During COVID-19?",
+   "authors": [
+    "Viral V. Acharya",
+    "Rob Engle",
+    "Maximilian Jager",
+    "Sascha Steffen"
+   ],
+   "year": 2024,
+   "venue": "Review of Financial Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Monetary Easing, Lack of Investment and Financial Instability",
+   "authors": [
+    "Viral V. Acharya",
+    "Guillaume Plantin",
+    "Pietro Reggiani",
+    "Iris Yao"
+   ],
+   "year": 2024,
+   "venue": "Journal of Financial Intermediation",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Vaccine Progress, Stock Prices, and the Value of Ending the Pandemic",
+   "authors": [
+    "Viral V. Acharya",
+    "Timothy Johnson",
+    "Suresh Sundaresan",
+    "Steven Zheng"
+   ],
+   "year": 2024,
+   "venue": "Management Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Contingent Credit Under Stress",
+   "authors": [
+    "Viral V. Acharya",
+    "Maximilian Jager",
+    "Sascha Steffen"
+   ],
+   "year": 2024,
+   "venue": "Annual Review of Financial Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Zombie Credit and (Dis-)Inflation: Evidence from Europe",
+   "authors": [
+    "Viral V. Acharya",
+    "Matteo Crosignani",
+    "Tim Eisert",
+    "Christian Eufinger"
+   ],
+   "year": 2024,
+   "venue": "Journal of Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Sovereign Debt and Economic Growth when Government is Myopic and Self-interested",
+   "authors": [
+    "Viral V. Acharya",
+    "Raghuram Rajan",
+    "Jack Shim"
+   ],
+   "year": 2024,
+   "venue": "Journal of International Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Climate Stress Testing",
+   "authors": [
+    "Viral V. Acharya",
+    "Richard Berner",
+    "Robert Engle",
+    "Hyeyoon Jung",
+    "Johannes Stroebel",
+    "Xuran Zeng",
+    "Yihao Zhao"
+   ],
+   "year": 2023,
+   "venue": "Annual Review of Financial Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Foreign Fund Flows and Equity Prices During COVID: Evidence from India",
+   "authors": [
+    "Viral V. Acharya",
+    "Ravi Anshuman",
+    "Kiran Kumar"
+   ],
+   "year": 2022,
+   "venue": "Emerging Markets Finance and Trade",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Anatomy of the Transmission of Macroprudential Policies",
+   "authors": [
+    "Viral V. Acharya",
+    "Katherine Bergant",
+    "Matteo Crosignani",
+    "Tim Eisert",
+    "Fergal J. McCann"
+   ],
+   "year": 2022,
+   "venue": "Journal of Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Zombie Lending; Theoretical, International and Historical Perspectives",
+   "authors": [
+    "Viral V. Acharya",
+    "Matteo Crosignani",
+    "Tim Eisert",
+    "Sascha Steffen"
+   ],
+   "year": 2022,
+   "venue": "Annual Review of Financial Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Dividends and Bank Capital in the Financial Crisis of 2007-09",
+   "authors": [
+    "Viral V. Acharya",
+    "Irvind Gujral",
+    "Nirupama Kulkarni",
+    "Hyun-Song Shin"
+   ],
+   "year": 2022,
+   "venue": "Journal of Financial Crises",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Bank Use of Sovereign CDS in the Eurozone Crisis: Hedging and Risk Incentives",
+   "authors": [
+    "Viral V. Acharya",
+    "Yalin Gunduz",
+    "Timothy Johnson"
+   ],
+   "year": 2022,
+   "venue": "Journal of Financial Intermediation",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Kicking the Can Down the Road: Government Interventions in the European Banking Sector",
+   "authors": [
+    "Viral V. Acharya",
+    "Lea Borchert",
+    "Maximilian Jager",
+    "Sascha Steffen"
+   ],
+   "year": 2021,
+   "venue": "Review of Financial Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Competition for Managers and Corporate Governance",
+   "authors": [
+    "Viral V. Acharya",
+    "Marc Gabarro",
+    "Paolo Volpin"
+   ],
+   "year": 2021,
+   "venue": "Journal of Law, Finance, and Accounting",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Credit Lines and the Liquidity Insurance Channel",
+   "authors": [
+    "Viral V. Acharya",
+    "Heitor Almeida",
+    "Filippo Ippolito",
+    "Ander Perez"
+   ],
+   "year": 2021,
+   "venue": "Journal of Money, Credit and Banking",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Lender of Last Resort versus Buyer of Last Resort – Evidence from the European Sovereign Debt Crisis",
+   "authors": [
+    "Viral V. Acharya",
+    "Diane Pierret",
+    "Sascha Steffen"
+   ],
+   "year": 2021,
+   "venue": "Financial Markets, Institutions and Instruments",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Risk of Being a Fallen Angel and the Corporate Dash for Cash in the Midst of COVID",
+   "authors": [
+    "Viral V. Acharya",
+    "Sascha Steffen"
+   ],
+   "year": 2020,
+   "venue": "Review of Corporate Finance Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Does the Lack of Financial Stability Impair the Transmission of Monetary Policy?",
+   "authors": [
+    "Viral V. Acharya",
+    "Bjorn Imbierowicz",
+    "Sascha Steffen",
+    "Daniel Teichmann"
+   ],
+   "year": 2020,
+   "venue": "Journal of Financial Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Bank Lines of Credit as Contingent Liquidity: Covenant Violations and their Implications",
+   "authors": [
+    "Viral V. Acharya",
+    "Heitor Almeida",
+    "Filippo Ippolito",
+    "Ander Perez"
+   ],
+   "year": 2020,
+   "venue": "Journal of Financial Intermediation",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Risk-Sharing and the Creation of Systemic Risk",
+   "authors": [
+    "Viral V. Acharya",
+    "Aaditya Iyer",
+    "Rangarajan K. Sundaram"
+   ],
+   "year": 2020,
+   "venue": "Journal of Risk and Financial Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economics with Market Liquidity Risk",
+   "authors": [
+    "Viral V. Acharya",
+    "Lasse Pedersen"
+   ],
+   "year": 2019,
+   "venue": "Critical Finance Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Whatever It Takes: The Real Effects of Unconventional Monetary Policy",
+   "authors": [
+    "Viral V. Acharya",
+    "Tim Eisert",
+    "Christian Eufinger",
+    "Christian Hirsch"
+   ],
+   "year": 2019,
+   "venue": "Review of Financial Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "On Reaching for Yield and the Coexistence of Bubbles and Negative Bubbles",
+   "authors": [
+    "Viral V. Acharya",
+    "Hassan Naqvi"
+   ],
+   "year": 2019,
+   "venue": "Journal of Financial Intermediation",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Real Effects of the Sovereign Debt Crises in Europe: Evidence from Syndicated Loans",
+   "authors": [
+    "Viral V. Acharya",
+    "Tim Eisert",
+    "Christian Eufinger",
+    "Christian Hirsch"
+   ],
+   "year": 2018,
+   "venue": "Review of Financial Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Lending Implications of U.S. Bank Stress Tests: Costs or Benefits?",
+   "authors": [
+    "Viral V. Acharya",
+    "Allen Berger",
+    "Raluca Roman"
+   ],
+   "year": 2018,
+   "venue": "Journal of Financial Intermediation",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Bank Capital and Dividend Externalities",
+   "authors": [
+    "Viral V. Acharya",
+    "Hanh Le",
+    "Hyun-Song Shin"
+   ],
+   "year": 2017,
+   "venue": "Review of Financial Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Financial Dependence and Innovation: The Case of Public versus Private Firms",
+   "authors": [
+    "Viral V. Acharya",
+    "Zhaoxia Xu"
+   ],
+   "year": 2017,
+   "venue": "Journal of Financial Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How Do Global Banks Scramble for Liquidity? Evidence from the Asset-Backed Commercial Paper Freeze of 2007",
+   "authors": [
+    "Viral V. Acharya",
+    "Gara Afonso",
+    "Anna Kovner"
+   ],
+   "year": 2017,
+   "venue": "Journal of Financial Intermediation",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Dealer Financial Conditions and Lender of Last Resort Facilities",
+   "authors": [
+    "Viral V. Acharya",
+    "Michael Fleming",
+    "Warren Hrung",
+    "Asani Sarkar"
+   ],
+   "year": 2017,
+   "venue": "Journal of Financial Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Banks' Financial Reporting and Financial System Stability",
+   "authors": [
+    "Viral V. Acharya",
+    "Stephen Ryan"
+   ],
+   "year": 2016,
+   "venue": "Journal of Accounting Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Dark Side of Liquidity Creation: Leverage and Systemic Risk",
+   "authors": [
+    "Viral V. Acharya",
+    "Anjan Thakor"
+   ],
+   "year": 2016,
+   "venue": "Journal of Financial Intermediation",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Caught Between Scylla and Charybdis? Regulating Bank Leverage When There is Rent- Seeking and Risk-Shifting",
+   "authors": [
+    "Viral V. Acharya",
+    "Hamid Mehran",
+    "Anjan Thakor"
+   ],
+   "year": 2016,
+   "venue": "Review of Corporate Finance Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Measuring Systemic Risk",
+   "authors": [
+    "Viral V. Acharya",
+    "Lasse Pedersen",
+    "Thomas Philippon",
+    "Matt Richardson"
+   ],
+   "year": 2016,
+   "venue": "Review of Financial Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Seeking Alpha: Excess Risk Taking and Competition for Managerial Talent",
+   "authors": [
+    "Viral V. Acharya",
+    "Marco Pagano",
+    "Paolo Volpin"
+   ],
+   "year": 2016,
+   "venue": "Review of Financial Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Cash Holdings and Bank Compensation",
+   "authors": [
+    "Viral V. Acharya",
+    "Hamid Mehran",
+    "Rangarajan K Sundaram"
+   ],
+   "year": 2016,
+   "venue": "Economic Policy Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Theory of Income Smoothing when Insiders Know More than Outsiders",
+   "authors": [
+    "Viral V. Acharya",
+    "Bart Lambrecht"
+   ],
+   "year": 2015,
+   "venue": "Review of Financial Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Liquidity Risk and Correlation Risk: A Clinical Study of the General Motors and Ford Downgrade of 2005",
+   "authors": [
+    "Viral V. Acharya",
+    "Stephen Schaefer",
+    "Yili Zhang"
+   ],
+   "year": 2015,
+   "venue": "Quarterly Journal of Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Pyrrhic Victory? Bank Bailouts and Sovereign Credit Risk",
+   "authors": [
+    "Viral V. Acharya",
+    "Itamar Drechsler",
+    "Philipp Schnabl"
+   ],
+   "year": 2015,
+   "venue": "Journal of Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Crisis of Banks as Liquidity Providers",
+   "authors": [
+    "Viral V. Acharya",
+    "Nada Mora"
+   ],
+   "year": 2015,
+   "venue": "Journal of Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Greatest Carry Trade Ever? Understanding Eurozone Bank Risks",
+   "authors": [
+    "Viral V. Acharya",
+    "Sascha Steffen"
+   ],
+   "year": 2015,
+   "venue": "Journal of Financial Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Unintended Consequences of Lender of Last Resort Facilities: The Case of Illiquid Leverage",
+   "authors": [
+    "Viral V. Acharya",
+    "Bruce Tuckman"
+   ],
+   "year": 2014,
+   "venue": "IMF Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Testing Macro-prudential Stress Tests: The Risk of Regulatory Risk Weights",
+   "authors": [
+    "Viral V. Acharya",
+    "Robert Engle",
+    "Diane Pierret"
+   ],
+   "year": 2014,
+   "venue": "Journal of Monetary Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Credit Lines as Monitored Liquidity Insurance: Theory and Evidence",
+   "authors": [
+    "Viral V. Acharya",
+    "Heitor Almeida",
+    "Filippo Ippolito",
+    "Ander Perez"
+   ],
+   "year": 2014,
+   "venue": "Journal of Financial Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Wrongful Discharge Laws and Innovation",
+   "authors": [
+    "Viral V. Acharya",
+    "Ramin Baghai",
+    "Krishnamurthy Subramanian"
+   ],
+   "year": 2014,
+   "venue": "Review of Financial Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Counterparty Risk Externality: Centralized versus Over-the-counter Markets",
+   "authors": [
+    "Viral V. Acharya",
+    "Alberto Bisin"
+   ],
+   "year": 2014,
+   "venue": "Journal of Economic Theory",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Aggregate Risk and the Choice between Cash and Lines of Credit",
+   "authors": [
+    "Viral V. Acharya",
+    "Heitor Almeida",
+    "Murillo Campello"
+   ],
+   "year": 2013,
+   "venue": "Journal of Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Limits to Arbitrage and Hedging: Evidence from Commodity Markets",
+   "authors": [
+    "Viral V. Acharya",
+    "Lars Lochstoer",
+    "Tarun Ramadorai"
+   ],
+   "year": 2013,
+   "venue": "Journal of Financial Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Labor Laws and Innovation",
+   "authors": [
+    "Viral V. Acharya",
+    "Ramin Baghai",
+    "Krishnamurthy Subramanian"
+   ],
+   "year": 2013,
+   "venue": "Journal of Law and Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Growth of a Shadow Banking System in Emerging Markets: Evidence from India",
+   "authors": [
+    "Viral V. Acharya",
+    "Hemal Khandwala",
+    "Sabri Oncu"
+   ],
+   "year": 2013,
+   "venue": "Journal of International Money and Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Liquidity Risk of Corporate Bond Returns: A Conditional Approach",
+   "authors": [
+    "Viral V. Acharya",
+    "Yakov Amihud",
+    "Sreedhar Bharath"
+   ],
+   "year": 2013,
+   "venue": "Journal of Financial Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Sovereign Debt, Government Myopia and the Financial Sector",
+   "authors": [
+    "Viral V. Acharya",
+    "Raghuram Rajan"
+   ],
+   "year": 2013,
+   "venue": "Review of Financial Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Theory of Arbitrage Capital",
+   "authors": [
+    "Viral V. Acharya",
+    "Hyun-Song Shin",
+    "Tanju Yorulmazer"
+   ],
+   "year": 2013,
+   "venue": "Review of Corporate Finance Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Securitization without Risk Transfer",
+   "authors": [
+    "Viral V. Acharya",
+    "Philipp Schnabl",
+    "Gustavo Suarez"
+   ],
+   "year": 2013,
+   "venue": "Journal of Financial Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Proposal for the Resolution of Systemically Important Assets and Liabilities: The Case of the Repo Market",
+   "authors": [
+    "Viral V. Acharya",
+    "Sabri Oncu"
+   ],
+   "year": 2013,
+   "venue": "International Journal of Central Banking",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Precautionary Hoarding of Liquidity and Inter-Bank Markets: Evidence from the Sub-prime Crisis",
+   "authors": [
+    "Viral V. Acharya",
+    "Ouarda Merrouche"
+   ],
+   "year": 2013,
+   "venue": "Review of Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Corporate Governance and Value Creation: Evidence from Private Equity",
+   "authors": [
+    "Viral V. Acharya",
+    "Oliver Gottschalg",
+    "Moritz Hahn",
+    "Conor Kehoe"
+   ],
+   "year": 2013,
+   "venue": "Review of Financial Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Cash Holdings and Credit Risk",
+   "authors": [
+    "Viral V. Acharya",
+    "Sergei Davydenko",
+    "Ilya Strebulaev"
+   ],
+   "year": 2012,
+   "venue": "Review of Financial Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Governments as Shadow Banks: The Looming Threat to Financial Stability",
+   "authors": [
+    "Viral V. Acharya"
+   ],
+   "year": 2012,
+   "venue": "Texas Law Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Capital Shortfall: A New Approach to Ranking and Regulating Systemic Risks",
+   "authors": [
+    "Viral V. Acharya",
+    "Robert Engle",
+    "Matthew Richardson"
+   ],
+   "year": 2012,
+   "venue": "American Economic Review: Papers and Proceedings",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Seeds of a Crisis: A Theory of Bank Liquidity and Risk Taking over the Business Cycle",
+   "authors": [
+    "Viral V. Acharya",
+    "Hassan Naqvi"
+   ],
+   "year": 2012,
+   "venue": "Journal of Financial Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Imperfect Competition in the Inter-Bank Market for Liquidity as a Rationale for Central Banking",
+   "authors": [
+    "Viral V. Acharya",
+    "Denis Gromb",
+    "Tanju Yorulmazer"
+   ],
+   "year": 2012,
+   "venue": "American Economic Journal: Macroeconomics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Fire-sale FDI",
+   "authors": [
+    "Viral V. Acharya",
+    "Hyun-Song Shin",
+    "Tanju Yorulmazer"
+   ],
+   "year": 2011,
+   "venue": "Korean Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Creditor Rights and Corporate Risk-taking",
+   "authors": [
+    "Viral V. Acharya",
+    "Yakov Amihud",
+    "Lubomir Litov"
+   ],
+   "year": 2011,
+   "venue": "Journal of Financial Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Endogenous Information Flows and the Clustering of Announcements",
+   "authors": [
+    "Viral V. Acharya",
+    "Peter DeMarzo",
+    "Ilan Kremer"
+   ],
+   "year": 2011,
+   "venue": "American Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Model of Liquidity Hoarding and Term Premia in Inter-Bank Markets",
+   "authors": [
+    "Viral V. Acharya",
+    "David Skeie"
+   ],
+   "year": 2011,
+   "venue": "Journal of Monetary Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Rollover Risk and Market Freezes",
+   "authors": [
+    "Viral V. Acharya",
+    "Douglas Gale",
+    "Tanju Yorulmazer"
+   ],
+   "year": 2011,
+   "venue": "Journal of Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Finance and Efficiency: Do Bank Branching Regulations Matter?",
+   "authors": [
+    "Viral V. Acharya",
+    "Jean Imbs",
+    "Jason Sturgess"
+   ],
+   "year": 2011,
+   "venue": "Review of Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Crisis Resolution and Bank Liquidity",
+   "authors": [
+    "Viral V. Acharya",
+    "Hyun-Song Shin",
+    "Tanju Yorulmazer"
+   ],
+   "year": 2011,
+   "venue": "Review of Financial Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Internal Governance of Firms",
+   "authors": [
+    "Viral V. Acharya",
+    "Stewart Myers",
+    "Raghuram Rajan"
+   ],
+   "year": 2011,
+   "venue": "Journal of Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Leverage, Moral Hazard and Liquidity",
+   "authors": [
+    "Viral V. Acharya",
+    "S. Viswanathan"
+   ],
+   "year": 2011,
+   "venue": "Journal of Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Cross-country Variations in Capital Structures: The Role of Bankruptcy Codes",
+   "authors": [
+    "Viral V. Acharya",
+    "Kose John",
+    "Rangarajan K. Sundaram"
+   ],
+   "year": 2011,
+   "venue": "Journal of Financial Intermediation",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "More Insiders, More Insider Trading: Evidence from Private Equity Buyouts",
+   "authors": [
+    "Viral V. Acharya",
+    "Timothy Johnson"
+   ],
+   "year": 2010,
+   "venue": "Journal of Financial Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do Global Banks Spread Global Imbalances? Asset-Backed Commercial Paper during the Financial Crisis of 2007-09",
+   "authors": [
+    "Viral V. Acharya",
+    "Philipp Schnabl"
+   ],
+   "year": 2010,
+   "venue": "IMF Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Systemic Risk and Deposit Insurance Premiums",
+   "authors": [
+    "Viral V. Acharya",
+    "Joao Santos",
+    "Tanju Yorulmazer"
+   ],
+   "year": 2010,
+   "venue": "Economic Policy Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Corporate Governance Externalities",
+   "authors": [
+    "Viral V. Acharya",
+    "Paolo Volpin"
+   ],
+   "year": 2010,
+   "venue": "Review of Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Theory of Systemic Risk and Design of Prudential Bank Regulation",
+   "authors": [
+    "Viral V. Acharya"
+   ],
+   "year": 2009,
+   "venue": "Journal of Financial Stability",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Bankruptcy Codes and Innovation",
+   "authors": [
+    "Viral V. Acharya",
+    "Krishnamurthy Subramanian"
+   ],
+   "year": 2009,
+   "venue": "Review of Financial Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Managerial Hedging, Equity Ownership, and Firm Value",
+   "authors": [
+    "Viral V. Acharya",
+    "Alberto Bisin"
+   ],
+   "year": 2009,
+   "venue": "RAND Journal of Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Private Equity versus Plc Boards in the U.K.: A Comparison of Practices and Effectiveness",
+   "authors": [
+    "Viral V. Acharya",
+    "Conor Kehoe",
+    "Michael Reyner"
+   ],
+   "year": 2009,
+   "venue": "Journal of Applied Corporate Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Cash-in-the-Market Pricing and Optimal Resolution of Bank Failures",
+   "authors": [
+    "Viral V. Acharya",
+    "Tanju Yorulmazer"
+   ],
+   "year": 2008,
+   "venue": "Review of Financial Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Information Contagion and Bank Herding",
+   "authors": [
+    "Viral V. Acharya",
+    "Tanju Yorulmazer"
+   ],
+   "year": 2008,
+   "venue": "Journal of Money, Credit and Banking",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Is Cash Negative Debt? – A Hedging Perspective on Corporate Financial Policies",
+   "authors": [
+    "Viral V. Acharya",
+    "Heitor Almeida",
+    "Murillo Campello"
+   ],
+   "year": 2007,
+   "venue": "Journal of Financial Intermediation",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Does Industry-wide Distress Affect Defaulted Firms? - Evidence from Creditor Recoveries",
+   "authors": [
+    "Viral V. Acharya",
+    "Sreedhar Bharath",
+    "Anand Srinivasan"
+   ],
+   "year": 2007,
+   "venue": "Journal of Financial Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Too-Many-To-Fail – An Analysis of Time-inconsistency in Bank Closure Policies",
+   "authors": [
+    "Viral V. Acharya",
+    "Tanju Yorulmazer"
+   ],
+   "year": 2007,
+   "venue": "Journal of Financial Intermediation",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Insider Trading in Credit Derivatives",
+   "authors": [
+    "Viral V. Acharya",
+    "Timothy Johnson"
+   ],
+   "year": 2007,
+   "venue": "Journal of Financial Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Private Equity: Boom and Bust?",
+   "authors": [
+    "Viral V. Acharya",
+    "Julian Franks",
+    "Henri Servaes"
+   ],
+   "year": 2007,
+   "venue": "Journal of Applied Corporate Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "When Does Strategic Debt-Service Affect Debt Spreads?",
+   "authors": [
+    "Viral V. Acharya",
+    "Jing-zhi Huang",
+    "Marti G. Subrahmanyam",
+    "Rangarajan K. Sundaram"
+   ],
+   "year": 2006,
+   "venue": "Economic Theory",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Should Banks Be Diversified? Evidence from Individual Bank Loan Portfolios",
+   "authors": [
+    "Viral V. Acharya",
+    "Iftekhar Hasan",
+    "Anthony Saunders"
+   ],
+   "year": 2006,
+   "venue": "Journal of Business",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Optimal Financial-Market Integration and Security Design",
+   "authors": [
+    "Viral V. Acharya",
+    "Alberto Bisin"
+   ],
+   "year": 2006,
+   "venue": "Journal of Business",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Asset Pricing with Liquidity Risk",
+   "authors": [
+    "Viral V. Acharya",
+    "Lasse Pedersen"
+   ],
+   "year": 2005,
+   "venue": "Journal of Financial Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Is the International Convergence of Capital Adequacy Regulation Desirable?",
+   "authors": [
+    "Viral V. Acharya"
+   ],
+   "year": 2003,
+   "venue": "Journal of Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Corporate Bond Valuation and Hedging with Stochastic Interest Rates and Endogenous Bankruptcy",
+   "authors": [
+    "Viral V. Acharya",
+    "Jennifer N. Carpenter"
+   ],
+   "year": 2002,
+   "venue": "Review of Financial Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Pricing Credit Derivatives with Rating Transitions",
+   "authors": [
+    "Viral V. Acharya",
+    "Sanjiv R. Das",
+    "Rangarajan K. Sundaram"
+   ],
+   "year": 2002,
+   "venue": "Financial Analysts Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "On the Optimality of Resetting Executive Stock Options",
+   "authors": [
+    "Viral V. Acharya",
+    "Kose John",
+    "Rangarajan K. Sundaram"
+   ],
+   "year": 2000,
+   "venue": "Journal of Financial Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

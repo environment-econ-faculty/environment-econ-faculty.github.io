@@ -1,0 +1,1064 @@
+{
+ "slug": "thomas-p-lyon",
+ "name": "Thomas P. Lyon",
+ "sources": [
+  "https://www.bus.umich.edu/FacultyBios/CV/tplyon.pdf (newer CV, undated, ~2025, found via WebSearch)"
+ ],
+ "collected": "2026-10-25",
+ "notes": "Source: newer CV at bus.umich.edu (undated, appears 2025; lists Stanford CASBS 2024-25); the provided 2021 CV was superseded. Dept page (seas.umich.edu) blocked by Cloudflare (403). CV lists '(with ...)' with Lyon apparently first, so bylines put Lyon first as CV implies; true publication order may differ in cases. Year for forthcoming/working papers = 2025 (approximate CV date). Included all refereed journal articles, academic book chapters, and research-in-progress (under review/R&R/working). Skipped: books, reviews, The Conversation/magazine pieces, reports, National Academies chapter. 'Learning or Leaking?' has no coauthors listed in CV. Management Science paper listed online-only via DOI.",
+ "papers": [
+  {
+   "title": "Beyond Coal: When Can Outsider Stakeholders Drive Transformative Change?",
+   "authors": [
+    "Thomas P. Lyon",
+    "Todd Schifeling",
+    "Ion Bodi Vasi"
+   ],
+   "year": 2025,
+   "venue": "Strategic Management Journal",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Political Polarization and Nonmarket Strategy over the Policy Life Cycle",
+   "authors": [
+    "Thomas P. Lyon",
+    "John W. Maxwell"
+   ],
+   "year": 2025,
+   "venue": "Management Science",
+   "status": "已发表",
+   "url": "https://doi.org/10.1287/mnsc.2025.00819",
+   "abstract": null
+  },
+  {
+   "title": "The Urgency and Future of Organizational Scholarship on Climate Change",
+   "authors": [
+    "Thomas P. Lyon",
+    "Todd Schifeling"
+   ],
+   "year": 2025,
+   "venue": "Research in the Sociology of Organizations (book chapter)",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Greenwash as Anticompetitive Symbolic Management",
+   "authors": [
+    "Thomas P. Lyon",
+    "A. Wren Montgomery",
+    "Julien Beaulieu"
+   ],
+   "year": 2025,
+   "venue": "Research in the Sociology of Organizations (book chapter)",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Deny or Greenwash? Exploring the Interactions Between Science Denialism and Greenwashing",
+   "authors": [
+    "Thomas P. Lyon",
+    "Julien Beaulieu",
+    "A. Wren Montgomery"
+   ],
+   "year": 2025,
+   "venue": "Organized Science Denial: An Action Plan for Solutions (book chapter)",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Learning or Leaking? Enforcement Spillover Effects Within and Beyond the Firm",
+   "authors": [
+    "Thomas P. Lyon"
+   ],
+   "year": 2024,
+   "venue": "Business & Society",
+   "status": "已发表",
+   "url": "https://doi.org/10.1177/00076503241294004",
+   "abstract": null
+  },
+  {
+   "title": "Beliefs Matter: Local Climate Concerns and Industrial Greenhouse Gas Emissions in the United States",
+   "authors": [
+    "Thomas P. Lyon",
+    "Glen Dowell"
+   ],
+   "year": 2024,
+   "venue": "Journal of Business Ethics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Filling the Climate Governance Gap: Do Corporate Initiatives Matter as much as State and Local Government Policy?",
+   "authors": [
+    "Thomas P. Lyon",
+    "Ben Leffel",
+    "Joshua Newell"
+   ],
+   "year": 2024,
+   "venue": "Energy Research & Social Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "No End In Sight?: A Greenwash Review and Research Agenda",
+   "authors": [
+    "Thomas P. Lyon",
+    "Julian Barg",
+    "Wren Montgomery"
+   ],
+   "year": 2024,
+   "venue": "Organization & Environment",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Leadership Forum on Organizations and Sustainability: Taking Stock, Looking Forward",
+   "authors": [
+    "Thomas P. Lyon",
+    "Tobias Hahn",
+    "Jennifer Howard-Grenville",
+    "Mike Russo",
+    "Judith Walls"
+   ],
+   "year": 2021,
+   "venue": "Organization & Environment",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Millennial 'Meh': Correlated Groups as Collective Agents in the Automobile Field",
+   "authors": [
+    "Thomas P. Lyon",
+    "A. Wren Montgomery",
+    "Kim Wolske"
+   ],
+   "year": 2020,
+   "venue": "Journal of Management Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Merchants of Doubt: Corporate Political Influence when NGO Credibility is Uncertain",
+   "authors": [
+    "Thomas P. Lyon",
+    "Mireille Chiroleu-Assouline"
+   ],
+   "year": 2020,
+   "venue": "Journal of Economics and Management Strategy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Introduction to the Special Issue on 'Social Movements and Private Environmental Governance'",
+   "authors": [
+    "Thomas P. Lyon"
+   ],
+   "year": 2020,
+   "venue": "Organization & Environment",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Non-profits and the Environment: Using Market Forces for Social Good",
+   "authors": [
+    "Thomas P. Lyon",
+    "Magali Delmas",
+    "Sean Jackson"
+   ],
+   "year": 2020,
+   "venue": "The Nonprofit Sector: A Research Handbook (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Understanding the Role of the Corporation in Sustainability Transitions",
+   "authors": [
+    "Thomas P. Lyon",
+    "Magali Delmas",
+    "John W. Maxwell"
+   ],
+   "year": 2019,
+   "venue": "Organization & Environment",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Theory of Multi-Tier Ecolabel Competition",
+   "authors": [
+    "Thomas P. Lyon",
+    "Carolyn Fischer"
+   ],
+   "year": 2019,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "CSR Needs CPR: Corporate Sustainability and Politics",
+   "authors": [
+    "Thomas P. Lyon",
+    "Magali Delmas",
+    "John W. Maxwell",
+    "Tima Bansal",
+    "Mireille Chiroleu-Assouline",
+    "Patricia Crifo",
+    "Rodolphe Durand",
+    "Jean-Pascal Gond",
+    "Andrew King",
+    "Michael Lenox",
+    "Michael Toffel",
+    "David Vogel",
+    "Frank Wijen"
+   ],
+   "year": 2018,
+   "venue": "California Management Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Salience Games: Private Politics when Public Attention is Limited",
+   "authors": [
+    "Thomas P. Lyon",
+    "Anthony Heyes",
+    "Steve Martin"
+   ],
+   "year": 2018,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Nonmarket Strategy and Social Movements Research: What Are the Gains from Trade?",
+   "authors": [
+    "Thomas P. Lyon"
+   ],
+   "year": 2018,
+   "venue": "Research in the Sociology of Organizations (book chapter)",
+   "status": "已发表",
+   "url": "https://doi.org/10.1108/S0733-558X20180000056013",
+   "abstract": null
+  },
+  {
+   "title": "Not a Drop to Drink? Drinking Water Quality, System Ownership, and Stakeholder Attention",
+   "authors": [
+    "Thomas P. Lyon",
+    "A. Wren Montgomery",
+    "Dan Zhao"
+   ],
+   "year": 2018,
+   "venue": "Research in the Sociology of Organizations (book chapter)",
+   "status": "已发表",
+   "url": "https://doi.org/10.1108/S0733-558X20180000056009",
+   "abstract": null
+  },
+  {
+   "title": "Voluntary Cleanup Programs for Brownfield Sites: A Theoretical Analysis",
+   "authors": [
+    "Thomas P. Lyon",
+    "Allen Blackman",
+    "Kris Wernstedt",
+    "Haitao Yin"
+   ],
+   "year": 2018,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Drivers and Impacts of Renewable Portfolio Standards",
+   "authors": [
+    "Thomas P. Lyon"
+   ],
+   "year": 2016,
+   "venue": "Annual Review of Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Optimizing Eco-Efficiency across the Procurement Portfolio",
+   "authors": [
+    "Thomas P. Lyon",
+    "Rylie E.O. Pelton",
+    "Mo Li",
+    "Timothy M. Smith"
+   ],
+   "year": 2016,
+   "venue": "Environmental Science & Technology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Self-Regulation and Regulatory Flexibility: Why Firms May be Reluctant to Signal Green",
+   "authors": [
+    "Thomas P. Lyon",
+    "John W. Maxwell"
+   ],
+   "year": 2016,
+   "venue": "Strategy Beyond Markets (Advances in Strategic Management) (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Means and End of Greenwash",
+   "authors": [
+    "Thomas P. Lyon",
+    "A. Wren Montgomery"
+   ],
+   "year": 2015,
+   "venue": "Organization & Environment",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Energy as a Driver of Change in the Great Lakes-St. Lawrence River Basin",
+   "authors": [
+    "Thomas P. Lyon",
+    "Brianne Kelly",
+    "Bonnie Keeler",
+    "Gary Helm",
+    "Gail Krantzberg",
+    "Warren Mabee"
+   ],
+   "year": 2015,
+   "venue": "Journal of Great Lakes Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Environmental Disclosure: Evidence from Newsweek's Green Companies Rankings",
+   "authors": [
+    "Thomas P. Lyon",
+    "Jay P. Shimshack"
+   ],
+   "year": 2015,
+   "venue": "Business and Society",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Greenwash vs. Brownwash: Exaggeration and Undue Modesty in Corporate Sustainability Disclosure",
+   "authors": [
+    "Thomas P. Lyon",
+    "Eun-Hee Kim"
+   ],
+   "year": 2014,
+   "venue": "Organization Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Corporate Environmental Strategies in Emerging Economies",
+   "authors": [
+    "Thomas P. Lyon",
+    "Dietrich Earnhart",
+    "Madhu Khanna"
+   ],
+   "year": 2014,
+   "venue": "Review of Environmental Economics and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Competing Environmental Labels",
+   "authors": [
+    "Thomas P. Lyon",
+    "Carolyn Fischer"
+   ],
+   "year": 2014,
+   "venue": "Journal of Economics and Management Strategy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Tweetjacked: The Impact of Social Media on Corporate Greenwash",
+   "authors": [
+    "Thomas P. Lyon",
+    "Allison W. Montgomery"
+   ],
+   "year": 2013,
+   "venue": "Journal of Business Ethics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How Do Shareholders Respond to Sustainability Awards?: Evidence from China",
+   "authors": [
+    "Thomas P. Lyon",
+    "Yao Lu",
+    "Xinzheng Shi",
+    "Qie Yin"
+   ],
+   "year": 2013,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Voluntary Environmental Agreements in Developing Countries: The Colombian Experience",
+   "authors": [
+    "Thomas P. Lyon",
+    "Allen Blackman",
+    "Eduardo Uribe",
+    "Bart van Hoof"
+   ],
+   "year": 2013,
+   "venue": "Policy Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Cleaner Production in Small Firms Taking Part in Mexico's Sustainable Supplier Program",
+   "authors": [
+    "Thomas P. Lyon",
+    "Bart van Hoof"
+   ],
+   "year": 2013,
+   "venue": "Journal of Cleaner Production",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Revitalizing Underperforming and Contaminated Land through Voluntary Action: Perspectives from U.S. Voluntary Cleanup Programs",
+   "authors": [
+    "Thomas P. Lyon",
+    "Kris Wernstedt",
+    "Allen Blackman",
+    "Kelly Novak"
+   ],
+   "year": 2013,
+   "venue": "Land Use Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Promoting Global CCS RDD&D by Stronger U.S.-China Collaboration",
+   "authors": [
+    "Thomas P. Lyon",
+    "Jia-Hai Yuan"
+   ],
+   "year": 2012,
+   "venue": "Renewable and Sustainable Energy Reviews",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Capture or Contract? Evidence from the Early Years of Electric Utility Regulation",
+   "authors": [
+    "Thomas P. Lyon",
+    "Nathan Wilson"
+   ],
+   "year": 2012,
+   "venue": "Journal of Regulatory Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Fragmenting Forests: The Double Edge of Effective Forest Monitoring",
+   "authors": [
+    "Thomas P. Lyon",
+    "Andrew R. Bell",
+    "Rick L. Riolo",
+    "Jacqueline M. Doremus",
+    "Daniel G. Brown",
+    "John Vandermeer",
+    "Arun Agrawal"
+   ],
+   "year": 2012,
+   "venue": "Environmental Science and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Lurching towards Markets for Power: China's Electricity Policy 1985-2007",
+   "authors": [
+    "Thomas P. Lyon",
+    "Xiaoli Zhao",
+    "Cui Song"
+   ],
+   "year": 2012,
+   "venue": "Applied Energy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Why do Electricity Utilities Cooperate with Coal Suppliers? A Theoretical and Empirical Analysis from China",
+   "authors": [
+    "Thomas P. Lyon",
+    "Xiaoli Zhao",
+    "Feng Wang",
+    "Cui Song"
+   ],
+   "year": 2012,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Is 'Smart Charging' Policy for Electric Vehicles Worthwhile?",
+   "authors": [
+    "Thomas P. Lyon",
+    "Mark Michelin",
+    "Arie Jongejan",
+    "Thomas Leahy"
+   ],
+   "year": 2012,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Creating a Plug-In Electric Vehicle Cluster in Michigan: Prospects and Policy Options",
+   "authors": [
+    "Thomas P. Lyon",
+    "Russell Baruffi"
+   ],
+   "year": 2011,
+   "venue": "Michigan Telecommunications and Technology Law Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "When Does Institutional Activism Increase Shareholder Value?: The Carbon Disclosure Project",
+   "authors": [
+    "Thomas P. Lyon",
+    "Eun-Hee Kim"
+   ],
+   "year": 2011,
+   "venue": "The B.E. Journal of Economic Analysis and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Does Public Disclosure Reduce Pollution? Evidence from India's Pulp and Paper Industry",
+   "authors": [
+    "Thomas P. Lyon",
+    "Allen Blackman",
+    "Urvashi Narain",
+    "Nicholas Powers"
+   ],
+   "year": 2011,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Strategic Environmental Disclosure: Evidence from the DOE's Voluntary Greenhouse Gas Registry",
+   "authors": [
+    "Thomas P. Lyon",
+    "Eun-Hee Kim"
+   ],
+   "year": 2011,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Greenwash: Corporate Environmental Disclosure under Threat of Audit",
+   "authors": [
+    "Thomas P. Lyon",
+    "John W. Maxwell"
+   ],
+   "year": 2011,
+   "venue": "Journal of Economics and Management Strategy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "What Drives Participation in State Voluntary Cleanup Programs? Evidence from Oregon",
+   "authors": [
+    "Thomas P. Lyon",
+    "Allen Blackman",
+    "Sarah Darley",
+    "Kris Wernstedt"
+   ],
+   "year": 2010,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Why Do States Adopt Renewable Portfolio Standards? An Empirical Investigation",
+   "authors": [
+    "Thomas P. Lyon",
+    "Haitao Yin"
+   ],
+   "year": 2010,
+   "venue": "The Energy Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Corporate Social Responsibility and the Environment: A Theoretical Perspective",
+   "authors": [
+    "Thomas P. Lyon",
+    "John W. Maxwell"
+   ],
+   "year": 2008,
+   "venue": "Review of Environmental Economics and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Environmental Public Voluntary Programs Reconsidered",
+   "authors": [
+    "Thomas P. Lyon",
+    "John W. Maxwell"
+   ],
+   "year": 2007,
+   "venue": "Policy Studies Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Why Rate-of-Return Adders are Unlikely to Increase Transmission Investment",
+   "authors": [
+    "Thomas P. Lyon"
+   ],
+   "year": 2007,
+   "venue": "The Electricity Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Voluntary Environmental Agreements when Regulatory Capacity is Weak",
+   "authors": [
+    "Thomas P. Lyon",
+    "Allen Blackman",
+    "Nicholas Sisto"
+   ],
+   "year": 2006,
+   "venue": "Comparative Economic Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Does Dual Sourcing Lower Procurement Costs?",
+   "authors": [
+    "Thomas P. Lyon"
+   ],
+   "year": 2006,
+   "venue": "Journal of Industrial Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Regulatory Opportunism and Investment Behavior: Evidence from the Electric Utility Industry",
+   "authors": [
+    "Thomas P. Lyon",
+    "John P. Mayo"
+   ],
+   "year": 2005,
+   "venue": "RAND Journal of Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Astroturf: Interest Group Lobbying and Corporate Strategy",
+   "authors": [
+    "Thomas P. Lyon",
+    "John W. Maxwell"
+   ],
+   "year": 2004,
+   "venue": "Journal of Economics and Management Strategy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Spatial Proximity and Complementarities in the Trading of Tacit Knowledge",
+   "authors": [
+    "Thomas P. Lyon",
+    "Neslihan Aydogan"
+   ],
+   "year": 2004,
+   "venue": "International Journal of Industrial Organization",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Buyer-Option Contracts Restored: Renegotiation, Inefficient Threats, and the Hold-up Problem",
+   "authors": [
+    "Thomas P. Lyon",
+    "Eric Rasmusen"
+   ],
+   "year": 2004,
+   "venue": "Journal of Law, Economics and Organization",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Self-Regulation, Taxation, and Public Voluntary Environmental Agreements",
+   "authors": [
+    "Thomas P. Lyon",
+    "John W. Maxwell"
+   ],
+   "year": 2003,
+   "venue": "Journal of Public Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Legal Remedies for Breach of the Regulatory 'Contract'",
+   "authors": [
+    "Thomas P. Lyon",
+    "Haizhou Huang"
+   ],
+   "year": 2002,
+   "venue": "Journal of Regulatory Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Self-Regulation and Social Welfare: The Political Economy of Corporate Environmentalism",
+   "authors": [
+    "Thomas P. Lyon",
+    "Steven C. Hackett",
+    "John W. Maxwell"
+   ],
+   "year": 2000,
+   "venue": "Journal of Law and Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Quality Leadership when Regulatory Standards are Forthcoming",
+   "authors": [
+    "Thomas P. Lyon",
+    "Stefan Lutz",
+    "John W. Maxwell"
+   ],
+   "year": 2000,
+   "venue": "Journal of Industrial Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Quality, Insurance, and Consumer Choice in Health Care Markets",
+   "authors": [
+    "Thomas P. Lyon"
+   ],
+   "year": 1999,
+   "venue": "Journal of Economics and Management Strategy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Corporate Environmental Strategies as Tools to Influence Regulation",
+   "authors": [
+    "Thomas P. Lyon",
+    "John W. Maxwell"
+   ],
+   "year": 1999,
+   "venue": "Business Strategy and the Environment",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Innovation and Imitation in an Asymmetrically-Regulated Industry",
+   "authors": [
+    "Thomas P. Lyon",
+    "Haizhou Huang"
+   ],
+   "year": 1997,
+   "venue": "International Journal of Industrial Organization",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Model of Sliding-Scale Regulation",
+   "authors": [
+    "Thomas P. Lyon"
+   ],
+   "year": 1996,
+   "venue": "Journal of Regulatory Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Evaluating the Performance of Non-Bayesian Regulatory Mechanisms",
+   "authors": [
+    "Thomas P. Lyon"
+   ],
+   "year": 1996,
+   "venue": "Journal of Regulatory Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Asymmetric Regulation and Incentives for Innovation",
+   "authors": [
+    "Thomas P. Lyon",
+    "Haizhou Huang"
+   ],
+   "year": 1995,
+   "venue": "Industrial and Corporate Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Regulatory Hindsight Review and Innovation by Electric Utilities",
+   "authors": [
+    "Thomas P. Lyon"
+   ],
+   "year": 1995,
+   "venue": "Journal of Regulatory Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "What do 'Facilitating Practices' Facilitate?: An Empirical Investigation of Most-Favored Nation Clauses in Natural Gas Contracts",
+   "authors": [
+    "Thomas P. Lyon",
+    "Keith J. Crocker"
+   ],
+   "year": 1994,
+   "venue": "Journal of Law and Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Bottlenecks and Governance Structures: Open Access and Long-Term Contracting in Natural Gas",
+   "authors": [
+    "Thomas P. Lyon",
+    "Steven C. Hackett"
+   ],
+   "year": 1993,
+   "venue": "Journal of Law, Economics and Organization",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Equilibrium Incentives for Most-Favored Customer Clauses in an Oligopolistic Industry",
+   "authors": [
+    "Thomas P. Lyon",
+    "David Besanko"
+   ],
+   "year": 1993,
+   "venue": "International Journal of Industrial Organization",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Regulation with 20-20 Hindsight: Least-Cost Rules and Variable Costs",
+   "authors": [
+    "Thomas P. Lyon"
+   ],
+   "year": 1992,
+   "venue": "Journal of Industrial Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Regulation with 20-20 Hindsight: Heads I Win, Tails You Lose?",
+   "authors": [
+    "Thomas P. Lyon"
+   ],
+   "year": 1991,
+   "venue": "RAND Journal of Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Designing Price Caps for Gas Distribution Systems",
+   "authors": [
+    "Thomas P. Lyon",
+    "Michael A. Toman"
+   ],
+   "year": 1991,
+   "venue": "Journal of Regulatory Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Spot and Forward Markets for Natural Gas: The Effects of State Regulation",
+   "authors": [
+    "Thomas P. Lyon"
+   ],
+   "year": 1990,
+   "venue": "Journal of Regulatory Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Natural Gas Policy: The Unresolved Issues",
+   "authors": [
+    "Thomas P. Lyon"
+   ],
+   "year": 1990,
+   "venue": "The Energy Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Gas Utility Supply Planning: Risk Management and Regulatory Oversight",
+   "authors": [
+    "Thomas P. Lyon",
+    "Benjamin Schlesinger"
+   ],
+   "year": 1988,
+   "venue": "The Energy Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How Much Does Industry Matter...to Environmental Performance?",
+   "authors": [
+    "Thomas P. Lyon",
+    "Glen Dowell",
+    "Kunyuan Qiao"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Sour Grapes Or Greenwash?: Moralities and the Negotiation of Moral Market Boundaries",
+   "authors": [
+    "Thomas P. Lyon",
+    "A. Wren Montgomery",
+    "Catherine Summers"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Dirty Opposition, Clean Support in Global Corporate Climate Lobbying",
+   "authors": [
+    "Thomas P. Lyon",
+    "Ben Leffel"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Credence Goods and Fraud with Collective Reputation",
+   "authors": [
+    "Thomas P. Lyon",
+    "Arnab Mitra"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Local Political Polarization and Industrial GHG Reductions",
+   "authors": [
+    "Thomas P. Lyon",
+    "Glen Dowell",
+    "Kunyuan Qian"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Is a Word to the Wise Sufficient? Evidence from China's 'Invite-to-talk' Environmental Policy",
+   "authors": [
+    "Thomas P. Lyon",
+    "Yue S. Fang"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Linking Public and Private Politics: Activist Strategies for Industry Transformation",
+   "authors": [
+    "Thomas P. Lyon",
+    "Stephen Salant"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

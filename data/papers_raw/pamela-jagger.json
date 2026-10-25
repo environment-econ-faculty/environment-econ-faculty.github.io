@@ -1,0 +1,1090 @@
+{
+ "slug": "pamela-jagger",
+ "name": "Pamela Jagger",
+ "sources": [
+  "https://seas.umich.edu/sites/default/files/2025-05/Jagger%20CV%20April%202025.pdf"
+ ],
+ "collected": "2026-10-25",
+ "notes": "Source: CV dated April 2025 only (no homepage). Author names kept as given on the CV (initials), reordered to 'initials surname' by script from the CV's mixed formats; first-name expansion not attempted. Included the CV's peer-reviewed articles (58 of 59; the Hajjar et al. 2021 'Commentary' skipped; Parsons et al. forthcoming at GeoHealth), 7 refereed book chapters, and 6 under-review/R&R items. Skipped 'Other peer reviewed' items (IUFRO chapters, CIFOR guide, IFPRI/RFF discussion papers and reports). Under-review items without a year on the CV were given 2025 (CV date). Venues for under-review items: R&R items list the target journal as venue with status 修改重投; others marked 'Working Paper (under review, X)'. Richardson et al. is 2025 forthcoming at ERSS. Possible garble: 'Mason Meier' treated as one surname.",
+ "papers": [
+  {
+   "title": "Impacts of a cookstove intervention in urban Zambia on cook's personal exposure to carbon monoxide and particulate matter",
+   "authors": [
+    "S. Parsons",
+    "W. Hayes",
+    "J. Pedit",
+    "G. Kabwe",
+    "F. Yamba",
+    "N. Serenje",
+    "R. Bailis",
+    "P. Jagger",
+    "A. Grieshop"
+   ],
+   "year": 2025,
+   "venue": "GeoHealth",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Household Air Pollution Exposure and Risk of Tuberculosis among Adult Women in Lilongwe, Malawi",
+   "authors": [
+    "P. Jagger",
+    "A. Gallerani",
+    "I. Hoffman",
+    "C. Jumbe",
+    "R. McCord",
+    "J. Pedit",
+    "S. Phiri",
+    "R. Krysiak",
+    "K. Maleta"
+   ],
+   "year": 2024,
+   "venue": "BMJ Public Health",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Risk of Cognitive Impairment from Biomass Cooking in Africa",
+   "authors": [
+    "R. McCord",
+    "S. Parsons",
+    "A.S. Bittner",
+    "C. Jumbe",
+    "J. Pedit",
+    "N. Serenge",
+    "A. Grieshop",
+    "P. Jagger"
+   ],
+   "year": 2024,
+   "venue": "Indoor Air",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do Decentralized Solar Mini Grids Improve Energy Access for Small Enterprises in Goma, Democratic Republic of Congo?",
+   "authors": [
+    "J. Thompson",
+    "R.B. Ramazani",
+    "C.S. Sinai",
+    "K.K. Bindu",
+    "P. Jagger"
+   ],
+   "year": 2024,
+   "venue": "Energy for Sustainable Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Remittance from migrants reinforces forest recovery for China's reforestation policy",
+   "authors": [
+    "Q. Zhang",
+    "S. Tao",
+    "P. Jagger",
+    "R. Bilsborrow",
+    "Z. Shang",
+    "Q. Huang",
+    "L. Band",
+    "Q. Zhang",
+    "C. Song"
+   ],
+   "year": 2024,
+   "venue": "PLoS One",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Role of Forests and Trees in Poverty Dynamics",
+   "authors": [
+    "P. Jagger",
+    "J. Zavaleta Cheek",
+    "D.C. Miller",
+    "C. Ryan",
+    "P. Shyamsundar",
+    "E.O. Sills"
+   ],
+   "year": 2022,
+   "venue": "Forest Policy and Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "City Living but Still Energy Poor? Household Energy Transitions under Rapid Urbanization in Myanmar",
+   "authors": [
+    "T. Aung",
+    "P. Jagger",
+    "K.T. Hlaing",
+    "K.K. Han",
+    "W. Kobayashi"
+   ],
+   "year": 2022,
+   "venue": "Energy Research and Social Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Emissions Impacts of electrifying motorcycle taxis in Kampala, Uganda",
+   "authors": [
+    "M. Vanatta",
+    "B. Rathod",
+    "J. Calzavara",
+    "T. Courtright",
+    "T. Sims",
+    "É. Saint-Sernin",
+    "H. Clack",
+    "P. Jagger",
+    "M. Craig"
+   ],
+   "year": 2022,
+   "venue": "Transportation Research Part D: Transport and the Environment",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Occupational Exposure in the Informal Sector: A Case of Fish Smoking in Coastal Ghana",
+   "authors": [
+    "C. Weyant",
+    "A-B. Amoah",
+    "A. Bittner",
+    "J. Pedit",
+    "S.N.A. Codjoe",
+    "P. Jagger"
+   ],
+   "year": 2022,
+   "venue": "Environmental Health Perspectives",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Energy Access and the Ultra-poor: Do Unconditional Social Cash Transfers Close the Energy Access gap in Malawi?",
+   "authors": [
+    "T. Aung",
+    "R. Bailis",
+    "T. Chilongo",
+    "A. Ghilardi",
+    "C. Jumbe",
+    "P. Jagger"
+   ],
+   "year": 2021,
+   "venue": "Energy for Sustainable Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Determinants of Pathogen Contamination of the Environment in the Greater Yangon Area, Myanmar",
+   "authors": [
+    "L. Espira",
+    "T. Aung",
+    "P. Jagger",
+    "J.N.S. Eisenberg"
+   ],
+   "year": 2021,
+   "venue": "Environmental Science and Technology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Is Energy the Golden Thread? A Systematic Review of the Impacts of Modern and Traditional Energy Use in Low- and Middle-Income Countries",
+   "authors": [
+    "M. Jeuland",
+    "T.R. Fetter",
+    "Y. Li",
+    "S.K. Pattanayak",
+    "F. Usmani",
+    "R. Bluffstone",
+    "C. Chavez",
+    "H. Girardeau",
+    "S. Hassen",
+    "P. Jagger",
+    "M. Jaime",
+    "M. Karumba",
+    "G. Köhlin",
+    "L. Lenz",
+    "E. Litzow",
+    "L. Masatsugu",
+    "M. A. Naranjo",
+    "J. Peters",
+    "P. Qin",
+    "R. Ruhinduka",
+    "M. Serrano",
+    "M. Sievert",
+    "E.O. Sills",
+    "M. Toman"
+   ],
+   "year": 2021,
+   "venue": "Renewable and Sustainable Energy Reviews",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Forests, Trees and Poverty Alleviation: Policy Implications of Current Knowledge",
+   "authors": [
+    "D.C. Miller",
+    "M. Gabay",
+    "R. Hajjar",
+    "P. Jagger",
+    "J. Kamoto",
+    "S. Mansourian",
+    "J. Oldekop",
+    "P. Shyamsundar",
+    "T. Sunderland",
+    "C. Wildburger"
+   ],
+   "year": 2021,
+   "venue": "Forest Policy and Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Systems Science Approaches for Global Environmental Health Research: Enhancing Intervention Design and Program Implementation in Household Air Pollution and Water, Sanitation and Hygiene (WASH) Programs",
+   "authors": [
+    "J. Rosenthal",
+    "R.E. Arku",
+    "J. Baumgartner",
+    "J.M. Brown",
+    "J. Eisenberg",
+    "P. Jagger",
+    "P. Hovmand",
+    "D. Luke",
+    "A. Quinn",
+    "G. Yadama"
+   ],
+   "year": 2020,
+   "venue": "Environmental Health Perspectives",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Smallholder Livelihood Responses to Climate Anomalies in Rural Uganda",
+   "authors": [
+    "M. Call",
+    "C. Gray",
+    "P. Jagger"
+   ],
+   "year": 2019,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Early Adoption of an Improved Household Energy System in Urban Rwanda",
+   "authors": [
+    "P. Jagger",
+    "I. Das",
+    "S. Handa",
+    "L. Nylander-French",
+    "K. Yeatts"
+   ],
+   "year": 2019,
+   "venue": "EcoHealth",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Supply Considerations for Scaling-up Clean Cooking Fuels for Household Energy in Low and Middle-Income Countries",
+   "authors": [
+    "E. Puzzolo",
+    "H. Zerriffi",
+    "E. Carter",
+    "H. Clemens",
+    "H. Stokes",
+    "P. Jagger",
+    "J. Rosenthal",
+    "H. Petach"
+   ],
+   "year": 2019,
+   "venue": "GeoHealth",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Household Air Pollution, Microenvironment and Child Health: Strategies for Mitigating HAP Exposure in Urban Rwanda",
+   "authors": [
+    "I. Das",
+    "J. Pedit",
+    "S. Handa",
+    "P. Jagger"
+   ],
+   "year": 2018,
+   "venue": "Environmental Research Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Implementation and Scale-up of a Biomass Pellet and Improved Cookstove Enterprise in Rwanda",
+   "authors": [
+    "P. Jagger",
+    "I. Das"
+   ],
+   "year": 2018,
+   "venue": "Energy for Sustainable Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Medium-Term Impacts of Community Management Agreements in Uganda's Rwenzori Mountains National Park",
+   "authors": [
+    "P. Jagger",
+    "S. Sellers",
+    "N. Kittner",
+    "I. Das",
+    "G. Bush"
+   ],
+   "year": 2018,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Barriers and Facilitators to Adoption and Use of Improved cookstoves and Fuel Pellets in Urban Rwanda",
+   "authors": [
+    "R. Seguin",
+    "V. Flax",
+    "P. Jagger"
+   ],
+   "year": 2018,
+   "venue": "PLoS One",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Fuelwood Use in Rural China: Do Forest Restoration and Conservation Programs Matter?",
+   "authors": [
+    "C. Song",
+    "R. Bilsborrow",
+    "P. Jagger",
+    "Q. Zhang",
+    "X. Chen",
+    "Q. Haung"
+   ],
+   "year": 2018,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Impacts of China's Conversion of Cropland to Forest Program on Migration and Household Income",
+   "authors": [
+    "P. Treacy",
+    "P. Jagger",
+    "C. Song",
+    "Q. Zhang",
+    "R.E. Bilsborrow"
+   ],
+   "year": 2018,
+   "venue": "Environmental Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Social Capital, Collective Action and Communal Grazing Lands in Uganda",
+   "authors": [
+    "M. Call",
+    "P. Jagger"
+   ],
+   "year": 2017,
+   "venue": "International Journal of the Commons",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Balancing Carrots and Sticks in REDD+ Implementation: Implications for Social Safeguards",
+   "authors": [
+    "A.E. Duchelle",
+    "C. de Sassi",
+    "P. Jagger",
+    "M. Cromberg",
+    "A.M. Larson",
+    "W.D. Sunderlin",
+    "I.A.P. Resosudarmo",
+    "C.D. Pratama"
+   ],
+   "year": 2017,
+   "venue": "Ecology and Society",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Deforestation and Biomass Fuel Dynamics in Uganda",
+   "authors": [
+    "P. Jagger",
+    "N. Kittner"
+   ],
+   "year": 2017,
+   "venue": "Biomass and Bioenergy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Fuel Efficiency and Emissions of Wood-Burning Improved Cookstoves in Malawi: Implications for Scaling-up Cookstove Programs",
+   "authors": [
+    "P. Jagger",
+    "J. Pedit",
+    "A. Bittner",
+    "L. Hamrick",
+    "T. Phwandaphwanda",
+    "Charles Jumbe"
+   ],
+   "year": 2017,
+   "venue": "Energy for Sustainable Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Using Publicly Available Social and Spatial Data to Quantitatively Assess Social Impacts of Early REDD+ Activities in Kalimantan, Indonesia",
+   "authors": [
+    "P. Jagger",
+    "P. Rana"
+   ],
+   "year": 2017,
+   "venue": "Environmental Science and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Burning Opportunity: Using Human Rights as a Catalyst for Policies to Mitigate the Health Risks of Household Air Pollution",
+   "authors": [
+    "B. Mason Meier",
+    "I. Das",
+    "P. Jagger"
+   ],
+   "year": 2017,
+   "venue": "Journal of Human Rights and Environment",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Building the Evidence Base for REDD+: Evaluating the Impacts of Conservation Interventions on Human Welfare",
+   "authors": [
+    "E.O. Sills",
+    "C. de Sassi",
+    "P. Jagger",
+    "K. Lawlor",
+    "D. Miteva",
+    "S.K. Pattanayak",
+    "W.D. Sunderlin"
+   ],
+   "year": 2017,
+   "venue": "Global Environmental Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Biomass Cooking Fuels and Health Outcomes for Women in Malawi",
+   "authors": [
+    "I. Das",
+    "P. Jagger",
+    "K. Yeatts"
+   ],
+   "year": 2016,
+   "venue": "EcoHealth",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Stoves or Sugar? Willingness to Adopt Improved Cookstoves in Malawi",
+   "authors": [
+    "P. Jagger",
+    "C. Jumbe"
+   ],
+   "year": 2016,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Land Use and Biomass Fuel Dynamics in Malawi",
+   "authors": [
+    "P. Jagger",
+    "C. Perez-Heydrich"
+   ],
+   "year": 2016,
+   "venue": "Environmental Research Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Bundles, Duties and Rights: A Revised Framework for Analysis of Natural Resource Property Rights Regimes",
+   "authors": [
+    "C. Galik",
+    "P. Jagger"
+   ],
+   "year": 2015,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Taxes and Bribes in Uganda",
+   "authors": [
+    "P. Jagger",
+    "G. Shively"
+   ],
+   "year": 2015,
+   "venue": "Journal of Development Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Environmental Income and Rural Livelihoods: A Global Comparative Analysis",
+   "authors": [
+    "A. Angelsen",
+    "P. Jagger",
+    "R. Babigumira",
+    "B. Belcher",
+    "N. Hogarth",
+    "S. Bauch",
+    "J. Borner",
+    "C. SmithOlsen",
+    "S. Wunder"
+   ],
+   "year": 2014,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "40 Years of Dialogue on Food Sovereignty: A Review and a Look Ahead",
+   "authors": [
+    "A. Chaifetz",
+    "P. Jagger"
+   ],
+   "year": 2014,
+   "venue": "Global Food Security",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Clarity vs. Confusion: Property Rights and Forest Use in Uganda",
+   "authors": [
+    "P. Jagger"
+   ],
+   "year": 2014,
+   "venue": "Forest Policy and Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Multi-level Policy Dialogues and Actions: Challenges and Opportunities for National REDD+ Safeguards Monitoring, Reporting and Verification (MRV)",
+   "authors": [
+    "P. Jagger",
+    "M. Brockhaus",
+    "A. Duchelle",
+    "M.F. Gebera",
+    "K. Lawlor",
+    "I.A.P. Resosudarmo",
+    "W.D. Sunderlin"
+   ],
+   "year": 2014,
+   "venue": "Forests",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Tenure and Forest Income: Observations from a Global Study on Forests and Poverty",
+   "authors": [
+    "P. Jagger",
+    "M.K. Luckert",
+    "A. Duchelle",
+    "J.F. Lund",
+    "W.D. Sunderlin"
+   ],
+   "year": 2014,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Land Use Change, Fuel Use and Respiratory Health in Uganda",
+   "authors": [
+    "P. Jagger",
+    "G. Shively"
+   ],
+   "year": 2014,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Forest Sustainability and China's Sloping Land Conversion Program (SLCP): A Comparison among Three Sites in Anhui, Hubei and Shanxi",
+   "authors": [
+    "C. Song",
+    "Y. Zhang",
+    "Y. Mei",
+    "Z. Zhang",
+    "Q. Zhang",
+    "T. Zha",
+    "K. Zhang",
+    "C. Huang",
+    "X. Xu",
+    "P. Jagger",
+    "X. Chen",
+    "R. Bilsborrow"
+   ],
+   "year": 2014,
+   "venue": "Forest Policy and Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Environmental Income, Rural Livelihoods and Income Inequality in Western Uganda",
+   "authors": [
+    "P. Jagger"
+   ],
+   "year": 2012,
+   "venue": "Forests, Trees and Livelihoods",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Asking Questions to Understand Rural Livelihoods: Comparing Disaggregated vs. Aggregated Approaches to Household Livelihood Questionnaires",
+   "authors": [
+    "P. Jagger",
+    "M.K. Luckert",
+    "A. Banana",
+    "J. Bahati"
+   ],
+   "year": 2012,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Circular Migration, Small-scale Logging and Livelihoods in Uganda",
+   "authors": [
+    "P. Jagger",
+    "G. Shively",
+    "A. Arinaitwe"
+   ],
+   "year": 2012,
+   "venue": "Population and Environment",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Evaluating the Land Use and Livelihood Outcomes of Early Forest Carbon Projects: Lessons for REDD+",
+   "authors": [
+    "S. Caplow",
+    "P. Jagger",
+    "K. Lawlor",
+    "E. Sills"
+   ],
+   "year": 2011,
+   "venue": "Environmental Science and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Income and Poverty Effects of Charcoal Production in Western Uganda",
+   "authors": [
+    "F. Khundi",
+    "P. Jagger",
+    "D. Sserunkuuma",
+    "G. Shively"
+   ],
+   "year": 2011,
+   "venue": "Forest Policy and Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Uneven Reach of Decentralization: A Case Study among Indigenous Peoples in the Bolivian Amazon",
+   "authors": [
+    "V. Reyes-Garcia",
+    "V. Vadez",
+    "J. Aragón",
+    "T. Huanca",
+    "P. Jagger"
+   ],
+   "year": 2010,
+   "venue": "International Political Science Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Profits and Margins along Uganda's Charcoal Value Chain",
+   "authors": [
+    "G. Shively",
+    "P. Jagger",
+    "D. Sserunkuuma",
+    "A. Arinaitwe",
+    "C. Chibwana"
+   ],
+   "year": 2010,
+   "venue": "International Forestry Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Contribution of Institutional Theories to Explaining Decentralization of Natural Resource Governance",
+   "authors": [
+    "T. Bartley",
+    "K. Andersson",
+    "P. Jagger",
+    "F. van Laerhoven"
+   ],
+   "year": 2008,
+   "venue": "Society and Natural Resources",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Investments and Returns from Cooperative and Household Managed Woodlots in Zimbabwe: Implications for Rural Afforestation Policy",
+   "authors": [
+    "P. Jagger",
+    "M.K. Luckert"
+   ],
+   "year": 2008,
+   "venue": "Land Use Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Trading-off Environmental Sustainability for Empowerment and Income: Woodlot Devolution in Northern Ethiopia",
+   "authors": [
+    "P. Jagger",
+    "J. Pender",
+    "B. Gebremedhin"
+   ],
+   "year": 2005,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Development Pathways and Land Management in Uganda",
+   "authors": [
+    "J. Pender",
+    "P. Jagger",
+    "E. Nkonya",
+    "D. Sserunkuuma"
+   ],
+   "year": 2004,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Strategies to Increase Agricultural Productivity and Reduce Land Degradation: Evidence from Uganda",
+   "authors": [
+    "J. Pender",
+    "E. Nkonya",
+    "P. Jagger",
+    "D. Sserunkuuma",
+    "H. Ssali"
+   ],
+   "year": 2004,
+   "venue": "Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Role of Trees for Sustainable Management of Less Favored Lands: The Case of Eucalyptus in Ethiopia",
+   "authors": [
+    "P. Jagger",
+    "J. Pender"
+   ],
+   "year": 2003,
+   "venue": "Forest Policy and Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Markets, Marketing, and Production Issues for Aquaculture in East Africa: The Case of Uganda",
+   "authors": [
+    "P. Jagger",
+    "J. Pender"
+   ],
+   "year": 2001,
+   "venue": "Naga - The ICLARM (International Center for Living Aquatic Resources Management) Quarterly",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Implications of Co-Management for Benefits from Natural Resources for Rural Households in Northeastern Zimbabwe",
+   "authors": [
+    "I. Grundy",
+    "J. Turpie",
+    "P. Jagger",
+    "E. Witkowski",
+    "I. Guambe",
+    "D. Semwayo",
+    "A. Solomon"
+   ],
+   "year": 2000,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Effect of Land Use Restrictions on the Economy of Alberta: A Computable General Equilibrium Analysis",
+   "authors": [
+    "J. Alavalapati",
+    "W. White",
+    "P. Jagger",
+    "A. Wellstead"
+   ],
+   "year": 1996,
+   "venue": "Canadian Journal of Regional Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "SDG 7: Affordable and Clean Energy - How Access to Affordable and Clean Energy Affects Forests and Forest-Based Livelihoods",
+   "authors": [
+    "P. Jagger",
+    "R. Bailis",
+    "A. Dermawan",
+    "N. Kittner",
+    "R. McCord"
+   ],
+   "year": 2019,
+   "venue": "Sustainable Development Goals: Their Impacts on Forests and People (Cambridge University Press, book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "REDD+ Safeguards in National Policy Discourse and Pilot Projects",
+   "authors": [
+    "P. Jagger",
+    "K. Lawlor",
+    "M. Brockhaus",
+    "M. F. Gebara",
+    "D. Sonwa",
+    "I. A. P. Resosudarmo"
+   ],
+   "year": 2012,
+   "venue": "Analyzing REDD+: Challenges and Choices (CIFOR, book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Forest Sector Reform, Livelihoods and Sustainability in Western Uganda",
+   "authors": [
+    "P. Jagger"
+   ],
+   "year": 2010,
+   "venue": "Governing Africa's Forests in a Globalized World (Earthscan/CIFOR, book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Learning by Doing: Evaluating Impacts of REDD",
+   "authors": [
+    "P. Jagger",
+    "S. Atmadja",
+    "S. K. Pattanayak",
+    "E. Sills",
+    "W. D. Sunderlin"
+   ],
+   "year": 2009,
+   "venue": "Realizing REDD: National Strategy and Policy Options (CIFOR, book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Influence of Programs and Organizations on the Adoption of Sustainable Land Management Technologies in Uganda",
+   "authors": [
+    "P. Jagger",
+    "J. Pender"
+   ],
+   "year": 2006,
+   "venue": "Strategies for Sustainable Land Management in the East African Highlands (IFPRI/World Bank, book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Carbon Sinks in the Post Kyoto World",
+   "authors": [
+    "R. Sedjo",
+    "B. Sohngen",
+    "P. Jagger"
+   ],
+   "year": 2001,
+   "venue": "Climate Change Economics and Policy (Resources for the Future Press, book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Market Economy and Biodiversity",
+   "authors": [
+    "R. D. Simpson",
+    "P. Jagger"
+   ],
+   "year": 2000,
+   "venue": "Encyclopedia of Biodiversity (Academic Press, book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do coupled population, economic, and land use dynamics explain household energy transitions in Malawi?",
+   "authors": [
+    "K. E. B. Beach",
+    "V. Goel",
+    "Y. Wu",
+    "B. Entwisle",
+    "P. Jagger"
+   ],
+   "year": 2025,
+   "venue": "World Development",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Unlocking Financial Inclusion through Solar Technology Adoption",
+   "authors": [
+    "C. Dai",
+    "R. McCord",
+    "K. B. Beach",
+    "A. Mahieu",
+    "T. Chilongo",
+    "C. Jumbe",
+    "P. Jagger"
+   ],
+   "year": 2025,
+   "venue": "Working Paper (under review, Energy Economics)",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Higher Temperatures are Associated with Lower Birthweight in Bangladesh",
+   "authors": [
+    "E. Ludwig-Borycz",
+    "A. Baylin",
+    "C. A. Moyer",
+    "N. Kochanski",
+    "N. Pradhan",
+    "S. A. Bell",
+    "J. Eisenberg",
+    "P. Jagger",
+    "N. Siddika",
+    "P. Larson",
+    "S. Zhou",
+    "C. Liao",
+    "A. Agrawal"
+   ],
+   "year": 2025,
+   "venue": "Working Paper (under review, BMJ Public Health)",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Can solar provide sustainable energy for all? Adoption and sustained use of household solar technologies in Malawi",
+   "authors": [
+    "A. Mahieu",
+    "R. McCord",
+    "K. B. Beach",
+    "C. Dai",
+    "T. Chilongo",
+    "C. Jumbe",
+    "P. Jagger"
+   ],
+   "year": 2025,
+   "venue": "Energy Research and Social Science",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Shining light on the scale, use, and impact of household solar for achieving energy access in rural Africa",
+   "authors": [
+    "R. McCord",
+    "K. B. Beach",
+    "A. Mahieu",
+    "T. Chilongo",
+    "C. Jumbe",
+    "P. Jagger"
+   ],
+   "year": 2025,
+   "venue": "Working Paper (under review, Energy Economics)",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Money matters: Does access to financial services foster household energy transitions in Africa?",
+   "authors": [
+    "L. Richardson",
+    "P. Shrestha",
+    "C. Milliken",
+    "E. O. Sills",
+    "S. Lloyd",
+    "L. C. Nareau",
+    "S. Scott",
+    "P. Jagger"
+   ],
+   "year": 2025,
+   "venue": "Energy Research and Social Science",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

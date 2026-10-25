@@ -4558,6 +4558,626 @@
 ],
 "remote": []
 },
+"impactsofacookstoveinterventioninurbanzambiaoncookspersonalexposuretocarbonmonox": {
+"title": "Impacts of a cookstove intervention in urban Zambia on cook's personal exposure to carbon monoxide and particulate matter",
+"authors": [
+"S. Parsons",
+"W. Hayes",
+"J. Pedit",
+"G. Kabwe",
+"F. Yamba",
+"N. Serenje",
+"R. Bailis",
+"P. Jagger",
+"A. Grieshop"
+],
+"unresolved": [
+"S. Parsons",
+"W. Hayes",
+"G. Kabwe",
+"F. Yamba",
+"N. Serenje",
+"A. Grieshop"
+],
+"owners": [
+"pamela-jagger"
+],
+"remote": []
+},
+"householdairpollutionexposureandriskoftuberculosisamongadultwomeninlilongwemalaw": {
+"title": "Household Air Pollution Exposure and Risk of Tuberculosis among Adult Women in Lilongwe, Malawi",
+"authors": [
+"P. Jagger",
+"A. Gallerani",
+"I. Hoffman",
+"C. Jumbe",
+"R. McCord",
+"J. Pedit",
+"S. Phiri",
+"R. Krysiak",
+"K. Maleta"
+],
+"unresolved": [
+"A. Gallerani",
+"I. Hoffman",
+"S. Phiri",
+"R. Krysiak",
+"K. Maleta"
+],
+"owners": [
+"pamela-jagger"
+],
+"remote": []
+},
+"remittancefrommigrantsreinforcesforestrecoveryforchinasreforestationpolicy": {
+"title": "Remittance from migrants reinforces forest recovery for China's reforestation policy",
+"authors": [
+"Q. Zhang",
+"S. Tao",
+"P. Jagger",
+"R. Bilsborrow",
+"Z. Shang",
+"Q. Huang",
+"L. Band",
+"Q. Zhang",
+"C. Song"
+],
+"unresolved": [
+"Q. Zhang",
+"Z. Shang",
+"Q. Zhang"
+],
+"owners": [
+"pamela-jagger"
+],
+"remote": [
+[
+"Qi Zhang",
+"Shiqi Tao",
+"Pamela Jagger",
+"Lawrence E. Band",
+"Richard E. Bilsborrow",
+"Zhiqiang Zhang",
+"Qingfeng Huang",
+"Quanfa Zhang",
+"Aaron Moody",
+"Conghe Song"
+]
+]
+},
+"riskofcognitiveimpairmentfrombiomasscookinginafrica": {
+"title": "Risk of Cognitive Impairment from Biomass Cooking in Africa",
+"authors": [
+"R. McCord",
+"S. Parsons",
+"A.S. Bittner",
+"C. Jumbe",
+"J. Pedit",
+"N. Serenge",
+"A. Grieshop",
+"P. Jagger"
+],
+"unresolved": [
+"S. Parsons",
+"A.S. Bittner",
+"N. Serenge",
+"A. Grieshop"
+],
+"owners": [
+"pamela-jagger"
+],
+"remote": []
+},
+"occupationalexposureintheinformalsectoracaseoffishsmokingincoastalghana": {
+"title": "Occupational Exposure in the Informal Sector: A Case of Fish Smoking in Coastal Ghana",
+"authors": [
+"C. Weyant",
+"A-B. Amoah",
+"A. Bittner",
+"J. Pedit",
+"S.N.A. Codjoe",
+"P. Jagger"
+],
+"unresolved": [
+"C. Weyant",
+"A-B. Amoah",
+"A. Bittner",
+"S.N.A. Codjoe"
+],
+"owners": [
+"pamela-jagger"
+],
+"remote": []
+},
+"isenergythegoldenthreadasystematicreviewoftheimpactsofmodernandtraditionalenergy": {
+"title": "Is Energy the Golden Thread? A Systematic Review of the Impacts of Modern and Traditional Energy Use in Low- and Middle-Income Countries",
+"authors": [
+"M. Jeuland",
+"T.R. Fetter",
+"Y. Li",
+"S.K. Pattanayak",
+"F. Usmani",
+"R. Bluffstone",
+"C. Chavez",
+"H. Girardeau",
+"S. Hassen",
+"P. Jagger",
+"M. Jaime",
+"M. Karumba",
+"G. Köhlin",
+"L. Lenz",
+"E. Litzow",
+"L. Masatsugu",
+"M. A. Naranjo",
+"J. Peters",
+"P. Qin",
+"R. Ruhinduka",
+"M. Serrano",
+"M. Sievert",
+"E.O. Sills",
+"M. Toman"
+],
+"unresolved": [
+"M. Serrano"
+],
+"owners": [
+"pamela-jagger",
+"subhrendu-k-pattanayak"
+],
+"remote": [
+[
+"Marc Jeuland",
+"T. Robert Fetter",
+"Yating Li",
+"Subhrendu K. Pattanayak",
+"Faraz Usmani",
+"Randall A. Bluffstone",
+"Carlos Chávez",
+"Hannah Girardeau",
+"Sied Hassen",
+"Pamela Jagger",
+"Mónica M. Jaime",
+"Mary Karumba",
+"Gunnar Köhlin",
+"Luciane Lenz",
+"Erin L. Litzow",
+"Lauren Masatsugu",
+"Maria Angelica Naranjo",
+"Jörg Peters",
+"Ping Qin",
+"Remidius D. Ruhinduka",
+"Montserrat Serrano-Medrano",
+"Maximiliane Sievert",
+"Erin O. Sills",
+"Michael Toman"
+]
+]
+},
+"supplyconsiderationsforscalingupcleancookingfuelsforhouseholdenergyinlowandmiddl": {
+"title": "Supply Considerations for Scaling-up Clean Cooking Fuels for Household Energy in Low and Middle-Income Countries",
+"authors": [
+"E. Puzzolo",
+"H. Zerriffi",
+"E. Carter",
+"H. Clemens",
+"H. Stokes",
+"P. Jagger",
+"J. Rosenthal",
+"H. Petach"
+],
+"unresolved": [
+"E. Puzzolo",
+"H. Zerriffi",
+"E. Carter",
+"H. Clemens",
+"H. Stokes",
+"H. Petach"
+],
+"owners": [
+"pamela-jagger"
+],
+"remote": []
+},
+"fuelwooduseinruralchinadoforestrestorationandconservationprogramsmatter": {
+"title": "Fuelwood Use in Rural China: Do Forest Restoration and Conservation Programs Matter?",
+"authors": [
+"C. Song",
+"R. Bilsborrow",
+"P. Jagger",
+"Q. Zhang",
+"X. Chen",
+"Q. Haung"
+],
+"unresolved": [
+"Q. Zhang",
+"X. Chen",
+"Q. Haung"
+],
+"owners": [
+"pamela-jagger"
+],
+"remote": []
+},
+"impactsofchinasconversionofcroplandtoforestprogramonmigrationandhouseholdincome": {
+"title": "Impacts of China's Conversion of Cropland to Forest Program on Migration and Household Income",
+"authors": [
+"P. Treacy",
+"P. Jagger",
+"C. Song",
+"Q. Zhang",
+"R.E. Bilsborrow"
+],
+"unresolved": [
+"P. Treacy",
+"Q. Zhang",
+"R.E. Bilsborrow"
+],
+"owners": [
+"pamela-jagger"
+],
+"remote": []
+},
+"mediumtermimpactsofcommunitymanagementagreementsinugandasrwenzorimountainsnation": {
+"title": "Medium-Term Impacts of Community Management Agreements in Uganda's Rwenzori Mountains National Park",
+"authors": [
+"P. Jagger",
+"S. Sellers",
+"N. Kittner",
+"I. Das",
+"G. Bush"
+],
+"unresolved": [
+"S. Sellers",
+"I. Das",
+"G. Bush"
+],
+"owners": [
+"pamela-jagger"
+],
+"remote": []
+},
+"buildingtheevidencebaseforreddevaluatingtheimpactsofconservationinterventionsonh": {
+"title": "Building the Evidence Base for REDD+: Evaluating the Impacts of Conservation Interventions on Human Welfare",
+"authors": [
+"E.O. Sills",
+"C. de Sassi",
+"P. Jagger",
+"K. Lawlor",
+"D. Miteva",
+"S.K. Pattanayak",
+"W.D. Sunderlin"
+],
+"unresolved": [
+"K. Lawlor",
+"D. Miteva"
+],
+"owners": [
+"pamela-jagger"
+],
+"remote": []
+},
+"fuelefficiencyandemissionsofwoodburningimprovedcookstovesinmalawiimplicationsfor": {
+"title": "Fuel Efficiency and Emissions of Wood-Burning Improved Cookstoves in Malawi: Implications for Scaling-up Cookstove Programs",
+"authors": [
+"P. Jagger",
+"J. Pedit",
+"A. Bittner",
+"L. Hamrick",
+"T. Phwandaphwanda",
+"Charles Jumbe"
+],
+"unresolved": [
+"A. Bittner",
+"L. Hamrick",
+"T. Phwandaphwanda"
+],
+"owners": [
+"pamela-jagger"
+],
+"remote": []
+},
+"usingpubliclyavailablesocialandspatialdatatoquantitativelyassesssocialimpactsofe": {
+"title": "Using Publicly Available Social and Spatial Data to Quantitatively Assess Social Impacts of Early REDD+ Activities in Kalimantan, Indonesia",
+"authors": [
+"P. Jagger",
+"P. Rana"
+],
+"unresolved": [
+"P. Rana"
+],
+"owners": [
+"pamela-jagger"
+],
+"remote": []
+},
+"landuseandbiomassfueldynamicsinmalawi": {
+"title": "Land Use and Biomass Fuel Dynamics in Malawi",
+"authors": [
+"P. Jagger",
+"C. Perez-Heydrich"
+],
+"unresolved": [
+"C. Perez-Heydrich"
+],
+"owners": [
+"pamela-jagger"
+],
+"remote": []
+},
+"environmentalincomeandrurallivelihoodsaglobalcomparativeanalysis": {
+"title": "Environmental Income and Rural Livelihoods: A Global Comparative Analysis",
+"authors": [
+"A. Angelsen",
+"P. Jagger",
+"R. Babigumira",
+"B. Belcher",
+"N. Hogarth",
+"S. Bauch",
+"J. Borner",
+"C. SmithOlsen",
+"S. Wunder"
+],
+"unresolved": [
+"C. SmithOlsen"
+],
+"owners": [
+"pamela-jagger"
+],
+"remote": [
+[
+"Arild Angelsen",
+"Pamela Jagger",
+"Ronnie Babigumira",
+"Brian Belcher",
+"Nicholas J. Hogarth",
+"Simone Bauch",
+"Jan Börner",
+"Carsten Smith-Hall",
+"Sven Wunder"
+]
+]
+},
+"forestsustainabilityandchinasslopinglandconversionprogramslcpacomparisonamongthr": {
+"title": "Forest Sustainability and China's Sloping Land Conversion Program (SLCP): A Comparison among Three Sites in Anhui, Hubei and Shanxi",
+"authors": [
+"C. Song",
+"Y. Zhang",
+"Y. Mei",
+"Z. Zhang",
+"Q. Zhang",
+"T. Zha",
+"K. Zhang",
+"C. Huang",
+"X. Xu",
+"P. Jagger",
+"X. Chen",
+"R. Bilsborrow"
+],
+"unresolved": [
+"Y. Zhang",
+"Y. Mei",
+"Z. Zhang",
+"Q. Zhang",
+"T. Zha",
+"K. Zhang",
+"C. Huang",
+"X. Xu",
+"X. Chen"
+],
+"owners": [
+"pamela-jagger"
+],
+"remote": []
+},
+"multilevelpolicydialoguesandactionschallengesandopportunitiesfornationalreddsafe": {
+"title": "Multi-level Policy Dialogues and Actions: Challenges and Opportunities for National REDD+ Safeguards Monitoring, Reporting and Verification (MRV)",
+"authors": [
+"P. Jagger",
+"M. Brockhaus",
+"A. Duchelle",
+"M.F. Gebera",
+"K. Lawlor",
+"I.A.P. Resosudarmo",
+"W.D. Sunderlin"
+],
+"unresolved": [
+"M. Brockhaus",
+"M.F. Gebera",
+"K. Lawlor"
+],
+"owners": [
+"pamela-jagger"
+],
+"remote": []
+},
+"reddsafeguardsinnationalpolicydiscourseandpilotprojects": {
+"title": "REDD+ Safeguards in National Policy Discourse and Pilot Projects",
+"authors": [
+"P. Jagger",
+"K. Lawlor",
+"M. Brockhaus",
+"M. F. Gebara",
+"D. Sonwa",
+"I. A. P. Resosudarmo"
+],
+"unresolved": [
+"K. Lawlor",
+"M. Brockhaus",
+"M. F. Gebara",
+"D. Sonwa",
+"I. A. P. Resosudarmo"
+],
+"owners": [
+"pamela-jagger"
+],
+"remote": []
+},
+"evaluatingthelanduseandlivelihoodoutcomesofearlyforestcarbonprojectslessonsforre": {
+"title": "Evaluating the Land Use and Livelihood Outcomes of Early Forest Carbon Projects: Lessons for REDD+",
+"authors": [
+"S. Caplow",
+"P. Jagger",
+"K. Lawlor",
+"E. Sills"
+],
+"unresolved": [
+"S. Caplow",
+"K. Lawlor",
+"E. Sills"
+],
+"owners": [
+"pamela-jagger"
+],
+"remote": []
+},
+"incomeandpovertyeffectsofcharcoalproductioninwesternuganda": {
+"title": "Income and Poverty Effects of Charcoal Production in Western Uganda",
+"authors": [
+"F. Khundi",
+"P. Jagger",
+"D. Sserunkuuma",
+"G. Shively"
+],
+"unresolved": [
+"F. Khundi",
+"G. Shively"
+],
+"owners": [
+"pamela-jagger"
+],
+"remote": []
+},
+"learningbydoingevaluatingimpactsofredd": {
+"title": "Learning by Doing: Evaluating Impacts of REDD",
+"authors": [
+"P. Jagger",
+"S. Atmadja",
+"S. K. Pattanayak",
+"E. Sills",
+"W. D. Sunderlin"
+],
+"unresolved": [
+"S. Atmadja",
+"S. K. Pattanayak",
+"E. Sills",
+"W. D. Sunderlin"
+],
+"owners": [
+"pamela-jagger"
+],
+"remote": []
+},
+"influenceofprogramsandorganizationsontheadoptionofsustainablelandmanagementtechn": {
+"title": "Influence of Programs and Organizations on the Adoption of Sustainable Land Management Technologies in Uganda",
+"authors": [
+"P. Jagger",
+"J. Pender"
+],
+"unresolved": [
+"J. Pender"
+],
+"owners": [
+"pamela-jagger"
+],
+"remote": []
+},
+"strategiestoincreaseagriculturalproductivityandreducelanddegradationevidencefrom": {
+"title": "Strategies to Increase Agricultural Productivity and Reduce Land Degradation: Evidence from Uganda",
+"authors": [
+"J. Pender",
+"E. Nkonya",
+"P. Jagger",
+"D. Sserunkuuma",
+"H. Ssali"
+],
+"unresolved": [
+"H. Ssali"
+],
+"owners": [
+"pamela-jagger"
+],
+"remote": [
+[
+"J Pender",
+"E Nkonya",
+"P Jagger",
+"D Sserunkuuma",
+"H Ssali"
+]
+]
+},
+"carbonsinksinthepostkyotoworld": {
+"title": "Carbon Sinks in the Post Kyoto World",
+"authors": [
+"R. Sedjo",
+"B. Sohngen",
+"P. Jagger"
+],
+"unresolved": [
+"R. Sedjo",
+"B. Sohngen"
+],
+"owners": [
+"pamela-jagger"
+],
+"remote": []
+},
+"marketsmarketingandproductionissuesforaquacultureineastafricathecaseofuganda": {
+"title": "Markets, Marketing, and Production Issues for Aquaculture in East Africa: The Case of Uganda",
+"authors": [
+"P. Jagger",
+"J. Pender"
+],
+"unresolved": [
+"J. Pender"
+],
+"owners": [
+"pamela-jagger"
+],
+"remote": []
+},
+"implicationsofcomanagementforbenefitsfromnaturalresourcesforruralhouseholdsinnor": {
+"title": "Implications of Co-Management for Benefits from Natural Resources for Rural Households in Northeastern Zimbabwe",
+"authors": [
+"I. Grundy",
+"J. Turpie",
+"P. Jagger",
+"E. Witkowski",
+"I. Guambe",
+"D. Semwayo",
+"A. Solomon"
+],
+"unresolved": [
+"I. Grundy",
+"J. Turpie",
+"E. Witkowski",
+"I. Guambe",
+"D. Semwayo",
+"A. Solomon"
+],
+"owners": [
+"pamela-jagger"
+],
+"remote": []
+},
+"effectoflanduserestrictionsontheeconomyofalbertaacomputablegeneralequilibriumana": {
+"title": "Effect of Land Use Restrictions on the Economy of Alberta: A Computable General Equilibrium Analysis",
+"authors": [
+"J. Alavalapati",
+"W. White",
+"P. Jagger",
+"A. Wellstead"
+],
+"unresolved": [
+"J. Alavalapati",
+"W. White",
+"A. Wellstead"
+],
+"owners": [
+"pamela-jagger"
+],
+"remote": []
+},
 "insuranceguarantyfunds": {
 "title": "Insurance Guaranty Funds",
 "authors": [

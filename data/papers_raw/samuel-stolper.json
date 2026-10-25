@@ -1,0 +1,192 @@
+{
+ "slug": "samuel-stolper",
+ "name": "Samuel Stolper",
+ "sources": [
+  "http://sites.google.com/view/sstolper/ (research subpage)",
+  "https://seas.umich.edu/sites/default/files/2026-03/CV_Stolper.pdf"
+ ],
+ "collected": "2026-10-25",
+ "notes": "Authors in CV byline order (homepage lists Stolper first as 'with ...'; for the Ando et al. paper homepage title is 'Addressing systemic racism in environmental and resource economics', CV title used). Working-paper years not given; set to 2026 (CV date). Included homepage 'resting' papers (Water Affordability in Detroit; Health Impacts of Water Shutoffs; Competition and Incidence, 2016 per PDF filename) not on the CV working-paper list; skipped CV works-in-progress with no draft (Spanish gas stations pass-through). No abstracts on page.",
+ "papers": [
+  {
+   "title": "Using Machine Learning to Target Treatment: The Case of Household Energy Use",
+   "authors": [
+    "Christopher Knittel",
+    "Samuel Stolper"
+   ],
+   "year": 2025,
+   "venue": "Economic Journal",
+   "status": "已发表",
+   "url": "https://sstolper.github.io/website-stuff/Knittel_Stolper_2025_EJ.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Vehicle Scrappage Policies for Transportation Decarbonization",
+   "authors": [
+    "Maxwell Woody",
+    "Samuel Stolper",
+    "Parth Vaishnav",
+    "Gregory Keoleian"
+   ],
+   "year": 2024,
+   "venue": "Environmental Research: Energy",
+   "status": "已发表",
+   "url": "https://sstolper.github.io/website-stuff/Woody_et_al_2024_EnvironResEnergy.pdf",
+   "abstract": null
+  },
+  {
+   "title": "The Promise and Peril of Carbon Neutrality Goals",
+   "authors": [
+    "Samuel Stolper",
+    "Michael Moore",
+    "Timothy Arvan"
+   ],
+   "year": 2024,
+   "venue": "Review of Environmental Economics and Policy",
+   "status": "已发表",
+   "url": "https://sstolper.github.io/website-stuff/Stolper_Arvan_Moore_2024_REEP.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Environmental and Resource Economics and Systemic Racism",
+   "authors": [
+    "Amy Ando",
+    "Titus Awokuse",
+    "Nathan Chan",
+    "Jimena González-Ramírez",
+    "Sumeet Gulati",
+    "Matthew Interis",
+    "Sarah Jacobson",
+    "Dale Manning",
+    "Samuel Stolper"
+   ],
+   "year": 2024,
+   "venue": "Review of Environmental Economics and Policy",
+   "status": "已发表",
+   "url": "https://sstolper.github.io/website-stuff/Ando_et_al_2024_REEP.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Widespread Range Suitability and Cost Competitiveness of Electric Vehicles for Ride-hailing Drivers",
+   "authors": [
+    "Morteza Taiebat",
+    "Samuel Stolper",
+    "Ming Xu"
+   ],
+   "year": 2022,
+   "venue": "Applied Energy",
+   "status": "已发表",
+   "url": "https://sstolper.github.io/website-stuff/Taiebat_Stolper_Xu_2022_AppliedEnergy.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Inequality, Information Failures, and Air Pollution",
+   "authors": [
+    "Catherine Hausman",
+    "Samuel Stolper"
+   ],
+   "year": 2021,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "https://sstolper.github.io/website-stuff/Hausman_Stolper_2021_JEEM.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Machine Learning about Treatment Effect Heterogeneity: The Case of Household Energy Use",
+   "authors": [
+    "Christopher Knittel",
+    "Samuel Stolper"
+   ],
+   "year": 2021,
+   "venue": "American Economic Association Papers and Proceedings",
+   "status": "已发表",
+   "url": "https://sstolper.github.io/website-stuff/Knittel_Stolper_2021_AEAPP.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Forecasting the Impact of Connected and Automated Vehicles on Energy Use: A Microeconomic Study of Induced Travel and Energy Rebound",
+   "authors": [
+    "Morteza Taiebat",
+    "Samuel Stolper",
+    "Ming Xu"
+   ],
+   "year": 2019,
+   "venue": "Applied Energy",
+   "status": "已发表",
+   "url": "https://sstolper.github.io/website-stuff/Taiebat_Stolper_Xu_2019_AppliedEnergy.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Can Environmental Policy Reduce Infant Mortality? Evidence from the Ganga Pollution Cases",
+   "authors": [
+    "Quy-Toan Do",
+    "Shareen Joshi",
+    "Samuel Stolper"
+   ],
+   "year": 2018,
+   "venue": "Journal of Development Economics",
+   "status": "已发表",
+   "url": "https://sstolper.github.io/website-stuff/Do_Joshi_Stolper_2018_JDE.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Income and Energy Tax Pass-Through: Evidence from Gas Stations",
+   "authors": [
+    "Samuel Stolper"
+   ],
+   "year": 2026,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Getting from Ridehailing to Ridesharing: Effects of a Congestion Tax in Chicago",
+   "authors": [
+    "Samuel Stolper",
+    "Morteza Taiebat"
+   ],
+   "year": 2026,
+   "venue": "Working Paper (reject and resubmit, National Tax Journal)",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Water Affordability in Detroit: A Comparison of Alternative Rate Structures",
+   "authors": [
+    "Noah Attal",
+    "Samuel Stolper"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Health Impacts of Water Shutoffs in Detroit, Michigan",
+   "authors": [
+    "Noah Attal",
+    "Samuel Stolper",
+    "Yulya Truskinovsky"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Competition and Incidence: Automotive Fuel Tax Pass-Through at State Borders",
+   "authors": [
+    "Samuel Stolper"
+   ],
+   "year": 2016,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://sstolper.github.io/website-stuff/Stolper_CrossBorder_20160920.pdf",
+   "abstract": null
+  }
+ ]
+}

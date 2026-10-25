@@ -1,0 +1,615 @@
+{
+ "slug": "joel-watson",
+ "name": "Joel Watson",
+ "sources": [
+  "http://econweb.ucsd.edu/~jwatson/"
+ ],
+ "collected": "2026-10-25",
+ "notes": "Source: homepage Research section only (no CV link found in the homepage HTML; homepage lists all papers). Homepage states coauthors are listed alphabetically, so bylines follow the page. Working-paper years are the years shown on the page. Skipped: textbook, Palgrave entry on John Nash, instructor manual. Papers 'under revision' (Hold-Up, Multi-Period Trade, Conditioning Institutions) treated as working papers, not formal R&R. URLs are homepage links (publisher page where available).",
+ "papers": [
+  {
+   "title": "Perfect Bayesian Equilibrium: Consistency Conditions for Practical Definitions",
+   "authors": [
+    "Joel Watson"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "http://econ.ucsd.edu/%7Ejwatson/PAPERS/WatsonPC.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Convergence of Discrete-Time Models with Small Period Lengths",
+   "authors": [
+    "Joel Watson"
+   ],
+   "year": 2021,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "http://econ.ucsd.edu/%7Ejwatson/PAPERS/Watsondct.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Hold-Up and Durable Trading Opportunities",
+   "authors": [
+    "Joel Watson",
+    "Chris Wignall"
+   ],
+   "year": 2010,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "http://econ.ucsd.edu/%7Ejwatson/PAPERS/WatsonWignall2010.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Contract and Mechanism Design in Settings with Multi-Period Trade",
+   "authors": [
+    "Joel Watson"
+   ],
+   "year": 2005,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "http://repositories.cdlib.org/cgi/viewcontent.cgi?article=1058&context=ucsdecon",
+   "abstract": null
+  },
+  {
+   "title": "Conditioning Institutions and Renegotiation",
+   "authors": [
+    "Garey Ramey",
+    "Joel Watson"
+   ],
+   "year": 1999,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "http://repositories.cdlib.org/cgi/viewcontent.cgi?article=1189&context=ucsdecon",
+   "abstract": null
+  },
+  {
+   "title": "Partially Constructed Sequential Equilibrium",
+   "authors": [
+    "Joel Watson"
+   ],
+   "year": 2026,
+   "venue": "Journal of Economic Theory",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jet.2025.106111",
+   "abstract": null
+  },
+  {
+   "title": "Contractual Chains",
+   "authors": [
+    "Joel Watson"
+   ],
+   "year": 2024,
+   "venue": "Econometrica",
+   "status": "已发表",
+   "url": "https://onlinelibrary.wiley.com/doi/pdf/10.3982/ECTA19797",
+   "abstract": null
+  },
+  {
+   "title": "An Active-Contracting Perspective on Equilibrium Selection in Relational Contracts",
+   "authors": [
+    "David Miller",
+    "Joel Watson"
+   ],
+   "year": 2023,
+   "venue": "Journal of Institutional and Theoretical Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Starting Small in Project Choice: a Discrete-Time Setting with a Continuum of Types",
+   "authors": [
+    "Xiameng Hua",
+    "Joel Watson"
+   ],
+   "year": 2022,
+   "venue": "Journal of Economic Theory",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jet.2022.105490",
+   "abstract": null
+  },
+  {
+   "title": "Theoretical Foundations of Relational Incentive Contracts",
+   "authors": [
+    "Joel Watson"
+   ],
+   "year": 2021,
+   "venue": "Annual Review of Economics",
+   "status": "已发表",
+   "url": "https://www.annualreviews.org/doi/abs/10.1146/annurev-economics-090820-110736",
+   "abstract": null
+  },
+  {
+   "title": "Conservation Agreements: Relational Contracts with Endogenous Monitoring",
+   "authors": [
+    "Heidi Gjertsen",
+    "Theodore Groves",
+    "David A. Miller",
+    "Eduard Niesten",
+    "Dale Squires",
+    "Joel Watson"
+   ],
+   "year": 2021,
+   "venue": "Journal of Law, Economics, and Organization",
+   "status": "已发表",
+   "url": "https://academic.oup.com/jleo/article/37/1/1/5863664",
+   "abstract": null
+  },
+  {
+   "title": "Relational Contracting, Negotiation, and External Enforcement",
+   "authors": [
+    "David Miller",
+    "Trond Olsen",
+    "Joel Watson"
+   ],
+   "year": 2020,
+   "venue": "American Economic Review",
+   "status": "已发表",
+   "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20180427",
+   "abstract": null
+  },
+  {
+   "title": "On the Outside-Option Principle with One-Sided Options",
+   "authors": [
+    "Joel Watson"
+   ],
+   "year": 2020,
+   "venue": "Economics Letters",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/pii/S0165176520300963",
+   "abstract": null
+  },
+  {
+   "title": "Statistical Evidence and the Problem of Robust Litigation",
+   "authors": [
+    "Jesse Bull",
+    "Joel Watson"
+   ],
+   "year": 2019,
+   "venue": "RAND Journal of Economics",
+   "status": "已发表",
+   "url": "https://onlinelibrary.wiley.com/doi/10.1111/1756-2171.12302",
+   "abstract": null
+  },
+  {
+   "title": "Client-Based Entrepreneurship",
+   "authors": [
+    "Jim Rauch",
+    "Joel Watson"
+   ],
+   "year": 2015,
+   "venue": "Journal of Law, Economics, and Organization",
+   "status": "已发表",
+   "url": "https://doi.org/10.1093/jleo/ewt023",
+   "abstract": null
+  },
+  {
+   "title": "A Contract-Theoretic Model of Conservation Agreements",
+   "authors": [
+    "Heidi Gjertsen",
+    "Theodore Groves",
+    "David A. Miller",
+    "Eduard Niesten",
+    "Dale Squires",
+    "Joel Watson"
+   ],
+   "year": 2014,
+   "venue": "Econometric Methods and Their Applications in Finance, Macro and Related Fields (book chapter)",
+   "status": "已发表",
+   "url": "https://doi.org/10.1142/9789814513470_0015",
+   "abstract": null
+  },
+  {
+   "title": "A Theory of Disagreement in Repeated Games with Bargaining",
+   "authors": [
+    "David Miller",
+    "Joel Watson"
+   ],
+   "year": 2013,
+   "venue": "Econometrica",
+   "status": "已发表",
+   "url": "http://econ.ucsd.edu/%7Ejwatson/PAPERS/MillerWatson-Disagreement.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Contract and Game Theory: Basic Concepts for Settings with Finite Horizons",
+   "authors": [
+    "Joel Watson"
+   ],
+   "year": 2013,
+   "venue": "Games",
+   "status": "已发表",
+   "url": "http://www.mdpi.com/2073-4336/4/3/457/pdf",
+   "abstract": null
+  },
+  {
+   "title": "The Renegotiation-Proofness Principle and Costly Renegotiation",
+   "authors": [
+    "James Brennan",
+    "Joel Watson"
+   ],
+   "year": 2013,
+   "venue": "Games",
+   "status": "已发表",
+   "url": "http://www.mdpi.com/2073-4336/4/3/347/pdf",
+   "abstract": null
+  },
+  {
+   "title": "Conceptualizing Contractual Interpretation",
+   "authors": [
+    "Alan Schwartz",
+    "Joel Watson"
+   ],
+   "year": 2013,
+   "venue": "Journal of Legal Studies",
+   "status": "已发表",
+   "url": "http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2043159",
+   "abstract": null
+  },
+  {
+   "title": "Can the Job Market for Economists be Improved?",
+   "authors": [
+    "Sarbartha Bandyopadhyay",
+    "Fedor Iskhakov",
+    "Terence Johnson",
+    "Soohyung Lee",
+    "David McArthur",
+    "John Rust",
+    "John Watson",
+    "Joel Watson"
+   ],
+   "year": 2013,
+   "venue": "Handbook of Market Design (book chapter)",
+   "status": "已发表",
+   "url": "https://doi.org/10.1093/acprof:oso/9780199570515.003.0008",
+   "abstract": null
+  },
+  {
+   "title": "Contract, Renegotiation, and Hold Up: Results on the Technology of Trade and Investment",
+   "authors": [
+    "Kristy Buzard",
+    "Joel Watson"
+   ],
+   "year": 2012,
+   "venue": "Theoretical Economics",
+   "status": "已发表",
+   "url": "http://econtheory.org/ojs/index.php/te/article/viewForthcomingFile/818/5416/1",
+   "abstract": null
+  },
+  {
+   "title": "Recurrent Trade Agreements and the Value of External Enforcement",
+   "authors": [
+    "Mikhail Klimenko",
+    "Garey Ramey",
+    "Joel Watson"
+   ],
+   "year": 2008,
+   "venue": "Journal of International Economics",
+   "status": "已发表",
+   "url": "http://www.sciencedirect.com/science/article/pii/S0022199607001079",
+   "abstract": null
+  },
+  {
+   "title": "Testing and the Composition of the Labor Pool",
+   "authors": [
+    "Johnathan Boone",
+    "Joel Watson"
+   ],
+   "year": 2007,
+   "venue": "Scandinavian Journal of Economics",
+   "status": "已发表",
+   "url": "http://econ.ucsd.edu/%7Ejwatson/PAPERS/BooneWatson2007.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Contract, Mechanism Design, and Technological Detail",
+   "authors": [
+    "Joel Watson"
+   ],
+   "year": 2007,
+   "venue": "Econometrica",
+   "status": "已发表",
+   "url": "http://www.jstor.org/stable/4123108",
+   "abstract": null
+  },
+  {
+   "title": "Clusters and Bridges in Networks of Entrepreneurs",
+   "authors": [
+    "Jim Rauch",
+    "Joel Watson"
+   ],
+   "year": 2007,
+   "venue": "The Missing Links: Formation and Decay of Economic Networks (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Hard Evidence and Mechanism Design",
+   "authors": [
+    "Jesse Bull",
+    "Joel Watson"
+   ],
+   "year": 2007,
+   "venue": "Games and Economic Behavior",
+   "status": "已发表",
+   "url": "http://www.sciencedirect.com/science/article/pii/S0899825606000352",
+   "abstract": null
+  },
+  {
+   "title": "Evidence Disclosure and Verifiability",
+   "authors": [
+    "Jesse Bull",
+    "Joel Watson"
+   ],
+   "year": 2004,
+   "venue": "Journal of Economic Theory",
+   "status": "已发表",
+   "url": "http://www.sciencedirect.com/science/article/pii/S0022053104000237",
+   "abstract": null
+  },
+  {
+   "title": "Network Intermediaries in International Trade",
+   "authors": [
+    "James Rauch",
+    "Joel Watson"
+   ],
+   "year": 2004,
+   "venue": "Journal of Economics and Management Strategy",
+   "status": "已发表",
+   "url": "http://onlinelibrary.wiley.com/doi/10.1111/j.1430-9134.2004.00004.x/full",
+   "abstract": null
+  },
+  {
+   "title": "The Law and Economics of Costly Contracting",
+   "authors": [
+    "Alan Schwartz",
+    "Joel Watson"
+   ],
+   "year": 2004,
+   "venue": "Journal of Law, Economics, and Organization",
+   "status": "已发表",
+   "url": "http://jleo.oxfordjournals.org/content/20/1/2.short",
+   "abstract": null
+  },
+  {
+   "title": "Liquidity Flows and Fragility of Business Enterprises",
+   "authors": [
+    "Wouter den Haan",
+    "Garey Ramey",
+    "Joel Watson"
+   ],
+   "year": 2003,
+   "venue": "Journal of Monetary Economics",
+   "status": "已发表",
+   "url": "http://www.sciencedirect.com/science/article/pii/S0304393203000771",
+   "abstract": null
+  },
+  {
+   "title": "Starting Small in an Unfamiliar Environment",
+   "authors": [
+    "Jim Rauch",
+    "Joel Watson"
+   ],
+   "year": 2003,
+   "venue": "International Journal of Industrial Organization",
+   "status": "已发表",
+   "url": "http://www.sciencedirect.com/science/article/pii/S0167718703000183",
+   "abstract": null
+  },
+  {
+   "title": "Contractual Intermediaries",
+   "authors": [
+    "Garey Ramey",
+    "Joel Watson"
+   ],
+   "year": 2002,
+   "venue": "Journal of Law, Economics, and Organization",
+   "status": "已发表",
+   "url": "http://jleo.oxfordjournals.org/content/18/2/362.short",
+   "abstract": null
+  },
+  {
+   "title": "Starting Small and Commitment",
+   "authors": [
+    "Joel Watson"
+   ],
+   "year": 2002,
+   "venue": "Games and Economic Behavior",
+   "status": "已发表",
+   "url": "https://doi.org/10.1006/game.2001.0857",
+   "abstract": null
+  },
+  {
+   "title": "Bilateral Trade and Opportunism in a Matching Market",
+   "authors": [
+    "Garey Ramey",
+    "Joel Watson"
+   ],
+   "year": 2001,
+   "venue": "Contributions to Theoretical Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.2202/1534-5971.1030",
+   "abstract": null
+  },
+  {
+   "title": "Job Destruction and Propagation of Shocks",
+   "authors": [
+    "Wouter den Haan",
+    "Garey Ramey",
+    "Joel Watson"
+   ],
+   "year": 2000,
+   "venue": "American Economic Review",
+   "status": "已发表",
+   "url": "https://doi.org/10.1257/aer.90.3.482",
+   "abstract": null
+  },
+  {
+   "title": "Job Destruction and the Experiences of Displaced Workers",
+   "authors": [
+    "Wouter den Haan",
+    "Garey Ramey",
+    "Joel Watson"
+   ],
+   "year": 2000,
+   "venue": "Carnegie-Rochester Conference Series on Public Policy",
+   "status": "已发表",
+   "url": "http://www.sciencedirect.com/science/article/pii/S016722310000018X",
+   "abstract": null
+  },
+  {
+   "title": "Contract-Theoretic Approaches to Wages and Displacement",
+   "authors": [
+    "Wouter den Haan",
+    "Garey Ramey",
+    "Joel Watson"
+   ],
+   "year": 1999,
+   "venue": "Federal Reserve Bank of St. Louis Review",
+   "status": "已发表",
+   "url": "https://files.stlouisfed.org/research/publications/review/99/05/9905dh.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Starting Small and Renegotiation",
+   "authors": [
+    "Joel Watson"
+   ],
+   "year": 1999,
+   "venue": "Journal of Economic Theory",
+   "status": "已发表",
+   "url": "http://www.sciencedirect.com/science/article/pii/S0022053198999999",
+   "abstract": null
+  },
+  {
+   "title": "Conditional Dominance, Rationalizability, and Game Forms",
+   "authors": [
+    "Makoto Shimoji",
+    "Joel Watson"
+   ],
+   "year": 1998,
+   "venue": "Journal of Economic Theory",
+   "status": "已发表",
+   "url": "http://www.sciencedirect.com/science/article/pii/S0022053197924601",
+   "abstract": null
+  },
+  {
+   "title": "Alternating-Offer Bargaining with Two-Sided Incomplete Information",
+   "authors": [
+    "Joel Watson"
+   ],
+   "year": 1998,
+   "venue": "Review of Economic Studies",
+   "status": "已发表",
+   "url": "http://restud.oxfordjournals.org/content/65/3/573.short",
+   "abstract": null
+  },
+  {
+   "title": "Multiple-Issue Bargaining and Axiomatic Solutions",
+   "authors": [
+    "Clara Ponsati",
+    "Joel Watson"
+   ],
+   "year": 1997,
+   "venue": "International Journal of Game Theory",
+   "status": "已发表",
+   "url": "http://link.springer.com/article/10.1007/BF01813888",
+   "abstract": null
+  },
+  {
+   "title": "Contractual Fragility, Job Destruction, and Business Cycles",
+   "authors": [
+    "Garey Ramey",
+    "Joel Watson"
+   ],
+   "year": 1997,
+   "venue": "Quarterly Journal of Economics",
+   "status": "已发表",
+   "url": "http://qje.oxfordjournals.org/content/112/3/873.short",
+   "abstract": null
+  },
+  {
+   "title": "On 'Reputation' Refinements with Heterogeneous Beliefs",
+   "authors": [
+    "Pierpaolo Battigalli",
+    "Joel Watson"
+   ],
+   "year": 1997,
+   "venue": "Econometrica",
+   "status": "已发表",
+   "url": "http://www.jstor.org/stable/2171897",
+   "abstract": null
+  },
+  {
+   "title": "Learning about a Population of Agents and the Evolution of Trust and Cooperation",
+   "authors": [
+    "Anthony Bower",
+    "Steve Garber",
+    "Joel Watson"
+   ],
+   "year": 1997,
+   "venue": "International Journal of Industrial Organization",
+   "status": "已发表",
+   "url": "http://www.sciencedirect.com/science/article/pii/0167718795004955",
+   "abstract": null
+  },
+  {
+   "title": "Reputation in Repeated Games with no Discounting",
+   "authors": [
+    "Joel Watson"
+   ],
+   "year": 1996,
+   "venue": "Games and Economic Behavior",
+   "status": "已发表",
+   "url": "http://www.sciencedirect.com/science/article/pii/S0899825696900603",
+   "abstract": null
+  },
+  {
+   "title": "Information Transmission when the Informed Party is Confused",
+   "authors": [
+    "Joel Watson"
+   ],
+   "year": 1996,
+   "venue": "Games and Economic Behavior",
+   "status": "已发表",
+   "url": "http://www.sciencedirect.com/science/article/pii/S089982569690010X",
+   "abstract": null
+  },
+  {
+   "title": "Cooperation in the Infinitely Repeated Prisoners' Dilemma with Perturbations",
+   "authors": [
+    "Joel Watson"
+   ],
+   "year": 1994,
+   "venue": "Games and Economic Behavior",
+   "status": "已发表",
+   "url": "http://www.sciencedirect.com/science/article/pii/S0899825684710499",
+   "abstract": null
+  },
+  {
+   "title": "A 'Reputation' Refinement without Equilibrium",
+   "authors": [
+    "Joel Watson"
+   ],
+   "year": 1993,
+   "venue": "Econometrica",
+   "status": "已发表",
+   "url": "http://www.jstor.org/stable/2951784",
+   "abstract": null
+  },
+  {
+   "title": "Communication and Superior Cooperation in Two-Player Normal Form Games",
+   "authors": [
+    "Joel Watson"
+   ],
+   "year": 1991,
+   "venue": "Economics Letters",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/0165-1765(91)90142-8",
+   "abstract": null
+  }
+ ]
+}

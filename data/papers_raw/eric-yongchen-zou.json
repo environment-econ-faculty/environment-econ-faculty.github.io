@@ -1,0 +1,355 @@
+{
+ "slug": "eric-yongchen-zou",
+ "name": "Eric Yongchen Zou",
+ "sources": [
+  "https://www.eric-zou.com/",
+  "https://www.eric-zou.com/s/cv_ericzou_2026-3.pdf"
+ ],
+ "collected": "2026-10-25",
+ "notes": "Statuses/titles from homepage (newer than the March-2026 CV), authors from CV. Homepage 'Healing Nature at Scale and Return: Lessons from China's Ecological Restoration' (reject & resubmit, Science) appears to be the retitled CV paper 'China's Ecological Restoration: Evidence from the Last 20 Years'; CV authors assumed unchanged. 'Measuring Neural Engagement in High-Stakes Trading' matches CV 'Beta for Alpha' (authors assumed same). 'Functional Diversity and Productivity in a Consumer Market' is on the homepage with no authors/paper, so omitted. Working-paper years from homepage PDF dates (2025-2026); 'Does Urban Biodiversity Matter?' undated, set to 2026; Wind Turbine Syndrome year 2020 from PDF filename (turbine_zou202009). Reject-and-resubmit mapped to 工作论文. Mu-Rubin-Zou is published in REStat 2026 per homepage (CV said forthcoming).",
+ "papers": [
+  {
+   "title": "Emergency Visits for Thunderstorm-Related Respiratory Illnesses Among Older Adults",
+   "authors": [
+    "Eric Zou",
+    "Christopher Worsham",
+    "Nolan Miller",
+    "David Molitor",
+    "Julian Reif",
+    "Anupam B. Jena"
+   ],
+   "year": 2020,
+   "venue": "JAMA Internal Medicine",
+   "status": "已发表",
+   "url": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2769087",
+   "abstract": null
+  },
+  {
+   "title": "Conservation Co-Benefits from Air Pollution Regulation",
+   "authors": [
+    "Yuanning Liang",
+    "Ivan Rudik",
+    "Eric Zou",
+    "Alison Johnston",
+    "Amanda Rodewald",
+    "Cathy Kling"
+   ],
+   "year": 2020,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "https://www.pnas.org/content/early/2020/11/23/2013568117",
+   "abstract": null
+  },
+  {
+   "title": "Unwatched Pollution: The Effect of Intermittent Monitoring on Air Quality",
+   "authors": [
+    "Eric Zou"
+   ],
+   "year": 2021,
+   "venue": "American Economic Review",
+   "status": "已发表",
+   "url": "https://www.aeaweb.org/articles?id=10.1257%2Faer.20181346",
+   "abstract": null
+  },
+  {
+   "title": "China's War on Pollution: Evidence from the First 5 Years",
+   "authors": [
+    "Michael Greenstone",
+    "Guojun He",
+    "Shanjun Li",
+    "Eric Zou"
+   ],
+   "year": 2021,
+   "venue": "Review of Environmental Economics and Policy",
+   "status": "已发表",
+   "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/715550",
+   "abstract": null
+  },
+  {
+   "title": "(Re)scheduling Pollution Exposure: The Case of Surgery Schedules and Patient Mortality",
+   "authors": [
+    "Jialin Huang",
+    "Jianwei Xing",
+    "Eric Zou"
+   ],
+   "year": 2023,
+   "venue": "Journal of Public Economics",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/abs/pii/S0047272723000075",
+   "abstract": null
+  },
+  {
+   "title": "'Quick Response' Economic Stimulus: The Effect of Small-Value Digital Coupons on Spending",
+   "authors": [
+    "Jianwei Xing",
+    "Eric Zou",
+    "Zhentao Yin",
+    "Yong Wang",
+    "Zhenhua Li"
+   ],
+   "year": 2023,
+   "venue": "American Economic Journal: Macroeconomics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "From Fog to Smog: The Value of Pollution Information",
+   "authors": [
+    "Panle Jia Barwick",
+    "Shanjun Li",
+    "Liguo Lin",
+    "Eric Zou"
+   ],
+   "year": 2024,
+   "venue": "American Economic Review",
+   "status": "已发表",
+   "url": "https://www.aeaweb.org/articles?id=10.1257%2Faer.20200956",
+   "abstract": null
+  },
+  {
+   "title": "Air Pollution and the Labor Market: Evidence from Wildfire Smoke",
+   "authors": [
+    "Mark Borgschulte",
+    "David Molitor",
+    "Eric Zou"
+   ],
+   "year": 2024,
+   "venue": "Review of Economics and Statistics",
+   "status": "已发表",
+   "url": "https://direct.mit.edu/rest/article/106/6/1558/113174/Air-Pollution-and-the-Labor-Market-Evidence-from",
+   "abstract": null
+  },
+  {
+   "title": "Economic Activity and Biodiversity in the United States",
+   "authors": [
+    "Yuanning Liang",
+    "Ivan Rudik",
+    "Eric Zou"
+   ],
+   "year": 2025,
+   "venue": "Journal of Public Economics",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/pii/S004727272500180X",
+   "abstract": null
+  },
+  {
+   "title": "What's Missing in Environmental Self-Monitoring: Evidence from Strategic Shutdowns of Pollution Monitors",
+   "authors": [
+    "Yingfei Mu",
+    "Edward Rubin",
+    "Eric Zou"
+   ],
+   "year": 2026,
+   "venue": "Review of Economics and Statistics",
+   "status": "已发表",
+   "url": "https://direct.mit.edu/rest/article/doi/10.1162/rest_a_01477/124130/What-s-Missing-in-Environmental-Self-Monitoring",
+   "abstract": null
+  },
+  {
+   "title": "The Nonlinear Effects of Air Pollution on Health: Evidence from Wildfire Smoke",
+   "authors": [
+    "Nolan Miller",
+    "David Molitor",
+    "Eric Zou"
+   ],
+   "year": 2025,
+   "venue": "American Economic Review: Insights",
+   "status": "即将发表",
+   "url": "https://www.nber.org/papers/w32924",
+   "abstract": null
+  },
+  {
+   "title": "Urban Forests: Environmental Health Values and Risks",
+   "authors": [
+    "Jianwei Xing",
+    "Zhiren Hu",
+    "Fan Xia",
+    "Jintao Xu",
+    "Eric Zou"
+   ],
+   "year": 2025,
+   "venue": "Review of Economics and Statistics",
+   "status": "即将发表",
+   "url": "https://www.nber.org/papers/w31554",
+   "abstract": null
+  },
+  {
+   "title": "Microgiving with Digital Platforms",
+   "authors": [
+    "Xiheng Jiang",
+    "Jianwei Xing",
+    "Jintao Xu",
+    "Eric Zou"
+   ],
+   "year": 2026,
+   "venue": "Journal of Political Economy Microeconomics",
+   "status": "即将发表",
+   "url": "https://www.nber.org/papers/w30102",
+   "abstract": null
+  },
+  {
+   "title": "Wind Turbine Syndrome: The Impact of Wind Farms on Suicide",
+   "authors": [
+    "Eric Zou"
+   ],
+   "year": 2020,
+   "venue": "American Economic Journal: Economic Policy",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Marine Microplastics and Infant Health",
+   "authors": [
+    "Xinming Du",
+    "Shan Zhang",
+    "Eric Zou"
+   ],
+   "year": 2025,
+   "venue": "Working Paper (reject and resubmit, Review of Economics and Statistics)",
+   "status": "工作论文",
+   "url": "https://www.nber.org/papers/w33094",
+   "abstract": null
+  },
+  {
+   "title": "Healing Nature at Scale and Return: Lessons from China's Ecological Restoration",
+   "authors": [
+    "Guojun He",
+    "Yuanning Liang",
+    "Yuhang Pan",
+    "Jianwei Xing",
+    "Jintao Xu",
+    "Zheng Zhong",
+    "Eric Zou"
+   ],
+   "year": 2026,
+   "venue": "Working Paper (reject and resubmit, Science)",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Trade, Trees, and Lives",
+   "authors": [
+    "Xinming Du",
+    "Lei Li",
+    "Eric Zou"
+   ],
+   "year": 2026,
+   "venue": "NBER Working Paper",
+   "status": "工作论文",
+   "url": "https://www.nber.org/papers/w33143",
+   "abstract": null
+  },
+  {
+   "title": "Microclimate Risks and Consumer Adaptation",
+   "authors": [
+    "Jianwei Xing",
+    "Kangkai Wang",
+    "Hua Zhang",
+    "Shuang Zhang",
+    "Eric Zou"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Beyond New: Consumer Trading of Used Items",
+   "authors": [
+    "Jianwei Xing",
+    "Eric Zou"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "ESG Aversion: Experimental Evidence on Perceptions and Preferences",
+   "authors": [
+    "Ye Zhang",
+    "Eric Zou"
+   ],
+   "year": 2026,
+   "venue": "NBER Working Paper",
+   "status": "工作论文",
+   "url": "https://www.nber.org/papers/w34048",
+   "abstract": null
+  },
+  {
+   "title": "Mobilizing Green Support through Digital Technology",
+   "authors": [
+    "Jiayin Hu",
+    "Shang-Jin Wei",
+    "Jianwei Xing",
+    "Eric Zou"
+   ],
+   "year": 2025,
+   "venue": "NBER Working Paper",
+   "status": "工作论文",
+   "url": "https://www.nber.org/papers/w34074",
+   "abstract": null
+  },
+  {
+   "title": "Pay Now, Buy Never: The Economics of Consumer Prepayment Schemes",
+   "authors": [
+    "Yixuan Liu",
+    "Hua Zhang",
+    "Eric Zou"
+   ],
+   "year": 2026,
+   "venue": "NBER Working Paper",
+   "status": "工作论文",
+   "url": "https://www.nber.org/papers/w34918",
+   "abstract": null
+  },
+  {
+   "title": "Coca's Return and the American Overdose Fallout",
+   "authors": [
+    "Xinming Du",
+    "Benjamin Hansen",
+    "Shan Zhang",
+    "Eric Zou"
+   ],
+   "year": 2026,
+   "venue": "NBER Working Paper",
+   "status": "工作论文",
+   "url": "https://www.nber.org/papers/w34788",
+   "abstract": null
+  },
+  {
+   "title": "Does Urban Biodiversity Matter?",
+   "authors": [
+    "Chang Wang",
+    "Eyal Frank",
+    "Tom Lyon",
+    "Eric Zou"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Measuring Neural Engagement in High-Stakes Trading",
+   "authors": [
+    "Liang Chen",
+    "Tse-Chun Lin",
+    "Fei Wu",
+    "Xingjian Zheng",
+    "Eric Zou"
+   ],
+   "year": 2026,
+   "venue": "NBER Working Paper",
+   "status": "工作论文",
+   "url": "https://www.nber.org/papers/w35345",
+   "abstract": null
+  }
+ ]
+}

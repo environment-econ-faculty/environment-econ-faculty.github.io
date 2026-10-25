@@ -1,0 +1,137 @@
+{
+ "slug": "meera-mahadevan",
+ "name": "Meera Mahadevan",
+ "sources": [
+  "https://www.meeramahadevan.com/ (redirects to Google Sites; fetched text had no paper list)",
+  "https://www.dropbox.com/scl/fi/med57sl0zus6temy3ssb0/CV.pdf (CV, 2026)"
+ ],
+ "collected": "2026-10-25",
+ "notes": "Source: 2026 CV (4 pp). CV gives only 'with X, Y' for coauthored papers, so coauthored bylines are alphabetical by surname (incl. Mahadevan) and may differ from actual byline order. Years: published = journal year per CV; forthcoming and working papers = 2026 (CV date; no paper dates given). Skipped: work in progress, VoxDev/policy/World Bank/blog items.",
+ "papers": [
+  {
+   "title": "The Price of Power: Costs of Political Corruption in Indian Electricity",
+   "authors": [
+    "Meera Mahadevan"
+   ],
+   "year": 2024,
+   "venue": "American Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Women Leaders and Environmental Outcomes",
+   "authors": [
+    "Maulik Jagnani",
+    "Meera Mahadevan"
+   ],
+   "year": 2025,
+   "venue": "Journal of Public Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Political Consequences of Resource Scarcity: Targeted Spending in a Water-Stressed Democracy",
+   "authors": [
+    "Meera Mahadevan",
+    "Ajay Shenoy"
+   ],
+   "year": 2023,
+   "venue": "Journal of Public Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Reducing Information Barriers to Solar Adoption: Experimental Evidence from India",
+   "authors": [
+    "Meera Mahadevan",
+    "Robyn Meeks"
+   ],
+   "year": 2023,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Behavioral Dynamics in Transitions from College to the Workforce",
+   "authors": [
+    "Catalina Franco",
+    "Meera Mahadevan"
+   ],
+   "year": 2021,
+   "venue": "Journal of Economic Behavior and Organization",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "You Get What You Pay For: Electricity Quality and Firm Response",
+   "authors": [
+    "Meera Mahadevan"
+   ],
+   "year": 2026,
+   "venue": "Economic Development and Cultural Change",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "On the Back Burner: Experimental Evidence on Energy Transitions",
+   "authors": [
+    "Meera Mahadevan",
+    "Adrian Martinez",
+    "Ryan McCord",
+    "Robyn Meeks",
+    "Manisha Pradhananga"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Growing Pains: The Unequal Costs of Infrastructure Modernization",
+   "authors": [
+    "Meera Mahadevan",
+    "Ryan McCord",
+    "Robyn Meeks",
+    "Manisha Pradhananga"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Regulating Market Power under Limited Enforcement: Evidence from Water Markets in Rural India",
+   "authors": [
+    "Meera Mahadevan",
+    "Debi Prasad Mohapatra",
+    "Sheetal Sekhri"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Political Misallocation of Electricity and Firm Outcomes",
+   "authors": [
+    "Meera Mahadevan",
+    "Bhavyaa Sharma",
+    "Ajay Shenoy"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}
