@@ -1,0 +1,980 @@
+{
+ "slug": "susana-ferreira",
+ "name": "Susana Ferreira",
+ "sources": [
+  "https://agecon.uga.edu/content/dam/caes-subsite/ag-econ/documents/cvs/FerreiraCV_Feb2025.pdf"
+ ],
+ "collected": "2026-10-25",
+ "notes": "Source: CV dated Feb 2025 (no homepage consulted). Refereed journal articles plus 3 book chapters; the 2011 World Bank book, policy papers/reports and media commentaries skipped. CV lists no working papers or forthcoming items. Names shown as initials as in CV; Benez-Secanho 2022 CV byline ends 'et al.' so only the first three authors are listed. Journal typo 'Journal of Cleaner Production' article's title as printed.",
+ "papers": [
+  {
+   "title": "Understanding Public Acceptability of Climate Policies in Europe",
+   "authors": [
+    "S. Zhang",
+    "S. Ferreira",
+    "B. Karali"
+   ],
+   "year": 2024,
+   "venue": "Climate Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "What Makes People Happy? Evidence from International Data",
+   "authors": [
+    "M. Ahmadiani",
+    "S. Ferreira",
+    "J. Kessler"
+   ],
+   "year": 2022,
+   "venue": "Journal of Happiness Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Disasters as News? A Comparison of the Impact of Hurricanes on Market Capitalization of Energy Companies",
+   "authors": [
+    "H. Liu",
+    "S. Ferreira",
+    "B. Karali"
+   ],
+   "year": 2021,
+   "venue": "International Journal of Disaster Risk Reduction",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Spatial and Temporal Trends in the Economic Value of Biotic Pollination Services in Georgia, USA: 2009–2017",
+   "authors": [
+    "R. Pless",
+    "S. Ferreira",
+    "J. Bergstrom",
+    "A. N. Rabinowitz"
+   ],
+   "year": 2021,
+   "venue": "Journal of Agricultural and Applied Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Air Pollution and Happiness: Evidence from the Coldest Capital in the World",
+   "authors": [
+    "C. Sanduijav",
+    "S. Ferreira",
+    "M. Filipski",
+    "Y. Hashida"
+   ],
+   "year": 2021,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Well-Being Effects of Extreme Weather Events in the United States",
+   "authors": [
+    "M. Ahmadiani",
+    "S. Ferreira"
+   ],
+   "year": 2021,
+   "venue": "Resource and Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Air Pollution and Non-Cognitive Traits Among Chinese Adolescents",
+   "authors": [
+    "M. Li",
+    "S. Ferreira",
+    "T. Smith",
+    "X. Zhang"
+   ],
+   "year": 2021,
+   "venue": "Health Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Challenges to Realizing the Potential of Nature-Based Solutions",
+   "authors": [
+    "D. Nelson",
+    "B. Bledsoe",
+    "S. Ferreira",
+    "N. Nibbelink"
+   ],
+   "year": 2020,
+   "venue": "Current Opinion in Environmental Sustainability",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Effect of working forest conservation easements on surrounding property values",
+   "authors": [
+    "T. Reeves",
+    "B. Mei",
+    "J. Siry",
+    "P. Bettinger",
+    "S. Ferreira"
+   ],
+   "year": 2020,
+   "venue": "Forest Policy and Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Towards a Characterization of Working Forest Conservation Easements in Georgia, USA",
+   "authors": [
+    "T. Reeves",
+    "B. Mei",
+    "J. Siry",
+    "P. Bettinger",
+    "S. Ferreira"
+   ],
+   "year": 2020,
+   "venue": "Forests",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Temperature and self-reported mental health in the United States",
+   "authors": [
+    "M. Li",
+    "S. Ferreira",
+    "T. Smith"
+   ],
+   "year": 2020,
+   "venue": "PLoS ONE",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Environmental Amenities and Quality of Life across the United States",
+   "authors": [
+    "M. Ahmadiani",
+    "S. Ferreira"
+   ],
+   "year": 2019,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Flood Insurance and Risk Reduction: Market Penetration, Coverage, and Mitigation in Coastal North Carolina",
+   "authors": [
+    "M. Ahmadiani",
+    "S. Ferreira",
+    "C. Landry"
+   ],
+   "year": 2019,
+   "venue": "Southern Economic Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Risk attitudes and conservation decisions: A case study of family forest owners in Georgia",
+   "authors": [
+    "M.J. Kahn",
+    "G. Colson",
+    "S. Ferreira",
+    "J. Siry"
+   ],
+   "year": 2019,
+   "venue": "Forest Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Green Space and Adult Obesity in the United States",
+   "authors": [
+    "R. Ghimire",
+    "S. Ferreira",
+    "G. Green",
+    "N. Poudyal",
+    "K. Cordell",
+    "J. Thapa"
+   ],
+   "year": 2017,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Mobile Phone Revolution: Have Mobile Phones and the Internet reduced Corruption in Sub-Saharan Africa?",
+   "authors": [
+    "D. Kanyam",
+    "G. Kostandini",
+    "S. Ferreira"
+   ],
+   "year": 2017,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Ripple Effects of the 2011 Japan Earthquake on International Stock Markets",
+   "authors": [
+    "P. Valizadeh",
+    "B. Karali",
+    "S. Ferreira"
+   ],
+   "year": 2017,
+   "venue": "Research in International Business and Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Floods and Armed Conflict",
+   "authors": [
+    "R. Ghimire",
+    "S. Ferreira"
+   ],
+   "year": 2016,
+   "venue": "Environment and Development Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "What Drives Households to Buy Flood Insurance? Evidence from Georgia",
+   "authors": [
+    "A. Atreya",
+    "S. Ferreira",
+    "E. Michel-Kerjan"
+   ],
+   "year": 2015,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do Earthquakes Shake Stock Markets?",
+   "authors": [
+    "S. Ferreira",
+    "B. Karali"
+   ],
+   "year": 2015,
+   "venue": "PLoS ONE",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Seeing is Believing? Evidence from Property Prices in Inundated Areas",
+   "authors": [
+    "A. Atreya",
+    "S. Ferreira"
+   ],
+   "year": 2015,
+   "venue": "Risk Analysis",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Economic Valuation of Pollination Services in Georgia",
+   "authors": [
+    "A. Barfield",
+    "J. Bergstrom",
+    "A. Covich",
+    "S. Ferreira",
+    "K. Delaplane"
+   ],
+   "year": 2015,
+   "venue": "Journal of Economic Entomology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Flood-Induced Migration and Civil Conflict",
+   "authors": [
+    "R. Ghimire",
+    "S. Ferreira",
+    "J.H. Dorfman"
+   ],
+   "year": 2015,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Environment, Well-Being and Experienced Preference",
+   "authors": [
+    "H. Welsch",
+    "S. Ferreira"
+   ],
+   "year": 2014,
+   "venue": "International Review of Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Macroeconomic Impacts of Natural Disasters: The case of Floods",
+   "authors": [
+    "J. Cuñado",
+    "S. Ferreira"
+   ],
+   "year": 2014,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Does development reduce fatalities from natural disasters? New evidence for floods",
+   "authors": [
+    "S. Ferreira",
+    "K. Hamilton",
+    "J.R. Vincent"
+   ],
+   "year": 2013,
+   "venue": "Environment and Development Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Forgetting the Flood? An Analysis of the Flood Risk Discount over Time",
+   "authors": [
+    "A. Atreya",
+    "S. Ferreira",
+    "W. Kriesel"
+   ],
+   "year": 2013,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Income and Preferences for the Environment: Evidence from Subjective Well-Being Data",
+   "authors": [
+    "S. Ferreira",
+    "M. Moro"
+   ],
+   "year": 2013,
+   "venue": "Environment and Planning A",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Life Satisfaction and Air Quality in Europe",
+   "authors": [
+    "S. Ferreira",
+    "A. Akay",
+    "F. Brereton",
+    "J. Cuñado",
+    "P. Martinsson",
+    "M. Moro",
+    "T. Ningal"
+   ],
+   "year": 2013,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Forest cover, socioeconomics, and reported flood frequency in developing countries",
+   "authors": [
+    "S. Ferreira",
+    "R. Ghimire"
+   ],
+   "year": 2012,
+   "venue": "Water Resources Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Constructing Genuine Savings Indicators for Ireland: 1995-2005",
+   "authors": [
+    "S. Ferreira",
+    "M. Moro"
+   ],
+   "year": 2011,
+   "venue": "Journal of Environmental Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Governance and Timber Harvests",
+   "authors": [
+    "S. Ferreira",
+    "J. R. Vincent"
+   ],
+   "year": 2010,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Shedding Light on the Light Bulb Puzzle: The Role of Attitudes and Perceptions in the Adoption of Energy Efficient Light Bulbs",
+   "authors": [
+    "C. Di Maria",
+    "S. Ferreira",
+    "E. Lazarova"
+   ],
+   "year": 2010,
+   "venue": "Scottish Journal of Political Economy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The impact of fiscal and other measures on new passenger car sales and CO2 emissions intensity: Evidence from Europe",
+   "authors": [
+    "L. Ryan",
+    "S. Ferreira",
+    "F. Convery"
+   ],
+   "year": 2009,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Bus Priority Provision and Willingness to Pay Differentials Resulting from Modal Choice and Residential Location – Evidence from a Stated Choice Survey",
+   "authors": [
+    "S. McDonnell",
+    "S. Ferreira",
+    "F. Convery"
+   ],
+   "year": 2009,
+   "venue": "Journal of Transport Economics and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Host community attitudes towards solid waste landfill infrastructure: comprehension before compensation",
+   "authors": [
+    "L. Gallagher",
+    "S. Ferreira",
+    "F. Convery"
+   ],
+   "year": 2008,
+   "venue": "Journal of Environmental Planning and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Happiness, Geography and the Environment",
+   "authors": [
+    "F. Brereton",
+    "J.P. Clinch",
+    "S. Ferreira"
+   ],
+   "year": 2008,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Ranking Quality of Life using Subjective Well-being Data",
+   "authors": [
+    "M. Moro",
+    "F. Brereton",
+    "S. Ferreira",
+    "J.P. Clinch"
+   ],
+   "year": 2008,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Comprehensive Wealth and Future Consumption: Accounting for Population Growth",
+   "authors": [
+    "S. Ferreira",
+    "K. Hamilton",
+    "J.R. Vincent"
+   ],
+   "year": 2008,
+   "venue": "World Bank Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Using Bus Rapid Transit to Mitigate Emissions of CO2 from Transport",
+   "authors": [
+    "S. McDonnell",
+    "S. Ferreira",
+    "F. Convery"
+   ],
+   "year": 2008,
+   "venue": "Transport Reviews",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Employment and Happiness: Insights from Ireland",
+   "authors": [
+    "F. Brereton",
+    "J.P. Clinch",
+    "S. Ferreira"
+   ],
+   "year": 2008,
+   "venue": "Economic and Social Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Trade Policy and Natural Resource Use: The Case for a Quantitative Restriction",
+   "authors": [
+    "S. Ferreira"
+   ],
+   "year": 2007,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The most popular tax in Europe? Lessons from the Irish plastic bags levy",
+   "authors": [
+    "F. Convery",
+    "S. McDonnell",
+    "S. Ferreira"
+   ],
+   "year": 2007,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Impact of Bus Priority Attributes on Catchment Area Residents in Dublin, Ireland",
+   "authors": [
+    "S. McDonnell",
+    "S. Ferreira",
+    "F. Convery"
+   ],
+   "year": 2006,
+   "venue": "Journal of Public Transportation",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Stimulating the Use of Biofuels in the European Union: Implications for Climate Change Policy",
+   "authors": [
+    "L. Ryan",
+    "S. Ferreira",
+    "F. Convery"
+   ],
+   "year": 2006,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Genuine savings: Leading Indicator of Sustainable Development?",
+   "authors": [
+    "S. Ferreira",
+    "J. R. Vincent"
+   ],
+   "year": 2005,
+   "venue": "Economic Development and Cultural Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Deforestation, Property Rights and International Trade",
+   "authors": [
+    "S. Ferreira"
+   ],
+   "year": 2004,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "On the Use of Subjective Well-Being Data for Environmental Valuation",
+   "authors": [
+    "S. Ferreira",
+    "Mirko Moro"
+   ],
+   "year": 2010,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Protest responses and community attitudes toward accepting compensation to host waste disposal infrastructure",
+   "authors": [
+    "S. Ferreira",
+    "L. Gallagher"
+   ],
+   "year": 2010,
+   "venue": "Land Use Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Measuring job risks when hedonic wage models do not do the job",
+   "authors": [
+    "S. Ferreira",
+    "S. Martínez de Morentin",
+    "A. Erro-Garcés"
+   ],
+   "year": 2025,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Shedding light on development: Leveraging the new nightlights data to measure economic progress",
+   "authors": [
+    "P. Jhamb",
+    "S. Ferreira",
+    "P. Stephens",
+    "M. Sundaram",
+    "J. Wilson"
+   ],
+   "year": 2025,
+   "venue": "PLoS ONE",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Extreme Weather Events and Climate Change: Economic Impacts and Adaptation Policies",
+   "authors": [
+    "S. Ferreira"
+   ],
+   "year": 2024,
+   "venue": "Annual Review of Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Fisherfolk contingent valuation of marine restoration in Gujarat, India",
+   "authors": [
+    "S. Gujarathi-Talati",
+    "S. Ferreira",
+    "S. Wenger",
+    "M. Filipski"
+   ],
+   "year": 2024,
+   "venue": "Ocean & Coastal Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Nature-based Solutions for Leveed River Corridors",
+   "authors": [
+    "M.L. Chambers",
+    "C.B. van Rees",
+    "B.P. Bledsoe",
+    "D. Crane",
+    "S. Ferreira",
+    "D.M. Hall",
+    "R.W. Lammers",
+    "C.E. Landry",
+    "D.R. Nelson",
+    "M. Shudtz",
+    "B.C. Suedel"
+   ],
+   "year": 2023,
+   "venue": "Anthropocene",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Reimagining infrastructure for a biodiverse future",
+   "authors": [
+    "C.B. van Rees",
+    "D.D. Hernández-Abrams",
+    "M. Shudtz",
+    "R. Lammers",
+    "J. Byers",
+    "B.P. Bledsoe",
+    "M.V. Bilskie",
+    "J. Calabria",
+    "M. Chambers",
+    "E. Dolatowski",
+    "S. Ferreira",
+    "L. Naslund",
+    "D.R. Nelson",
+    "N. Nibbelink",
+    "B. Suedel",
+    "A. Tritinger",
+    "B. Woodson",
+    "K. McKay",
+    "S. Wenger"
+   ],
+   "year": 2023,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Recreational travel behavior and COVID-19: Insights from expected utility and the theory of planned behavior",
+   "authors": [
+    "K.E. Ojo",
+    "S. Ferreira",
+    "J. Salazar",
+    "J. Bergstrom",
+    "K.M. Woosnam"
+   ],
+   "year": 2023,
+   "venue": "Tourism Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Drivers of African Filovirus (Ebola and Marburg) Outbreaks",
+   "authors": [
+    "P.R. Stephens",
+    "M. Sundaram",
+    "S. Ferreira",
+    "N. Gottdenker",
+    "K. Fatema Nipa",
+    "A.M. Schatz",
+    "J.P. Schmidt",
+    "J.M. Drake"
+   ],
+   "year": 2022,
+   "venue": "Vector-Borne and Zoonotic Diseases",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Trade-offs Between the Value of Ecosystem Services and Connectivity Among Protected Areas in the Upper Chattahoochee Watershed",
+   "authors": [
+    "F.J. Benez-Secanho",
+    "P. Dwivedi",
+    "S. Ferreira"
+   ],
+   "year": 2022,
+   "venue": "Environmental Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Infrastructure investment must incorporate Nature's lessons in a rapidly changing world",
+   "authors": [
+    "R.A. Feagin",
+    "T.S. Bridges",
+    "B. Bledsoe",
+    "E. Losos",
+    "S. Ferreira",
+    "E. Corwin",
+    "Q. Lodder",
+    "M.W. Beck",
+    "B. Reguero",
+    "A. Sutton-Grier",
+    "J. Figlus",
+    "R. Palmer",
+    "D. Nelson",
+    "C. Smith",
+    "L. Olander",
+    "B. Silliman",
+    "H. Pietersen",
+    "R. Costanza",
+    "R.K. Gittman",
+    "S. Narayan",
+    "N. Pontee",
+    "M. Donahue",
+    "D. McNeill",
+    "T. Guidry"
+   ],
+   "year": 2021,
+   "venue": "One Earth",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Governance of Payments for Ecosystem Services influences social and environmental outcomes in Costa Rica",
+   "authors": [
+    "K. Brownson",
+    "E. Anderson",
+    "S. Ferreira",
+    "S. Wenger",
+    "L. Fowler",
+    "L. German"
+   ],
+   "year": 2020,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do forest property characteristics reveal landowners' willingness to accept payments for ecosystem services contracts in southeast Georgia, U.S.?",
+   "authors": [
+    "M.J. Kahn",
+    "J. Siry",
+    "G. Colson",
+    "S. Ferreira"
+   ],
+   "year": 2019,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do Better Workplace Environmental Conditions improve Job Satisfaction?",
+   "authors": [
+    "A. Erro-Garces",
+    "S. Ferreira"
+   ],
+   "year": 2019,
+   "venue": "Journal of Cleaner Production",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Explaining harvests of wild-harvested herbaceous plants: American ginseng as a case study",
+   "authors": [
+    "J.P. Schmidt",
+    "J. Chamberlain",
+    "J. Cruse-Sanders",
+    "S. Ferreira",
+    "J. Young"
+   ],
+   "year": 2019,
+   "venue": "Biological Conservation",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Housing Market Impacts of Wastewater Injection Induced Seismicity Risk",
+   "authors": [
+    "S. Ferreira",
+    "H. Liu",
+    "B. Brewer"
+   ],
+   "year": 2018,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Measuring and Tracking Obesity Inequality in the US: Evidence from NHANES, 1971-2014",
+   "authors": [
+    "T.Y. Pak",
+    "S. Ferreira",
+    "G. Colson"
+   ],
+   "year": 2016,
+   "venue": "Population Health Metrics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Governments' Ability to Take Actions to Confront Incursions of Diseases - A Case Study: Citrus Canker in Florida",
+   "authors": [
+    "T.J. Centner",
+    "S. Ferreira"
+   ],
+   "year": 2012,
+   "venue": "Plant Pathology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Controlling Diseases and Nuisances: Time-Based Rights and Agricultural Production",
+   "authors": [
+    "T.J. Centner",
+    "S. Ferreira"
+   ],
+   "year": 2012,
+   "venue": "Land Use Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Spatial Variation in Life Satisfaction: A Happiness Puzzle",
+   "authors": [
+    "M. Ahmadiani",
+    "F. Brereton",
+    "S. Ferreira",
+    "M. Moro"
+   ],
+   "year": 2020,
+   "venue": "Handbook on Wellbeing, Happiness and the Environment (book chapter, Edward Elgar)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Trajectories of adaptation: A retrospectus for future dynamics",
+   "authors": [
+    "D.R. Nelson",
+    "F.A. de Souza Filho",
+    "T.J. Finan",
+    "S. Ferreira"
+   ],
+   "year": 2014,
+   "venue": "Social-ecological Systems in Transition (book chapter, Springer)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Single Parent Households and Life Satisfaction: Insights from Ireland",
+   "authors": [
+    "F. Brereton",
+    "J.P. Clinch",
+    "S. Ferreira"
+   ],
+   "year": 2014,
+   "venue": "Beyond Money: The Social Roots of Health and Well-Being (book chapter, Nova Publishers)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

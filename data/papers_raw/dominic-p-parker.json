@@ -1,0 +1,548 @@
+{
+ "slug": "dominic-p-parker",
+ "name": "Dominic P. Parker",
+ "sources": [
+  "https://aae-cv-storage.s3.us-east-2.amazonaws.com/ParkerDominicCV.pdf",
+  "https://aae.wisc.edu/dparker/research/working-papers/"
+ ],
+ "collected": "2026-10-25",
+ "notes": "CV (Nov 2025) plus working-papers page; WP years set to 2025 (CV date). Author order for 'with' working papers (Johnston, Helm/Shost, Ha Do, Altringer et al.) is a guess: the sources only list '(with ...)', so the scholar is placed last/alphabetically. NBER 34377 byline Frank, Missirian, Parker, Raynor (from Raynor CV); Skipped Hoover essays, book review, PERC policy series, encyclopedia entry, op-eds, dormant WPs, WIP without drafts.",
+ "papers": [
+  {
+   "title": "Timing Is Everything: Labor Market Winners and Losers during a Boom-Bust Cycle",
+   "authors": [
+    "Erik Katovich",
+    "Dominic P. Parker",
+    "Steven Poelhekke"
+   ],
+   "year": 2026,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Creation and Extent of America's First Environmental Agencies",
+   "authors": [
+    "Dean Lueck",
+    "Dominic P. Parker"
+   ],
+   "year": 2025,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic Potential of Wind and Solar in American Indian Communities",
+   "authors": [
+    "Dominic P. Parker",
+    "Sarah Johnston",
+    "Bryan Leonard",
+    "Daniel Stewart",
+    "Justin Winikoff"
+   ],
+   "year": 2024,
+   "venue": "Nature Energy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Effects of Mining on Poverty in Developing Countries",
+   "authors": [
+    "Massa Coulibaly",
+    "Jeremy Foltz",
+    "Osaretin Olurotimi",
+    "Dominic P. Parker",
+    "Nouhoum Traoré"
+   ],
+   "year": 2024,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Farm Size, Spatial Externalities, and Wind Energy Development",
+   "authors": [
+    "Justin B. Winikoff",
+    "Dominic P. Parker"
+   ],
+   "year": 2024,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Culture, Sovereignty, and the Rule of Law: Lessons from Indian Country",
+   "authors": [
+    "Terry L. Anderson",
+    "Dominic P. Parker"
+   ],
+   "year": 2024,
+   "venue": "Public Choice",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Effects of Per-Capita Payments on Governance: Evidence from Tribal Casinos",
+   "authors": [
+    "Adam Crepelle",
+    "Paasha Mahdavi",
+    "Dominic P. Parker"
+   ],
+   "year": 2024,
+   "venue": "Public Choice",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Are Resource Booms a Blessing or a Curse? Evidence from People (not Places)",
+   "authors": [
+    "Grant D. Jacobsen",
+    "Dominic P. Parker",
+    "Justin Winikoff"
+   ],
+   "year": 2023,
+   "venue": "Journal of Human Resources",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Federal Funding and State Wildlife Conservation",
+   "authors": [
+    "Dean Lueck",
+    "Dominic P. Parker"
+   ],
+   "year": 2022,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Allow Non-Use Rights to Conserve Natural Resources",
+   "authors": [
+    "Bryan Leonard",
+    "Shawn Regan",
+    "Christopher Costello",
+    "Suzi Kerr",
+    "Dominic P. Parker",
+    "Andrew J. Plantinga",
+    "James Salzman",
+    "V. Kerry Smith",
+    "Temple Stoellinger"
+   ],
+   "year": 2021,
+   "venue": "Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Wolves Make Roadways Safer, Generating Large Economic Returns to Predator Conservation",
+   "authors": [
+    "Jennifer Raynor",
+    "Corbett Grainger",
+    "Dominic P. Parker"
+   ],
+   "year": 2021,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Self-Governance and Development on American Indian Reservations",
+   "authors": [
+    "Dustin Frye",
+    "Dominic P. Parker"
+   ],
+   "year": 2021,
+   "venue": "AEA Papers and Proceedings",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Fragmented Ownership and Natural Resource Use: Evidence from the Bakken",
+   "authors": [
+    "Bryan Leonard",
+    "Dominic P. Parker"
+   ],
+   "year": 2021,
+   "venue": "The Economic Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Land Quality, Land Rights, and Indigenous Poverty",
+   "authors": [
+    "Bryan Leonard",
+    "Dominic P. Parker",
+    "Terry L. Anderson"
+   ],
+   "year": 2020,
+   "venue": "Journal of Development Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Private Land Conservation and Public Policy",
+   "authors": [
+    "Dominic P. Parker",
+    "Walter N. Thurman"
+   ],
+   "year": 2019,
+   "venue": "Annual Review of Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Private Organizations, Public Data: Land Trust Choices about Mapping Conservation Easements",
+   "authors": [
+    "Adena R. Rissman",
+    "Amy W. Morriss",
+    "Alexey Kalinin",
+    "Patrice A. Kohl",
+    "Dominic P. Parker",
+    "Owen Selles"
+   ],
+   "year": 2019,
+   "venue": "Land Use Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Economic Approach to Perennial Farm-Scale Water Demand Management for Water Rights Markets",
+   "authors": [
+    "Justin D. Delorit",
+    "Paul J. Block",
+    "Dominic P. Parker"
+   ],
+   "year": 2019,
+   "venue": "Agricultural Water Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Tax Incentives and the Price of Conservation",
+   "authors": [
+    "Dominic P. Parker",
+    "Walter N. Thurman"
+   ],
+   "year": 2018,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Resource Cursed or Policy Cursed? US Regulation of Conflict Minerals and Violence in the Congo",
+   "authors": [
+    "Dominic P. Parker",
+    "Bryan Vadheim"
+   ],
+   "year": 2017,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Economic Aftermath of Resource Booms: Evidence from Boomtowns in the American West",
+   "authors": [
+    "Grant D. Jacobsen",
+    "Dominic P. Parker"
+   ],
+   "year": 2016,
+   "venue": "The Economic Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Unintended Consequences of Sanctions for Human Rights: Conflict Minerals and Infant Mortality",
+   "authors": [
+    "Dominic P. Parker",
+    "Jeremy Foltz",
+    "David Elsea"
+   ],
+   "year": 2016,
+   "venue": "Journal of Law & Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Reforming Fisheries: Lessons from a Self-Selected Cooperative",
+   "authors": [
+    "Robert T. Deacon",
+    "Dominic P. Parker",
+    "Christopher Costello"
+   ],
+   "year": 2013,
+   "venue": "Journal of Law & Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Transaction Costs and Environmental Markets: The Role of Entrepreneurs",
+   "authors": [
+    "Terry L. Anderson",
+    "Dominic P. Parker"
+   ],
+   "year": 2013,
+   "venue": "Review of Environmental Economics and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Political Economy of Fishery Reform",
+   "authors": [
+    "Corbett A. Grainger",
+    "Dominic P. Parker"
+   ],
+   "year": 2013,
+   "venue": "Annual Review of Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Crowding Out Open Space: The Effects of Federal Land Programs on Private Land Trust Conservation",
+   "authors": [
+    "Dominic P. Parker",
+    "Walter N. Thurman"
+   ],
+   "year": 2011,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Encumbering Harvest Rights to Protect Marine Environments: A Model of Marine Conservation Easements",
+   "authors": [
+    "Robert T. Deacon",
+    "Dominic P. Parker"
+   ],
+   "year": 2009,
+   "venue": "Australian Journal of Agricultural and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic Development Lessons from and for North American Indian Economies",
+   "authors": [
+    "Terry L. Anderson",
+    "Dominic P. Parker"
+   ],
+   "year": 2009,
+   "venue": "Australian Journal of Agricultural and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Sovereignty, Credible Commitments, and Economic Prosperity on American Indian Reservations",
+   "authors": [
+    "Terry L. Anderson",
+    "Dominic P. Parker"
+   ],
+   "year": 2008,
+   "venue": "Journal of Law & Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Improving Efficiency by Assigning Rights to Fishery Cooperatives: Evidence from the Chignik Salmon Coop",
+   "authors": [
+    "Robert T. Deacon",
+    "Dominic P. Parker",
+    "Christopher Costello"
+   ],
+   "year": 2008,
+   "venue": "Arizona Law Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Land Trusts and the Choice to Conserve Land with Conservation Easements or Full Ownership",
+   "authors": [
+    "Dominic P. Parker"
+   ],
+   "year": 2004,
+   "venue": "Natural Resources Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Distributional Effects of Conservation Easements",
+   "authors": [
+    "Dominic P. Parker"
+   ],
+   "year": 2019,
+   "venue": "Distributional Effects of Environmental Markets (book chapter, PERC)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Questions of Property Rights",
+   "authors": [
+    "Dominic P. Parker"
+   ],
+   "year": 2018,
+   "venue": "Research Agenda for New Institutional Economics (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Lessons in Fiscal Federalism from American Indian Nations",
+   "authors": [
+    "Terry L. Anderson",
+    "Dominic P. Parker"
+   ],
+   "year": 2017,
+   "venue": "The Law and Economics of Federalism (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Paternalism versus Sovereignty: Long Run Economic Effects of the Indian Reorganization Act",
+   "authors": [
+    "Dustin Frye",
+    "Dominic P. Parker"
+   ],
+   "year": 2016,
+   "venue": "Unlocking the Wealth of Indian Nations (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Legacy of United States vs. Washington: Economic Effects of the Boldt and Rafeedie Fishery Decisions",
+   "authors": [
+    "Dominic P. Parker",
+    "Randal R. Rucker",
+    "Peter H. Nickerson"
+   ],
+   "year": 2016,
+   "venue": "Unlocking the Wealth of Indian Nations (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Natural Resources on American Indian Reservations: Blessing or Curse?",
+   "authors": [
+    "Terry L. Anderson",
+    "Bryan Leonard",
+    "Dominic P. Parker",
+    "Shawn Regan"
+   ],
+   "year": 2016,
+   "venue": "Unlocking the Wealth of Indian Nations (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Land Tenure, Judicial Sovereignty, and Economic Development on American Indian Reservations",
+   "authors": [
+    "Dominic P. Parker",
+    "Terry L. Anderson"
+   ],
+   "year": 2010,
+   "venue": "Access to Property Rights: Integrating Indigenous Communities into the Federal Scheme (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Option Value of Apex Predators: Evidence from a River Discontinuity",
+   "authors": [
+    "E. Frank",
+    "A. Missirian",
+    "Dominic P. Parker",
+    "J. Raynor"
+   ],
+   "year": 2025,
+   "venue": "NBER Working Paper 34377",
+   "status": "工作论文",
+   "url": "https://www.nber.org/papers/w34377",
+   "abstract": null
+  },
+  {
+   "title": "Wolf Recovery and Livestock Loss in the American West",
+   "authors": [
+    "L. Altringer",
+    "E. Frank",
+    "A. Missirian",
+    "Dominic P. Parker",
+    "J. Raynor"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Causes and Consequences of Policy Uncertainty: Evidence from McGirt vs. Oklahoma",
+   "authors": [
+    "S. Johnston",
+    "Dominic P. Parker"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://aae.wisc.edu/dparker/wp-content/uploads/sites/12/2022/05/Johnston-and-Parker-McGirt-May-31-2022.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Trading Green: Do Tax Credit Markets Improve Land Conservation?",
+   "authors": [
+    "A. Helm",
+    "G. Shost",
+    "Dominic P. Parker"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6302660",
+   "abstract": null
+  },
+  {
+   "title": "Science versus Subjectivity in Environmental Research",
+   "authors": [
+    "N. Ha Do",
+    "Dominic P. Parker"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7118619",
+   "abstract": null
+  }
+ ]
+}

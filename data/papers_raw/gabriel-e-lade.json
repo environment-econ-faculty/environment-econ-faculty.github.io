@@ -1,0 +1,250 @@
+{
+ "slug": "gabriel-e-lade",
+ "name": "Gabriel E. Lade",
+ "sources": [
+  "https://cfaes-contenthub.org.ohio-state.edu/sites/default/files/2026-04/Lade_CV_2025_0.pdf"
+ ],
+ "collected": "2026-10-25",
+ "notes": "Source: CV 2025 (PDF). Skipped work-in-progress items without draft and non-peer-reviewed pieces. Working paper CV says '(with ...)' so authors listed alphabetically by surname; year not given, set to CV year 2025. Odd CV entry for Research in Transportation Economics (52: 91-99, 2018) authors taken as Lade, Lin Lawell, Smith.",
+ "papers": [
+  {
+   "title": "Size-Based Regulations and Environmental Quality: Evidence from the U.S. Livestock Industry",
+   "authors": [
+    "C-T. Chen",
+    "G.E. Lade",
+    "J. Crespi",
+    "D. Keiser"
+   ],
+   "year": 2025,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Biofuels: Past, Present, and Future",
+   "authors": [
+    "A. Smith",
+    "G.E. Lade"
+   ],
+   "year": 2025,
+   "venue": "Annual Review of Resource Economics",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Threshold-based Regulations and Reporting Behavior: Evidence from the Lead and Copper Rule",
+   "authors": [
+    "T. Andarge",
+    "D. Ghanem",
+    "D. Keiser",
+    "G.E. Lade"
+   ],
+   "year": 2025,
+   "venue": "American Economic Review: Insights",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Geographical Indications and Welfare: Evidence from the US Wine Market",
+   "authors": [
+    "R. Chandra",
+    "G. Moschini",
+    "G.E. Lade"
+   ],
+   "year": 2025,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Rural Drinking Water Habits, Information Provision, And Pollution Exposure",
+   "authors": [
+    "G.E. Lade",
+    "J. Comito",
+    "J. Benning",
+    "C. Kling",
+    "D. Keiser"
+   ],
+   "year": 2024,
+   "venue": "Environmental Science and Technology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic Effects of Environmental Crises: Evidence from Flint, Michigan",
+   "authors": [
+    "P. Christensen",
+    "D. Keiser",
+    "G.E. Lade"
+   ],
+   "year": 2023,
+   "venue": "American Economic Journal: Economic Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Residential Water Conservation During Drought: Experimental Evidence from Three Behavioral Interventions",
+   "authors": [
+    "K. Jessoe",
+    "G.E. Lade",
+    "F. Loge",
+    "E. Spang"
+   ],
+   "year": 2021,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Design of Renewable Fuel Policies and Cost Containment Mechanisms",
+   "authors": [
+    "G.E. Lade",
+    "C.-Y.C. Lin Lawell"
+   ],
+   "year": 2021,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Conservation Spillovers and Behavioral Interventions: Experimental Evidence from Water and Energy Use",
+   "authors": [
+    "K. Jessoe",
+    "G.E. Lade",
+    "F. Loge",
+    "E. Spang"
+   ],
+   "year": 2021,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Hurricanes and Gasoline Price Gouging",
+   "authors": [
+    "T.K.M. Beatty",
+    "G.E. Lade",
+    "J. Shimshack"
+   ],
+   "year": 2021,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Costs of Inefficient Regulation: Evidence from the Bakken",
+   "authors": [
+    "G.E. Lade",
+    "I. Rudik"
+   ],
+   "year": 2020,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Fuel Subsidy Pass-Through and Market Structure: Evidence from the Renewable Fuel Standard",
+   "authors": [
+    "G.E. Lade",
+    "J. Bushnell"
+   ],
+   "year": 2019,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Air Pollution and Visitation at U.S. National Parks",
+   "authors": [
+    "D. Keiser",
+    "G.E. Lade",
+    "I. Rudik"
+   ],
+   "year": 2018,
+   "venue": "Science Advances",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Policy Shocks and Market-Based Regulations: Evidence from the Renewable Fuel Standard",
+   "authors": [
+    "G.E. Lade",
+    "C.-Y.C. Lin Lawell",
+    "A. Smith"
+   ],
+   "year": 2018,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Designing Climate Policy: Lessons from the Renewable Fuel Standard and the Blend Wall",
+   "authors": [
+    "G.E. Lade",
+    "C.-Y.C. Lin Lawell",
+    "A. Smith"
+   ],
+   "year": 2018,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Review of Low Carbon Fuel Policies: Principles, Program Status, and Future Directions",
+   "authors": [
+    "S. Yeh",
+    "J. Witcover",
+    "G.E. Lade",
+    "D. Sperling"
+   ],
+   "year": 2016,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Design and Economics of Low Carbon Fuel Standards",
+   "authors": [
+    "G.E. Lade",
+    "C.-Y.C. Lin Lawell",
+    "A. Smith"
+   ],
+   "year": 2018,
+   "venue": "Research in Transportation Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Forecasting Credit Supply Demand Balance for the Low-Carbon Fuel Standard Program",
+   "authors": [
+    "Jim Bushnell",
+    "G.E. Lade",
+    "Aaron Smith",
+    "Julie Witcover",
+    "Wuzheqian Xiao"
+   ],
+   "year": 2025,
+   "venue": "Energy Institute at Haas Working Paper 340",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

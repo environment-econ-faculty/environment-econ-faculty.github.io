@@ -1,0 +1,430 @@
+{
+ "slug": "michael-s-delgado",
+ "name": "Michael S. Delgado",
+ "sources": [
+  "https://web.ics.purdue.edu/~delgado2/CV_2017.pdf",
+  "https://web.ics.purdue.edu/~delgado2/"
+ ],
+ "collected": "2026-10-25",
+ "notes": "CV is dated August 2017 (stale; homepage links only this CV and has a certificate error). Year 2017 used for accepted/forthcoming and in-submission items. CV bylines say 'with ...', so Delgado is listed first, coauthors in CV order. Excluded policy brief and 'in progress' items.",
+ "papers": [
+  {
+   "title": "Heterogeneous Symbiosis and Commensalism between Foreign Direct Investment and Economic Growth: A Semiparametric System of Simultaneous Equations Analysis with Instrumental Variables",
+   "authors": [
+    "Michael S. Delgado",
+    "Nadine McCloud",
+    "Subal C. Kumbhakar"
+   ],
+   "year": 2017,
+   "venue": "Journal of Econometric Methods",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Analysis of the Endogenous Relationship Between Farm Family-Business Structure, Synergistic Relationships, and Profit",
+   "authors": [
+    "Michael S. Delgado",
+    "Tia M. McDonald",
+    "Maria I. Marshall"
+   ],
+   "year": 2017,
+   "venue": "Journal of Family and Economic Issues",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Benefit or Damage? The Productivity Effects of FDI in the Chinese Food Industry",
+   "authors": [
+    "Michael S. Delgado",
+    "Shaosheng Jin",
+    "Haiyue Guo",
+    "H. Holly Wang"
+   ],
+   "year": 2017,
+   "venue": "Food Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Are Local Market Relationships Undermining Organic Fruit and Vegetable Certification? A Bivariate Probit Analysis",
+   "authors": [
+    "Michael S. Delgado",
+    "Ariana P. Torres",
+    "Maria I. Marshall",
+    "Corrine E. Alexander"
+   ],
+   "year": 2017,
+   "venue": "Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Finite Sample Performance of Specification Tests for Correlated Random Effects Quantile Panel Regressions",
+   "authors": [
+    "Michael S. Delgado",
+    "Samiul S. Haque"
+   ],
+   "year": 2017,
+   "venue": "Applied Economics Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Foreign Direct Investment and the Domestic Capital Stock: The Good-Bad Role of Higher Institutional Quality",
+   "authors": [
+    "Michael S. Delgado",
+    "Nadine McCloud"
+   ],
+   "year": 2017,
+   "venue": "Empirical Economics",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Test on Adverse Selection of Farmers in Crop Insurance: Results from Inner Mongolia in China",
+   "authors": [
+    "Michael S. Delgado",
+    "Yuanfeng Zhao",
+    "Zhihui Chai",
+    "Paul V. Preckel"
+   ],
+   "year": 2017,
+   "venue": "Journal of Integrative Agriculture",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Cost of Unconventional Gas Extraction: A Hedonic Analysis",
+   "authors": [
+    "Michael S. Delgado",
+    "Todd Guilfoos",
+    "Andrew Boslett"
+   ],
+   "year": 2016,
+   "venue": "Resource and Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Dynamic Adjustment in Agricultural Practice to Economic Incentives Aiming to Decrease Fertilizer Application",
+   "authors": [
+    "Michael S. Delgado",
+    "Shanxia Sun",
+    "Juan P. Sesmero"
+   ],
+   "year": 2016,
+   "venue": "Journal of Environmental Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Empirical Analysis of the Effect of Crop Insurance on Farmers' Income: Results from Inner Mongolia in China",
+   "authors": [
+    "Michael S. Delgado",
+    "Yuanfeng Zhao",
+    "Zhihui Chai",
+    "Paul V. Preckel"
+   ],
+   "year": 2016,
+   "venue": "China Agricultural Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Difference-in-Difference Techniques for Spatial Data: Local Autocorrelation and Spatial Interaction",
+   "authors": [
+    "Michael S. Delgado",
+    "Raymond J. G. M. Florax"
+   ],
+   "year": 2015,
+   "venue": "Economics Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Future Property Damage from Flooding - Sensitivities to Economy and Climate Change",
+   "authors": [
+    "Michael S. Delgado",
+    "Jing Liu",
+    "Thomas Hertel",
+    "Moetasim Ashfaq",
+    "Noah Diffenbaugh"
+   ],
+   "year": 2015,
+   "venue": "Climatic Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Evolution of the Global Distribution of Carbon Dioxide: A Finite Mixture Analysis",
+   "authors": [
+    "Michael S. Delgado",
+    "Michele Battisti",
+    "Christopher F. Parmeter"
+   ],
+   "year": 2015,
+   "venue": "Resource and Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Quantifying the Effects of Underground Natural Gas Storage on Nearby Residents",
+   "authors": [
+    "Michael S. Delgado",
+    "Michaela Jellicoe"
+   ],
+   "year": 2015,
+   "venue": "Agricultural and Resource Economics Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Voluntary Pollution Abatement and Regulation",
+   "authors": [
+    "Michael S. Delgado",
+    "Neha Khanna"
+   ],
+   "year": 2015,
+   "venue": "Agricultural and Resource Economics Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Value of Environmental Status Signaling",
+   "authors": [
+    "Michael S. Delgado",
+    "Jessica Harriger",
+    "Neha Khanna"
+   ],
+   "year": 2015,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Should All Microfinance Institutions Mobilize Microsavings? Evidence from Economics of Scope",
+   "authors": [
+    "Michael S. Delgado",
+    "Christopher F. Parmeter",
+    "Valentina Hartarska",
+    "Roy Mersland"
+   ],
+   "year": 2015,
+   "venue": "Empirical Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Generalized Empirical Model of Corruption, Foreign Direct Investment, and Growth",
+   "authors": [
+    "Michael S. Delgado",
+    "Nadine McCloud",
+    "Subal C. Kumbhakar"
+   ],
+   "year": 2014,
+   "venue": "Journal of Macroeconomics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Transition to Modern Agriculture: Contract Farming in Developing Countries",
+   "authors": [
+    "Michael S. Delgado",
+    "H. Holly Wang",
+    "Yanbing Wang"
+   ],
+   "year": 2014,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Simple Estimator for Partial Linear Regression with Endogenous Nonparametric Variables",
+   "authors": [
+    "Michael S. Delgado",
+    "Christopher F. Parmeter"
+   ],
+   "year": 2014,
+   "venue": "Economics Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Does Education Matter for Economic Growth?",
+   "authors": [
+    "Michael S. Delgado",
+    "Daniel J. Henderson",
+    "Christopher F. Parmeter"
+   ],
+   "year": 2014,
+   "venue": "Oxford Bulletin of Economics and Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Embarrassingly Easy Embarrassingly Parallel Processing in R",
+   "authors": [
+    "Michael S. Delgado",
+    "Christopher F. Parmeter"
+   ],
+   "year": 2013,
+   "venue": "Journal of Applied Econometrics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Smooth Coefficient Model of Carbon Emissions",
+   "authors": [
+    "Michael S. Delgado"
+   ],
+   "year": 2013,
+   "venue": "Empirical Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Productivity in China's High Technology Industry: Regional Heterogeneity and R&D",
+   "authors": [
+    "Michael S. Delgado",
+    "Rui Zhang",
+    "Kai Sun",
+    "Subal C. Kumbhakar"
+   ],
+   "year": 2012,
+   "venue": "Technological Forecasting and Social Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Another Round of Fraternity Membership and Binge Drinking",
+   "authors": [
+    "Michael S. Delgado",
+    "Lori B. Anderson"
+   ],
+   "year": 2010,
+   "venue": "Journal of Economic and Social Measurement",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Fixed versus Random: The Hausman Test Four Decades Later",
+   "authors": [
+    "Michael S. Delgado",
+    "Shahram Amini",
+    "Daniel J. Henderson",
+    "Christopher F. Parmeter"
+   ],
+   "year": 2012,
+   "venue": "Advances in Econometrics (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Pixel Level Cropland Allocation and the Marginal Impacts of Biophysical Factors",
+   "authors": [
+    "Michael S. Delgado",
+    "Jingyu Song",
+    "Paul V. Preckel",
+    "Nelson B. Villoria"
+   ],
+   "year": 2017,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Economic Implications of Social Capital on Hispanic Entrepreneurship",
+   "authors": [
+    "Michael S. Delgado",
+    "Ariana P. Torres",
+    "Maria I. Marshall"
+   ],
+   "year": 2017,
+   "venue": "Working Paper",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Third Party Verification and the Effectiveness of Voluntary Pollution Abatement Programs: Evidence from Responsible Care",
+   "authors": [
+    "Michael S. Delgado",
+    "Martina Vidovic",
+    "Neha Khanna"
+   ],
+   "year": 2017,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Good News for Environmental Self-Regulation? Finding the Right Link",
+   "authors": [
+    "Michael S. Delgado",
+    "Yanbing Wang",
+    "Neha Khanna",
+    "Vicki L. Bogan"
+   ],
+   "year": 2017,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Smooth Coefficient Models with Endogenous Environmental Variables",
+   "authors": [
+    "Michael S. Delgado",
+    "Deniz Ozabaci",
+    "Yiguo Sun",
+    "Subal C. Kumbhakar"
+   ],
+   "year": 2017,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "On the Efficacy of OER Materials: How do Students Fare?",
+   "authors": [
+    "Michael S. Delgado",
+    "Huimei Delgado",
+    "John Hilton"
+   ],
+   "year": 2017,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

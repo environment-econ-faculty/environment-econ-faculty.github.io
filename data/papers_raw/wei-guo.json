@@ -1,0 +1,133 @@
+{
+ "slug": "wei-guo",
+ "name": "Wei Guo",
+ "sources": [
+  "https://sites.google.com/view/weiguo/research",
+  "https://drive.google.com/open?id=1Tz39zt0HpLPiSAuk0Rb54C3dqzlBLUi1"
+ ],
+ "collected": "2026-10-25",
+ "notes": "Homepage research page used for titles, authors, links; CV (Apr 22, 2026; text garbled) cross-checked for status. Homepage gives no years for working papers; 2026 used (CV date). Published items use homepage years (JEEM 2026, PNAS and NHR 2024). The PNAS reply to Lang et al. is a letter, included as listed on the homepage. Wildfire-adaptation paper status not listed (treated as working paper). Work-in-progress items without drafts omitted.",
+ "papers": [
+  {
+   "title": "Rising Water, Lowering Taxes: The Impact of Hurricane Sandy on Property Tax Assessments in New York City",
+   "authors": [
+    "Wei Guo",
+    "Qing Miao",
+    "Yusun Kim",
+    "Yilin Hou"
+   ],
+   "year": 2026,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jeem.2026.103313",
+   "abstract": null
+  },
+  {
+   "title": "The visual effect of wind turbines on property values is small and diminishing in space and time",
+   "authors": [
+    "Wei Guo",
+    "Leonie Wenz",
+    "Maximilian Auffhammer"
+   ],
+   "year": 2024,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "https://doi.org/10.1073/pnas.2309372121",
+   "abstract": null
+  },
+  {
+   "title": "The Use of DEMs versus DSMs in Viewshed Analysis",
+   "authors": [
+    "Wei Guo",
+    "Leonie Wenz",
+    "Maximilian Auffhammer"
+   ],
+   "year": 2024,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "https://doi.org/10.1073/pnas.2409845121",
+   "abstract": null
+  },
+  {
+   "title": "Fiscal implications of natural disaster and managed retreat: Evidence from Hurricane Sandy",
+   "authors": [
+    "Qing Miao",
+    "Wei Guo",
+    "Yilin Hou",
+    "Meri Davlasheridze"
+   ],
+   "year": 2024,
+   "venue": "Natural Hazards Review",
+   "status": "已发表",
+   "url": "https://doi.org/10.1061/NHREFO.NHENG-2027",
+   "abstract": null
+  },
+  {
+   "title": "Managed Retreat and Flood Recovery: the Local Economic Impacts of Buyout and Acquisition Program",
+   "authors": [
+    "Wei Guo",
+    "Penny Liao",
+    "Qing Miao"
+   ],
+   "year": 2026,
+   "venue": "Working Paper (RFF WP 23-44)",
+   "status": "修改重投",
+   "url": "https://www.rff.org/documents/4299/WP_23-44.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Storm Surge Barrier Cuts Flood Risk and Welfare Losses but Exacerbates Distributional Inequality",
+   "authors": [
+    "Wei Guo",
+    "Meri Davlasheridze",
+    "Jeremy Bricker",
+    "Seokmin Son"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Rebuilding Greener? Green Building Diffusion After Extreme Weather Events",
+   "authors": [
+    "Wei Guo",
+    "Qing Miao",
+    "Mark Bremer",
+    "Shan Zhou",
+    "Allison Reilly"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Proactive Adaptation to Wildfires: Evidence from California Cities",
+   "authors": [
+    "Wei Guo",
+    "Shan Zhou",
+    "Qing Miao",
+    "Shuo Yu"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Sharing Economy as Disaster Remedy: The Case of Airbnb",
+   "authors": [
+    "Wei Guo"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

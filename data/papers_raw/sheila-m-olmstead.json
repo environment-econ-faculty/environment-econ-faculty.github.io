@@ -1,0 +1,839 @@
+{
+ "slug": "sheila-m-olmstead",
+ "name": "Sheila M. Olmstead",
+ "sources": [
+  "https://sites.google.com/view/sheilaolmstead/research",
+  "https://publicpolicy.cornell.edu/wp-content/uploads/CV_Olmstead_7_24.pdf",
+  "https://sites.google.com/view/sheilaolmstead/"
+ ],
+ "collected": "2026-10-25",
+ "notes": "Homepage research page (newer, includes 2025-27 items) used for 2024+ items and working papers; July 2024 CV used for full author names and older papers. Skipped nonrefereed items (policy pieces, reports, blogs, Economists' Voice, Environment 2003 magazine piece), books, corrigendum, reprints; 'Applying market principles' chapter listed once (2025 edition). Where only the homepage gave a byline, authors appear as surnames as written there (Plough/Wrenn; Celebi; Petrusevich et al. 2025 ES&T; Cha et al.; Li/Zheng/Wheeler; Grogan et al.) in the order given. Working papers have no dates on the page; year set to 2025 as the collection-period default (page undated). Land Economics Plough et al. is listed as 103(1) 2027 by the homepage (accepted). Hilary Sigman/other co-author first names taken from CV. Item 'Does drought reduce economic activity?' and 'Floods...' in-progress CV items not listed separately (published versions above).",
+ "papers": [
+  {
+   "title": "Who has the upper HAND in a hurricane? Flood risk, weather shocks, and property prices",
+   "authors": [
+    "Plough",
+    "Wrenn",
+    "Sheila M. Olmstead"
+   ],
+   "year": 2027,
+   "venue": "Land Economics",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Drought and economic activity: do dams and groundwater mediate the impact?",
+   "authors": [
+    "Sheila M. Olmstead",
+    "Hilary Sigman"
+   ],
+   "year": 2026,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "https://www.journals.uchicago.edu/doi/epdf/10.1086/740567",
+   "abstract": null
+  },
+  {
+   "title": "How does drought affect residential water demand and price elasticity?",
+   "authors": [
+    "Celebi",
+    "Sheila M. Olmstead"
+   ],
+   "year": 2026,
+   "venue": "Journal of Water Economics",
+   "status": "已发表",
+   "url": "https://openjournals.uwaterloo.ca/index.php/journal-water-economics/article/view/6886/6521",
+   "abstract": null
+  },
+  {
+   "title": "Impacts of the U.S. Safe Drinking Water Act Arsenic Rule on Arsenic Occurrence",
+   "authors": [
+    "Petrusevich",
+    "Austin",
+    "Zheng",
+    "Evans",
+    "Ma",
+    "Sheila M. Olmstead"
+   ],
+   "year": 2025,
+   "venue": "Environmental Science & Technology",
+   "status": "已发表",
+   "url": "https://pubs.acs.org/doi/full/10.1021/acs.est.5c05873",
+   "abstract": null
+  },
+  {
+   "title": "How to design better incentives for carbon capture and storage in the United States",
+   "authors": [
+    "Sheila M. Olmstead",
+    "Leibowicz",
+    "Mason",
+    "Waxman",
+    "Grubert",
+    "Huber-Rodriguez",
+    "Stemmler"
+   ],
+   "year": 2025,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "https://www.pnas.org/doi/10.1073/pnas.2404677122",
+   "abstract": null
+  },
+  {
+   "title": "Applying market principles to environmental policy",
+   "authors": [
+    "Sheila M. Olmstead"
+   ],
+   "year": 2025,
+   "venue": "Book chapter: Environmental Policy: New Directions for the Twenty-First Century, 12th ed. (CQ Press)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "What are the likely air pollution impacts of carbon capture, utilization and storage?",
+   "authors": [
+    "Andrew Waxman",
+    "HR Huber-Rodriguez",
+    "Sheila M. Olmstead"
+   ],
+   "year": 2024,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4590320",
+   "abstract": null
+  },
+  {
+   "title": "Harmonized Database of Western U.S. Water Rights (HarDWR) v.1",
+   "authors": [
+    "Matthew Lisk",
+    "Danielle Grogan",
+    "Shan Zuidema",
+    "Jiameng Zheng",
+    "Robert Caccese",
+    "Darrah Peklak",
+    "Karen Fisher-Vanden",
+    "Richard Lammers",
+    "Sheila Olmstead",
+    "Lara Fowler"
+   ],
+   "year": 2024,
+   "venue": "Scientific Data",
+   "status": "已发表",
+   "url": "https://www.nature.com/articles/s41597-024-03434-6",
+   "abstract": null
+  },
+  {
+   "title": "Does information disclosure reduce drinking water violations in the United States?",
+   "authors": [
+    "Jonathan Baker",
+    "Lori S. Bennear",
+    "Sheila M. Olmstead"
+   ],
+   "year": 2023,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Perspectives on valuing water quality improvements using stated preference methods",
+   "authors": [
+    "Ian Bateman",
+    "Bonnie Keeler",
+    "Sheila Olmstead",
+    "John Whitehead"
+   ],
+   "year": 2023,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "https://www.pnas.org/doi/10.1073/pnas.2217456120",
+   "abstract": null
+  },
+  {
+   "title": "A more comprehensive estimate of the value of water quality",
+   "authors": [
+    "Yusuke Kuwayama",
+    "Sheila M. Olmstead",
+    "Jiameng Zheng"
+   ],
+   "year": 2022,
+   "venue": "Journal of Public Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The evolution of WOTUS and the role of economics",
+   "authors": [
+    "David A. Keiser",
+    "Sheila M. Olmstead",
+    "Kevin J. Boyle",
+    "Victor B. Flatt",
+    "Bonnie L. Keeler",
+    "Daniel J. Phaneuf",
+    "Joseph S. Shapiro",
+    "Jay P. Shimshack"
+   ],
+   "year": 2022,
+   "venue": "Review of Environmental Economics and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Enhancing policy realism in energy system optimization models: politically feasible decarbonization pathways for the United States",
+   "authors": [
+    "Qianru Zhu",
+    "Benjamin D. Leibowicz",
+    "Joshua W. Busby",
+    "Sarang Shidore",
+    "David E. Adelman",
+    "Sheila M. Olmstead"
+   ],
+   "year": 2022,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A water rule that turns a blind eye to transboundary pollution",
+   "authors": [
+    "David Keiser",
+    "Sheila Olmstead",
+    "Kevin Boyle",
+    "Victor Flatt",
+    "Bonnie Keeler",
+    "Cathy Kling",
+    "Dan Phaneuf",
+    "Joe Shapiro",
+    "Jay Shimshack"
+   ],
+   "year": 2021,
+   "venue": "Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Protecting local water quality has global benefits",
+   "authors": [
+    "John Downing",
+    "Steve Polasky",
+    "Sheila Olmstead",
+    "Steve Newbold"
+   ],
+   "year": 2021,
+   "venue": "Nature Communications",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Policy instruments for water pollution control in developing countries",
+   "authors": [
+    "Sheila Olmstead",
+    "Jiameng Zheng"
+   ],
+   "year": 2021,
+   "venue": "Review of Environmental Economics and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Leveraging scale economies and policy incentives: carbon capture, utilization and storage in Gulf clusters",
+   "authors": [
+    "Andrew Waxman",
+    "Sean Corcoran",
+    "Andrew Robison",
+    "Benjamin Leibowicz",
+    "Sheila Olmstead"
+   ],
+   "year": 2021,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How well do U.S. western water markets convey economic information?",
+   "authors": [
+    "Renata Rimsaite",
+    "Karen Fisher-Vanden",
+    "Sheila Olmstead",
+    "Danielle Grogan"
+   ],
+   "year": 2021,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Trends in nutrient pollution as a potential source of water quality damages: a case study of Texas, USA",
+   "authors": [
+    "Yusuke Kuwayama",
+    "Sheila Olmstead",
+    "Derek Wietelman",
+    "Jiameng Zheng"
+   ],
+   "year": 2020,
+   "venue": "Science of the Total Environment",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Emissions in the stream: estimating the greenhouse gas impacts of an oil and gas boom",
+   "authors": [
+    "Andrew Waxman",
+    "Achmad Khomaini",
+    "Benjamin Leibowicz",
+    "Sheila M. Olmstead"
+   ],
+   "year": 2020,
+   "venue": "Environmental Research Letters",
+   "status": "已发表",
+   "url": "https://iopscience.iop.org/article/10.1088/1748-9326/ab5e6f/pdf",
+   "abstract": null
+  },
+  {
+   "title": "Dynamic impacts of U.S. energy development on agricultural land use",
+   "authors": [
+    "Timothy Fitzgerald",
+    "Yusuke Kuwayama",
+    "Alexandra Thompson",
+    "Sheila M. Olmstead"
+   ],
+   "year": 2020,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Hydroeconomic modeling of resource recovery from wastewater: implications for water quality and water quantity management",
+   "authors": [
+    "Yusuke Kuwayama",
+    "Sheila M. Olmstead"
+   ],
+   "year": 2020,
+   "venue": "Journal of Environmental Quality",
+   "status": "已发表",
+   "url": "https://doi.org/10.1002/jeq2.20050",
+   "abstract": null
+  },
+  {
+   "title": "A geographically resolved method to estimate levelized power plant costs with environmental externalities",
+   "authors": [
+    "Joshua D. Rhodes",
+    "Carey King",
+    "Gurcan Gulen",
+    "Sheila M. Olmstead",
+    "James S. Dyer",
+    "Robert E. Hebner",
+    "Fred C. Beach",
+    "Thomas F. Edgar",
+    "Michael E. Webber"
+   ],
+   "year": 2017,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Climate change and water resources: some adaptation tools and their limits",
+   "authors": [
+    "Sheila M. Olmstead",
+    "Karen A. Fisher-Vanden",
+    "Renata Rimsaite"
+   ],
+   "year": 2016,
+   "venue": "Journal of Water Resources Planning and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Damming the commons: an empirical analysis of international cooperation and conflict in dam location",
+   "authors": [
+    "Sheila M. Olmstead",
+    "Hilary Sigman"
+   ],
+   "year": 2015,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The economics of shale gas development",
+   "authors": [
+    "Charles F. Mason",
+    "Lucija A. Muehlenbachs",
+    "Sheila M. Olmstead"
+   ],
+   "year": 2015,
+   "venue": "Annual Review of Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Characterization and analysis of liquid waste from Marcellus Shale gas development",
+   "authors": [
+    "Jhih-Shyang Shih",
+    "James E. Saiers",
+    "Shimon C. Anisfeld",
+    "Ziyan Chu",
+    "Lucija A. Muehlenbachs",
+    "Sheila M. Olmstead"
+   ],
+   "year": 2015,
+   "venue": "Environmental Science and Technology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Water quality and quantity impacts of hydraulic fracturing",
+   "authors": [
+    "Yusuke Kuwayama",
+    "Alan Krupnick",
+    "Sheila M. Olmstead"
+   ],
+   "year": 2015,
+   "venue": "Current Sustainable/Renewable Energy Reports",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Water quality and economics: willingness to pay, efficiency, cost-effectiveness, and new research frontiers",
+   "authors": [
+    "Yusuke Kuwayama",
+    "Sheila M. Olmstead"
+   ],
+   "year": 2015,
+   "venue": "Book chapter: The Handbook on the Economics of Natural Resources (Elgar)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Managing the risks of shale gas development using innovative legal and regulatory approaches",
+   "authors": [
+    "Sheila M. Olmstead",
+    "Nathan Richardson"
+   ],
+   "year": 2014,
+   "venue": "William & Mary Environmental Law and Policy Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Risks and risk governance in unconventional shale gas development",
+   "authors": [
+    "Mitchell J. Small",
+    "Paul C. Stern",
+    "Elizabeth Bomberg",
+    "Susan M. Christopherson",
+    "Bernard D. Goldstein",
+    "Andrei L. Israel",
+    "Robert B. Jackson",
+    "Alan Krupnick",
+    "Meagan S. Mauter",
+    "Jennifer Nash",
+    "D. Warner North",
+    "Sheila M. Olmstead",
+    "Aseem Prakash",
+    "Barry Rabe",
+    "Nathan Richardson",
+    "Susan Tierney",
+    "Thomas Webler",
+    "Gabrielle Wong-Parodi",
+    "Barbara Zielinska"
+   ],
+   "year": 2014,
+   "venue": "Environmental Science and Technology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Climate change adaptation and water resource management: A review of the empirical literature",
+   "authors": [
+    "Sheila M. Olmstead"
+   ],
+   "year": 2014,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Strategically placing green infrastructure: benefits and costs of land conservation in the floodplain",
+   "authors": [
+    "Carolyn Kousky",
+    "Sheila M. Olmstead",
+    "Margaret A. Walls",
+    "Molly Macauley"
+   ],
+   "year": 2013,
+   "venue": "Environmental Science and Technology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Shale gas development impacts on surface water quality in Pennsylvania",
+   "authors": [
+    "Sheila M. Olmstead",
+    "Lucija Muehlenbachs",
+    "Jhih-Shyang Shih",
+    "Ziyan Chu",
+    "Alan Krupnick"
+   ],
+   "year": 2013,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Moving pollution trading from air to water: potential, problems, and prognosis",
+   "authors": [
+    "Karen A. Fisher-Vanden",
+    "Sheila M. Olmstead"
+   ],
+   "year": 2013,
+   "venue": "Journal of Economic Perspectives",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The value of scarce water: measuring the inefficiency of municipal regulations",
+   "authors": [
+    "Erin T. Mansur",
+    "Sheila M. Olmstead"
+   ],
+   "year": 2012,
+   "venue": "Journal of Urban Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Three key elements of a post-2012 international climate policy architecture",
+   "authors": [
+    "Sheila M. Olmstead",
+    "Robert N. Stavins"
+   ],
+   "year": 2012,
+   "venue": "Review of Environmental Economics and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The role of market incentives in environmental policy",
+   "authors": [
+    "Sheila M. Olmstead"
+   ],
+   "year": 2012,
+   "venue": "Book chapter: The Oxford Handbook of U.S. Environmental Policy (Oxford University Press)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The value of household water service quality in Lahore, Pakistan",
+   "authors": [
+    "Agha Ali Akram",
+    "Sheila M. Olmstead"
+   ],
+   "year": 2011,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "In harm's way: Homeowner behavior and wildland fire policy",
+   "authors": [
+    "Carolyn Kousky",
+    "Sheila M. Olmstead",
+    "Roger Sedjo"
+   ],
+   "year": 2011,
+   "venue": "Book chapter: Wildfire Policy: Law and Economics Perspectives (Taylor and Francis)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The economics of managing scarce water resources",
+   "authors": [
+    "Sheila M. Olmstead"
+   ],
+   "year": 2010,
+   "venue": "Review of Environmental Economics and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The economics of water quality",
+   "authors": [
+    "Sheila M. Olmstead"
+   ],
+   "year": 2010,
+   "venue": "Review of Environmental Economics and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The economic valuation of environmental amenities and disamenities: Methods and applications",
+   "authors": [
+    "Robert O. Mendelsohn",
+    "Sheila M. Olmstead"
+   ],
+   "year": 2009,
+   "venue": "Annual Review of Environment and Resources",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Sampling out: Regulatory avoidance and the Total Coliform Rule",
+   "authors": [
+    "Lori S. Bennear",
+    "Katrina K. Jessoe",
+    "Sheila M. Olmstead"
+   ],
+   "year": 2009,
+   "venue": "Environmental Science and Technology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Comparing price and non-price approaches to water conservation",
+   "authors": [
+    "Sheila M. Olmstead",
+    "Robert N. Stavins"
+   ],
+   "year": 2009,
+   "venue": "Water Resources Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Reduced-form vs. structural models of water demand under non-linear prices",
+   "authors": [
+    "Sheila M. Olmstead"
+   ],
+   "year": 2009,
+   "venue": "Journal of Business and Economic Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The impact of the \"right to know\": Information disclosure and the violation of drinking water standards",
+   "authors": [
+    "Lori S. Bennear",
+    "Sheila M. Olmstead"
+   ],
+   "year": 2008,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Water demand under alternative price structures",
+   "authors": [
+    "Sheila M. Olmstead",
+    "W. Michael Hanemann",
+    "Robert N. Stavins"
+   ],
+   "year": 2007,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The whole and the sum of its parts: Comments on David Victor's \"Fragmented carbon markets and reluctant nations\"",
+   "authors": [
+    "Sheila M. Olmstead"
+   ],
+   "year": 2007,
+   "venue": "Book chapter: Architectures for Agreement: Addressing Global Climate Change in the Post-Kyoto World (Cambridge University Press)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An international policy architecture for the post-Kyoto era",
+   "authors": [
+    "Sheila M. Olmstead",
+    "Robert N. Stavins"
+   ],
+   "year": 2006,
+   "venue": "AER Papers and Proceedings",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Thirsty colonias: Rate regulation and the provision of water service",
+   "authors": [
+    "Sheila M. Olmstead"
+   ],
+   "year": 2004,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Environmental regulation in the 1990s: A retrospective analysis",
+   "authors": [
+    "Robert W. Hahn",
+    "Sheila M. Olmstead",
+    "Robert N. Stavins"
+   ],
+   "year": 2003,
+   "venue": "Harvard Environmental Law Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Bringing hydrologic realism to water markets",
+   "authors": [
+    "Grogan",
+    "Lisk",
+    "Zuidema",
+    "Zheng",
+    "Fisher-Vanden",
+    "Lammers",
+    "Fowler",
+    "Prusevitch",
+    "Sheila M. Olmstead"
+   ],
+   "year": 2025,
+   "venue": "Working Paper (under revision)",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Ambiguous climate policy: A tax credit is increasing deployment of carbon capture and storage, but will it reduce emissions?",
+   "authors": [
+    "Sheila M. Olmstead",
+    "Ben Leibowicz",
+    "Chuck Mason",
+    "Andrew Waxman",
+    "H.R. Huber-Rodriguez",
+    "Joseph Stemmler"
+   ],
+   "year": 2025,
+   "venue": "Working Paper (under review)",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Gender and refereeing in environmental economics",
+   "authors": [
+    "Prashant Bharadwaj",
+    "Yashna Nandan",
+    "Matthew Neidell",
+    "Sheila M. Olmstead"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://drive.google.com/file/d/1AaHgqodMcFfF7z1AvtwxUAHAeFAAV8iM/view?usp=sharing",
+   "abstract": null
+  },
+  {
+   "title": "Estimating the recreation and amenity benefits of water quality in three U.S. regions",
+   "authors": [
+    "Cha",
+    "Friesen",
+    "Zheng",
+    "Kuwayama",
+    "Phaneuf",
+    "Sheila M. Olmstead"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Spillovers from state primacy: federalism and water quality impacts of oil and gas injection wells",
+   "authors": [
+    "Sheila M. Olmstead",
+    "Li",
+    "Zheng",
+    "Wheeler"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "U.S. Counties with More Drinking-Water Lithium Do Not Have Less Suicide",
+   "authors": [
+    "Paul von Hippel",
+    "Jiameng Zheng",
+    "Sheila M. Olmstead"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Learning from historical water transfers in the United States: are gains from trade higher or lower under water stress?",
+   "authors": [
+    "Karen Fisher-Vanden",
+    "Renata Rimsaite",
+    "Sheila M. Olmstead"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Induced development in risky locations: Fire suppression and land use in the American West",
+   "authors": [
+    "Carolyn Kousky",
+    "Sheila M. Olmstead"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

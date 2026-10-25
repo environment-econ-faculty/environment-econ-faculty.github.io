@@ -1,0 +1,1448 @@
+{
+ "slug": "yueming-lucy-qiu",
+ "name": "Yueming (Lucy) Qiu",
+ "sources": [
+  "https://drive.google.com/file/d/1VfNPQ7uZBm5TVN2ZYxS83ewAuGUzkory/view",
+  "https://sites.google.com/site/yueminglucyqiu/home/papers"
+ ],
+ "collected": "2026-10-25",
+ "notes": "From current UMD CV (PDF via Google Drive, includes 2026 items): 99 peer-reviewed journal articles; no working papers/R&R listed on CV or homepage. Authors given as initials+surname as in CV. All 2026 items marked published as CV lists them without 'forthcoming' (Science 393(6813) and others have volume numbers; some are online-first). Year for Qiu, Kirkeide & Wang ERE is 2018 per CV (vol 69).",
+ "papers": [
+  {
+   "title": "Estimation of Property Value Changes from Nearby Carbon Capture, Utilization, and Storage Projects in the United States",
+   "authors": [
+    "K. Luo",
+    "Y. Qiu",
+    "P. Liu",
+    "Y. Mei"
+   ],
+   "year": 2026,
+   "venue": "Environmental Science & Technology",
+   "status": "已发表",
+   "url": "https://doi.org/10.1021/acs.est.6c02293",
+   "abstract": null
+  },
+  {
+   "title": "Quantifying the local impact of hydrogen infrastructure: evidence from changes in property values in California",
+   "authors": [
+    "B. Lu",
+    "Y. Qiu",
+    "Z. Wang",
+    "B. Wang",
+    "K. Luo",
+    "P. Liu",
+    "Y. Mei",
+    "B. Zhang",
+    "J. Li"
+   ],
+   "year": 2026,
+   "venue": "Environmental Science & Technology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "China's solar expansion policy reduces bird diversity",
+   "authors": [
+    "H. Zhang",
+    "A. Zhang",
+    "K. Wu",
+    "Y. Cai",
+    "S. Li",
+    "S. Wang",
+    "L. Qiu",
+    "S. Huang",
+    "T.T.A. Phan"
+   ],
+   "year": 2026,
+   "venue": "Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The impacts of community solar projects on housing prices: Evidence from Maryland, the US",
+   "authors": [
+    "Y. Gao",
+    "Y. Qiu",
+    "X. Zhao",
+    "P. Liu",
+    "B. Lu"
+   ],
+   "year": 2026,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Network structure matters: how coordination and cooperation mechanisms drive solar-battery co-adoption",
+   "authors": [
+    "K. Luo",
+    "Y. Qiu",
+    "K. Surana"
+   ],
+   "year": 2026,
+   "venue": "Environmental Research Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Management attention to climate risk reduces corporate greenwashing through green innovation",
+   "authors": [
+    "M. Feng",
+    "Y. Qiu",
+    "Y.D. Wang"
+   ],
+   "year": 2026,
+   "venue": "Communications Earth & Environment",
+   "status": "已发表",
+   "url": "https://doi.org/10.1038/s43247-026-03879-0",
+   "abstract": null
+  },
+  {
+   "title": "Recurrent power outages and the mental health burden of grid reliability in Maryland",
+   "authors": [
+    "M. Feng",
+    "Y. Qiu",
+    "J. Chen",
+    "J. Lou",
+    "Y.D. Wang"
+   ],
+   "year": 2026,
+   "venue": "iScience",
+   "status": "已发表",
+   "url": "https://www.cell.com/iscience/fulltext/S2589-0042(26)02892-0",
+   "abstract": null
+  },
+  {
+   "title": "A novel differentiable predictive control (DPC) approach for safe and optimal EV charging and discharging scheduling",
+   "authors": [
+    "Y. Li",
+    "B. Dong",
+    "X. Wang",
+    "Y. Qiu"
+   ],
+   "year": 2026,
+   "venue": "Applied Energy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Net-zero transitions through finance: Heterogeneous effects of sustainable finance policies across economies and policy designs",
+   "authors": [
+    "C. Wang",
+    "Y. Guo",
+    "D. Wang",
+    "F. Dahlmann",
+    "Y. Qiu",
+    "X. Zhou",
+    "S. Shao",
+    "W.T. Woo",
+    "Y. Tang",
+    "S. Chen"
+   ],
+   "year": 2026,
+   "venue": "Business Strategy and the Environment",
+   "status": "已发表",
+   "url": "https://onlinelibrary.wiley.com/doi/10.1002/bse.70631",
+   "abstract": null
+  },
+  {
+   "title": "The comfort rebound from heat pumps and impact on household cooling behaviour and energy security",
+   "authors": [
+    "X. Ye",
+    "Y. Qiu",
+    "D. Nock",
+    "B. Xing"
+   ],
+   "year": 2025,
+   "venue": "Nature Energy",
+   "status": "已发表",
+   "url": "https://rdcu.be/eI4LW",
+   "abstract": null
+  },
+  {
+   "title": "Impact of charging price subsidies on the charging behavior of heterogeneous electric vehicle drivers: Evidence from Beijing",
+   "authors": [
+    "X. Zhao",
+    "H. Chen",
+    "Y. Qiu",
+    "Y. Deng"
+   ],
+   "year": 2025,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "https://www.journals.uchicago.edu/doi/10.1086/739399",
+   "abstract": null
+  },
+  {
+   "title": "Unequal power outages induced by natural disasters",
+   "authors": [
+    "B. Wang",
+    "H. Shi",
+    "Y. Qiu",
+    "N. Deng",
+    "D. Nock",
+    "X. Shen",
+    "Z. Wang",
+    "Y.D. Wang"
+   ],
+   "year": 2025,
+   "venue": "Nature Communications",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Real-time emissions data disclosure of Waste-to-Energy incineration plants and public risk perceptions: Evidence from the housing market",
+   "authors": [
+    "R. Nie",
+    "J. Carneiro",
+    "J. Song",
+    "Y. Qiu"
+   ],
+   "year": 2025,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Impacts of heatwaves on electricity reliability: Evidence from power outage data in China",
+   "authors": [
+    "J. Liang",
+    "Y. Qiu",
+    "B. Wang",
+    "X. Shen",
+    "S. Liu"
+   ],
+   "year": 2025,
+   "venue": "iScience",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Economic Impact of Hydrogen Energy Infrastructure in China",
+   "authors": [
+    "Y. Mei",
+    "X. Su",
+    "P. Liu",
+    "H. Lan",
+    "Y. Qiu"
+   ],
+   "year": 2025,
+   "venue": "Regional Science and Urban Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Quantifying grid resilience against extreme weather using large-scale customer power outage data",
+   "authors": [
+    "S. Zhu",
+    "R. Yao",
+    "Y. Xie",
+    "F. Qiu",
+    "Y. Qiu",
+    "X. Wu"
+   ],
+   "year": 2025,
+   "venue": "INFORMS Journal on Data Science",
+   "status": "已发表",
+   "url": "https://doi.org/10.1287/ijds.2023.0017",
+   "abstract": null
+  },
+  {
+   "title": "Seasonal energy burden and climate intervention co-benefits: A case study in Arizona",
+   "authors": [
+    "A.J. Jones",
+    "D. Nock",
+    "C. Samaras",
+    "Y. Qiu"
+   ],
+   "year": 2025,
+   "venue": "Environmental Research: Energy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1088/2753-3751/adfc77",
+   "abstract": null
+  },
+  {
+   "title": "Uneven effects of global trade on transportation industry sustainability",
+   "authors": [
+    "K. Zhao",
+    "D. Zha",
+    "C. Zhang",
+    "G. Yang",
+    "Q. Wang",
+    "H. Ding",
+    "Y. Qiu"
+   ],
+   "year": 2025,
+   "venue": "iScience",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Unequal Impacts of Temperature Deviations on Poverty: International Evidence",
+   "authors": [
+    "H. Zhang",
+    "A. Zhang",
+    "K. Wu",
+    "Y. Cai",
+    "Y. Qiu",
+    "S. Wang",
+    "Y. Zhao"
+   ],
+   "year": 2025,
+   "venue": "Structural Change and Economic Dynamics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.strueco.2025.07.001",
+   "abstract": null
+  },
+  {
+   "title": "Conditional generative adversarial network (cGAN) for generating building load profiles with photovoltaics and electric vehicles",
+   "authors": [
+    "Y. Li",
+    "B. Dong",
+    "Y. Qiu"
+   ],
+   "year": 2025,
+   "venue": "Energy and Buildings",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Freezing or searing: Unraveling the impact of extreme temperatures on poverty in China",
+   "authors": [
+    "H. Zhang",
+    "S. Wang",
+    "K. Wu",
+    "Y. Qu",
+    "S. Wang",
+    "Y. Zhao"
+   ],
+   "year": 2025,
+   "venue": "Environmental Impact Assessment Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "What drives embodied carbon policy? A global perspective on adoption",
+   "authors": [
+    "M. Hu",
+    "Y. Qiu",
+    "A. Nouri"
+   ],
+   "year": 2025,
+   "venue": "Environment, Development and Sustainability",
+   "status": "已发表",
+   "url": "https://doi.org/10.1007/s10668-025-06090-x",
+   "abstract": null
+  },
+  {
+   "title": "Power supply disruptions deter electric vehicle adoption in cities in China",
+   "authors": [
+    "Y. Qiu",
+    "N. Deng",
+    "B. Wang",
+    "X. Shen",
+    "Z. Wang",
+    "N. Hultman",
+    "H. Shi",
+    "J. Liu",
+    "Y. Wang"
+   ],
+   "year": 2024,
+   "venue": "Nature Communications",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Assessing inequities in electrification via heat pumps across the US",
+   "authors": [
+    "M.R. Edwards",
+    "J. Garibay-Rodriguez",
+    "J.S. Erickson",
+    "M. Shayan",
+    "J.L. Tan",
+    "X. Shen",
+    "Y. Qiu",
+    "P. Liu"
+   ],
+   "year": 2024,
+   "venue": "Joule",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Estimation of property value changes from nearby carbon capture and utilization projects in China",
+   "authors": [
+    "Y. Mei",
+    "J. Qiu",
+    "Y. Qiu",
+    "P. Liu"
+   ],
+   "year": 2024,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "https://rdcu.be/dO7a1",
+   "abstract": null
+  },
+  {
+   "title": "The economic consequences of local gas leaks with evidence from Massachusetts housing market",
+   "authors": [
+    "X. Shen",
+    "M. Edwards",
+    "Y. Qiu",
+    "P. Liu"
+   ],
+   "year": 2024,
+   "venue": "iScience",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The unequal impacts of extremely high temperatures on households' adaptive behaviors: Empirical evidence from fine-grained electricity consumption data",
+   "authors": [
+    "H. Shi",
+    "B. Wang",
+    "Y. Qiu",
+    "N. Deng",
+    "B. Xie",
+    "B. Zhang",
+    "S. Ma"
+   ],
+   "year": 2024,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Effectiveness of carbon dioxide emission target is linked to country ambition and education level",
+   "authors": [
+    "Y. Zheng",
+    "R. Shan",
+    "W.A. Xu",
+    "Y. Qiu"
+   ],
+   "year": 2024,
+   "venue": "Communications Earth & Environment",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Comfort or cash? Lessons from the COVID-19 pandemic's impact on energy insecurity and energy limiting behavior in households",
+   "authors": [
+    "S. Cong",
+    "A.L. Ku",
+    "D. Nock",
+    "C. Ng",
+    "Y. Qiu"
+   ],
+   "year": 2024,
+   "venue": "Energy Research & Social Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Effects of expanding electric vehicle charging stations in California on the housing market",
+   "authors": [
+    "J. Liang",
+    "Y. Qiu",
+    "P. Liu",
+    "P. He",
+    "D.L. Mauzerall"
+   ],
+   "year": 2023,
+   "venue": "Nature Sustainability",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Rising US Income Inequality and Declining Residential Electricity Consumption: Is There a Link?",
+   "authors": [
+    "J. Linn",
+    "J. Liang",
+    "Y. Qiu"
+   ],
+   "year": 2023,
+   "venue": "Review of Economics and Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Incentive based emergency demand response effectively reduces peak load during heatwave without harm to vulnerable groups",
+   "authors": [
+    "Z. Wang",
+    "B. Lu",
+    "B. Wang",
+    "Y. Qiu",
+    "H. Shi",
+    "B. Zhang",
+    "J. Li",
+    "H. Li",
+    "W. Zhao"
+   ],
+   "year": 2023,
+   "venue": "Nature Communications",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The impact of co-adopting electric vehicles, solar photovoltaics, and battery storage on electricity consumption patterns: Empirical evidence from Arizona",
+   "authors": [
+    "X. Shen",
+    "Y. Qiu",
+    "B. Xing",
+    "A. Patwardhan",
+    "N. Hultman",
+    "B. Dong"
+   ],
+   "year": 2023,
+   "venue": "Resources, Conservation and Recycling",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Increasing voluntary enrollment in time-of-use electricity rates: Findings from a survey experiment",
+   "authors": [
+    "C. Lang",
+    "Y. Qiu",
+    "L. Dong"
+   ],
+   "year": 2023,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Review of application of high frequency smart meter data in energy economics and policy research",
+   "authors": [
+    "X. Ye",
+    "Z. Zhang",
+    "Y. Qiu"
+   ],
+   "year": 2023,
+   "venue": "Frontiers in Sustainable Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Pandemics erode poverty alleviation process: Impact on productive livelihood and poverty return",
+   "authors": [
+    "B. Wang",
+    "H. Shi",
+    "Z. Wang",
+    "S. Xu",
+    "N. Deng",
+    "Y. Qiu",
+    "B. Zhang"
+   ],
+   "year": 2023,
+   "venue": "iScience",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Inequalities across cooling and heating in households: Energy equity gaps",
+   "authors": [
+    "L. Huang",
+    "D. Nock",
+    "S. Cong",
+    "Y. Qiu"
+   ],
+   "year": 2023,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Climate change impacts on future residential electricity consumption and energy burden: A case study in Phoenix, Arizona",
+   "authors": [
+    "A. Jones",
+    "D. Nock",
+    "C. Samaras",
+    "Y. Qiu",
+    "B. Xing"
+   ],
+   "year": 2023,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Forgone summertime comfort as a function of avoided electricity use",
+   "authors": [
+    "M. Kwon",
+    "S. Cong",
+    "D. Nock",
+    "L. Huang",
+    "Y. Qiu",
+    "B. Xing"
+   ],
+   "year": 2023,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Consumer reaction to green subsidy phase-out in China: Evidence from the household photovoltaic industry",
+   "authors": [
+    "D. Liu",
+    "H. Zou",
+    "Y. Qiu",
+    "H. Du"
+   ],
+   "year": 2023,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Empirical grid impact of in-home electric vehicle charging differs from predictions",
+   "authors": [
+    "Y. Qiu",
+    "Y.D. Wang",
+    "H. Iseki",
+    "X. Shen",
+    "B. Xing",
+    "H. Zhang"
+   ],
+   "year": 2022,
+   "venue": "Resource and Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Heterogeneous changes in electricity consumption patterns of residential distributed solar consumers due to battery storage adoption",
+   "authors": [
+    "Y. Qiu",
+    "B. Xing",
+    "A. Patwardhan",
+    "N. Hultman",
+    "H. Zhang"
+   ],
+   "year": 2022,
+   "venue": "iScience",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Unveiling hidden energy poverty using the energy equity gap",
+   "authors": [
+    "S. Cong",
+    "D. Nock",
+    "Y. Qiu",
+    "B. Xing"
+   ],
+   "year": 2022,
+   "venue": "Nature Communications",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The weather affects air conditioner purchases to fill the energy efficiency gap",
+   "authors": [
+    "P. He",
+    "P. Liu",
+    "Y. Qiu",
+    "L. Liu"
+   ],
+   "year": 2022,
+   "venue": "Nature Communications",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The effect of rebate and loan incentives on residential heat pump adoption: Evidence from North Carolina",
+   "authors": [
+    "X. Shen",
+    "Y. Qiu",
+    "P. Liu",
+    "A. Patwardhan"
+   ],
+   "year": 2022,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Impacts of the co-adoption of electric vehicles and solar panel systems: Empirical evidence of changes in electricity demand and consumer behaviors from household smart meter data",
+   "authors": [
+    "J. Liang",
+    "Y. Qiu",
+    "B. Xing"
+   ],
+   "year": 2022,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Changes in hourly electricity consumption under COVID mandates: A glance to future hourly residential power consumption pattern with remote work in Arizona",
+   "authors": [
+    "A.L. Ku",
+    "Y. Qiu",
+    "J. Lou",
+    "D. Nock",
+    "B. Xing"
+   ],
+   "year": 2022,
+   "venue": "Applied Energy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do political connections affect corporate poverty alleviation decisions? Evidence from China",
+   "authors": [
+    "H. Zhang",
+    "J. Huang",
+    "K. Wu",
+    "S. Wang",
+    "C. Nygaard",
+    "Y. Qiu"
+   ],
+   "year": 2022,
+   "venue": "China Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Integrating sustainability into climate finance by quantifying the co-benefits and market impact of carbon projects",
+   "authors": [
+    "J. Lou",
+    "H. Hultman",
+    "A. Patwardhan",
+    "Y. Qiu"
+   ],
+   "year": 2022,
+   "venue": "Communications Earth & Environment",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Commercial consumers pay attention to marginal prices or average prices? Implications for energy conservation policies",
+   "authors": [
+    "K. Luo",
+    "Y. Qiu",
+    "B. Xing"
+   ],
+   "year": 2022,
+   "venue": "Journal of Cleaner Production",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Impacts of electric-driven heat pumps on residential energy consumption: An empirical analysis from Arizona, USA",
+   "authors": [
+    "J. Liang",
+    "Y. Qiu",
+    "B. Xing"
+   ],
+   "year": 2022,
+   "venue": "Cleaner and Responsible Consumption",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Field experimental evidence of how social relations shape behavior that promotes energy conservation",
+   "authors": [
+    "Z. Wang",
+    "B. Lu",
+    "B. Wang",
+    "Y. Qiu",
+    "J. Li",
+    "B. Zhang"
+   ],
+   "year": 2022,
+   "venue": "iScience",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Learning-by-Manufacturing and Learning-by-Operating mechanisms drive energy conservation and emission reduction in China's coal power industry",
+   "authors": [
+    "C. Zhang",
+    "L. Xie",
+    "Y.L. Qiu",
+    "S. Wang"
+   ],
+   "year": 2022,
+   "venue": "Resources, Conservation and Recycling",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Using agrophotovoltaics to reduce carbon emissions and global rural poverty",
+   "authors": [
+    "H. Zhang",
+    "S. Liang",
+    "K. Wu",
+    "Y. Qiu",
+    "Y. Cai",
+    "G. Chan",
+    "S. Wang",
+    "D. Zhou",
+    "Y. Zhou",
+    "Z. Li"
+   ],
+   "year": 2022,
+   "venue": "The Innovation",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The discrepancies in the impacts of COVID-19 lockdowns on electricity consumption in China: Is the short-term pain worth it?",
+   "authors": [
+    "N. Deng",
+    "B. Wang",
+    "Y. Qiu",
+    "J. Liu",
+    "H. Shi",
+    "B. Zhang",
+    "Z. Wang"
+   ],
+   "year": 2022,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Estimation of change in house sales prices in the United States after heat pump adoption",
+   "authors": [
+    "X. Shen",
+    "P. Liu",
+    "Y. Qiu",
+    "A. Patwardhan",
+    "P. Vaishnav"
+   ],
+   "year": 2021,
+   "venue": "Nature Energy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Grid impact of non-residential distributed solar energy and reduced air emissions: Empirical evidence from individual-consumer-level smart meter data",
+   "authors": [
+    "Y. Qiu",
+    "Y.D. Wang",
+    "B. Xing"
+   ],
+   "year": 2021,
+   "venue": "Applied Energy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Social versus private benefits of energy efficiency under time-of-use and increasing block pricing",
+   "authors": [
+    "J. Liang",
+    "Y. Qiu",
+    "B. Xing"
+   ],
+   "year": 2021,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Inequitable and heterogeneous impacts on electricity consumption from covid-19 mitigation measures",
+   "authors": [
+    "J. Lou",
+    "Y. Qiu",
+    "A.L. Ku",
+    "D. Nock",
+    "B. Xing"
+   ],
+   "year": 2021,
+   "venue": "iScience",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The impacts of special environmental events on short-run electricity-saving behaviors",
+   "authors": [
+    "X. Shen",
+    "Y. Qiu",
+    "L. Luo",
+    "X. Zheng"
+   ],
+   "year": 2021,
+   "venue": "Environmental Research Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Water savings of LEED-certified buildings",
+   "authors": [
+    "K. Luo",
+    "J.H. Scofield",
+    "Y. Qiu"
+   ],
+   "year": 2021,
+   "venue": "Resources, Conservation and Recycling",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Energy transition, public expressions, and local officials' incentives: Social media evidence from the coal-to-gas transition in China",
+   "authors": [
+    "J. Liang",
+    "P. He",
+    "Y. Qiu"
+   ],
+   "year": 2021,
+   "venue": "Journal of Cleaner Production",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Does low-carbon pilot city program reduce carbon intensity? Evidence from Chinese cities",
+   "authors": [
+    "T. Feng",
+    "Z. Lin",
+    "H. Du",
+    "Y. Qiu",
+    "J. Zuo"
+   ],
+   "year": 2021,
+   "venue": "Research in International Business and Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Effects of the joint prevention and control of atmospheric pollution policy on air pollutants - A quantitative analysis of Chinese policy texts",
+   "authors": [
+    "H. Du",
+    "Y. Guo",
+    "Z. Lin",
+    "Y. Qiu",
+    "X. Xiao"
+   ],
+   "year": 2021,
+   "venue": "Journal of Environmental Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Increase in domestic electricity consumption from particulate air pollution",
+   "authors": [
+    "P. He",
+    "J. Liang",
+    "Y. Qiu",
+    "Q. Li",
+    "B. Xing"
+   ],
+   "year": 2020,
+   "venue": "Nature Energy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Solar photovoltaic interventions have reduced rural poverty in China",
+   "authors": [
+    "H. Zhang",
+    "K. Wu",
+    "Y. Qiu",
+    "G. Chan",
+    "S. Wang",
+    "D. Zhou",
+    "X. Ren"
+   ],
+   "year": 2020,
+   "venue": "Nature Communications",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Time-of-use electricity pricing and residential low-carbon energy technology adoption",
+   "authors": [
+    "J. Liang",
+    "P. Liu",
+    "Y. Qiu",
+    "Y.D. Wang",
+    "B. Xing"
+   ],
+   "year": 2020,
+   "venue": "The Energy Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Aggregate household behavior in heating and cooling control strategy and energy efficient appliance adoption",
+   "authors": [
+    "A. Sen",
+    "Y. Qiu"
+   ],
+   "year": 2020,
+   "venue": "IEEE Transactions on Engineering Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Quantifying the rebound effects of residential solar panel adoption",
+   "authors": [
+    "Y. Qiu",
+    "M.E. Kahn",
+    "B. Xing"
+   ],
+   "year": 2019,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Loss of profit in the hotel industry of the United States due to climate change",
+   "authors": [
+    "P. He",
+    "Y. Qiu",
+    "Y.D. Wang",
+    "C. Cobanoglu",
+    "O. Ciftci",
+    "Z. Liu"
+   ],
+   "year": 2019,
+   "venue": "Environmental Research Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Impact of voluntary green certification on building energy performance",
+   "authors": [
+    "Y. Qiu",
+    "M.E. Kahn"
+   ],
+   "year": 2019,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Mind the energy performance gap: Evidence from green commercial buildings",
+   "authors": [
+    "J. Liang",
+    "Y. Qiu",
+    "M. Hu"
+   ],
+   "year": 2019,
+   "venue": "Resources, Conservation and Recycling",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A comparison of building energy codes and policies in the USA, Germany, and China: Progress toward the net-zero building goal in three countries",
+   "authors": [
+    "M. Hu",
+    "Y. Qiu"
+   ],
+   "year": 2019,
+   "venue": "Clean Technologies and Environmental Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Location of electric vehicle charging stations: A perspective using the grey decision-making model",
+   "authors": [
+    "X. Ren",
+    "H. Zhang",
+    "R. Hu",
+    "Y. Qiu"
+   ],
+   "year": 2019,
+   "venue": "Energy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Better sustainability assessment of green buildings with high-frequency data",
+   "authors": [
+    "Y. Qiu",
+    "M.E. Kahn"
+   ],
+   "year": 2018,
+   "venue": "Nature Sustainability",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do energy retrofits work? Evidence from commercial and residential buildings in Phoenix",
+   "authors": [
+    "J. Liang",
+    "Y. Qiu",
+    "T. James",
+    "B.L. Ruddell",
+    "M. Dalrymple",
+    "S. Earl",
+    "A. Castelazo"
+   ],
+   "year": 2018,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Big data and residential energy efficiency evaluation",
+   "authors": [
+    "Y. Qiu",
+    "A. Patwardhan"
+   ],
+   "year": 2018,
+   "venue": "Current Sustainable/Renewable Energy Reports",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Targeted poverty alleviation using photovoltaic power in China: Identifying financial options through a dynamic game analysis",
+   "authors": [
+    "H. Zhang",
+    "Z. Xu",
+    "D. Zhou",
+    "Y. Qiu",
+    "D. Shen"
+   ],
+   "year": 2018,
+   "venue": "Resources, Conservation and Recycling",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Selection of policies on typhoon and rainstorm disasters in China: A content analysis perspective",
+   "authors": [
+    "Y. Cai",
+    "L. Li",
+    "E. Elahi",
+    "Y. Qiu"
+   ],
+   "year": 2018,
+   "venue": "Sustainability",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Soak up the sun: Impact of solar energy systems on residential home values in Arizona",
+   "authors": [
+    "Y. Qiu",
+    "Y.D. Wang",
+    "J. Wang"
+   ],
+   "year": 2017,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Consumers' attitudes towards surcharges on distributed renewable energy generation and energy efficiency programs",
+   "authors": [
+    "J. Liang",
+    "Y. Qiu",
+    "P. Padmanabhan"
+   ],
+   "year": 2017,
+   "venue": "Sustainability",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How have political incentives for local officials reduced environmental pollution in resource-depleted cities?",
+   "authors": [
+    "H. Zhang",
+    "L. Xiong",
+    "Y. Qiu",
+    "D. Zhou"
+   ],
+   "year": 2017,
+   "venue": "Sustainability",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Has government intervention effectively encouraged the use of waste cooking oil as an energy source? Comparison of two Chinese biofuel companies",
+   "authors": [
+    "H. Zhang",
+    "Y. Zheng",
+    "J. Cao",
+    "Y. Qiu"
+   ],
+   "year": 2017,
+   "venue": "Energy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Effects of voluntary time-of-use pricing on summer electricity usage of business customers",
+   "authors": [
+    "Y. Qiu",
+    "L. Kirkeide",
+    "Y.D. Wang"
+   ],
+   "year": 2018,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Risk preference and adverse selection for participation in time-of-use electricity pricing programs",
+   "authors": [
+    "Y. Qiu",
+    "G. Colson",
+    "M.E. Wetzstein"
+   ],
+   "year": 2017,
+   "venue": "Resource and Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Residential pre-paid electricity pricing and customer energy consumption behavior",
+   "authors": [
+    "Y. Qiu",
+    "B. Xing",
+    "Y. Wang"
+   ],
+   "year": 2017,
+   "venue": "Contemporary Economic Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Factors influencing commercial buildings to obtain green certificates",
+   "authors": [
+    "Y. Qiu",
+    "X. Su",
+    "Y.D. Wang"
+   ],
+   "year": 2017,
+   "venue": "Applied Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Peer effects and voluntary green building certification",
+   "authors": [
+    "Y. Qiu",
+    "S. Yin",
+    "Y. Wang"
+   ],
+   "year": 2016,
+   "venue": "Sustainability",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic and environmental impacts of providing renewable energy for electric vehicle charging - A choice experiment study",
+   "authors": [
+    "I.A. Nienhueser",
+    "Y. Qiu"
+   ],
+   "year": 2016,
+   "venue": "Applied Energy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Implied discount rate and payback threshold of energy efficiency investment in the industrial sector",
+   "authors": [
+    "Y. Qiu",
+    "Y.D. Wang",
+    "J. Wang"
+   ],
+   "year": 2015,
+   "venue": "Applied Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The diffusion of voluntary green building certification: A spatial approach",
+   "authors": [
+    "Y. Qiu",
+    "A. Tiwari",
+    "Y.D. Wang"
+   ],
+   "year": 2015,
+   "venue": "Energy Efficiency",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How to increase the recovery rate for waste cooking oil-to-biofuel conversion: A comparison of recycling modes in China and Japan",
+   "authors": [
+    "H. Zhang",
+    "U.A. Ozturk",
+    "D. Zhou",
+    "Y. Qiu",
+    "Q. Wu"
+   ],
+   "year": 2015,
+   "venue": "Ecological Indicators",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Risk preferences and purchase of energy-efficient technologies in the residential sector",
+   "authors": [
+    "Y. Qiu",
+    "G. Colson",
+    "C. Grebitus"
+   ],
+   "year": 2014,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Energy efficiency and rebound effects: An econometric analysis of energy demand in the commercial building sector",
+   "authors": [
+    "Y. Qiu"
+   ],
+   "year": 2014,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Explaining the contract terms of energy performance contracting in China: The importance of effective financing",
+   "authors": [
+    "Y. Li",
+    "Y. Qiu",
+    "Y.D. Wang"
+   ],
+   "year": 2014,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Subsidy modes, waste cooking oil and biofuel: Policy effectiveness and sustainable supply chains in China",
+   "authors": [
+    "H. Zhang",
+    "L. Li",
+    "P. Zhou",
+    "J. Hou",
+    "Y. Qiu"
+   ],
+   "year": 2014,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Factors influencing the technology upgrading and catch-up of Chinese wind turbine manufacturers: Technology acquisition mechanisms and government policies",
+   "authors": [
+    "Y. Qiu",
+    "L. Ortolano",
+    "Y.D. Wang"
+   ],
+   "year": 2013,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The price of wind power in China during its expansion: Technology adoption, learning-by-doing, economies of scale, and manufacturing localization",
+   "authors": [
+    "Y. Qiu",
+    "L.D. Anadon"
+   ],
+   "year": 2012,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Investigation on vehicular pollution level in various transport micro-environments in Beijing",
+   "authors": [
+    "X. Du",
+    "L.X. Fu",
+    "Y.M. Qiu",
+    "T.S. Jin"
+   ],
+   "year": 2009,
+   "venue": "China Environmental Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

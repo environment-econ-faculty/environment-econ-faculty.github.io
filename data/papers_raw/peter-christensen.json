@@ -1,0 +1,284 @@
+{
+ "slug": "peter-christensen",
+ "name": "Peter Christensen",
+ "sources": [
+  "https://github.com/uiuc-bdeep/Website/raw/master/Content_files/CurriculumVitae/Vitae_Christensen.pdf"
+ ],
+ "collected": "2026-10-25",
+ "notes": "From CV (undated, ~2024-25; homepage not fetched). PDF text has garbled names: JPE 'Demand for Mobility' byline shown as 'Christensen, Peter, N. G. and Osman, A.' -> listed as Christensen and Osman (A. Osman; first name from my knowledge, not CV); Flint AEJ:EP byline garbled ('wedge, D. A.') -> restored as D. A. Keiser from knowledge (guess), as co-author order Christensen, Keiser, Lade. Co-author names kept as initials exactly as in CV. Nature comment, IPCC chapter, editorial skipped. Working paper years: no dates given in CV; years set from NBER WP numbers (32815=2024, 31322=2023, 29516=2021); others 2024 (guess, CV undated).",
+ "papers": [
+  {
+   "title": "The Demand for Mobility: Experimental Evidence from an Experiment with Uber Riders in Cairo",
+   "authors": [
+    "P. Christensen",
+    "A. Osman"
+   ],
+   "year": 2024,
+   "venue": "Journal of Political Economy",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Energy Efficiency Can Deliver for Climate Policy: Evidence from Machine Learning-Based Targeting",
+   "authors": [
+    "P. Christensen",
+    "P. Francisco",
+    "E. Myers",
+    "H. Shao",
+    "M. Souza"
+   ],
+   "year": 2024,
+   "venue": "Journal of Public Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Weathering the Ride: Experimental Evidence on Transport Pricing, Climate Extremes, and Future Travel Demand",
+   "authors": [
+    "P. Christensen",
+    "A. Osman",
+    "A. Stocker"
+   ],
+   "year": 2024,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Damages and Distortions from Discrimination in the Rental Housing Market",
+   "authors": [
+    "P. Christensen",
+    "C. Timmins"
+   ],
+   "year": 2023,
+   "venue": "Quarterly Journal of Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Decomposing the Wedge Between Projected and Realized Returns in Energy Efficiency Programs",
+   "authors": [
+    "P. Christensen",
+    "P. Francisco",
+    "E. Myers",
+    "M. Souza"
+   ],
+   "year": 2023,
+   "venue": "The Review of Economics and Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic Effects of Environmental Crises: Evidence from Flint, Michigan",
+   "authors": [
+    "P. Christensen",
+    "D. A. Keiser",
+    "G. E. Lade"
+   ],
+   "year": 2023,
+   "venue": "American Economic Journal: Economic Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Sorting or Steering: The Effects of Housing Discrimination on Neighborhood Choice",
+   "authors": [
+    "P. Christensen",
+    "C. Timmins"
+   ],
+   "year": 2022,
+   "venue": "Journal of Political Economy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Market for Snow: Modeling Winter Recreation Patterns Under Current and Future Climate",
+   "authors": [
+    "B. Parthum",
+    "P. Christensen"
+   ],
+   "year": 2022,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Housing Discrimination and the Toxics Exposure Gap in the United States: Evidence from the Rental Market",
+   "authors": [
+    "P. Christensen",
+    "I. Sarmiento-Barbieri",
+    "C. Timmins"
+   ],
+   "year": 2022,
+   "venue": "Review of Economics and Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Should Congested Cities Reduce their Speed Limits? Evidence from Brazil",
+   "authors": [
+    "A. Ang",
+    "P. Christensen",
+    "R. Vieira"
+   ],
+   "year": 2020,
+   "venue": "Journal of Public Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Unlocking Amenities: Complementarity in Public Good Consumption",
+   "authors": [
+    "D. Albouy",
+    "P. Christensen",
+    "I. Sarmiento"
+   ],
+   "year": 2020,
+   "venue": "Journal of Public Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Suburbs or Skyscrapers: The Effect of China's Land Leasing Market on Housing Decentralization",
+   "authors": [
+    "P. Christensen"
+   ],
+   "year": 2019,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Modeling Uncertainty in Integrated Assessment of Climate Change: A Multimodel Comparison",
+   "authors": [
+    "K. Gillingham",
+    "W. D. Nordhaus",
+    "D. Anthoff",
+    "G. Blanford",
+    "V. Bosetti",
+    "P. Christensen",
+    "H. McJeon",
+    "J. Reilly"
+   ],
+   "year": 2018,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Uncertainty in Forecasts of Long-run Economic Growth",
+   "authors": [
+    "P. Christensen",
+    "K. Gillingham",
+    "W. Nordhaus"
+   ],
+   "year": 2018,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Geographic Determinants of China's Urbanization",
+   "authors": [
+    "P. Christensen",
+    "G. C. McCord"
+   ],
+   "year": 2016,
+   "venue": "Regional Science and Urban Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Ricardian Analysis of Mexican Farms",
+   "authors": [
+    "R. Mendelsohn",
+    "J. Arellano-Gonzalez",
+    "P. Christensen"
+   ],
+   "year": 2010,
+   "venue": "Environment and Development Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Ridehailing and the 'First/Last Mile' Challenge in Public Transit: Experimental Evidence from a Ride-2-Connect Program",
+   "authors": [
+    "P. Christensen",
+    "L. Lehe",
+    "A. Osman"
+   ],
+   "year": 2024,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Trends and Mechanisms Underlying Racial Price Differentials in the U.S. Housing Market",
+   "authors": [
+    "S. Box-Couillard",
+    "P. Christensen"
+   ],
+   "year": 2024,
+   "venue": "NBER Working Paper 32815",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Incentive-Based Pay and Building Decarbonization: Experimental Evidence from the Weatherization Assistance Program",
+   "authors": [
+    "P. Christensen",
+    "E. Myers",
+    "P. Francisco"
+   ],
+   "year": 2023,
+   "venue": "NBER Working Paper 31322",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Racial Discrimination and Housing Outcomes in the United States Rental Market",
+   "authors": [
+    "P. Christensen",
+    "I. Sarmiento",
+    "C. Timmins"
+   ],
+   "year": 2021,
+   "venue": "NBER Working Paper 29516",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Does Airbnb Reduce Matching Frictions in the Housing Market?",
+   "authors": [
+    "A. Farhoodi",
+    "N. Khazra",
+    "P. Christensen"
+   ],
+   "year": 2024,
+   "venue": "SSRN Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

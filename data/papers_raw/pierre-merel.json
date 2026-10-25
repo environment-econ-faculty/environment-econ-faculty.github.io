@@ -1,0 +1,565 @@
+{
+ "slug": "pierre-merel",
+ "name": "Pierre Mérel",
+ "sources": [
+  "https://arefiles.ucdavis.edu/uploads/pub/2026/07/13/cv.pdf"
+ ],
+ "collected": "2026-10-25",
+ "notes": "Source: CV dated July 2026. Skipped ARE Update pieces (magazine) and 'in progress' items. Dairy paper is 'conditionally accepted at Quantitative Economics' (mapped to forthcoming). For the two working papers the CV only says '(with X and Y)', so authors listed alphabetically by surname. Working paper years = CV date (2026).",
+ "papers": [
+  {
+   "title": "The Role of Economic and Weather Conditions in Farmer Suicide in the United States",
+   "authors": [
+    "Qi Wu",
+    "Pierre Mérel",
+    "Richard J. Sexton"
+   ],
+   "year": 2026,
+   "venue": "Agricultural Economics",
+   "status": "已发表",
+   "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/agec.70127",
+   "abstract": null
+  },
+  {
+   "title": "The Impact of Land Use on Water Quality: Evidence from California Wells",
+   "authors": [
+    "Jeffrey Hadachek",
+    "Pierre Mérel",
+    "Scott Somerville"
+   ],
+   "year": 2026,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/pii/S0095069626000045",
+   "abstract": null
+  },
+  {
+   "title": "Double Cropping as an Adaptation to Climate Change in the United States",
+   "authors": [
+    "Matthew Gammans",
+    "Pierre Mérel",
+    "Ariel Ortiz-Bobea"
+   ],
+   "year": 2025,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "https://onlinelibrary.wiley.com/doi/10.1111/ajae.12491",
+   "abstract": null
+  },
+  {
+   "title": "Sufficient Statistics for Climate Change Counterfactuals",
+   "authors": [
+    "Pierre Mérel",
+    "Emmanuel Paroissien",
+    "Matthew Gammans"
+   ],
+   "year": 2024,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/abs/pii/S0095069624000147",
+   "abstract": null
+  },
+  {
+   "title": "The short-run impacts of immigration on native workers: A sectoral approach",
+   "authors": [
+    "Pierre Mérel",
+    "Zachariah Rutledge"
+   ],
+   "year": 2024,
+   "venue": "World Scientific Handbook of Global Migration (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Policy-induced expansion of organic farmland: Implications for food prices and welfare",
+   "authors": [
+    "Pierre Mérel",
+    "Zhiran Qin",
+    "Richard J. Sexton"
+   ],
+   "year": 2023,
+   "venue": "European Review of Agricultural Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1093/erae/jbad024",
+   "abstract": null
+  },
+  {
+   "title": "Farm Labor Supply and Fruit and Vegetable Production",
+   "authors": [
+    "Zachariah Rutledge",
+    "Pierre Mérel"
+   ],
+   "year": 2023,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/ajae.12332",
+   "abstract": null
+  },
+  {
+   "title": "Environmental Policy in General Equilibrium: New Insights from a Canonical Model",
+   "authors": [
+    "Cloé Garnache",
+    "Pierre Mérel"
+   ],
+   "year": 2022,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How Big is the 'Lemons' Problem? Historical Evidence from French Wines",
+   "authors": [
+    "Pierre Mérel",
+    "Ariel Ortiz-Bobea",
+    "Emmanuel Paroissien"
+   ],
+   "year": 2021,
+   "venue": "European Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Climate econometrics: Can the panel approach account for long-run adaptation?",
+   "authors": [
+    "Pierre Mérel",
+    "Matthew Gammans"
+   ],
+   "year": 2021,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/ajae.12200",
+   "abstract": null
+  },
+  {
+   "title": "Climate change and California agriculture",
+   "authors": [
+    "Katrina Jessoe",
+    "Pierre Mérel",
+    "Ariel Ortiz-Bobea"
+   ],
+   "year": 2020,
+   "venue": "California Agriculture: Dimensions and Issues (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The critical role of markets in climate change adaptation",
+   "authors": [
+    "Sarah E. Anderson",
+    "Terry L. Anderson",
+    "Alice C. Hill",
+    "Matthew E. Kahn",
+    "Howard Kunreuther",
+    "Gary D. Libecap",
+    "Hari Mantripragada",
+    "Pierre Mérel",
+    "Andrew J. Plantinga",
+    "V. Kerry Smith"
+   ],
+   "year": 2018,
+   "venue": "Climate Change Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1142/S2010007819500039",
+   "abstract": null
+  },
+  {
+   "title": "Identifying the Economic Impacts of Climate Change on Agriculture",
+   "authors": [
+    "Colin Carter",
+    "Xiaomeng Cui",
+    "Dalia Ghanem",
+    "Pierre Mérel"
+   ],
+   "year": 2018,
+   "venue": "Annual Review of Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Social Costs of Environmental Goods Provision: A Cautionary Guide to the Revealed-Preference Approach",
+   "authors": [
+    "Cloé Garnache",
+    "Pierre Mérel"
+   ],
+   "year": 2017,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Negative impacts of climate change on cereal yields: Statistical evidence from France",
+   "authors": [
+    "Matthew Gammans",
+    "Pierre Mérel",
+    "Ariel Ortiz-Bobea"
+   ],
+   "year": 2017,
+   "venue": "Environmental Research Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Calibration of Shadow Values in Constrained Optimisation Models of Agricultural Supply",
+   "authors": [
+    "Cloé Garnache",
+    "Pierre Mérel",
+    "Richard Howitt",
+    "Juhwan Lee"
+   ],
+   "year": 2017,
+   "venue": "European Review of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Buyer power with atomistic upstream entry: Can downstream consolidation increase production and welfare?",
+   "authors": [
+    "Pierre Mérel",
+    "Richard J. Sexton"
+   ],
+   "year": 2017,
+   "venue": "International Journal of Industrial Organization",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The social costs of second-best policies: Evidence from agricultural GHG mitigation",
+   "authors": [
+    "Cloé Garnache",
+    "Pierre Mérel",
+    "Juhwan Lee",
+    "Johan Six"
+   ],
+   "year": 2017,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Hidden Costs of Supply Management in a Small Market",
+   "authors": [
+    "Colin A. Carter",
+    "Pierre Mérel"
+   ],
+   "year": 2016,
+   "venue": "Canadian Journal of Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Cooperative Stability under Stochastic Quality and Farmer Heterogeneity",
+   "authors": [
+    "Pierre Mérel",
+    "Tina L. Saitone",
+    "Richard J. Sexton"
+   ],
+   "year": 2015,
+   "venue": "European Review of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "What can acreage allocations say about crop supply elasticities? A convex programming approach to supply response disaggregation",
+   "authors": [
+    "Cloé Garnache",
+    "Pierre Mérel"
+   ],
+   "year": 2015,
+   "venue": "Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Theory and Application of Positive Mathematical Programming in Agriculture and the Environment",
+   "authors": [
+    "Pierre Mérel",
+    "Richard Howitt"
+   ],
+   "year": 2014,
+   "venue": "Annual Review of Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Intensive and extensive margin adjustments to water scarcity in France's Cereal Belt",
+   "authors": [
+    "Nina Graveline",
+    "Pierre Mérel"
+   ],
+   "year": 2014,
+   "venue": "European Review of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Cars on Crutches: How Much Abatement Do Smog Check Repairs Actually Provide?",
+   "authors": [
+    "Pierre Mérel",
+    "Aaron Smith",
+    "Jeffrey Williams",
+    "Emily Wimberger"
+   ],
+   "year": 2014,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Switchgrass in California: Where, and at What Price?",
+   "authors": [
+    "Fujin Yi",
+    "Pierre Mérel",
+    "Juhwan Lee",
+    "Y. Hossein Farzin",
+    "Johan Six"
+   ],
+   "year": 2014,
+   "venue": "GCB Bioenergy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Regional Bio-Economic Model of Nitrogen Use in Cropping",
+   "authors": [
+    "Pierre Mérel",
+    "Fujin Yi",
+    "Juhwan Lee",
+    "Johan Six"
+   ],
+   "year": 2014,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Improving Air Quality in California's San Joaquin Valley: The Role of Vehicle Heterogeneity in Optimal Emissions Abatement",
+   "authors": [
+    "Pierre Mérel",
+    "Emily Wimberger"
+   ],
+   "year": 2012,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Will Geographical Indications Supply Excessive Quality?",
+   "authors": [
+    "Pierre Mérel",
+    "Richard Sexton"
+   ],
+   "year": 2012,
+   "venue": "European Review of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Agroecology: A Review from a Global Change Perspective",
+   "authors": [
+    "T. P. Tomich",
+    "S. Brodt",
+    "H. Ferris",
+    "R. Galt",
+    "W. R. Horwath",
+    "E. Kebreab",
+    "J. Leveau",
+    "D. Liptzin",
+    "M. Lubell",
+    "Pierre Mérel",
+    "R. Michelmore",
+    "T. Rosenstock",
+    "K. Scow",
+    "J. Six",
+    "N. Williams",
+    "L. Yang"
+   ],
+   "year": 2011,
+   "venue": "Annual Review of Environment and Resources",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Fully Calibrated Generalized Constant-Elasticity-of-Substitution Programming Model of Agricultural Supply",
+   "authors": [
+    "Pierre Mérel",
+    "Leo K. Simon",
+    "Fujin Yi"
+   ],
+   "year": 2011,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Institutional Market Power in Comté: Insights from a 'Double Marginalisation' Model",
+   "authors": [
+    "Pierre Mérel"
+   ],
+   "year": 2011,
+   "venue": "Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Incorporating yield information from a biogeochemical model into an agricultural production model to infer adoption of a new bioenergy crop",
+   "authors": [
+    "Pierre Mérel",
+    "Fujin Yi",
+    "Santiago Bucaram",
+    "Juhwan Lee",
+    "Richard Howitt",
+    "Johan Six"
+   ],
+   "year": 2011,
+   "venue": "Bio-economic models applied to agricultural systems (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Models of Horizontal Product Differentiation in Food Markets",
+   "authors": [
+    "Pierre Mérel",
+    "Richard J. Sexton"
+   ],
+   "year": 2011,
+   "venue": "Oxford Handbook on the Economics of Food Consumption and Policy (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Exact Calibration of Programming Models of Agricultural Supply against Exogenous Supply Elasticities",
+   "authors": [
+    "Pierre Mérel",
+    "Santiago Bucaram"
+   ],
+   "year": 2010,
+   "venue": "European Review of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Kinked-Demand Equilibria and Weak Duopoly in the Hotelling Model of Horizontal Differentiation",
+   "authors": [
+    "Pierre Mérel",
+    "Richard J. Sexton"
+   ],
+   "year": 2010,
+   "venue": "The B.E. Journal of Theoretical Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Cooperatives and Quality-Differentiated Markets: Strengths, Weaknesses, and Modeling Approaches",
+   "authors": [
+    "Pierre Mérel",
+    "Tina L. Saitone",
+    "Richard J. Sexton"
+   ],
+   "year": 2009,
+   "venue": "Journal of Rural Cooperation",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Measuring Market Power in the French Comté Cheese Market",
+   "authors": [
+    "Pierre Mérel"
+   ],
+   "year": 2009,
+   "venue": "European Review of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "On the Deadweight Cost of Production Requirements for Geographically Differentiated Agricultural Products",
+   "authors": [
+    "Pierre Mérel"
+   ],
+   "year": 2009,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Optimal Investment in Transportation Infrastructure When Middlemen Have Market Power: A Developing-Country Analysis",
+   "authors": [
+    "Pierre Mérel",
+    "Richard J. Sexton",
+    "Aya Suzuki"
+   ],
+   "year": 2009,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Second Look at Managing Import Risk from Invasive Species",
+   "authors": [
+    "Pierre Mérel",
+    "Colin A. Carter"
+   ],
+   "year": 2008,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Geographic Footprint of U.S. Dairy Policy",
+   "authors": [
+    "Tristan Hanon",
+    "Pierre Mérel",
+    "Daniel Sumner"
+   ],
+   "year": 2026,
+   "venue": "Quantitative Economics",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Agricultural Pests and the Spatial Organization of Crop Production: Evidence from California",
+   "authors": [
+    "Pierre Mérel",
+    "James Sanchirico",
+    "Shuhan Zeng"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

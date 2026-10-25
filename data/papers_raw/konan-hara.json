@@ -1,0 +1,63 @@
+{
+ "slug": "konan-hara",
+ "name": "Konan Hara",
+ "sources": [
+  "https://harakonan.github.io/research/",
+  "https://harakonan.github.io/assets/pdfs/CV_KH.pdf"
+ ],
+ "collected": "2026-10-25",
+ "notes": "Economics papers: 3 working papers + 1 JEBO article. About 27 public-health/clinical papers excluded as outside economics scope. Working paper years not stated; set to 2026 (CV dated Oct 2026). Shale paper byline listed alphabetically by surname (CV lists 'with'). Racial-concordance paper is work in progress, skipped.",
+ "papers": [
+  {
+   "title": "The Effect of Inertia on Brand-Name versus Generic Drug Choices",
+   "authors": [
+    "Yuki Ito",
+    "Konan Hara",
+    "Yasuki Kobayashi"
+   ],
+   "year": 2020,
+   "venue": "Journal of Economic Behavior & Organization",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jebo.2019.12.022",
+   "abstract": null
+  },
+  {
+   "title": "Encouraging Renewable Investment: Risk Sharing Using Auctions",
+   "authors": [
+    "Konan Hara"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://harakonan.github.io/assets/pdfs/Hara_RenewableRiskSharingAuction_Combined.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Identification and Estimation of Dynamic Games with Unknown Information Structure",
+   "authors": [
+    "Konan Hara",
+    "Yuki Ito",
+    "Paul Koh"
+   ],
+   "year": 2026,
+   "venue": "arXiv",
+   "status": "工作论文",
+   "url": "https://arxiv.org/abs/2205.03706",
+   "abstract": null
+  },
+  {
+   "title": "Investment, Productivity, and Selection in the U.S. Shale Boom",
+   "authors": [
+    "Thomas R. Covert",
+    "Konan Hara",
+    "Ryan Kellogg",
+    "Richard L. Sweeney"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://harakonan.github.io/assets/pdfs/chks_shaleprod_combined.pdf",
+   "abstract": null
+  }
+ ]
+}

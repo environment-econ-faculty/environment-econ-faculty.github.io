@@ -1,0 +1,58 @@
+{
+ "slug": "cynthia-mingye-yin",
+ "name": "Cynthia (Mingye) Yin",
+ "sources": [
+  "http://www.cynthia-yin.com/research (homepage research page)",
+  "https://apps.business.cornell.edu/faculty-research/faculty/vita/my578 (CV, last updated Dec 10, 2025)"
+ ],
+ "collected": "2026-10-25",
+ "notes": "Four working papers; no published papers. Years not given: 2026 = collection year (CV dated Dec 2025 lists same papers; one under earlier title \"Socially Responsible Investment and Gender Equality in the US Census\" with Minsu Ko). Page lists only \"coauthors\" so Yin placed first (true byline unknown). Work-in-progress items (Fed MBS purchases; Strategic Decarbonization; Heterogeneous Preferences and Equity Premium Variation) skipped. Abstracts only paraphrased by fetch tool, so null.",
+ "papers": [
+  {
+   "title": "Do Production Frictions Affect the Impact of Sustainable Investing?",
+   "authors": [
+    "Cynthia (Mingye) Yin"
+   ],
+   "year": 2026,
+   "venue": "Working Paper (Job Market Paper)",
+   "status": "工作论文",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5019815",
+   "abstract": null
+  },
+  {
+   "title": "Active Management and the Aggregation of Market-Wide Information",
+   "authors": [
+    "Cynthia (Mingye) Yin",
+    "Shuaiyu Chen"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7367200",
+   "abstract": null
+  },
+  {
+   "title": "Information Frictions and the Real Effects of Sustainable Investing",
+   "authors": [
+    "Cynthia (Mingye) Yin",
+    "Minsu Ko"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://drive.google.com/file/d/1ebbSitl4x23Y1XCWRPfMSrkwiZiAOb9b/view?usp=drive_link",
+   "abstract": null
+  },
+  {
+   "title": "Pricing Disaster Risk in Corporate Bonds",
+   "authors": [
+    "Cynthia (Mingye) Yin"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://drive.google.com/file/d/1Z-w-SR6-GPDu8eb2-cqiHMX3goJ6Xcjp/view?usp=drive_link",
+   "abstract": null
+  }
+ ]
+}

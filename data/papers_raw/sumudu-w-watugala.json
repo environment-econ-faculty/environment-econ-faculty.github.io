@@ -1,0 +1,155 @@
+{
+ "slug": "sumudu-w-watugala",
+ "name": "Sumudu W. Watugala",
+ "sources": [
+  "https://people.csail.mit.edu/sumudu/Sumudu_Watugala_CV.pdf"
+ ],
+ "collected": "2026-10-25",
+ "notes": "From CV only (homepage not fetched). CV states author lists are alphabetical by custom; bylines derived alphabetically from CV 'with' lists. Working-paper years are CV years. Works-in-progress skipped.",
+ "papers": [
+  {
+   "title": "Pricing Poseidon: Extreme Weather Uncertainty and Firm Return Dynamics",
+   "authors": [
+    "Mathias S. Kruttli",
+    "Brigitte Roth Tran",
+    "Sumudu W. Watugala"
+   ],
+   "year": 2025,
+   "venue": "Journal of Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "LTCM Redux? Hedge Fund Treasury Trading and Funding Fragility",
+   "authors": [
+    "Mathias S. Kruttli",
+    "Phillip J. Monin",
+    "Lubomir Petrasek",
+    "Sumudu W. Watugala"
+   ],
+   "year": 2025,
+   "venue": "Journal of Financial Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Banking on Carbon: Corporate Lending and Cap-and-Trade Policy",
+   "authors": [
+    "Ivan T. Ivanov",
+    "Mathias S. Kruttli",
+    "Sumudu W. Watugala"
+   ],
+   "year": 2024,
+   "venue": "Review of Financial Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Life of the Counterparty: Shock Propagation in Hedge Fund-Prime Broker Credit Networks",
+   "authors": [
+    "Mathias S. Kruttli",
+    "Phillip J. Monin",
+    "Sumudu W. Watugala"
+   ],
+   "year": 2022,
+   "venue": "Journal of Financial Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Trade Credit and Cross-Country Predictable Firm Returns",
+   "authors": [
+    "Rui Albuquerque",
+    "Tarun Ramadorai",
+    "Sumudu W. Watugala"
+   ],
+   "year": 2015,
+   "venue": "Journal of Financial Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Financing and the Green Paradox",
+   "authors": [
+    "Rui Albuquerque",
+    "Mathias S. Kruttli",
+    "Yiding Ma",
+    "Sumudu W. Watugala"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Two Centuries of U.S. Innovation: Firms' Internal Networks and Resilience to Disasters",
+   "authors": [
+    "Mathias S. Kruttli",
+    "Noah Stoffman",
+    "Sumudu W. Watugala"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Inflation Shock Propagation Along the Supply Chain: The Trade Credit Channel",
+   "authors": [
+    "Isha Agarwal",
+    "Sumudu W. Watugala"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Effects of the Volcker Rule on Corporate Bond Trading: Evidence from the Underwriting Exemption",
+   "authors": [
+    "Meraj Allahrakha",
+    "Jill Cetina",
+    "Benjamin Munyan",
+    "Sumudu W. Watugala"
+   ],
+   "year": 2021,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "What Makes Dealers Central? Market Dominance in Credit Interdealer Networks",
+   "authors": [
+    "Benjamin Munyan",
+    "Sumudu W. Watugala"
+   ],
+   "year": 2020,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Investor Concentration, Flows, and Cash Holdings: Evidence from Hedge Funds",
+   "authors": [
+    "Mathias S. Kruttli",
+    "Phillip J. Monin",
+    "Sumudu W. Watugala"
+   ],
+   "year": 2019,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

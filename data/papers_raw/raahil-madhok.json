@@ -1,0 +1,149 @@
+{
+ "slug": "raahil-madhok",
+ "name": "Raahil Madhok",
+ "sources": [
+  "https://www.raahilmadhok.com/research/",
+  "https://www.raahilmadhok.com/pdf/rmadhok_cv.pdf"
+ ],
+ "collected": "2026-10-25",
+ "notes": "Homepage research page plus CV (consistent). AEJ:EP paper is conditionally accepted so coded 修改重投; JDE paper is accepted via pre-results review (no results yet) so coded 工作论文. Working-paper years assumed 2026 (current CV, no draft dates). Coal-plant 'resting paper' from homepage only. Works in progress without drafts and policy writing omitted.",
+ "papers": [
+  {
+   "title": "Internal Migration and the Spatial Reorganization of Agriculture",
+   "authors": [
+    "Raahil Madhok",
+    "Frederik Noack",
+    "Mushfiq Mobarak",
+    "Olivier Deschenes"
+   ],
+   "year": 2026,
+   "venue": "American Economic Journal: Economic Policy",
+   "status": "修改重投",
+   "url": "https://www.raahilmadhok.com/pdf/2022_rural_urban_agriculture.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Cash Crops and the Development-Environment Tradeoff: Evidence from Benin",
+   "authors": [
+    "Raahil Madhok",
+    "Zhenong Jin",
+    "Leikun Yin"
+   ],
+   "year": 2026,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "https://le.uwpress.org/content/102/4/646",
+   "abstract": null
+  },
+  {
+   "title": "Infrastructure, Institutions, and the Conservation of Biodiversity in India",
+   "authors": [
+    "Raahil Madhok"
+   ],
+   "year": 2025,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "https://www.journals.uchicago.edu/doi/10.1086/735284",
+   "abstract": null
+  },
+  {
+   "title": "Ruling The Roost: Avian Species Reclaim Urban Habitat During India's COVID-19 Lockdown",
+   "authors": [
+    "Raahil Madhok",
+    "Sumeet Gulati"
+   ],
+   "year": 2022,
+   "venue": "Biological Conservation",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/pii/S0006320722001501",
+   "abstract": null
+  },
+  {
+   "title": "Saving the world from your couch: The heterogeneous medium-run benefits of COVID-19 lockdowns on air pollution",
+   "authors": [
+    "J.P. Bonardi",
+    "Q. Gallea",
+    "D. Kalanoski",
+    "R. Lalive",
+    "Raahil Madhok",
+    "F. Noack",
+    "D. Rohner",
+    "T. Sonno"
+   ],
+   "year": 2021,
+   "venue": "Environmental Research Letters",
+   "status": "已发表",
+   "url": "https://iopscience.iop.org/article/10.1088/1748-9326/abee4d",
+   "abstract": null
+  },
+  {
+   "title": "Does Women's Autonomy Improve Forest Restoration? Experimental Evidence from the Himalayas",
+   "authors": [
+    "Raahil Madhok",
+    "P. Choksi",
+    "E. Coleman",
+    "H. Fischer",
+    "F. Fleischman",
+    "M. Khanyari",
+    "P. Rana",
+    "E. Sills"
+   ],
+   "year": 2026,
+   "venue": "Journal of Development Economics (accepted, pre-results review)",
+   "status": "工作论文",
+   "url": "https://www.raahilmadhok.com/pdf/forest_hp_rct.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Off-Target Impacts of Targeted Policy: Evidence from the World's Largest Anti-Narcotics Intervention",
+   "authors": [
+    "Raahil Madhok",
+    "Tatiana Zarate-Barrera"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://www.raahilmadhok.com/pdf/coca_colombia.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Ethnic Favouritism in Environmental Disaster Payouts",
+   "authors": [
+    "Raahil Madhok",
+    "Sumeet Gulati",
+    "Pushpendra Rana"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://www.raahilmadhok.com/pdf/favouritism_hwc.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Indigenous Land Rights and Firm Behavior",
+   "authors": [
+    "Raahil Madhok",
+    "Sabyasachi Das"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://www.raahilmadhok.com/pdf/forests_and_firms.pdf",
+   "abstract": null
+  },
+  {
+   "title": "The Long Run Effects of Coal Power Plants on Health",
+   "authors": [
+    "Raahil Madhok",
+    "Rohini Pande",
+    "Kevin Rowe",
+    "Anish Sugathan"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://www.raahilmadhok.com/pdf/power_plants_india.pdf",
+   "abstract": null
+  }
+ ]
+}

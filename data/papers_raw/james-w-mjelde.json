@@ -1,0 +1,84 @@
+{
+ "slug": "james-w-mjelde",
+ "name": "James W. Mjelde",
+ "sources": [
+  "https://agecon.tamu.edu/people/mjelde-james/"
+ ],
+ "collected": "2026-10-25",
+ "notes": "Only the 5 'selected publications' on the TAMU dept profile (no personal site or CV); list is incomplete (Scholars@TAMU shows ~109 articles). Status labels per page; Chavez et al. listed 'forthcoming' on page with year 2020 (probably out of date).",
+ "papers": [
+  {
+   "title": "Partial and Full Incentivization in Discrete Choice Experiments",
+   "authors": [
+    "D. Chavez",
+    "M. Palma",
+    "R. Nayga",
+    "James W. Mjelde"
+   ],
+   "year": 2020,
+   "venue": "Journal of Choice Modelling",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Stakeholders' Opinions and Concerns Pertaining to Rural Transit for the Elderly and Transportation Disadvantaged",
+   "authors": [
+    "James W. Mjelde",
+    "R. Dudensing",
+    "J. Brooks",
+    "G. Battista",
+    "M. Carrillo",
+    "B. Counsil",
+    "A. Giri",
+    "M.K. Kim",
+    "V.D. Pyrialakou"
+   ],
+   "year": 2020,
+   "venue": "SAGE Open",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Role of Temporal Dependence in Factor Selection: Implications for Forecasting",
+   "authors": [
+    "K.E. Binder",
+    "M. Pourahmadi",
+    "James W. Mjelde"
+   ],
+   "year": 2020,
+   "venue": "Empirical Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Prequential Forecasting Analysis of Returns in North America Natural Gas Spot Markets",
+   "authors": [
+    "K. Duangnate",
+    "James W. Mjelde"
+   ],
+   "year": 2019,
+   "venue": "Empirical Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1007/s00181-019-01706-4",
+   "abstract": null
+  },
+  {
+   "title": "Willingness-to-pay for Whale Tour Attributes using a Choice Experiment",
+   "authors": [
+    "C.K. Lee",
+    "E. Lee",
+    "James W. Mjelde",
+    "T.K. Kim",
+    "Y. Choi"
+   ],
+   "year": 2019,
+   "venue": "Asia Pacific Journal of Tourism Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

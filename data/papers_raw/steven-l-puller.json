@@ -1,0 +1,306 @@
+{
+ "slug": "steven-l-puller",
+ "name": "Steven L. Puller",
+ "sources": [
+  "https://sites.google.com/site/stevepuller/research",
+  "https://artsci.tamu.edu/economics/_files/_documents/_faculty/puller-steve-cv.pdf"
+ ],
+ "collected": "2026-10-25",
+ "notes": "Primary source: Google Sites research page (current as of 2026). Coauthors on the page are listed with the scholar omitted, so byline order for coauthored papers is inferred (coauthors in listed order, then Puller; the CV June 2022 gives 'with' order only) and may differ from true order; alphabetical ordering not applied. Working-paper years from page dates (2026, 2026, 2022, 2015). Book chapters and PSERC reports omitted; CV also lists 2 chapters (2005 Chicago Press; 2009 AEI Press).",
+ "papers": [
+  {
+   "title": "Voltage Quality and Economic Activity",
+   "authors": [
+    "Susanna B. Berkouwer",
+    "Pierre E. Biscaye",
+    "Maya Mikdash",
+    "Steven L. Puller",
+    "Catherine Wolfram"
+   ],
+   "year": 2026,
+   "venue": "Journal of Political Economy: Microeconomics",
+   "status": "即将发表",
+   "url": "https://papers.pierrebiscaye.com/BBMPW_Voltage_Ghana.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Effects of Mandatory Energy Efficiency Disclosure in Housing Markets",
+   "authors": [
+    "Erica Myers",
+    "Steven L. Puller",
+    "Jeremy West"
+   ],
+   "year": 2022,
+   "venue": "American Economic Journal: Economic Policy",
+   "status": "已发表",
+   "url": "https://s-puller.github.io/MyWebsite/Myers_Puller_West_MandatoryDisclosure_latest.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Disbursing Emergency Relief through Utilities: Evidence from Ghana",
+   "authors": [
+    "Susanna Berkouwer",
+    "Pierre Biscaye",
+    "Steven L. Puller",
+    "Catherine D. Wolfram"
+   ],
+   "year": 2022,
+   "venue": "Journal of Development Economics",
+   "status": "已发表",
+   "url": "https://s-puller.github.io/MyWebsite/BBPW_GhanaTransfers-Jan2022.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Does Strategic Ability Affect Efficiency? Evidence from Electricity Markets",
+   "authors": [
+    "Fernando Luco",
+    "Ali Hortacsu",
+    "Steven L. Puller",
+    "Dongni Zhu"
+   ],
+   "year": 2019,
+   "venue": "American Economic Review",
+   "status": "已发表",
+   "url": "https://s-puller.github.io/MyWebsite/AER-HLPZ.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Power to Choose? An Analysis of Consumer Inertia in the Residential Electricity Market",
+   "authors": [
+    "Ali Hortacsu",
+    "Seyed Ali Madanizadeh",
+    "Steven L. Puller"
+   ],
+   "year": 2017,
+   "venue": "American Economic Journal: Economic Policy",
+   "status": "已发表",
+   "url": "https://s-puller.github.io/MyWebsite/AEJ-EP-HMP.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Cash for Corollas: When Stimulus Reduces Spending",
+   "authors": [
+    "Mark Hoekstra",
+    "Steven L. Puller",
+    "Jeremy West"
+   ],
+   "year": 2017,
+   "venue": "American Economic Journal: Applied Economics",
+   "status": "已发表",
+   "url": "https://s-puller.github.io/MyWebsite/Stimulus-AEJ-Applied.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Do Extrinsic Incentives Undermine Social Norms? Evidence from a Field Experiment in Energy Conservation",
+   "authors": [
+    "Jose Pellerano",
+    "Michael Price",
+    "Steven L. Puller",
+    "Gonzalo Sanchez"
+   ],
+   "year": 2017,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "https://s-puller.github.io/MyWebsite/PPPS-extrinsic-incentives.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Vehicle Miles (Not) Traveled: Fuel Economy Requirements, Vehicle Characteristics, and Household Driving",
+   "authors": [
+    "Jeremy West",
+    "Mark Hoekstra",
+    "Jonathan Meer",
+    "Steven L. Puller"
+   ],
+   "year": 2017,
+   "venue": "Journal of Public Economics",
+   "status": "已发表",
+   "url": "https://s-puller.github.io/MyWebsite/Rebound-JPUBE.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Efficient Retail Pricing in Electricity and Natural Gas Markets",
+   "authors": [
+    "Steven L. Puller",
+    "Jeremy West"
+   ],
+   "year": 2013,
+   "venue": "American Economic Review: Papers and Proceedings",
+   "status": "已发表",
+   "url": "https://s-puller.github.io/MyWebsite/AERPP-Puller-West.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Price Discrimination by Day-of-Week of Purchase: Evidence from the U.S. Airline Industry",
+   "authors": [
+    "Steven L. Puller",
+    "Lisa M. Taylor"
+   ],
+   "year": 2012,
+   "venue": "Journal of Economic Behavior and Organization",
+   "status": "已发表",
+   "url": "https://s-puller.github.io/MyWebsite/PT_weekend_pricing.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Do More Diverse Environments Increase the Diversity of Subsequent Interaction? Evidence from Random Dorm Assignment",
+   "authors": [
+    "Sara Baker",
+    "Adalbert Mayer",
+    "Steven L. Puller"
+   ],
+   "year": 2011,
+   "venue": "Economics Letters",
+   "status": "已发表",
+   "url": "https://s-puller.github.io/MyWebsite/BMP2011.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Estimation of Competitive Conduct When Firms Are Efficiently Colluding: Addressing the Corts Critique",
+   "authors": [
+    "Steven L. Puller"
+   ],
+   "year": 2009,
+   "venue": "Applied Economics Letters",
+   "status": "已发表",
+   "url": "https://s-puller.github.io/MyWebsite/Puller-efficient-collusion.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Understanding Strategic Bidding in Multi-Unit Auctions: A Case Study of the Texas Electricity Spot Market",
+   "authors": [
+    "Ali Hortacsu",
+    "Steven L. Puller"
+   ],
+   "year": 2008,
+   "venue": "RAND Journal of Economics",
+   "status": "已发表",
+   "url": "https://s-puller.github.io/MyWebsite/Hortacsu_Puller_RAND.pdf",
+   "abstract": null
+  },
+  {
+   "title": "The Effect of Auction Format on Efficiency and Revenue in Divisible Goods Auctions: A Test Using Korean Treasury Auctions",
+   "authors": [
+    "Boo-Sung Kang",
+    "Steven L. Puller"
+   ],
+   "year": 2008,
+   "venue": "Journal of Industrial Economics",
+   "status": "已发表",
+   "url": "https://s-puller.github.io/MyWebsite/Kang_Puller_JIE.pdf",
+   "abstract": null
+  },
+  {
+   "title": "The Old Boy (and Girl) Network: Social Network Formation on University Campuses",
+   "authors": [
+    "Adalbert Mayer",
+    "Steven L. Puller"
+   ],
+   "year": 2008,
+   "venue": "Journal of Public Economics",
+   "status": "已发表",
+   "url": "https://s-puller.github.io/MyWebsite/Mayer_Puller_JournalPublicEconomics.pdf",
+   "abstract": null
+  },
+  {
+   "title": "The Effects of Government Transfers on Monthly Cycles in Drug Abuse, Hospitalization and Mortality",
+   "authors": [
+    "Carlos Dobkin",
+    "Steven L. Puller"
+   ],
+   "year": 2007,
+   "venue": "Journal of Public Economics",
+   "status": "已发表",
+   "url": "https://s-puller.github.io/MyWebsite/Dobkin_Puller_JPubE.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Pricing and Firm Conduct in California's Deregulated Electricity Market",
+   "authors": [
+    "Steven L. Puller"
+   ],
+   "year": 2007,
+   "venue": "Review of Economics and Statistics",
+   "status": "已发表",
+   "url": "https://s-puller.github.io/MyWebsite/puller_REStat.pdf",
+   "abstract": null
+  },
+  {
+   "title": "The Strategic Use of Innovation to Influence Regulatory Standards",
+   "authors": [
+    "Steven L. Puller"
+   ],
+   "year": 2006,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "https://s-puller.github.io/MyWebsite/Puller_JEEM.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Household Adjustment to Gasoline Price Change: An Analysis Using Nine Years of U.S. Survey Data",
+   "authors": [
+    "Lorna Greening",
+    "Steven L. Puller"
+   ],
+   "year": 1999,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "https://s-puller.github.io/MyWebsite/EE_Puller.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Transportation as a Barrier to Education Access: Evidence from Chicago Public Schools",
+   "authors": [
+    "Cecilia Moreira",
+    "Steven L. Puller",
+    "Ini Umosen"
+   ],
+   "year": 2026,
+   "venue": "NBER Working Paper",
+   "status": "工作论文",
+   "url": "https://s-puller.github.io/MyWebsite/Moreira-Puller-Umosen-NBERwp.pdf",
+   "abstract": null
+  },
+  {
+   "title": "The Vicious Circle of Blackouts and Revenue Collection in Developing Countries: Evidence from Ghana",
+   "authors": [
+    "James Dzansi",
+    "Steven L. Puller",
+    "Brittany Street",
+    "Belinda Yebuah-Dwamena"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Not All Nudges are Created Equal: Comparing Social and Pure Informational Nudges",
+   "authors": [
+    "Jose Pellerano",
+    "Michael Price",
+    "Steven L. Puller",
+    "Gonzalo Sanchez"
+   ],
+   "year": 2022,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://s-puller.github.io/MyWebsite/PPPS-nudges-equal.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Does Scarcity Drive Intra-Route Price Dispersion in Airlines?",
+   "authors": [
+    "Anirban Sengupta",
+    "Steven L. Puller",
+    "Steve Wiggins"
+   ],
+   "year": 2015,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://s-puller.github.io/MyWebsite/PSW-airline-pricing.pdf",
+   "abstract": null
+  }
+ ]
+}

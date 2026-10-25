@@ -1,0 +1,748 @@
+{
+ "slug": "jeremy-d-foltz",
+ "name": "Jeremy D. Foltz",
+ "sources": [
+  "https://aae-cv-storage.s3.us-east-2.amazonaws.com/FoltzJeremyCV.pdf"
+ ],
+ "collected": "2026-10-25",
+ "notes": "CV only (Google Scholar stats dated 2023-12-08, so 2024-26 papers may be missing). Pre-2000 items, non-refereed pieces (Choices, discussions, encyclopedia entries, reports), unsubmitted papers in progress and undated working papers skipped; working papers later published (Bazzana, Barham NBER, Parker WIDER, Bresnahan IFPRI, Foltz NBER) omitted as duplicates. R&R/under-review items given year 2023 (CV date; per-item year not stated). Author initials kept as in CV except Foltz normalized.",
+ "papers": [
+  {
+   "title": "The impact of extreme precipitation on nutrient runoff",
+   "authors": [
+    "M. Skidmore",
+    "Jeremy D. Foltz",
+    "T. Andarge"
+   ],
+   "year": 2023,
+   "venue": "Journal of the Association of Agricultural and Applied Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Competition and Corruption: Highway Corruption in West Africa",
+   "authors": [
+    "Jeremy D. Foltz",
+    "K. Li"
+   ],
+   "year": 2023,
+   "venue": "Journal of Development Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Impact of climate smart agriculture on food security: an agent based analysis",
+   "authors": [
+    "D. Bazzana",
+    "Jeremy D. Foltz",
+    "Y. Zhang"
+   ],
+   "year": 2023,
+   "venue": "Food Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Effectiveness of local regulations on nonpoint source pollution: Evidence from Wisconsin dairy farms",
+   "authors": [
+    "M. Skidmore",
+    "Jeremy D. Foltz",
+    "T. Andarge"
+   ],
+   "year": 2022,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The enduring pursuit of public science at U.S. land-grant universities",
+   "authors": [
+    "B. Barham",
+    "A. Melo",
+    "Jeremy D. Foltz"
+   ],
+   "year": 2022,
+   "venue": "PLOS ONE",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Determinants of Migration: Cotton Strikes and Income Shocks in Mali",
+   "authors": [
+    "Z. Barnett-Howell",
+    "Jeremy D. Foltz"
+   ],
+   "year": 2022,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Prisons as drivers of COVID-19 spread in the United States",
+   "authors": [
+    "K.M. Sims",
+    "Jeremy D. Foltz",
+    "M.E. Skidmore"
+   ],
+   "year": 2021,
+   "venue": "American Journal of Public Health",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Lineage Networks, Urban Migration and Income Inequality: Evidence from Rural China",
+   "authors": [
+    "Jeremy D. Foltz",
+    "Y. Guo",
+    "Y. Yao"
+   ],
+   "year": 2020,
+   "venue": "Journal of Comparative Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Vulnerability of sorghum production to extreme, sub-seasonal weather under climate change",
+   "authors": [
+    "Michael Eggen",
+    "Mutlu Ozdogan",
+    "Benjamin Zaitchik",
+    "Dereje Ademe",
+    "Jeremy Foltz",
+    "Belay Simane"
+   ],
+   "year": 2019,
+   "venue": "Environmental Research Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Land-Grant University Faculty Attitudes in and Engagement with Open Source Scholarship and Commercialization",
+   "authors": [
+    "B. Barham",
+    "I. Goldman",
+    "J. van Rijn",
+    "Jeremy D. Foltz",
+    "M. I. Agnes"
+   ],
+   "year": 2017,
+   "venue": "Agricultural & Environmental Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Unintended Consequences of Sanctions for Human Rights: Conflict Minerals and Infant Mortality",
+   "authors": [
+    "D. Parker",
+    "Jeremy D. Foltz",
+    "D. Elsea"
+   ],
+   "year": 2016,
+   "venue": "Journal of Law and Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Does Freer Trade Really Lead to Productivity Growth? Evidence from Africa",
+   "authors": [
+    "L. Bresnahan",
+    "I. Coxhead",
+    "Jeremy D. Foltz",
+    "T. Mogues"
+   ],
+   "year": 2016,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Taking from Cotton to Grow Maize: the shifting practices of small-holder farmers in the cotton belt of Mali",
+   "authors": [
+    "P. Laris",
+    "Jeremy D. Foltz",
+    "B. Voorhees"
+   ],
+   "year": 2014,
+   "venue": "Agricultural Systems",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Cotton as Catalyst?: The Role of Shifting Fertilizer in Mali's Silent Maize Revolution",
+   "authors": [
+    "P. Laris",
+    "Jeremy D. Foltz"
+   ],
+   "year": 2014,
+   "venue": "Human Ecology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Making Time for Agricultural and Life Science Research: Technical Change and Productivity Gains",
+   "authors": [
+    "D. Prager",
+    "Jeremy D. Foltz",
+    "B. Barham"
+   ],
+   "year": 2014,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Agroecosystem-specific climate vulnerability analysis: application of the livelihood vulnerability index to a tropical highland region",
+   "authors": [
+    "B. Zaitchik",
+    "B. Simane",
+    "Jeremy D. Foltz"
+   ],
+   "year": 2014,
+   "venue": "Mitigation and Adaptation Strategies for Global Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Rice, Irrigation and Downside Risk: A Quantile Analysis of Risk Exposure and Mitigation on Korean Farms",
+   "authors": [
+    "K. Kim",
+    "J.P. Chavas",
+    "B. Barham",
+    "Jeremy D. Foltz"
+   ],
+   "year": 2014,
+   "venue": "European Review of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Making Time for Science",
+   "authors": [
+    "B. Barham",
+    "Jeremy D. Foltz",
+    "D. Prager"
+   ],
+   "year": 2014,
+   "venue": "Research Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Bundling Technology and Insurance: Packages versus Technology Traits",
+   "authors": [
+    "J.D. Foltz",
+    "B. Barham",
+    "P. Useche"
+   ],
+   "year": 2013,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Trait-based Adoption Models Using Ex-Ante and Ex-Post Approaches",
+   "authors": [
+    "P. Useche",
+    "B. Barham",
+    "Jeremy D. Foltz"
+   ],
+   "year": 2013,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Early Adoption, Experience, and Farm Performance of GM Corn Seeds",
+   "authors": [
+    "Ursula Aldana",
+    "B. Barham",
+    "Jeremy D. Foltz",
+    "P. Useche"
+   ],
+   "year": 2012,
+   "venue": "Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Specialization, Diversification, and Productivity: A Panel Data Analysis of Rice Farms in Korea",
+   "authors": [
+    "K. Kim",
+    "J.P. Chavas",
+    "B. Barham",
+    "Jeremy D. Foltz"
+   ],
+   "year": 2012,
+   "venue": "Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Building climate resilience in the Blue Nile / Abay Highlands: A role for Earth System Sciences",
+   "authors": [
+    "Benjamin Zaitchik",
+    "Belay Simane",
+    "Shahid Habib",
+    "Martha Anderson",
+    "Mutlu Ozdogan",
+    "Jeremy Foltz"
+   ],
+   "year": 2012,
+   "venue": "International Journal of Environmental Research and Public Health",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Analysis and Decomposition of Scope Economies: R&D at U.S. Research Universities",
+   "authors": [
+    "J.P. Chavas",
+    "B. Barham",
+    "Jeremy D. Foltz",
+    "K. Kim"
+   ],
+   "year": 2012,
+   "venue": "Applied Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Assessing the Returns to Education in the Gambia",
+   "authors": [
+    "Jeremy Foltz",
+    "Ousman Gajigo"
+   ],
+   "year": 2012,
+   "venue": "Journal of African Economies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Efficiency and Technological Change at US Research Universities",
+   "authors": [
+    "Jeremy D. Foltz",
+    "B. Barham",
+    "J.P. Chavas",
+    "K. Kim"
+   ],
+   "year": 2012,
+   "venue": "Journal of Productivity Analysis",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Sustainability Under Siege: Transport Costs and Corruption on West Africa's Trade Corridors",
+   "authors": [
+    "D.W. Bromley",
+    "J.D. Foltz"
+   ],
+   "year": 2011,
+   "venue": "Natural Resources Forum",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Plant Scientists and the Productivity Effects of Extension Appointments",
+   "authors": [
+    "Jeremy D. Foltz",
+    "V. Gee",
+    "B. Barham"
+   ],
+   "year": 2011,
+   "venue": "Journal of Extension",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Sequential Adoption of Package Technologies: Dynamics of Stacked Trait Corn Adoption",
+   "authors": [
+    "Ursula Aldana",
+    "Jeremy Foltz",
+    "Bradford Barham",
+    "Pilar Useche"
+   ],
+   "year": 2011,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Integrating Technology Traits and Producer Heterogeneity: A Mixed Multinomial Model of Genetically Modified Corn Adoption",
+   "authors": [
+    "Pilar Useche",
+    "Bradford Barham",
+    "Jeremy Foltz"
+   ],
+   "year": 2009,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Productivity Effects of Extension Appointments in Land Grant Colleges",
+   "authors": [
+    "Jeremy D. Foltz",
+    "B. Barham"
+   ],
+   "year": 2009,
+   "venue": "Applied Economic Perspectives and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Factors Impacting the Purchase Decision for Milk Labeled rBST-free and Organic",
+   "authors": [
+    "Marianne McGarry Wolf",
+    "L.J. Butler",
+    "A.J. Martin",
+    "Jeremy D. Foltz"
+   ],
+   "year": 2009,
+   "venue": "Journal of Food Distribution Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Synergies or Tradeoffs in University Life Science Research",
+   "authors": [
+    "Jeremy D. Foltz",
+    "Bradford Barham",
+    "Kwansoo Kim"
+   ],
+   "year": 2007,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Role of Community and Farm Characteristics in Farm Input Purchasing Patterns",
+   "authors": [
+    "Jeremy D. Foltz",
+    "Kim Zeuli"
+   ],
+   "year": 2005,
+   "venue": "Review of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Adoption and Impact of Management Intensive Rotational Grazing (MIRG) on Connecticut Dairy Farms",
+   "authors": [
+    "Jeremy D. Foltz",
+    "G. Lang"
+   ],
+   "year": 2005,
+   "venue": "Renewable Agriculture and Food Systems",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Milk by Any Other Name...Consumer Benefits from Labeled Milk",
+   "authors": [
+    "Tirtha Dhar",
+    "Jeremy D. Foltz"
+   ],
+   "year": 2005,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Entry, Exit, and Farm Size: Assessing an Experiment in Dairy Price Policy",
+   "authors": [
+    "Jeremy D. Foltz"
+   ],
+   "year": 2004,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Dynamics of Agricultural Biotechnology Adoption: Lessons from rBST use in Wisconsin, 1994-2001",
+   "authors": [
+    "Bradford Barham",
+    "Jeremy D. Foltz",
+    "D. Jackson-Smith",
+    "S. Moon"
+   ],
+   "year": 2004,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Comparative Analysis of Recombinant Bovine Somatotropin Adoption Across Major U.S. Dairy Regions",
+   "authors": [
+    "Bradford Barham",
+    "Jeremy D. Foltz",
+    "D. Jackson-Smith",
+    "S. Moon"
+   ],
+   "year": 2004,
+   "venue": "Review of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Credit Market Access and Profitability in Tunisian Agriculture",
+   "authors": [
+    "Jeremy D. Foltz"
+   ],
+   "year": 2004,
+   "venue": "Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Economics of Water Conserving Technology Adoption in Tunisia: An Empirical Estimation of Technology Choice",
+   "authors": [
+    "Jeremy D. Foltz"
+   ],
+   "year": 2003,
+   "venue": "Economic Development and Cultural Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Dynamic Analysis of University Agricultural Biotechnology Patent Production",
+   "authors": [
+    "Jeremy D. Foltz",
+    "K. Kim",
+    "B. Barham"
+   ],
+   "year": 2003,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Trends in University Ag-Biotech Patenting",
+   "authors": [
+    "Bradford Barham",
+    "Jeremy Foltz",
+    "Kwansoo Kim"
+   ],
+   "year": 2002,
+   "venue": "Review of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Adoption and Profitability of rBST on Connecticut Dairy Farms",
+   "authors": [
+    "Jeremy D. Foltz",
+    "Hsui-Hui Chang"
+   ],
+   "year": 2002,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do Purchasing Patterns Differ Between Large and Small Dairy Farms? Econometric Evidence From Three Wisconsin Communities",
+   "authors": [
+    "Jeremy D. Foltz",
+    "Douglas Jackson-Smith",
+    "Lucy Chen"
+   ],
+   "year": 2002,
+   "venue": "Agricultural and Resource Economics Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Universities and Agricultural Biotechnology Patents",
+   "authors": [
+    "Jeremy D. Foltz",
+    "Bradford Barham",
+    "Kwansoo Kim"
+   ],
+   "year": 2000,
+   "venue": "Agribusiness: An International Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Water-Energy-Food Nexus Resilience and the Sustainable Development Goals",
+   "authors": [
+    "Jeremy Foltz"
+   ],
+   "year": 2022,
+   "venue": "Connecting the Sustainable Development Goals: The WEF Nexus (Springer, book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Academic Engagement, Commercialization, and Scholarship: Empirical Evidence from Agricultural and Life Scientists at US Land Grant Universities",
+   "authors": [
+    "B. Barham",
+    "Jeremy D. Foltz",
+    "A. Melo"
+   ],
+   "year": 2020,
+   "venue": "Economics of Research and Innovation in Agriculture (University of Chicago Press, book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Sahel's Silent Maize Revolution: Analyzing Maize Productivity in Mali at the Farm-level",
+   "authors": [
+    "Jeremy Foltz",
+    "Ursula Aldana",
+    "Paul Laris"
+   ],
+   "year": 2016,
+   "venue": "African Successes, Vol. 4 (University of Chicago Press, book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Impact of Intellectual Property Rights in the Plant/Seed Industry",
+   "authors": [
+    "Tirtha Dhar",
+    "Jeremy Foltz"
+   ],
+   "year": 2007,
+   "venue": "Seeds of Change (CABI, book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Micro-Economic Perspectives on Tunisia's Agro-Export Strategy",
+   "authors": [
+    "Jeremy D. Foltz"
+   ],
+   "year": 2003,
+   "venue": "Food, Agriculture, and Economic Policy in the Middle East and North Africa (Elsevier, book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Land Tenure, Investment, and Agricultural Production in Nicaragua",
+   "authors": [
+    "Jeremy D. Foltz",
+    "Bruce A. Larson",
+    "Rigoberto Lopez"
+   ],
+   "year": 2001,
+   "venue": "Environment for Growth in Central America (Harvard University Press, book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Discrimination in Science: Salaries of Foreign and US Born Land-Grant University Scientists",
+   "authors": [
+    "Jeremy D. Foltz",
+    "V. Gawai"
+   ],
+   "year": 2023,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Mining and Poverty and Inequality in West Africa: Evidence from Mali",
+   "authors": [
+    "M. Coulibaly",
+    "Jeremy D. Foltz",
+    "O. Olurotimi",
+    "D. Parker",
+    "N. Traoré"
+   ],
+   "year": 2023,
+   "venue": "World Development",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Peace and Petty Corruption: Evidence from Trucking in Côte d'Ivoire",
+   "authors": [
+    "Jeremy D. Foltz",
+    "M. Lin",
+    "S. Soumahoro"
+   ],
+   "year": 2023,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Effects of Internally Displaced Peoples on Consumption and Inequality in Mali",
+   "authors": [
+    "Jeremy D. Foltz",
+    "S. Shibuya"
+   ],
+   "year": 2022,
+   "venue": "World Bank Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Analyzing the Impact of Dodd Frank Mining Legislation on Sexual Violence in Eastern Democratic Republic of Congo",
+   "authors": [
+    "Jeremy D. Foltz",
+    "A. Sambo"
+   ],
+   "year": 2018,
+   "venue": "HiCN Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

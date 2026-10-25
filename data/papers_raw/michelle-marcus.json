@@ -1,0 +1,200 @@
+{
+ "slug": "michelle-marcus",
+ "name": "Michelle Marcus",
+ "sources": [
+  "https://michellemmarcus.com/research/",
+  "https://michellemmarcus.com/wp-content/uploads/2024/08/marcus_michelle_cv2024aug-1.pdf"
+ ],
+ "collected": "2026-10-25",
+ "notes": "Research page (current, 2026 statuses) cross-checked with Aug-2024 CV. Coauthor lists given without bylines, so multi-author papers are listed alphabetically by surname. 'Burying the Lead' year = 2023 (draft file date 07/22/23). The 2026 EEPE maritime paper (Targeting Distributional Impacts...) is listed separately from the AEJ:EP paper on the homepage. Abstracts not shown verbatim on the page, so null.",
+ "papers": [
+  {
+   "title": "Burying the Lead: Effects of Public Lead Service Line Replacements on Blood Lead Levels and Property Values",
+   "authors": [
+    "Michelle Marcus"
+   ],
+   "year": 2023,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://michellemmarcus.com/wp-content/uploads/2023/07/marcus_buryingthelead_072223.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Targeting Distributional Impacts in the Presence of Behavioral Responses: Lessons from Maritime Emission Regulation",
+   "authors": [
+    "Jamie Hansen-Lewis",
+    "Michelle Marcus"
+   ],
+   "year": 2026,
+   "venue": "Environmental and Energy Policy and the Economy",
+   "status": "已发表",
+   "url": "https://www.journals.uchicago.edu/doi/10.1086/738543",
+   "abstract": null
+  },
+  {
+   "title": "Can We Get the Lead Out? Updates to the Lead and Copper Rule for Public Drinking Water",
+   "authors": [
+    "Michelle Marcus"
+   ],
+   "year": 2026,
+   "venue": "Review of Environmental Economics and Policy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1086/738844",
+   "abstract": null
+  },
+  {
+   "title": "Expanding Health Insurance to Parents: Effect on Children's Care Use and Health",
+   "authors": [
+    "Michelle Marcus",
+    "Xuan Zhang"
+   ],
+   "year": 2026,
+   "venue": "American Journal of Health Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1086/733364",
+   "abstract": null
+  },
+  {
+   "title": "A Watershed Moment: The Clean Water Act and Birth Weight",
+   "authors": [
+    "Patrick Flynn",
+    "Michelle Marcus"
+   ],
+   "year": 2025,
+   "venue": "Journal of Human Resources",
+   "status": "已发表",
+   "url": "https://michellemmarcus.com/wp-content/uploads/2023/01/flynnmarcus_manuscript.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Testing Above the Limit: Drinking Water Contamination and Test Scores",
+   "authors": [
+    "Michelle Marcus"
+   ],
+   "year": 2025,
+   "venue": "Journal of Public Economics",
+   "status": "已发表",
+   "url": "https://michellemmarcus.com/wp-content/uploads/2025/01/marcus_watertest_jpube.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Uncharted Waters: Effects of Maritime Emission Regulation",
+   "authors": [
+    "Jamie Hansen-Lewis",
+    "Michelle Marcus"
+   ],
+   "year": 2025,
+   "venue": "American Economic Journal: Economic Policy",
+   "status": "已发表",
+   "url": "https://michellemmarcus.com/wp-content/uploads/2023/04/unchartedwaters_04302023.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Unregulated Contaminants in Drinking Water: Evidence from PFAS and Housing Prices",
+   "authors": [
+    "Michelle Marcus",
+    "Rosie Mueller"
+   ],
+   "year": 2024,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jeem.2024.102987",
+   "abstract": null
+  },
+  {
+   "title": "State SUNucate Laws, the Popularity of Google Searches for Terms Related to Sun Protection, and Youth Sunscreen Use",
+   "authors": [
+    "Christopher S. Carpenter",
+    "Mary-Margaret Chren",
+    "Brandyn F. Churchill",
+    "Michelle Marcus"
+   ],
+   "year": 2023,
+   "venue": "Health Behavior and Policy Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Bad Lighting: Effects of Youth Indoor Tanning Prohibitions",
+   "authors": [
+    "Christopher S. Carpenter",
+    "Brandyn F. Churchill",
+    "Michelle Marcus"
+   ],
+   "year": 2023,
+   "venue": "Journal of Health Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jhealeco.2023.102738",
+   "abstract": null
+  },
+  {
+   "title": "Testing the Water: Drinking Water Quality, Public Notification, and Child Outcomes",
+   "authors": [
+    "Michelle Marcus"
+   ],
+   "year": 2022,
+   "venue": "The Review of Economics and Statistics",
+   "status": "已发表",
+   "url": "https://michellemmarcus.com/wp-content/uploads/2020/12/marcus_testingthewater.pdf",
+   "abstract": null
+  },
+  {
+   "title": "The Effect of Free School Meals on Household Food Purchases: Evidence from the Community Eligibility Provision",
+   "authors": [
+    "Michelle Marcus",
+    "Katherine Yewell"
+   ],
+   "year": 2022,
+   "venue": "Journal of Health Economics",
+   "status": "已发表",
+   "url": "https://michellemmarcus.com/wp-content/uploads/2022/06/jhe_final_manuscript.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Pollution at Schools and Children's Aerobic Capacity",
+   "authors": [
+    "Michelle Marcus"
+   ],
+   "year": 2021,
+   "venue": "Health Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1002/hec.4425",
+   "abstract": null
+  },
+  {
+   "title": "The Role of Parallel Trends in Event Study Settings: An Application to Environmental Economics",
+   "authors": [
+    "Michelle Marcus",
+    "Pedro H. C. Sant'Anna"
+   ],
+   "year": 2021,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "https://www.journals.uchicago.edu/doi/10.1086/711509",
+   "abstract": null
+  },
+  {
+   "title": "Going Beneath the Surface: Petroleum Pollution, Regulation, and Health",
+   "authors": [
+    "Michelle Marcus"
+   ],
+   "year": 2021,
+   "venue": "American Economic Journal: Applied Economics",
+   "status": "已发表",
+   "url": "https://michellemmarcus.com/wp-content/uploads/2019/09/marcus_lust_092319.pdf",
+   "abstract": null
+  },
+  {
+   "title": "On the Road to Recovery: Gasoline Content Regulations and Child Health",
+   "authors": [
+    "Michelle Marcus"
+   ],
+   "year": 2017,
+   "venue": "Journal of Health Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jhealeco.2017.04.003",
+   "abstract": null
+  }
+ ]
+}

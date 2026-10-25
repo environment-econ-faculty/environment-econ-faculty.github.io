@@ -1,0 +1,171 @@
+{
+ "slug": "chiara-lo-prete",
+ "name": "Chiara Lo Prete",
+ "sources": [
+  "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/8/96906/files/2023/02/ChiaraLoPrete_CV_Mar2023.pdf"
+ ],
+ "collected": "2026-10-25",
+ "notes": "CV dated Mar 2023 (no homepage given; may be outdated). Skipped refereed conference proceedings, sponsor reports, work-in-progress. 'Manuscripts under revision' item marked R&R, year 2023 = CV date (journal not named); byline from CV. CV typo 'Leaker-follower' corrected to 'Leader-follower'. Authors as initials, as in CV. Energy Policy 2023 paper was 'accepted for publication' in CV.",
+ "papers": [
+  {
+   "title": "Intraday markets, wind integration and uplift in a regional U.S. power system",
+   "authors": [
+    "C. Hohl",
+    "C. Lo Prete",
+    "A. Radhakrishnan",
+    "M. Webster"
+   ],
+   "year": 2023,
+   "venue": "Energy Policy",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Leader-follower equilibria to examine investment decisions in grid resilience-enhancing measures",
+   "authors": [
+    "C. Lo Prete",
+    "A. Radhakrishnan"
+   ],
+   "year": 2022,
+   "venue": "Risk Analysis",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/risa.13921",
+   "abstract": null
+  },
+  {
+   "title": "Cross-product manipulation with intertemporal constraints: an equilibrium model",
+   "authors": [
+    "N. Guo",
+    "C. Lo Prete"
+   ],
+   "year": 2019,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Cross-product manipulation in electricity markets, microstructure models and asymmetric information",
+   "authors": [
+    "C. Lo Prete",
+    "W.W. Hogan",
+    "B. Liu",
+    "J. Wang"
+   ],
+   "year": 2019,
+   "venue": "The Energy Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Virtual bidding and financial transmission rights: an equilibrium model for cross-product manipulation in electricity markets",
+   "authors": [
+    "C. Lo Prete",
+    "N. Guo",
+    "U.V. Shanbhag"
+   ],
+   "year": 2019,
+   "venue": "IEEE Transactions on Power Systems",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Weather or not? Welfare impacts of natural gas pipeline expansion in the Northeastern U.S.",
+   "authors": [
+    "A. Kleit",
+    "C. Lo Prete",
+    "S. Blumsack",
+    "N. Guo"
+   ],
+   "year": 2019,
+   "venue": "Energy Systems",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A cooperative game theoretic analysis of incentives for microgrids in regulated electricity markets",
+   "authors": [
+    "C. Lo Prete",
+    "B.F. Hobbs"
+   ],
+   "year": 2016,
+   "venue": "Applied Energy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Market power in power markets: an analysis of residual demand curves in California's day-ahead energy market in 1998-2000",
+   "authors": [
+    "C. Lo Prete",
+    "B.F. Hobbs"
+   ],
+   "year": 2015,
+   "venue": "The Energy Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Upper level of a sustainability assessment framework for power system planning",
+   "authors": [
+    "S. Cano-Andrade",
+    "M.R. von Spakovsky",
+    "A. Fuentes",
+    "C. Lo Prete",
+    "L. Mili"
+   ],
+   "year": 2015,
+   "venue": "Journal of Energy Resources Technology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Rockets and feathers in CO2-power markets? New evidence from the second phase of the EU ETS",
+   "authors": [
+    "C. Lo Prete",
+    "C.S. Norman"
+   ],
+   "year": 2013,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Sustainability and reliability assessment of microgrids in a regional electricity market",
+   "authors": [
+    "C. Lo Prete",
+    "B.F. Hobbs",
+    "C.S. Norman",
+    "S. Cano-Andrade",
+    "A. Fuentes",
+    "M.R. von Spakovsky",
+    "L. Mili"
+   ],
+   "year": 2012,
+   "venue": "Energy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "California's cap-and-trade program and emission leakage in the Western Interconnection: comparing econometric and partial equilibrium model estimates",
+   "authors": [
+    "C. Lo Prete",
+    "A. Tyagi",
+    "Q. Xu"
+   ],
+   "year": 2023,
+   "venue": "Working Paper",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

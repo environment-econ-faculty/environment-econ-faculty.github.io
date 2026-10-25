@@ -1,0 +1,260 @@
+{
+ "slug": "manjira-datta",
+ "name": "Manjira Datta",
+ "sources": [
+  "https://search.asu.edu/profile/66242/cv"
+ ],
+ "collected": "2026-10-25",
+ "notes": "From ASU CV (2025). Mostly theory, little environmental. Included journal articles, book chapters, working papers; working paper years as listed on CV (2023-24).",
+ "papers": [
+  {
+   "title": "Comparing Recursive Equilibrium in Economies with Dynamic Complementarities and Indeterminacy",
+   "authors": [
+    "Manjira Datta",
+    "Kevin Reffett",
+    "Lukasz Wozny"
+   ],
+   "year": 2018,
+   "venue": "Economic Theory",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Existence and Uniqueness of Equilibrium in Distorted Dynamic Small Open Economy",
+   "authors": [
+    "Manjira Datta"
+   ],
+   "year": 2017,
+   "venue": "Economics Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Nonclassical Brock-Mirman Economies",
+   "authors": [
+    "Manjira Datta",
+    "Leonard J. Mirman",
+    "Kevin L. Reffett"
+   ],
+   "year": 2010,
+   "venue": "Some Contemporary Issues in Development and Growth Economics (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Isotone Recursive Methods: Homogeneous Agents",
+   "authors": [
+    "Manjira Datta",
+    "Kevin L. Reffett"
+   ],
+   "year": 2006,
+   "venue": "The Handbook of Optimal Growth 1: Discrete Time (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Markovian Equilibrium in Infinite Horizon Economies with Incomplete Markets and Public Policy",
+   "authors": [
+    "Manjira Datta",
+    "Leonard J. Mirman",
+    "Olivier F. Morand",
+    "Kevin L. Reffett"
+   ],
+   "year": 2005,
+   "venue": "Journal of Mathematical Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Monotone Methods for Markovian Equilibrium in Dynamic Economies",
+   "authors": [
+    "Manjira Datta",
+    "Leonard J. Mirman",
+    "Olivier F. Morand",
+    "Kevin L. Reffett"
+   ],
+   "year": 2002,
+   "venue": "Annals of Operations Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Optimal Experimentation in Signal Dependent Decision Problems",
+   "authors": [
+    "Manjira Datta",
+    "Leonard J. Mirman",
+    "Edward E. Schlee"
+   ],
+   "year": 2002,
+   "venue": "International Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Existence of Equilibrium in Distorted Dynamic Economies with Capital and Labor",
+   "authors": [
+    "Manjira Datta",
+    "Leonard J. Mirman",
+    "Kevin L. Reffett"
+   ],
+   "year": 2002,
+   "venue": "Journal of Economic Theory",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Intertemporal Cournot and Walras Equilibrium: An Illustration",
+   "authors": [
+    "Manjira Datta",
+    "Tito Cordella"
+   ],
+   "year": 2002,
+   "venue": "International Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Learning with Noiseless Information and Pay-off Relevant Signals",
+   "authors": [
+    "Manjira Datta",
+    "Leonard J. Mirman",
+    "Edward E. Schlee"
+   ],
+   "year": 2000,
+   "venue": "Economic Theory",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Dynamic Externalities and Policy Coordination",
+   "authors": [
+    "Manjira Datta",
+    "Leonard J. Mirman"
+   ],
+   "year": 2000,
+   "venue": "Review of International Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Externalities, Market Power and Resource Extraction",
+   "authors": [
+    "Manjira Datta",
+    "Leonard J. Mirman"
+   ],
+   "year": 1999,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Optimal Accumulation in a Small Open Economy with Technological Uncertainty",
+   "authors": [
+    "Manjira Datta"
+   ],
+   "year": 1999,
+   "venue": "Economic Theory",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Externalities and Price Dynamics",
+   "authors": [
+    "Manjira Datta"
+   ],
+   "year": 1997,
+   "venue": "International Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Externalities, Trade and Dynamics",
+   "authors": [
+    "Manjira Datta"
+   ],
+   "year": 1996,
+   "venue": "Canadian Journal of Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A General Model of Trade and Optimal Accumulation in a Small Open Economy: Existence and Turnpike Results",
+   "authors": [
+    "Manjira Datta"
+   ],
+   "year": 1992,
+   "venue": "Keio Economic Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Elementary Approach to Stationary Equilibrium in Bewley Models: Existence, Uniqueness and Comparative Statics",
+   "authors": [
+    "Manjira Datta",
+    "Kevin Reffett",
+    "Lukasz Wozny"
+   ],
+   "year": 2024,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Characterizing Recursive Equilibria in Stochastic OLG models with Production and Many Agents",
+   "authors": [
+    "L. Balbus",
+    "Manjira Datta",
+    "K. Reffett",
+    "L. Wozny"
+   ],
+   "year": 2024,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "On Markovian Equilibrium in Stochastic OLG Models with Elastic Labor",
+   "authors": [
+    "Manjira Datta",
+    "Kevin Reffett",
+    "Lukasz Wozny"
+   ],
+   "year": 2024,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Single Crossing Equilibrium Policy Iteration for Dynamic Economies",
+   "authors": [
+    "Manjira Datta",
+    "Kevin Reffett",
+    "Lukasz Wozny"
+   ],
+   "year": 2023,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

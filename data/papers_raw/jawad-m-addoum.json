@@ -1,0 +1,254 @@
+{
+ "slug": "jawad-m-addoum",
+ "name": "Jawad M. Addoum",
+ "sources": [
+  "https://apps.business.cornell.edu/faculty-research/faculty/vita/jma369",
+  "http://addoum.dyson.cornell.edu/"
+ ],
+ "collected": "2026-10-25",
+ "notes": "Cornell vita dated 4/1/2026 (PDF). Homepage lists no papers (its research page was not fetched; the vita is current). CV gives only 'with X, Y' bylines, so authors are listed alphabetically by surname including Addoum (true byline order not stated; initials as in CV). 'Reproducibility in Management Science': CV lists Addoum only as a member of the Management Science Reproducibility Collaboration; the five named authors are from the CV and Addoum is inserted before the collaboration entry. Working-paper years assumed 2026 (CV date); R&R status from CV.",
+ "papers": [
+  {
+   "title": "Climate Change and Commercial Real Estate: Evidence from Hurricane Sandy",
+   "authors": [
+    "Jawad M. Addoum",
+    "P. Eichholtz",
+    "E. Steiner",
+    "E. Yönder"
+   ],
+   "year": 2024,
+   "venue": "Real Estate Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Industry Clusters and the Geography of Portfolio Choice",
+   "authors": [
+    "Jawad M. Addoum",
+    "S. Delikouras",
+    "D. Ke",
+    "G. Korniotis"
+   ],
+   "year": 2024,
+   "venue": "Journal of Financial and Quantitative Analysis",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Temperature Shocks and Industry Earnings News",
+   "authors": [
+    "Jawad M. Addoum",
+    "D. Ng",
+    "A. Ortiz-Bobea"
+   ],
+   "year": 2023,
+   "venue": "Journal of Financial Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Reproducibility in Management Science",
+   "authors": [
+    "M. Fisar",
+    "B. Greiner",
+    "C. Huber",
+    "E. Katok",
+    "A. Ozkes",
+    "Jawad M. Addoum",
+    "Management Science Reproducibility Collaboration"
+   ],
+   "year": 2024,
+   "venue": "Management Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Equity Price Discovery with Informed Private Debt",
+   "authors": [
+    "Jawad M. Addoum",
+    "J. Murfin"
+   ],
+   "year": 2020,
+   "venue": "Review of Financial Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Temperature Shocks and Establishment Sales",
+   "authors": [
+    "Jawad M. Addoum",
+    "D. Ng",
+    "A. Ortiz-Bobea"
+   ],
+   "year": 2020,
+   "venue": "Review of Financial Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Local Bankruptcy and Geographic Contagion in the Bank Loan Market",
+   "authors": [
+    "Jawad M. Addoum",
+    "A. Kumar",
+    "N. Le",
+    "A. Niessen-Ruenzi"
+   ],
+   "year": 2020,
+   "venue": "Review of Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Underreaction to Political Information and Price Momentum",
+   "authors": [
+    "Jawad M. Addoum",
+    "S. Delikouras",
+    "D. Ke",
+    "A. Kumar"
+   ],
+   "year": 2019,
+   "venue": "Financial Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Income Hedging, Dynamic Style Preferences, and Return Predictability",
+   "authors": [
+    "Jawad M. Addoum",
+    "S. Delikouras",
+    "G. Korniotis",
+    "A. Kumar"
+   ],
+   "year": 2019,
+   "venue": "Journal of Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Consumption-Income Sensitivity and Portfolio Choice",
+   "authors": [
+    "Jawad M. Addoum",
+    "S. Delikouras",
+    "G. Korniotis"
+   ],
+   "year": 2019,
+   "venue": "Review of Asset Pricing Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Household Portfolio Choice and Retirement",
+   "authors": [
+    "Jawad M. Addoum"
+   ],
+   "year": 2017,
+   "venue": "Review of Economics and Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Stature, Obesity, and Portfolio Choice",
+   "authors": [
+    "Jawad M. Addoum",
+    "G. Korniotis",
+    "A. Kumar"
+   ],
+   "year": 2017,
+   "venue": "Management Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Political Sentiment and Predictable Returns",
+   "authors": [
+    "Jawad M. Addoum",
+    "A. Kumar"
+   ],
+   "year": 2016,
+   "venue": "Review of Financial Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Distributional Consequences of Extreme Heat in Housing Markets",
+   "authors": [
+    "Jawad M. Addoum",
+    "L.W. Cong",
+    "Y. Zhou"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Debt Dictionaries",
+   "authors": [
+    "Jawad M. Addoum",
+    "V. Meursault",
+    "J. Murfin"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Does Wildfire Smoke Choke Local Business?",
+   "authors": [
+    "Jawad M. Addoum",
+    "D. Gounopoulos",
+    "M. Gustafson",
+    "R. Lewis",
+    "T. Nguyen"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Temperature Exposure and Green Revenues of Firms Around the World",
+   "authors": [
+    "Jawad M. Addoum",
+    "F.M. Ali",
+    "P. Tzouvanas"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Hispanic Culture, Portfolio Decisions, and Asset Prices",
+   "authors": [
+    "Jawad M. Addoum",
+    "C. Cuculiza",
+    "A. Kumar",
+    "S. Webb"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

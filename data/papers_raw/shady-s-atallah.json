@@ -1,0 +1,666 @@
+{
+ "slug": "shady-s-atallah",
+ "name": "Shady S. Atallah",
+ "sources": [
+  "https://ws.engr.illinois.edu/directory/getfile.asp?id=3045"
+ ],
+ "collected": "2026-10-25",
+ "notes": "Source: CV PDF updated 09/25/2026 (pdftotext). Working papers: 'submitted/in revision' plus 'in preparation' items that have an online draft link; in-prep items without drafts and 'work in progress' skipped. WP year = CV year 2026. Cover-crop item uses the first listed title. Some character accents normalized.",
+ "papers": [
+  {
+   "title": "The Economic Effects of Persistent Plant Diseases: The Case of Fire Blight",
+   "authors": [
+    "Jason Winfree",
+    "Shady S. Atallah",
+    "Karina Gallardo",
+    "Khashi Ghorbani"
+   ],
+   "year": 2026,
+   "venue": "Journal of Agricultural and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Strategic Responses to Ban Enforcement Uncertainty: Antibiotic Application Decisions in Plant Agriculture",
+   "authors": [
+    "Khashi Ghorbani",
+    "Shady S. Atallah"
+   ],
+   "year": 2026,
+   "venue": "European Review of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Sustainable Soil Management Practices Are Associated with Increases in Crop Defense Through Soil Microbiome Changes",
+   "authors": [
+    "Elias Bloom",
+    "Shady Atallah",
+    "Claire L. Casteel"
+   ],
+   "year": 2025,
+   "venue": "npj Sustainable Agriculture",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Spatial Bioinvasion Externalities with Heterogeneous Landowner Preferences",
+   "authors": [
+    "Shady S. Atallah"
+   ],
+   "year": 2025,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Commentary on Extension Programming: An Online Platform for Area-Wide Management of Western X-Disease Extension Program",
+   "authors": [
+    "Khashi Ghorbani",
+    "Shady S. Atallah",
+    "Karina Gallardo"
+   ],
+   "year": 2025,
+   "venue": "Applied Economics Teaching Resources",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Managing Herbicide-Resistant Weeds with Robots: A Weed Ecological Economic Model",
+   "authors": [
+    "Chengzheng Yu",
+    "Madhu Khanna",
+    "Shady Atallah",
+    "Saurajyoti Kar",
+    "Muthukumar Bagavathiannan",
+    "Girish Chowdhary"
+   ],
+   "year": 2024,
+   "venue": "Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economics of Adoption of Artificial Intelligence-Based Digital Technologies in Agriculture",
+   "authors": [
+    "Madhu Khanna",
+    "Shady Atallah",
+    "Hugo Storm",
+    "Thomas Heckelei",
+    "Linghui Wu"
+   ],
+   "year": 2024,
+   "venue": "Annual Review of Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Motivating Organic Farmers to Adopt Practices That Support the Pest-Suppressive Microbiome Relies on Understanding Their Beliefs",
+   "authors": [
+    "Elias Bloom",
+    "Shady S. Atallah",
+    "Clare L. Casteel"
+   ],
+   "year": 2024,
+   "venue": "Renewable Agriculture and Food Systems",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Family Forest Landowner Preferences for Managing Invasive Species: Control Methods, Ecosystem Services, and Neighborhood Effects",
+   "authors": [
+    "Shady S. Atallah",
+    "Ju-Chin Huang",
+    "Jessica Leahy",
+    "Karen P. Bennett"
+   ],
+   "year": 2023,
+   "venue": "Journal of the Agricultural and Applied Economics Association",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Intergenerational Livelihood Dependence on Ecosystem Services: A Descriptive Analysis of The Ivory Palm in Coastal Ecuador",
+   "authors": [
+    "Jorge Salgado",
+    "Jake Gehrung",
+    "Rommel Montúfar",
+    "Shady S. Atallah"
+   ],
+   "year": 2023,
+   "venue": "Agricultural and Resource Economics Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Changes in Economic and Environmental Outcomes of Food System Regionalization, 2007-2017: Broccoli in The Eastern United States",
+   "authors": [
+    "Bingyan Dai",
+    "Miguel I. Gómez",
+    "Shady S. Atallah",
+    "Thomas Björkman"
+   ],
+   "year": 2023,
+   "venue": "PLoS ONE",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Digital Transformation for a Sustainable Agriculture in the United States: Opportunities and Challenges",
+   "authors": [
+    "Madhu Khanna",
+    "Shady S. Atallah",
+    "Saurajyoti Kar",
+    "Bijay Sharma",
+    "Linghui Wu",
+    "Chengzheng Yu"
+   ],
+   "year": 2022,
+   "venue": "Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Multi-Targeted Payments for the Balanced Management of Hydrological and Other Forest Ecosystem Services",
+   "authors": [
+    "Heidi Asbjornsen",
+    "Yanhui Wang",
+    "David Ellison",
+    "Catherine M. Ashcraft",
+    "Shady S. Atallah",
+    "Kelly Jones",
+    "Alex Mayer",
+    "Monica Altamirano",
+    "Pengtao Yu"
+   ],
+   "year": 2022,
+   "venue": "Forest Ecology and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Identifying the Ecosystem Services of the Ecuadorian Ivory Palm (Phytelephas aequatorialis Spruce): A Qualitative Study from the Central Coast of Ecuador",
+   "authors": [
+    "Rommel Montúfar",
+    "Jake Gehrung",
+    "Neil Michael Ayala Ayala",
+    "Shady S. Atallah"
+   ],
+   "year": 2022,
+   "venue": "Economic Botany",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Households' Preferences for Hydrological Services in Veracruz, Mexico: The Importance of Outcomes Vs. Program Design",
+   "authors": [
+    "Ian McGinnis",
+    "Shady S. Atallah",
+    "Ju-Chin Huang"
+   ],
+   "year": 2021,
+   "venue": "Journal of Environmental Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Does the Localness of Inputs and Processing Matter? Evidence from Consumers' Valuation for Craft Beer",
+   "authors": [
+    "Shady S. Atallah",
+    "Claudia Bazzani",
+    "Kim Ha",
+    "Rodolfo Nayga"
+   ],
+   "year": 2021,
+   "venue": "Food Quality and Preference",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic Studies Reinforce Efforts to Safeguard Specialty Crops in the United States",
+   "authors": [
+    "Marc Fuchs",
+    "C. V. Almeyda",
+    "M. Al Rwahnih",
+    "S. S. Atallah",
+    "E. J. Cieniewicz",
+    "K. Farrar",
+    "W. R. Foote",
+    "D. A. Golino",
+    "M. I. Gómez",
+    "S. J. Harper",
+    "M. K. Kelly",
+    "R. R. Martin",
+    "T. Martinson",
+    "F. M. Osman",
+    "K. Park",
+    "V. Scharlau",
+    "R. Smith",
+    "I. E. Tzanetakis",
+    "G. Vidalakis",
+    "R. Welliver"
+   ],
+   "year": 2021,
+   "venue": "Plant Disease",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Worshipping the Tiger: Modeling Non-Use Existence Values of Wildlife Spiritual Services",
+   "authors": [
+    "Adrian A. Lopes",
+    "Shady S. Atallah"
+   ],
+   "year": 2020,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Agent-Based Modeling of Moose-Winter Tick Relationships in Northern New Hampshire",
+   "authors": [
+    "Christine Healy",
+    "Peter J. Pekins",
+    "Shady S. Atallah",
+    "Russell Congalton"
+   ],
+   "year": 2020,
+   "venue": "Ecological Complexity",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Optimal Monitoring and Controlling of Invasive Species: The Case of Spotted Wing Drosophila in the United States",
+   "authors": [
+    "Xiaoli Fan",
+    "Miguel I. Gómez",
+    "Shady S. Atallah",
+    "Jon M. Conrad"
+   ],
+   "year": 2020,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Modeling the Economic Impact of the Trade Regulation of Invasive Species: A Study of Apple Production under an Apple Maggot Quarantine Program",
+   "authors": [
+    "Yeon Hong",
+    "Karina Gallardo",
+    "Xiaoli Fan",
+    "Shady S. Atallah",
+    "Miguel Gómez"
+   ],
+   "year": 2019,
+   "venue": "Journal of Agricultural and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Agricultural Nitrogen Losses in a Changing Climate: Processes, Predictions, and Agroecological Solutions",
+   "authors": [
+    "Timothy M. Bowles",
+    "Shady S. Atallah",
+    "Eleanor E. Campbell",
+    "Amélie C. M. Gaudin",
+    "William R. Wieder",
+    "A. Stuart Grandy"
+   ],
+   "year": 2018,
+   "venue": "Nature Sustainability",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Selective Habitat Use by Moose During Critical Periods in the Winter Tick Life Cycle",
+   "authors": [
+    "Christine Healy",
+    "Peter J. Pekins",
+    "Lee Kantar",
+    "Russ G. Congalton",
+    "Shady S. Atallah"
+   ],
+   "year": 2018,
+   "venue": "Alces",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Bioeconomic Model of Ecosystem Service Provision: Coffee Berry Borer and Shade-Grown Coffee",
+   "authors": [
+    "Shady S. Atallah",
+    "Miguel I. Gómez",
+    "Juliana Jaramillo"
+   ],
+   "year": 2018,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Maximizing Freshwater Ecosystem Service Returns On Investment in Forest Conservation: The Case of The Classified Forest and Wildlands Program In Indiana",
+   "authors": [
+    "Yangyang Wang",
+    "Shady S. Atallah",
+    "Guofan Shao"
+   ],
+   "year": 2017,
+   "venue": "Ecosystem Services",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Achieving Multiple Goals via Voluntary Efforts and Motivation Asymmetry",
+   "authors": [
+    "Eckart Bindewald",
+    "Shady S. Atallah"
+   ],
+   "year": 2017,
+   "venue": "Ecological Modelling",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Specification of Spatial Dynamic Externalities and Implications for Strategic Behavior in Disease Control",
+   "authors": [
+    "Shady S. Atallah",
+    "Miguel I. Gómez",
+    "Jon M. Conrad"
+   ],
+   "year": 2017,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Plant-Level, Spatial, Bioeconomic Model of Plant Disease Diffusion and Control: Grapevine Leafroll Disease",
+   "authors": [
+    "Shady S. Atallah",
+    "Miguel I. Gómez",
+    "Jon M. Conrad",
+    "Jan P. Nyrop"
+   ],
+   "year": 2015,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Reducing the Economic Impact of Grapevine Leafroll Disease in California: Identifying Optimal Disease Management Strategies",
+   "authors": [
+    "Katie D. Ricketts",
+    "Miguel I. Gómez",
+    "Shady S. Atallah",
+    "Marc F. Fuchs",
+    "Timothy E. Martinson",
+    "Mark C. Bettany",
+    "Larry J. Bettiga",
+    "Monica L. Cooper",
+    "Paul S. Verdegaal",
+    "Rhonda J. Smith"
+   ],
+   "year": 2015,
+   "venue": "American Journal of Enology and Viticulture",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Localization Effects for a Fresh Vegetable Product Supply Chain: Broccoli in The Eastern United States",
+   "authors": [
+    "Shady S. Atallah",
+    "Miguel I. Gómez",
+    "Thomas Björkman"
+   ],
+   "year": 2014,
+   "venue": "Food Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic Impact of Grapevine Leafroll Disease on Vitis vinifera cv. Cabernet Franc in Finger Lakes Vineyards of New York",
+   "authors": [
+    "Shady S. Atallah",
+    "Miguel I. Gómez",
+    "Marc F. Fuchs",
+    "Timothy E. Martinson"
+   ],
+   "year": 2012,
+   "venue": "American Journal of Enology and Viticulture",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Effects of Different Irrigation, Drying and Production Scenarios on the Productivity, Postharvest Quality and Economic Feasibility of Origanum syriacum, a Species Typically Over-Collected from the Wild in Lebanon",
+   "authors": [
+    "Shady S. Atallah",
+    "Ibrahim El Saliby",
+    "Riad Baalbaki",
+    "Salma N. Talhouk"
+   ],
+   "year": 2011,
+   "venue": "Journal of the Science of Food and Agriculture",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Economics of Carbon Farming",
+   "authors": [
+    "Shady S. Atallah"
+   ],
+   "year": 2025,
+   "venue": "Encyclopedia of Energy, Natural Resource, and Environmental Economics (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Climate-Change Impacts Mediated by Crop Diseases: The Case of Coffee Leaf Rust",
+   "authors": [
+    "Khashi Ghorbani",
+    "Shady S. Atallah"
+   ],
+   "year": 2026,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "修改重投",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5061520",
+   "abstract": null
+  },
+  {
+   "title": "Demand For Climate-Adapted Food: An Application to Tree Syrups",
+   "authors": [
+    "Muhammad Jawad Khan",
+    "Maria Helen Kalaitzandonakes",
+    "Brenna Ellison",
+    "Shady S. Atallah"
+   ],
+   "year": 2026,
+   "venue": "Canadian Journal of Agricultural Economics",
+   "status": "修改重投",
+   "url": "https://ageconsearch.umn.edu/record/322464",
+   "abstract": null
+  },
+  {
+   "title": "Mitigating the Tradeoff Between Pest Management and Pollination: A Bioeconomic Model",
+   "authors": [
+    "Linghui Wu",
+    "Shady S. Atallah",
+    "Christian Krupke",
+    "Laura Ingwell"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4601766",
+   "abstract": null
+  },
+  {
+   "title": "The Economics of Biorational Pesticides and Augmentative Natural Enemies for Managing Aphids in Winter High-Tunnel Spinach",
+   "authors": [
+    "Cheng Bi",
+    "Shady S. Atallah",
+    "Laura L. Ingwell",
+    "Samantha A. Willden"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Coexistence, Conflict, and Wildlife Spiritual Values Among Indigenous Herders",
+   "authors": [
+    "Shady S. Atallah",
+    "Adrian Lopes",
+    "Koustuv Saha",
+    "Sahan Dissanayake"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Bioeconomic Sustainability and Resilience of Biodiversity under Invasive Species Pressures",
+   "authors": [
+    "Luc Doyen",
+    "Pierre Courtois",
+    "Shady S. Atallah"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://hal.inrae.fr/hal-05426155v1/document",
+   "abstract": null
+  },
+  {
+   "title": "Spatial-Dynamic Adoption of AI Weeding Robots: Insights from a Choice Experiment-based Agent-Based Model",
+   "authors": [
+    "Kaouter Essakat",
+    "Linghui Wu",
+    "Shady S. Atallah",
+    "Madhu Khanna"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://ageconsearch.umn.edu/record/361092",
+   "abstract": null
+  },
+  {
+   "title": "Integrating Natural Enemies and Biopesticides into Optimal Pest Management: A Bioeconomic Analysis",
+   "authors": [
+    "Cheng Bi",
+    "Shady S. Atallah",
+    "Samantha A. Willden"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://chengb.weebly.com/uploads/1/5/3/5/153556873/cheng_bi_jmp_1.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Maple Syrup Producers' Willingness to Diversify Maple Forests for Increased Resilience",
+   "authors": [
+    "Yizun Yan",
+    "Shady S. Atallah",
+    "Muhammad Jawad Khan",
+    "David Moore"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://ageconsearch.umn.edu/record/343860",
+   "abstract": null
+  },
+  {
+   "title": "Farmer Willingness to Pay for Cover Cropping with a Robotic Planting Technology in the US Midwest",
+   "authors": [
+    "Linghui Wu",
+    "Madhu Khanna",
+    "Shady S. Atallah"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://ageconsearch.umn.edu/record/335568",
+   "abstract": null
+  },
+  {
+   "title": "Do Neighborhood Effects Induce Cover Crop Adoption? Evidence from Satellite-based Data",
+   "authors": [
+    "N. Zhang",
+    "M. Khanna",
+    "S. Atallah",
+    "L. Wu",
+    "Q. Zhou",
+    "K. Guan"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://ageconsearch.umn.edu/record/335939",
+   "abstract": null
+  },
+  {
+   "title": "Farmer Nitrogen Application Rates Decisions: Technological and Behavioral Drivers",
+   "authors": [
+    "Menglin Liu",
+    "Madhu Khanna",
+    "Shady S. Atallah"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://ageconsearch.umn.edu/record/344024",
+   "abstract": null
+  },
+  {
+   "title": "Farmer Willingness to Adopt Profit-Maximizing Phosphorus and Potassium Management Practices",
+   "authors": [
+    "Menglin Liu",
+    "Madhu Khanna",
+    "Shady S. Atallah"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://ageconsearch.umn.edu/record/361198",
+   "abstract": null
+  }
+ ]
+}

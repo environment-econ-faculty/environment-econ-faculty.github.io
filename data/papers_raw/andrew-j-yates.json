@@ -1,0 +1,734 @@
+{
+ "slug": "andrew-j-yates",
+ "name": "Andrew J. Yates",
+ "sources": [
+  "https://tarheels.live/ajyates/wp-content/uploads/sites/5502/2026/09/CVYates.pdf",
+  "https://econ.unc.edu/people/yates-andrew/"
+ ],
+ "collected": "2026-10-25",
+ "notes": "Source: current CV (Sept 2026 upload, newer than the listed 2014 ECU CV). Author names are initials as written in CV. 'Manuscripts in preparation' other than the R&R (no drafts) skipped. Year of to-appear/conditionally accepted items set to 2026 (CV date).",
+ "papers": [
+  {
+   "title": "Why Service Quality Alone Doesn't Open the Tap on Rate Hikes: Assessing the Determinants of Willingness to Pay for Drinking Water Infras- tructure",
+   "authors": [
+    "A.R. El-Khattabi",
+    "A. Theising",
+    "K. Golson",
+    "A. Yates"
+   ],
+   "year": 2026,
+   "venue": "Water Economics and Policy",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Regularization from Economic Constraints: A New Estimator for Marginal Emissions",
+   "authors": [
+    "S. Holland",
+    "E. Mansur",
+    "V. Verdier",
+    "A. Yates"
+   ],
+   "year": 2026,
+   "venue": "Journal of Political Economy Microeconomics",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "On the Feasibility, Costs, and Benefits of an Imme- diate Phasedown of Coal for U.S. Electricity Generation",
+   "authors": [
+    "S. Holland",
+    "M. Kotchen",
+    "E. Mansur",
+    "A. Yates"
+   ],
+   "year": 2026,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Optimal subsidies for green hydrogen generation",
+   "authors": [
+    "H. Fell",
+    "S. Holland",
+    "A. Yates"
+   ],
+   "year": 2025,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Can Bitcoin Mining Increase Renewable Electricity Capacity?",
+   "authors": [
+    "A. Bruno",
+    "P. Weber",
+    "A. Yates"
+   ],
+   "year": 2023,
+   "venue": "Resource and Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "U.S. West Coast Droughts and Heat Waves Exacerbate Pollution Inequality and Can Undermine Emissions Control Policies",
+   "authors": [
+    "A. Zeighami",
+    "J. Kern",
+    "A. Yates",
+    "P. Weber",
+    "A. Bruno"
+   ],
+   "year": 2023,
+   "venue": "Nature Communications",
+   "status": "已发表",
+   "url": "https://doi.org/10.1038/s41467-023-37080-0",
+   "abstract": null
+  },
+  {
+   "title": "Why marginal CO2 emissions are not decreasing for U.S. electricity: Estimates and implications for climate policy",
+   "authors": [
+    "S. Holland",
+    "M. Kotchen",
+    "E. Mansur",
+    "A. Yates"
+   ],
+   "year": 2022,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Expected health effects of reduced air pollution from COVID-19 social distancing",
+   "authors": [
+    "S. Cicala",
+    "S. Holland",
+    "E. Mansur",
+    "N. Muller",
+    "A. Yates"
+   ],
+   "year": 2021,
+   "venue": "Atmosphere",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Heterogeneous responses to price: Evidence from residential water consumers",
+   "authors": [
+    "A. R. El-Khattabi",
+    "S. Eskaf",
+    "J. Isnard",
+    "L. Lin",
+    "B. McManus",
+    "A. Yates"
+   ],
+   "year": 2021,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The electric vehicle transition and the economics of banning gasoline vehicles",
+   "authors": [
+    "S. Holland",
+    "E. Mansur",
+    "A. Yates"
+   ],
+   "year": 2021,
+   "venue": "American Economic Journal: Economic Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Measuring the environmental benefits from trans- portation electrification: Urban electric buses",
+   "authors": [
+    "S. Holland",
+    "E. Mansur",
+    "N. Muller",
+    "A. Yates"
+   ],
+   "year": 2021,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Decompositions and policy consequences of an extraordinary decline in air pollution from electricity generation",
+   "authors": [
+    "S. Holland",
+    "E. Mansur",
+    "N. Muller",
+    "A. Yates"
+   ],
+   "year": 2020,
+   "venue": "American Economic Journal: Economic Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Integrating physical and financial approaches to manage environmental financial risk on the Great Lakes",
+   "authors": [
+    "E. Meyer",
+    "B. Foster",
+    "G. Characklis",
+    "C. Brown",
+    "A. Yates"
+   ],
+   "year": 2020,
+   "venue": "Water Resources Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Distributional effects of air pollution from electric vehicle adoption",
+   "authors": [
+    "S. Holland",
+    "E. Mansur",
+    "N. Muller",
+    "A. Yates"
+   ],
+   "year": 2019,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Understanding water utility at- titudes toward water transfers and risk: Pre-test results",
+   "authors": [
+    "Z. Mozenter",
+    "A. Yates",
+    "K. Schnier",
+    "J. Hughes",
+    "G. Characklis"
+   ],
+   "year": 2018,
+   "venue": "Journal of Water Resources Planning and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Optimal regulation of pollution with stochastic exposure, acute damages, and chronic damages",
+   "authors": [
+    "D. Bielen",
+    "A. Yates"
+   ],
+   "year": 2017,
+   "venue": "Journal of Cleaner Production",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Are there environmental benefits from driving electric vehicles? The importance of local factors",
+   "authors": [
+    "S. Holland",
+    "E. Mansur",
+    "N. Muller",
+    "A. Yates"
+   ],
+   "year": 2016,
+   "venue": "American Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Damages and expected deaths due to excess NOx emissions from 2009-2015 Volkswagen diesel vehicles",
+   "authors": [
+    "S. Holland",
+    "E. Mansur",
+    "N. Muller",
+    "A. Yates"
+   ],
+   "year": 2016,
+   "venue": "Environmental Science and Technology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Optimal trading ratios for pollution permit markets",
+   "authors": [
+    "S. Holland",
+    "A. Yates"
+   ],
+   "year": 2015,
+   "venue": "Journal of Public Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Terminating links between emission trading programs",
+   "authors": [
+    "W. Pizer",
+    "A. Yates"
+   ],
+   "year": 2015,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Optimizing the scale of markets for water quality trading",
+   "authors": [
+    "M. Doyle",
+    "L. Patterson",
+    "Y. Chen",
+    "K. Schnier",
+    "A. Yates"
+   ],
+   "year": 2014,
+   "venue": "Water Resources Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Bilateral oligopoly in pollution permit markets: exper- imental evidence",
+   "authors": [
+    "K. Schnier",
+    "M. Doyle",
+    "J. Rigby",
+    "A. Yates"
+   ],
+   "year": 2014,
+   "venue": "Economic Inquiry",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Optimal advanced credit releases in ecosystem service markets",
+   "authors": [
+    "T. BenDor",
+    "T. Guo",
+    "A. Yates"
+   ],
+   "year": 2014,
+   "venue": "Environmental Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Market power, private information, and the optimal scale in pollution permit markets with application to North Carolina's Neuse River",
+   "authors": [
+    "A. Yates",
+    "M. Doyle",
+    "J. Rigby",
+    "K. Schnier"
+   ],
+   "year": 2013,
+   "venue": "Resource and Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Best-of-three Contest Experiments: Strategic versus Psycho- logical Momentum",
+   "authors": [
+    "S. Datta",
+    "R. Shreremeta",
+    "A. Yates"
+   ],
+   "year": 2013,
+   "venue": "International Journal of Industrial Organization",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "On a Fundamental Advantage of Permits over Taxes for the Control of Pollution",
+   "authors": [
+    "A. Yates"
+   ],
+   "year": 2012,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Winner-pay Contests",
+   "authors": [
+    "A. Yates"
+   ],
+   "year": 2011,
+   "venue": "Public Choice",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Ecosystem Service Markets Under No-Net-Loss Regulation",
+   "authors": [
+    "M. Doyle",
+    "A. Yates"
+   ],
+   "year": 2010,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Testing Contest Theory: Evidence from Best-of-three Tennis Matches",
+   "authors": [
+    "D. Malueg",
+    "A. Yates"
+   ],
+   "year": 2010,
+   "venue": "Review of Economics and Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Bilateral Oligopoly, Private Information, and Pollution Permit Markets",
+   "authors": [
+    "D. Malueg",
+    "A. Yates"
+   ],
+   "year": 2009,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Strategic Behavior and Private Information in the EU Permit Trading System'",
+   "authors": [
+    "D. Malueg",
+    "A. Yates"
+   ],
+   "year": 2009,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Senate Elections with Independent Candidates",
+   "authors": [
+    "J. Heckelman",
+    "A. Yates"
+   ],
+   "year": 2008,
+   "venue": "Journal of Theoretical Politics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Crime on the Court: A Correction",
+   "authors": [
+    "K. Hutchinson",
+    "A. Yates"
+   ],
+   "year": 2007,
+   "venue": "Journal of Political Economy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Citizens' Demand for Permits and Kwerel's Incentive Compatible Mechanism for Pollution Control",
+   "authors": [
+    "D. English",
+    "A. Yates"
+   ],
+   "year": 2007,
+   "venue": "Economics Bulletin",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Equilibria in Rent-Seeking Contests with Homogeneous Probability Func- tions",
+   "authors": [
+    "D. Malueg",
+    "A. Yates"
+   ],
+   "year": 2006,
+   "venue": "Economic Theory",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Citizen Participation in Pollution Permit Markets",
+   "authors": [
+    "D. Malueg",
+    "A. Yates"
+   ],
+   "year": 2006,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Comparative Statics in Two-Player Contests",
+   "authors": [
+    "D. Malueg",
+    "A. Yates"
+   ],
+   "year": 2005,
+   "venue": "European Journal of Political Economy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Rent Seeking with Private Values",
+   "authors": [
+    "D. Malueg",
+    "A. Yates"
+   ],
+   "year": 2004,
+   "venue": "Public Choice",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Optimal Pollution Permit Endowments in Markets with Endogenous Emis- sions",
+   "authors": [
+    "S. Smith",
+    "A. Yates"
+   ],
+   "year": 2003,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "And a Hockey Game a Broke Out: Crime and Punishment in the NHL",
+   "authors": [
+    "J. Heckelman",
+    "A. Yates"
+   ],
+   "year": 2003,
+   "venue": "Economic Inquiry",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Should Consumers be Priced Out of Pollution Permit Markets?",
+   "authors": [
+    "S. Smith",
+    "A. Yates"
+   ],
+   "year": 2003,
+   "venue": "Journal of Economic Education",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Risk Taking in Decision Making for Others versus the Self",
+   "authors": [
+    "E. Stone",
+    "A. Yates",
+    "A. Caruthers"
+   ],
+   "year": 2002,
+   "venue": "Journal of Applied Social Psychology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Decentralization in Pollution Permit Markets",
+   "authors": [
+    "A. Yates"
+   ],
+   "year": 2002,
+   "venue": "Journal of Public Economic Theory",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Incumbency Preservation through Electoral Legislation: The Case of the Secret Ballot",
+   "authors": [
+    "J. Heckelman",
+    "A. Yates"
+   ],
+   "year": 2002,
+   "venue": "Economics of Governance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Rent Setting in Multiple Winner Rent Seeking Contests",
+   "authors": [
+    "A. Yates",
+    "J. Heckelman"
+   ],
+   "year": 2001,
+   "venue": "European Journal of Political Economy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Pollution Permit Markets with Intertemporal Trading and Asymetrical Information",
+   "authors": [
+    "A. Yates",
+    "M. Cronshaw"
+   ],
+   "year": 2001,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "On the Separation of Risk Assessment and Risk Management",
+   "authors": [
+    "A. Yates"
+   ],
+   "year": 2001,
+   "venue": "Journal of Environmental Planning and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Knowledge Problem, Entrepreneurial Discovery, and Austrian Market Process Theory",
+   "authors": [
+    "A. Yates"
+   ],
+   "year": 2000,
+   "venue": "Journal of Economic Theory",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Media Coverage and EPA Pesticide Decisions",
+   "authors": [
+    "A. Yates",
+    "R. Stroup"
+   ],
+   "year": 2000,
+   "venue": "Public Choice",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Optimality and Lindahl Equilibrium",
+   "authors": [
+    "A. Yates"
+   ],
+   "year": 1999,
+   "venue": "Journal of Economic Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Polygyny and African Couple Research",
+   "authors": [
+    "I. Speizer",
+    "A. Yates"
+   ],
+   "year": 1998,
+   "venue": "Population Research and Policy Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Equal Marginal Value Principle: A Graphical Analysis with Environmental Applica- tions",
+   "authors": [
+    "A. Yates"
+   ],
+   "year": 1998,
+   "venue": "Journal of Economic Education",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Efficiency Hierarchy for Constrained Economies",
+   "authors": [
+    "A. Yates",
+    "D. Luenberger"
+   ],
+   "year": 1997,
+   "venue": "Public Finance / Finances Publiques",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Hotelling and the New York Stock Exchange",
+   "authors": [
+    "A. Yates"
+   ],
+   "year": 1997,
+   "venue": "Economics Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Unobserved Relation Regressions Model with an Application to Used Truck Prices",
+   "authors": [
+    "A. Yates"
+   ],
+   "year": 1997,
+   "venue": "Southern Economic Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Sufficiency Result for Constrained Economies",
+   "authors": [
+    "A. Yates"
+   ],
+   "year": 1997,
+   "venue": "Journal of Mathematical Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Electrification in the Long Run",
+   "authors": [
+    "S. Holland",
+    "E. Mansur",
+    "A. Yates"
+   ],
+   "year": 2026,
+   "venue": "Review of Economic Studies",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

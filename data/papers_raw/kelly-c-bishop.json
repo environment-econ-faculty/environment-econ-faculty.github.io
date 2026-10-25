@@ -1,0 +1,205 @@
+{
+ "slug": "kelly-c-bishop",
+ "name": "Kelly C. Bishop",
+ "sources": [
+  "https://www.kellycbishop.com/CV_bishop.pdf"
+ ],
+ "collected": "2026-10-25",
+ "notes": "From CV updated Fall 2025. Skipped JME comment and work-in-progress items. Working-paper years = CV date (2025); first WP is an in-preparation Handbook chapter. No abstracts.",
+ "papers": [
+  {
+   "title": "Tax Policy and the Heterogeneous Costs of Homeownership",
+   "authors": [
+    "Kelly C. Bishop",
+    "Jakob Dowling",
+    "Nick Kuminoff",
+    "Alvin Murphy"
+   ],
+   "year": 2025,
+   "venue": "Journal of Urban Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Energy-Efficient Investments in Housing",
+   "authors": [
+    "Kelly C. Bishop",
+    "Ozgen Kiribrahim-Sarikaya"
+   ],
+   "year": 2024,
+   "venue": "Regional Science and Urban Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Marginal Cost of Mortality Risk Reduction: Evidence from Housing Markets",
+   "authors": [
+    "Kelly C. Bishop",
+    "Nick Kuminoff",
+    "Sophie Mathes",
+    "Alvin Murphy"
+   ],
+   "year": 2024,
+   "venue": "Journal of Urban Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Hazed and Confused: The Effect of Air Pollution on Dementia",
+   "authors": [
+    "Kelly C. Bishop",
+    "Jonathan Ketcham",
+    "Nick Kuminoff"
+   ],
+   "year": 2023,
+   "venue": "The Review of Economic Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Analyzing Individual-Level Secondary Data with Causal Inference Methods is Necessary and Useful for Studying the Effects of Air Pollution on Dementia",
+   "authors": [
+    "Kelly C. Bishop",
+    "Sehba Husain-Krautter",
+    "Jonathan Ketcham",
+    "Nick Kuminoff",
+    "Corbett Schimming"
+   ],
+   "year": 2021,
+   "venue": "Journal of Alzheimer's Disease",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Best Practices in Using Hedonic Property Value Models for Welfare Measurement",
+   "authors": [
+    "Kelly C. Bishop",
+    "Nick Kuminoff",
+    "Kathrine von Graevenitz",
+    "Spencer Banzhaf",
+    "Kevin Boyle",
+    "Jaren Pope",
+    "V. Kerry Smith",
+    "Christopher Timmins"
+   ],
+   "year": 2020,
+   "venue": "Review of Environmental Economics and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Valuing Time-Varying Attributes using the Hedonic Model: When is a Dynamic Approach Necessary?",
+   "authors": [
+    "Kelly C. Bishop",
+    "Alvin Murphy"
+   ],
+   "year": 2019,
+   "venue": "Review of Economics and Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Estimating the Marginal Willingness to Pay Function without Instrumental Variables",
+   "authors": [
+    "Kelly C. Bishop",
+    "Christopher Timmins"
+   ],
+   "year": 2019,
+   "venue": "Journal of Urban Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Using Panel Data to Easily Estimate Hedonic Demand Functions",
+   "authors": [
+    "Kelly C. Bishop",
+    "Christopher Timmins"
+   ],
+   "year": 2018,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Estimating the Willingness-to-Pay to Avoid Violent Crime: A Dynamic Approach",
+   "authors": [
+    "Kelly C. Bishop",
+    "Alvin Murphy"
+   ],
+   "year": 2011,
+   "venue": "American Economic Review: Papers and Proceedings",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Single Women's Labor Supply Elasticities: Trends and Policy Implications",
+   "authors": [
+    "Kelly C. Bishop",
+    "Bradley Heim",
+    "Kata Mihaly"
+   ],
+   "year": 2009,
+   "venue": "Industrial and Labor Relations Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Dynamic Behavior in Hedonic and Sorting Models",
+   "authors": [
+    "Kelly C. Bishop",
+    "Lala Ma"
+   ],
+   "year": 2025,
+   "venue": "Handbook of Environmental Valuation (invited chapter)",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Effect of Paying Parents to Adopt: Evidence from Minnesota's Foster-Care System",
+   "authors": [
+    "Kelly C. Bishop",
+    "Diana MacDonald"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Neighborhood Change and the Value of Urban Amenities: Incorporating Dynamic Behavior into the Hedonic Model",
+   "authors": [
+    "Kelly C. Bishop",
+    "Alvin Murphy"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Dynamic Model of Location Choice and Hedonic Valuation",
+   "authors": [
+    "Kelly C. Bishop"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

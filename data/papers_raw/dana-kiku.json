@@ -1,0 +1,177 @@
+{
+ "slug": "dana-kiku",
+ "name": "Dana Kiku",
+ "sources": [
+  "https://giesbusiness.illinois.edu/profile/dana-kiku"
+ ],
+ "collected": "2026-10-25",
+ "notes": "Only the Gies faculty profile was available (no homepage/CV). Profile lists coauthors without Kiku; Kiku placed first and coauthors in profile order, so byline order is unverified. Full first names of coauthors filled from general knowledge of well-known coauthors; verify. Working papers have no year: 2026 used (collection date). Mostly finance; two climate-risk working papers.",
+ "papers": [
+  {
+   "title": "A Quantitative Model of Dynamic Moral Hazard",
+   "authors": [
+    "Dana Kiku",
+    "Hengjie Ai",
+    "Rui Li"
+   ],
+   "year": 2023,
+   "venue": "Review of Financial Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Unified Model of Firm Dynamics with Limited Commitment and Assortative Matching",
+   "authors": [
+    "Dana Kiku",
+    "Hengjie Ai",
+    "Rui Li",
+    "Jincheng Tong"
+   ],
+   "year": 2021,
+   "venue": "Journal of Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Volatility Risks and Growth Options",
+   "authors": [
+    "Dana Kiku",
+    "Hengjie Ai"
+   ],
+   "year": 2016,
+   "venue": "Management Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Risks for the Long Run: Estimation with Time Aggregation",
+   "authors": [
+    "Dana Kiku",
+    "Ravi Bansal",
+    "Amir Yaron"
+   ],
+   "year": 2016,
+   "venue": "Journal of Monetary Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Volatility, the Macroeconomy and Asset Prices",
+   "authors": [
+    "Dana Kiku",
+    "Ravi Bansal",
+    "Ivan Shaliastovich",
+    "Amir Yaron"
+   ],
+   "year": 2014,
+   "venue": "Journal of Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Growth to Value: Option Exercise and the Cross-Section of Equity Returns",
+   "authors": [
+    "Dana Kiku",
+    "Hengjie Ai"
+   ],
+   "year": 2013,
+   "venue": "Journal of Financial Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Empirical Evaluation of the Long-Run Risks Model for Asset Prices",
+   "authors": [
+    "Dana Kiku",
+    "Ravi Bansal",
+    "Amir Yaron"
+   ],
+   "year": 2012,
+   "venue": "Critical Finance Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Cointegration and Long-Run Asset Allocation",
+   "authors": [
+    "Dana Kiku",
+    "Ravi Bansal"
+   ],
+   "year": 2011,
+   "venue": "Journal of Business and Economic Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Cointegration and Consumption Risks in Asset Returns",
+   "authors": [
+    "Dana Kiku",
+    "Ravi Bansal",
+    "Robert Dittmar"
+   ],
+   "year": 2009,
+   "venue": "Review of Financial Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Market Entry and Risk Dynamics",
+   "authors": [
+    "Dana Kiku",
+    "Ravi Bansal",
+    "Mark Miller"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Climate Change Risk",
+   "authors": [
+    "Dana Kiku",
+    "Ravi Bansal",
+    "Marcelo Ochoa"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Climate Change and Growth Risks",
+   "authors": [
+    "Dana Kiku",
+    "Ravi Bansal",
+    "Marcelo Ochoa"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Is the Value Premium a Puzzle",
+   "authors": [
+    "Dana Kiku"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

@@ -1,0 +1,897 @@
+{
+ "slug": "gregory-colson",
+ "name": "Gregory Colson",
+ "sources": [
+  "https://agecon.uga.edu/content/dam/caes-subsite/ag-econ/documents/cvs/Greg%20Colson%20CV%202025%20(July).pdf"
+ ],
+ "collected": "2026-10-25",
+ "notes": "Source: CV dated July 2025 (no homepage). Journal articles, 5 working papers (2 R&R) and 2 book chapters; extension bulletins/blog skipped; the 2011 AJAE discussion piece skipped. Working paper authors listed in CV byline order; working-paper year = CV date (2025) since none given. Author names are as written (initials) in CV; student asterisks removed. Hopson 2025 ES&T page range as printed in CV.",
+ "papers": [
+  {
+   "title": "Impact of Terminology and Water Restrictions on Consumer Willingness to Pay for Potable Recycled Water in the U.S.",
+   "authors": [
+    "M. Hopson",
+    "J. Mullen",
+    "G. Colson",
+    "L. Fowler"
+   ],
+   "year": 2025,
+   "venue": "Environmental Science & Technology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Real Options Adoption with Poisson Price, Quantity, and Policy Uncertainty Jumps",
+   "authors": [
+    "C. Zhao",
+    "G. Colson",
+    "H. Wetzstein",
+    "M. Wetzstein"
+   ],
+   "year": 2023,
+   "venue": "Theoretical Economics Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Monetary Compensation for Changing Forest Management Practices to Increase Water Availability in Georgia, United States",
+   "authors": [
+    "R. Bawa",
+    "G. Colson",
+    "P. Dwivedi"
+   ],
+   "year": 2023,
+   "venue": "Environmental Research Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How to Assess? Student Preferences for Methods to Assess Experiential Learning: A Best-Worst Scaling Approach",
+   "authors": [
+    "G. Melo",
+    "D. Monteza",
+    "G. Colson",
+    "Y.Y. Zhang"
+   ],
+   "year": 2022,
+   "venue": "PLOS ONE",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Tort Tradeoffs in Cases of Pesticide Drift: A Legal and Economics Analysis",
+   "authors": [
+    "N. Brown",
+    "G. Colson",
+    "M. Roessing"
+   ],
+   "year": 2022,
+   "venue": "PLOS ONE",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Replacing Coal in Georgia’s Power Plants with Woody Biomass to Increase Carbon Benefit: A Mixed Integer Linear Programming Model",
+   "authors": [
+    "MFH. Masum",
+    "W. Wang",
+    "G. Colson",
+    "P. Dwivedi"
+   ],
+   "year": 2022,
+   "venue": "Journal of Environmental Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Drop-in Ready Jet Biofuels from Carinata: A Real Options Analysis of Processing Plant Investments",
+   "authors": [
+    "C. Zhao",
+    "G. Colson",
+    "B. Karali",
+    "G.P. Philippidis"
+   ],
+   "year": 2021,
+   "venue": "GCB Bioenergy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Does Point-of-Sale Nutrition Information Improve the Nutritional Quality of Food Choices?",
+   "authors": [
+    "G. Melo",
+    "C. Zhen",
+    "G. Colson"
+   ],
+   "year": 2019,
+   "venue": "Economics and Human Biology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do Forest Property Characteristics Reveal Landowners’ Willingness to Accept Payments for Ecosystem Services in Southeast Georgia, U.S.?",
+   "authors": [
+    "M.J. Kang",
+    "J.P. Siry",
+    "G. Colson",
+    "S. Ferreira"
+   ],
+   "year": 2019,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Understanding PES from the Ground Up: A Combined Choice Experiment and Interview Approach to Understanding PES in Costa Rica",
+   "authors": [
+    "K.E. Allen",
+    "G. Colson"
+   ],
+   "year": 2019,
+   "venue": "Sustainability Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Risk Attitudes and Conservation Decisions: A Case Study of Family Forest Owners in Georgia",
+   "authors": [
+    "M.J. Kang",
+    "J.P. Siry",
+    "G. Colson",
+    "S. Ferreira"
+   ],
+   "year": 2019,
+   "venue": "Forest Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Biodiesel Investment in a Disruptive Tax-Credit Policy Environment",
+   "authors": [
+    "S. Liu",
+    "G. Colson",
+    "M.E. Wetzstein"
+   ],
+   "year": 2018,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Estimation of Crop Yield and Insurance Premiums Using a Shrinkage Estimator",
+   "authors": [
+    "S.N. Awondo",
+    "O.A. Ramirez",
+    "G.S. Datta",
+    "G. Colson",
+    "E.G. Fonsah"
+   ],
+   "year": 2018,
+   "venue": "North American Actuarial Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Toward an optimal U.S. Household Solar Subsidy: A Social-technical Approach",
+   "authors": [
+    "S. Liu",
+    "G. Colson",
+    "N. Hao",
+    "M.E. Wetzstein"
+   ],
+   "year": 2018,
+   "venue": "Energy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Linkage between the U.S. Ethanol Market and Developing Countries’ Maize Prices: A Panel SVAR Analysis",
+   "authors": [
+    "N. Hao",
+    "P. Pedroni",
+    "G. Colson",
+    "M.E. Wetzstein"
+   ],
+   "year": 2017,
+   "venue": "Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Evaluation of Starter Dietary Digestible Lysine Level on Broilers Raised under a Sex Separated or Straight-run Housing Regime Part 2: Economics of Sex Separation and Digestible Lysine Level for Maximum Returns",
+   "authors": [
+    "M.J. Costa",
+    "G. Colson",
+    "T.J. Frost",
+    "J. Halley",
+    "G.M. Pesti"
+   ],
+   "year": 2017,
+   "venue": "Poultry Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do Non-Renewable Energy Prices Affect Renewable Energy Volatility? The Case of Wood Pellets",
+   "authors": [
+    "H. Xian",
+    "G. Colson",
+    "B. Karali",
+    "M.E. Wetzstein"
+   ],
+   "year": 2017,
+   "venue": "Journal of Forest Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Straight-run vs. Sex Separate Rearing for Two Broiler Genetic Lines Part 2: Economic Analysis and Processing Advantages",
+   "authors": [
+    "M.J. Costa",
+    "G. Colson",
+    "T.J. Frost",
+    "J. Halley",
+    "G.M. Pesti"
+   ],
+   "year": 2017,
+   "venue": "Poultry Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Preferences for Policy Attributes and Willingness to Pay for Water Quality Improvements under Uncertainty",
+   "authors": [
+    "J.D. Mullen",
+    "K. Calhoun",
+    "G. Colson"
+   ],
+   "year": 2017,
+   "venue": "Water Resources Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "German and British Consumer Willingness to Pay for Beef Labeled with Food Safety Attributes",
+   "authors": [
+    "K. Lewis",
+    "C. Grebitus",
+    "G. Colson",
+    "W. Hu"
+   ],
+   "year": 2017,
+   "venue": "Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Relationship between Children’s BMI and Parents’ Preferences for Kids’ Yogurts with and without Front of Package Health Signals",
+   "authors": [
+    "G. Colson",
+    "C. Grebitus"
+   ],
+   "year": 2017,
+   "venue": "Agribusiness",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Self-Protection from Weather Risk using Improved Maize Varieties or Off-Farm Income and the Propensity for Insurance",
+   "authors": [
+    "S.N. Awondo",
+    "O.A. Ramirez",
+    "G. Colson",
+    "E.G. Fonsah",
+    "G. Kostandini"
+   ],
+   "year": 2017,
+   "venue": "Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Risk Preference and Adverse Selection for Participation in Time-of-use Electricity Pricing Programs",
+   "authors": [
+    "Y. Qiu",
+    "G. Colson",
+    "M.E. Wetzstein"
+   ],
+   "year": 2017,
+   "venue": "Resource and Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Explaining the Use of Attribute Cut-Off Values in Decision Making by Means of Involvement",
+   "authors": [
+    "A.O. Peschel",
+    "C. Grebitus",
+    "G. Colson",
+    "W. Hu"
+   ],
+   "year": 2016,
+   "venue": "Journal of Behavioral and Experimental Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Measuring and Tracking Obesity Inequality in the United States",
+   "authors": [
+    "T-Y. Pak",
+    "S. Ferreira",
+    "G. Colson"
+   ],
+   "year": 2016,
+   "venue": "Population Health Metrics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Effects of Benefit Timing and Income Fungibility on Food Purchasing Decisions among SNAP Households",
+   "authors": [
+    "T.A. Smith",
+    "J.P. Berning",
+    "X. Yang",
+    "G. Colson",
+    "J.H. Dorfman"
+   ],
+   "year": 2016,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Which Deceptive Practices, If Any, Should be Allowed in Experimental Economics Research? Results from Surveys of Applied Experimental Economists and Students",
+   "authors": [
+    "G. Colson",
+    "J.R. Corrigan",
+    "C. Grebitus",
+    "M. Loureiro",
+    "M.C. Rousu"
+   ],
+   "year": 2016,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Summer Garden Programs Improve Children’s Food Knowledge and Preferences: Evidence Using Stated and Revealed Preference Measures",
+   "authors": [
+    "J. Brown",
+    "G. Colson",
+    "C.B. de La Serre",
+    "N. Magnan"
+   ],
+   "year": 2016,
+   "venue": "HortTechnology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Comparison of Hypothetical Risk Attitude Elicitation Instruments for Explaining Farmer Crop Insurance Purchases",
+   "authors": [
+    "L. Menapace",
+    "G. Colson",
+    "R. Raffaelli"
+   ],
+   "year": 2016,
+   "venue": "European Review of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Survey Evidence on Legal and Illegal Hispanic Immigrants’ Perceptions of Living and Working in US Agriculture",
+   "authors": [
+    "G. Colson",
+    "G. Melo",
+    "O.A. Ramirez"
+   ],
+   "year": 2015,
+   "venue": "AgBioForum",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Consumer Attitudes Toward the Use of Gene Technology in Breakfast Products: Comparison between College Students from the U.S. and China",
+   "authors": [
+    "N. Wang",
+    "J.E. Houston",
+    "G. Colson",
+    "Z. Liu"
+   ],
+   "year": 2015,
+   "venue": "Journal of Food Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Diesel or Compressed Natural Gas? A Real Options Evaluation of the U.S. Natural Gas Boom on Fuel Choice for Trucking Fleets",
+   "authors": [
+    "H. Xian",
+    "B. Karali",
+    "G. Colson",
+    "M.E. Wetzstein"
+   ],
+   "year": 2015,
+   "venue": "Energy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do Monetary Incentives Matter in Classroom Experiments? Effects on Course Performance",
+   "authors": [
+    "M.C. Rousu",
+    "J.R. Corrigan",
+    "D. Harris",
+    "J.K. Hayter",
+    "S. Houser",
+    "B.A. LaFrancois",
+    "O. Onafowora",
+    "G. Colson",
+    "A. Hoffer"
+   ],
+   "year": 2015,
+   "venue": "The Journal of Economic Education",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Climate Change Beliefs and Perceptions of Agricultural Risks: An Application of the Exchangeability Method",
+   "authors": [
+    "L. Menapace",
+    "G. Colson",
+    "R. Raffaelli"
+   ],
+   "year": 2015,
+   "venue": "Global Environmental Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Deception in Experiments: Towards Guidelines on Use in Applied Economics Research",
+   "authors": [
+    "M.C. Rousu",
+    "G. Colson",
+    "J.R. Corrigan",
+    "C. Grebitus",
+    "M. Loureiro"
+   ],
+   "year": 2015,
+   "venue": "Applied Economic Perspectives & Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Drought, Ethanol, and Livestock",
+   "authors": [
+    "N. Hao",
+    "G. Colson",
+    "B. Seong",
+    "C. Park",
+    "M.E. Wetzstein"
+   ],
+   "year": 2015,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Co-Firing Coal with Wood Pellets for U.S. Electricity Generation: A Real Options Analysis",
+   "authors": [
+    "H. Xian",
+    "G. Colson",
+    "B. Mei",
+    "M.E. Wetzstein"
+   ],
+   "year": 2015,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "State of the Science and Challenges of Breeding Landscape Plants with Ecological Function",
+   "authors": [
+    "H. Wilde",
+    "K. Gandhi",
+    "G. Colson"
+   ],
+   "year": 2015,
+   "venue": "Horticulture Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Hispanic American Opinions toward Immigration and Immigration Policy Reform Proposals",
+   "authors": [
+    "G. Melo",
+    "G. Colson",
+    "O.A. Ramirez"
+   ],
+   "year": 2014,
+   "venue": "Applied Economic Perspectives & Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Risk Preferences and Purchase of Energy-Efficient Technologies in the Residential Sector",
+   "authors": [
+    "Y. Qiu",
+    "G. Colson",
+    "C. Grebitus"
+   ],
+   "year": 2014,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Ethanol Blend Wall Shift is Prone to Increase Petroleum Gasoline Demand",
+   "authors": [
+    "C. Qiu",
+    "G. Colson",
+    "M.E. Wetzstein"
+   ],
+   "year": 2014,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Crop Insurance Savings Accounts: A Viable Alternative to Crop Insurance?",
+   "authors": [
+    "G. Colson",
+    "O.A. Ramirez",
+    "S. Fu"
+   ],
+   "year": 2014,
+   "venue": "Applied Economic Perspectives & Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Reducing Crude Protein Variability and Maximizing Savings when Formulating Corn-Soybean Meal Based Feeds",
+   "authors": [
+    "R.A. Alhotan",
+    "G.M. Pesti",
+    "G. Colson"
+   ],
+   "year": 2014,
+   "venue": "Journal of Applied Poultry Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Assigning Liability for Pesticide Spray Drift",
+   "authors": [
+    "T.J. Centner",
+    "G. Colson",
+    "A. Lawrence"
+   ],
+   "year": 2014,
+   "venue": "Land Use Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Green Roof Adoption in Atlanta, Georgia: The Effects of Building Characteristics and Subsidies on Net Private, Public, and Social Benefits",
+   "authors": [
+    "J.D. Mullen",
+    "M. Lamsal",
+    "G. Colson"
+   ],
+   "year": 2013,
+   "venue": "Environmental Science & Technology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A New Look at the Economic Evaluation of Wind Energy as an Alternative to Natural-Gas Powered Irrigation",
+   "authors": [
+    "D. Lima",
+    "G. Colson",
+    "B. Karali",
+    "B. Guerrero",
+    "S. Amosson",
+    "M.E. Wetzstein"
+   ],
+   "year": 2013,
+   "venue": "Journal of Agricultural and Applied Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Can we do Better than Crop Insurance? The Case for Farmer Owned Crop Insurance Savings Accounts",
+   "authors": [
+    "O.A. Ramirez",
+    "G. Colson"
+   ],
+   "year": 2013,
+   "venue": "Choices",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "What do Consumer Surveys and Experiments Reveal and Conceal about Consumer Preferences for Genetically Modified Foods?",
+   "authors": [
+    "G. Colson",
+    "M.C. Rousu"
+   ],
+   "year": 2013,
+   "venue": "GM Crops and Food: Biotechnology in Agriculture and the Food Chain",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Rationing Health Protection: A Proposal to Exempt Nuisance Dust from US Clean Air Act Regulations",
+   "authors": [
+    "T.J. Centner",
+    "G. Colson"
+   ],
+   "year": 2013,
+   "venue": "Journal of Environmental Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Risk Aversion, Subjective Beliefs, and Farmer Risk Management Strategies",
+   "authors": [
+    "L. Menapace",
+    "G. Colson",
+    "R. Raffaelli"
+   ],
+   "year": 2013,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Considering Macroeconomic Indicators in the Food before Fuel Nexus",
+   "authors": [
+    "C. Qiu",
+    "G. Colson",
+    "C. Escalante",
+    "M.E. Wetzstein"
+   ],
+   "year": 2012,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Optimal U.S. Biodiesel Fuel Subsidy",
+   "authors": [
+    "H. Wu",
+    "G. Colson",
+    "C. Escalante",
+    "M.E. Wetzstein"
+   ],
+   "year": 2012,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Comparison of Hypothetical Survey Rankings with Consumer Shopping Behavior",
+   "authors": [
+    "C. Grebitus",
+    "G. Colson",
+    "L. Menapace"
+   ],
+   "year": 2012,
+   "venue": "Journal of Agricultural and Applied Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Improving the Nutrient Content of Food through Genetic Modification: Evidence from Experimental Auctions on Consumer Acceptance",
+   "authors": [
+    "G. Colson",
+    "W.E. Huffman",
+    "M.C. Rousu"
+   ],
+   "year": 2011,
+   "venue": "Journal of Agricultural and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Consumers' Preferences for Geographical Origin Labels: Evidence from the Canadian Olive Oil Market",
+   "authors": [
+    "L. Menapace",
+    "G. Colson",
+    "C. Grebitus",
+    "M. Facendola"
+   ],
+   "year": 2011,
+   "venue": "European Review of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Consumers' Willingness to Pay for Genetically Modified Foods with Product-Enhancing Nutritional Attributes",
+   "authors": [
+    "G. Colson",
+    "W.E. Huffman"
+   ],
+   "year": 2011,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Impact of Perceived Prices on Willingness to Pay in Experimental Auctions",
+   "authors": [
+    "G. Colson",
+    "M. Rousu",
+    "J. Corrigan"
+   ],
+   "year": 2010,
+   "venue": "Journal of Agricultural & Food Industrial Organization",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Return of the Threshing Ring? A Case Study of Machinery and Labor Sharing in Midwestern Farms",
+   "authors": [
+    "G. Artz",
+    "G. Colson",
+    "R. Ginder"
+   ],
+   "year": 2010,
+   "venue": "Journal of Agricultural and Applied Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Marketing Contracts for an Unfamiliar Oilseed Crop under Aversion to Risk and Ambiguity: The Case of Carinata in the U.S.",
+   "authors": [
+    "G. Colson",
+    "E. Mensah"
+   ],
+   "year": 2025,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Typology of Riparian Forest Owners in Southeast Georgia, U.S.",
+   "authors": [
+    "G. Colson",
+    "M. Kang",
+    "S. Ferreira",
+    "J. Siry"
+   ],
+   "year": 2025,
+   "venue": "Journal of Forest Economics",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Price Transmission among Energy Products: Analysis of Renewable Wood Pellets",
+   "authors": [
+    "G. Colson",
+    "H. Xian",
+    "B. Karali",
+    "M.E. Wetzstein"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Insurance Demand over Varying Coverage Levels: Experimental Evidence from China",
+   "authors": [
+    "G. Colson",
+    "R. Huo",
+    "O.A. Ramirez",
+    "Y. Liu"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Can U.S. Agriculture Provide Agro-Pharms for Malaria Treatment?",
+   "authors": [
+    "G. Colson",
+    "C. Zhao",
+    "H. Wetzstein",
+    "M.E. Wetzstein"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Structured Empirical Analysis of Decisions under Natural Hazard Risk",
+   "authors": [
+    "C.E. Landry",
+    "G. Colson",
+    "M. Ahmadiani"
+   ],
+   "year": 2019,
+   "venue": "The Future of Risk Management (book chapter, University of Pennsylvania Press)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Post 2008 Food Before Fuel Crisis: Theory, Literature, and Policies",
+   "authors": [
+    "C. Qiu",
+    "G. Colson",
+    "M.E. Wetzstein"
+   ],
+   "year": 2011,
+   "venue": "Economic Effects of Biofuel Production (book chapter, IntechOpen)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

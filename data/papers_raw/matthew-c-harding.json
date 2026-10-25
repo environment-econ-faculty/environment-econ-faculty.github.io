@@ -1,0 +1,774 @@
+{
+ "slug": "matthew-c-harding",
+ "name": "Matthew Harding",
+ "sources": [
+  "https://cdn.prod.website-files.com/6806952e5561f2dea1e6a6f8/68bb49a3bc0d8f7407a43529_Harding%20CV%20Sept%202025.pdf",
+  "https://www.harding.ai/"
+ ],
+ "collected": "2026-10-25",
+ "notes": "Source: CV Sept 2025 (homepage harding.ai has no paper list). CV bylines are written as with X, Y so authors are listed alphabetically by surname (including Harding), except the Pachucki-Lovenheim-Harding paper and Carlin-Soskice-Harding chapters, whose order is explicit. Coauthors have initials only. Items 2 and 3 are listed as submitted (3 to Annals of Statistics) and treated as working papers with year 2025. Omitted: textbook, EPRI report, SIEPR policy paper, US Chamber essay, IZA World of Labor piece.",
+ "papers": [
+  {
+   "title": "Monetizing GenAI Personas in Marketing",
+   "authors": [
+    "Matthew Harding",
+    "B. Westrich"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Shrinkage Based Specification Test",
+   "authors": [
+    "Matthew Harding",
+    "C. Lamarche"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Joint Probability Estimation of Many Binary Outcomes via Localized Adversarial Lasso",
+   "authors": [
+    "A. Belloni",
+    "Y. Chen",
+    "Matthew Harding"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Combining Instrumental Variable Estimators for a Panel Model with Factors",
+   "authors": [
+    "Matthew Harding",
+    "C. Lamarche",
+    "C. Muris"
+   ],
+   "year": 2025,
+   "venue": "Journal of Business & Economic Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Using Grouped Data to Estimate Revenue Heterogeneity in Online Advertising Auctions",
+   "authors": [
+    "Matthew Harding"
+   ],
+   "year": 2023,
+   "venue": "AEA Papers and Proceedings",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Hybrid U-Net: Semantic segmentation of high-resolution satellite images to detect war destruction",
+   "authors": [
+    "N. Bagherzadeh",
+    "Matthew Harding",
+    "J. Hersh",
+    "S. Nabiee"
+   ],
+   "year": 2022,
+   "venue": "Machine Learning with Applications",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Predicting Mortality from Credit Reports",
+   "authors": [
+    "G. De Giorgi",
+    "Matthew Harding",
+    "G. Vasconcelos"
+   ],
+   "year": 2021,
+   "venue": "Financial Planning Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Common Correlated Effects Estimation of Heterogeneous Dynamic Panel Quantile Regression Models",
+   "authors": [
+    "Matthew Harding",
+    "C. Lamarche",
+    "H. Pesaran"
+   ],
+   "year": 2020,
+   "venue": "Journal of Applied Econometrics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Panel Quantile Approach to Attrition Bias in Big Data: Evidence from a Randomized Experiment",
+   "authors": [
+    "Matthew Harding",
+    "C. Lamarche"
+   ],
+   "year": 2019,
+   "venue": "Journal of Econometrics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Penalized Estimation of a Quantile Count Model for Panel Data",
+   "authors": [
+    "Matthew Harding",
+    "C. Lamarche"
+   ],
+   "year": 2019,
+   "venue": "Annals of Economics and Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Penalized Quantile Regression with Semiparametric Correlated Effects: An Application with Heterogeneous Preferences",
+   "authors": [
+    "Matthew Harding",
+    "C. Lamarche"
+   ],
+   "year": 2017,
+   "venue": "Journal of Applied Econometrics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Finite Sample Bias Corrections for IV Estimation with Weak and Many Instruments",
+   "authors": [
+    "Matthew Harding",
+    "J. Hausman",
+    "C. Palmer"
+   ],
+   "year": 2016,
+   "venue": "Advances in Econometrics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Scalable Bayesian Non-Negative Tensor Factorization for Massive Count Data",
+   "authors": [
+    "L. Carin",
+    "C. Chen",
+    "Matthew Harding",
+    "C. Hu",
+    "P. Rai"
+   ],
+   "year": 2015,
+   "venue": "Machine Learning and Knowledge Discovery in Databases",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Scalable Probabilistic Tensor Factorization for Binary and Count Data",
+   "authors": [
+    "L. Carin",
+    "Matthew Harding",
+    "C. Hu",
+    "P. Rai"
+   ],
+   "year": 2015,
+   "venue": "European Conference on Machine Learning (ECML)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Strong Limit of the Extreme Eigenvalues of a Symmetrized Auto-Cross Covariance Matrix",
+   "authors": [
+    "Z.D. Bai",
+    "Matthew Harding",
+    "B. Jin",
+    "K. Nair",
+    "C. Wang"
+   ],
+   "year": 2015,
+   "venue": "Annals of Applied Probability",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Bayesian Semi-Parametric Competing Risk Model with Unobserved Heterogeneity",
+   "authors": [
+    "M. Burda",
+    "Matthew Harding",
+    "J. Hausman"
+   ],
+   "year": 2014,
+   "venue": "Journal of Applied Econometrics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Limiting Spectral Distribution of a Symmetrized Auto-Cross Covariance Matrix",
+   "authors": [
+    "Z.D. Bai",
+    "Matthew Harding",
+    "B. Jin",
+    "K. Nair",
+    "C. Wang"
+   ],
+   "year": 2014,
+   "venue": "Annals of Applied Probability",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Estimating and Testing a Quantile Regression Model with Interactive Effects",
+   "authors": [
+    "Matthew Harding",
+    "C. Lamarche"
+   ],
+   "year": 2013,
+   "venue": "Journal of Econometrics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Panel Probit with Flexible Correlated Effects: Quantifying Technology Spillovers in the Presence of Latent Heterogeneity",
+   "authors": [
+    "M. Burda",
+    "Matthew Harding"
+   ],
+   "year": 2013,
+   "venue": "Journal of Applied Econometrics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Poisson Mixture Model of Discrete Choice",
+   "authors": [
+    "M. Burda",
+    "Matthew Harding",
+    "J. Hausman"
+   ],
+   "year": 2012,
+   "venue": "Journal of Econometrics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Quantile Regression Estimation of Panel Duration Models with Censored Data",
+   "authors": [
+    "Matthew Harding",
+    "C. Lamarche"
+   ],
+   "year": 2012,
+   "venue": "Advances in Econometrics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Least Squares Estimation of a Panel Data Model with Multifactor Error Structure and Endogenous Covariates",
+   "authors": [
+    "Matthew Harding",
+    "C. Lamarche"
+   ],
+   "year": 2011,
+   "venue": "Economics Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Quantile Regression for Time-Series-Cross-Section Data",
+   "authors": [
+    "M. Alexander",
+    "Matthew Harding",
+    "C. Lamarche"
+   ],
+   "year": 2011,
+   "venue": "International Journal of Statistics and Management Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Quantile Regression Approach for Estimating Panel Data Models Using Instrumental Variables",
+   "authors": [
+    "Matthew Harding",
+    "C. Lamarche"
+   ],
+   "year": 2009,
+   "venue": "Economics Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Bayesian Mixed Logit Probit Model for Multinomial Choice",
+   "authors": [
+    "M. Burda",
+    "Matthew Harding",
+    "J. Hausman"
+   ],
+   "year": 2008,
+   "venue": "Journal of Econometrics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Explaining the Single Factor Bias of Arbitrage Pricing Models in Finite Samples",
+   "authors": [
+    "Matthew Harding"
+   ],
+   "year": 2008,
+   "venue": "Economics Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Using a Laplace Approximation to Estimate the Random Coefficients Logit Model by Non-linear Least Squares",
+   "authors": [
+    "Matthew Harding",
+    "J. Hausman"
+   ],
+   "year": 2007,
+   "venue": "International Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do Behavioral Energy Efficiency Programs Also Reduce Peak Demand Use",
+   "authors": [
+    "Matthew Harding",
+    "B. Westrich"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Behavioral Demand Response without Monetary Incentives",
+   "authors": [
+    "Matthew Harding",
+    "B. Westrich"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The (Alleged) Environmental and Social Benefits of Dynamic Pricing",
+   "authors": [
+    "Matthew Harding",
+    "K. Kettler",
+    "C. Lamarche",
+    "L. Ma"
+   ],
+   "year": 2023,
+   "venue": "Journal of Economic Behavior and Organization",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Small Steps with Big Data: Using Machine Learning in Resource Economics",
+   "authors": [
+    "Matthew Harding",
+    "C. Lamarche"
+   ],
+   "year": 2020,
+   "venue": "Annual Review of Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Does Absolution Promote Sin? A Conservationist's Dilemma",
+   "authors": [
+    "Matthew Harding",
+    "D. Rapson"
+   ],
+   "year": 2019,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Household Response to Time-Varying Electricity Pricing",
+   "authors": [
+    "Matthew Harding",
+    "S. Sexton"
+   ],
+   "year": 2017,
+   "venue": "Annual Review of Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Empowering Consumers through Data and Smart Technology: Experimental Evidence on the Consequences of Time-of-Use Electricity Pricing Policies",
+   "authors": [
+    "Matthew Harding",
+    "C. Lamarche"
+   ],
+   "year": 2016,
+   "venue": "Journal of Policy Analysis and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Goal Setting and Energy Conservation",
+   "authors": [
+    "Matthew Harding",
+    "A. Hsiaw"
+   ],
+   "year": 2014,
+   "venue": "Journal of Economic Behavior and Organization",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Environmental Justice: Evidence from Superfund Cleanup Durations",
+   "authors": [
+    "M. Burda",
+    "Matthew Harding"
+   ],
+   "year": 2014,
+   "venue": "Journal of Economic Behavior and Organization",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Split Incentives in Residential Energy Consumption",
+   "authors": [
+    "K. Gillingham",
+    "Matthew Harding",
+    "D. Rapson"
+   ],
+   "year": 2012,
+   "venue": "Energy Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Emotional eating in adults: The role of sociodemographics, lifestyle behaviors, and self-regulation--findings from a US National Study",
+   "authors": [
+    "R. Elran Barak",
+    "J. Drope",
+    "B.M. Fennis",
+    "Matthew Harding",
+    "Q. Li",
+    "R. Oetjen",
+    "K. Shuval",
+    "A.L. Yaroch"
+   ],
+   "year": 2021,
+   "venue": "International Journal of Environmental Research and Public Health",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Heterogeneity in the Effects of Food Vouchers on Nutrition Among Low-Income Adults: A Quantile Regression Analysis",
+   "authors": [
+    "S. Basu",
+    "M. Carroll",
+    "C. Gardner",
+    "Matthew Harding",
+    "H. Seligman",
+    "G. Vasconcelos",
+    "J. White"
+   ],
+   "year": 2020,
+   "venue": "American Journal of Health Promotion",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Evaluating a USDA pilot program to incentivize the purchase of fresh produce among SNAP beneficiaries in supermarkets",
+   "authors": [
+    "B. Elbel",
+    "Matthew Harding",
+    "O. Hesterman",
+    "D. Noriega",
+    "A. Parret",
+    "P. Rummo"
+   ],
+   "year": 2019,
+   "venue": "Health Affairs",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Sales Impact of Featuring Healthy Foods, Indulgent Foods, or Both: Findings from a Large-Scale Retail Field Study",
+   "authors": [
+    "G. Fitzsimons",
+    "Matthew Harding",
+    "P. Liu"
+   ],
+   "year": 2018,
+   "venue": "Journal of the Association for Consumer Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The intergenerational transmission of obesity: The role of time preferences and self-control",
+   "authors": [
+    "J. Drope",
+    "Matthew Harding",
+    "M. Pachucki",
+    "K. Shuval",
+    "M. Stoklosa",
+    "R. Tchernis",
+    "A. Yaroch"
+   ],
+   "year": 2018,
+   "venue": "Economics and Human Biology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Effect of Prices on Nutrition: Comparing the Impact of Product- and Nutrient-Specific Taxes",
+   "authors": [
+    "Matthew Harding",
+    "M. Lovenheim"
+   ],
+   "year": 2017,
+   "venue": "Journal of Health Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "No Fat, No Sugar, No Salt... No Problem? Prevalence of Low-Content Nutrient Claims and Their Associations with the Nutritional Profile of Food and Beverage Purchases in the United States",
+   "authors": [
+    "E. Busey",
+    "Matthew Harding",
+    "S. Ng",
+    "L. Tailie",
+    "Y. Xue"
+   ],
+   "year": 2017,
+   "venue": "Journal of the Academy of Nutrition and Dietetics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Deal or no deal? The prevalence and nutritional quality of price promotions among US food and beverage purchases",
+   "authors": [
+    "Matthew Harding",
+    "S. Ng",
+    "L. Tailie",
+    "Y. Xue"
+   ],
+   "year": 2017,
+   "venue": "Appetite",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Does Breastfeeding Duration Decrease Childhood Obesity? An Instrumental Variables Analysis of Births in Oregon in 2009",
+   "authors": [
+    "M. Bartick",
+    "S. Basu",
+    "Matthew Harding",
+    "E. Rodriguez",
+    "J. White"
+   ],
+   "year": 2017,
+   "venue": "Pediatric Obesity",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Time Preferences and Physical Activity: Insights from Behavioral Economics",
+   "authors": [
+    "J. Drope",
+    "Matthew Harding",
+    "M. Pachucki",
+    "K. Shuval",
+    "M. Stoklosa",
+    "A. Yaroch"
+   ],
+   "year": 2017,
+   "venue": "Health Behavior and Policy Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic Preferences and Fast Food Consumption in US adults: Insights from Behavioral Economics",
+   "authors": [
+    "J. Drope",
+    "Matthew Harding",
+    "M. Pachucki",
+    "K. Shuval",
+    "M. Stoklosa",
+    "A. Yaroch"
+   ],
+   "year": 2016,
+   "venue": "Preventive Medicine",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Effect of Statutory Rape Laws on Teen Birth Rates",
+   "authors": [
+    "M. Frakes",
+    "Matthew Harding"
+   ],
+   "year": 2015,
+   "venue": "American Law and Economics Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Within-Family Obesity Associations: Evaluation of Parent, Child, and Sibling Relationships",
+   "authors": [
+    "M. Pachucki",
+    "M. Lovenheim",
+    "M. Harding"
+   ],
+   "year": 2014,
+   "venue": "American Journal of Preventive Medicine",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Heterogeneous Geographic and Socioeconomic Incidence of Cigarette Taxes: Evidence from Nielsen HomeScan Data",
+   "authors": [
+    "Matthew Harding",
+    "E. Leibtag",
+    "M. Lovenheim"
+   ],
+   "year": 2012,
+   "venue": "American Economic Journal: Economic Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Quantifying the Impact of Economic Crises on Infant Mortality in Advanced Economies",
+   "authors": [
+    "M. Alexander",
+    "Matthew Harding",
+    "C. Lamarche"
+   ],
+   "year": 2010,
+   "venue": "Applied Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Deterrent Effect of Expansions in Death-Penalty Eligibility Criteria",
+   "authors": [
+    "M. Frakes",
+    "Matthew Harding"
+   ],
+   "year": 2009,
+   "venue": "American Law and Economics Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Deep Autoencoder for Pattern Identification in High-Dimensional Consumer Purchase Data",
+   "authors": [
+    "Matthew Harding",
+    "A. Parret",
+    "Y. Xue"
+   ],
+   "year": 2018,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Improving Convergence in the Bayesian Mixed Logit Choice Model",
+   "authors": [
+    "Matthew Harding",
+    "J. Hausman",
+    "Y. Xue"
+   ],
+   "year": 2018,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Agreement beyond Polarization: Spectral Network Analysis of Congressional Roll Call Votes",
+   "authors": [
+    "Matthew Harding"
+   ],
+   "year": 2008,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Endogenous and Schumpeterian Growth (Chapter 14)",
+   "authors": [
+    "W. Carlin",
+    "D. Soskice",
+    "M. Harding"
+   ],
+   "year": 2006,
+   "venue": "Macroeconomics: Imperfections, Institutions and Policies (Oxford University Press)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Exogenous Growth Theory (Chapter 13)",
+   "authors": [
+    "W. Carlin",
+    "D. Soskice",
+    "M. Harding"
+   ],
+   "year": 2006,
+   "venue": "Macroeconomics: Imperfections, Institutions and Policies (Oxford University Press)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

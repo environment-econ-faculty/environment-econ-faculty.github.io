@@ -1,0 +1,508 @@
+{
+ "slug": "douglas-h-wrenn",
+ "name": "Douglas H. Wrenn",
+ "sources": [
+  "https://aese.psu.edu/directory/dhw121/@@download/cv_file"
+ ],
+ "collected": "2026-10-25",
+ "notes": "CV dated 04/28/2026. Student-coauthor asterisks removed. Brent et al. JAERE paper listed as 13(2) 2026 here (Brent's page says 12(2)). 'Conditionally accepted' items marked forthcoming. Skipped news items and 'Other' reports; kept book chapters.",
+ "papers": [
+  {
+   "title": "Wildfire Risk and Home Prices: The Case of California Building Codes",
+   "authors": [
+    "Douglas H. Wrenn"
+   ],
+   "year": 2026,
+   "venue": "Journal of Housing Economics",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Role of Flood Risk Characterization in Evaluating Property Market Impacts",
+   "authors": [
+    "Julian Plough",
+    "Sheila Olmstead",
+    "Douglas H. Wrenn"
+   ],
+   "year": 2026,
+   "venue": "Land Economics",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Peer Effects in Voluntary Environmental Programs: An Application to Urban Water Quality",
+   "authors": [
+    "Daniel A. Brent",
+    "Douglas H. Wrenn",
+    "Gabriel R. Lara",
+    "Joseph H. Cook"
+   ],
+   "year": 2026,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "https://doi.org/10.1086/739114",
+   "abstract": null
+  },
+  {
+   "title": "The Effect of Urban Climate Shifts on Land Values in the Chesapeake Bay Area",
+   "authors": [
+    "Junyi Hua",
+    "H. Allen Klaiber",
+    "Douglas H. Wrenn"
+   ],
+   "year": 2026,
+   "venue": "Journal of Environmental Quality",
+   "status": "已发表",
+   "url": "https://doi.org/10.1002/jeq2.70125",
+   "abstract": null
+  },
+  {
+   "title": "Do Households Adapt? Repeated Hurricane Exposure and the Stockpiling of Essential Goods",
+   "authors": [
+    "Edouard Mensah",
+    "Douglas H. Wrenn",
+    "Edward C. Jaenicke"
+   ],
+   "year": 2026,
+   "venue": "Journal of Agricultural and Applied Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1017/aae.2025.10025",
+   "abstract": null
+  },
+  {
+   "title": "Urbanizing Agriculture, Additionality, and the Adoption of Agricultural Conservation Practices",
+   "authors": [
+    "Junyi Hua",
+    "H. Allen Klaiber",
+    "Douglas H. Wrenn"
+   ],
+   "year": 2025,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.3368/le.101.2.082624-0074",
+   "abstract": null
+  },
+  {
+   "title": "Impacts of Water-Related Building Moratoria on California's Housing Crisis",
+   "authors": [
+    "Mingzhou Shen",
+    "Karen Fisher-Vanden",
+    "Douglas H. Wrenn"
+   ],
+   "year": 2025,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.3368/le.101.1.112023-0122R",
+   "abstract": null
+  },
+  {
+   "title": "Pandemic-Induced Changes in Household-Level Food Diversity and Dietary Healthfulness in the U.S.",
+   "authors": [
+    "Daniel Simandjuntak",
+    "Edward C. Jaenicke",
+    "Douglas H. Wrenn"
+   ],
+   "year": 2024,
+   "venue": "PLOS ONE",
+   "status": "已发表",
+   "url": "https://doi.org/10.1371/journal.pone.0300839",
+   "abstract": null
+  },
+  {
+   "title": "The Effect of Natural Disasters and Extreme Weather on Household Location Choice and Economic Welfare",
+   "authors": [
+    "Douglas H. Wrenn"
+   ],
+   "year": 2024,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "https://doi.org/10.1086/728887",
+   "abstract": null
+  },
+  {
+   "title": "The Distributional Impact of FEMA's Community Rating System",
+   "authors": [
+    "Daniel A. Brent",
+    "Yongwang Ren",
+    "Douglas H. Wrenn"
+   ],
+   "year": 2024,
+   "venue": "Agricultural and Resource Economics Review",
+   "status": "已发表",
+   "url": "https://doi.org/10.1017/age.2023.37",
+   "abstract": null
+  },
+  {
+   "title": "Potential Benefits of Remapping the Special Flood Hazard Area: Evidence from the U.S. Housing Market",
+   "authors": [
+    "Adam Pollack",
+    "Douglas H. Wrenn",
+    "Ian Sue Wing",
+    "Christoph Nolte"
+   ],
+   "year": 2023,
+   "venue": "Journal of Housing Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jhe.2023.101956",
+   "abstract": null
+  },
+  {
+   "title": "Housing Wealth, Food Spending, and Diet Quality: Evidence from Panel Data",
+   "authors": [
+    "Bo Zhang",
+    "Douglas H. Wrenn",
+    "Janak Joshi",
+    "Edward C. Jaenicke"
+   ],
+   "year": 2022,
+   "venue": "Agricultural and Resource Economics Review",
+   "status": "已发表",
+   "url": "https://doi.org/10.1017/age.2022.12",
+   "abstract": null
+  },
+  {
+   "title": "The Effectiveness of Taxes in Decreasing Candy Purchases",
+   "authors": [
+    "Kyle Hoy",
+    "Douglas H. Wrenn"
+   ],
+   "year": 2020,
+   "venue": "Food Policy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.foodpol.2020.101959",
+   "abstract": null
+  },
+  {
+   "title": "The Impact of Water Access on Short-Term Migration in Rural India",
+   "authors": [
+    "Esha Zaveri",
+    "Douglas H. Wrenn",
+    "Karen Fisher-Vanden"
+   ],
+   "year": 2020,
+   "venue": "Australian Journal of Agricultural and Resource Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/1467-8489.12364",
+   "abstract": null
+  },
+  {
+   "title": "Price Based Policies for Managing Residential Development: Impacts on Water Quality",
+   "authors": [
+    "Douglas H. Wrenn",
+    "H. Allen Klaiber",
+    "David A. Newburn"
+   ],
+   "year": 2019,
+   "venue": "Resource and Energy Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.reseneeco.2019.101115",
+   "abstract": null
+  },
+  {
+   "title": "Housing Prices and Marriage Entry in China",
+   "authors": [
+    "Douglas H. Wrenn",
+    "Junjian Yi",
+    "Bo Zhang"
+   ],
+   "year": 2019,
+   "venue": "Regional Science and Urban Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.regsciurbeco.2018.12.001",
+   "abstract": null
+  },
+  {
+   "title": "Space and Time: A Competing Risks Analysis of the Impact of Property Taxes and Zoning Restrictions on Residential Development",
+   "authors": [
+    "Douglas H. Wrenn",
+    "H. Allen Klaiber"
+   ],
+   "year": 2019,
+   "venue": "International Economic Review",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/iere.12380",
+   "abstract": null
+  },
+  {
+   "title": "Unconventional Energy, Taxation, and Interstate Welfare: An Analysis of Pennsylvania's Severance Tax Policy",
+   "authors": [
+    "Kyle Hoy",
+    "Douglas H. Wrenn"
+   ],
+   "year": 2018,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.eneco.2018.05.002",
+   "abstract": null
+  },
+  {
+   "title": "Not My Problem: Growth Spillovers from Uncoordinated Land Use Policy",
+   "authors": [
+    "Charles A. Towe",
+    "H. Allen Klaiber",
+    "Douglas H. Wrenn"
+   ],
+   "year": 2017,
+   "venue": "Land Use Policy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.landusepol.2017.06.019",
+   "abstract": null
+  },
+  {
+   "title": "Spatial Heterogeneity, Accessibility, and Zoning: An Empirical Examination of Leapfrog Development",
+   "authors": [
+    "Wendong Zhang",
+    "Douglas H. Wrenn",
+    "Elena G. Irwin"
+   ],
+   "year": 2017,
+   "venue": "Journal of Economic Geography",
+   "status": "已发表",
+   "url": "https://doi.org/10.1093/jeg/lbw007",
+   "abstract": null
+  },
+  {
+   "title": "Confronting Price Endogeneity in a Duration Model of Residential Subdivision Development",
+   "authors": [
+    "Douglas H. Wrenn",
+    "H. Allen Klaiber",
+    "David A. Newburn"
+   ],
+   "year": 2017,
+   "venue": "Journal of Applied Econometrics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1002/jae.2546",
+   "abstract": null
+  },
+  {
+   "title": "Invisible Water, Visible Impact: Groundwater Use and Indian Agriculture under Climate Change",
+   "authors": [
+    "Esha Zaveri",
+    "Danielle Grogan",
+    "Karen Fisher-Vanden",
+    "Steve Frolking",
+    "Richard Lammers",
+    "Douglas H. Wrenn",
+    "Alexander Prusevich",
+    "Robert Nicholas"
+   ],
+   "year": 2016,
+   "venue": "Environmental Research Letters",
+   "status": "已发表",
+   "url": "https://doi.org/10.1088/1748-9326/11/8/084005",
+   "abstract": null
+  },
+  {
+   "title": "Unconventional Shale Gas Development, Risk Perceptions, and Averting Behavior: Evidence from Bottled Water Purchases",
+   "authors": [
+    "Douglas H. Wrenn",
+    "H. Allen Klaiber",
+    "Edward C. Jaenicke"
+   ],
+   "year": 2016,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "https://doi.org/10.1086/688487",
+   "abstract": null
+  },
+  {
+   "title": "Time is Money: An Empirical Examination of the Effects of Regulatory Delay on Residential Subdivision Development",
+   "authors": [
+    "Douglas H. Wrenn",
+    "Elena G. Irwin"
+   ],
+   "year": 2015,
+   "venue": "Regional Science and Urban Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.regsciurbeco.2014.12.004",
+   "abstract": null
+  },
+  {
+   "title": "Resident versus Non-Resident Employment Impacts Associated with Marcellus Shale Development",
+   "authors": [
+    "Douglas H. Wrenn",
+    "Timothy W. Kelsey",
+    "Edward C. Jaenicke"
+   ],
+   "year": 2015,
+   "venue": "Agricultural and Resource Economic Review",
+   "status": "已发表",
+   "url": "https://doi.org/10.1017/S1068280500010194",
+   "abstract": null
+  },
+  {
+   "title": "Geographically and Temporally Weighted Likelihood Regression: Exploring the Spatiotemporal Determinants of Land Use Change",
+   "authors": [
+    "Douglas H. Wrenn",
+    "Abdoul G. Sam"
+   ],
+   "year": 2014,
+   "venue": "Regional Science and Urban Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.regsciurbeco.2013.10.005",
+   "abstract": null
+  },
+  {
+   "title": "How Do Land Use Policies Influence Fragmentation? An Econometric Model of Land Development with Spatial Simulation",
+   "authors": [
+    "Douglas H. Wrenn",
+    "Elena G. Irwin"
+   ],
+   "year": 2012,
+   "venue": "Environmental Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Equilibrium Sorting Models",
+   "authors": [
+    "Qin Fan",
+    "Douglas H. Wrenn"
+   ],
+   "year": 2026,
+   "venue": "Handbook of Environmental Valuation (Edward Elgar)",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Land Use Dynamics: Regulations and Norms",
+   "authors": [
+    "Elena G. Irwin",
+    "Geoffrey L. Buckley",
+    "Matthew Gnagey",
+    "David Newburn",
+    "Erin Pierce",
+    "Douglas H. Wrenn"
+   ],
+   "year": 2018,
+   "venue": "Science for Sustainable City: Insights from Baltimore School of Urban Ecology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Assessment of Empirical Methods for Modeling Land Use",
+   "authors": [
+    "Elena G. Irwin",
+    "Douglas H. Wrenn"
+   ],
+   "year": 2014,
+   "venue": "The Oxford Handbook of Land Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1093/oxfordhb/9780199763740.013.012",
+   "abstract": null
+  },
+  {
+   "title": "Learning by Viewing? Social Learning, Regulatory Disclosure, and Firm Productivity in Shale Gas",
+   "authors": [
+    "T. Robert Fetter",
+    "Andrew L. Steck",
+    "Christopher D. Timmins",
+    "Douglas H. Wrenn"
+   ],
+   "year": 2024,
+   "venue": "NBER Working Paper",
+   "status": "修改重投",
+   "url": "https://doi.org/10.3386/w25401",
+   "abstract": null
+  },
+  {
+   "title": "Scarcity by Design: How Water Constraints Impact Household Sorting and Welfare in the West",
+   "authors": [
+    "Mingzhou Shen",
+    "Qin Fan",
+    "Karen Fisher-Vanden",
+    "Douglas H. Wrenn",
+    "Shan Zuidema"
+   ],
+   "year": 2025,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Interactive Effect of Forested Riparian Buffers and Stream Water Quality on Recreation Demand",
+   "authors": [
+    "Max Pohlman",
+    "Douglas H. Wrenn",
+    "Katherine Y. Zipp"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Housing Density Amplification of Wildfire Ignition Risk Across the Western U.S.",
+   "authors": [
+    "Sizhuo Chen",
+    "Ian Sue Wing",
+    "Douglas H. Wrenn"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4768108",
+   "abstract": null
+  },
+  {
+   "title": "The Impact of Water Scarcity on Housing Development: New Evidence from an Integrated Hydrological-Legal Metric",
+   "authors": [
+    "Mingzhou Shen",
+    "Karen Fisher-Vanden",
+    "Douglas H. Wrenn",
+    "Shan Zuidema"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Impacts of Agricultural Land Markets, Climate, and Weather on Urban Development",
+   "authors": [
+    "Junyi Hua",
+    "H. Allen Klaiber",
+    "Douglas H. Wrenn"
+   ],
+   "year": 2024,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4760450",
+   "abstract": null
+  },
+  {
+   "title": "Carbon Sequestration Losses in Shale Gas Development: Evidence and Policy",
+   "authors": [
+    "Xiao Dong",
+    "H. Allen Klaiber",
+    "Sathya Gopalakrishnan",
+    "Douglas H. Wrenn"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Financial Literacy and Academic Outcomes",
+   "authors": [
+    "Daniel A. Brent",
+    "Douglas H. Wrenn"
+   ],
+   "year": 2022,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://ssrn.com/abstract=4078004",
+   "abstract": null
+  }
+ ]
+}

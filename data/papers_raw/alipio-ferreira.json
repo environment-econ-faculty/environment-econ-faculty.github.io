@@ -1,0 +1,97 @@
+{
+ "slug": "alipio-ferreira",
+ "name": "Alipio Ferreira",
+ "sources": [
+  "https://www.alipioferreira.com/",
+  "https://dl.dropboxusercontent.com/scl/fi/ysh71lat6d2a8vnv6h9l4/cv_alipio.pdf (CV, updated Oct 2026)"
+ ],
+ "collected": "2026-10-25",
+ "notes": "CV (Oct 2026) for titles/status, homepage for links. Neither source gives explicit bylines beyond \"(with ...)\", so Ferreira is listed first. CV and homepage titles differ for three items; CV titles used: \"Enrollment and Additionality...\" = homepage \"Payments for Ecosystem Services under Regulation: Evidence from Brazil Reflorestar Program\"; \"Discretion in the Assignment of Enforcement Cases...\" = homepage \"Automated Assignment and Bureaucrat Productivity: Evidence from a Field Experiment in Peru\"; Land Use Policy title on homepage is \"Amazon Deforestation: Drivers, Damages, and Policies\". Working-paper years inferred from PDF filenames (2025/2026), not stated. Skipped work-in-progress and older writing (tax-evasion theory note; SSRN Monitoring without Capacity, not on CV).",
+ "papers": [
+  {
+   "title": "Amazon Deforestation: a Survey of Drivers, Externalities, and Policies",
+   "authors": [
+    "Alipio Ferreira"
+   ],
+   "year": 2026,
+   "venue": "Land Use Policy",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/pii/S0264837725003448",
+   "abstract": null
+  },
+  {
+   "title": "Virtual Reality Only Mildly Improves Forest Conservation Behaviors",
+   "authors": [
+    "Alipio Ferreira",
+    "Sanchayan Banerjee"
+   ],
+   "year": 2024,
+   "venue": "Scientific Reports",
+   "status": "已发表",
+   "url": "https://www.nature.com/articles/s41598-024-78970-7",
+   "abstract": null
+  },
+  {
+   "title": "Historical Indigenous Extinctions and Modern Deforestation in the Amazon",
+   "authors": [
+    "Alipio Ferreira",
+    "Bruno Barsanetti"
+   ],
+   "year": 2025,
+   "venue": "Journal of the European Economic Association (R&R)",
+   "status": "修改重投",
+   "url": "https://dl.dropboxusercontent.com/scl/fi/fo3mgsddxe1a00zuvlm7v/nimuendaju_paper_2025.pdf?rlkey=pkrb7kml0nlia04lsbuztbfeh&st=q0cvmldz&dl=0",
+   "abstract": null
+  },
+  {
+   "title": "When Does Real-Time Monitoring Matter for Enforcement? Evidence from Deforestation Alerts in the Brazilian Amazon",
+   "authors": [
+    "Alipio Ferreira"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://dl.dropboxusercontent.com/scl/fi/bjk7p4l5i5ag4zwg7y882/2026deter_monitoring_enforcement_v2.pdf?rlkey=ufws7w5f8c1arh5s0vm4s3812&st=j9q5ret4&dl=0",
+   "abstract": null
+  },
+  {
+   "title": "Algorithms and Bureaucrats: Evidence from Tax Audit Selection in Senegal",
+   "authors": [
+    "Alipio Ferreira",
+    "Pierre Bachas",
+    "Anne Brockmeyer",
+    "Bassirou Sarr"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://dl.dropboxusercontent.com/scl/fi/40kx3v0hm7zpekg70g0vz/2025-Bachas-et-al-Senegal-Audits.pdf?rlkey=7yo0tirm48p18jnh12mbc8cls&dl=0",
+   "abstract": null
+  },
+  {
+   "title": "Enrollment and Additionality in Reforestation Incentives: Evidence from a Large-Scale PES in Brazil",
+   "authors": [
+    "Alipio Ferreira",
+    "Jennifer Alix-Garcia",
+    "Katharine Sims"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://dl.dropboxusercontent.com/scl/fi/c671yy0kqfcnib4snmc94/ReflorestarPaper.pdf?rlkey=bekym4qw3uslqcslmtdqdigoa&dl=0",
+   "abstract": null
+  },
+  {
+   "title": "Discretion in the Assignment of Enforcement Cases: Evidence from Environmental Inspections in Peru",
+   "authors": [
+    "Alipio Ferreira",
+    "Sandra Cermeño-León"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://dl.dropboxusercontent.com/scl/fi/99vghqdbgoxyb5fp8lg3q/main_assignment_enforcement_peru_2025.pdf?rlkey=lgyn696fqgl095q4aixst64st&st=387ex85a&dl=0",
+   "abstract": null
+  }
+ ]
+}

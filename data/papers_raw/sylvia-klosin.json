@@ -1,0 +1,117 @@
+{
+ "slug": "sylvia-klosin",
+ "name": "Sylvia Klosin",
+ "sources": [
+  "https://klosins.github.io/"
+ ],
+ "collected": "2026-10-25",
+ "notes": "Source: homepage only (no CV). Years are those in parentheses on the page; abstracts are verbatim from the page. Unpriced Diversification is a 2026 NBER book chapter; marked forthcoming as an assumption (page does not say published).",
+ "papers": [
+  {
+   "title": "Simple Standard Errors for Complicated (Quasi-)Experimental Designs",
+   "authors": [
+    "Sylvia Klosin",
+    "Jonathan Roth"
+   ],
+   "year": 2026,
+   "venue": "arXiv",
+   "status": "工作论文",
+   "url": "https://arxiv.org/abs/2610.12674",
+   "abstract": "We develop standard errors for estimates of causal effects in settings where the distribution of treatment exposures is known but potentially exhibits complicated dependence patterns across units. Such dependence arises, for example, in settings with spillovers/interference across units or when the treatment assignment is spatially correlated. Our variance estimator generalizes several properties of the Neyman variance estimator for completely randomized experiments to general designs: it is unbiased for an upper bound on the variance from the design-based perspective; the conservativeness of this upper bound depends on the heterogeneity of treatment effects; and it is also valid under certain forms of super-population sampling of the potential outcomes. Our estimator reduces to standard approaches in simple designs, such as the Neyman variance estimator in completely randomized experiments and the cluster-robust variance estimator in cluster-randomized experiments. We show that the proposed estimator is admissible among the class of quadratic-form variance estimators, and derive asymptotic conditions under which it is consistent for an upper bound on the asymptotic variance of the treatment effect estimator. In simulations and applications based on two empirical studies, one with peer effects and another with a spatially correlated treatment, we find that the proposed variance estimator performs well, and in some cases yields standard errors that are 2-3 times shorter than those of existing alternatives."
+  },
+  {
+   "title": "Dynamic Biases of Static Panel Data Estimators",
+   "authors": [
+    "Sylvia Klosin"
+   ],
+   "year": 2024,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://arxiv.org/abs/2410.16112",
+   "abstract": "This paper identifies an important bias — termed dynamic bias — in fixed effects panel estimators that arises when dynamic feedback is ignored in the estimating equation. Dynamic feedback occurs if past outcomes impact current outcomes, a feature of many settings ranging from economic growth to agricultural and labor markets. When estimating equations omit past outcomes, dynamic bias can lead to significantly inaccurate treatment effect estimates, even with randomly assigned treatments. This dynamic bias in simulations is larger than Nickell bias. I show that dynamic bias stems from the estimation of fixed effects, as their estimation generates confounding in the data. To recover consistent treatment effects, I present a flexible estimator that provides fixed- T bias correction. I apply this approach to study the impact of temperature shocks on GDP, a canonical outcome where economic theory points to an important feedback from past to future outcomes. Accounting for dynamic bias lowers the estimated effects of hotter years on GDP growth by 10% and GDP levels by 120%."
+  },
+  {
+   "title": "Estimating Continuous Treatment Effects in Panel Data using Machine Learning with a Climate Application",
+   "authors": [
+    "Sylvia Klosin",
+    "Max Vilgalys"
+   ],
+   "year": 2022,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://arxiv.org/abs/2207.08789",
+   "abstract": "This paper introduces and proves asymptotic normality for a new semi-parametric estimator of continuous treatment effects in panel data. Specifically, we estimate the average derivative. Our estimator uses the panel structure of data to account for unob- servable time-invariant heterogeneity and machine learning (ML) methods to preserve statistical power while modeling high-dimensional relationships. We construct our estimator using tools from double de-biased machine learning (DML) literature. Monte Carlo simulations in a nonlinear panel setting show that our method estimates the average derivative with low bias and variance relative to other approaches. Lastly, we use our estimator to measure the impact of extreme heat on United States (U.S.) corn production, after flexibly controlling for precipitation and other weather features. Our approach yields extreme heat effect estimates that are 50% larger than estimates using linear regression. This difference in estimates corresponds to an additional $3.17 billion in annual damages by 2050 under median climate scenarios. We also estimate a dose-response curve, which shows that damages from extreme heat decline somewhat in counties with more extreme heat exposure."
+  },
+  {
+   "title": "Optimal Insurance Scope: Theory and Evidence from US Crop Insurance",
+   "authors": [
+    "Sylvia Klosin",
+    "Adam Solomon"
+   ],
+   "year": 2024,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://adam-solomon.com/SolomonJMP.pdf",
+   "abstract": "Distinct risks are typically insured separately. A single `aggregate' contract that pays more when many shocks occur simultaneously, but less when positive shocks offset negative shocks, is utility-increasing absent moral hazard. However, an aggregate contract discourages diversification, leading to a novel insurance-incentive trade-off. We study the US Federal Crop Insurance Program (FCIP), where farmers can choose the `scope' of their policy - whether to insure each field separately, or all fields of the crop as an aggregate unit. Starting in 2009, the FCIP introduced a large subsidy increase for aggregate insurance. We show that farms that moved to aggregate insurance reduced crop diversity and irrigation, farmed less and conserved more land, and insured price risk --- all reducing the diversification of their risks. This increased the variability of farm yield by 14%, raising the fiscal cost of aggregate insurance by about $1.5 billion per year. We derive and estimate a `Baily-Chetty'-style formula for the optimal contract scope. We find that an aggregate policy is never welfare maximizing, but that the optimal policy lies partway between separate and aggregate. More generally, we discuss scope's widespread relevance in insurance design."
+  },
+  {
+   "title": "Bagged Polynomial Regression and Neural Networks",
+   "authors": [
+    "Sylvia Klosin",
+    "Jaume Vives-i-Bastida"
+   ],
+   "year": 2022,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://arxiv.org/abs/2205.08609",
+   "abstract": "Series and polynomial regression can approximate the same function classes as neural networks. However, these methods are rarely used in practice, although they offer more interpretability than neural networks. In this paper, we show that a potential reason for this is the slow convergence rate of polynomial regression estimators and propose the use of bagged polynomial regression (BPR) as an attractive alternative to neural networks. Theoretically, we derive new finite sample and asymptotic L2 convergence rates for series estimators. We demonstrate that BPR performs as well as neural networks in crop classification using satellite data, a setting where prediction accuracy is critical, and interpretability is often required for addressing research questions."
+  },
+  {
+   "title": "Automatic Double Machine Learning for Continuous Treatment Effects",
+   "authors": [
+    "Sylvia Klosin"
+   ],
+   "year": 2021,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://arxiv.org/abs/2104.10334",
+   "abstract": "In this paper, I introduce and prove the asymptotic normality of a novel nonparametric estimator for continuous treatment effects. Continuous variables, such as environmental factors like temperature and pollution levels, are frequently studied in economics and often require flexible modeling approaches. I estimate points on the average dose-response function, which captures the expected outcome at a specific level of the treatment variable. My approach integrates advanced techniques from double debiased machine learning (DML) and automatic double machine learning (ADML) to construct the estimator. A novel debiasing method enhances the theoretical stability and balancing properties of the estimator. Simulations demonstrate that my estimator outperforms existing methods."
+  },
+  {
+   "title": "Synthetic Differences-in-Differences with Covariates",
+   "authors": [
+    "Sylvia Klosin",
+    "David Hirshberg"
+   ],
+   "year": 2024,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://klosins.github.io/Hirshberg_Klosin_SDIDC.pdf",
+   "abstract": "We propose a synthetic difference-in-difference estimator that incorporates time-varying covariates. We incorporate covariates into a high-dimensional least squares with correlated error-in-variables setting. We use results from this setting to derive conditions under which our synthetic differences-in-differences estimator is asymptotically normal with estimable vari- ance. Monte Carlo simulations demonstrate that our estimator outperforms classic synthetic difference-in-differences in settings where covariates contain information about the outcome. We illustrate the practical performance of our estimator by studying the impact of subsidy increases on crop insurance choices within the United States Federal Crop Insurance Program (FCIP)."
+  },
+  {
+   "title": "The Long-Term Effect of Childhood Exposure to Technology Using Surrogates",
+   "authors": [
+    "Sylvia Klosin",
+    "Nicolaj Søndergaard Mühlbach"
+   ],
+   "year": 2022,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://klosins.github.io/Klosin_Muhlbach_Surrogates.pdf",
+   "abstract": "We study how childhood exposure to technology at ages 5-15 via the occupation of the parents affects the ability to climb the social ladder in terms of income at ages 45-49 using the Danish micro data from years 1961-2019. The challenge in estimating this effect is that long-term outcome is observed over a different time horizon than our treatment of interest. We therefore adapt the surrogate index methodology, linking the effect of our childhood treatment on intermediate surrogates, such as income and education at ages 25-29, to the effect on adulthood income. We estimate that a one standard error increase in exposure to technology increases the income rank by 2%-points, which is economically and statistically significant and robust to cluster-correlation within families. The derived policy recommendation is to update the educational curriculum to expose children to computers to a higher degree, which may then act as a social leveler."
+  },
+  {
+   "title": "Unpriced Diversification in US Crop Insurance",
+   "authors": [
+    "Sylvia Klosin",
+    "Adam Solomon"
+   ],
+   "year": 2026,
+   "venue": "NBER book chapter: Risk and Risk Management in the Agricultural Economy",
+   "status": "即将发表",
+   "url": "https://www.nber.org/books-and-chapters/risk-and-risk-management-agricultural-economy/unpriced-diversification-us-crop-insurance",
+   "abstract": "As climate change intensifies weather-related risks, agricultural losses become more correlated across space, increasing the importance of well-designed crop insurance. A core design choice in the Federal Crop Insurance Program (FCIP) is unit structure: farmers can insure fields separately or aggregate them into a single policy. Aggregate policies are discounted because aggregation mechanically reduces expected payouts when yields are imperfectly correlated. But the current formula does not account for the endogeneity of correlation: farmers with aggregate policies reduce crop diversification, raising correlation and eroding the actuarial basis for the discount. We show how diversification could be priced directly. Focusing on wheat, we identify two observable variables that could be used for pricing: the mixture of winter versus spring varieties and the number of fields planted. Using county-level claims data, we estimate the relationship between wheat diversification and within-farm yield correlation, then use simulations calibrated to FCIP contracts to characterize how correlation affects the gap between aggregate and separate payouts. We show that current pricing misses economically meaningful variation in expected payouts: for a four-field farm, moving from a 50/50 winter-spring mixture to full concentration in one variety increases expected aggregate payouts from 65 percent to 81 percent of separate payouts, a 16 percentage point unpriced swing. Incorporating these factors would allow farmers to internalize the costs of their diversification decisions, reducing moral hazard, and improving the program's fiscal performance."
+  }
+ ]
+}

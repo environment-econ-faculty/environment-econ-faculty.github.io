@@ -1,0 +1,481 @@
+{
+ "slug": "randall-p-walsh",
+ "name": "Randall P. Walsh",
+ "sources": [
+  "https://www.econ.pitt.edu/sites/default/files/CVs/CV_November_2022_Short.pdf"
+ ],
+ "collected": "2026-10-25",
+ "notes": "Nov 2022 short CV only; homepage randallwalsh.com returned 'Contact Support' (dead). Working papers not on short CV and post-2022 work likely missing. 'Conditionally accepted' mapped to 即将发表 (year 2022 = CV date). Reprint notes ignored.",
+ "papers": [
+  {
+   "title": "Racial and Ethnic Representation in Local Government",
+   "authors": [
+    "Brian Beach",
+    "Daniel Jones",
+    "Randall P. Walsh",
+    "Tate Twinam"
+   ],
+   "year": 2022,
+   "venue": "American Economic Journal: Economic Policy",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Race, risk, and the emergence of federal redlining",
+   "authors": [
+    "Price Fishback",
+    "Jessica LaVoice",
+    "Allison Shertzer",
+    "Randall P. Walsh"
+   ],
+   "year": 2022,
+   "venue": "Journal of Economic History",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Racial segregation in housing markets and the erosion of black wealth",
+   "authors": [
+    "Prottoy Akbar",
+    "Sijie Li",
+    "Allison Shertzer",
+    "Randall P. Walsh"
+   ],
+   "year": 2022,
+   "venue": "Review of Economics and Statistics",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Zoning and segregation in urban economic history",
+   "authors": [
+    "Randall P. Walsh",
+    "Allison Shertzer",
+    "Tate Twinam"
+   ],
+   "year": 2022,
+   "venue": "Regional Science and Urban Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Priorities and Effectiveness in Wildfire Management: Evidence from Fire Spread in the Western United States",
+   "authors": [
+    "Randall P. Walsh",
+    "Andrew Plantinga",
+    "Matthew Wibbenmeyer"
+   ],
+   "year": 2022,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The External Costs of Transporting Petroleum Products by Pipelines and Rail: Evidence from Shipments of Crude Oil from North Dakota",
+   "authors": [
+    "Randall P. Walsh",
+    "Karen Clay",
+    "Akshaya Jha",
+    "Nicholas Muller"
+   ],
+   "year": 2019,
+   "venue": "The Energy Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Collective Action, White Flight, and the Origins of Formal Segregation",
+   "authors": [
+    "Randall P. Walsh",
+    "Werner Troesken"
+   ],
+   "year": 2019,
+   "venue": "Journal of Law, Economics, and Organization",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "WUI On Fire: Risk, Salience & Housing Demand",
+   "authors": [
+    "Randall P. Walsh",
+    "Shawn McCoy"
+   ],
+   "year": 2019,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Racial Sorting and the Emergence of Segregation in American Cities",
+   "authors": [
+    "Randall P. Walsh",
+    "Allison Shertzer"
+   ],
+   "year": 2019,
+   "venue": "Review of Economics and Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Zoning and Urban Persistence",
+   "authors": [
+    "Allison Shertzer",
+    "Randall P. Walsh",
+    "Tate Twinam"
+   ],
+   "year": 2018,
+   "venue": "Journal of Urban Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How Do Voters Matter? Evidence from US Congressional Redistricting",
+   "authors": [
+    "Randall P. Walsh",
+    "Daniel Jones"
+   ],
+   "year": 2017,
+   "venue": "Journal of Public Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Political Participation in a Violent Society: The impact of Lynching on Voter Turnout in the Post-Reconstruction South",
+   "authors": [
+    "Randall P. Walsh",
+    "Daniel Jones",
+    "Werner Troesken"
+   ],
+   "year": 2017,
+   "venue": "Journal of Development Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Promise Scholarship Programs as Place-Making Policy: Evidence from School Enrollment and Housing Prices",
+   "authors": [
+    "Randall P. Walsh",
+    "Michael LeGower"
+   ],
+   "year": 2017,
+   "venue": "Journal of Urban Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Race, Ethnicity, and Discriminatory Zoning",
+   "authors": [
+    "Randall P. Walsh",
+    "Allison Shertzer",
+    "Tate Twinam"
+   ],
+   "year": 2016,
+   "venue": "American Economic Journal: Applied Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Segregation and Neighborhood Change in Northern Cities: New Historical GIS Data from 1900 to 1930",
+   "authors": [
+    "Randall P. Walsh",
+    "Allison Shertzer",
+    "John Logan"
+   ],
+   "year": 2016,
+   "venue": "Historical Methods",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Mandate and Paternalism: A Theory of Large Elections",
+   "authors": [
+    "Marco Favarelli",
+    "Priscilla Mann",
+    "Randall P. Walsh"
+   ],
+   "year": 2015,
+   "venue": "Games and Economic Behavior",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Cities and the Environment",
+   "authors": [
+    "Randall P. Walsh",
+    "Matt Kahn"
+   ],
+   "year": 2015,
+   "venue": "Handbook of Urban and Regional Economics (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Foreclosures, Vacancy and Crime",
+   "authors": [
+    "Randall P. Walsh",
+    "Lin Cui"
+   ],
+   "year": 2015,
+   "venue": "Journal of Urban Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Wage Disparities in US Cities",
+   "authors": [
+    "Randall P. Walsh",
+    "Craig Kerr"
+   ],
+   "year": 2014,
+   "venue": "Journal of Race and Social Problems",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Effect of Property Taxes on Vacation Home Growth Rates: Evidence from Michigan",
+   "authors": [
+    "Randall P. Walsh",
+    "E. Johnson"
+   ],
+   "year": 2013,
+   "venue": "Regional Science and Urban Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Segregation and Tiebout Sorting: the Link between Place-Based Investments and Neighborhood Tipping",
+   "authors": [
+    "H.S. Banzhaf",
+    "Randall P. Walsh"
+   ],
+   "year": 2012,
+   "venue": "Journal of Urban Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Environmental Gentrification and Discrimination",
+   "authors": [
+    "H.S. Banzhaf",
+    "Randall P. Walsh",
+    "J. Sidon"
+   ],
+   "year": 2012,
+   "venue": "The Political Economy of Environmental Justice (Stanford University Press, book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Who Gentrifies Poor Neighborhoods?",
+   "authors": [
+    "Randall P. Walsh",
+    "T. McKinnish",
+    "T.K. White"
+   ],
+   "year": 2010,
+   "venue": "Journal of Urban Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Effects of Gender Interactions in the Lab and in the Field",
+   "authors": [
+    "K. Antonovics",
+    "P. Arcidiacono",
+    "Randall P. Walsh"
+   ],
+   "year": 2009,
+   "venue": "Review of Economics and Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do People Vote with Their Feet? An Empirical Test of Tiebout's Mechanism",
+   "authors": [
+    "H.S. Banzhaf",
+    "Randall P. Walsh"
+   ],
+   "year": 2008,
+   "venue": "American Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Communities, Competition, Spillovers, and Open Space",
+   "authors": [
+    "Randall P. Walsh",
+    "A. Strong"
+   ],
+   "year": 2008,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Building the Family Nest: A Collective Household Model with Competing Pre-Marital Investments and Spousal Matching",
+   "authors": [
+    "Randall P. Walsh",
+    "M. Iyigun"
+   ],
+   "year": 2007,
+   "venue": "Review of Economic Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Endogenous Open Space Amenities in a Locational Equilibrium",
+   "authors": [
+    "Randall P. Walsh"
+   ],
+   "year": 2007,
+   "venue": "Journal of Urban Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Endogenous Gender Power, Household Labor Supply & the Demographic Transition",
+   "authors": [
+    "Randall P. Walsh",
+    "M. Iyigun"
+   ],
+   "year": 2007,
+   "venue": "Journal of Development Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Games and Discrimination: Lessons from the Weakest Link",
+   "authors": [
+    "K. Antonovics",
+    "P. Arcidiacono",
+    "Randall P. Walsh"
+   ],
+   "year": 2005,
+   "venue": "Journal of Human Resources",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Urban Sprawl",
+   "authors": [
+    "Randall P. Walsh",
+    "Tom Nechyba"
+   ],
+   "year": 2004,
+   "venue": "Journal of Economic Perspectives",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Estimating the General Equilibrium Benefits of Large Changes in Spatially Delineated Public Goods",
+   "authors": [
+    "H. Sieg",
+    "V.K. Smith",
+    "H.S. Banzhaf",
+    "Randall P. Walsh"
+   ],
+   "year": 2004,
+   "venue": "International Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "General Equilibrium Benefit for Environmental Improvements: Projected Ozone Reductions under EPA's Prospective Analysis for the Los Angeles Air Basin",
+   "authors": [
+    "H. Sieg",
+    "V.K. Smith",
+    "H.S. Banzhaf",
+    "Randall P. Walsh"
+   ],
+   "year": 2004,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Interjurisdictional Housing Prices in Locational Equilibrium",
+   "authors": [
+    "H. Sieg",
+    "V.K. Smith",
+    "H.S. Banzhaf",
+    "Randall P. Walsh"
+   ],
+   "year": 2002,
+   "venue": "Journal of Urban Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Implementing Value Added Measures of School Performance, Are We Getting the Incentives Right?",
+   "authors": [
+    "Randall P. Walsh",
+    "H. Ladd"
+   ],
+   "year": 2002,
+   "venue": "Economics of Education Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do Painless Environmental Policies Exist?",
+   "authors": [
+    "Randall P. Walsh",
+    "V.K. Smith"
+   ],
+   "year": 2000,
+   "venue": "Journal of Risk and Uncertainty",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Role of Optimizing Behavior in Willingness to Pay Estimates for Air Quality",
+   "authors": [
+    "H. Sieg",
+    "V.K. Smith",
+    "H.S. Banzhaf",
+    "Randall P. Walsh"
+   ],
+   "year": 1999,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

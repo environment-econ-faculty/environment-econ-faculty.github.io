@@ -1,0 +1,789 @@
+{
+ "slug": "gal-hochman",
+ "name": "Gal Hochman",
+ "sources": [
+  "https://publish.illinois.edu/gal-hochman/",
+  "https://publish.illinois.edu/gal-hochman/publications/"
+ ],
+ "collected": "2026-10-25",
+ "notes": "Homepage Publications page only (no CV link accessible; no working papers listed). Page's 68-item list used; skipped Choices pieces, Energy Forum, California Agriculture extension pieces, the Science policy forum and invited editorials. Authors in page order; Hochman's own name appears as Gal Hochman. Page gives no volume/status flags, all treated as published.",
+ "papers": [
+  {
+   "title": "Liquid biofuels for transportation: lessons of the last two decades for the next two",
+   "authors": [
+    "Deepak Rajagopal",
+    "Gal Hochman",
+    "Shruti K Mishra",
+    "Umakant Mishra",
+    "Sabrina Spatari"
+   ],
+   "year": 2026,
+   "venue": "Environmental Science & Technology",
+   "status": "已发表",
+   "url": "https://pubs.acs.org/doi/10.1021/acs.est.5c16314",
+   "abstract": null
+  },
+  {
+   "title": "Insights into Competition in the Electricity Market: Evidence from the RGGI",
+   "authors": [
+    "Z. Song",
+    "Gal Hochman"
+   ],
+   "year": 2025,
+   "venue": "Energies",
+   "status": "已发表",
+   "url": "https://www.mdpi.com/1996-1073/18/21/5648",
+   "abstract": null
+  },
+  {
+   "title": "Evolution of Innovation and Production Supply Chains: The Case of Microalgae-Based β-Carotene",
+   "authors": [
+    "Ruslana Rachel Palatnik",
+    "Michael Borowitzka",
+    "Gal Hochman",
+    "David Zilberman"
+   ],
+   "year": 2025,
+   "venue": "European Review of Agricultural Economics",
+   "status": "已发表",
+   "url": "https://academic.oup.com/erae/advance-article/doi/10.1093/erae/jbaf019/8139923",
+   "abstract": null
+  },
+  {
+   "title": "An economic perspective of the circular bioeconomy in the food and agricultural sector",
+   "authors": [
+    "M. Khanna",
+    "D. Zilberman",
+    "Gal Hochman",
+    "B. Basso"
+   ],
+   "year": 2024,
+   "venue": "Communications Earth & Environment",
+   "status": "已发表",
+   "url": "https://doi.org/10.1038/s43247-024-01663-6",
+   "abstract": null
+  },
+  {
+   "title": "The Case for Carbon Capture and Storage Technologies",
+   "authors": [
+    "Gal Hochman",
+    "Vijay Appasamy"
+   ],
+   "year": 2024,
+   "venue": "Environments",
+   "status": "已发表",
+   "url": "https://doi.org/10.3390/environments11030052",
+   "abstract": null
+  },
+  {
+   "title": "Factors driving aggregate service sector energy intensities in Asia and Eastern Europe: A LMDI analysis",
+   "authors": [
+    "Jianda Wang",
+    "Kangyin Dong",
+    "Gal Hochman",
+    "Govinda R. Timilsina"
+   ],
+   "year": 2022,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.enpol.2022.113315",
+   "abstract": null
+  },
+  {
+   "title": "The Economics of Aquatic Plants: The Case of Algae and Duckweed",
+   "authors": [
+    "Gal Hochman",
+    "Ruslana Rachel Palatnik"
+   ],
+   "year": 2022,
+   "venue": "Annual Review of Resource Economics",
+   "status": "已发表",
+   "url": "https://www.annualreviews.org/doi/abs/10.1146/annurev-resource-111920-011624",
+   "abstract": null
+  },
+  {
+   "title": "Economic incentives modify agricultural impacts of nuclear war",
+   "authors": [
+    "Gal Hochman",
+    "Hainan Zhang",
+    "Lili Xia",
+    "Alan Robock",
+    "Aleti Saketh",
+    "Dominique Y. van der Mensbrugghe",
+    "Jonas Jagermeyr"
+   ],
+   "year": 2022,
+   "venue": "Environmental Research Letters",
+   "status": "已发表",
+   "url": "https://doi.org/10.1088/1748-9326/ac61c7",
+   "abstract": null
+  },
+  {
+   "title": "Improvement of Aquaculture Profitability and Sustainability Through Integration with Duckweed",
+   "authors": [
+    "Lin Lawrence",
+    "Shawn Sorrels",
+    "Shakthi T. Sivaram",
+    "Eric Lam",
+    "Gal Hochman"
+   ],
+   "year": 2021,
+   "venue": "Agriculture Research and Technology",
+   "status": "已发表",
+   "url": "https://www.corpuspublishers.com/article-info/improvement-of-aquaculture-profitability-and-sustainability-through-integration-with-duckweed-181",
+   "abstract": null
+  },
+  {
+   "title": "Optimal Environmental Taxation in Response to an Environmentally-unfriendly Political Challenger",
+   "authors": [
+    "Gal Hochman",
+    "David Zilberman"
+   ],
+   "year": 2021,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jeem.2020.102407",
+   "abstract": null
+  },
+  {
+   "title": "The Potential Implications of the Introduction of Bioelectricity in South Korea",
+   "authors": [
+    "Gal Hochman",
+    "Chrysostomos Tabakis"
+   ],
+   "year": 2020,
+   "venue": "Sustainability",
+   "status": "已发表",
+   "url": "https://doi.org/10.3390/su12187602",
+   "abstract": null
+  },
+  {
+   "title": "Biomass to Fuel: The Case of South Korea",
+   "authors": [
+    "Gal Hochman",
+    "Chrysostomos Tabakis"
+   ],
+   "year": 2020,
+   "venue": "Sustainability",
+   "status": "已发表",
+   "url": "https://doi.org/10.3390/su12177215",
+   "abstract": null
+  },
+  {
+   "title": "Total cost of carbon capture and storage implemented at a regional scale: northeastern and midwestern United States",
+   "authors": [
+    "William J. Schmelz",
+    "Gal Hochman",
+    "Kenneth G. Miller"
+   ],
+   "year": 2020,
+   "venue": "Interface Focus",
+   "status": "已发表",
+   "url": "https://doi.org/10.1098/rsfs.2019.0065",
+   "abstract": null
+  },
+  {
+   "title": "The Potential Economic Feasibility of Direct Electrochemical Nitrogen Reduction as a Route to Ammonia",
+   "authors": [
+    "Gal Hochman",
+    "Alan Goldman",
+    "Frank Felder",
+    "James Mayer",
+    "Alexander Miller",
+    "Patrick Holland",
+    "Leo Goldman",
+    "Patricia Manocha",
+    "Ze Song",
+    "Saketh Aleti"
+   ],
+   "year": 2020,
+   "venue": "ACS Sustainable Chemistry & Engineering",
+   "status": "已发表",
+   "url": "https://doi.org/10.1021/acssuschemeng.0c01206",
+   "abstract": null
+  },
+  {
+   "title": "Non-Constant Elasticity of Substitution and Intermittent Renewable Energy",
+   "authors": [
+    "S. Aleti",
+    "Gal Hochman"
+   ],
+   "year": 2020,
+   "venue": "Agricultural and Resource Economics Review",
+   "status": "已发表",
+   "url": "https://doi.org/10.1017/age.2020.7",
+   "abstract": null
+  },
+  {
+   "title": "Do drivers of CO2 emission growth alter over time and by the stage of economic development?",
+   "authors": [
+    "K. Dong",
+    "Gal Hochman",
+    "G. Timilsina"
+   ],
+   "year": 2020,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.enpol.2020.111420",
+   "abstract": null
+  },
+  {
+   "title": "Spatial econometric analysis of China's PM10 pollution and its influential factors: Evidence from the provincial level",
+   "authors": [
+    "K. Dong",
+    "Gal Hochman",
+    "X. Kong",
+    "R. Sun",
+    "Z. Wang"
+   ],
+   "year": 2019,
+   "venue": "Ecological Indicators",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.ecolind.2018.09.014",
+   "abstract": null
+  },
+  {
+   "title": "The environmental consequences of fossil fuels in China: National and regional perspectives",
+   "authors": [
+    "Bingjie Xu",
+    "Ruoyu Zhong",
+    "Gal Hochman",
+    "Kangyin Dong"
+   ],
+   "year": 2019,
+   "venue": "Sustainable Development",
+   "status": "已发表",
+   "url": "https://doi.org/10.1002/sd.1943",
+   "abstract": null
+  },
+  {
+   "title": "CO2 emissions, economic and population growth, and renewable energy: Empirical evidence across regions",
+   "authors": [
+    "Kangyin Dong",
+    "Gal Hochman",
+    "Yaqing Zhang",
+    "Renjin Sun",
+    "Hui Li",
+    "Hua Liao"
+   ],
+   "year": 2018,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.eneco.2018.08.017",
+   "abstract": null
+  },
+  {
+   "title": "The synergy between aquaculture and hydroponics technologies: The case of lettuce and tilapia",
+   "authors": [
+    "Gal Hochman",
+    "E. Hochman",
+    "N. Naveh",
+    "D. Zilberman"
+   ],
+   "year": 2018,
+   "venue": "Sustainability",
+   "status": "已发表",
+   "url": "https://doi.org/10.3390/su10103479",
+   "abstract": null
+  },
+  {
+   "title": "Energy intensity and energy conservation potential in China: A regional comparison perspective",
+   "authors": [
+    "Kangyin Dong",
+    "Renjin Sun",
+    "Gal Hochman",
+    "Hui Li"
+   ],
+   "year": 2018,
+   "venue": "Energy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.energy.2018.05.053",
+   "abstract": null
+  },
+  {
+   "title": "Corn Ethanol and US Biofuel Policy 10 Years Later: A Quantitative Assessment",
+   "authors": [
+    "Gal Hochman",
+    "David Zilberman"
+   ],
+   "year": 2018,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1093/ajae/aax105",
+   "abstract": null
+  },
+  {
+   "title": "Economic of sustainable development and the bioeconomy",
+   "authors": [
+    "David Zilberman",
+    "Ben Gordon",
+    "Gal Hochman",
+    "Justus Wesseler"
+   ],
+   "year": 2018,
+   "venue": "Applied Economic Perspectives and Policy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1093/aepp/ppx051",
+   "abstract": null
+  },
+  {
+   "title": "Do natural gas and renewable energy consumption lead to less CO2 emission? Empirical evidence from a panel of BRICS countries",
+   "authors": [
+    "Kangyin Dong",
+    "Renjin Sun",
+    "Gal Hochman"
+   ],
+   "year": 2017,
+   "venue": "Energy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.energy.2017.11.092",
+   "abstract": null
+  },
+  {
+   "title": "Impact of natural gas consumption on CO2 emissions: Panel data evidence from China's provinces",
+   "authors": [
+    "Kangyin Dong",
+    "Renjin Sun",
+    "Gal Hochman",
+    "Xiangang Zeng",
+    "Hui Li",
+    "Hangdian Jiang"
+   ],
+   "year": 2017,
+   "venue": "Journal of Cleaner Production",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jclepro.2017.06.100",
+   "abstract": null
+  },
+  {
+   "title": "Energy Efficiency Barriers in Commercial and Industrial Firms in Ukraine: An Empirical Analysis",
+   "authors": [
+    "Gal Hochman",
+    "Govinda R. Timilsina"
+   ],
+   "year": 2017,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.eneco.2017.01.013",
+   "abstract": null
+  },
+  {
+   "title": "Policy Incentives and Adoption of Agricultural Anaerobic Digestion: A Survey of Europe and the United States",
+   "authors": [
+    "Mook Bangalore",
+    "Gal Hochman",
+    "David Zilberman"
+   ],
+   "year": 2016,
+   "venue": "Renewable Energy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.renene.2016.05.062",
+   "abstract": null
+  },
+  {
+   "title": "Understanding Energy Efficiency Barriers in Ukraine: Insights from a Survey of Commercial and Industrial Firms",
+   "authors": [
+    "Govinda Timilsina",
+    "Gal Hochman",
+    "Iryna Fedets"
+   ],
+   "year": 2016,
+   "venue": "Energy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.energy.2016.03.009",
+   "abstract": null
+  },
+  {
+   "title": "The Competing Policy Paradigms of Agricultural Biotechnology",
+   "authors": [
+    "Gregory D Graff",
+    "Gal Hochman",
+    "Chubashini Suntharlingam",
+    "David Zilberman"
+   ],
+   "year": 2015,
+   "venue": "AgBioForum",
+   "status": "已发表",
+   "url": "https://www.agbioforum.org/v18n2/v18n2a04-graff.htm",
+   "abstract": null
+  },
+  {
+   "title": "The Political Economy of Biotechnology",
+   "authors": [
+    "David Zilberman",
+    "Greg Graff",
+    "Gal Hochman",
+    "Scott Kaplan"
+   ],
+   "year": 2015,
+   "venue": "German Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Cost of organic waste technologies: A case study for New Jersey",
+   "authors": [
+    "Gal Hochman",
+    "Shisi Wang",
+    "Qing Li",
+    "Paul Gotlieb",
+    "Fuqing Xu",
+    "Yebo Li"
+   ],
+   "year": 2015,
+   "venue": "AIMS Energy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Multi-objective regulations on transportation fuels: Comparing renewable fuel mandates and emission standards",
+   "authors": [
+    "Deepak Rajagopal",
+    "Gal Hochman",
+    "Richard Plevin",
+    "David Zilberman"
+   ],
+   "year": 2015,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The political economy of OPEC",
+   "authors": [
+    "Gal Hochman",
+    "David Zilberman"
+   ],
+   "year": 2015,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.eneco.2015.01.002",
+   "abstract": null
+  },
+  {
+   "title": "Diatoms: a fossil fuel of the future",
+   "authors": [
+    "Orly Levitan",
+    "Jorge Dinamarca",
+    "Gal Hochman",
+    "Paul G. Falkowski"
+   ],
+   "year": 2014,
+   "venue": "Trends in Biotechnology",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.tibtech.2014.01.004",
+   "abstract": null
+  },
+  {
+   "title": "Quantifying the causes of the global food commodity price crisis",
+   "authors": [
+    "Gal Hochman",
+    "Deepak Rajagopal",
+    "Govinda Timilsina",
+    "David Zilberman"
+   ],
+   "year": 2014,
+   "venue": "Biomass & Bioenergy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.biombioe.2014.06.012",
+   "abstract": null
+  },
+  {
+   "title": "Ethical Energy and the Clean Electron",
+   "authors": [
+    "Michael C. Trachtenberg",
+    "Gal Hochman"
+   ],
+   "year": 2014,
+   "venue": "Villanova Environmental Law Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Continents Divided: Understanding Differences on GM Acceptance between Europe and North America",
+   "authors": [
+    "David Zilberman",
+    "Scott M. Kaplan",
+    "Eunice Mi Kim",
+    "Gal Hochman",
+    "Gregory Graff"
+   ],
+   "year": 2013,
+   "venue": "GM Crops and Food",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The corruption of transition",
+   "authors": [
+    "Gal Hochman",
+    "Eithan Hochman",
+    "David Zilberman"
+   ],
+   "year": 2013,
+   "venue": "International Journal of Business and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "On the indirect effect of biofuel",
+   "authors": [
+    "David Zilberman",
+    "Geoffrey Barrow",
+    "Gal Hochman",
+    "Deepak Rajagopal"
+   ],
+   "year": 2013,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Impact of International Trade on Institutions and Infrastructure",
+   "authors": [
+    "Gal Hochman",
+    "Chrysostomos Tabakis",
+    "David Zilberman"
+   ],
+   "year": 2013,
+   "venue": "Journal of Comparative Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jce.2012.07.001",
+   "abstract": null
+  },
+  {
+   "title": "Biofuel and Food-Commodity Prices",
+   "authors": [
+    "Gal Hochman",
+    "Scott Kaplan",
+    "Deepak Rajagopal",
+    "David Zilberman"
+   ],
+   "year": 2012,
+   "venue": "Agriculture",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Impact of Biofuels on Food Prices: Assessment of Findings",
+   "authors": [
+    "David Zilberman",
+    "Gal Hochman",
+    "Deepak Rajagopal",
+    "Steve Sexton",
+    "Govinda Timilsina"
+   ],
+   "year": 2012,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Advertising Versus Sales In Demand Creation",
+   "authors": [
+    "Gal Hochman",
+    "Oded Hochman",
+    "Eithan Hochman",
+    "Amir Heiman",
+    "Ping-Sun Leung"
+   ],
+   "year": 2011,
+   "venue": "The B.E. Journal of Economic Analysis & Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Indirect Land Use Change: A second-best solution to a first-class problem",
+   "authors": [
+    "David Zilberman",
+    "Gal Hochman",
+    "Deepak Rajagopal"
+   ],
+   "year": 2011,
+   "venue": "AgBioForum",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "On the Inclusion of Indirect Land Use in Biofuel Regulations",
+   "authors": [
+    "David Zilberman",
+    "Gal Hochman",
+    "Deepak Rajagopal"
+   ],
+   "year": 2011,
+   "venue": "University of Illinois Law Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The effect of biofuels on the international oil market",
+   "authors": [
+    "Gal Hochman",
+    "Deepak Rajagopal",
+    "David Zilberman"
+   ],
+   "year": 2011,
+   "venue": "Applied Economic Perspectives and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Indirect fuel use change (IFUC) and the lifecycle environmental impact of biofuel policies",
+   "authors": [
+    "Deepak Rajagopal",
+    "Gal Hochman",
+    "David Zilberman"
+   ],
+   "year": 2010,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Are Biofuels the Culprit: OPEC, Food, and Fuel",
+   "authors": [
+    "Gal Hochman",
+    "Deepak Rajagopal",
+    "David Zilberman"
+   ],
+   "year": 2010,
+   "venue": "American Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Effect of Biofuels on Crude Oil Markets",
+   "authors": [
+    "Gal Hochman",
+    "Deepak Rajagopal",
+    "David Zilberman"
+   ],
+   "year": 2010,
+   "venue": "AgBioForum",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Managed Trade with Imperfect Information",
+   "authors": [
+    "Gal Hochman",
+    "Ella Segev"
+   ],
+   "year": 2010,
+   "venue": "International Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Sustainability of Food, Energy, and Environment with Biofuels",
+   "authors": [
+    "Madhu Khanna",
+    "Gal Hochman",
+    "Deepak Rajagopal",
+    "Steven E. Sexton",
+    "David Zilberman"
+   ],
+   "year": 2009,
+   "venue": "CAB Reviews",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Political Economy of Agricultural Biotechnology Policies",
+   "authors": [
+    "Gregory D. Graff",
+    "Gal Hochman",
+    "David Zilberman"
+   ],
+   "year": 2009,
+   "venue": "AgBioForum",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Recent Developments in Renewable Technologies: R&D Investment/Synthetic Biology",
+   "authors": [
+    "Deepak Rajagopal",
+    "Steven E. Sexton",
+    "Gal Hochman",
+    "David Zilberman"
+   ],
+   "year": 2009,
+   "venue": "Annual Review of Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Role of Biotechnology in the Sustainable Biofuel Future",
+   "authors": [
+    "Steven E. Sexton",
+    "David Zilberman",
+    "Deepak Rajagopal",
+    "Gal Hochman"
+   ],
+   "year": 2009,
+   "venue": "AgBioForum",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Economics of Biofuel Policy and Biotechnology",
+   "authors": [
+    "Gal Hochman",
+    "Steven E. Sexton",
+    "David Zilberman"
+   ],
+   "year": 2008,
+   "venue": "Journal of Agricultural & Food Industrial Organization",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Trade Negotiations, Domestic Policies, and the Most Favored Nation Clause",
+   "authors": [
+    "Gal Hochman"
+   ],
+   "year": 2008,
+   "venue": "Canadian Journal of Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Aspects of Privatization of a Water Region",
+   "authors": [
+    "Eyal Brill",
+    "Gal Hochman",
+    "Eithan Hochman"
+   ],
+   "year": 1997,
+   "venue": "The Economic Quarterly",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

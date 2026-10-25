@@ -1,0 +1,4305 @@
+{
+ "slug": "bruce-a-mccarl",
+ "name": "Bruce A. McCarl",
+ "sources": [
+  "https://agecoresearch.tamu.edu/mccarl/wp-content/uploads/sites/4/2024/04/longvita.pdf"
+ ],
+ "collected": "2026-10-25",
+ "notes": "From Feb 2024 CV, Refereed Articles section only (316 entries, 1973-2023); homepage not fetched; non-refereed journal items, books, chapters, reports skipped. Entries marked forthcoming in the CV are old and treated as published (some duplicates of later entries removed). Automatic parsing: author names as written in CV (initials), venue/years parsed by script, a few venues may carry minor residue. CV may lack 2024+ papers.",
+ "papers": [
+  {
+   "title": "Carbon sequestration and water management in Texas: One Size does not fit all",
+   "authors": [
+    "J. Bell",
+    "P.B. DeLaune",
+    "B.L. Fischer",
+    "K.L. Lewis",
+    "B.A. McCarl",
+    "J.L. Outlaw"
+   ],
+   "year": 2023,
+   "venue": "Agrosystems, Geosciences & Environment",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Future climate change impacts on U.S. agricultural yields, production, and market",
+   "authors": [
+    "C.J. Fei",
+    "J. Jägermeyr",
+    "B.A. McCarl",
+    "E. Mencos",
+    "C. Mutter",
+    "M. Phillips",
+    "A. Ruane",
+    "P. Schultz",
+    "A. Vargo"
+   ],
+   "year": 2023,
+   "venue": "Anthropocene",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Distance decay and directional diffusion of ecoclimate teleconnections driven by regional-scale tree die-off",
+   "authors": [
+    "X. Feng",
+    "A.L.S. Swann",
+    "D.D. Breshears",
+    "E. Baldwin",
+    "H. Cheng",
+    "J.J. Derbridge",
+    "C.J. Fei",
+    "A.M. Lien",
+    "L. López-Hoffman",
+    "B.A. McCarl",
+    "D.M. McLaughlin",
+    "J.R. Soto"
+   ],
+   "year": 2023,
+   "venue": "Environmental Research Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Agricultural Soils and the Quest for Net Zero Emissions",
+   "authors": [
+    "B.A. McCarl",
+    "C.J. Fei"
+   ],
+   "year": 2023,
+   "venue": "Choices",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Role and Use of Mathematical Programming in Agricultural and Natural Resource Climate Change Analysis",
+   "authors": [
+    "B.A. McCarl",
+    "C.J. Fei"
+   ],
+   "year": 2023,
+   "venue": "Annual Review of Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Policy Challenges to Enhance Soil Carbon Sinks: The Dirty Part of Making Contributions to the Paris Agreement by the United States",
+   "authors": [
+    "S.M. Ogle",
+    "R. Conant",
+    "B. Fisher",
+    "B. Haya",
+    "D. Manning",
+    "B.A. McCarl",
+    "T.J. Zelikova"
+   ],
+   "year": 2023,
+   "venue": "Carbon Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Changes in Electrical Generator Cooling Systems Are They a Cost Effective Source of Water",
+   "authors": [
+    "Y.Q. Yang",
+    "C.J. Fei",
+    "B.A. McCarl"
+   ],
+   "year": 2023,
+   "venue": "Journal of the American Water Resources Association",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Climate Change and Livestock Production: A Review",
+   "authors": [
+    "M. Cheng",
+    "B.A. McCarl",
+    "C.J. Fei"
+   ],
+   "year": 2022,
+   "venue": "Atmosphere",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Impacts of climate change on water management",
+   "authors": [
+    "C.J. Fei",
+    "B.A. McCarl",
+    "Y.Q. Yang",
+    "Y.H. Lei",
+    "L.Y. Li",
+    "R. Srinivasan",
+    "B. Sheng",
+    "E.K. Ayana",
+    "X.X. Fan"
+   ],
+   "year": 2022,
+   "venue": "Applied Economic Perspectives and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A review of biopower and mitigation potential of competing pyrolysis methods",
+   "authors": [
+    "C.C. Kung",
+    "C.J. Fei",
+    "B.A. McCarl",
+    "X.X. Fan"
+   ],
+   "year": 2022,
+   "venue": "Renewable & Sustainable Energy Reviews",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Sustainable Environmental Remediation using Biomimetic Multifunctional Lignocellulosic Material",
+   "authors": [
+    "J. Li",
+    "X. Li",
+    "Y. Da",
+    "J. Yu",
+    "B. Long",
+    "C. Bakker",
+    "B.A. McCarl",
+    "J.S. Yuan",
+    "S.Y. Dai"
+   ],
+   "year": 2022,
+   "venue": "Nature Communications",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Mitigation potential of the US forest and agriculture sectors across alternative socioeconomic futures",
+   "authors": [
+    "C. Wade",
+    "J.P.H. Jones",
+    "K. Austin",
+    "Y.X. Cai",
+    "A. Bean",
+    "G. Latta",
+    "B.A. McCarl",
+    "S. Ohrel",
+    "S. Ragnauth",
+    "J. Creason",
+    "J.S. Baker"
+   ],
+   "year": 2022,
+   "venue": "Journal of Forest Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Market Response to Typhoons: The Role of Information and Expectations",
+   "authors": [
+    "E.C.H. Yu",
+    "B.A. McCarl",
+    "J.D. Zhu"
+   ],
+   "year": 2022,
+   "venue": "Southern Economic Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The impact of climate change on global energy use",
+   "authors": [
+    "H. Zhang",
+    "J.E. Mu",
+    "B.A. McCarl",
+    "J. Yu"
+   ],
+   "year": 2022,
+   "venue": "Mitigation and Adaptation Strategies for Global Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Major United States land use as Influenced by an altering climate: a spatial econometric approach",
+   "authors": [
+    "S.J. Cho",
+    "B.A. McCarl"
+   ],
+   "year": 2021,
+   "venue": "Land",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Effects of ozone and climate on historical (1980-2015) crop yields in the United States: implication on mid-21st century projection",
+   "authors": [
+    "Y. Da",
+    "B.A. McCarl",
+    "Y. Xu"
+   ],
+   "year": 2021,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Decadal Climate Variability, Water Availability and Cropping: The Value of Forecast Information in South-Central Texas",
+   "authors": [
+    "J.X. Ding",
+    "B.A. McCarl"
+   ],
+   "year": 2021,
+   "venue": "Climate Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Honey Bees, Almonds, And Colony Mortality: An Economic Analysis of the U.S. Pollination Market",
+   "authors": [
+    "C.J. Fei",
+    "K.M. Williamson",
+    "R.T. Woodward",
+    "B.A. McCarl",
+    "J. Rangel"
+   ],
+   "year": 2021,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Optimal design and operation of a second- generation biofuels supply chain",
+   "authors": [
+    "H.N. Geismar",
+    "B.A. McCarl",
+    "S.W. Searcy"
+   ],
+   "year": 2021,
+   "venue": "Institute of Industrial and Systems Engineers Transactions",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Case Study Approach to Analyze High-Containment Laboratory Workflows Promoting Sustainability, Networking, and Innovation",
+   "authors": [
+    "C.L. Hunt",
+    "L. Yu",
+    "M. Cochran",
+    "J.C. Liu",
+    "B.A. McCarl",
+    "C. Johnson",
+    "M. Brun",
+    "M. Berquist"
+   ],
+   "year": 2021,
+   "venue": "Animal Health Scientific and Technical Review Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Climate Change Impacts and Strategies for Mitigation and Adaptation in Agriculture",
+   "authors": [
+    "B.A. McCarl",
+    "E.C.H. Yu",
+    "W. Attavanich"
+   ],
+   "year": 2021,
+   "venue": "Atmosphere",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Impacts of Climate Change on Livestock Location in the US: A Statistical Analysis",
+   "authors": [
+    "M.L. Wang",
+    "B.A. McCarl"
+   ],
+   "year": 2021,
+   "venue": "Land",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Unintended Consequences of Agricultural Participation in Voluntary Carbon Markets",
+   "authors": [
+    "M.L. Wang",
+    "B.A. McCarl",
+    "H. Wei",
+    "L. Shiva"
+   ],
+   "year": 2021,
+   "venue": "Complexity",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "El Niño effects and crop yields",
+   "authors": [
+    "M.L. Wang",
+    "Y.K. Huang",
+    "M. Cheng",
+    "B. Sheng",
+    "B.A. McCarl"
+   ],
+   "year": 2021,
+   "venue": "CAB Reviews: Perspectives in Agriculture, Veterinary Science, Nutrition and Natural Resources",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Heat stress and cognition: Effects on those over 40 in China",
+   "authors": [
+    "F. Yi",
+    "T. Zhou",
+    "L. Yu",
+    "B.A. McCarl",
+    "Y. Wang",
+    "F. Jiang"
+   ],
+   "year": 2021,
+   "venue": "Weather and Climate Extremes",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic and Ecological Impacts of Increased Drought Frequency in the Edwards Aquifer",
+   "authors": [
+    "J.X. Ding",
+    "McCarl",
+    "B. A"
+   ],
+   "year": 2020,
+   "venue": "Climate",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Identifying Vulnerable Households Using Machine Learning",
+   "authors": [
+    "C. Gao",
+    "C.J. Fei",
+    "B.A. McCarl",
+    "D. Leatham"
+   ],
+   "year": 2020,
+   "venue": "Sustainability",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Effect of Technological Progress, Demand, and Energy Policy on Agricultural and Bioenergy Markets",
+   "authors": [
+    "M. Kapilakanchana",
+    "B.A. McCarl"
+   ],
+   "year": 2020,
+   "venue": "Atmosphere",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The potential role of renewable electricity generation in Taiwan",
+   "authors": [
+    "C.C. Kung",
+    "B.A. McCarl"
+   ],
+   "year": 2020,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Analysis of Climate Impacts on Herbicide, Insecticide, and Fungicide Expenditures",
+   "authors": [
+    "L.A. Rhodes",
+    "B.A. McCarl"
+   ],
+   "year": 2020,
+   "venue": "Agronomy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Value of Decadal Climate Variability Information to U.S. Agriculture",
+   "authors": [
+    "L.A. Rhodes",
+    "B.A. McCarl"
+   ],
+   "year": 2020,
+   "venue": "Atmosphere",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Disconnect within Agriculture and Ecosystem Climate Effects, Adaptations and Policy",
+   "authors": [
+    "A.W. Thayer",
+    "A.M. Vargas",
+    "T.E. Lacher",
+    "B.A. McCarl"
+   ],
+   "year": 2020,
+   "venue": "Climate",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Estimating the Potential Effects of Climate Change on Rice Production in Thailand",
+   "authors": [
+    "N. Sinnarongnd",
+    "C.C. Chen",
+    "B.A. McCarl",
+    "B.L. Tran"
+   ],
+   "year": 2019,
+   "venue": "Paddy and Water Environment",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Integrating Agriculture and Ecosystems to Find Suitable Adaptations to Climate Change",
+   "authors": [
+    "A.W. Thayer",
+    "A. Vargas",
+    "A.A. Castellanos",
+    "C.W. Lafon",
+    "B.A. McCarl",
+    "D. Roelke",
+    "K.O. Winemiller",
+    "T.E. Lacher"
+   ],
+   "year": 2019,
+   "venue": "Climate",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Asset Fixity and Economic Competitiveness of US Ethanol Production",
+   "authors": [
+    "M.Z. Wang",
+    "M. Wlodarz",
+    "B.A. McCarl"
+   ],
+   "year": 2019,
+   "venue": "Biomass and Bioenergy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Addressing uncertainty in adaptation planning for agriculture",
+   "authors": [
+    "C.J. Fei",
+    "B.A. McCarl"
+   ],
+   "year": 2018,
+   "venue": "US CLIVAR Variations",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Decadal Climate Variability Impacts on Cropping",
+   "authors": [
+    "T. Jithitikulchai",
+    "B.A. McCarl",
+    "X.M. Wu"
+   ],
+   "year": 2018,
+   "venue": "Journal of Agricultural and Applied Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Sustainable Energy Development under Climate Change",
+   "authors": [
+    "C.C. Kung",
+    "B.A. McCarl"
+   ],
+   "year": 2018,
+   "venue": "Sustainability",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic Impacts of Avian Influenza Disease Mitigation Strategies in USA due to Texas outbreaks",
+   "authors": [
+    "J.E. Mu",
+    "B.A. McCarl"
+   ],
+   "year": 2018,
+   "venue": "International Journal of Risk Assessment and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Adaptation with Climate Uncertainty: An Examination of Agricultural Land Use in the United States",
+   "authors": [
+    "J.E. Mu",
+    "J.T. Abatzoglou",
+    "B. Sleeter",
+    "B.A. McCarl",
+    "H. Zhang"
+   ],
+   "year": 2018,
+   "venue": "Land Use Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Assessing Economic Impacts of Pesticide Regulations",
+   "authors": [
+    "U.A. Schneider",
+    "L. Rasche",
+    "B.A. McCarl"
+   ],
+   "year": 2018,
+   "venue": "Agriculture",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Damages of Surface Ozone: Evidence from Agricultural Sector in China",
+   "authors": [
+    "F. Yi",
+    "B.A. McCarl"
+   ],
+   "year": 2018,
+   "venue": "Environmental Research Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Increasing the Effectiveness of the Chinese Grain Subsidy: A Quantitative Analysis",
+   "authors": [
+    "F. Yi",
+    "B.A. McCarl"
+   ],
+   "year": 2018,
+   "venue": "China Agricultural Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Water Implications of Greenhouse Gas Mitigation Through Land Use, Land Use Change, and Forestry",
+   "authors": [
+    "E.C.H. Yu",
+    "B.A. McCarl"
+   ],
+   "year": 2018,
+   "venue": "Sustainability",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Adaptation to Climate Change via Adjustment in Land Leasing: Evidence from Wheat Farms in the U.S. Pacific Northwest",
+   "authors": [
+    "H. Zhang",
+    "J.E. Mu",
+    "B.A. McCarl"
+   ],
+   "year": 2018,
+   "venue": "Land Use Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Role of Climate Factors in Shaping China’s Crop Mix: An Empirical Exploration",
+   "authors": [
+    "Y.W. Zhang",
+    "J.E. Mu",
+    "M. Musumba",
+    "B.A. McCarl",
+    "X. Gu",
+    "Y. Zhou"
+   ],
+   "year": 2018,
+   "venue": "Sustainability",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Climate change influences on crop mix shifts in the United States",
+   "authors": [
+    "S.J. Cho",
+    "B.A. McCarl"
+   ],
+   "year": 2017,
+   "venue": "Scientific Reports",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Estimating the impacts of climate change and potential adaptation strategies for the production, transportation, and trade of cereal production in the United States",
+   "authors": [
+    "C.J. Fei",
+    "B.A. McCarl",
+    "A.W. Thayer"
+   ],
+   "year": 2017,
+   "venue": "Frontiers in Ecology and Evolution",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Adaptation: An Agricultural Challenge",
+   "authors": [
+    "C.J. Fei",
+    "B.A. McCarl",
+    "X.X. Fan"
+   ],
+   "year": 2017,
+   "venue": "Climate",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Policy Uncertainty and US Ethanol Industry",
+   "authors": [
+    "J.P.H. Jones",
+    "M.L. Wang",
+    "Z.M. Wang",
+    "B.A. McCarl"
+   ],
+   "year": 2017,
+   "venue": "Sustainability",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Climate Change as an Agricultural Economic Research Topic",
+   "authors": [
+    "B.A. McCarl",
+    "T.W. Hertel"
+   ],
+   "year": 2017,
+   "venue": "Applied Economic Perspectives and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Model Use in FEW Nexus Analysis: A Review of Issues",
+   "authors": [
+    "B.A. McCarl",
+    "Y.Q. Yang",
+    "K.A. Schwabe",
+    "B.A. Engel",
+    "A.H. Mondal",
+    "C. Ringler",
+    "E.N. Pistikopoulos"
+   ],
+   "year": 2017,
+   "venue": "Current Sustainable/Renewable Energy Reports",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Data for WEF Nexus Analysis: A Review of Issues",
+   "authors": [
+    "B.A. McCarl",
+    "Y.Q. Yang",
+    "R. Srinivasan",
+    "E.N. Pistikopoulos",
+    "R.H. Mohtar"
+   ],
+   "year": 2017,
+   "venue": "Current Sustainable/Renewable Energy Reports",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Behavioral Response to Trend-Adjusted APH Program: Extensive and Intensive Margins",
+   "authors": [
+    "H.S. Seo",
+    "T. Kim",
+    "M.K. Kim",
+    "B.A. McCarl"
+   ],
+   "year": 2017,
+   "venue": "Agricultural Finance Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Relationships between Typhoons, Climate and Crime Rates in Taiwan",
+   "authors": [
+    "E.C.H. Yu",
+    "J.E. Mu",
+    "J.X. Ding",
+    "B.A. McCarl"
+   ],
+   "year": 2017,
+   "venue": "Natural Hazards Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Adapting to Climate Change through Fallow Rotation",
+   "authors": [
+    "H. Zhang",
+    "J.E. Mu",
+    "B.A. McCarl"
+   ],
+   "year": 2017,
+   "venue": "Climate",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Overview of Mitigation and Adaptation Needs and Strategies for Livestock Sector",
+   "authors": [
+    "Y.W. Zhang",
+    "J.P.H. Jones",
+    "B.A. McCarl"
+   ],
+   "year": 2017,
+   "venue": "Climate",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Climate Factors and Pesticide Usage in China: An Empirical Investigation",
+   "authors": [
+    "Y.W. Zhang",
+    "Y. Luan",
+    "U. Kleinwechter",
+    "B.A. McCarl"
+   ],
+   "year": 2017,
+   "venue": "Mitigation and Adaptation Strategies for Global Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Decadal Climate Variability in the Missouri River Basin: Value of Information for Agricultural and Water Use Adaptation",
+   "authors": [
+    "M.A. Fernandez",
+    "B.A. McCarl",
+    "P. Huang",
+    "V.M. Mehta"
+   ],
+   "year": 2016,
+   "venue": "Climatic Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Challenge of Climate Change Adaptation: An Economically Oriented Review",
+   "authors": [
+    "B.A. McCarl",
+    "A. Thayer",
+    "J.P.H. Jones"
+   ],
+   "year": 2016,
+   "venue": "Journal of Agricultural and Applied Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Revisiting the Classified Milk Pricing System: Seasonal and Spatial Milk Pricing in the U. S",
+   "authors": [
+    "H.S. Seo",
+    "B.A. McCarl"
+   ],
+   "year": 2016,
+   "venue": "Journal of Rural Development/Nongchon-Gyeongje",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Climate Change Impacts on US Agriculture and Forestry: Benefits of Global Climate Stabilization",
+   "authors": [
+    "Martinich",
+    "J. Cole",
+    "S. Ohrel",
+    "B. DeAngelo",
+    "J. McFarland",
+    "K. Strzepek",
+    "B. Boehlert",
+    "B.A. McCarl"
+   ],
+   "year": 2015,
+   "venue": "Environmental Research Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Climate Change Adaptation: Linking Regional Exposure with Diverse Adaptive Capacity",
+   "authors": [
+    "D.D. Briske",
+    "L.A. Joyce",
+    "H.W. Polley",
+    "J.R. Brown",
+    "K. Wolter",
+    "J.A. Morgan",
+    "B.A. McCarl",
+    "D.W. Bailey"
+   ],
+   "year": 2015,
+   "venue": "Frontiers in Ecology and the Environment",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Evaluating the Damage of Climate Change on Global Coral Reefs",
+   "authors": [
+    "P.Y. Chen",
+    "C.C. Chen",
+    "L.F. Chu",
+    "B.A. McCarl"
+   ],
+   "year": 2015,
+   "venue": "Global Environmental Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Water requirements for potato production under climate change",
+   "authors": [
+    "A.A. Farag",
+    "M.A.A. Abdrabbo",
+    "M.H. Manal",
+    "G. EL-Moula",
+    "B.A. McCarl"
+   ],
+   "year": 2015,
+   "venue": "Global Journal of Advanced Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Elaborations on Climate Adaptation in U.S. Agriculture",
+   "authors": [
+    "B.A. McCarl"
+   ],
+   "year": 2015,
+   "venue": "Choices",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Theme Overview Climate Change and Agriculture: Revisiting the Evidence and Potential Solutions",
+   "authors": [
+    "B.A. McCarl",
+    "B.C. Murray"
+   ],
+   "year": 2015,
+   "venue": "Choices",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Implications of Climate Change for Egypt's Agricultural Sector",
+   "authors": [
+    "B.A. McCarl",
+    "M. Musumba",
+    "J.B. Smith",
+    "P. Kirshen",
+    "R.P. Jones",
+    "L. Deck",
+    "M. Abrado",
+    "A. El-Ganzori",
+    "M. Ahmed",
+    "M. Kotb",
+    "M. El-Shamy",
+    "M.A. Rabbo",
+    "I. El-Shinnawy",
+    "M. El- Agizy",
+    "M. Bayoumi",
+    "R. Hynninen"
+   ],
+   "year": 2015,
+   "venue": "Mitigation and Adaptation Strategies for Global Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "U.S. Land Use and Management Change under Climate Change Adaptation and Mitigation Strategies",
+   "authors": [
+    "J.E. Mu",
+    "A.M. Wein",
+    "B.A. McCarl"
+   ],
+   "year": 2015,
+   "venue": "Mitigation and Adaptation Strategies for Global Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Impacts of bovine spongiform encephalopathy and avian influenza on U.S. meat demand",
+   "authors": [
+    "J.E. Mu",
+    "B.A. McCarl",
+    "A.D. Hagerman",
+    "D.A. Bessler"
+   ],
+   "year": 2015,
+   "venue": "Journal of Integrative Agriculture",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Managing the Nitrogen Cycle to Reduce Greenhouse Gas Emissions from US Biofuel Feedstock Production",
+   "authors": [
+    "S.M. Ogle",
+    "B.A. McCarl",
+    "J.S. Baker",
+    "S.J. Del Grosso",
+    "P. Adler",
+    "K. Paustian",
+    "W.J. Parton"
+   ],
+   "year": 2015,
+   "venue": "Mitigation and Adaptation Strategies for Global Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How is CO2 Affecting Yields and Technological Progress? A Statistical Analysis",
+   "authors": [
+    "W. Attavanich",
+    "B.A. McCarl"
+   ],
+   "year": 2014,
+   "venue": "Climatic Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Measuring the efficiency of the Farm Credit System",
+   "authors": [
+    "T. Dang",
+    "D.J. Leatham",
+    "B.A. McCarl",
+    "X.M. Wu"
+   ],
+   "year": 2014,
+   "venue": "Agricultural Finance Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Land-based Carbon Sequestration and Leakage Discounting",
+   "authors": [
+    "M.K. Kim",
+    "D. Peralta",
+    "B.A. McCarl"
+   ],
+   "year": 2014,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Environmental and Economic Evaluation of Pyrolysis for Energy Generation in Taiwan with Endogenous Land Greenhouse Gases Emissions",
+   "authors": [
+    "C.C. Kung",
+    "B.A. McCarl",
+    "C.C. Chen"
+   ],
+   "year": 2014,
+   "venue": "International Journal of Environmental Research and Public Health",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Environmental Impact and Energy Production: Evaluation of Biochar Application on Taiwanese Set-Aside Land",
+   "authors": [
+    "C.C. Kung",
+    "B.A. McCarl",
+    "C.C. Chen",
+    "X. Cao"
+   ],
+   "year": 2014,
+   "venue": "Energy & Environment Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Climate change and the risk of highly pathogenic avian influenza outbreaks in birds",
+   "authors": [
+    "J.E. Mu",
+    "B.A. McCarl",
+    "X.M. Wu",
+    "M.A. Ward"
+   ],
+   "year": 2014,
+   "venue": "British Journal of Environment and Climate Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Analysis of the Cost of Malaria in Children and Use of Insecticide-Treated Bednets in Africa",
+   "authors": [
+    "M. Musumba",
+    "A. Egbendewe-Mondzozo",
+    "B.A. McCarl"
+   ],
+   "year": 2014,
+   "venue": "African Development Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Potential Economic Effects of Climate Change on Egypt",
+   "authors": [
+    "J.B. Smith",
+    "B.A. McCarl",
+    "P. Kirshen",
+    "R.P. Jones",
+    "L. Deck",
+    "M.A. Rabbo",
+    "M.S. Borhan",
+    "A. El-Ganzori",
+    "M. El-Shamy",
+    "M. Hassan",
+    "I. El-Shinnawy",
+    "M. Abrabou",
+    "M.K. Hassanein",
+    "M. El-Agizy",
+    "M. Bayoumi",
+    "R. Hynninen"
+   ],
+   "year": 2014,
+   "venue": "Climate Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Modeling Climate Change Impacts on U.S. Agricultural Exports",
+   "authors": [
+    "Y.W. Zhang",
+    "Y. Cai",
+    "R.H. Beach",
+    "B.A. McCarl"
+   ],
+   "year": 2014,
+   "venue": "Journal of Integrative Agriculture",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Climate Change and Infrastructure: Effects of Climate Change on U.S. Grain Transport",
+   "authors": [
+    "W. Attavanich",
+    "B.A. McCarl",
+    "Z. Ahmedov",
+    "S.W. Fuller",
+    "D.V. Vedenov"
+   ],
+   "year": 2013,
+   "venue": "Nature Climate Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Implications of Alternative Agricultural Productivity Growth Assumptions on Land Management, Greenhouse Gas Emissions, and Mitigation Potential",
+   "authors": [
+    "J.S. Baker",
+    "B.C. Murray",
+    "B.A. McCarl",
+    "S.J. Feng",
+    "R. Johansson"
+   ],
+   "year": 2013,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Measuring Efficiency within the Farm Credit System",
+   "authors": [
+    "T. Dang",
+    "D.J. Leatham",
+    "B.A. McCarl",
+    "X.M. Wu"
+   ],
+   "year": 2013,
+   "venue": "Agricultural Finance Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Partial equilibrium analysis of vaccination as an avian influenza control tool in the U.S. poultry sector",
+   "authors": [
+    "A. Egbendewe-Mondzozo",
+    "L. Elbakidze",
+    "B.A. McCarl",
+    "M.A. Ward",
+    "J.B. Carey"
+   ],
+   "year": 2013,
+   "venue": "Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Carbon Footprint for Paddy Rice Production in Egypt",
+   "authors": [
+    "A.A. Farag",
+    "H.A. Radwan",
+    "M.A.A. Abdrabbo",
+    "M.A.M. Heggi",
+    "B.A. McCarl"
+   ],
+   "year": 2013,
+   "venue": "Nature and Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Rapid Effective Trace-Back Capability Value in Reducing the Cost of a Foot and Mouth Disease Event",
+   "authors": [
+    "A.D. Hagerman",
+    "D.P. Anderson",
+    "J.C. Looney",
+    "B.A. McCarl",
+    "M.A. Ward"
+   ],
+   "year": 2013,
+   "venue": "Preventative Veterinary Medicine",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Climate Change and North American Rangelands: Assessment of Mitigation and Adaptation Strategies",
+   "authors": [
+    "L.A. Joyce",
+    "D.D. Briske",
+    "J.R. Brown",
+    "H.W. Polley",
+    "B.A. McCarl",
+    "D.W. Bailey"
+   ],
+   "year": 2013,
+   "venue": "Rangeland Ecology & Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economics of Pyrolysis based Energy Production and Biochar Utilization: A Case Study in Taiwan",
+   "authors": [
+    "C.C. Kung",
+    "B.A. McCarl",
+    "X. Cao"
+   ],
+   "year": 2013,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Bioenergy Prospects in Taiwan Using Set- Aside Land--An Economic Evaluation",
+   "authors": [
+    "C.C. Kung",
+    "B.A. McCarl",
+    "X. Cao",
+    "H. Xie"
+   ],
+   "year": 2013,
+   "venue": "China Agricultural Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A multi-sector intertemporal optimization approach to assess the GHG implications of U.S. forest and agricultural biomass electricity expansion",
+   "authors": [
+    "G.S. Latta",
+    "J.S. Baker",
+    "R.H. Beach",
+    "S.K. Rose",
+    "B.A. McCarl"
+   ],
+   "year": 2013,
+   "venue": "Journal of Forest Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic factors influencing potential use of cellulosic crop residues for electricity generation",
+   "authors": [
+    "T.A. Maung",
+    "B.A. McCarl"
+   ],
+   "year": 2013,
+   "venue": "Energy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Climate Change Agriculture and Food Security: Consequences and Possible Decisions",
+   "authors": [
+    "B.A. McCarl",
+    "M.A. Fernandez",
+    "J.P.H. Jones",
+    "M. Wlodarz"
+   ],
+   "year": 2013,
+   "venue": "Current History",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Alternative U.S. Biofuel Mandates and Global GHG emissions: The Role of Land Use Change, Crop Management and Yield Growth",
+   "authors": [
+    "A. Mosnier",
+    "P. Havlik",
+    "H. Valin",
+    "J.S. Baker",
+    "B.C. Murray",
+    "S.J. Feng",
+    "M. Obersteiner",
+    "B.A. McCarl",
+    "S.K. Rose",
+    "U.A. Schneider"
+   ],
+   "year": 2013,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Adaptation to climate change: changes in farmland use and stocking rate in the U. S",
+   "authors": [
+    "J.E. Mu",
+    "B.A. McCarl",
+    "A.M. Wein"
+   ],
+   "year": 2013,
+   "venue": "Mitigation and Adaptation Strategies for Global Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "US agricultural sector analysis on pesticide externalities - The impact of climate change and a Pigovian tax",
+   "authors": [
+    "N.G. Shakhramanyan",
+    "U.A. Schneider",
+    "B.A. McCarl"
+   ],
+   "year": 2013,
+   "venue": "Climatic Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Climate Change Influences on Agricultural Research Productivity",
+   "authors": [
+    "X. Villavicencio",
+    "B.A. McCarl",
+    "X.M. Wu",
+    "W.E. Huffman"
+   ],
+   "year": 2013,
+   "venue": "Climatic Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Temporal Investment in Climate Change Adaptation and Mitigation",
+   "authors": [
+    "W.W. Wang",
+    "B.A. McCarl"
+   ],
+   "year": 2013,
+   "venue": "Climate Change Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How climate factors influence the spatial distribution of Texas cattle breeds",
+   "authors": [
+    "Y.W. Zhang",
+    "A.D. Hagerman",
+    "B.A. McCarl"
+   ],
+   "year": 2013,
+   "venue": "Climatic Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "U.S. Agriculture under Climate Change: An Examination of Climate Change Effects on Ease of Achieving RFS2",
+   "authors": [
+    "Y.W. Zhang",
+    "B.A. McCarl"
+   ],
+   "year": 2013,
+   "venue": "Economic Research International",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Modeling Bioenergy, Land Use, and GHG Emissions with FASOMGHG: Model overview and Analysis of Storage Cost Implications",
+   "authors": [
+    "R.H. Beach",
+    "B.A. McCarl",
+    "Y.W. Zhang"
+   ],
+   "year": 2012,
+   "venue": "Climate Change Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Evaluating the Economic Impacts of Climate Change Induced Sea Level Rise with Possible Adaptation Strategies on Taiwan Agricultural Sector",
+   "authors": [
+    "C.C. Chang",
+    "C.C. Chen",
+    "B.A. McCarl"
+   ],
+   "year": 2012,
+   "venue": "Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Climate Change, Sea Level Rise and Rice: Global Market Implications",
+   "authors": [
+    "C.C. Chen",
+    "B.A. McCarl",
+    "C.C. Chang"
+   ],
+   "year": 2012,
+   "venue": "Climatic Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic dimensions and directions of animal disease policy",
+   "authors": [
+    "A.D. Hagerman",
+    "K.H. Mathews Jr.",
+    "B.A. McCarl"
+   ],
+   "year": 2012,
+   "venue": "International Journal of Risk Assessment and Management (IJRAM)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Pesticide and greenhouse gas externalities from US agriculture - The impact of their internalization and climate change",
+   "authors": [
+    "N.G. Koleva",
+    "U.A. Schneider",
+    "B.A. McCarl"
+   ],
+   "year": 2012,
+   "venue": "Climate Change Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Energy Sorghum: A Genetic Model for C4 Grass Bioenergy Crops",
+   "authors": [
+    "S. Olson",
+    "K. Ritter",
+    "W. Rooney",
+    "A. Kermanian",
+    "B.A. McCarl",
+    "Y.W. Zhang",
+    "J. Mullet"
+   ],
+   "year": 2012,
+   "venue": "Biofuels, Bioproducts & Biorefining",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "H1N1 (Swine Flu) Media Coverage on Agricultural Commodity Markets",
+   "authors": [
+    "W. Attavanich",
+    "D.A. Bessler",
+    "B.A. McCarl"
+   ],
+   "year": 2011,
+   "venue": "Applied Economic Perspectives and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Epidemic and economic impacts of delayed detection of foot-and-mouth disease: a case study of an outbreak in California",
+   "authors": [
+    "T.E. Carpenter",
+    "J.M. O'Brien",
+    "A.D. Hagerman",
+    "B.A. McCarl"
+   ],
+   "year": 2011,
+   "venue": "Journal of Veterinary Diagnostic Investigation",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Evaluation the Potential Economic Impacts of Taiwanese Biomass Energy Production",
+   "authors": [
+    "C.C. Chen",
+    "B.A. McCarl",
+    "C.C. Chang",
+    "C. Tso"
+   ],
+   "year": 2011,
+   "venue": "Biomass and Bioenergy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Equivalence of Tariffs and Quotas under a Tariff-Rate Quota System: A Case Study of Rice",
+   "authors": [
+    "C.C. Chen",
+    "C.C. Chang",
+    "B.A. McCarl"
+   ],
+   "year": 2011,
+   "venue": "Canadian Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic Assessment of Climate Change on Turkish Agriculture",
+   "authors": [
+    "I. Dellal",
+    "B.A. McCarl",
+    "T.A. Butt"
+   ],
+   "year": 2011,
+   "venue": "Journal of Environmental Protection and Ecology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Smallholders adaptation to climate change in Mali",
+   "authors": [
+    "K.L. Ebi",
+    "J. Padgham",
+    "M. Doumbia",
+    "A.O. Kergna",
+    "J.B. Smith",
+    "T.A. Butt",
+    "B.A. McCarl"
+   ],
+   "year": 2011,
+   "venue": "Climatic Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Climate Change and Vector-borne Diseases: An Economic Impact Analysis of Malaria in Africa",
+   "authors": [
+    "A. Egbendewe-Mondzozo",
+    "M. Musumba",
+    "B.A. McCarl",
+    "X.M. Wu"
+   ],
+   "year": 2011,
+   "venue": "International Journal of Environmental Research and Public Health",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Emergency vaccination and control of FMD: Consequences of its inclusion as a US Policy Option",
+   "authors": [
+    "A.D. Hagerman",
+    "B.A. McCarl",
+    "T.E. Carpenter",
+    "J.O. O'Brien",
+    "M.A. Ward"
+   ],
+   "year": 2011,
+   "venue": "Applied Economic Perspectives and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Understanding the Potential Impacts of Rift Valley Fever in the United States",
+   "authors": [
+    "D.M. Hartley",
+    "J.L. Rinderknecht",
+    "T.L. Nipp",
+    "N.P. Clarke",
+    "G.D. Snowder",
+    "B.A. McCarl",
+    "others"
+   ],
+   "year": 2011,
+   "venue": "Emerging Infectious Diseases",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Managing Livestock Species under Climate Change in Australia",
+   "authors": [
+    "S.N. Seo",
+    "B.A. McCarl"
+   ],
+   "year": 2011,
+   "venue": "Animals",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Mitigating Greenhouse Gases: Forestry's Interactions with Other Sectors",
+   "authors": [
+    "R.J. Alig",
+    "G.S. Latta",
+    "D.M. Adams",
+    "B.A. McCarl"
+   ],
+   "year": 2010,
+   "venue": "Forest Policy and Economics Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Trade Liberalization, Trade-Related- Climate-Change Policies, and Their Consequences: Discussion",
+   "authors": [
+    "W. Attavanich",
+    "B.A. McCarl",
+    "R. Hughes-Fraire"
+   ],
+   "year": 2010,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Net Farm Income and Land Use under a U.S. Greenhouse Gas Cap-and-Trade",
+   "authors": [
+    "J.S. Baker",
+    "B.A. McCarl",
+    "B.C. Murray",
+    "S.K. Rose",
+    "R.J. Alig",
+    "D.M. Adams",
+    "G.S. Latta",
+    "R.H. Beach",
+    "A. Daigneault"
+   ],
+   "year": 2010,
+   "venue": "AAEA Policy Issues",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Climate Change and the West: A Multifaceted Issue",
+   "authors": [
+    "S.J. Feng",
+    "A.D. Hagerman",
+    "J.H. Mu",
+    "B.A. McCarl",
+    "W.W. Wang"
+   ],
+   "year": 2010,
+   "venue": "Western Economics Forum",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Analysis of Climate Change implications for Agriculture and Forestry: An Interdisciplinary Effort",
+   "authors": [
+    "B.A. McCarl"
+   ],
+   "year": 2010,
+   "venue": "Climatic Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "From beef cattle to sheep under global warming? An analysis of adaptation by livestock species choice in South America",
+   "authors": [
+    "S.N. Seo",
+    "B.A. McCarl",
+    "R. Mendelsohn"
+   ],
+   "year": 2010,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Market Penetration of Ethanol",
+   "authors": [
+    "K.R. Szulczyk",
+    "B.A. McCarl",
+    "J.C. Cornforth"
+   ],
+   "year": 2010,
+   "venue": "Renewable and Sustainable Energy Reviews",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Hurricanes and possible intensity increases: Effects on and reactions from US Agriculture",
+   "authors": [
+    "C.C. Chen",
+    "B.A. McCarl"
+   ],
+   "year": 2009,
+   "venue": "Journal of Agricultural and Applied Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic analysis of mitigation strategies for FMD introduction in highly concentrated animal feeding regions",
+   "authors": [
+    "L. Elbakidze",
+    "L. Highfield",
+    "M.A. Ward",
+    "B.A. McCarl",
+    "B. Norby"
+   ],
+   "year": 2009,
+   "venue": "Review of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic Issues of Animal Disease Related Agroterrorism",
+   "authors": [
+    "L. Elbakidze",
+    "Y.H. Jin",
+    "B.A. McCarl"
+   ],
+   "year": 2009,
+   "venue": "International Journal of Risk Assessment and Management (IJRAM)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "US Bioenergy: Potential, Policy, and Economic / Climate Change Concerns",
+   "authors": [
+    "B.A. McCarl",
+    "F.O. Boadu"
+   ],
+   "year": 2009,
+   "venue": "Drake Journal of Agricultural Law",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Market Penetration of Biodiesel",
+   "authors": [
+    "B.A. McCarl",
+    "K.R. Szulczyk"
+   ],
+   "year": 2009,
+   "venue": "Renewable and Sustainable Energy Reviews",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Climate Change, Agriculture and Economic Growth",
+   "authors": [
+    "B.A. McCarl",
+    "S.J. Feng",
+    "W.W. Wang"
+   ],
+   "year": 2009,
+   "venue": "IAForum, www. ia-forum. org",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Carbon Sequestration: a Potential Source of Income for Farmers",
+   "authors": [
+    "L.A.L. Ribera",
+    "J. Zenteno",
+    "B.A. McCarl"
+   ],
+   "year": 2009,
+   "venue": "Journal of the American Society of Farm Managers and Rural Appraisers",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Strong El Niño Southern Oscillation events and the economics of the international rice market",
+   "authors": [
+    "C.C. Chen",
+    "B.A. McCarl",
+    "C.C. Chang"
+   ],
+   "year": 2008,
+   "venue": "Climate Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Effects of Biosecurity Risk and Food Scare Events on Food Prices and Demand: Discussion",
+   "authors": [
+    "A.D. Hagerman",
+    "B.A. McCarl"
+   ],
+   "year": 2008,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Bioenergy in a greenhouse mitigating world",
+   "authors": [
+    "B.A. McCarl"
+   ],
+   "year": 2008,
+   "venue": "Choices",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Food, BioFuel, Global Agriculture and Environment: Discussion",
+   "authors": [
+    "B.A. McCarl"
+   ],
+   "year": 2008,
+   "venue": "Review of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Climate Change and Future Analysis: Is Stationarity Dying",
+   "authors": [
+    "B.A. McCarl",
+    "X. Villavicencio",
+    "X.M. Wu"
+   ],
+   "year": 2008,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Greenhouse gas emissions, stabilization and the inevitability of adaptation: challenges for agriculture",
+   "authors": [
+    "S.K. Rose",
+    "B.A. McCarl"
+   ],
+   "year": 2008,
+   "venue": "Choices",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Greenhouse gas mitigation in agriculture",
+   "authors": [
+    "P. Smith",
+    "D. Martino",
+    "Z. Cai",
+    "D. Gwary",
+    "H.H. Janzen",
+    "P. Kumar",
+    "B.A. McCarl",
+    "F. O'Mara",
+    "C. Rice",
+    "R. Scholes",
+    "O. Sirotenko",
+    "M. Howden",
+    "T. McAllister",
+    "S.M. Ogle",
+    "G. Pan",
+    "V. Romanenkov",
+    "U.A. Schneider",
+    "S. Towprayoon",
+    "M. Wattenbach",
+    "J.E. Smith"
+   ],
+   "year": 2008,
+   "venue": "Philosophical Transactions of the Royal Society, B",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Empirical Investigation of Institutional Change in Groundwater Management in Texas The Edwards Aquifer Case",
+   "authors": [
+    "F.O. Boadu",
+    "B.A. McCarl",
+    "D. Gillig"
+   ],
+   "year": 2007,
+   "venue": "Natural Resources Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Sequestration Offsets versus Direct Emission Reductions: Consideration of Environmental Co-effects",
+   "authors": [
+    "L. Elbakidze",
+    "B.A. McCarl"
+   ],
+   "year": 2007,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Measuring transnational leakage of forest conservation",
+   "authors": [
+    "J. Gan",
+    "B.A. McCarl"
+   ],
+   "year": 2007,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Competitiveness Of Terrestrial Greenhouse Gas Offsets: Are They A Bridge To The Future?",
+   "authors": [
+    "B.A. McCarl",
+    "R.D. Sands"
+   ],
+   "year": 2007,
+   "venue": "Climatic Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Introduction to Special Issue of Climatic Change on Soil Carbon Sequestration",
+   "authors": [
+    "B.A. McCarl",
+    "F.B. Metting",
+    "C. Rice"
+   ],
+   "year": 2007,
+   "venue": "Climatic Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Agricultural Sector Analysis on Greenhouse Gas Mitigation in US Agriculture and Forestry",
+   "authors": [
+    "U.A. Schneider",
+    "B.A. McCarl",
+    "E. Schmid"
+   ],
+   "year": 2007,
+   "venue": "Agricultural Systems",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Policy and technological constraints to implementation of greenhouse gas mitigation options in agriculture",
+   "authors": [
+    "P. Smith",
+    "D. Martino",
+    "Z. Cai",
+    "D. Gwary",
+    "H.H. Janzen",
+    "P. Kumar",
+    "B.A. McCarl",
+    "F. O'Mara",
+    "C. Rice",
+    "R. Scholes",
+    "O. Sirotenko",
+    "M. Howden",
+    "T. McAllister",
+    "S.M. Ogle",
+    "G. Pan",
+    "V. Romanenkov",
+    "U.A. Schneider",
+    "S. Towprayoon"
+   ],
+   "year": 2007,
+   "venue": "Agriculture, Ecosystems and Environment",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Policies For Reducing Agricultural Sector Vulnerability To Climate Change In Mali",
+   "authors": [
+    "T.A. Butt",
+    "B.A. McCarl",
+    "A.O. Kergna"
+   ],
+   "year": 2006,
+   "venue": "Climate Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Estimating the Impacts of Government Interventions in the International Rice Market",
+   "authors": [
+    "C.C. Chen",
+    "B.A. McCarl",
+    "C.C. Chang"
+   ],
+   "year": 2006,
+   "venue": "Canadian Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Animal Disease Pre Event preparedness vs. Post Event response: When is it Economic to Protect?",
+   "authors": [
+    "L. Elbakidze",
+    "B.A. McCarl"
+   ],
+   "year": 2006,
+   "venue": "Journal of Agricultural and Applied Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Switchgrass as an Alternate Feedstock for Power Generation: An Environmental, Energy, and Economic Life-Cycle Analysis",
+   "authors": [
+    "X. Qin",
+    "T. Mohan",
+    "M.M. El-Halwagi",
+    "G.C. Cornforth",
+    "B.A. McCarl"
+   ],
+   "year": 2006,
+   "venue": "Clean Technologies and Environmental Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Appraising Agricultural Greenhouse Gas Mitigation Potentials: Effects of Alternative Assumptions",
+   "authors": [
+    "U.A. Schneider",
+    "B.A. McCarl"
+   ],
+   "year": 2006,
+   "venue": "Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Elevation Dependent Management of the Edwards Aquifer: A linked Mathematical and Dynamic Programming Approach",
+   "authors": [
+    "R.L. Williams",
+    "B.A. McCarl",
+    "C.C. Chen"
+   ],
+   "year": 2006,
+   "venue": "Journal of Water Resources Planning and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Analytical Framework for Making Long-Term Projections of Undernourishment: A Case Study for Agriculture in Mali",
+   "authors": [
+    "T.A. Butt",
+    "B.A. McCarl"
+   ],
+   "year": 2005,
+   "venue": "Food Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Implications of Carbon Sequestration for Landowners",
+   "authors": [
+    "T.A. Butt",
+    "B.A. McCarl"
+   ],
+   "year": 2005,
+   "venue": "Journal of the American Society of Farm Managers and Rural Appraisers",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Food Security Implications of Climate Change in Developing Countries: Findings from a Case Study in Mali",
+   "authors": [
+    "T.A. Butt",
+    "B.A. McCarl",
+    "J.P. Angerer",
+    "P.R. Dyke",
+    "J.W. Stuth"
+   ],
+   "year": 2005,
+   "venue": "Climatic Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "ENSO Impacts on Regional Water Management: A Case Study of the Edwards Aquifer Region",
+   "authors": [
+    "C.C. Chen",
+    "D. Gillig",
+    "B.A. McCarl",
+    "R.L. Williams"
+   ],
+   "year": 2005,
+   "venue": "Climate Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Trading water for carbon with biological carbon sequestration",
+   "authors": [
+    "R.B. Jackson",
+    "E.G. Jobbgy",
+    "R. Avissar",
+    "D. Barrett",
+    "C.W. Cook",
+    "K.A. Farley",
+    "D.C. Maitre",
+    "B.A. McCarl",
+    "B.C. Murray",
+    "S.B. Roy"
+   ],
+   "year": 2005,
+   "venue": "Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Water Quality Co-effects of Greenhouse Gas Mitigation in US Agriculture",
+   "authors": [
+    "S.K. Pattanayak",
+    "B.A. McCarl",
+    "A.J. Sommer",
+    "B.C. Murray",
+    "T. Bondelid",
+    "D. Gillig",
+    "B. de Angelo"
+   ],
+   "year": 2005,
+   "venue": "Climatic Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Implications of a Carbon Based Energy Tax for US Agriculture",
+   "authors": [
+    "U.A. Schneider",
+    "B.A. McCarl"
+   ],
+   "year": 2005,
+   "venue": "Agricultural and Resource Economics Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "On-Farm Carbon Sequestration: Can Farmers Employ it to Make Some Money?",
+   "authors": [
+    "T.A. Butt",
+    "B.A. McCarl"
+   ],
+   "year": 2004,
+   "venue": "Choices",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Yield Variability as Influenced by Climate: A Statistical Investigation",
+   "authors": [
+    "C.C. Chen",
+    "B.A. McCarl",
+    "D.E. Schimmelpfennig"
+   ],
+   "year": 2004,
+   "venue": "Climatic Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Should We Consider the Co-Benefits of Agricultural GHG Offsets",
+   "authors": [
+    "L. Elbakidze",
+    "B.A. McCarl"
+   ],
+   "year": 2004,
+   "venue": "Choices",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Integrating Agricultural and Forestry GHG Mitigation Response into General Economy Frameworks: Developing a Family of Response Functions",
+   "authors": [
+    "D. Gillig",
+    "B.A. McCarl",
+    "R.D. Sands"
+   ],
+   "year": 2004,
+   "venue": "Mitigation and Adaptation Strategies for Global Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic Efficiency and Cost Implications of Habitat Conservation: An Example in the Context of the Edwards Aquifer Region",
+   "authors": [
+    "D. Gillig",
+    "B.A. McCarl",
+    "L.L. Jones",
+    "F.O. Boadu"
+   ],
+   "year": 2004,
+   "venue": "Water Resources Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Estimating Leakage From Forest Carbon Sequestration Programs",
+   "authors": [
+    "B.C. Murray",
+    "B.A. McCarl",
+    "H-C. Lee"
+   ],
+   "year": 2004,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Enhancement of Carbon Sequestration in US Soils",
+   "authors": [
+    "W.M. Post",
+    "R.C. Izaurralde",
+    "J. Jastrow",
+    "B.A. McCarl",
+    "J.E. Amonette",
+    "V.L. Bailey",
+    "P.M. Jardine",
+    "T.O. West",
+    "J. Zhou"
+   ],
+   "year": 2004,
+   "venue": "Bioscience",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Overview: The Climate-Change Squeeze Facing the United States and US Agriculture",
+   "authors": [
+    "B.L. Sohngen",
+    "B.A. McCarl"
+   ],
+   "year": 2004,
+   "venue": "Choices",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Effects of Spatial Scale of Climate Scenarios on Economic Assessments: An Example from US Agriculture",
+   "authors": [
+    "R.M. Adams",
+    "B.A. McCarl",
+    "L.O. Mearns"
+   ],
+   "year": 2003,
+   "venue": "Climatic Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Benefits and Costs to Mexican Agriculture of an El Niño Southern Oscillation (ENSO) Early Warning System",
+   "authors": [
+    "R.M. Adams",
+    "L.L. Houston",
+    "B.A. McCarl",
+    "M. Tiscareo",
+    "J. Matus",
+    "R.F. Weiher"
+   ],
+   "year": 2003,
+   "venue": "Agricultural and Forest Meteorology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Projecting Impacts of Global Climate Change on the US Forest and Agriculture Sectors and Carbon Budgets",
+   "authors": [
+    "R.J. Alig",
+    "D.M. Adams",
+    "B.A. McCarl"
+   ],
+   "year": 2003,
+   "venue": "Forest Ecology and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Uncertainty due to Spatial Scale of Climate Scenarios in Integrated Assessments: An example from US Agriculture",
+   "authors": [
+    "L.O. Mearns",
+    "G. Carbone",
+    "R.M. Doherty",
+    "E. Tsvetsinskaya",
+    "B.A. McCarl",
+    "R.M. Adams",
+    "L. McDaniel"
+   ],
+   "year": 2003,
+   "venue": "Integrated Assessment",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic Potential of Biomass Based Fuels for Greenhouse Gas Emission Mitigation",
+   "authors": [
+    "U.A. Schneider",
+    "B.A. McCarl"
+   ],
+   "year": 2003,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Value of ENSO Information under Alternative ENSO Phase Definitions",
+   "authors": [
+    "C.C. Chen",
+    "B.A. McCarl",
+    "H.S.J. Hill"
+   ],
+   "year": 2002,
+   "venue": "Climatic Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "US Agriculture and Climate Change: New Results",
+   "authors": [
+    "J.M. Reilly",
+    "F. Tubiello",
+    "B.A. McCarl",
+    "D.G. Abler",
+    "R. Darwin",
+    "K. Fuglie",
+    "S.E. Hollinger",
+    "R.C. Izaurralde",
+    "S. Jagtap",
+    "J.W. Jones",
+    "L.O. Mearns",
+    "D.S. Ojima",
+    "E.A. Paul",
+    "K. Paustian",
+    "S.J. Riha",
+    "N.J. Rosenberg",
+    "C. Rosenzweig"
+   ],
+   "year": 2002,
+   "venue": "Climatic Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Pesticide Usage as Influenced by Climate: A Statistical Investigation",
+   "authors": [
+    "C.C. Chen",
+    "B.A. McCarl"
+   ],
+   "year": 2001,
+   "venue": "Climatic Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic Implications of Potential Climate Change Induced ENSO Frequency and Strength Shifts",
+   "authors": [
+    "C.C. Chen",
+    "B.A. McCarl",
+    "R.M. Adams"
+   ],
+   "year": 2001,
+   "venue": "Climatic Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Effects of Climatic Change on a Water Dependent Regional Economy: A Study of the Texas Edwards Aquifer",
+   "authors": [
+    "C.C. Chen",
+    "D. Gillig",
+    "B.A. McCarl"
+   ],
+   "year": 2001,
+   "venue": "Climatic Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Economic, Hydrologic, and Environmental Assessment of Water Management Alternative Plans for the South-Central Texas Region",
+   "authors": [
+    "D. Gillig",
+    "B.A. McCarl",
+    "F.O. Boadu"
+   ],
+   "year": 2001,
+   "venue": "Journal of Agricultural and Applied Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Assessing Socioeconomic Impacts of Climate Change on US Forests, Wood-Product Markets and Forest Recreation",
+   "authors": [
+    "L.C. Irland",
+    "D.M. Adams",
+    "R.J. Alig",
+    "C.J. Betz",
+    "C.C. Chen",
+    "M. Hutchins",
+    "B.A. McCarl",
+    "K. Skog",
+    "B.L. Sohngen"
+   ],
+   "year": 2001,
+   "venue": "Bioscience",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Soil Carbon: Policy and Economics",
+   "authors": [
+    "G. Marland",
+    "B.A. McCarl",
+    "U.A. Schneider"
+   ],
+   "year": 2001,
+   "venue": "Climatic Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Cost of Greenhouse Gas Mitigation in US Agriculture and Forestry",
+   "authors": [
+    "B.A. McCarl",
+    "U.A. Schneider"
+   ],
+   "year": 2001,
+   "venue": "Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic Potential of Short-Rotation Woody Crops on Agricultural Land for Pulp Fiber Production in the United States",
+   "authors": [
+    "R.J. Alig",
+    "B.A. McCarl",
+    "D.M. Adams",
+    "P.J. Ince"
+   ],
+   "year": 2000,
+   "venue": "Forest Products Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Assessing Regional Impacts of Change: Linking Economic and Environmental Models",
+   "authors": [
+    "J.D. Atwood",
+    "B.A. McCarl",
+    "C.C. Chen",
+    "B.R. Eddleman",
+    "R. Srinivasan",
+    "W.I. Nayda"
+   ],
+   "year": 2000,
+   "venue": "Agricultural Systems",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Value of ENSO Information to Agriculture: Consideration of Event Strength and Trade",
+   "authors": [
+    "C.C. Chen",
+    "B.A. McCarl"
+   ],
+   "year": 2000,
+   "venue": "Journal of Agricultural and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Evaluation of the 1997 Edwards Aquifer Irrigation Suspension",
+   "authors": [
+    "K.O. Keplinger",
+    "B.A. McCarl"
+   ],
+   "year": 2000,
+   "venue": "Journal of the American Water Resources Association",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "US Agriculture's Role in a Greenhouse Gas Emission Mitigation World: An Economic Perspective",
+   "authors": [
+    "B.A. McCarl",
+    "U.A. Schneider"
+   ],
+   "year": 2000,
+   "venue": "Review of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Analysis of Biomass Fueled Electrical Power Plants: Implications in the Agricultural and Forestry Sectors",
+   "authors": [
+    "B.A. McCarl",
+    "D.M. Adams",
+    "R.J. Alig",
+    "J.T. Chmelik"
+   ],
+   "year": 2000,
+   "venue": "Annals of Operations Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Effects of Global Climate Change on the US Forest Sector: Response Functions Derived from a Dynamic Resource and Market Simulator",
+   "authors": [
+    "B.A. McCarl",
+    "D.M. Burton",
+    "D.M. Adams",
+    "R.J. Alig",
+    "C.C. Chen"
+   ],
+   "year": 2000,
+   "venue": "Climate Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Strategic Business Operation Realignment: A Case Study of Texas Prison System Agricultural Operations",
+   "authors": [
+    "B.A. McCarl",
+    "M.E. Rister",
+    "R.A. Ward",
+    "C.R. Long",
+    "D.A. McCorkle",
+    "H.A. Ziari",
+    "J.R. Conner",
+    "A.W. Sturdivant",
+    "T.N. Thompson"
+   ],
+   "year": 2000,
+   "venue": "Journal of Agricultural and Applied Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Minimum Cost Strategies for Sequestering Carbon in Forests",
+   "authors": [
+    "D.M. Adams",
+    "R.J. Alig",
+    "B.A. McCarl",
+    "J.M. Callaway",
+    "S.M. Winnett"
+   ],
+   "year": 1999,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Economic Consequences of ENSO Events for Agriculture",
+   "authors": [
+    "R.M. Adams",
+    "C.C. Chen",
+    "B.A. McCarl",
+    "R.F. Weiher"
+   ],
+   "year": 1999,
+   "venue": "Climate Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Curbing Greenhouse Gases: Agriculture's Role",
+   "authors": [
+    "B.A. McCarl",
+    "U.A. Schneider"
+   ],
+   "year": 1999,
+   "venue": "Choices",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Limiting Pumping from the Edwards Aquifer: An Economic Investigation of Proposals, Water Markets and Springflow Guarantees",
+   "authors": [
+    "B.A. McCarl",
+    "K.O. Keplinger",
+    "C.R. Dillon",
+    "R.L. Williams"
+   ],
+   "year": 1999,
+   "venue": "Water Resources Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Edwards Aquifer Water Resource Conflict: USDA Farm Program Resource-Use Incentives",
+   "authors": [
+    "G.D. Schiable",
+    "B.A. McCarl",
+    "R.D. Lacewell"
+   ],
+   "year": 1999,
+   "venue": "Water Resources Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Meat Packing Plant Production Planning: Application Of Mixed Integer Goal Programming",
+   "authors": [
+    "J.R. Stokes",
+    "A.W. Sturdivant",
+    "H.A. Ziari",
+    "M.E. Rister",
+    "B.A. McCarl"
+   ],
+   "year": 1999,
+   "venue": "International Journal of Agribusiness",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Effects of Factor Supply Assumptions on Intertemporal Timber Supply Behavior: The Cases of Investable Funds and Land",
+   "authors": [
+    "D.M. Adams",
+    "R.J. Alig",
+    "B.A. McCarl",
+    "S.M. Winnett",
+    "J.M. Callaway"
+   ],
+   "year": 1998,
+   "venue": "Canadian Journal of Forestry",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Ecological and Economic Impacts of Forest Policies: Interactions Across Forestry and Agriculture",
+   "authors": [
+    "R.J. Alig",
+    "D.M. Adams",
+    "B.A. McCarl"
+   ],
+   "year": 1998,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Impacts of Incorporating Land Exchanges Between Forestry and Agriculture in Sector Models",
+   "authors": [
+    "R.J. Alig",
+    "D.M. Adams",
+    "B.A. McCarl"
+   ],
+   "year": 1998,
+   "venue": "Journal of Agricultural and Applied Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Costs Of Water Treatment Due To Diminished Water Quality: A Case Study In Texas",
+   "authors": [
+    "D. Dearmont",
+    "B.A. McCarl",
+    "D.A. Tolman"
+   ],
+   "year": 1998,
+   "venue": "Water Resources Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic and Hydrologic Implications of Suspending Irrigation in Dry Years",
+   "authors": [
+    "K.O. Keplinger",
+    "B.A. McCarl",
+    "M.E. Chowdhury",
+    "R.D. Lacewell"
+   ],
+   "year": 1998,
+   "venue": "Journal of Agricultural and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Note on Fixing Misbehaving Mathematical Programs: Post Optimality Procedures and GAMS Related Software",
+   "authors": [
+    "B.A. McCarl"
+   ],
+   "year": 1998,
+   "venue": "Journal of Agricultural and Applied Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Repairing Misbehaving Mathematical Programming Models: Concepts and a GAMS-Based Approach",
+   "authors": [
+    "B.A. McCarl"
+   ],
+   "year": 1998,
+   "venue": "Interfaces",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Optimal Structure of an Agribusiness Firm Considering the Economics of Major, Linked Components",
+   "authors": [
+    "B.A. McCarl",
+    "R.A. Ward",
+    "M.E. Rister",
+    "D.A. McCorkle",
+    "C.R. Long"
+   ],
+   "year": 1998,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Value of Improved ENSO Prediction to US Agriculture",
+   "authors": [
+    "A.R. Solow",
+    "R.M. Adams",
+    "K.J. Bryant",
+    "D.M. Legler",
+    "J.J. O'Brien",
+    "B.A. McCarl",
+    "W.I. Nayda",
+    "R.F. Weiher"
+   ],
+   "year": 1998,
+   "venue": "Climatic Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Effects of Department Operating Budget Reductions on System wide Agribusiness Operations",
+   "authors": [
+    "R.A. Ward",
+    "M.E. Rister",
+    "B.A. McCarl",
+    "D.J. Leatham Jr.",
+    "D.A. McCorkle",
+    "C.R. Long"
+   ],
+   "year": 1998,
+   "venue": "Agricultural Finance Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Assessing Effects of Mitigation Strategies for Global Climate Change with an Intertemporal Model of the US Forest and Agriculture Sectors",
+   "authors": [
+    "R.J. Alig",
+    "D.M. Adams",
+    "J.M. Callaway",
+    "S.M. Winnett",
+    "B.A. McCarl"
+   ],
+   "year": 1997,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Assessing Effects of Mitigation Strategies for Global Climate Change with an Intertemporal Model of the US Forest and Agriculture Sectors-bc",
+   "authors": [
+    "R.J. Alig",
+    "D.M. Adams",
+    "J.M. Callaway",
+    "S.M. Winnett",
+    "B.A. McCarl"
+   ],
+   "year": 1997,
+   "venue": "Critical Reviews in Environmental Science and Technology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Effect of USDA Commodity Programs on Annual Pumpage from the Edwards Aquifer",
+   "authors": [
+    "M.E. Chowdhury",
+    "R.D. Lacewell",
+    "B.A. McCarl"
+   ],
+   "year": 1997,
+   "venue": "Water Resources Update",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Irrigator and Springflow Response to a Dry Year Option for the Edwards Aquifer",
+   "authors": [
+    "K.O. Keplinger",
+    "B.A. McCarl",
+    "M.E. Chowdhury",
+    "R.D. Lacewell"
+   ],
+   "year": 1997,
+   "venue": "Water Resources Update",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Analysis of the Impacts of Public Timber Harvest Policies on Private Forest Management in the United States",
+   "authors": [
+    "D.M. Adams",
+    "R.J. Alig",
+    "B.A. McCarl",
+    "J.M. Callaway",
+    "S.M. Winnett"
+   ],
+   "year": 1996,
+   "venue": "Forest Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Economic Consequences of Substituting Carbon Payments for Crop Subsidies in US Agriculture",
+   "authors": [
+    "J.M. Callaway",
+    "B.A. McCarl"
+   ],
+   "year": 1996,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Improving Shadow Price Information: Obtaining Relevant Shadow Prices from Multiple Objective Programming Problems",
+   "authors": [
+    "B.A. McCarl",
+    "J.R. Stokes",
+    "M.E. Rister",
+    "H.A. Ziari"
+   ],
+   "year": 1996,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Value of Improved Long-Range Weather Information",
+   "authors": [
+    "R.M. Adams",
+    "K.J. Bryant",
+    "B.A. McCarl",
+    "D.M. Legler",
+    "J.J. O'Brien",
+    "A.R. Solow",
+    "R.F. Weiher"
+   ],
+   "year": 1995,
+   "venue": "Contemporary Economic Policy, XIII, Number 3",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Reassessment of the Economic Effects of Global Climate Change on US Agriculture",
+   "authors": [
+    "R.M. Adams",
+    "R.A. Fleming",
+    "C.C. Chang",
+    "B.A. McCarl",
+    "C. Rosenzweig"
+   ],
+   "year": 1995,
+   "venue": "Climatic Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Uncertain Yields in Sectoral Welfare Analysis: An Application to Global Warming",
+   "authors": [
+    "D.K. Lambert",
+    "B.A. McCarl",
+    "Q. He",
+    "M.S. Kaylen",
+    "W.D. Rosenthal",
+    "C.C. Chang",
+    "W.I. Nayda"
+   ],
+   "year": 1995,
+   "venue": "Journal of Agricultural and Applied Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Nonlinear Mixed-Integer Program Model for Evaluating Run-Off Impoundments for Supplemental Irrigation",
+   "authors": [
+    "H.A. Ziari",
+    "B.A. McCarl",
+    "C. Stockle"
+   ],
+   "year": 1995,
+   "venue": "Water Resources Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic Impacts of Erosion Management Measures in Coastal Drainage Basins",
+   "authors": [
+    "C.C. Chang",
+    "J.D. Atwood",
+    "K. Alt",
+    "B.A. McCarl"
+   ],
+   "year": 1994,
+   "venue": "Journal of Soil and Water Conservation",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Sequestering Carbon on Agricultural Land: Social Cost and Impacts on Timber Markets",
+   "authors": [
+    "R.M. Adams",
+    "D.M. Adams",
+    "J.M. Callaway",
+    "C.C. Chang",
+    "B.A. McCarl"
+   ],
+   "year": 1993,
+   "venue": "Contemporary Policy Issues",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Farm Level Impacts of the Coastal Zone Management Act Proposed Erosion Regulations",
+   "authors": [
+    "K.J. Bryant",
+    "J.D. Atwood",
+    "R.D. Lacewell",
+    "V.D. Lansford",
+    "B.A. McCarl",
+    "P.R. Dyke"
+   ],
+   "year": 1993,
+   "venue": "Journal of Soil and Water Conservation",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Citations and Individuals: First Authorship Across the Alphabet",
+   "authors": [
+    "B.A. McCarl"
+   ],
+   "year": 1993,
+   "venue": "Review of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Analysis of Possible US Sugar Import Policy Revisions",
+   "authors": [
+    "A. Tanyeri-Abur",
+    "B.A. McCarl",
+    "C.C. Chang",
+    "R.D. Knutson",
+    "E.W.F. Peterson",
+    "K.H. Coble"
+   ],
+   "year": 1993,
+   "venue": "Review of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Sectoral Implications of Farm Program Modifications",
+   "authors": [
+    "C.C. Chang",
+    "B.A. McCarl",
+    "J.W. Mjelde",
+    "J.W. Richardson"
+   ],
+   "year": 1992,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Assessing Economic Implications of New Technology: The Case of Cornstarch-Based Biodegradable Plastics",
+   "authors": [
+    "K.H. Coble",
+    "C.C. Chang",
+    "B.A. McCarl",
+    "B.R. Eddleman"
+   ],
+   "year": 1992,
+   "venue": "Review of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Distortions of Agricultural Investment Incentives by Farm Programs: The Case of Agricultural Research",
+   "authors": [
+    "B.A. McCarl",
+    "C.C. Chang"
+   ],
+   "year": 1992,
+   "venue": "Agriculture and Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Potential Benefits of Rice Variety and Water Management Improvements in the Texas Gulf Coast",
+   "authors": [
+    "C.C. Chang",
+    "B.R. Eddleman",
+    "B.A. McCarl"
+   ],
+   "year": 1991,
+   "venue": "Western Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Biophysical Simulation Models: Recommendations for Users and Developers",
+   "authors": [
+    "C.R. Dillon",
+    "J.W. Mjelde",
+    "B.A. McCarl"
+   ],
+   "year": 1991,
+   "venue": "Computers and Electronics in Agriculture",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Discussion: A Trade-Off Analysis of Alternative Water Uses by Roger B. Long",
+   "authors": [
+    "B.A. McCarl",
+    "R.C. Griffin"
+   ],
+   "year": 1991,
+   "venue": "Water Resources Bulletin",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Exact Aggregation in Mathematical Programming Sector Models",
+   "authors": [
+    "H. Onal",
+    "B.A. McCarl"
+   ],
+   "year": 1991,
+   "venue": "Canadian Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Bioeconomic Analysis of the Texas Shrimp Fishery and Its Optimal Management",
+   "authors": [
+    "H. Onal",
+    "B.A. McCarl",
+    "W.L. Griffin",
+    "G. Mattlock",
+    "J.L. Clark"
+   ],
+   "year": 1991,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Global Climate Change and US Agriculture",
+   "authors": [
+    "R.M. Adams",
+    "C. Rosenzweig",
+    "R.M. Peart",
+    "J.T. Ritchie",
+    "B.A. McCarl",
+    "J.D. Glyer",
+    "R.B. Curry",
+    "J.W. Jones",
+    "K.J. Boote",
+    "L.H. Allen Jr."
+   ],
+   "year": 1990,
+   "venue": "Nature",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Post-optimal Linear Programming Analysis of Farm Machinery",
+   "authors": [
+    "D.A. Bender",
+    "D.E. Kline",
+    "B.A. McCarl"
+   ],
+   "year": 1990,
+   "venue": "Transactions of American Society of Agricultural Engineers",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Generalized Stochastic Dominance: An Empirical Examination",
+   "authors": [
+    "B.A. McCarl"
+   ],
+   "year": 1990,
+   "venue": "Southern Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Improving on Shadow Price Information for Identifying Critical Farm Machinery",
+   "authors": [
+    "B.A. McCarl",
+    "D.E. Kline",
+    "D.A. Bender"
+   ],
+   "year": 1990,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Reassessment of the Economic Effects of Ozone on US Agriculture",
+   "authors": [
+    "R.M. Adams",
+    "J.D. Glyer",
+    "S.L. Johnson",
+    "B.A. McCarl"
+   ],
+   "year": 1989,
+   "venue": "Journal of the Air Pollution Control Association",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Biophysical Simulation in Support of Crop Production Decisions: A Case Study in the Blacklands Region of Texas",
+   "authors": [
+    "C.R. Dillon",
+    "J.W. Mjelde",
+    "B.A. McCarl"
+   ],
+   "year": 1989,
+   "venue": "Southern Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Brush land Management for Increased Water Yield in Texas",
+   "authors": [
+    "R.C. Griffin",
+    "B.A. McCarl"
+   ],
+   "year": 1989,
+   "venue": "Water Resources Bulletin",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Brush land Management for Increased Water Yield in Texas Should Active Policy be Pursued: Reply to K.M. Turner",
+   "authors": [
+    "R.C. Griffin",
+    "B.A. McCarl"
+   ],
+   "year": 1989,
+   "venue": "Water Resources Bulletin",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "FINDS: Farm-Level Intelligent Decision Support System",
+   "authors": [
+    "D.E. Kline",
+    "D.A. Bender",
+    "B.A. McCarl"
+   ],
+   "year": 1989,
+   "venue": "Applied Engineering in Agriculture",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Sequential Modeling of White Wheat Marketing Strategies",
+   "authors": [
+    "D.K. Lambert",
+    "B.A. McCarl"
+   ],
+   "year": 1989,
+   "venue": "North Central Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Estimating an Upper Bound on the Pratt Risk Aversion Coefficient When the Utility Function is Unknown",
+   "authors": [
+    "B.A. McCarl",
+    "D.A. Bessler"
+   ],
+   "year": 1989,
+   "venue": "Australian Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Linear Approximation Using MOTAD and Separable Programming: Should It Be Done?",
+   "authors": [
+    "B.A. McCarl",
+    "H. Onal"
+   ],
+   "year": 1989,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Aggregation of Heterogeneous Firms In Mathematical Programming Models",
+   "authors": [
+    "H. Onal",
+    "B.A. McCarl"
+   ],
+   "year": 1989,
+   "venue": "European Review of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Modeling Government Program Participation Decisions at the Farm Level",
+   "authors": [
+    "G.M. Perry",
+    "B.A. McCarl",
+    "M.E. Rister",
+    "J.W. Richardson"
+   ],
+   "year": 1989,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Implications of Global Climate Change for Western Agriculture",
+   "authors": [
+    "R.M. Adams",
+    "B.A. McCarl",
+    "D.J. Dudek",
+    "J.D. Glyer"
+   ],
+   "year": 1988,
+   "venue": "Western Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Machinery Selection Using Expert Systems and Linear Programming",
+   "authors": [
+    "D.E. Kline",
+    "D.A. Bender",
+    "B.A. McCarl",
+    "C.E. Van Donge"
+   ],
+   "year": 1988,
+   "venue": "Computers and Electronics in Agriculture",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Preference Among Risky Prospects Under Constant Risk Aversion",
+   "authors": [
+    "B.A. McCarl"
+   ],
+   "year": 1988,
+   "venue": "Southern Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Irrigation Development versus Hydroelectric Generation: Can Interruptible Irrigation Play a Role?",
+   "authors": [
+    "B.A. McCarl",
+    "G.H. Parandvash"
+   ],
+   "year": 1987,
+   "venue": "Western Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Interpretations and Transformation of Scale for the Pratt-Arrow Absolute Risk Aversion Coefficient: Implications for Generalized Stochastic Dominance: Comment",
+   "authors": [
+    "B.A. McCarl"
+   ],
+   "year": 1987,
+   "venue": "Western Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Stochastic Dominance Over Potential Portfolios: Caution Regarding Covariance",
+   "authors": [
+    "B.A. McCarl",
+    "T.O. Knight",
+    "J.R. Wilson",
+    "J.B. Hastie"
+   ],
+   "year": 1987,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Off-Site Costs of Soil Erosion: A Case Study in the Willamette Valley",
+   "authors": [
+    "W.B. Moore",
+    "B.A. McCarl"
+   ],
+   "year": 1987,
+   "venue": "Western Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Role of Exchange Rates in Canadian-US Lumber Trade",
+   "authors": [
+    "D.M. Adams",
+    "B.A. McCarl",
+    "L. Homayounfarrokh"
+   ],
+   "year": 1986,
+   "venue": "Forest Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Pollution, Agriculture and Social Welfare: The Case of Acid Deposition",
+   "authors": [
+    "R.M. Adams",
+    "J.M. Callaway",
+    "B.A. McCarl"
+   ],
+   "year": 1986,
+   "venue": "Canadian Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Benefits of Pollution Control: The Case of Ozone and US Agriculture",
+   "authors": [
+    "R.M. Adams",
+    "S.A. Hamilton",
+    "B.A. McCarl"
+   ],
+   "year": 1986,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Small-Sample Evaluation of Mean-Variance Production Function Estimators",
+   "authors": [
+    "S.T. Buccola",
+    "B.A. McCarl"
+   ],
+   "year": 1986,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Choice of Crop Rotation: A Modeling Approach and Case Study",
+   "authors": [
+    "T. El-Nazer",
+    "B.A. McCarl"
+   ],
+   "year": 1986,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Decision Support Systems in Agriculture",
+   "authors": [
+    "B.A. McCarl"
+   ],
+   "year": 1986,
+   "venue": "Western Computer Consortium Journal of Computer Applications",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Validation of Linear Programming Models",
+   "authors": [
+    "B.A. McCarl",
+    "J.D. Apland"
+   ],
+   "year": 1986,
+   "venue": "Southern Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Investigation of the Relationship Between Constraint Omission and Risk Aversion in Firm Risk Programming Models",
+   "authors": [
+    "W.N. Musser",
+    "B.A. McCarl",
+    "G.S. Smith"
+   ],
+   "year": 1986,
+   "venue": "Southern Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Assessing the Benefits of Alternative Ozone Standards on Agriculture: The Role of Response Information",
+   "authors": [
+    "R.M. Adams",
+    "B.A. McCarl"
+   ],
+   "year": 1985,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Assessment of the Economic Effects of Ozone on US Agriculture",
+   "authors": [
+    "R.M. Adams",
+    "S.A. Hamilton",
+    "B.A. McCarl"
+   ],
+   "year": 1985,
+   "venue": "Journal of the Air Pollution Control Association",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Effect of Aggregate Response Assumptions on Environmental Impact Analyses",
+   "authors": [
+    "S.A. Hamilton",
+    "B.A. McCarl",
+    "R.M. Adams"
+   ],
+   "year": 1985,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Risk Modeling Using Direct Solution of Nonlinear Approximations of the Utility Function",
+   "authors": [
+    "D.K. Lambert",
+    "B.A. McCarl"
+   ],
+   "year": 1985,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Cost Borne by Electricity Consumers Under Expanded Irrigation from the Columbia River",
+   "authors": [
+    "B.A. McCarl",
+    "M. Ross"
+   ],
+   "year": 1985,
+   "venue": "Water Resources Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Exchange Rates Influence Softwood Lumber Trade",
+   "authors": [
+    "B.A. McCarl",
+    "R. Haynes"
+   ],
+   "year": 1985,
+   "venue": "Journal of Forestry",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Economic Analysis of Alternative Grazing Fee Systems",
+   "authors": [
+    "B.A. McCarl",
+    "R.F. Brokken"
+   ],
+   "year": 1985,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Including Imperfect Competition in Spatial Equilibrium : A Reply",
+   "authors": [
+    "C.H. Nelson",
+    "B.A. McCarl"
+   ],
+   "year": 1985,
+   "venue": "Canadian Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Multicommodity Network Problems: Applications and Computations",
+   "authors": [
+    "I. Ali",
+    "D.A. Barnett",
+    "K. Farhangian",
+    "J. Kennington",
+    "B. Patty",
+    "B. Shetty",
+    "P. Wong",
+    "B.A. McCarl"
+   ],
+   "year": 1984,
+   "venue": "IIE Transitions",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Port Elevator Capacity and National and World Grain Shipments",
+   "authors": [
+    "D.A. Barnett",
+    "J.K. Binkley",
+    "B.A. McCarl"
+   ],
+   "year": 1984,
+   "venue": "Western Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Predicting the Impact of New Cropping Practices upon Subsistence Farming: A Farm Level Analysis in Brazil",
+   "authors": [
+    "E. Brandao",
+    "B.A. McCarl",
+    "G.E. Schuh"
+   ],
+   "year": 1984,
+   "venue": "Western Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Model Validation: An Overview with Some Emphasis on Risk Models",
+   "authors": [
+    "B.A. McCarl"
+   ],
+   "year": 1984,
+   "venue": "Review of Marketing and Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Including Imperfect Competition in Spatial Equilibrium Models",
+   "authors": [
+    "C.H. Nelson",
+    "B.A. McCarl"
+   ],
+   "year": 1984,
+   "venue": "Canadian Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Investigation of the Relationship Between Oregon Coho Salmon Hatchery Releases and Adult Production Utilizing Law of the Minimum Regression",
+   "authors": [
+    "J.L. Clark",
+    "B.A. McCarl"
+   ],
+   "year": 1983,
+   "venue": "Canadian Journal of Fisheries and Aquatic Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Goal Programming via Multidimensional Scaling Applied to Senegalese Subsistence Farming: Reply",
+   "authors": [
+    "B.A. McCarl",
+    "B. Blake"
+   ],
+   "year": 1983,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Multiple Optimal Solutions in Linear Programming Models: Comment",
+   "authors": [
+    "B.A. McCarl",
+    "C.H. Nelson"
+   ],
+   "year": 1983,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Influence of Hatchery Smolt Releases on Adult Salmon Production and Its Variability",
+   "authors": [
+    "B.A. McCarl",
+    "R.B. Rettig"
+   ],
+   "year": 1983,
+   "venue": "Canadian Journal of Fisheries and Aquatic Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Crop Residue for Energy Generation: A Prototype Application to Midwestern USA Grain Farms",
+   "authors": [
+    "J.D. Apland",
+    "B.A. McCarl",
+    "T.G. Baker"
+   ],
+   "year": 1982,
+   "venue": "Energy in Agriculture",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Representing Farm Resource Availability over Time in Linear Programs: A Case Study",
+   "authors": [
+    "T.G. Baker",
+    "B.A. McCarl"
+   ],
+   "year": 1982,
+   "venue": "North Central Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Goal Programming via Multi-Dimensional Scaling Applied to Senegalese Subsistence Farms",
+   "authors": [
+    "D.A. Barnett",
+    "B. Blake",
+    "B.A. McCarl"
+   ],
+   "year": 1982,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Decomposition Solution for Spatial Equilibrium Problems",
+   "authors": [
+    "K.K. Litzenberg",
+    "B.A. McCarl",
+    "J. Polito"
+   ],
+   "year": 1982,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Cropping Activities in Agricultural Sector Models: A Methodological Proposal",
+   "authors": [
+    "B.A. McCarl"
+   ],
+   "year": 1982,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Linear Programming for Repeated Use in the Analysis of Agricultural Systems",
+   "authors": [
+    "B.A. McCarl",
+    "P. Nuthall"
+   ],
+   "year": 1982,
+   "venue": "Agricultural Systems",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Should Quadratic Programming Problems be Approximated?",
+   "authors": [
+    "B.A. McCarl",
+    "T.F. Tice"
+   ],
+   "year": 1982,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Potential Role of Multilevel Programming in Agricultural Economics",
+   "authors": [
+    "W.V. Candler",
+    "J. Fortuny-Amat",
+    "B.A. McCarl"
+   ],
+   "year": 1981,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic Consequences of Bans on Corn (Zea Mays) and Soybean (Glycine Max) Herbicides Commonly Used on Indiana Farms",
+   "authors": [
+    "C.M. Cashman",
+    "M.A. Martin",
+    "B.A. McCarl"
+   ],
+   "year": 1981,
+   "venue": "Weed Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Multicommodity Analysis of Trade Policy Effects: The Case of Nicaraguan Agriculture",
+   "authors": [
+    "D. Fajardo",
+    "B.A. McCarl",
+    "R.L. Thompson"
+   ],
+   "year": 1981,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Representation and Economic Interpretation of a Two-Level Programming Problem",
+   "authors": [
+    "J. Fortuny-Amat",
+    "B.A. McCarl"
+   ],
+   "year": 1981,
+   "venue": "Journal of Operational Research Society",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Mathematical Programming Applied to Brazilian Experimental Stations: Actual Problems, Limitations and Suggestions",
+   "authors": [
+    "E.M. Neves",
+    "L.R. Graca",
+    "B.A. McCarl"
+   ],
+   "year": 1981,
+   "venue": "Revista de Economia Rural",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Risk and the Demand for Supplemental Irrigation: A Case Study in the Corn Belt",
+   "authors": [
+    "J.D. Apland",
+    "B.A. McCarl",
+    "W.L. Miller"
+   ],
+   "year": 1980,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Indiana Farm-Level Impacts of Possible Environmental Protection Agency Bans on Selected Soybean Insecticides",
+   "authors": [
+    "C.M. Cashman",
+    "M.A. Martin",
+    "B.A. McCarl"
+   ],
+   "year": 1980,
+   "venue": "Southern Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Machinery Selection Modeling: Incorporation of Weather Variability",
+   "authors": [
+    "A.B. Danok",
+    "B.A. McCarl",
+    "T.K. White"
+   ],
+   "year": 1980,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Linearizing Quadratic Programs through Matrix Diagonalization",
+   "authors": [
+    "B.A. McCarl",
+    "T.F. Tice"
+   ],
+   "year": 1980,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Price Endogenous Mathematical Programming as a Tool for Sector Analysis",
+   "authors": [
+    "B.A. McCarl",
+    "T.H. Spreen"
+   ],
+   "year": 1980,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Scheduling Swine Production Facilities",
+   "authors": [
+    "J. Nye",
+    "B.A. McCarl",
+    "P. Nuthall",
+    "D. Bache",
+    "J. Kadlec"
+   ],
+   "year": 1980,
+   "venue": "Transactions of American Society of Agricultural Engineers",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Solution of Spatial Equilibrium Problems with Benders Decomposition",
+   "authors": [
+    "J. Polito",
+    "B.A. McCarl",
+    "T. Morin"
+   ],
+   "year": 1980,
+   "venue": "Management Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Modeling the Cattle Subsector: A Demonstration in Guyana",
+   "authors": [
+    "T.H. Spreen",
+    "B.A. McCarl",
+    "T.K. White"
+   ],
+   "year": 1980,
+   "venue": "Canadian Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Adequacy of a Crop Planning Model for Determining Income, Income Change and Crop Mix",
+   "authors": [
+    "L.G. Brink",
+    "B.A. McCarl"
+   ],
+   "year": 1979,
+   "venue": "Canadian Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Management of Solid Waste in Systems Including Nonmetropolitan Areas, with Emphasis on Resource Recovery",
+   "authors": [
+    "K.C. Clayton",
+    "B.A. McCarl"
+   ],
+   "year": 1979,
+   "venue": "North Central Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Linear Programming and Social Welfare: Model Formulation and Objective Function Alternatives",
+   "authors": [
+    "H. Baumes",
+    "B.A. McCarl"
+   ],
+   "year": 1978,
+   "venue": "Canadian Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Tradeoff Between Expected Return and Risk Among Cornbelt Farmers",
+   "authors": [
+    "L.G. Brink",
+    "B.A. McCarl"
+   ],
+   "year": 1978,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Machinery Selection and Crop Planning on a State Farm in Iraq",
+   "authors": [
+    "A.B. Danok",
+    "B.A. McCarl",
+    "T.K. White"
+   ],
+   "year": 1978,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Experience With Mass Audience LP for Farm Planning",
+   "authors": [
+    "B.A. McCarl",
+    "W.V. Candler",
+    "D.H. Doster",
+    "P.R. Robbins"
+   ],
+   "year": 1978,
+   "venue": "Mathematical Programming Study, Mathematical Programming in Use",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Systems Analysis of the Guyanese Livestock Industry",
+   "authors": [
+    "T.K. White",
+    "B.A. McCarl",
+    "R. May",
+    "T.H. Spreen"
+   ],
+   "year": 1978,
+   "venue": "Agricultural Systems",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Input-Output Analysis, Linear Programming and the Output Multiplier",
+   "authors": [
+    "L.G. Brink",
+    "B.A. McCarl"
+   ],
+   "year": 1977,
+   "venue": "Canadian Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Facilities Location: The Case of Grain Subterminals",
+   "authors": [
+    "D. Hilger",
+    "B.A. McCarl",
+    "J.W. Uhrig"
+   ],
+   "year": 1977,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Degeneracy, Duality and Shadow Prices in Linear Programming",
+   "authors": [
+    "B.A. McCarl"
+   ],
+   "year": 1977,
+   "venue": "Canadian Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Quadratic Programming Applications",
+   "authors": [
+    "B.A. McCarl",
+    "H. Moskowitz",
+    "H. Furtan"
+   ],
+   "year": 1977,
+   "venue": "Omega",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Experiences with Farmer Oriented Linear Programming for Crop Planning",
+   "authors": [
+    "B.A. McCarl",
+    "W.V. Candler",
+    "D.H. Doster",
+    "P.R. Robbins"
+   ],
+   "year": 1977,
+   "venue": "Canadian Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Computational Study of Methods for Solving Polynomial Geometric Programs",
+   "authors": [
+    "J.J. Dinkel",
+    "G.A. Kochenberger",
+    "B.A. McCarl"
+   ],
+   "year": 1976,
+   "venue": "Journal of Optimization Theory and Applications",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Modeling and Simulation of the US Economy With Alternative Energy Availabilities",
+   "authors": [
+    "J.B. Penn",
+    "B.A. McCarl",
+    "L.G. Brink",
+    "G. Irwin"
+   ],
+   "year": 1976,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Impact of Man in the World Nitrogen Cycle",
+   "authors": [
+    "B.A. McCarl",
+    "D. Raphael",
+    "E. Stafford"
+   ],
+   "year": 1975,
+   "venue": "Journal of Environmental Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Development and Evaluation of a Cost-Based Composite Scheduling Rule",
+   "authors": [
+    "S.C. Aggarwal",
+    "B.A. McCarl"
+   ],
+   "year": 1974,
+   "venue": "Naval Research Logistics Quarterly",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Approach to the Numerical Solutions of Geometric Programs",
+   "authors": [
+    "J.J. Dinkel",
+    "G.A. Kochenberger",
+    "B.A. McCarl"
+   ],
+   "year": 1974,
+   "venue": "Mathematical Programming",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Heuristic for General Integer Programming",
+   "authors": [
+    "G.A. Kochenberger",
+    "B.A. McCarl",
+    "F.P. Wyman"
+   ],
+   "year": 1974,
+   "venue": "Decision Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Investigation of a Cost-Based Rule for Job-Shop Scheduling",
+   "authors": [
+    "S.C. Aggarwal",
+    "F.P. Wyman",
+    "B.A. McCarl"
+   ],
+   "year": 1973,
+   "venue": "International Journal of Production Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "On the Solution of Geometric Programs Via Separable Programming",
+   "authors": [
+    "G.A. Kochenberger",
+    "R.E.D. Woolsey",
+    "B.A. McCarl"
+   ],
+   "year": 1973,
+   "venue": "Operational Research Quarterly",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

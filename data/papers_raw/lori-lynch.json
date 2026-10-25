@@ -1,0 +1,662 @@
+{
+ "slug": "lori-lynch",
+ "name": "Lori Lynch",
+ "sources": [
+  "https://arec.umd.edu/sites/arec.umd.edu/files/files/documents/People/CVs/Lynch_Loretta_2019CV.pdf"
+ ],
+ "collected": "2026-10-25",
+ "notes": "From 2019 UMD CV, so post-2019 work is missing. Includes refereed articles, book chapters, and the CV's 3 working papers (UMD AREC WPs). Excludes reports, extension pubs, proceedings.",
+ "papers": [
+  {
+   "title": "Linking Agricultural and Consumer Cooperatives--A Strategy for Cooperative Development",
+   "authors": [
+    "R. Sommer",
+    "L. Lynch"
+   ],
+   "year": 1988,
+   "venue": "Journal of Consumer Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "De-emphasis on Cooperatives in Introductory Economic Textbooks",
+   "authors": [
+    "L. Lynch",
+    "M. Urban",
+    "R. Sommer"
+   ],
+   "year": 1989,
+   "venue": "Journal of Agricultural Cooperation",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Cost and Program Availability in Cooperative Preschools",
+   "authors": [
+    "R. Sommer",
+    "L. Lynch",
+    "S. Bruckner"
+   ],
+   "year": 1989,
+   "venue": "Journal of Consumer Studies and Home Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Consumer Acceptance of Cosmetically Imperfect Produce",
+   "authors": [
+    "D. Bunn",
+    "G. Feenstra",
+    "L. Lynch",
+    "R. Sommer"
+   ],
+   "year": 1990,
+   "venue": "Journal of Consumer Affairs",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Implications of Endogenous Prices in Consumer Theory: The Case of Barter and the Consumer Cooperative",
+   "authors": [
+    "M. Caputo",
+    "L. Lynch"
+   ],
+   "year": 1991,
+   "venue": "Journal of Comparative Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Nonparametric Efficiency Analysis of California Cotton Ginning Cooperatives",
+   "authors": [
+    "M. Caputo",
+    "L. Lynch"
+   ],
+   "year": 1993,
+   "venue": "Journal of Agricultural and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Migration of Hired Farm Workers",
+   "authors": [
+    "J.M. Perloff",
+    "L. Lynch",
+    "S.M. Gabbard"
+   ],
+   "year": 1998,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Landowner Decision-making about Riparian Buffers",
+   "authors": [
+    "L. Lynch",
+    "C. Brown"
+   ],
+   "year": 2000,
+   "venue": "Journal of Agricultural and Applied Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Explaining Deer Population Preferences: An Analysis of Farmers, Hunters, and the General Public",
+   "authors": [
+    "J. Curtis",
+    "L. Lynch"
+   ],
+   "year": 2001,
+   "venue": "Agricultural and Resource Economics Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Effect of Farmland Preservation Programs on Farmland Prices",
+   "authors": [
+    "C.J. Nickerson",
+    "L. Lynch"
+   ],
+   "year": 2001,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How 1,3-D Use Restrictions Will Impact Adjustment to the Methyl Bromide Phase-Out",
+   "authors": [
+    "J. Carpenter",
+    "L. Lynch",
+    "T. Trout"
+   ],
+   "year": 2001,
+   "venue": "California Agriculture",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Relative Efficiency Analysis of Farmland Preservation Programs",
+   "authors": [
+    "L. Lynch",
+    "W.N. Musser"
+   ],
+   "year": 2001,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Economics of Controlling Insect-transmitted Plant Diseases",
+   "authors": [
+    "C. Brown",
+    "L. Lynch",
+    "D. Zilberman"
+   ],
+   "year": 2002,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Impacts of Allocation Strategies for Spatially Regulated Chemical Use",
+   "authors": [
+    "L. Lynch",
+    "J. Carpenter"
+   ],
+   "year": 2002,
+   "venue": "Economics of Pesticides, Sustainable Food Production and Organic Food Markets (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Migration of Exotic Pests: Phytosanitary Regulations and Cooperative Policies to Protect U.S. Ecosystems and Agricultural Interests",
+   "authors": [
+    "L. Lynch"
+   ],
+   "year": 2002,
+   "venue": "Both Sides of the Border: Transboundary Environmental Management Issues Facing Mexico and the U.S. (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Capitalization of Open Spaces: Can Agricultural Easements Pay for Themselves",
+   "authors": [
+    "J. Geoghegan",
+    "L. Lynch",
+    "S. Bucholtz"
+   ],
+   "year": 2003,
+   "venue": "Agricultural and Resource Economics Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Is There Evidence of a Critical Mass in the Mid-Atlantic Agricultural Sector between 1949 and 1997?",
+   "authors": [
+    "L. Lynch",
+    "J.E. Carpenter"
+   ],
+   "year": 2003,
+   "venue": "Agricultural and Resource Economics Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Combining Spatial and Survey Data to Explain Participation in Agricultural Land Preservation Programs",
+   "authors": [
+    "L. Lynch",
+    "S.J. Lovell"
+   ],
+   "year": 2003,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Local Land Markets and Agricultural Preservation Programs",
+   "authors": [
+    "L. Lynch",
+    "S.J. Lovell"
+   ],
+   "year": 2003,
+   "venue": "Government Policy and Farmland Markets: The Maintenance of Farmer Wealth (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Willingness of Forest Landowners To Use Poultry Litter as Fertilizer",
+   "authors": [
+    "L. Lynch",
+    "R. Tjaden"
+   ],
+   "year": 2004,
+   "venue": "Journal of Forestry",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Effect of a Differentially Applied Environmental Regulation on Trade Patterns and Production Location: The Case of Methyl Bromide",
+   "authors": [
+    "L. Lynch",
+    "S. Malcolm",
+    "D. Zilberman"
+   ],
+   "year": 2005,
+   "venue": "Agricultural and Resource Economics Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Protecting Farmland: Why do we do it? How do we do it? Can we do it better?",
+   "authors": [
+    "L. Lynch"
+   ],
+   "year": 2005,
+   "venue": "Land Use Problems and Conflicts: Causes, Consequences, and Solutions (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Farmland Retention Techniques: Property Rights Implications and Comparative Evaluation",
+   "authors": [
+    "J. Duke",
+    "L. Lynch"
+   ],
+   "year": 2006,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Exotic Pests and Trade: When Is Pest Free Status Certification Worthwhile?",
+   "authors": [
+    "E. Lichtenberg",
+    "L. Lynch"
+   ],
+   "year": 2006,
+   "venue": "Agricultural and Resource Economics Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Critical Mass: Does the Number of Productive Farmland Acres or of Farms Affect Farmland Loss?",
+   "authors": [
+    "L. Lynch"
+   ],
+   "year": 2006,
+   "venue": "Economics and Contemporary Land Use Policy: Development and Conservation at the Rural-Urban Fringe (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Are Agricultural Land Preservation Programs Self-Financing?",
+   "authors": [
+    "J. Geoghegan",
+    "L. Lynch",
+    "S. Bucholtz"
+   ],
+   "year": 2006,
+   "venue": "Economics and Contemporary Land Use Policy: Development and Conservation at the Rural-Urban Fringe (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Are Farmland Preservation Programs Easement Restrictions Capitalized into Farmland Prices? What can a Propensity Score Matching Analysis tell us?",
+   "authors": [
+    "L. Lynch",
+    "W. Gray",
+    "J. Geoghegan"
+   ],
+   "year": 2007,
+   "venue": "Review of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Gauging Support for Innovative Farmland Preservation Techniques",
+   "authors": [
+    "J.M. Duke",
+    "L. Lynch"
+   ],
+   "year": 2007,
+   "venue": "Policy Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Impact of Designated Preservation Areas on Rate of Preservation and Rate of Conversion: Preliminary Evidence",
+   "authors": [
+    "L. Lynch",
+    "X. Liu"
+   ],
+   "year": 2007,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Long-Term Agricultural Research (LTAR): A Research, Education, and Extension Imperative",
+   "authors": [
+    "G.P. Robertson",
+    "V.G. Allen",
+    "G. Boody",
+    "E.R. Boose",
+    "N.G. Creamer",
+    "L.E. Drinkwater",
+    "J.R. Gosz",
+    "L. Lynch",
+    "J.L. Havlin",
+    "L.E. Jackson",
+    "S.T.A. Pickett",
+    "L. Pitelka",
+    "A. Randall",
+    "A.S. Reed",
+    "T.R. Seastedt",
+    "R.B. Waide",
+    "D.H. Wall"
+   ],
+   "year": 2008,
+   "venue": "BioScience",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Competition-Based Environmental Policy: An Analysis of Farmland Preservation in Maryland",
+   "authors": [
+    "J.K. Horowitz",
+    "L. Lynch",
+    "A. Stocking"
+   ],
+   "year": 2009,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Land Preservation Programs Achieve High Levels of Efficiency",
+   "authors": [
+    "L. Lynch"
+   ],
+   "year": 2009,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Evaluation of Working Land and Open Space Preservation Programs in Maryland: Are They Paying Too Much?",
+   "authors": [
+    "L. Lynch",
+    "W. Gray",
+    "J. Geoghegan"
+   ],
+   "year": 2010,
+   "venue": "New Perspectives on Agri-Environmental Policies (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do Agricultural Land Preservation Programs Reduce Farmland Loss? Evidence from a Propensity Score Matching Estimator",
+   "authors": [
+    "X. Liu",
+    "L. Lynch"
+   ],
+   "year": 2011,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do Zoning Regulations Rob Rural Landowners' Equity?",
+   "authors": [
+    "X. Liu",
+    "L. Lynch"
+   ],
+   "year": 2011,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Incorporating Land Value to Improve Targeting Schemes for Land Acquisition",
+   "authors": [
+    "K. Palm",
+    "L. Lynch"
+   ],
+   "year": 2011,
+   "venue": "Smart Growth through Public Land Acquisition: Realities and Prospects (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Applying Experiments to Land Economics: Public Information and Auction Efficiency in Ecosystem Service Markets",
+   "authors": [
+    "K.D. Messer",
+    "J.M. Duke",
+    "L. Lynch"
+   ],
+   "year": 2014,
+   "venue": "The Oxford Handbook of Land Economics (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Using Quasi-experimental Methods to Evaluate Land Policies: Application to Maryland's Priority Funding Legislation",
+   "authors": [
+    "C. Towe",
+    "R. Lewis",
+    "L. Lynch"
+   ],
+   "year": 2014,
+   "venue": "The Oxford Handbook of Land Economics (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Land Conservation in the United States",
+   "authors": [
+    "J. Ferris",
+    "L. Lynch"
+   ],
+   "year": 2014,
+   "venue": "The Oxford Handbook of Land Economics (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The future of preserved farmland: Ownership succession in three Mid-Atlantic States",
+   "authors": [
+    "B.J. Schilling",
+    "J.D. Esseks",
+    "J.M. Duke",
+    "P.D. Gottlieb",
+    "L. Lynch"
+   ],
+   "year": 2015,
+   "venue": "Journal of Agriculture, Food Systems, and Community Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Are preserved farms actively engaged in agriculture and conservation?",
+   "authors": [
+    "P. Gottlieb",
+    "B. Schilling",
+    "K. Sullivan",
+    "J.D. Esseks",
+    "L. Lynch",
+    "J. Duke"
+   ],
+   "year": 2015,
+   "venue": "Land Use Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Extent of Stream Burial and Relationships to Watershed Area, Topography, and Impervious Surface Area",
+   "authors": [
+    "R.E. Weitzell Jr.",
+    "S.S. Kaushal",
+    "L.M. Lynch",
+    "S.M. Guinn",
+    "A.J. Elmore"
+   ],
+   "year": 2016,
+   "venue": "Water",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Conserving Spatially Explicit Benefits in Ecosystem Service Markets: Lab and Artefactual Field Tests of Network Bonuses and Spatial Targeting",
+   "authors": [
+    "J. Fooks",
+    "N. Higgins",
+    "K.D. Messer",
+    "J. Duke",
+    "D. Hellerstein",
+    "L. Lynch"
+   ],
+   "year": 2016,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Illiquid Capital: Are Conservation Easement Payments Reinvested in Farms?",
+   "authors": [
+    "J.M. Duke",
+    "B.J. Schilling",
+    "K.P. Sullivan",
+    "J.D. Esseks",
+    "P.D. Gottlieb",
+    "L. Lynch"
+   ],
+   "year": 2016,
+   "venue": "Applied Economic Perspectives and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "When Does Public Information Undermine the Efficiency of Reverse Auctions for the Purchase of Ecosystem Services?",
+   "authors": [
+    "K.D. Messer",
+    "J.M. Duke",
+    "L. Lynch",
+    "T. Li"
+   ],
+   "year": 2017,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Effect of Information on Discriminatory-Price and Uniform-Price Reverse Auction Efficiency: An Experimental Economics Study of the Purchase of Ecosystem Services",
+   "authors": [
+    "J.M. Duke",
+    "K.D. Messer",
+    "L. Lynch",
+    "T. Li"
+   ],
+   "year": 2017,
+   "venue": "Strategic Behavior and the Environment",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Value of Ozone Air Quality Improvements to Renters: Evidence From Apartment Building Transactions in Los Angeles County",
+   "authors": [
+    "C. Hitaj",
+    "L. Lynch",
+    "K.E. McConnell",
+    "C.I. Tra"
+   ],
+   "year": 2018,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Analyzing Farmers' Willingness to Install Stream-side Buffers: A Random Utility Approach",
+   "authors": [
+    "L. Lynch",
+    "I. Hardie",
+    "D. Parker"
+   ],
+   "year": 2002,
+   "venue": "UMD AREC Working Paper #02-01",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Hedonic Price Analysis of Easement Payments in Maryland Agricultural Land Preservation Programs",
+   "authors": [
+    "L. Lynch",
+    "S.J. Lovell"
+   ],
+   "year": 2002,
+   "venue": "UMD AREC Working Paper #02-13",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic Benefits of Farmland Preservation: Evidence from the United States",
+   "authors": [
+    "L. Lynch",
+    "J.M. Duke"
+   ],
+   "year": 2007,
+   "venue": "UMD AREC Working Paper #07-04",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

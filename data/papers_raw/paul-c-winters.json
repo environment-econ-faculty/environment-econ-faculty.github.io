@@ -1,0 +1,1293 @@
+{
+ "slug": "paul-c-winters",
+ "name": "Paul C. Winters",
+ "sources": [
+  "https://paulconalwinters.com/",
+  "https://paulconalwinters.com/wp-content/uploads/2026/10/winters_cv_sept2026.pdf"
+ ],
+ "collected": "2026-10-25",
+ "notes": "From CV (Sept 2026) linked on homepage. Kept all journal articles (incl. editorial introductions to special issues) and scholarly book chapters; skipped Nature comment, IFAD in-house chapters/working-paper series, reports, edited volumes, presentations. No current working papers listed on CV. Author names normalized from 'Last, First' format.",
+ "papers": [
+  {
+   "title": "Adoption of Sustainable Livestock Innovations: Evidence from Latin America.",
+   "authors": [
+    "Allen Blackman",
+    "Gonzalo Muñoz",
+    "Lina Salazar",
+    "Paul Winters"
+   ],
+   "year": 2026,
+   "venue": "Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/1477-9552.70049",
+   "abstract": null
+  },
+  {
+   "title": "A New Estimate for Global and Country-level Employment in Agrifood Systems.",
+   "authors": [
+    "Benjamin Davis",
+    "Erdgin Mane",
+    "Leman Yonca Gurbuzer",
+    "Giulia Caivano",
+    "Natalia Piedrahita",
+    "Nimra Azhar",
+    "Marwan Benali",
+    "Nidhi Chaudhary",
+    "Rodrigo Rivera",
+    "Kate Schneider",
+    "Ramya Ambikapathi",
+    "Paul Winters"
+   ],
+   "year": 2026,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.worlddev.2025.107296",
+   "abstract": null
+  },
+  {
+   "title": "Hybrid agricultural extension and the adoption of climate-resilient varieties: Evidence from oil palm in the Amazon.",
+   "authors": [
+    "Alejandro Estefan",
+    "Romina Ordoñez",
+    "Cristina Parilli",
+    "Paul Winters"
+   ],
+   "year": 2025,
+   "venue": "Food Policy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.foodpol.2025.102952",
+   "abstract": null
+  },
+  {
+   "title": "Poverty Prediction and Targeting over Time and Space: Evidence from Nigeria.",
+   "authors": [
+    "Marup Hossain",
+    "Lisa Jäckering",
+    "Conner Mullally",
+    "Paul Winters"
+   ],
+   "year": 2025,
+   "venue": "Applied Economic Perspectives and Policy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1002/aepp.13515",
+   "abstract": null
+  },
+  {
+   "title": "Do international financial institutions facilitate agrifood systems transformation? A textual analysis of design documents.",
+   "authors": [
+    "Jaron Porciello",
+    "Paul Winters",
+    "Mohammed Farrae",
+    "Julia McKenna",
+    "Lauren Phillips"
+   ],
+   "year": 2025,
+   "venue": "Global Food Security",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.gfs.2025.100845",
+   "abstract": null
+  },
+  {
+   "title": "Whither the agricultural productivity-led model? Reconsidering resilient and inclusive rural transformation in the context of agrifood systems.",
+   "authors": [
+    "Benjamin Davis",
+    "Ana Paula de la O Campos",
+    "Mohammad Farrae",
+    "Paul Winters"
+   ],
+   "year": 2024,
+   "venue": "Global Food Security",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.gfs.2024.100812",
+   "abstract": null
+  },
+  {
+   "title": "Digital Training for Micro-Entrepreneurs in Developing Countries: Evidence from an RCT in Guatemala.",
+   "authors": [
+    "Alejandro Estefan",
+    "Martina Improta",
+    "Romina Ordoñez",
+    "Paul Winters"
+   ],
+   "year": 2024,
+   "venue": "World Bank Economic Review",
+   "status": "已发表",
+   "url": "https://doi.org/10.1093/wber/lhad029",
+   "abstract": null
+  },
+  {
+   "title": "Transfers as a means to mitigate COVID-19 impacts on food security: Evidence from refugee and host communities Uganda.",
+   "authors": [
+    "Marco d’Errico",
+    "Ellestina Jumbe",
+    "Lauren Oliver",
+    "Rebecca Pietrelli",
+    "Irene Staffieri",
+    "Paul Winters"
+   ],
+   "year": 2024,
+   "venue": "Journal of Development Studies",
+   "status": "已发表",
+   "url": "https://doi.org/10.1080/00220388.2023.2282368",
+   "abstract": null
+  },
+  {
+   "title": "Economic Integration between Refugee Settlements and Host Communities.",
+   "authors": [
+    "Lauren Oliver",
+    "Marco d’Errico",
+    "Paul Winters"
+   ],
+   "year": 2024,
+   "venue": "Journal of Development Studies",
+   "status": "已发表",
+   "url": "https://doi.org/10.1080/00220388.2023.2282363",
+   "abstract": null
+  },
+  {
+   "title": "Assessing Uganda's Progressive Refugee Policy in the Era of COVID-19: Introduction to the Special Issue.",
+   "authors": [
+    "Marco d’Errico",
+    "Paul Winters",
+    "Donato Romano"
+   ],
+   "year": 2024,
+   "venue": "Journal of Development Studies",
+   "status": "已发表",
+   "url": "https://doi.org/10.1080/00220388.2023.2282364",
+   "abstract": null
+  },
+  {
+   "title": "Changing the logic in agricultural extension: evidence from a demand-driven extension programme in Kenya.",
+   "authors": [
+    "Juan Bonilla",
+    "Andrea Coombes",
+    "Dannie Romney",
+    "Paul Winters"
+   ],
+   "year": 2024,
+   "venue": "Journal of Development Effectiveness",
+   "status": "已发表",
+   "url": "https://doi.org/10.1080/19439342.2023.2181848",
+   "abstract": null
+  },
+  {
+   "title": "Access to global reserves determines vulnerability to supply disruption of Ukrainian wheat.",
+   "authors": [
+    "Leonardo Bertassello",
+    "Marc Müller",
+    "Paul Winters"
+   ],
+   "year": 2023,
+   "venue": "Nature Food",
+   "status": "已发表",
+   "url": "https://doi.org/10.1038/s43016-023-",
+   "abstract": null
+  },
+  {
+   "title": "Decomposing the impacts of an agricultural value chain development project by gender and ethnicity in Nepal.",
+   "authors": [
+    "Tisorn Songsermsawas",
+    "Kashi Kafle",
+    "Paul Winters"
+   ],
+   "year": 2023,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.worlddev.2023.106259",
+   "abstract": null
+  },
+  {
+   "title": "Global food systems transitions have enabled affordable diets, but outcomes in nutrition, environmental sustainability, inclusion and equity have been less favourable.",
+   "authors": [
+    "Ramya Ambikapathi",
+    "Kate R. Schneider",
+    "Benjamin Davis",
+    "Mario Herrero",
+    "Paul Winters",
+    "Jessica C. Fanzo"
+   ],
+   "year": 2022,
+   "venue": "Nature Food",
+   "status": "已发表",
+   "url": "https://doi.org/10.1038/s43016-022-00588-7",
+   "abstract": null
+  },
+  {
+   "title": "Facilitating Data Use for Decisionmaking: 50x2030's Approach.",
+   "authors": [
+    "Paul Winters",
+    "Emily Hogue",
+    "Michael Steiner",
+    "Chista Keramati",
+    "Maryam Rokhideh",
+    "Sarah Eissler"
+   ],
+   "year": 2022,
+   "venue": "Statistical Journal of the International Association for Official Statistics",
+   "status": "已发表",
+   "url": "https://doi.org/10.3233/SJI-210908",
+   "abstract": null
+  },
+  {
+   "title": "Rural economic activities of persons with disabilities in Sub-Saharan Africa.",
+   "authors": [
+    "Smriti Tiwari",
+    "Sara Savastano",
+    "Martina Improta",
+    "Paul Winters"
+   ],
+   "year": 2022,
+   "venue": "Oxford Development Studies",
+   "status": "已发表",
+   "url": "https://doi.org/10.1080/13600818.2022.2039606",
+   "abstract": null
+  },
+  {
+   "title": "Do not transform food systems on the backs of the rural poor.",
+   "authors": [
+    "Benjamin Davis",
+    "Leslie Lipper",
+    "Paul Winters"
+   ],
+   "year": 2022,
+   "venue": "Food Security",
+   "status": "已发表",
+   "url": "https://doi.org/10.1007/s12571-021-01214-3",
+   "abstract": null
+  },
+  {
+   "title": "Agricultural value chain development in Nepal: Understanding mechanisms for poverty reduction.",
+   "authors": [
+    "Kashi Kafle",
+    "Tisorn Songsermsawas",
+    "Paul Winters"
+   ],
+   "year": 2022,
+   "venue": "Agricultural Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/agec.12696",
+   "abstract": null
+  },
+  {
+   "title": "Do agricultural support and cash transfer programmes improve nutritional status?",
+   "authors": [
+    "Seth R Gitter",
+    "James Manley",
+    "Jill Bernstein",
+    "Paul Winters"
+   ],
+   "year": 2022,
+   "venue": "Journal of International Development",
+   "status": "已发表",
+   "url": "https://doi.org/10.1002/jid.3590",
+   "abstract": null
+  },
+  {
+   "title": "Towards food systems transformation—five paradigm shifts for healthy, inclusive and sustainable food systems.",
+   "authors": [
+    "Ruerd Ruben",
+    "Romina Cavatassi",
+    "Leslie Lipper",
+    "Eric Smaling",
+    "Paul Winters"
+   ],
+   "year": 2021,
+   "venue": "Food Security",
+   "status": "已发表",
+   "url": "https://doi.org/10.1007/s12571-021-01221-4",
+   "abstract": null
+  },
+  {
+   "title": "What role can small-scale irrigation play in promoting inclusive rural transformation? Evidence from smallholder rice farmers in the Philippines.",
+   "authors": [
+    "Daniel Higgins",
+    "Aslihan Arslan",
+    "Paul Winters"
+   ],
+   "year": 2021,
+   "venue": "Agricultural Water Management",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.agwat.2020.106437",
+   "abstract": null
+  },
+  {
+   "title": "Youth Inclusion in Rural Transformation.",
+   "authors": [
+    "Aslihan Arslan",
+    "David L. Tschirley",
+    "Constanza Di Nucci",
+    "Paul Winters"
+   ],
+   "year": 2021,
+   "venue": "The Journal of Development Studies",
+   "status": "已发表",
+   "url": "https://doi.org/10.1080/00220388.2020.1808199",
+   "abstract": null
+  },
+  {
+   "title": "Evaluating Program Impact on Resilience: Evidence from Lesotho's Child Grants Programme.",
+   "authors": [
+    "Marco d’Errico",
+    "Alessandra Garbero",
+    "Marco Letta",
+    "Paul Winters"
+   ],
+   "year": 2020,
+   "venue": "The Journal of Development Studies",
+   "status": "已发表",
+   "url": "https://doi.org/10.1080/00220388.2020.1746279",
+   "abstract": null
+  },
+  {
+   "title": "Does relative deprivation induce migration? Evidence from Sub‐Saharan Africa.",
+   "authors": [
+    "Kashi Kafle",
+    "Rui Benfica",
+    "Paul Winters"
+   ],
+   "year": 2020,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1002/ajae.12007",
+   "abstract": null
+  },
+  {
+   "title": "The household and individual-level productive impacts of cash transfer programs in Sub-Saharan Africa.",
+   "authors": [
+    "Silvio Daidone",
+    "Benjamin Davis",
+    "Sudhanshu Handa",
+    "Paul Winters"
+   ],
+   "year": 2019,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1093/ajae/aay113",
+   "abstract": null
+  },
+  {
+   "title": "Liquidity Constraints and Migration: Evidence from Indonesia.",
+   "authors": [
+    "Smriti Tiwari",
+    "Paul Winters"
+   ],
+   "year": 2019,
+   "venue": "International Migration Review",
+   "status": "已发表",
+   "url": "https://doi.org/10.1177/0197918318768555",
+   "abstract": null
+  },
+  {
+   "title": "Heterogeneous Effects of Urban Land Titling: A Replication of ‘Property Rights for the Poor'.",
+   "authors": [
+    "Drew Cameron",
+    "Edward Whitney",
+    "Paul Winters"
+   ],
+   "year": 2019,
+   "venue": "Journal of Development Studies",
+   "status": "已发表",
+   "url": "https://doi.org/10.1080/00220388.2018.1506576",
+   "abstract": null
+  },
+  {
+   "title": "Heterogeneity of commercialization gains in the rural economy.",
+   "authors": [
+    "Natalia Radchenko",
+    "Paul Corral",
+    "Paul Winters"
+   ],
+   "year": 2018,
+   "venue": "Agricultural Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/agec.12401",
+   "abstract": null
+  },
+  {
+   "title": "Investigating the impacts of increased rural land tenure security: A systematic review of the evidence.",
+   "authors": [
+    "Daniel Higgins",
+    "Tim Balint",
+    "Harold Liversage",
+    "Paul Winters"
+   ],
+   "year": 2018,
+   "venue": "Journal of Rural Studies",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jrurstud.2018.05.001",
+   "abstract": null
+  },
+  {
+   "title": "Computer-assisted instruction for child development: Evidence from an educational program in rural Zambia.",
+   "authors": [
+    "Maja Schling",
+    "Paul Winters"
+   ],
+   "year": 2018,
+   "venue": "Journal of Development Studies",
+   "status": "已发表",
+   "url": "https://doi.org/10.1080/00220388.2017.1366454",
+   "abstract": null
+  },
+  {
+   "title": "Assessing food insecurity in Latin America and the Caribbean using FAO's Food Insecurity Experience Scale.",
+   "authors": [
+    "Michael Smith",
+    "Woubet Kassa",
+    "Paul Winters"
+   ],
+   "year": 2017,
+   "venue": "Food Policy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.foodpol.2016.10.003",
+   "abstract": null
+  },
+  {
+   "title": "Sowing for food security: A case study of smallholder farmers in Bolivia.",
+   "authors": [
+    "Lina Salazar",
+    "Julian Aramburu",
+    "Mario Gonzalez Flores",
+    "Paul Winters"
+   ],
+   "year": 2016,
+   "venue": "Food Policy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.foodpol.2016.10.003",
+   "abstract": null
+  },
+  {
+   "title": "The exclusion from welfare benefits: Resentment and survey attrition in a randomized controlled trial in Mexico.",
+   "authors": [
+    "Guy Stecklov",
+    "Alex Weinreb",
+    "Paul Winters"
+   ],
+   "year": 2016,
+   "venue": "Social Science Review",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.ssresearch.2016.06.002",
+   "abstract": null
+  },
+  {
+   "title": "Farm-level pathways to improved nutritional status: Introduction to the special issue.",
+   "authors": [
+    "Gero Carletto",
+    "Marie Ruel",
+    "Paul Winters",
+    "Alberto Zezza"
+   ],
+   "year": 2015,
+   "venue": "Journal of Development Studies",
+   "status": "已发表",
+   "url": "https://doi.org/10.1080/00220388.2015.1018908",
+   "abstract": null
+  },
+  {
+   "title": "From Guesstimates to GPStimates: Land area measurement and implications for agricultural analysis.",
+   "authors": [
+    "Gero Carletto",
+    "Sydney Gourlay",
+    "Paul Winters"
+   ],
+   "year": 2015,
+   "venue": "Journal of African Economies",
+   "status": "已发表",
+   "url": "https://doi.org/10.1093/jae/ejv011",
+   "abstract": null
+  },
+  {
+   "title": "Land accumulation dynamics in developing country agriculture.",
+   "authors": [
+    "Heath Henderson",
+    "Leonardo Corral",
+    "Eric Siminig",
+    "Paul Winters"
+   ],
+   "year": 2015,
+   "venue": "Journal of Development Studies",
+   "status": "已发表",
+   "url": "https://doi.org/10.1080/00220388.2014.989993",
+   "abstract": null
+  },
+  {
+   "title": "Gender and agriculture in Sub-Saharan Africa: Introduction to the special issue.",
+   "authors": [
+    "Talip Kilic",
+    "Gero Carletto",
+    "Paul Winters"
+   ],
+   "year": 2015,
+   "venue": "Agricultural Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/agec.12165",
+   "abstract": null
+  },
+  {
+   "title": "Explaining gender differentials in agricultural production in Nigeria.",
+   "authors": [
+    "Gbemisola Oseni",
+    "Paul Corral",
+    "Markus Goldstein",
+    "Paul Winters"
+   ],
+   "year": 2015,
+   "venue": "Agricultural Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/agec.12166",
+   "abstract": null
+  },
+  {
+   "title": "Gender and agricultural productivity: Implications of the Farm Input Subsidy Program in Malawi.",
+   "authors": [
+    "R. Wendy Karamba",
+    "Paul Winters"
+   ],
+   "year": 2015,
+   "venue": "Agricultural Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/agec.12169",
+   "abstract": null
+  },
+  {
+   "title": "Decentralized beneficiary targeting in large-scale development programmes: Insights from the Malawi Farm Input Subsidy Program.",
+   "authors": [
+    "Talip Kilic",
+    "Edward Whitney",
+    "Paul Winters"
+   ],
+   "year": 2015,
+   "venue": "Journal of African Economies",
+   "status": "已发表",
+   "url": "https://doi.org/10.1093/jae/eju021",
+   "abstract": null
+  },
+  {
+   "title": "Cash transfer programmes, productive activities and labour supply: Evidence from randomized experiment in Kenya.",
+   "authors": [
+    "Solomon Asfaw",
+    "Benjamin Davis",
+    "Josh Dewbre",
+    "Sudhanshu Handa",
+    "Paul Winters"
+   ],
+   "year": 2014,
+   "venue": "Journal of Development Studies",
+   "status": "已发表",
+   "url": "https://doi.org/10.1080/00220388.2014.919383",
+   "abstract": null
+  },
+  {
+   "title": "The impact of high value markets on smallholder productivity in the Ecuadorean Sierra: A stochastic production frontier approach correcting for selectivity bias.",
+   "authors": [
+    "Mario González-Flores",
+    "Boris E. Bravo-Ureta",
+    "Daniel Solís",
+    "Paul Winters"
+   ],
+   "year": 2014,
+   "venue": "Food Policy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.foodpol.2013.09.014",
+   "abstract": null
+  },
+  {
+   "title": "Cash transfer programs and agricultural production: The case of Malawi.",
+   "authors": [
+    "Ryan Boone",
+    "Katia Covarrubias",
+    "Benjamin Davis",
+    "Paul Winters"
+   ],
+   "year": 2013,
+   "venue": "Agricultural Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/agec.12017",
+   "abstract": null
+  },
+  {
+   "title": "Assessing the role of tourism in poverty alleviation: A research agenda.",
+   "authors": [
+    "Paul Winters",
+    "Leonardo Corral",
+    "Adela Moreda Mora"
+   ],
+   "year": 2013,
+   "venue": "Development Policy Review",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/dpr.12002",
+   "abstract": null
+  },
+  {
+   "title": "Leaving the safety net: An analysis of dropouts in an urban conditional cash transfer program.",
+   "authors": [
+    "Mario Gonzalez-Flores",
+    "Maria Heracleous",
+    "Paul Winters"
+   ],
+   "year": 2012,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.worlddev.2012.05.020",
+   "abstract": null
+  },
+  {
+   "title": "Seed supply in local markets: supporting sustainable use of crop genetic resources.",
+   "authors": [
+    "Leslie Lipper",
+    "Romina Cavatassi",
+    "Paul Winters"
+   ],
+   "year": 2012,
+   "venue": "Environment and Development Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1017/S1355770X12000393",
+   "abstract": null
+  },
+  {
+   "title": "Sowing the seeds of social relations: Social capital and agricultural diversity in Hararghe Ethiopia.",
+   "authors": [
+    "Romina Cavatassi",
+    "Leslie Lipper",
+    "Paul Winters"
+   ],
+   "year": 2012,
+   "venue": "Environment and Development Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1017/S1355770X12000356",
+   "abstract": null
+  },
+  {
+   "title": "The impact of seed market access and transaction costs on potato biodiversity and yields in Bolivia.",
+   "authors": [
+    "Lina Salazar",
+    "Paul Winters"
+   ],
+   "year": 2012,
+   "venue": "Environment and Development Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1017/S1355770X12000265",
+   "abstract": null
+  },
+  {
+   "title": "From protection to production: Productive impacts of the Malawi Social Cash Transfer Scheme.",
+   "authors": [
+    "Katia Covarrubias",
+    "Benjamin Davis",
+    "Paul Winters"
+   ],
+   "year": 2012,
+   "venue": "Journal of Development Effectiveness",
+   "status": "已发表",
+   "url": "https://doi.org/10.1080/19439342.2011.641995",
+   "abstract": null
+  },
+  {
+   "title": "Evaluating the impact of the poverty-reduction programs on fertility: The case of the Red de Protección Social in Nicaragua.",
+   "authors": [
+    "Jessica Todd",
+    "Paul Winters",
+    "Guy Stecklov"
+   ],
+   "year": 2011,
+   "venue": "Journal of Population Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1007/s00148-010-0337-5",
+   "abstract": null
+  },
+  {
+   "title": "Linking Smallholders to the new agricultural economy: An evaluation of the Plataformas Program in Ecuador.",
+   "authors": [
+    "Romina Cavatassi",
+    "Mario Gonzalez",
+    "Paul Winters",
+    "Jorge Andrade",
+    "Patricio Espinosa",
+    "Graham Thiele"
+   ],
+   "year": 2011,
+   "venue": "Journal of Development Studies",
+   "status": "已发表",
+   "url": "https://doi.org/10.1080/00220388.2010.536221",
+   "abstract": null
+  },
+  {
+   "title": "Rural household access to assets and agrarian institutions: A cross country comparison.",
+   "authors": [
+    "Alberto Zezza",
+    "Paul Winters",
+    "Benjamin Davis",
+    "Gero Carletto",
+    "Katia Covarrubias",
+    "Luca Tasciotti",
+    "Esteban Quiñones"
+   ],
+   "year": 2011,
+   "venue": "European Journal of Development Research",
+   "status": "已发表",
+   "url": "https://doi.org/10.1057/ejdr.2011.15",
+   "abstract": null
+  },
+  {
+   "title": "Introduction to the Special Feature: Evaluating the impact of agricultural projects in developing countries.",
+   "authors": [
+    "Paul Winters",
+    "Alessandro Maffioli",
+    "Lina Salazar"
+   ],
+   "year": 2011,
+   "venue": "Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/j.1477-9552.2011.00296.x",
+   "abstract": null
+  },
+  {
+   "title": "How do agricultural programmes alter crop production? Evidence from Ecuador.",
+   "authors": [
+    "Romina Cavatassi",
+    "Mario Gonzalez",
+    "Lina Salazar",
+    "Paul Winters"
+   ],
+   "year": 2011,
+   "venue": "Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/j.1477-9552.2010.00279.x",
+   "abstract": null
+  },
+  {
+   "title": "Human capital investment and long-term poverty reduction in rural Mexico.",
+   "authors": [
+    "Paul Winters",
+    "Vera Chiodi"
+   ],
+   "year": 2011,
+   "venue": "Journal of International Development",
+   "status": "已发表",
+   "url": "https://doi.org/10.1002/jid.1664",
+   "abstract": null
+  },
+  {
+   "title": "The effect of early interventions in health and nutrition on on-time school enrollment: Evidence from the Oportunidades Program in rural Mexico.",
+   "authors": [
+    "Jessica Todd",
+    "Paul Winters"
+   ],
+   "year": 2011,
+   "venue": "Economic Development and Cultural Change",
+   "status": "已发表",
+   "url": "https://doi.org/10.1086/658347",
+   "abstract": null
+  },
+  {
+   "title": "Assessing the impact of migration on food and nutrition security.",
+   "authors": [
+    "Alberto Zezza",
+    "Gero Carletto",
+    "Benjamin Davis",
+    "Paul Winters"
+   ],
+   "year": 2011,
+   "venue": "Food Policy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.foodpol.2010.11.005",
+   "abstract": null
+  },
+  {
+   "title": "Migration and food consumption patterns in Ghana.",
+   "authors": [
+    "Wendy Karamba",
+    "Esteban J. Quiñones",
+    "Paul Winters"
+   ],
+   "year": 2011,
+   "venue": "Food Policy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.foodpol.2010.11.003",
+   "abstract": null
+  },
+  {
+   "title": "The impact of migration on food consumption patterns: The case of Vietnam.",
+   "authors": [
+    "Minh Nguyen",
+    "Paul Winters"
+   ],
+   "year": 2011,
+   "venue": "Food Policy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.foodpol.2010.11.001",
+   "abstract": null
+  },
+  {
+   "title": "Heterogeneous Treatment Effects in Conditional Cash Transfer Programmes: Assessing the impact of Progresa on Agricultural Households",
+   "authors": [
+    "Sudhanshu Handa",
+    "Benjamin Davis",
+    "Marco Stampini",
+    "Paul Winters"
+   ],
+   "year": 2010,
+   "venue": "Journal of Development Effectiveness",
+   "status": "已发表",
+   "url": "https://doi.org/10.1080/19439342.2010.499176",
+   "abstract": null
+  },
+  {
+   "title": "Patterns of rural development: A cross-country comparison using microeconomic data.",
+   "authors": [
+    "Paul Winters",
+    "Timothy Essam",
+    "Alberto Zezza",
+    "Benjamin Davis",
+    "Gero Carletto"
+   ],
+   "year": 2010,
+   "venue": "Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/j.1477-9552.2010.00265.x",
+   "abstract": null
+  },
+  {
+   "title": "Globalization and smallholders: The adoption, diffusion and welfare impact of non-traditional export crops in Guatemala.",
+   "authors": [
+    "Gero Carletto",
+    "Angeli Kirk",
+    "Paul Winters",
+    "Benjamin Davis"
+   ],
+   "year": 2010,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.worlddev.2010.02.017",
+   "abstract": null
+  },
+  {
+   "title": "Migration, transfers and economic decision making among agricultural households: An introduction.",
+   "authors": [
+    "Benjamin Davis",
+    "Gero Carletto",
+    "Paul Winters"
+   ],
+   "year": 2010,
+   "venue": "Journal of Development Studies",
+   "status": "已发表",
+   "url": "https://doi.org/10.1080/00220380903198000",
+   "abstract": null
+  },
+  {
+   "title": "Conditional cash transfers and agricultural production: Lessons from the Oportunidades experience in Mexico.",
+   "authors": [
+    "Jessica Todd",
+    "Paul Winters",
+    "Tom Hertz"
+   ],
+   "year": 2010,
+   "venue": "Journal of Development Studies",
+   "status": "已发表",
+   "url": "https://doi.org/10.1080/00220380903197945",
+   "abstract": null
+  },
+  {
+   "title": "A cross country comparison of rural income generating activities.",
+   "authors": [
+    "Benjamin Davis",
+    "Paul Winters",
+    "Gero Carletto",
+    "Katia Covarrubias",
+    "Esteban J. Quiñones",
+    "Alberto Zezza",
+    "Kostas Stamoulis",
+    "Carlo Azzarri",
+    "Stefania DiGiuseppe"
+   ],
+   "year": 2010,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.worlddev.2009.01.003",
+   "abstract": null
+  },
+  {
+   "title": "Designing a program to support smallholder agriculture in Mexico: Lessons from PROCAMPO and Oportunidades.",
+   "authors": [
+    "Paul Winters",
+    "Benjamin Davis"
+   ],
+   "year": 2009,
+   "venue": "Development Policy Review",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/j.1467-7679.2009.00462.x",
+   "abstract": null
+  },
+  {
+   "title": "Assets, activities and rural income generation: Evidence from a multicountry analysis.",
+   "authors": [
+    "Paul Winters",
+    "Benjamin Davis",
+    "Gero Carletto",
+    "Katia Covarrubias",
+    "Esteban J. Quiñones",
+    "Alberto Zezza",
+    "Carlo Azzarri",
+    "Kostas Stamoulis"
+   ],
+   "year": 2009,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.worlddev.2009.01.010",
+   "abstract": null
+  },
+  {
+   "title": "Household structure and short-run economic change in Nicaragua.",
+   "authors": [
+    "Paul Winters",
+    "Guy Stecklov",
+    "Jessica Todd"
+   ],
+   "year": 2009,
+   "venue": "Journal of Marriage and the Family",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/j.1741-3737.2009.00628.x",
+   "abstract": null
+  },
+  {
+   "title": "Rural income generating activities: Whatever happened to the institutional vacuum? Evidence from Ghana, Guatemala, Nicaragua and Vietnam.",
+   "authors": [
+    "Alberto Zezza",
+    "Benjamin Davis",
+    "Gero Carletto",
+    "Kostas Stamoulis",
+    "Paul Winters"
+   ],
+   "year": 2009,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.worlddev.2008.11.004",
+   "abstract": null
+  },
+  {
+   "title": "Rural nonfarm employment and farming: Household-level linkages.",
+   "authors": [
+    "Benjamin Davis",
+    "Paul Winters",
+    "Thomas Reardon",
+    "Kostas Stamoulis"
+   ],
+   "year": 2009,
+   "venue": "Agricultural Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/j.1574-0862.2009.00374.x",
+   "abstract": null
+  },
+  {
+   "title": "Rural non-farm activities and agricultural crop production in Nigeria.",
+   "authors": [
+    "Gbemisola Oseni",
+    "Paul Winters"
+   ],
+   "year": 2009,
+   "venue": "Agricultural Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/j.1574-0862.2009.00369.x",
+   "abstract": null
+  },
+  {
+   "title": "Why do beneficiaries leave the safety net in Mexico? A study of the effects of conditionality on dropouts.",
+   "authors": [
+    "Carola Álvarez",
+    "Florencia Devoto",
+    "Paul Winters"
+   ],
+   "year": 2008,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.worlddev.2007.04.014",
+   "abstract": null
+  },
+  {
+   "title": "Unintended effects of poverty programmes on childbearing in less developed countries: Experimental evidence from Latin America.",
+   "authors": [
+    "Guy Stecklov",
+    "Paul Winters",
+    "Jessica Todd",
+    "Ferdinando Regalia"
+   ],
+   "year": 2007,
+   "venue": "Population Studies",
+   "status": "已发表",
+   "url": "https://doi.org/10.1080/00324720701300396",
+   "abstract": null
+  },
+  {
+   "title": "Program conditionality and food cecurity: The Impact of PROGRESA and PROCAMPO transfers in rural Mexico.",
+   "authors": [
+    "Marta Ruiz",
+    "Benjamin Davis",
+    "Ashu Handa",
+    "Marco Stampini",
+    "Paul Winters"
+   ],
+   "year": 2006,
+   "venue": "Revista Economia",
+   "status": "已发表",
+   "url": "https://ideas.repec.org/a/anp/econom/v7y2006i2p249-278.html",
+   "abstract": null
+  },
+  {
+   "title": "Do conditional cash transfers influence migration? A study using experimental data from the Mexican PROGRESA program.",
+   "authors": [
+    "Guy Stecklov",
+    "Paul Winters",
+    "Marco Stampini",
+    "Benjamin Davis"
+   ],
+   "year": 2005,
+   "venue": "Demography",
+   "status": "已发表",
+   "url": "https://doi.org/10.1353/dem.2005.0037",
+   "abstract": null
+  },
+  {
+   "title": "An analysis of contract farming in East Java, Bali, and Lombok, Indonesia.",
+   "authors": [
+    "Phil Simmons",
+    "Paul Winters",
+    "Ian Patrick"
+   ],
+   "year": 2005,
+   "venue": "Agricultural Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/j.1574-0864.2005.00096.x",
+   "abstract": null
+  },
+  {
+   "title": "Evaluation of a hybrid seed contract between smallholders and a multinational company in East Java, Indonesia.",
+   "authors": [
+    "Paul Winters",
+    "Phil Simmons",
+    "Ian Patrick"
+   ],
+   "year": 2005,
+   "venue": "Journal of Development Studies",
+   "status": "已发表",
+   "url": "https://doi.org/10.1080/0022038042000276572",
+   "abstract": null
+  },
+  {
+   "title": "Inducing the adoption of conservation technologies: Lessons from the Ecuadorian Andes.",
+   "authors": [
+    "Paul Winters",
+    "Charles Crissman",
+    "Patricio Espinoza"
+   ],
+   "year": 2004,
+   "venue": "Environment and Development Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1017/S1355770X04001482",
+   "abstract": null
+  },
+  {
+   "title": "Domestic and international migration from rural Mexico: Disaggregating the effects of network structure and composition.",
+   "authors": [
+    "Benjamin Davis",
+    "Guy Stecklov",
+    "Paul Winters"
+   ],
+   "year": 2002,
+   "venue": "Population Studies",
+   "status": "已发表",
+   "url": "https://www.jstor.org/stable/3092983",
+   "abstract": null
+  },
+  {
+   "title": "Assets, activities and income generation in rural Mexico: Factoring in social and public capital.",
+   "authors": [
+    "Paul Winters",
+    "Benjamin Davis",
+    "Leonardo Corral"
+   ],
+   "year": 2002,
+   "venue": "Agricultural Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/j.1574-0862.2002.tb00112.x",
+   "abstract": null
+  },
+  {
+   "title": "Localized and incomplete mutual insurance.",
+   "authors": [
+    "Rinku Murgai",
+    "Paul Winters",
+    "Alain de Janvry",
+    "Elisabeth Sadoulet"
+   ],
+   "year": 2002,
+   "venue": "Journal of Development Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/S0304-3878(01)00189-4",
+   "abstract": null
+  },
+  {
+   "title": "Gender, networks and Mexico-U.S. migration.",
+   "authors": [
+    "Benjamin Davis",
+    "Paul Winters"
+   ],
+   "year": 2001,
+   "venue": "Journal of Development Studies",
+   "status": "已发表",
+   "url": "https://doi.org/10.1080/00220380412331322251",
+   "abstract": null
+  },
+  {
+   "title": "Aid policies and poverty alleviation: The case of Vietnam.",
+   "authors": [
+    "Thu Huong Le",
+    "Paul Winters"
+   ],
+   "year": 2001,
+   "venue": "Asia-Pacific Development Journal",
+   "status": "已发表",
+   "url": "https://bit.ly/2PcoFUH",
+   "abstract": null
+  },
+  {
+   "title": "Family and community networks in Mexico-U.S. migration.",
+   "authors": [
+    "Paul Winters",
+    "Alain de Janvry",
+    "Elisabeth Sadoulet"
+   ],
+   "year": 2001,
+   "venue": "Journal of Human Resources",
+   "status": "已发表",
+   "url": "https://doi.org/10.2307/3069674",
+   "abstract": null
+  },
+  {
+   "title": "Economic and welfare impacts of climate change in developing countries.",
+   "authors": [
+    "Paul Winters",
+    "Rinku Murgai",
+    "Alain de Janvry",
+    "Elisabeth Sadoulet",
+    "George Frisvold"
+   ],
+   "year": 1998,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1023/A:1008204419284",
+   "abstract": null
+  },
+  {
+   "title": "The role of agriculture in economic development: Visible and invisible transfers.",
+   "authors": [
+    "Paul Winters",
+    "Alain de Janvry",
+    "Elisabeth Sadoulet",
+    "Kostas Stamoulis"
+   ],
+   "year": 1998,
+   "venue": "Journal of Development Studies",
+   "status": "已发表",
+   "url": "https://doi.org/10.1080/00220389808422537",
+   "abstract": null
+  },
+  {
+   "title": "Migration, Demography and Agri-Food Systems",
+   "authors": [
+    "Aslihan Arslan",
+    "Eva-Maria Egger",
+    "Paul Winters"
+   ],
+   "year": 2019,
+   "venue": "Agriculture & Food Systems to 2050 (World Scientific; book chapter)",
+   "status": "已发表",
+   "url": "https://doi.org/10.1142/9789813278356_0003",
+   "abstract": null
+  },
+  {
+   "title": "The transfer project, cash transfers and impact evaluation in Sub-Saharan Africa",
+   "authors": [
+    "Benjamin Davis",
+    "Sudhanshu Handa",
+    "Nicola Hypher",
+    "Natalia Winder Rossi",
+    "Paul Winters",
+    "Jennifer Yablonski"
+   ],
+   "year": 2016,
+   "venue": "From Evidence to Action (Oxford University Press; book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Conclusions and policy implications for cash transfer programmes",
+   "authors": [
+    "Benjamin Davis",
+    "Sudhanshu Handa",
+    "Nicola Hypher",
+    "Natalia Winder Rossi",
+    "Paul Winters",
+    "Jennifer Yablonski"
+   ],
+   "year": 2016,
+   "venue": "From Evidence to Action (Oxford University Press; book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Agriculture",
+   "authors": [
+    "Paul Winters"
+   ],
+   "year": 2009,
+   "venue": "Princeton Encyclopedia of the World Economy (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Rural development and on-farm potato diversity in Cajamarca, Peru",
+   "authors": [
+    "Paul Winters",
+    "L. Hernando Hintze",
+    "Oscar Ortiz"
+   ],
+   "year": 2005,
+   "venue": "Valuing Crop Biodiversity (CABI; book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Seeds, needs and diversity: Assessing the patterns of seed demand and supply: The case of sorghum and wheat in the Hararghe region of Ethiopia",
+   "authors": [
+    "Leslie Lipper",
+    "Romina Cavatassi",
+    "Paul Winters"
+   ],
+   "year": 2005,
+   "venue": "Valuing Crop Biodiversity (CABI; book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Climate change and agriculture: Effects on developing countries",
+   "authors": [
+    "Paul Winters",
+    "Rinku Murgai",
+    "Alain de Janvry",
+    "Elisabeth Sadoulet",
+    "George Frisvold"
+   ],
+   "year": 1999,
+   "venue": "Global Environmental Change and Agriculture (Edward Elgar; book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

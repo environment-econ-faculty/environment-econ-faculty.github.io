@@ -1,0 +1,479 @@
+{
+ "slug": "zhen-lei",
+ "name": "Zhen Lei",
+ "sources": [
+  "https://www.eme.psu.edu/sites/eme/files/Lei_CV_202407.pdf"
+ ],
+ "collected": "2026-10-25",
+ "notes": "From CV dated July 2024 (no personal homepage; dept page not fetched). All 33 peer-reviewed journal articles (incl. early chemistry/biochem ones) plus one book chapter; 13 CS conference proceedings, an NRC report and a patent omitted. CV lists no working papers. Nature 2014 first author appears as 'Kyriakos Davis' in CV (likely Drivas).",
+ "papers": [
+  {
+   "title": "Heterogeneous Impacts of Local Traffic Congestion on Local Air Pollution Within a City: Utilizing Taxi Trajectory Data",
+   "authors": [
+    "Fan Xia",
+    "Ximeng Cheng",
+    "Zhen Lei",
+    "Jintao Xu",
+    "Yu Liu",
+    "Yingxin Zhang",
+    "Qinghong Zhang"
+   ],
+   "year": 2023,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Mining, Loss, and Despair: Exploring Energy Transitions and Opioid Use in an Appalachian Coal Community",
+   "authors": [
+    "Travis Young",
+    "Jennifer Baka",
+    "Zhongyang He",
+    "Sekhar Bhattacharyya",
+    "Zhen Lei"
+   ],
+   "year": 2023,
+   "venue": "Energy Research & Social Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Command vs. Market in China's Energy Intensity Reduction Strategies; Firm-level Evidence",
+   "authors": [
+    "Maoyong Fan",
+    "Jing Cao",
+    "Kuangyuan Zhang",
+    "Zhen Lei"
+   ],
+   "year": 2022,
+   "venue": "PLOS ONE",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Connecting Emerging Industry and Regional Innovation System: Linkages, Effect and Paradigm in China",
+   "authors": [
+    "Yingbo Li",
+    "Yigang Wei",
+    "Yan Li",
+    "Zhen Lei",
+    "Alessandra Ceriani"
+   ],
+   "year": 2022,
+   "venue": "Technovation",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Government Targets, End-of-year Patenting Rush and Innovative Performance in China",
+   "authors": [
+    "Zhen Sun",
+    "Zhen Lei",
+    "Brian D. Wright",
+    "Mark Cohen",
+    "Taoxiong Liu"
+   ],
+   "year": 2021,
+   "venue": "Nature Biotechnology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The linear-analog Method: A More Efficient and Effective Linearization Method for Natural Gas Transportation Optimization",
+   "authors": [
+    "Zhihua Chen",
+    "Andrew N. Kleit",
+    "Zhen Lei",
+    "Haizhong An",
+    "Luis F. Ayala",
+    "Antoine J.C.J. Pruvot"
+   ],
+   "year": 2020,
+   "venue": "Journal of Natural Gas Science and Engineering",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Market Deregulation and Nuclear Safety",
+   "authors": [
+    "Zhen Lei",
+    "Chen-Hao Tsai"
+   ],
+   "year": 2019,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How Do Firms Utilize the Deferred Patent Examination System? Evidence from Korea",
+   "authors": [
+    "Siwei Cao",
+    "Zhen Lei",
+    "Junbyoung Oh"
+   ],
+   "year": 2019,
+   "venue": "European Journal of Innovation Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Modeling Citation Dynamics of 'Atypical' Papers",
+   "authors": [
+    "Zhongyang He",
+    "Zhen Lei",
+    "Dashun Wang"
+   ],
+   "year": 2018,
+   "venue": "Journal of the Association for Information Science and Technology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Rising Wages and Energy Consumption Transition in Rural China",
+   "authors": [
+    "Huanguang Qiu",
+    "Jianbiao Yan",
+    "Zhen Lei",
+    "Dingqiang Sun"
+   ],
+   "year": 2018,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Innovation Policy in China: Nationally Promulgated But Locally Implemented",
+   "authors": [
+    "Zhen Sun",
+    "Zhen Lei",
+    "Zhifeng Yin"
+   ],
+   "year": 2018,
+   "venue": "Applied Economics Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Application Publication or Confirmation of Grant: Which Matters More for Academic Technology Transfer?",
+   "authors": [
+    "Kyriakos Drivas",
+    "Zhen Lei",
+    "Brian Wright"
+   ],
+   "year": 2018,
+   "venue": "International Journal of Industrial Organization",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Are innovation output and economic output strongly related in emerging industrial clusters? Evidence from China",
+   "authors": [
+    "Yingbo Li",
+    "Yan Li",
+    "Zhen Lei",
+    "Qiuya Liu"
+   ],
+   "year": 2018,
+   "venue": "European Scientific Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Academic Patent Licenses: Roadblocks or Signposts for Nonlicensee Cumulative Innovation?",
+   "authors": [
+    "Kyriakos Drivas",
+    "Zhen Lei",
+    "Brian Wright"
+   ],
+   "year": 2017,
+   "venue": "Journal of Economic Behavior & Organization",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Why Weak Patents? Testing the Examiner Ignorance Hypothesis",
+   "authors": [
+    "Zhen Lei",
+    "Brian D. Wright"
+   ],
+   "year": 2017,
+   "venue": "Journal of Public Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Global Patent Chokepoints",
+   "authors": [
+    "Daniel R. Cahoy",
+    "Zhen Lei",
+    "Yuxi Meng",
+    "Seth Blumsack"
+   ],
+   "year": 2017,
+   "venue": "Stanford Technology Law Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Deregulation and Firm Investment Incentives: Evidence from Nuclear Power Uprates",
+   "authors": [
+    "Zhen Lei",
+    "Chen-Hao Tsai",
+    "Andrew N. Kleit"
+   ],
+   "year": 2017,
+   "venue": "Energy Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Discounting of Medical Saving Accounts",
+   "authors": [
+    "Maoyong Fan",
+    "Zhen Lei",
+    "Gordon Liu"
+   ],
+   "year": 2016,
+   "venue": "American Journal of Health Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Does the Expansion of Chinese State-owned Enterprises Affect the Innovative Behavior of Private Enterprises?",
+   "authors": [
+    "Lei Cheng",
+    "Zhen Lei"
+   ],
+   "year": 2015,
+   "venue": "Asian-Pacific Journal of Accounting & Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Impacts of Domestic Content Protection on Indigenous Innovation",
+   "authors": [
+    "Mingwei Fu",
+    "Jingyi Ye",
+    "Yuxi Meng",
+    "Zhen Lei"
+   ],
+   "year": 2015,
+   "venue": "Economic Research Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Revealing Climate Change Opinions through Investment Behavior: Evidence from Fukushima",
+   "authors": [
+    "Zhen Lei",
+    "Anastasia V. Shcherbakova"
+   ],
+   "year": 2015,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Patent Analysis of Shale Gas Technology in China and Implications for the Exploitation",
+   "authors": [
+    "Mier Zhang",
+    "Wei Guo",
+    "Zhen Lei"
+   ],
+   "year": 2014,
+   "venue": "Energy Technology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Technology Transfer: Industry-funded Academic Inventions Boost Innovation",
+   "authors": [
+    "Kyriakos Davis",
+    "Zhen Lei",
+    "Steve Merrill",
+    "Brian D. Wright"
+   ],
+   "year": 2014,
+   "venue": "Nature",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Not Quite a Myriad of Gene Patents: Assessing the Potential Impact of the U.S. Supreme Court on the Changing Landscape of U.S. Patents that Claim Nucleic Acids",
+   "authors": [
+    "Gregory D. Graff",
+    "Devon Phillips",
+    "Zhen Lei",
+    "Sooyoung Oh",
+    "Carol Nottenburg",
+    "Philip G. Pardey"
+   ],
+   "year": 2013,
+   "venue": "Nature Biotechnology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Fracking Patents: The Emergence of Patents as Information Containment Tools in Shale Drilling",
+   "authors": [
+    "Daniel R. Cahoy",
+    "Joel Gehman",
+    "Zhen Lei"
+   ],
+   "year": 2013,
+   "venue": "Michigan Telecommunications and Technology Law Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Total Synthesis and Establishment of the Stereochemistry of Spiniferin-1, a Rare Planar Chiral Marine Natural Product with a 1,6-Methano[10]annulene Skeleton",
+   "authors": [
+    "Weisheng Tian",
+    "Kai Ding",
+    "Yun-Shan Sun",
+    "Ling Chen",
+    "Zhen Lei"
+   ],
+   "year": 2013,
+   "venue": "Synthesis",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Early Application Publication, Patent Quality and Knowledge Dissemination",
+   "authors": [
+    "Jingyi Ye",
+    "Chenle Li",
+    "Zhen Lei",
+    "Heping Cao"
+   ],
+   "year": 2012,
+   "venue": "Journal of World Economy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Patents vs. Patenting: Implications of Intellectual Property Protection for Biological Research",
+   "authors": [
+    "Zhen Lei",
+    "Rakhi Juneja",
+    "Brian Wright"
+   ],
+   "year": 2009,
+   "venue": "Nature Biotechnology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Economics of Pesticides and Pest Control",
+   "authors": [
+    "Steven E. Sexton",
+    "Zhen Lei",
+    "David Zilberman"
+   ],
+   "year": 2007,
+   "venue": "International Review of Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Reduction of all-trans-retinal in the mouse liver peroxisome fraction by the short-chain dehydrogenase/reductase RRD: induction by the PPAR-ligand clofibrate",
+   "authors": [
+    "Zhen Lei",
+    "Weiguo Chen",
+    "Min Zhang",
+    "Joseph L. Napoli"
+   ],
+   "year": 2003,
+   "venue": "Biochemistry",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Hybrid Characteristics of oligonucleotides consisting of isonucleoside 2',5'-anhydro-3'-deoxy-3'-(thymin-1-yl)-D-mannitol with different linkage modes",
+   "authors": [
+    "Zhen Lei",
+    "Ling Zhang",
+    "Liang Ren Zhang",
+    "Jun Chen",
+    "Jimei Min",
+    "Lihe Zhang"
+   ],
+   "year": 2001,
+   "venue": "Nucleic Acids Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Synthesis of 3-deoxy-3-nucleobase-2,5-anhydro-D-mannitol: a novel class of hydromethyl-branched isonucleosides",
+   "authors": [
+    "Zhen Lei",
+    "Jimei Min",
+    "Lihe Zhang"
+   ],
+   "year": 2000,
+   "venue": "Tetrahedron Asymmetry",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Some new reactions of per(poly)alkyl sulfonyl floride with steriodic molecules",
+   "authors": [
+    "Weisheng Tian",
+    "Zhen Lei",
+    "Ling Chen",
+    "Ying Huang"
+   ],
+   "year": 2000,
+   "venue": "Journal of Fluorine Chemistry",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The transformation of patents into information containment tools",
+   "authors": [
+    "Daniel R. Cahoy",
+    "Joel Gehman",
+    "Zhen Lei"
+   ],
+   "year": 2013,
+   "venue": "Book chapter in The Changing Face of US Patent Law and its Impact on Business Strategy (Edward Elgar)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

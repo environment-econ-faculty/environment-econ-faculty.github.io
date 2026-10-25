@@ -1,0 +1,621 @@
+{
+ "slug": "galina-hale",
+ "name": "Galina Hale",
+ "sources": [
+  "https://sites.google.com/view/galinahale/research",
+  "https://docs.google.com/document/d/1JLmhVdsbLtfHx9LfPK2PqAI3Lt53Js67gNQ_0Qtp_CI/ (CV updated 10/2026)"
+ ],
+ "collected": "2026-10-25",
+ "notes": "Published items from CV (updated Oct 2026), working papers from homepage research page. WP years inferred from NBER/CEPR numbering and draft date (not stated): 2026 for first three and the food paper, 2025 for Global Spillovers (March 2025 draft). WP bylines: page lists only coauthors, so Hale listed first then coauthors in page order (true byline order unconfirmed). Published bylines are the CV's '(with ...)' lists with Hale placed first except where evident (Di Giovanni-Hale JF, Eichengreen-Hale-Mody) - order approximate. Skipped books, policy items, encyclopedia entries, comments/reviews, FRBSF Letters, bulletins, 1996 Russian paper, California climate-assessment report chapter.",
+ "papers": [
+  {
+   "title": "Industrial Composition of Syndicated Loans and Banks' Climate Commitments",
+   "authors": [
+    "Galina Hale",
+    "Rami Najjar",
+    "Fernanda Nechio",
+    "Brigid Meisenbacher"
+   ],
+   "year": 2026,
+   "venue": "Journal of International Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Financial Value of Nature: Coastal Housing Markets, Mangroves, and Climate Resilience",
+   "authors": [
+    "Galina Hale",
+    "Ted Liu",
+    "Brook Constantz",
+    "Mike Beck"
+   ],
+   "year": 2026,
+   "venue": "Review of Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Pace of adoption of alternatives to animal-source foods is an important factor in reaching climate goals",
+   "authors": [
+    "Galina Hale",
+    "Vlad Oncescu",
+    "Ritesh Bhangale"
+   ],
+   "year": 2025,
+   "venue": "Scientific Reports",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Inflationary effects of fiscal support to households and firms",
+   "authors": [
+    "Galina Hale",
+    "Fernanda Nechio",
+    "John Leer"
+   ],
+   "year": 2025,
+   "venue": "Journal of International Money and Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Climate Disasters and Exchange Rates: Are Beliefs Keeping Up With Climate Change?",
+   "authors": [
+    "Galina Hale"
+   ],
+   "year": 2024,
+   "venue": "IMF Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do Looks Matter for an Academic Career in Economics?",
+   "authors": [
+    "Galina Hale",
+    "Tali Regev",
+    "Yona Rubinstein"
+   ],
+   "year": 2023,
+   "venue": "Journal of Economic Behavior & Organization",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Research Needs for a Food System Transition",
+   "authors": [
+    "Galina Hale",
+    "Sonali McDermid",
+    "Mathew Hayek",
+    "Dale Jamieson",
+    "David Kanter"
+   ],
+   "year": 2023,
+   "venue": "Climatic Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Climate risks and FDI",
+   "authors": [
+    "Galina Hale",
+    "Grace Gu"
+   ],
+   "year": 2023,
+   "venue": "Journal of International Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Currency-Induced External Balance Sheet Effects at the Onset of the COVID-19 Crisis",
+   "authors": [
+    "Galina Hale",
+    "Luciana Juvenal"
+   ],
+   "year": 2023,
+   "venue": "Journal of Banking and Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Stock Market Spillovers via the Global Production Network: Transmission of U.S. Monetary Policy",
+   "authors": [
+    "Julian Di Giovanni",
+    "Galina Hale"
+   ],
+   "year": 2022,
+   "venue": "Journal of Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Corporate Yields: Effect of Credit Ratings and Sovereign Yields",
+   "authors": [
+    "Galina Hale",
+    "Julia Bevilaqua",
+    "Eric Tallman"
+   ],
+   "year": 2020,
+   "venue": "AEA Papers and Proceedings",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Corporate Yields and Sovereign Yields",
+   "authors": [
+    "Galina Hale",
+    "Julia Bevilaqua",
+    "Eric Tallman"
+   ],
+   "year": 2020,
+   "venue": "Journal of International Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Shock Transmission through Cross-Border Bank Lending: Credit and Real Effect",
+   "authors": [
+    "Galina Hale",
+    "Camelia Minoiu",
+    "Tumer Kapan"
+   ],
+   "year": 2020,
+   "venue": "Review of Financial Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Rise in Home Currency Issuance",
+   "authors": [
+    "Galina Hale",
+    "Peter Jones",
+    "Mark Spiegel"
+   ],
+   "year": 2020,
+   "venue": "Journal of International Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Euro Crisis in the Mirror of the EMS: How Tying Odysseus to the Mast Avoided the Sirens but Led Him to Charybdis",
+   "authors": [
+    "Galina Hale",
+    "Giancarlo Corsetti",
+    "Barry Eichengreen",
+    "Eric Tallman"
+   ],
+   "year": 2020,
+   "venue": "Open Economies Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Aggregation Level in Stress Testing Models",
+   "authors": [
+    "Galina Hale",
+    "John Krainer",
+    "Eric McCarthy"
+   ],
+   "year": 2020,
+   "venue": "International Journal of Central Banking",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "U.S. Monetary Policy and Fluctuations of International Bank Lending",
+   "authors": [
+    "Galina Hale",
+    "Stefan Avdjiev"
+   ],
+   "year": 2019,
+   "venue": "Journal of International Money and Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Monitoring Banking System Connectedness with Big Data",
+   "authors": [
+    "Galina Hale",
+    "Jose Lopez"
+   ],
+   "year": 2019,
+   "venue": "Journal of Econometrics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Bank Linkages and International Trade",
+   "authors": [
+    "Galina Hale",
+    "Chris Candelaria",
+    "Juan Caballero"
+   ],
+   "year": 2018,
+   "venue": "Journal of International Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Euro and the Geography of International Debt Flows",
+   "authors": [
+    "Galina Hale",
+    "Maurice Obstfeld"
+   ],
+   "year": 2016,
+   "venue": "Journal of the European Economic Association",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Financial Crises and the Composition of Cross-Border Lending",
+   "authors": [
+    "Galina Hale",
+    "Eugenio Cerutti",
+    "Camelia Minoiu"
+   ],
+   "year": 2015,
+   "venue": "Journal of International Money and Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Productivity Spillovers from FDI in the People's Republic of China: A Nuanced View",
+   "authors": [
+    "Galina Hale",
+    "Cheryl Long",
+    "Hirotaka Miura"
+   ],
+   "year": 2014,
+   "venue": "Asian Development Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do Banks Propagate Debt Market Shocks?",
+   "authors": [
+    "Galina Hale",
+    "Joao Santos"
+   ],
+   "year": 2014,
+   "venue": "Journal of Financial Economic Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Gender Ratios at Top PhD Programs in Economics",
+   "authors": [
+    "Galina Hale",
+    "Tali Regev"
+   ],
+   "year": 2014,
+   "venue": "Economics of Education Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Persistence of Regional Wage Differences in China",
+   "authors": [
+    "Galina Hale",
+    "Mary Daly",
+    "Chris Candelaria"
+   ],
+   "year": 2015,
+   "venue": "Pacific Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Stock Prices in the Presence of Liquidity Crises: The Effect of Creditor Protection",
+   "authors": [
+    "Galina Hale",
+    "Assaf Razin",
+    "Hui Tong"
+   ],
+   "year": 2014,
+   "venue": "Economica",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Bank Relationships, Business Cycles, and Financial Crises",
+   "authors": [
+    "Galina Hale"
+   ],
+   "year": 2012,
+   "venue": "Journal of International Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Currency Composition of International Bonds: The EMU effect",
+   "authors": [
+    "Galina Hale",
+    "Mark Spiegel"
+   ],
+   "year": 2012,
+   "venue": "Journal of International Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Did Foreign Direct Investment Put an Upward Pressure on Wages in China?",
+   "authors": [
+    "Galina Hale",
+    "Cheryl Long"
+   ],
+   "year": 2011,
+   "venue": "IMF Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Are There Productivity Spillovers from Foreign Direct Investment in China?",
+   "authors": [
+    "Galina Hale",
+    "Cheryl Long"
+   ],
+   "year": 2011,
+   "venue": "Pacific Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Foreign Direct Investment and the Incentives to Innovate and Imitate",
+   "authors": [
+    "Galina Hale",
+    "Irene Brambilla",
+    "Cheryl Long"
+   ],
+   "year": 2009,
+   "venue": "Scandinavian Journal of Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Currency Crises and Foreign Credit in Emerging Markets: Credit Crunch or Demand Effect?",
+   "authors": [
+    "Galina Hale",
+    "Carlos Arteta"
+   ],
+   "year": 2009,
+   "venue": "European Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do Banks Price Their Informational Monopoly?",
+   "authors": [
+    "Galina Hale",
+    "Joao Santos"
+   ],
+   "year": 2009,
+   "venue": "Journal of Financial Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Decision to First Enter the Public Bond Market: The Role of Firm Reputation, Funding Choices, & Bank Relationships",
+   "authors": [
+    "Galina Hale",
+    "Joao Santos"
+   ],
+   "year": 2008,
+   "venue": "Journal of Banking and Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Sovereign Debt Crises and Credit to the Private Sector",
+   "authors": [
+    "Galina Hale",
+    "Carlos Arteta"
+   ],
+   "year": 2008,
+   "venue": "Journal of International Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Bonds or Loans? The Effect of Macroeconomic Fundamentals",
+   "authors": [
+    "Galina Hale"
+   ],
+   "year": 2007,
+   "venue": "Economic Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Rating Agencies and Sovereign Debt Rollover",
+   "authors": [
+    "Galina Hale",
+    "Mark Carlson"
+   ],
+   "year": 2006,
+   "venue": "Topics in Macroeconomics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "FDI Effects on Host Countries' labor markets",
+   "authors": [
+    "Galina Hale",
+    "Mingzhi Xu"
+   ],
+   "year": 2020,
+   "venue": "Encyclopedia of International Economics and Global Trade (World Scientific; book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Share of Imports and Commodities in Consumption and Investment in the United States",
+   "authors": [
+    "Galina Hale",
+    "Bart Hobijn"
+   ],
+   "year": 2015,
+   "venue": "Uncovering Value Added in Trade (World Scientific; book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Capital Raisings",
+   "authors": [
+    "Galina Hale"
+   ],
+   "year": 2012,
+   "venue": "The Evidence and Impact of Financial Globalization (Elsevier; book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "If You Try, You'll Get By: Chinese Private Firms' Efficiency Gains from Overcoming Financial Constraints",
+   "authors": [
+    "Galina Hale",
+    "Cheryl Long"
+   ],
+   "year": 2013,
+   "venue": "The Evolving Role of China in the Global Economy (MIT Press; book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "What are the Sources of Financing of the Chinese Firms?",
+   "authors": [
+    "Galina Hale",
+    "Cheryl Long"
+   ],
+   "year": 2011,
+   "venue": "The Evolving Role of Asia in Global Finance (Emerald; book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Flight to Quality: Investor Risk Tolerance and the Spread of Emerging Market Crises",
+   "authors": [
+    "Barry Eichengreen",
+    "Galina Hale",
+    "Ashoka Mody"
+   ],
+   "year": 2001,
+   "venue": "International Financial Contagion (Kluwer; book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "This Time Is (Mostly) Different: U.S. Tightening Cycles and Global Resilience in the 1980s vs 2020s",
+   "authors": [
+    "Galina Hale",
+    "Drishan Banerjee",
+    "Harrison Shieh"
+   ],
+   "year": 2026,
+   "venue": "NBER Working Paper",
+   "status": "工作论文",
+   "url": "https://www.nber.org/papers/w35673",
+   "abstract": null
+  },
+  {
+   "title": "Climate Fairness and Growth: Allocating the Remaining Carbon Budget",
+   "authors": [
+    "Galina Hale",
+    "Michael Halling",
+    "Nora Paulus",
+    "Han Pham"
+   ],
+   "year": 2026,
+   "venue": "NBER Working Paper",
+   "status": "工作论文",
+   "url": "https://www.nber.org/papers/w34978",
+   "abstract": null
+  },
+  {
+   "title": "Firm Emissions and Credit Allocation",
+   "authors": [
+    "Galina Hale",
+    "Grace Gu",
+    "Bhavyaa Sharma",
+    "Jinhong Wu"
+   ],
+   "year": 2026,
+   "venue": "NBER Working Paper",
+   "status": "工作论文",
+   "url": "https://www.nber.org/papers/w34681",
+   "abstract": null
+  },
+  {
+   "title": "Global Spillovers of Climate Policy Shocks",
+   "authors": [
+    "Galina Hale",
+    "Julian Di Giovanni",
+    "Neel Lahiri",
+    "Anirban Sanyal"
+   ],
+   "year": 2025,
+   "venue": "NBER Working Paper",
+   "status": "工作论文",
+   "url": "https://www.nber.org/papers/w33647",
+   "abstract": null
+  },
+  {
+   "title": "What Prevents Young People from Eating Healthy?",
+   "authors": [
+    "Galina Hale",
+    "Ted Liu",
+    "Madison Bankosh",
+    "Marielena Benavides",
+    "Yang Li",
+    "Marlene Nava",
+    "Dmitrius Rodriquez",
+    "Eli Vega"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://www.dropbox.com/scl/fi/c9sp0z8wm7xurybtc1j9x/FoodChoices.pdf?rlkey=7i5uskviwcudfbcfio4bfqal5&dl=0",
+   "abstract": null
+  }
+ ]
+}

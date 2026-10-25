@@ -1,0 +1,127 @@
+{
+ "slug": "stephanie-m-weber",
+ "name": "Stephanie M. Weber",
+ "sources": [
+  "https://sites.google.com/view/stephaniemweber/research",
+  "https://stephaniemweber.github.io/CV/SWeber_cv.pdf"
+ ],
+ "collected": "2026-10-25",
+ "notes": "CV (Dec 2025) + homepage research tab. Working-paper years = 2025 (CV date; no paper dates). Anticipation paper: CV title kept; homepage appears to list the same paper (link Anticipation.pdf) as 'Policy Leakage and Regulatory Arbitrage in Vehicle Markets' - treated as one paper (assumption). Homepage lists the ZEV mandates paper as work in progress; CV lists it as working paper (included). Homepage-only 'Life on the Road' (with Ron Yang) skipped (no draft).",
+ "papers": [
+  {
+   "title": "Undervaluation of Future Fuel Savings and Efficiency Standards for Heavy-Duty Trucks",
+   "authors": [
+    "Stephanie M. Weber"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://stephaniemweber.github.io/truck_stds/truck_draft.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Effects of Zero-Emissions Vehicle Mandates on Automaker Strategies and Sales",
+   "authors": [
+    "Stephanie M. Weber",
+    "Kenneth Gillingham",
+    "Arthur van Benthem"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Optimal Allocation of Electric Vehicle Subsidies: Consumer or Dealer (or Both)",
+   "authors": [
+    "Stephanie M. Weber",
+    "Thao Duong"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://papers.thaotduong.com/Thao_Duong_CTEV.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Anticipation Effects in Vehicle Markets: Evidence from Swedish Feebate Systems",
+   "authors": [
+    "Stephanie M. Weber",
+    "Jinjing Chen",
+    "Sebastian Tebbe"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://sebastiantebbe.github.io/uploads/Anticipation.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Carbon Policy and the Emissions Implications of Electric Vehicles",
+   "authors": [
+    "Stephanie M. Weber",
+    "Kenneth Gillingham",
+    "Marten Ovaere"
+   ],
+   "year": 2025,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "https://www.journals.uchicago.edu/doi/10.1086/730868",
+   "abstract": null
+  },
+  {
+   "title": "Has Consumer Acceptance of Electric Vehicles Been Increasing? Evidence from Microdata on Every New Vehicle Sale in the United States",
+   "authors": [
+    "Stephanie M. Weber",
+    "Kenneth Gillingham",
+    "Arthur van Benthem",
+    "Mohamed Ali Saafi",
+    "Xin He"
+   ],
+   "year": 2023,
+   "venue": "AEA Papers and Proceedings",
+   "status": "已发表",
+   "url": "https://www.aeaweb.org/articles?id=10.1257/pandp.20231065",
+   "abstract": null
+  },
+  {
+   "title": "Pricing Indirect Emissions Accelerates Low-Carbon Transition of US Light Vehicle Sector",
+   "authors": [
+    "Stephanie M. Weber",
+    "Paul Wolfram",
+    "Kenneth Gillingham",
+    "Edgar Hertwich"
+   ],
+   "year": 2021,
+   "venue": "Nature Communications",
+   "status": "已发表",
+   "url": "https://www.nature.com/articles/s41467-021-27247-y",
+   "abstract": null
+  },
+  {
+   "title": "Fuel Economy Standards: Impacts on Safety",
+   "authors": [
+    "Stephanie M. Weber",
+    "Kenneth Gillingham"
+   ],
+   "year": 2021,
+   "venue": "International Encyclopedia of Transportation (Elsevier)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Potential and Critical Issues of Electric Vehicles Development",
+   "authors": [
+    "Stephanie M. Weber",
+    "Kenneth Gillingham"
+   ],
+   "year": 2021,
+   "venue": "The Global Quest for Sustainability: The Role of Green Infrastructure in a Post-Pandemic World (ISPI)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

@@ -1,0 +1,418 @@
+{
+ "slug": "jeffrey-d-michler",
+ "name": "Jeffrey D. Michler",
+ "sources": [
+  "https://economics.arizona.edu/sites/default/files/Michler_CV_26.pdf"
+ ],
+ "collected": "2026-10-25",
+ "notes": "Source: CV 2026 (journal articles [1]-[26], 2 book chapters, 2 In Review items). Econometrica comment is conditional acceptance (marked forthcoming); AJAE Food Without Fire (2025) had no volume/pages (marked forthcoming; may already be published). In-review items have no year; 2026 (CV year) used. Omitted: In Preparation items, reports/briefs/policy papers, the 2024 book. Author names as in CV (initials).",
+ "papers": [
+  {
+   "title": "Comment on Suri (2011) 'Selection and Comparative Advantage in Technology Adoption'",
+   "authors": [
+    "E. Tjernström",
+    "D. Ghanem",
+    "O. Barriga Cabanillas",
+    "T.J. Lybbert",
+    "A. Michuda",
+    "J.D. Michler"
+   ],
+   "year": 2026,
+   "venue": "Econometrica",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Impact Evaluations in Data-Scarce Environments: The Case of Stress-Tolerant Rice Varieties in Bangladesh",
+   "authors": [
+    "J.D. Michler",
+    "D.A. Al Rafi",
+    "J. Giezendanner",
+    "A. Josephson",
+    "V. Pede",
+    "E. Tellman"
+   ],
+   "year": 2026,
+   "venue": "Journal of Development Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Mismeasure of Weather: Using Earth Observation Data for Estimation of Socioeconomic Outcomes",
+   "authors": [
+    "A. Josephson",
+    "J.D. Michler",
+    "T. Kilic",
+    "S. Murray"
+   ],
+   "year": 2026,
+   "venue": "Journal of Development Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Food Without Fire: Nutritional and Environmental Impacts from a Solar Stove Field Experiment",
+   "authors": [
+    "L.E. McCann",
+    "J.D. Michler",
+    "M. Mwangala",
+    "O. Olurotimi",
+    "N. Estrada Carmona"
+   ],
+   "year": 2025,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Coping or Hoping? Livelihood Diversification and Food Insecurity in the COVID-19 Pandemic",
+   "authors": [
+    "A. Furbush",
+    "A. Josephson",
+    "T. Kilic",
+    "J.D. Michler"
+   ],
+   "year": 2025,
+   "venue": "Food Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Expanding Undergraduate Research Experience: Opportunities, Challenges, and Lessons for the Future",
+   "authors": [
+    "A. Athnos",
+    "A. Josephson",
+    "J.D. Michler",
+    "L. Rudin-Rush"
+   ],
+   "year": 2025,
+   "venue": "Applied Economics Teaching Resources",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Privacy Protection, Measurement Error, and the Integration of Remote Sensing and Socioeconomic Survey Data",
+   "authors": [
+    "J.D. Michler",
+    "A. Josephson",
+    "T. Kilic",
+    "S. Murray"
+   ],
+   "year": 2022,
+   "venue": "Journal of Development Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Food Insecurity During the First Year of the COVID-19 Pandemic in Four African Countries",
+   "authors": [
+    "L. Rudin-Rush",
+    "J.D. Michler",
+    "A. Josephson",
+    "J.R. Bloem"
+   ],
+   "year": 2022,
+   "venue": "Food Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Risk, Crop Yields, and Weather Index Insurance in Village India",
+   "authors": [
+    "J.D. Michler",
+    "F. Viens",
+    "G. Shively"
+   ],
+   "year": 2022,
+   "venue": "Journal of the Agricultural & Applied Economics Association",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Socioeconomic Impacts of COVID-19 in Low-Income Countries",
+   "authors": [
+    "A. Josephson",
+    "T. Kilic",
+    "J.D. Michler"
+   ],
+   "year": 2021,
+   "venue": "Nature Human Behaviour",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Contract Farming and Rural Transformation: Evidence from a Field Experiment in Benin",
+   "authors": [
+    "A. Arouna",
+    "J.D. Michler",
+    "J.C. Lokossou"
+   ],
+   "year": 2021,
+   "venue": "Journal of Development Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "One Size Fits All? Experimental Evidence on the Digital Delivery of Personalized Extension Advice in Nigeria",
+   "authors": [
+    "A. Arouna",
+    "J.D. Michler",
+    "W.G. Yergo",
+    "K. Saito"
+   ],
+   "year": 2021,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Research Ethics Beyond the IRB: Selection Bias and the Direction of Innovation in Applied Economics",
+   "authors": [
+    "J.D. Michler",
+    "W. Masters",
+    "A. Josephson"
+   ],
+   "year": 2021,
+   "venue": "Applied Economic Perspectives and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Ulysses' Pact or Ulysses' Raft: Using Pre-Analysis Plans in Experimental and Nonexperimental Research",
+   "authors": [
+    "S. Janzen",
+    "J.D. Michler"
+   ],
+   "year": 2021,
+   "venue": "Applied Economic Perspectives and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Governance and Contract Choice: Theory and Evidence from Groundwater Irrigation Markets",
+   "authors": [
+    "J.D. Michler",
+    "S.Y. Wu"
+   ],
+   "year": 2020,
+   "venue": "Journal of Economic Behavior & Organization",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Agriculture in the Process of Development: A Micro-Perspective",
+   "authors": [
+    "J.D. Michler"
+   ],
+   "year": 2020,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Relational Contracts in Agriculture: Theory and Evidence",
+   "authors": [
+    "J.D. Michler",
+    "S.Y. Wu"
+   ],
+   "year": 2020,
+   "venue": "Annual Review of Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Money Matters: The Role of Yields and Profits in Agricultural Technology Adoption",
+   "authors": [
+    "J.D. Michler",
+    "E. Tjernström",
+    "S. Verkaart",
+    "K. Mausch"
+   ],
+   "year": 2019,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Conservation Agriculture and Climate Resilience",
+   "authors": [
+    "J.D. Michler",
+    "K. Baylis",
+    "M. Arends-Kuenning",
+    "K. Mazvimavi"
+   ],
+   "year": 2019,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Foreign Geographical Indications, Consumer Preferences, and the Domestic Market for Cheese",
+   "authors": [
+    "P. Slade",
+    "J.D. Michler",
+    "A. Josephson"
+   ],
+   "year": 2019,
+   "venue": "Applied Economic Perspectives and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Beasts of the Field? Ethics in Agricultural and Applied Economics",
+   "authors": [
+    "A. Josephson",
+    "J.D. Michler"
+   ],
+   "year": 2018,
+   "venue": "Food Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Fitting and Interpreting Correlated Random-Coefficient Models Using Stata",
+   "authors": [
+    "O. Barriga Cabanillas",
+    "J.D. Michler",
+    "A. Michuda",
+    "E. Tjernström"
+   ],
+   "year": 2018,
+   "venue": "Stata Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "To Specialize or Diversify: Agricultural Diversity and Poverty Dynamics in Ethiopia",
+   "authors": [
+    "J.D. Michler",
+    "A. Josephson"
+   ],
+   "year": 2017,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Importance of the Savings Device in Precautionary Savings: Empirical Evidence from Rural Bangladesh",
+   "authors": [
+    "J.D. Michler",
+    "J.V. Balagtas"
+   ],
+   "year": 2017,
+   "venue": "Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Welfare Impacts of Improved Chickpea Adoption: A Pathway for Rural Development in Ethiopia?",
+   "authors": [
+    "S. Verkaart",
+    "B. Munyua",
+    "K. Mausch",
+    "J.D. Michler"
+   ],
+   "year": 2017,
+   "venue": "Food Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Land Tenure, Tenure Security and Farm Efficiency: Panel Evidence from the Philippines",
+   "authors": [
+    "J.D. Michler",
+    "G. Shively"
+   ],
+   "year": 2015,
+   "venue": "Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Recent Developments in Inference: Practicalities for the Applied Economist",
+   "authors": [
+    "J.D. Michler",
+    "A. Josephson"
+   ],
+   "year": 2022,
+   "venue": "A Modern Guide to Food Economics (Edward Elgar)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Evolving Impact of COVID-19 in Four African Countries",
+   "authors": [
+    "A. Furbush",
+    "A. Josephson",
+    "T. Kilic",
+    "J.D. Michler"
+   ],
+   "year": 2021,
+   "venue": "Shaping Africa's Post-Covid Recovery (CEPR Press)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Uses (and Misuses) of Weather and Earth Observation Data in Geospatial Impact Evaluations",
+   "authors": [
+    "E. Benami",
+    "M. Cecil",
+    "A. Josephson",
+    "G. Maskell",
+    "J.D. Michler"
+   ],
+   "year": 2026,
+   "venue": "Working Paper (in review)",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Considerations and Resources for Integrating EO and Socioeconomic Data",
+   "authors": [
+    "J.D. Michler",
+    "E. Benami",
+    "A. Josephson",
+    "G. Maskell",
+    "M. Cecil",
+    "P. Behrer",
+    "R. Heilmayr",
+    "S. Gourlay",
+    "K. Singh"
+   ],
+   "year": 2026,
+   "venue": "Working Paper (in review)",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

@@ -1,0 +1,282 @@
+{
+ "slug": "tom-y-chang",
+ "name": "Tom Y. Chang",
+ "sources": [
+  "http://www.tomychang.com",
+  "https://uscmarshallweb.s3-us-west-2.amazonaws.com/assets/uploads/s1/cv/tyc_cv_191023-1.pdf (2019 CV, used only to cross-check)"
+ ],
+ "collected": "2026-10-25",
+ "notes": "Homepage (current) is the main source; CV is from 2019. Homepage gives no years for WPs: Chinese Collectibles Bubble year 2022 and Fear year 2020 from file names (stampBubble_20220822, Cbank20201201); judge/hospital RR years 2013 from file names; Categorical Consideration year 2026 = access date. Homepage lists Something in the Air as RES 85(3) 2018 (CV retitled 'Projection Bias'). No abstracts shown (one-line summaries only).",
+ "papers": [
+  {
+   "title": "Reminder Messages, Financial Incentives, and Influenza Vaccination: A Randomized Trial in a California Health System",
+   "authors": [
+    "Tom Y. Chang",
+    "Mireille Jacobson",
+    "Manisha Shah",
+    "Rajiv Pramanik",
+    "Samir Shah"
+   ],
+   "year": 2026,
+   "venue": "Vaccine",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/pii/S0264410X26000708",
+   "abstract": null
+  },
+  {
+   "title": "Reminders, but not Monetary Incentives, Increase COVID-19 Booster Uptake",
+   "authors": [
+    "Tom Y. Chang",
+    "Mireille Jacobson",
+    "Manisha Shah",
+    "Matthew Kopetsky",
+    "Rajiv Pramanik",
+    "Samir Shah"
+   ],
+   "year": 2023,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "https://www.pnas.org/doi/epdf/10.1073/pnas.2302725120",
+   "abstract": null
+  },
+  {
+   "title": "Can Financial Incentives and Other Nudges Increase COVID-19 Vaccinations Among the Vaccine Hesitant? A Randomized Trial",
+   "authors": [
+    "Tom Y. Chang",
+    "Mireille Jacobson",
+    "Manisha Shah",
+    "Rajiv Pramanik",
+    "Samir Shah"
+   ],
+   "year": 2022,
+   "venue": "Vaccine",
+   "status": "已发表",
+   "url": "https://www.nber.org/papers/w29403",
+   "abstract": null
+  },
+  {
+   "title": "Racial and Ethnic Disparities in SARS-CoV-2 Testing and COVID-19 Outcomes in a Medicaid Managed Care Cohort",
+   "authors": [
+    "Tom Y. Chang",
+    "Mireille Jacobson",
+    "Manisha Shah",
+    "Rajiv Pramanik",
+    "Samir Shah"
+   ],
+   "year": 2021,
+   "venue": "American Journal of Preventive Medicine",
+   "status": "已发表",
+   "url": "https://www.ajpmonline.org/article/S0749-3797(21)00331-7/fulltext",
+   "abstract": null
+  },
+  {
+   "title": "Battle for the Thermostat: Gender and the Effects of Temperature on Cognitive Performance",
+   "authors": [
+    "Tom Y. Chang",
+    "Agne Kajackaite"
+   ],
+   "year": 2019,
+   "venue": "PLOS ONE",
+   "status": "已发表",
+   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0216362",
+   "abstract": null
+  },
+  {
+   "title": "The Effect of Pollution on Worker Productivity: Evidence from Call Center Workers in China",
+   "authors": [
+    "Tom Y. Chang",
+    "Joshua S. Graff Zivin",
+    "Tal Gross",
+    "Matthew J. Neidell"
+   ],
+   "year": 2019,
+   "venue": "American Economic Journal: Applied Economics",
+   "status": "已发表",
+   "url": "http://www.nber.org/papers/w22328",
+   "abstract": null
+  },
+  {
+   "title": "Something in the Air: Pollution and the Demand for Health Insurance",
+   "authors": [
+    "Tom Y. Chang",
+    "Wei Huang",
+    "Yongxiang Wang"
+   ],
+   "year": 2018,
+   "venue": "Review of Economic Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Going to Pot? Medical Marijuana Dispensaries and Crime",
+   "authors": [
+    "Tom Y. Chang",
+    "Mireille Jacobson"
+   ],
+   "year": 2017,
+   "venue": "Journal of Urban Economics",
+   "status": "已发表",
+   "url": "http://www.sciencedirect.com/science/article/pii/S0094119017300281",
+   "abstract": null
+  },
+  {
+   "title": "Physician Agency and Patient Survival",
+   "authors": [
+    "Tom Y. Chang",
+    "Craig C. Earle",
+    "Mireille Jacobson",
+    "Joseph Newhouse"
+   ],
+   "year": 2017,
+   "venue": "Journal of Economic Behavior & Organization",
+   "status": "已发表",
+   "url": "http://www.nber.org/papers/w19247",
+   "abstract": null
+  },
+  {
+   "title": "Being Surprised by the Unsurprising: Earnings Seasonality and Stock Returns",
+   "authors": [
+    "Tom Y. Chang",
+    "Samuel M. Hartzmark",
+    "David Solomon",
+    "Eugene F. Soltes"
+   ],
+   "year": 2017,
+   "venue": "Review of Financial Studies",
+   "status": "已发表",
+   "url": "http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2460166",
+   "abstract": null
+  },
+  {
+   "title": "Particulate Pollution and the Productivity of Pear Packers",
+   "authors": [
+    "Tom Y. Chang",
+    "Joshua S. Graff Zivin",
+    "Tal Gross",
+    "Matthew J. Neidell"
+   ],
+   "year": 2016,
+   "venue": "American Economic Journal: Economic Policy",
+   "status": "已发表",
+   "url": "http://www.nber.org/papers/w19944",
+   "abstract": null
+  },
+  {
+   "title": "Looking for Someone to Blame: Delegation, Cognitive Dissonance, and the Disposition Effect",
+   "authors": [
+    "Tom Y. Chang",
+    "David Solomon",
+    "Mark Westerfield"
+   ],
+   "year": 2016,
+   "venue": "Journal of Finance",
+   "status": "已发表",
+   "url": "http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2255674",
+   "abstract": null
+  },
+  {
+   "title": "How Many Pears Would a Pear Packer Pack if a Pear Packer Could Pack Pears at Quasi-Exogenously Varying Piece Rates?",
+   "authors": [
+    "Tom Y. Chang",
+    "Tal Gross"
+   ],
+   "year": 2014,
+   "venue": "Journal of Economic Behavior & Organization",
+   "status": "已发表",
+   "url": "http://users.nber.org/~changt/pears_chang_gross_20131126.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Natural Disaster Management: Earthquake Risk and Hospitals' Provision of Essential Services in California",
+   "authors": [
+    "Tom Y. Chang",
+    "Mireille Jacobson"
+   ],
+   "year": 2010,
+   "venue": "Regulation versus Litigation: Perspectives from Economics and Law (book chapter)",
+   "status": "已发表",
+   "url": "http://www.nber.org/chapters/c11964.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Financial Incentives to Increase the Diversity of a Memory Concerns Registry: A Randomized Controlled Trial",
+   "authors": [
+    "Tom Y. Chang",
+    "Mireille Jacobson",
+    "Doris Molina-Henry",
+    "Gustavo Jimenez-Maggiora",
+    "Rajiv Pramanik",
+    "Samir B. Shah",
+    "Paul Aisen"
+   ],
+   "year": 2026,
+   "venue": "JAMA Health Forum",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Judge Specific Difference in Chapter 11 and Firm Outcomes",
+   "authors": [
+    "Tom Y. Chang",
+    "Antoinette Schoar"
+   ],
+   "year": 2013,
+   "venue": "Journal of Finance",
+   "status": "修改重投",
+   "url": "http://users.nber.org/~changt/judges130103.pdf",
+   "abstract": null
+  },
+  {
+   "title": "What Do Not-For-Profit Hospitals Maximize? Evidence from California's Seismic Retrofit Mandate",
+   "authors": [
+    "Tom Y. Chang",
+    "Mireille Jacobson"
+   ],
+   "year": 2013,
+   "venue": "Journal of Public Economics",
+   "status": "修改重投",
+   "url": "http://users.nber.org/~changt/ChangJacobson13apr9.pdf",
+   "abstract": null
+  },
+  {
+   "title": "The Chinese Collectibles Bubble",
+   "authors": [
+    "Tom Y. Chang",
+    "Jing She",
+    "Yongxiang Wang"
+   ],
+   "year": 2022,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Fear: Endogenous Risk Aversion, Stock Market Volatility, and Financial Decision-Making",
+   "authors": [
+    "Tom Y. Chang",
+    "Wei Huang",
+    "Hui Lin",
+    "Yongxiang Wang"
+   ],
+   "year": 2020,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Categorical Consideration: Theory, Evidence and Market Implications",
+   "authors": [
+    "Tom Y. Chang"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

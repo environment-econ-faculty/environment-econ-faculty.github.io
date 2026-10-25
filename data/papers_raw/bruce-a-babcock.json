@@ -1,0 +1,1209 @@
+{
+ "slug": "bruce-a-babcock",
+ "name": "Bruce A. Babcock",
+ "sources": [
+  "https://profiles.ucr.edu/api/CvAttachment/76764"
+ ],
+ "collected": "2026-10-25",
+ "notes": "From UCR profile CV dated July 15, 2017 (outdated; no newer CV found, so post-2017 work is missing). Authors as written (initials). Skipped Choices pieces, commentary, policy briefs, edited books, Italian-language chapters. Two 2018 'in press' items marked 即将发表 (Iqbal published online 2018). Brandes et al. and Pouliot & Babcock (AJAE) list no year in CV; set to 2016 (doi context).",
+ "papers": [
+  {
+   "title": "Global Growing Area Elasticities of Key Agricultural Crops Estimated Using Dynamic Heterogeneous Panel Methods",
+   "authors": [
+    "Z. Iqbal",
+    "B.A. Babcock"
+   ],
+   "year": 2018,
+   "venue": "Agricultural Economics",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Estimating Willingness to Pay for E85 in the United States Using an Intercept Survey of Flex Motorists",
+   "authors": [
+    "S. Pouliot",
+    "K. Liao",
+    "B.A. Babcock"
+   ],
+   "year": 2018,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Using the competitive storage model to estimate the impact of ethanol and fueling investment on corn prices",
+   "authors": [
+    "W. Zhou",
+    "B.A. Babcock"
+   ],
+   "year": 2017,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Subfield Profitability Analysis Reveals an Economic Case for Cropland Diversification",
+   "authors": [
+    "E. Brandes",
+    "G. McNunn",
+    "L. Schulte Moore",
+    "I. Bonner",
+    "D. Muth",
+    "B.A. Babcock",
+    "B. Sharma",
+    "E. Heaton"
+   ],
+   "year": 2016,
+   "venue": "Environmental Research Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Compliance Path and Impact of Ethanol Mandates on Retail Fuel Market in the Short Run",
+   "authors": [
+    "S. Pouliot",
+    "B.A. Babcock"
+   ],
+   "year": 2016,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Placing Bounds on Extreme Temperature Response of Maize",
+   "authors": [
+    "C. Anderson",
+    "B.A. Babcock",
+    "P. Gassman",
+    "Y. Peng",
+    "T. Campbell"
+   ],
+   "year": 2015,
+   "venue": "Environmental Research Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Nitrous Oxide Emission Reductions from Cutting Excessive Nitrogen Fertilizer Applications",
+   "authors": [
+    "Francisco Rosas",
+    "B.A. Babcock",
+    "D. Hayes"
+   ],
+   "year": 2015,
+   "venue": "Climatic Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Explaining Anomalous Crop Insurance Purchase Decisions Using Prospect Theory",
+   "authors": [
+    "B.A. Babcock"
+   ],
+   "year": 2015,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Extensive and Intensive Agricultural Supply Response",
+   "authors": [
+    "B.A. Babcock"
+   ],
+   "year": 2015,
+   "venue": "Annual Review of Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Potential for Crop Insurance Reform",
+   "authors": [
+    "N. Paulson",
+    "B.A. Babcock",
+    "J.W. Coppess"
+   ],
+   "year": 2014,
+   "venue": "Agricultural Finance Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Demand for E85: Geographical Location and Retail Capacity Constraints",
+   "authors": [
+    "S. Pouliot",
+    "B.A. Babcock"
+   ],
+   "year": 2014,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Impact of Expansion of Wind Power Capacity and Pricing Methods on the Efficiency of Deregulated Electricity Markets",
+   "authors": [
+    "O. Rubin",
+    "B.A. Babcock"
+   ],
+   "year": 2013,
+   "venue": "Energy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Biofuel Expansion, Fertilizer Use and GHG Emissions: Unintended Consequences of Mitigation Policies",
+   "authors": [
+    "A. Elobeid",
+    "M. Carriquiry",
+    "K. Mulik",
+    "J.F. Fabiosa",
+    "D.J. Hayes",
+    "B.A. Babcock",
+    "J. Dumortier",
+    "J.F. Rosas"
+   ],
+   "year": 2013,
+   "venue": "Economics Research International",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Modeling Shallow Loss Crop Revenue Programs: Issues and Implications for the 2013 Farm Bill",
+   "authors": [
+    "N. Paulson",
+    "J. Woodard",
+    "B.A. Babcock"
+   ],
+   "year": 2013,
+   "venue": "Agricultural Finance Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Ethanol without Subsidies: An Oxymoron or the New Reality?",
+   "authors": [
+    "B.A. Babcock"
+   ],
+   "year": 2013,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Are Agrofuels a Conservation Threat or Opportunity for Grassland Birds in the United States?",
+   "authors": [
+    "B.A. Robertson",
+    "R.A. Rice",
+    "T. Scott Sillett",
+    "C.A. Ribic",
+    "B.A. Babcock",
+    "D.A. Landis",
+    "J.R. Kerkert",
+    "R.J. Fletcher",
+    "J.J. Fontaine",
+    "P.J. Doran",
+    "D.W. Schemske"
+   ],
+   "year": 2012,
+   "venue": "The Condor",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Investment in Cellulosic Biofuel Refineries: Do Waivable Biofuel Mandates Matter?",
+   "authors": [
+    "R. Miao",
+    "D.A. Hennessy",
+    "B.A. Babcock"
+   ],
+   "year": 2012,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Impact of US Biofuel Policy on US Corn and Gasoline Price Variability",
+   "authors": [
+    "L. McPhail",
+    "B.A. Babcock"
+   ],
+   "year": 2012,
+   "venue": "Energy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Agricultural Land Elasticities in the United States and Brazil",
+   "authors": [
+    "K.J. Barr",
+    "B.A. Babcock",
+    "M.A. Carriquiry",
+    "A.M. Nassar",
+    "L. Harfuch"
+   ],
+   "year": 2011,
+   "venue": "Applied Economic Perspectives and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Higher U.S. Crop Prices Trigger Little Area Expansion so Marginal Land for Biofuel Crops Is Limited",
+   "authors": [
+    "S. Swinton",
+    "B.A. Babcock",
+    "L.K. James",
+    "V. Bandaru"
+   ],
+   "year": 2011,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Novel Approach for Modeling Deregulated Electricity",
+   "authors": [
+    "O. Rubin",
+    "B.A. Babcock"
+   ],
+   "year": 2011,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Crop-based Biofuel Production with Acreage Competition and Uncertainty",
+   "authors": [
+    "M. Mallory",
+    "D. Hayes",
+    "B.A. Babcock"
+   ],
+   "year": 2011,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Opportunity for Profitable Investments in Cellulosic Biofuels",
+   "authors": [
+    "B.A. Babcock",
+    "S. Marette",
+    "D. Treguer"
+   ],
+   "year": 2011,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Readdressing the Fertilizer Problem",
+   "authors": [
+    "N.D. Paulson",
+    "B.A. Babcock"
+   ],
+   "year": 2010,
+   "venue": "Journal of Agricultural and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Are U.S. Corn and Soybeans Becoming More Drought Tolerant?",
+   "authors": [
+    "T. Yu",
+    "B.A. Babcock"
+   ],
+   "year": 2010,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Impacts of Ethanol on Planted Acreage in Market Equilibrium",
+   "authors": [
+    "H. Feng",
+    "B.A. Babcock"
+   ],
+   "year": 2010,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Greenhouse Gas Impacts of Ethanol from Iowa Corn: Life Cycle Assessment versus System Wide Approach",
+   "authors": [
+    "H. Hennessy",
+    "B.A. Babcock",
+    "O. Rubin"
+   ],
+   "year": 2010,
+   "venue": "Biomass and Bioenergy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Biofuels: Potential Production Capacity, Effects on Grain and Livestock Sectors, and Implications for Food Prices and Consumers",
+   "authors": [
+    "D. Hayes",
+    "B.A. Babcock",
+    "J. Fabiosa",
+    "S. Tokgoz",
+    "A. Elobeid",
+    "T-H Yu",
+    "F. Dong",
+    "C. Hart",
+    "E. Chavez",
+    "S. Pan",
+    "M. Carriquiry",
+    "J. Dumortier"
+   ],
+   "year": 2009,
+   "venue": "Journal of Agricultural and Applied Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Get a GRIP: Should Area Revenue Coverage Be Offered Through the Farm Bill or as a Crop Insurance Program?",
+   "authors": [
+    "N.D. Paulson",
+    "B.A. Babcock"
+   ],
+   "year": 2008,
+   "venue": "Journal of Agricultural and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Bottlenecks, Drought, and Oil Price Spikes: Impact on U.S. Ethanol and Agricultural Sectors",
+   "authors": [
+    "S. Tokgoz",
+    "A. Elobeid",
+    "J. Fabiosa",
+    "D.J. Hayes",
+    "B.A. Babcock",
+    "T. Yu",
+    "F. Dong",
+    "C.E. Hart"
+   ],
+   "year": 2008,
+   "venue": "Review of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Distributional Implications of U.S. Ethanol Policy",
+   "authors": [
+    "B.A. Babcock"
+   ],
+   "year": 2008,
+   "venue": "Review of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Using a Farmer's Beta for Improved Estimation of Expected Yields",
+   "authors": [
+    "M.A. Carriquiry",
+    "B.A. Babcock",
+    "C.E. Hart"
+   ],
+   "year": 2008,
+   "venue": "Journal of Agricultural and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Insurance Approach to Risk Management in the Ethanol Industry",
+   "authors": [
+    "N. Paulson",
+    "B.A. Babcock",
+    "C.E. Hart",
+    "D.J. Hayes"
+   ],
+   "year": 2008,
+   "venue": "Agricultural and Resource Economics Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Creating a Geographically Linked Collective Brand for High-Quality Beef: A Case Study",
+   "authors": [
+    "B.A. Babcock",
+    "D.J. Hayes",
+    "J.D. Lawrence",
+    "R.L. Clemens"
+   ],
+   "year": 2008,
+   "venue": "Journal of Innovative Marketing",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Recent International and Regulatory Decisions about Geographical Indications",
+   "authors": [
+    "S. Marette",
+    "R. Clemens",
+    "B.A. Babcock"
+   ],
+   "year": 2008,
+   "venue": "Agribusiness: An International Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Long-Run Impact of Corn-Based Ethanol on the Grain, Oilseed, and Livestock Sectors: A Preliminary Assessment",
+   "authors": [
+    "A. Elobeid",
+    "S. Tokgoz",
+    "D.J. Hayes",
+    "B.A. Babcock",
+    "C.E. Hart"
+   ],
+   "year": 2007,
+   "venue": "AgBioForum",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Analysis of Regional Economic Growth in the U.S. Midwest",
+   "authors": [
+    "D.C. Monchuk",
+    "J. Miranoski",
+    "D.J. Hayes",
+    "B.A. Babcock"
+   ],
+   "year": 2007,
+   "venue": "Review of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Reputations, Market Structure, and the Choice of Quality Assurance Systems in the Food Industry",
+   "authors": [
+    "M.A. Carriquiry",
+    "B.A. Babcock"
+   ],
+   "year": 2007,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Insuring Eggs in Baskets: Should the Government Insure Individual Risks?",
+   "authors": [
+    "C.E. Hart",
+    "D.J. Hayes",
+    "B.A. Babcock"
+   ],
+   "year": 2006,
+   "venue": "Canadian Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Geographic Indications and Farmer-Owned Brands: Why do the U.S. and the E.U. Disagree?",
+   "authors": [
+    "D.J. Hayes",
+    "S. Lence",
+    "B.A. Babcock"
+   ],
+   "year": 2005,
+   "venue": "EuroChoices",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Impact of Transportation Costs on Spatial Competition of Grain Buyers: An Iowa Case Study",
+   "authors": [
+    "M.A. Carriquiry",
+    "B.A. Babcock"
+   ],
+   "year": 2005,
+   "venue": "Journal of Transportation Research Forum",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Living with Hogs in Iowa: The Impact of Livestock Facilities on Rural Residential Property Values",
+   "authors": [
+    "J. Herriges",
+    "S. Secchi",
+    "B.A. Babcock"
+   ],
+   "year": 2005,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Actuarial Fairness of Crop Insurance Rates with Constant Rate Relativities",
+   "authors": [
+    "B.A. Babcock",
+    "C.E. Hart",
+    "D.J. Hayes"
+   ],
+   "year": 2004,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Genetic Information in Agricultural Productivity and Product Development",
+   "authors": [
+    "D. Hennessy",
+    "J.A. Miranowski",
+    "B.A. Babcock"
+   ],
+   "year": 2004,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Comparison of Estimated Costs and Benefits of Site-Specific Versus Uniform Management for the Bean Leaf Beetle in Soybean",
+   "authors": [
+    "R.K. Krell",
+    "L. Pedigo",
+    "B.A. Babcock"
+   ],
+   "year": 2003,
+   "venue": "Precision Agriculture",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Insuring the Stewardship of Bt Corn: A Carrot versus a Stick",
+   "authors": [
+    "P.D. Mitchell",
+    "T.M. Hurley",
+    "B.A. Babcock",
+    "R.L. Hellmich"
+   ],
+   "year": 2002,
+   "venue": "Journal of Agricultural and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "U.S. Farm Policy and the WTO: How Do They Match Up?",
+   "authors": [
+    "C.E. Hart",
+    "B.A. Babcock"
+   ],
+   "year": 2002,
+   "venue": "The Estey Centre Journal of International Law and Trade Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Managing the Risk of European Corn Borer Resistance to Bt Corn",
+   "authors": [
+    "T.M. Hurley",
+    "S. Secchi",
+    "B.A. Babcock",
+    "R. Hellmich"
+   ],
+   "year": 2002,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Bt Corn and Insect Resistance: An Economic Assessment of Refuges",
+   "authors": [
+    "T.M. Hurley",
+    "B.A. Babcock",
+    "R. Hellmich"
+   ],
+   "year": 2001,
+   "venue": "Journal of Agricultural and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Livestock Revenue Insurance",
+   "authors": [
+    "C.E. Hart",
+    "B.A. Babcock",
+    "D.J. Hayes"
+   ],
+   "year": 2001,
+   "venue": "Journal of Futures Markets",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Environmental and Distributional Impacts of Conservation Targeting Strategies",
+   "authors": [
+    "J. Wu",
+    "D. Zilberman",
+    "B.A. Babcock"
+   ],
+   "year": 2001,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Spatial Heterogeneity and the Choice of Instruments to Control Nonpoint Pollution",
+   "authors": [
+    "J. Wu",
+    "B.A. Babcock"
+   ],
+   "year": 2001,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Efficiency of Sequestering Carbon in Agricultural Soils",
+   "authors": [
+    "G.R. Pautsch",
+    "L. Kurkalova",
+    "B.A. Babcock",
+    "C.L. Kling"
+   ],
+   "year": 2001,
+   "venue": "Contemporary Economic Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Metamodeling Potential Nitrate Water Pollution in the Central United States",
+   "authors": [
+    "J. Wu",
+    "B.A. Babcock"
+   ],
+   "year": 1999,
+   "venue": "Journal of Environmental Quality",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Model-Based Technique to Determine Variable-Rate Nitrogen for Corn",
+   "authors": [
+    "J.O. Paz",
+    "W.D. Batchelor",
+    "B.A. Babcock",
+    "T.S. Colvin",
+    "S.D. Logsdon",
+    "T.C. Kaspar",
+    "D.L. Karlen"
+   ],
+   "year": 1999,
+   "venue": "Agricultural Systems",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Optimal Information Acquisition under a Geostatistical Model",
+   "authors": [
+    "G.R. Pautsch",
+    "B.A. Babcock",
+    "F. Jay Breidt"
+   ],
+   "year": 1999,
+   "venue": "Journal of Agricultural and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Relative Efficiency of Voluntary vs. Mandatory Environmental Regulations",
+   "authors": [
+    "J.-J. Wu",
+    "B.A. Babcock"
+   ],
+   "year": 1999,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Moving from Uniform to Variable Nitrogen Applications on Iowa Corn: Effects on Rates and Returns",
+   "authors": [
+    "B.A. Babcock",
+    "G.R. Pautsch"
+   ],
+   "year": 1998,
+   "venue": "Journal of Agricultural and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Information, Flexibility, and Value Added",
+   "authors": [
+    "D. Hennessy",
+    "B.A. Babcock"
+   ],
+   "year": 1998,
+   "venue": "Information Economics and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Resource or Waste? The Economics of Swine Manure Storage and Management",
+   "authors": [
+    "R.A. Fleming",
+    "B.A. Babcock",
+    "E. Wang"
+   ],
+   "year": 1998,
+   "venue": "Review of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Choice of Tillage, Rotation, and Soil Testing Practices: Economic and Environmental Implications",
+   "authors": [
+    "J. Wu",
+    "B.A. Babcock"
+   ],
+   "year": 1998,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Budgetary and Producer Welfare Effects of Revenue Assurance",
+   "authors": [
+    "D. Hennessy",
+    "B.A. Babcock",
+    "D. Hayes"
+   ],
+   "year": 1997,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Targeting Tools for the Purchase of Environmental Amenities",
+   "authors": [
+    "B.A. Babcock",
+    "P.G. Lakshminarayan",
+    "J. Wu",
+    "D. Zilberman"
+   ],
+   "year": 1997,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Contract Design for the Purchase of Environmental Goods from Agriculture",
+   "authors": [
+    "J. Wu",
+    "B.A. Babcock"
+   ],
+   "year": 1996,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Estimating the Value of Guaranteed Rail Service",
+   "authors": [
+    "G.R. Pautsch",
+    "B.A. Babcock",
+    "C.P. Baumel"
+   ],
+   "year": 1996,
+   "venue": "Journal of Transportation Research Forum",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Economics of a Public Fund for Environmental Amenities",
+   "authors": [
+    "B.A. Babcock",
+    "J. Wu",
+    "P.G. Lakshminarayan",
+    "D. Zilberman"
+   ],
+   "year": 1996,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Evaluation of Soil Test Information in Agricultural Decision Making",
+   "authors": [
+    "B.A. Babcock",
+    "A.L. Carriquiry",
+    "H.S. Stern"
+   ],
+   "year": 1996,
+   "venue": "Applied Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Deriving Forecast Probability Distributions of Harvest-Time Corn Futures Prices",
+   "authors": [
+    "D. O'Brien",
+    "M. Hayenga",
+    "B.A. Babcock"
+   ],
+   "year": 1996,
+   "venue": "Review of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Input Demand Under Yield and Revenue Insurance",
+   "authors": [
+    "B.A. Babcock",
+    "D. Hennessy"
+   ],
+   "year": 1996,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Optimal Design of a Voluntary Green Payment Program under Asymmetric Information",
+   "authors": [
+    "J. Wu",
+    "B.A. Babcock"
+   ],
+   "year": 1995,
+   "venue": "Journal of Agricultural and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Cost of Risk in Agriculture",
+   "authors": [
+    "B.A. Babcock",
+    "J.F. Shogren"
+   ],
+   "year": 1995,
+   "venue": "Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Flexibility, Endogenous Risk, and the Protection Premium",
+   "authors": [
+    "S. Lence",
+    "B.A. Babcock"
+   ],
+   "year": 1995,
+   "venue": "Theory and Decision",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Ex Post Relationship between Growing Conditions and Nitrogen Fertilizer Levels",
+   "authors": [
+    "B.A. Babcock",
+    "A.M. Blackmer"
+   ],
+   "year": 1994,
+   "venue": "Review of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Commodity Policy, Price Incentives, and the Growth in Per-Acre Yields",
+   "authors": [
+    "W.E. Foster",
+    "B.A. Babcock"
+   ],
+   "year": 1993,
+   "venue": "Journal of Agricultural and Applied Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Land Quality and Diversion Decisions under U.S. Commodity Programs",
+   "authors": [
+    "B.A. Babcock",
+    "W.E. Foster",
+    "D.L. Hoag"
+   ],
+   "year": 1993,
+   "venue": "Review of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Risk and Probability Premiums for CARA Utility Functions",
+   "authors": [
+    "B.A. Babcock",
+    "E.K. Choi",
+    "E. Feinerman"
+   ],
+   "year": 1993,
+   "venue": "Journal of Agricultural and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Field-Level Measurements of Land Productivity and Program Slippage",
+   "authors": [
+    "D.L. Hoag",
+    "B.A. Babcock",
+    "W.E. Foster"
+   ],
+   "year": 1993,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Value of Reducing Temporal Input Nonuniformities",
+   "authors": [
+    "B.A. Babcock",
+    "A.M. Blackmer"
+   ],
+   "year": 1992,
+   "venue": "Journal of Agricultural and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Effects of Uncertainty on Optimal Nitrogen Applications",
+   "authors": [
+    "B.A. Babcock"
+   ],
+   "year": 1992,
+   "venue": "Review of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic Rents under Supply Controls with Marketable Quota",
+   "authors": [
+    "B.A. Babcock",
+    "W.E. Foster"
+   ],
+   "year": 1992,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Impact of Damage Control and Quality of Output: Estimating Pest Control Effectiveness",
+   "authors": [
+    "B.A. Babcock",
+    "E. Lichtenberg",
+    "D. Zilberman"
+   ],
+   "year": 1992,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Producer Welfare Consequences of Regulating Chemical Residues on Agricultural Crops: Maleic Hydrazide and Flue-Cured Tobacco",
+   "authors": [
+    "W.E. Foster",
+    "B.A. Babcock"
+   ],
+   "year": 1991,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Measuring the Contribution of Plant Breeding to Crop Yields: Flue-Cured Tobacco, 1954 - 1987",
+   "authors": [
+    "B.A. Babcock",
+    "W.E. Foster"
+   ],
+   "year": 1991,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Acreage Decisions under Marketing Quotas and Yield Uncertainty",
+   "authors": [
+    "B.A. Babcock"
+   ],
+   "year": 1990,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Political Economy of U. S. Wheat Legislation",
+   "authors": [
+    "B.A. Babcock",
+    "C.A. Carter",
+    "A. Schmitz"
+   ],
+   "year": 1990,
+   "venue": "Economic Inquiry",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Value of Weather Information in Market Equilibrium",
+   "authors": [
+    "B.A. Babcock"
+   ],
+   "year": 1990,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Effect of Government Policy on Flue-Cured Tobacco Yields",
+   "authors": [
+    "W.E. Foster",
+    "B.A. Babcock"
+   ],
+   "year": 1990,
+   "venue": "Tobacco Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Simultaneous Input Demands and Land Allocation in Agricultural Production under Uncertainty",
+   "authors": [
+    "B.A. Babcock",
+    "J.A. Chalfant",
+    "R.N. Collender"
+   ],
+   "year": 1987,
+   "venue": "Western Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Identifying Least-Cost Sources of Required Fertilizer Nutrients",
+   "authors": [
+    "B.A. Babcock",
+    "M.E. Rister",
+    "R.D. Kay",
+    "J.A. Wallers"
+   ],
+   "year": 1984,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Politics and Economics of the U.S. Crop Insurance Program",
+   "authors": [
+    "B.A. Babcock"
+   ],
+   "year": 2012,
+   "venue": "Chapter in The Intended and Unintended Consequences of U.S. Agricultural and Biotechnology Policy (NBER, University of Chicago Press)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Pest Mobility, Market Share, and the Efficacy of Refuge Requirements for Resistance Management",
+   "authors": [
+    "S. Secchi",
+    "B.A. Babcock"
+   ],
+   "year": 2003,
+   "venue": "Chapter in Battling Resistance to Antibiotics and Pesticides (Resources for the Future)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Valuing Pest Control: How Much is Due to Risk Aversion?",
+   "authors": [
+    "T.M. Hurley",
+    "B.A. Babcock"
+   ],
+   "year": 2003,
+   "venue": "Chapter in Risk Management and the Environment: Agriculture in Perspective (Kluwer)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

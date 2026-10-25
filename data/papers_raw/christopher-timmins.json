@@ -1,0 +1,823 @@
+{
+ "slug": "christopher-timmins",
+ "name": "Christopher Timmins",
+ "sources": [
+  "https://www.christophertimmins.com/new-page-3",
+  "http://www.christophertimmins.com"
+ ],
+ "collected": "2026-10-25",
+ "notes": "Source: Timmins's publications page (CV link on homepage is a Google Drive file that could not be downloaded). Page lists co-authors by surname only, so author names are surnames as written, with Timmins expanded. For items where the page gives the 'with' form (Timmins first), authors are ordered alphabetically by surname per convention (e.g., Christensen & Timmins); the other items (Bhavsar et al., Bayer et al., Bishop et al., Han et al.) keep page order. Working papers carry no year on the page: set to 2026 (page date); NBER numbers are given in the venue field. Cool Cities (AER: Insights) forthcoming with no year; 2026 assumed. The page was truncated after the conference section; no R&R items are labeled. Co-author list for Wang 'Inequality, Displacement' etc. as printed. Abstracts not shown.",
+ "papers": [
+  {
+   "title": "Cool Cities: The Value of Green Infrastructure",
+   "authors": [
+    "Han",
+    "Heblich",
+    "Christopher Timmins",
+    "Zylberberg"
+   ],
+   "year": 2026,
+   "venue": "American Economic Review: Insights",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Costs of Exposure to Industrial Livestock Operations",
+   "authors": [
+    "Jowers",
+    "Ma",
+    "Christopher Timmins"
+   ],
+   "year": 2024,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Frictional Sorting: The Impacts of Dual Constraints on Mobility and Housing Supply in China",
+   "authors": [
+    "Liang",
+    "Song",
+    "Christopher Timmins"
+   ],
+   "year": 2024,
+   "venue": "International Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Association between Long-term PM2.5 Exposure and Risk for Pancreatic Cancer",
+   "authors": [
+    "Bhavsar",
+    "Jowers",
+    "Yang",
+    "Guha",
+    "Lin",
+    "Peskoe",
+    "McManus",
+    "McElroy",
+    "Bravo",
+    "Reiter",
+    "Whitsel",
+    "Christopher Timmins"
+   ],
+   "year": 2024,
+   "venue": "American Journal of Epidemiology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Fertility Consequences of Air Pollution in China",
+   "authors": [
+    "Gao",
+    "Song",
+    "Christopher Timmins"
+   ],
+   "year": 2024,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Recent Findings and Methodologies in Economics Research in Environmental Justice",
+   "authors": [
+    "Cain",
+    "Hernandez-Cortes",
+    "Christopher Timmins",
+    "Weber"
+   ],
+   "year": 2024,
+   "venue": "Review of Environmental Economics and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Racial Gaps in Federal Flood Buyout Compensations",
+   "authors": [
+    "Jowers",
+    "Ma",
+    "Christopher Timmins"
+   ],
+   "year": 2023,
+   "venue": "AEA Papers and Proceedings",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Information, Migration, and the Value of Clean Air",
+   "authors": [
+    "Gao",
+    "Song",
+    "Christopher Timmins"
+   ],
+   "year": 2023,
+   "venue": "Journal of Development Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Damages and Distortions from Discrimination in the Rental Housing Market",
+   "authors": [
+    "Christensen",
+    "Christopher Timmins"
+   ],
+   "year": 2023,
+   "venue": "Quarterly Journal of Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Environmental Justice and Coasian Bargaining: The Role of Race and Income in Lease Negotiations for Shale Gas",
+   "authors": [
+    "Christopher Timmins",
+    "Vissing"
+   ],
+   "year": 2022,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Sorting or Steering: Experimental Evidence on the Economic Effects of Housing Discrimination",
+   "authors": [
+    "Christensen",
+    "Christopher Timmins"
+   ],
+   "year": 2022,
+   "venue": "Journal of Political Economy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Housing Discrimination and the Toxics Exposure Gap in the United States",
+   "authors": [
+    "Christensen",
+    "Sarmiento-Barbieri",
+    "Christopher Timmins"
+   ],
+   "year": 2022,
+   "venue": "Review of Economics and Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Market Tremors: Shale Gas, Earthquakes, and Their Impact on House Prices",
+   "authors": [
+    "Gibbons",
+    "Heblich",
+    "Christopher Timmins"
+   ],
+   "year": 2021,
+   "venue": "Journal of Urban Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Best Practices in Using Hedonic Property Value Models for Welfare Measurement",
+   "authors": [
+    "Bishop",
+    "Kuminoff",
+    "Banzhaf",
+    "Boyle",
+    "von Gravenitz",
+    "Pope",
+    "Smith",
+    "Christopher Timmins"
+   ],
+   "year": 2020,
+   "venue": "Review of Environmental Economics and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Estimating the marginal willingness to pay function without instrumental variables",
+   "authors": [
+    "Bishop",
+    "Christopher Timmins"
+   ],
+   "year": 2019,
+   "venue": "Journal of Urban Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Environmental Justice: Establishing Causal Relationships",
+   "authors": [
+    "Banzhaf",
+    "Ma",
+    "Christopher Timmins"
+   ],
+   "year": 2019,
+   "venue": "Annual Review of Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Environmental Justice: The Economics of Race, Place, and Pollution",
+   "authors": [
+    "Banzhaf",
+    "Ma",
+    "Christopher Timmins"
+   ],
+   "year": 2019,
+   "venue": "Journal of Economic Perspectives",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Willingness to pay for clean air in China",
+   "authors": [
+    "Freeman",
+    "Liang",
+    "Song",
+    "Christopher Timmins"
+   ],
+   "year": 2019,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Using Panel Data to Easily Estimate Hedonic Demand Functions",
+   "authors": [
+    "Bishop",
+    "Christopher Timmins"
+   ],
+   "year": 2018,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Estimating the Impacts of Brownfield Remediation on Housing Property Values",
+   "authors": [
+    "Haninger",
+    "Ma",
+    "Christopher Timmins"
+   ],
+   "year": 2017,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Dynamic Model of Demand for Houses and Neighborhoods",
+   "authors": [
+    "Bayer",
+    "McMillan",
+    "Murphy",
+    "Christopher Timmins"
+   ],
+   "year": 2016,
+   "venue": "Econometrica",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Housing Market Impacts of Shale Gas Development",
+   "authors": [
+    "Muehlenbachs",
+    "Spiller",
+    "Christopher Timmins"
+   ],
+   "year": 2015,
+   "venue": "American Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "White Flight and Coming to the Nuisance: Can Residential Mobility Explain Environmental Injustice?",
+   "authors": [
+    "Depro",
+    "O'Neil",
+    "Christopher Timmins"
+   ],
+   "year": 2015,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Environmental Regulations and the Welfare Effects of Job Layoffs in the United States: A Spatial Approach",
+   "authors": [
+    "Kuminoff",
+    "Schoellman",
+    "Christopher Timmins"
+   ],
+   "year": 2015,
+   "venue": "Review of Environmental Economics and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Effect of Gasoline Taxes and Public Transit Investments on Driving Patterns",
+   "authors": [
+    "Smith",
+    "Spiller",
+    "Stephens",
+    "Christopher Timmins"
+   ],
+   "year": 2014,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Estimating Network Economies in Retail Chains: A Revealed Preference Approach",
+   "authors": [
+    "Ellickson",
+    "Houghton",
+    "Christopher Timmins"
+   ],
+   "year": 2013,
+   "venue": "RAND Journal of Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The New Economics of Equilibrium Sorting and Policy Evaluation Using Housing Markets",
+   "authors": [
+    "Kuminoff",
+    "Smith",
+    "Christopher Timmins"
+   ],
+   "year": 2013,
+   "venue": "Journal of Economic Literature",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Does Cleanup of Hazardous Waste Sites Raise Housing Values? Evidence of Spatially Localized Benefits",
+   "authors": [
+    "Gamper-Rabindran",
+    "Christopher Timmins"
+   ],
+   "year": 2013,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Roy Model Sorting and the Value of a Statistical Life",
+   "authors": [
+    "DeLeire",
+    "Khan",
+    "Christopher Timmins"
+   ],
+   "year": 2013,
+   "venue": "International Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Rational Expectations Approach to Hedonic Price Regressions with Time-Varying Unobserved Product Attributes: The Price of Pollution",
+   "authors": [
+    "Bajari",
+    "Cooley Fruehwirth",
+    "Kim",
+    "Christopher Timmins"
+   ],
+   "year": 2012,
+   "venue": "American Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Hazardous Waste Cleanup, Neighborhood Gentrification, and Environmental Justice",
+   "authors": [
+    "Gamper-Rabindran",
+    "Christopher Timmins"
+   ],
+   "year": 2011,
+   "venue": "AER Papers and Proceedings",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Nonparametric Identification and Estimation in a Roy Model with Common Nonpecuniary Returns",
+   "authors": [
+    "Bayer",
+    "Khan",
+    "Christopher Timmins"
+   ],
+   "year": 2011,
+   "venue": "Journal of Business and Economic Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The impact of piped water provision on infant mortality in Brazil: A quantile panel data approach",
+   "authors": [
+    "Gamper-Rabindran",
+    "Khan",
+    "Christopher Timmins"
+   ],
+   "year": 2010,
+   "venue": "Journal of Development Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Climate Change and Conservation in Brazil: CGE Evaluation of Health and Wealth Impacts",
+   "authors": [
+    "Alger",
+    "Bauch",
+    "Depro",
+    "Pattanayak",
+    "Ross",
+    "Christopher Timmins",
+    "Wendland"
+   ],
+   "year": 2009,
+   "venue": "B.E. Journal of Economic Analysis & Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How Do Gas Prices Affect Fleet Fuel Economy?",
+   "authors": [
+    "von Haefen",
+    "Li",
+    "Christopher Timmins"
+   ],
+   "year": 2009,
+   "venue": "American Economic Journal: Economic Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Reduced-Form versus Structural Modeling in Environmental and Resource Economics",
+   "authors": [
+    "Schlenker",
+    "Christopher Timmins"
+   ],
+   "year": 2009,
+   "venue": "Annual Review of Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Connecting Lagging and Leading Regions: The Role of Labor Mobility",
+   "authors": [
+    "Lall",
+    "Christopher Timmins",
+    "Yu"
+   ],
+   "year": 2009,
+   "venue": "Brookings-Wharton Papers on Urban Affairs",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Agglomeration Effects in Foreign Direct Investment and the 'Pollution Havens' Hypothesis",
+   "authors": [
+    "Christopher Timmins",
+    "Wagner"
+   ],
+   "year": 2009,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Migration and Hedonic Valuation: The Case of Air Quality",
+   "authors": [
+    "Bayer",
+    "Keohane",
+    "Christopher Timmins"
+   ],
+   "year": 2009,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Revealed Preference Approach to the Measurement of Congestion in Travel Cost Models",
+   "authors": [
+    "Murdock",
+    "Christopher Timmins"
+   ],
+   "year": 2007,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "If You Can't Take the Heat, Get Out of the Cerrado...",
+   "authors": [
+    "Christopher Timmins"
+   ],
+   "year": 2007,
+   "venue": "Journal of Regional Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Estimating Equilibrium Models of Sorting Across Locations",
+   "authors": [
+    "Bayer",
+    "Christopher Timmins"
+   ],
+   "year": 2007,
+   "venue": "Economic Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Endogenous Land Use and the Ricardian Valuation of Climate Change",
+   "authors": [
+    "Christopher Timmins"
+   ],
+   "year": 2006,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Estimating Spatial Differences in the Brazilian Cost-of-Living With Household Location Choices",
+   "authors": [
+    "Christopher Timmins"
+   ],
+   "year": 2006,
+   "venue": "Journal of Development Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "On the Equilibrium Properties of Locational Sorting Models",
+   "authors": [
+    "Bayer",
+    "Christopher Timmins"
+   ],
+   "year": 2005,
+   "venue": "Journal of Urban Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How Do Changes in Welfare Law Affect Domestic Violence? An Analysis of Connecticut Towns, 1990-2000",
+   "authors": [
+    "Nou",
+    "Christopher Timmins"
+   ],
+   "year": 2005,
+   "venue": "Journal of Legal Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Estimable Equilibrium Models of Locational Sorting and Their Role in Development Economics",
+   "authors": [
+    "Christopher Timmins"
+   ],
+   "year": 2005,
+   "venue": "Journal of Economic Geography",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Demand-Side Technology Standards Under Inefficient Pricing Regimes",
+   "authors": [
+    "Christopher Timmins"
+   ],
+   "year": 2003,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Does the Median Voter Consume Too Much Water? Analyzing the Redistributive Role of Residential Water Bills",
+   "authors": [
+    "Christopher Timmins"
+   ],
+   "year": 2002,
+   "venue": "National Tax Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Measuring the Dynamic Efficiency Costs of Regulators' Preferences: Municipal Water Utilities in the Arid West",
+   "authors": [
+    "Christopher Timmins"
+   ],
+   "year": 2002,
+   "venue": "Econometrica",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Hidden Biases: Selective Advertising in the Rental Housing Market",
+   "authors": [
+    "Gold",
+    "Han",
+    "Christopher Timmins"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Racial Dynamics of Federal Property Buyouts in Flood-Prone Areas",
+   "authors": [
+    "Jowers",
+    "Ma",
+    "Christopher Timmins"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Imperceptible Contaminants and Housing Markets: Evidence from Local News",
+   "authors": [
+    "Han",
+    "Jowers",
+    "Christopher Timmins",
+    "Zeng"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Equity Impacts of Industrial Livestock Operations",
+   "authors": [
+    "Jowers",
+    "Ma",
+    "Christopher Timmins"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do environmental justice policies narrow inequality?",
+   "authors": [
+    "Hernandez-Cortes",
+    "Meng",
+    "Christopher Timmins",
+    "Weber"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Inequality, Displacement and the Consequences of Environmental Improvements",
+   "authors": [
+    "Christopher Timmins",
+    "Wang"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Housing Discrimination in Context: A Comparative Study of Housing Discrimination in Four English Towns",
+   "authors": [
+    "Binner",
+    "Booth-Clibborn",
+    "Christensen",
+    "Pryce",
+    "Christopher Timmins"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Racial Discrimination and Housing Outcomes in the United States Rental Market",
+   "authors": [
+    "Christensen",
+    "Sarmiento-Barbieri",
+    "Christopher Timmins"
+   ],
+   "year": 2026,
+   "venue": "NBER Working Paper 29516",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Discrimination During Eviction Moratoria",
+   "authors": [
+    "Arefeva",
+    "Hu",
+    "Jowers",
+    "Christopher Timmins"
+   ],
+   "year": 2026,
+   "venue": "NBER Working Paper 32289",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Housing Precarity and the COVID-19 Pandemic: Impacts of Utility Disconnection and Eviction Moratoria on Infections and Deaths Across US Counties",
+   "authors": [
+    "Bhavsar",
+    "Hu",
+    "Jowers",
+    "Marshall",
+    "Christopher Timmins"
+   ],
+   "year": 2026,
+   "venue": "NBER Working Paper 28394",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Learning by Viewing? Social Learning, Regulatory Disclosure, and Firm Productivity in Shale Gas",
+   "authors": [
+    "Fetter",
+    "Steck",
+    "Christopher Timmins",
+    "Wrenn"
+   ],
+   "year": 2026,
+   "venue": "NBER Working Paper 25401",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Collateral Damage: The Impact of Shale Gas on Mortgage Lending",
+   "authors": [
+    "Chen",
+    "Roberts",
+    "Christopher Timmins",
+    "Vissing"
+   ],
+   "year": 2026,
+   "venue": "NBER Working Paper 29494",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

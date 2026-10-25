@@ -1,0 +1,484 @@
+{
+ "slug": "sathya-gopalakrishnan",
+ "name": "Sathya Gopalakrishnan",
+ "sources": [
+  "https://cfaes-contenthub.org.ohio-state.edu/sites/default/files/2026-04/Gopalakrishnan_CV_2025.pdf"
+ ],
+ "collected": "2026-10-25",
+ "notes": "From CV updated Jan 2025. Author names as written in CV (initials; student markers removed). Undated working papers given year 2025 (CV date); 'Under Review' items use CV year. Miteva et al. year 2025 assumed (accepted; CV gives no year). Skipped in-preparation items, synthesis report, ASEE proceedings.",
+ "papers": [
+  {
+   "title": "The Value of Forests in Reducing Malaria Mortality in India",
+   "authors": [
+    "D.A. Miteva",
+    "Y. Cheng",
+    "A. Miller",
+    "S. Gopalakrishnan"
+   ],
+   "year": 2025,
+   "venue": "Environment and Development Economics",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Identity Trajectories of Faculty Members through Interdisciplinary STEAM Collaboration Paired with Public Communication",
+   "authors": [
+    "R.M. Desing",
+    "R. Pelan",
+    "R.L. Kajfez",
+    "C. Wallwey",
+    "A.M. Clark",
+    "S. Gopalakrishnan"
+   ],
+   "year": 2024,
+   "venue": "Education Sciences",
+   "status": "已发表",
+   "url": "https://doi.org/10.3390/educsci14050454",
+   "abstract": null
+  },
+  {
+   "title": "Policy and Market Forces Delay Inevitable Real Estate Price Declines on the US Coast",
+   "authors": [
+    "D.E. McNamara",
+    "M.D. Smith",
+    "Z. Williams",
+    "S. Gopalakrishnan",
+    "C.E. Landry"
+   ],
+   "year": 2024,
+   "venue": "Nature Communications",
+   "status": "已发表",
+   "url": "https://doi.org/10.1038/s41467-024-46548-6",
+   "abstract": null
+  },
+  {
+   "title": "Local Adaptation and Unintended Coastal Vulnerability: The Effect of Beach Nourishment on Residential Development in North Carolina",
+   "authors": [
+    "Xiaoyu Li",
+    "S. Gopalakrishnan",
+    "H.A. Klaiber"
+   ],
+   "year": 2024,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Staying Afloat: The Effect of Algae Contamination on Lake Erie Housing Prices",
+   "authors": [
+    "D. Wolf",
+    "S. Gopalakrishnan",
+    "H.A. Klaiber"
+   ],
+   "year": 2022,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/ajae.12285",
+   "abstract": null
+  },
+  {
+   "title": "Beyond Marginal: Estimating the Demand for Water Quality",
+   "authors": [
+    "D. Wolf",
+    "H.A. Klaiber",
+    "S. Gopalakrishnan"
+   ],
+   "year": 2022,
+   "venue": "Resource and Energy Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.reseneeco.2022.101299",
+   "abstract": null
+  },
+  {
+   "title": "Leveraging Urban Experimentation for Sustainability Science and Policy",
+   "authors": [
+    "H.J. Miller",
+    "K. Clifton",
+    "G. Akar",
+    "S. Gopalakrishnan",
+    "K. Tufte",
+    "J. MacArthur",
+    "E. Irwin",
+    "R. Ramanath",
+    "J. Stiles"
+   ],
+   "year": 2021,
+   "venue": "Harvard Data Science Review",
+   "status": "已发表",
+   "url": "https://doi.org/10.1162/99608f92.2025202b",
+   "abstract": null
+  },
+  {
+   "title": "Climate Change and Coastal Vulnerability",
+   "authors": [
+    "Xiaoyu Li",
+    "S. Gopalakrishnan"
+   ],
+   "year": 2021,
+   "venue": "Oxford Research Encyclopedia of Economics and Finance",
+   "status": "已发表",
+   "url": "https://doi.org/10.1093/acrefore/9780190625979.013.576",
+   "abstract": null
+  },
+  {
+   "title": "Dredging the Sand Commons: The Economic and Geophysical Drivers of Beach Nourishment",
+   "authors": [
+    "Yun Qiu",
+    "S. Gopalakrishnan",
+    "H.A. Klaiber",
+    "Xiaoyu Li"
+   ],
+   "year": 2020,
+   "venue": "Climatic Change",
+   "status": "已发表",
+   "url": "https://doi.org/10.1007/s10584-020-02757-8",
+   "abstract": null
+  },
+  {
+   "title": "Spread Externalities and the Implications of Heterogeneous Ecological Capacity Constraints",
+   "authors": [
+    "J. Goodenberger",
+    "S. Gopalakrishnan",
+    "H.A. Klaiber"
+   ],
+   "year": 2020,
+   "venue": "Journal of Environmental Management",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jenvman.2020.110813",
+   "abstract": null
+  },
+  {
+   "title": "The Impacts of Harmful Algal Blooms and E. Coli on Recreational Behavior in Lake Erie",
+   "authors": [
+    "D. Wolf",
+    "W. Chen",
+    "S. Gopalakrishnan",
+    "T. Haab",
+    "H.A. Klaiber"
+   ],
+   "year": 2019,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.3368/le.95.4.455",
+   "abstract": null
+  },
+  {
+   "title": "Valuing Water Quality Changes Using a Coupled Economic-Hydrological Model",
+   "authors": [
+    "H. Liu",
+    "S. Gopalakrishnan",
+    "G. Sivandran",
+    "D. Browning"
+   ],
+   "year": 2019,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.ecolecon.2019.03.006",
+   "abstract": null
+  },
+  {
+   "title": "Shoreline Defense Against Climate Change and the Capitalized Impact of Beach Nourishment",
+   "authors": [
+    "Yun Qiu",
+    "S. Gopalakrishnan"
+   ],
+   "year": 2018,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jeem.2018.08.013",
+   "abstract": null
+  },
+  {
+   "title": "Overcoming Early Career Barriers to Interdisciplinary Climate Change Research",
+   "authors": [
+    "C.J. Hein",
+    "J.E. Ten Hoeve",
+    "S. Gopalakrishnan",
+    "B. Livneh",
+    "H.D. Adams",
+    "E.K. Marino",
+    "C.S. Weiler"
+   ],
+   "year": 2018,
+   "venue": "Wiley Interdisciplinary Reviews: Climate Change",
+   "status": "已发表",
+   "url": "https://doi.org/10.1002/wcc.530",
+   "abstract": null
+  },
+  {
+   "title": "The Impact of Intensity on Perceived Risk from Unconventional Shale Gas Development",
+   "authors": [
+    "M.R. Livy",
+    "S. Gopalakrishnan",
+    "H.A. Klaiber",
+    "B.E. Roe"
+   ],
+   "year": 2018,
+   "venue": "Journal of Environmental Management",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jenvman.2018.04.026",
+   "abstract": null
+  },
+  {
+   "title": "Climate Change Adaptation in Coastal Environments: Modeling Challenges for Resource and Environmental Economists",
+   "authors": [
+    "S. Gopalakrishnan",
+    "C.L. Landry",
+    "M.D. Smith"
+   ],
+   "year": 2018,
+   "venue": "Review of Environmental Economics and Policy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1093/reep/rex020",
+   "abstract": null
+  },
+  {
+   "title": "Missing the Forest for the Trees: Balancing Shale Exploration and Conservation Goals through Policy",
+   "authors": [
+    "H.A. Klaiber",
+    "S. Gopalakrishnan",
+    "Syed Hasan"
+   ],
+   "year": 2017,
+   "venue": "Conservation Letters",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/conl.12238",
+   "abstract": null
+  },
+  {
+   "title": "Decentralized Management Hinders Coastal Climate Adaptation: The Spatial-dynamics of Beach Nourishment",
+   "authors": [
+    "S. Gopalakrishnan",
+    "D. McNamara",
+    "M. Smith",
+    "A.B. Murray"
+   ],
+   "year": 2017,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1007/s10640-016-0004-8",
+   "abstract": null
+  },
+  {
+   "title": "Economics of Coastal Erosion and Adaptation to Sea Level Rise",
+   "authors": [
+    "S. Gopalakrishnan",
+    "C.E. Landry",
+    "M.D. Smith",
+    "J.C. Whitehead"
+   ],
+   "year": 2016,
+   "venue": "Annual Review of Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Welfare, Wealth and Sustainability",
+   "authors": [
+    "E. Irwin",
+    "S. Gopalakrishnan",
+    "A. Randall"
+   ],
+   "year": 2016,
+   "venue": "Annual Review of Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Climate Adaptation and Policy-Induced Inflation of Coastal Property Value",
+   "authors": [
+    "D.E. McNamara",
+    "S. Gopalakrishnan",
+    "M. Smith",
+    "A.B. Murray"
+   ],
+   "year": 2015,
+   "venue": "PLOS One",
+   "status": "已发表",
+   "url": "https://doi.org/10.1371/journal.pone.0121278",
+   "abstract": null
+  },
+  {
+   "title": "Is the Shale Boom a Bust for Nearby Residents?: Evidence from Housing Values in Pennsylvania",
+   "authors": [
+    "S. Gopalakrishnan",
+    "H.A. Klaiber"
+   ],
+   "year": 2014,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1093/ajae/aat065",
+   "abstract": null
+  },
+  {
+   "title": "Coupled Economic-Coastline Modeling with Suckers and Free Riders",
+   "authors": [
+    "Z.C. Williams",
+    "D.E. McNamara",
+    "M.D. Smith",
+    "A.B. Murray",
+    "S. Gopalakrishnan"
+   ],
+   "year": 2013,
+   "venue": "Journal of Geophysical Research: Earth Surface",
+   "status": "已发表",
+   "url": "https://doi.org/10.1002/jgrf.20066",
+   "abstract": null
+  },
+  {
+   "title": "Progress in Coupling Models of Human and Coastal Landscape Change",
+   "authors": [
+    "A.B. Murray",
+    "S. Gopalakrishnan",
+    "D. McNamara",
+    "M. Smith"
+   ],
+   "year": 2013,
+   "venue": "Computers and Geosciences",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.cageo.2011.10.010",
+   "abstract": null
+  },
+  {
+   "title": "Emergent Behavior in a Coupled Economic and Coastline Model for Beach Nourishment",
+   "authors": [
+    "E.D. Lazarus",
+    "D.E. McNamara",
+    "M.D. Smith",
+    "S. Gopalakrishnan",
+    "A.B. Murray"
+   ],
+   "year": 2011,
+   "venue": "Nonlinear Processes in Geophysics",
+   "status": "已发表",
+   "url": "https://doi.org/10.5194/npg-18-989-2011",
+   "abstract": null
+  },
+  {
+   "title": "The Value of Disappearing Beaches in North Carolina: A Hedonic Pricing Model with Endogenous Beach Width",
+   "authors": [
+    "S. Gopalakrishnan",
+    "M. Smith",
+    "J. Slott",
+    "A.B. Murray"
+   ],
+   "year": 2011,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jeem.2010.09.003",
+   "abstract": null
+  },
+  {
+   "title": "Mangroves Help Reduce the Impact of Climate-induced Cyclones in India",
+   "authors": [
+    "K. Zhu",
+    "S. Gopalakrishnan",
+    "D.A. Miteva"
+   ],
+   "year": 2023,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Building Back Bigger after the Storm? Spatially Heterogeneous Effects of Natural Hazards on Housing Redevelopment",
+   "authors": [
+    "Xiaoyu Li",
+    "S. Gopalakrishnan",
+    "H.A. Klaiber"
+   ],
+   "year": 2024,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Disaster-induced Migration Across U.S. States and the Role of Income Heterogeneity",
+   "authors": [
+    "K. Zhu",
+    "S. Gopalakrishnan",
+    "M.D. Smith"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Community Resilience to Natural Disasters: The Effects of Environmental Changes on Homeownership Rate and Community Quality",
+   "authors": [
+    "Xiaoyu Li",
+    "H.A. Klaiber",
+    "S. Gopalakrishnan"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Does Heterogeneity within the Second-Stage Matter? Recovering Water Quality Demand Functions using a Nationwide Housing Database",
+   "authors": [
+    "D. Wolf",
+    "S. Gopalakrishnan",
+    "H.A. Klaiber"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Need for Coupled Models of Human-Natural Systems to Study Climate Adaptation and Mitigation",
+   "authors": [
+    "S. Gopalakrishnan",
+    "K. Malik",
+    "K. Zhu"
+   ],
+   "year": 2024,
+   "venue": "Routledge Handbook of Climate Change and Society (2nd ed.)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Bioeconomics: Nature as Capital",
+   "authors": [
+    "E.P. Fenichel",
+    "S. Gopalakrishnan",
+    "O. Bayasgalan"
+   ],
+   "year": 2015,
+   "venue": "Handbook on the Economics of Natural Resources",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Geoengineering Coastlines? From Accidental to Intentional",
+   "authors": [
+    "M.D. Smith",
+    "A.B. Murray",
+    "S. Gopalakrishnan",
+    "A. Keeler",
+    "C. Landry",
+    "D.E. McNamara",
+    "L. Moore"
+   ],
+   "year": 2015,
+   "venue": "Coastal Zones: Solutions for the 21st Century (Elsevier)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

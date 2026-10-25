@@ -1,0 +1,74 @@
+{
+ "slug": "jenna-anders",
+ "name": "Jenna Anders",
+ "sources": [
+  "https://jenna-anders.github.io/",
+  "https://jenna-anders.github.io/research/"
+ ],
+ "collected": "2026-10-25",
+ "notes": "CV PDF could not be retrieved (404); used research page. Working-paper years not given on page; set to 2025 (uncertain). Page labels the Campbell paper as job market paper. Abstracts only paraphrased by fetch tool, so null.",
+ "papers": [
+  {
+   "title": "The Welfare Effects of Eligibility Expansions: Theory and Evidence from SNAP",
+   "authors": [
+    "Jenna Anders",
+    "Charlie Rafkin"
+   ],
+   "year": 2026,
+   "venue": "American Economic Journal: Economic Policy",
+   "status": "已发表",
+   "url": "http://jenna-anders.github.io/files/ar_eligibility.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Central Authority in Local Regulation: A Sufficient Statistic for Welfare and an Application to Environmental Economics",
+   "authors": [
+    "Jenna Anders",
+    "Romaine Campbell"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "http://jenna-anders.github.io/files/ac_epa1.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Inefficient Social Disconnection",
+   "authors": [
+    "Jenna Anders",
+    "Amanda Pallais"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "http://jenna-anders.github.io/files/anderspallais.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Welfare Analyses of Firm-Based Government Policies",
+   "authors": [
+    "Jenna Anders",
+    "Valerie Chuang",
+    "Nathaniel Hendren",
+    "Eric Zwick"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Superfund Sites and Cancer Incidence",
+   "authors": [
+    "Jenna Anders",
+    "Rachel Young"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

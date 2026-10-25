@@ -1,0 +1,47 @@
+{
+ "slug": "joanna-harris-murphy",
+ "name": "Joanna Harris Murphy",
+ "sources": [
+  "CV pdf (May 2026)",
+  "https://goizueta.emory.edu/faculty/profiles/joanna-harris-murphy"
+ ],
+ "collected": "2026-10-25",
+ "notes": "All three are working papers; year 2026 = CV version date (no paper dates given). ESG paper is 'with Marina Emiris and Francois Koulischer' in CV; byline not given so alphabetical used.",
+ "papers": [
+  {
+   "title": "Valuing Local Climate Policy: Evidence from Firm Behavior and Financial Markets",
+   "authors": [
+    "Joanna Harris Murphy"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": "This paper examines the efficacy of state-level emissions regulations and their local economic effects. Using newly collected data, I find that regulation reduces employment, output, profitability and equity returns in affected industries, but also lowers emissions and emissions intensity, while increasing R&D and capital investment. To interpret these effects, I develop a spatial equilibrium model in which firms choose locations and emissions in response to local carbon taxes. I infer the implicit tax increase corresponding to each regulation from the stock-market reactions of exposed firms and use these values to estimate the model's structural parameters. I use the model to quantify the costs of individual regulations and compare them to the social benefits of reduced emissions. I find that policies targeting utilities and waste management are beneficial, unlike those focused on fossil fuel extraction and manufacturing. On average, endogenous technology switching contributes an additional 20 percent of emissions abatement, whereas relocation undoes about 10 percent of the reductions achieved within the regulated state."
+  },
+  {
+   "title": "Regulating ESG Disclosure: Capital Allocation and Investor Heterogeneity",
+   "authors": [
+    "Marina Emiris",
+    "François Koulischer",
+    "Joanna Harris Murphy"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": "We study how sustainability disclosure regulation affects mutual fund flows and portfolio choices, accounting for investor heterogeneity. Guided by a model of ESG investing under uncertainty, we exploit the introduction of the European Sustainable Finance Disclosure Regulation (SFDR) as a natural experiment, using granular fund-investor holdings data. We show that funds subject to higher disclosure requirements attract significantly larger inflows, particularly for funds with higher pre-regulation uncertainty. Institutional investors respond more strongly than retail investors, and investor trust in environmental labels amplifies these effects. We also find evidence that disclosure induces fund managers to increase portfolio greenness."
+  },
+  {
+   "title": "Asset Pricing Implications of Firm-Level Exposure to Climate Risk",
+   "authors": [
+    "Joanna Harris Murphy"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": "I use the text of 10-K filings to measure firm-level exposure to physical and transition risks associated with climate change and explore the asset pricing implications. I find that both physical and transition risks are associated with lower monthly returns. I also study the interaction between climate risk and shocks to climate concerns in the media and find that physical and transition risks are both associated with underperformance in months following upward shocks to climate concerns. These effects are not driven purely by variation across industries, highlighting the importance of considering climate risk at the firm level."
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "slug": "jimena-rico-straffon",
+ "name": "Jimena Rico-Straffon",
+ "sources": [
+  "https://jimenaricostraffon.com/cv.pdf",
+  "https://jimenaricostraffon.com/research"
+ ],
+ "collected": "2026-10-25",
+ "notes": "CV revised Oct 2026 plus research page. R&R year 2026 = CV date (not given). Omitted 'Impact of Land Tenure on Tropical Working Lands' (work in progress, no draft). CAF WP 2022/20 -> 2022.",
+ "papers": [
+  {
+   "title": "When Do Extraction Rights Help Forests? Robustness and Heterogeneity for Logging Interventions in the Peruvian Amazon",
+   "authors": [
+    "Jimena Rico-Straffon",
+    "Zhenhua Wang",
+    "Colby J. Loucks",
+    "Alexander Pfaff"
+   ],
+   "year": 2025,
+   "venue": "Conservation Science and Practice",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/csp2.70081",
+   "abstract": null
+  },
+  {
+   "title": "Forest Concessions and Eco-Certifications in the Peruvian Amazon: Deforestation Impacts of Logging Rights and Restrictions",
+   "authors": [
+    "Jimena Rico-Straffon",
+    "Zhenhua Wang",
+    "Stephanie Panlasigui",
+    "Jennifer Swenson",
+    "Colby J. Loucks",
+    "Alexander Pfaff"
+   ],
+   "year": 2023,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jeem.2022.102780",
+   "abstract": null
+  },
+  {
+   "title": "Impacts of Certification, Uncertified Concessions, and Protected Areas on Forest Loss in Cameroon, 2000 to 2013",
+   "authors": [
+    "Stephanie Panlasigui",
+    "Jimena Rico-Straffon",
+    "Alexander Pfaff",
+    "Jennifer Swenson",
+    "Colby Loucks"
+   ],
+   "year": 2018,
+   "venue": "Biological Conservation",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.biocon.2018.09.013",
+   "abstract": null
+  },
+  {
+   "title": "Impacts of Piped Water Shortages on Labor Supply: Evidence from Mexico City",
+   "authors": [
+    "Jimena Rico-Straffon"
+   ],
+   "year": 2026,
+   "venue": "Journal of Development Economics",
+   "status": "修改重投",
+   "url": "https://dx.doi.org/10.2139/ssrn.6350430",
+   "abstract": null
+  },
+  {
+   "title": "Comparing Protection Types in the Peruvian Amazon: Multiple-Use Protected Areas Did No Worse for Forests",
+   "authors": [
+    "Jimena Rico-Straffon",
+    "Zhenhua Wang",
+    "Sofía Olguín",
+    "Alexander Pfaff"
+   ],
+   "year": 2022,
+   "venue": "CAF Working Paper",
+   "status": "工作论文",
+   "url": "https://dx.doi.org/10.2139/ssrn.4540784",
+   "abstract": null
+  }
+ ]
+}

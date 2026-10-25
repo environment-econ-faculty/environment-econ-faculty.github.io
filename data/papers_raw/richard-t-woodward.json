@@ -1,0 +1,787 @@
+{
+ "slug": "richard-t-woodward",
+ "name": "Richard T. Woodward",
+ "sources": [
+  "https://agecoresearch.tamu.edu/woodward/wp-content/uploads/sites/2/2023/11/WoodwardCV.pdf"
+ ],
+ "collected": "2026-10-25",
+ "notes": "Source: CV dated Nov 2023 (homepage not separately fetched; no working-paper section in CV). Refereed articles #1-57 plus book chapters 1,3,4,5,6; omitted refereed #23 (Chinese-language article, text garbled in PDF extraction), book chapter 2 (encyclopedia entry) and 7 (truncated), non-refereed items. Entry #10 byline 'Bagnall, D. et al.' (full list not on CV). Forthcoming items assigned year per CV. Some forthcoming items may have since appeared.",
+ "papers": [
+  {
+   "title": "New Determinants of Recreation Site Choice: Valuing Onsite Characteristics and Diversity Aversion in Random Utility Models",
+   "authors": [
+    "Jesse D. Backstrom",
+    "Richard T. Woodward"
+   ],
+   "year": 2023,
+   "venue": "Marine Resource Economics",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Understanding why farmers adopt soil conservation tillage: A systematic review",
+   "authors": [
+    "Macon Ogieriakhi",
+    "Richard T. Woodward"
+   ],
+   "year": 2022,
+   "venue": "Soil Security",
+   "status": "即将发表",
+   "url": "https://doi.org/10.1016/j.soisec.2022.100077",
+   "abstract": null
+  },
+  {
+   "title": "A Systems Approach to Remediating Human Exposure to Arsenic and Fluoride from Over-exploited Aquifers",
+   "authors": [
+    "P. S. K. Knappett",
+    "P. Farias",
+    "G. R. Miller",
+    "J. Hoogesteger",
+    "Y. Li",
+    "I. Mendoza",
+    "R. T. Woodward",
+    "H. Hernandez",
+    "I. Loza",
+    "S. Datta",
+    "Y. Huang",
+    "G. Carrillo",
+    "T. Roh",
+    "D. Terrell"
+   ],
+   "year": 2022,
+   "venue": "GeoHealth",
+   "status": "已发表",
+   "url": "http://dx.doi.org/10.1029/2022GH000592",
+   "abstract": null
+  },
+  {
+   "title": "Spillover Effects of Grocery Bag Legislation: Evidence of Bag Bans and Bag Fees",
+   "authors": [
+    "Yu-Kai Huang",
+    "Richard T. Woodward"
+   ],
+   "year": 2022,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1007/s10640-022-00646-5",
+   "abstract": null
+  },
+  {
+   "title": "Discretionary Exemptions from Environmental Regulation: Flexibility for Good or for Ill",
+   "authors": [
+    "Dietrich Earnhart",
+    "Sarah Jacobson",
+    "Yusuke Kuwayama",
+    "Richard T. Woodward"
+   ],
+   "year": 2022,
+   "venue": "Land Economics",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Impact of Exogenous Pollution on Green Innovation",
+   "authors": [
+    "Ying Wang",
+    "Richard T. Woodward",
+    "Jing-Yue Liu"
+   ],
+   "year": 2022,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1007/s10640-021-00614-5",
+   "abstract": null
+  },
+  {
+   "title": "The Future of Fishing for Fun: Economics and Recreational Fisheries",
+   "authors": [
+    "Joshua K. Abbott",
+    "Daniel K. Lew",
+    "John C. Whitehead",
+    "Richard T. Woodward"
+   ],
+   "year": 2022,
+   "venue": "Review of Environmental Economics and Policy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1086/720987",
+   "abstract": null
+  },
+  {
+   "title": "Has Carbon Emissions Trading Reduced PM 2.5 in China?",
+   "authors": [
+    "Jing-Yue Liu",
+    "Richard T. Woodward",
+    "Yue-Jun Zhang"
+   ],
+   "year": 2021,
+   "venue": "Environmental Science & Technology",
+   "status": "已发表",
+   "url": "https://doi.org/10.1021/acs.est.1c00248",
+   "abstract": null
+  },
+  {
+   "title": "Honey Bees, Almonds, and Colony Mortality: an Economic Simulation of the U.S. Pollination Market",
+   "authors": [
+    "Chengcheng Fei",
+    "Kendra M. Williamson",
+    "Richard T. Woodward",
+    "Juliana Rangel",
+    "Bruce A. McCarl"
+   ],
+   "year": 2021,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Common Ground: Insights from Farmers for Communicating Indicators of Soil Health in the Brazos River Watershed of Texas",
+   "authors": [
+    "D. Bagnall",
+    "et al."
+   ],
+   "year": 2020,
+   "venue": "Agrosystems, Geosciences & Environment",
+   "status": "已发表",
+   "url": "DOI: 10.1002/agg2.20066",
+   "abstract": null
+  },
+  {
+   "title": "Developing Precautionary Reference Points for Fishery Management Using Robust Control Theory: Application to the Chesapeake Bay Blue Crab Callinectes sapidus Fishery",
+   "authors": [
+    "Michael J. Wilberg",
+    "Richard T. Woodward",
+    "David Tomberlin",
+    "Pei Huang"
+   ],
+   "year": 2019,
+   "venue": "Marine and Coastal Fisheries",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A coupled recreational anglers' decision and fish population dynamics model",
+   "authors": [
+    "Masami Fujiwara",
+    "Jesse D. Backstrom",
+    "Richard T. Woodward"
+   ],
+   "year": 2018,
+   "venue": "PLOS ONE",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Evaluating the efficacy of an information-based residential outdoor water conservation program",
+   "authors": [
+    "Adam Landon",
+    "Richard T. Woodward",
+    "Gerard T Kyle",
+    "Ronald A Kaiser"
+   ],
+   "year": 2018,
+   "venue": "Journal of Cleaner Production",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Ex-Post Evaluation of Agricultural Extension Programs for Reducing Fertilizer Input in Shaanxi, China",
+   "authors": [
+    "Chunlin Hua",
+    "Richard T. Woodward",
+    "Liangzhi You"
+   ],
+   "year": 2017,
+   "venue": "Sustainability",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Additionality and Reverse Crowding Out for Pollution Offsets in Water Quality Trading",
+   "authors": [
+    "Richard T. Woodward",
+    "David Newburn",
+    "Mariano Mezzatesta"
+   ],
+   "year": 2016,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Price Interaction in State Level Renewable Energy Credit Trading Programs",
+   "authors": [
+    "Kyle Binder",
+    "James W. Mjelde",
+    "Richard T. Woodward"
+   ],
+   "year": 2016,
+   "venue": "The Electricity Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Measuring the potential for self-governance: an approach for the community-based management of the common-pool resources",
+   "authors": [
+    "Sergio Colin-Castillo",
+    "Richard T. Woodward"
+   ],
+   "year": 2015,
+   "venue": "International Journal of the Commons",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Management Evaluation for the Chesapeake Bay Blue Crab Fishery: An Integrated Bioeconomic Approach",
+   "authors": [
+    "Pei Huang",
+    "Richard T. Woodward",
+    "Michael J. Wilberg",
+    "David Tomberlin"
+   ],
+   "year": 2015,
+   "venue": "North American Journal of Fisheries Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Market-Based Conservation: Aligning Static Theory with Dynamic Systems",
+   "authors": [
+    "Richard T. Woodward",
+    "Amanda Stronza",
+    "Elizabeth Shapiro",
+    "Lee Fitzgerald"
+   ],
+   "year": 2014,
+   "venue": "Natural Resources Forum",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Propuesta Metodologica Para Medir El Potencial De Autogobierno (A methodological proposal for measuring the potential for self governance)",
+   "authors": [
+    "Sergio Colin-Castillo",
+    "Richard T. Woodward"
+   ],
+   "year": 2014,
+   "venue": "Analisis Economico",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Practical Precautionary Resource Management Using Robust Optimization",
+   "authors": [
+    "Richard T. Woodward",
+    "David Tomberlin"
+   ],
+   "year": 2014,
+   "venue": "Environmental Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "What Can We Learn from the End of the Grand Policy Experiment? The Collapse of the National SO2 Trading Program and Implications for Tradable Permits as a Policy Instrument",
+   "authors": [
+    "David A. Evans",
+    "Richard T. Woodward"
+   ],
+   "year": 2013,
+   "venue": "Annual Review of Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Under and Overuse of Pesticides: An International Analysis",
+   "authors": [
+    "Narishwar Ghimire",
+    "Richard T. Woodward"
+   ],
+   "year": 2013,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Additionality and the Adoption of Farm Conservation Practices",
+   "authors": [
+    "Mariano Mezzatesta",
+    "David Newburn",
+    "Richard T. Woodward"
+   ],
+   "year": 2013,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Ex Post Evaluation of the Great Miami Water Quality Trading Program",
+   "authors": [
+    "David Newburn",
+    "Richard T. Woodward"
+   ],
+   "year": 2012,
+   "venue": "Journal of the American Water Resources Association",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Determining the Policy-Efficient Management Strategies in Fisheries using Data Envelopment Analysis (DEA)",
+   "authors": [
+    "Wade L. Griffin",
+    "Richard T. Woodward"
+   ],
+   "year": 2011,
+   "venue": "Marine Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Double Dipping in Environmental Markets",
+   "authors": [
+    "Richard T. Woodward"
+   ],
+   "year": 2011,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Sequential License Buyback Auctions: An Experimental Analysis",
+   "authors": [
+    "Matthew A. Freeman",
+    "Richard T. Woodward"
+   ],
+   "year": 2010,
+   "venue": "Marine Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "User-Financing in a National Payments for Environmental Services Program: Costa Rican Hydropower",
+   "authors": [
+    "Allen Blackman",
+    "Richard T. Woodward"
+   ],
+   "year": 2010,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Explaining Subjective Risks of Hurricanes and the Role of Risks in Intended Moving and Location Choice Models",
+   "authors": [
+    "Justin Baker",
+    "W. Douglass Shaw",
+    "David Bell",
+    "Samuel D. Brody",
+    "William Neilson",
+    "Mary Riddel",
+    "Richard T. Woodward"
+   ],
+   "year": 2009,
+   "venue": "Natural Hazards",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Changes in Subjective Risks of Hurricanes as Time Passes: Analysis of a Sample of Katrina Evacuees",
+   "authors": [
+    "Justin Baker",
+    "W. Douglass Shaw",
+    "Mary Riddel",
+    "Richard T. Woodward"
+   ],
+   "year": 2009,
+   "venue": "Journal of Risk Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Meta-Functional Benefit Transfer for Wetland Valuation: Making the Most of Small Samples",
+   "authors": [
+    "Klaus Moeltner",
+    "Richard T. Woodward"
+   ],
+   "year": 2009,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Allocating Resources in an Uncertain World: Water Management and Endangered Species",
+   "authors": [
+    "Richard T. Woodward",
+    "W. Douglass Shaw"
+   ],
+   "year": 2008,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "NutrientNet: An Internet-based Approach to Teaching Market-Based Policy for Environmental Management",
+   "authors": [
+    "To N. Nguyen",
+    "Richard T. Woodward"
+   ],
+   "year": 2008,
+   "venue": "Journal of Economic Education",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "On Why Environmental and Resource Economists Should Care about Non-expected Utility Models",
+   "authors": [
+    "W. Douglass Shaw",
+    "Richard T. Woodward"
+   ],
+   "year": 2008,
+   "venue": "Resource and Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Empirical Study of Option Prices for Hunting Permits",
+   "authors": [
+    "To N. Nguyen",
+    "W. Douglass Shaw",
+    "Richard T. Woodward",
+    "Robert Paterson",
+    "Kevin Boyle"
+   ],
+   "year": 2007,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Distributional Impacts of Recreational Fees: A Discrete Choice Model with Incomplete Data",
+   "authors": [
+    "Hwa Nyeon Kim",
+    "W. Douglass Shaw",
+    "Richard T. Woodward"
+   ],
+   "year": 2007,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Willingness to Pay for Reduced Risk of Food-borne Illness: A Non-Hypothetical Artefactual Field Experiment",
+   "authors": [
+    "Rodolfo M. Nayga, Jr.",
+    "Richard T. Woodward",
+    "Wipon Aiew"
+   ],
+   "year": 2006,
+   "venue": "Canadian Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do Americans Desire Homogeneity? Evidence from Names from 1900-2000",
+   "authors": [
+    "Richard T. Woodward"
+   ],
+   "year": 2005,
+   "venue": "Economics Bulletin",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Experiments on the Divergence between Willingness to Pay and Willingness to Accept: The Issue Revisited",
+   "authors": [
+    "Rodolfo M. Nayga, Jr.",
+    "Richard T. Woodward",
+    "Wipon Aiew"
+   ],
+   "year": 2005,
+   "venue": "Economics Bulletin",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Living with the Curse of Dimensionality: Closed-Loop Optimization in Large-scale Fisheries Simulation Model",
+   "authors": [
+    "Richard T. Woodward",
+    "Yong-Suhk Wui",
+    "Wade L. Griffin"
+   ],
+   "year": 2005,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Treatment of Income Variable in Willingness to Pay Studies",
+   "authors": [
+    "Wipon Aiew",
+    "Rodolfo M. Nayga, Jr.",
+    "Richard T. Woodward"
+   ],
+   "year": 2004,
+   "venue": "Applied Economics Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Theoretical and Empirical Analysis of Size and Bag Limits in Recreational Fisheries",
+   "authors": [
+    "Richard T. Woodward",
+    "Wade L. Griffin"
+   ],
+   "year": 2003,
+   "venue": "Marine Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Joint Estimation of Revealed and Stated Preference Data: An Application to Recreational Red Snapper Valuation",
+   "authors": [
+    "Dhazn Gillig",
+    "Richard T. Woodward",
+    "Teofilo Ozuna, Jr.",
+    "Wade L. Griffin"
+   ],
+   "year": 2003,
+   "venue": "Agricultural and Resource Economics Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Lessons About Effluent Trading from a Single Trade",
+   "authors": [
+    "Richard T. Woodward"
+   ],
+   "year": 2003,
+   "venue": "Review of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Sector-level Decisions in a Sustainability-constrained Economy",
+   "authors": [
+    "Richard T. Woodward",
+    "Richard C. Bishop"
+   ],
+   "year": 2003,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Structure and Practice of Water-Quality Trading Markets",
+   "authors": [
+    "Richard T. Woodward",
+    "Ronald A. Kaiser",
+    "Aaron-Marie Wicks"
+   ],
+   "year": 2002,
+   "venue": "Journal of the American Water Resources Association",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Market Structures for U.S. Water Quality Trading",
+   "authors": [
+    "Richard T. Woodward",
+    "Ronald A. Kaiser"
+   ],
+   "year": 2002,
+   "venue": "Review of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Economic Value of Wetland Services: A Meta-analysis",
+   "authors": [
+    "Richard T. Woodward",
+    "Yong-Suhk Wui"
+   ],
+   "year": 2001,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Welfare Impacts of Unanticipated Trip Limitations in Travel Cost Models",
+   "authors": [
+    "Richard T. Woodward",
+    "Wade Griffin",
+    "Dhazn Gillig",
+    "Teofilo Ozuna"
+   ],
+   "year": 2001,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Sustainability as Intergenerational Fairness: Efficiency, Uncertainty and Numerical Methods",
+   "authors": [
+    "Richard T. Woodward"
+   ],
+   "year": 2000,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Strategy and Etiquette for Graduate Students Entering the Academic Job Market",
+   "authors": [
+    "Gerald Shively",
+    "Richard T. Woodward",
+    "Denise Stanley"
+   ],
+   "year": 1999,
+   "venue": "Review of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Optimal-Sustainable Management of Multi-Species Fisheries: Lessons from a Predator-Prey Model",
+   "authors": [
+    "Richard T. Woodward",
+    "Richard C. Bishop"
+   ],
+   "year": 1999,
+   "venue": "Natural Resource Modeling",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How to Decide When Experts Disagree: Uncertainty-Based Choice Rules in Environmental Policy",
+   "authors": [
+    "Richard T. Woodward",
+    "Richard C. Bishop"
+   ],
+   "year": 1997,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Efficiency, Sustainability and Global Warming",
+   "authors": [
+    "Richard T. Woodward",
+    "Richard C. Bishop"
+   ],
+   "year": 1995,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Approach to valuing soil ecosystem services with linking indicators",
+   "authors": [
+    "D.K. Bagnall",
+    "C.L.S. Morgan",
+    "R.T. Woodward",
+    "W.A. McIntosh"
+   ],
+   "year": 2019,
+   "venue": "Global soil security: towards more science-society interfaces (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Can Transferable Rights Work in Recreational Fisheries?",
+   "authors": [
+    "Hwa Nyeon Kim",
+    "Richard T. Woodward",
+    "Wade L. Griffin"
+   ],
+   "year": 2009,
+   "venue": "Evolving Approaches to Managing Marine Recreational Fisheries (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Texas Inshore Bay and Bait License Buyback Program",
+   "authors": [
+    "Robin Riechers",
+    "Wade Griffin",
+    "Richard Woodward"
+   ],
+   "year": 2006,
+   "venue": "Fisheries Buybacks (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "DPSIM Modelling: Dynamic Optimization in Large Scale Simulation Models",
+   "authors": [
+    "Richard T. Woodward",
+    "Wade L. Griffin",
+    "Yong-Suhk Wui"
+   ],
+   "year": 2005,
+   "venue": "Applications of Simulation Methods in Environmental and Resource Economics (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Sustainability, Economy and Environment",
+   "authors": [
+    "Richard C. Bishop",
+    "Richard T. Woodward"
+   ],
+   "year": 1999,
+   "venue": "Environmental Economics: Theory, Application, and Policy (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

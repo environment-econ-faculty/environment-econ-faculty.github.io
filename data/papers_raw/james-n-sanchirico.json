@@ -1,0 +1,1579 @@
+{
+ "slug": "james-n-sanchirico",
+ "name": "James N. Sanchirico",
+ "sources": [
+  "https://jamesnsanchirico.com/wp-content/uploads/2023/08/sanchirico_cv-2023-august.pdf",
+  "https://jamesnsanchirico.com/?page_id=217"
+ ],
+ "collected": "2026-10-25",
+ "notes": "From Aug-2023 CV (109 journal articles): kept refereed articles plus a few chapters/book; omitted letters, replies, popular pieces, NAS committee reports. CV lists no working papers; CV is 2023 so newer work may be missing. 'et al.' kept where the CV truncates authors. Year = CV year. Titles of some entries lightly normalized in capitalization.",
+ "papers": [
+  {
+   "title": "Leveraging federalism for flexible and robust management of social-ecological systems",
+   "authors": [
+    "C. Sims",
+    "P. R. Armsworth",
+    "J. Blackwood",
+    "B. Fitzpatrick",
+    "D. M. Kling",
+    "S. Lenhart",
+    "M. Neubert",
+    "M. Pape",
+    "J. Sanchirico",
+    "K. Shea",
+    "M. Springborn"
+   ],
+   "year": 2023,
+   "venue": "People and Nature",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Bioeconomic Local General Equilibrium Assessment of Distributional Consequences of Small-Scale Fisheries Reform in Developing Countries",
+   "authors": [
+    "T. Gilliland",
+    "J.N. Sanchirico",
+    "J.E. Taylor"
+   ],
+   "year": 2022,
+   "venue": "Marine Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Optimal spatial evaluation of a pro rata vaccine distribution rule for COVID-19",
+   "authors": [
+    "Francois M. Castonguay",
+    "Julie C. Blackwood",
+    "Emily Howerton",
+    "Katriona Shea",
+    "Charles Sims",
+    "James N. Sanchirico"
+   ],
+   "year": 2023,
+   "venue": "Scientific Reports",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Direct and ancillary benefits of ecosystem-based fisheries management in forage fish fisheries",
+   "authors": [
+    "James N. Sanchirico",
+    "Timothy E. Essington"
+   ],
+   "year": 2021,
+   "venue": "Ecological Applications",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Protected Areas Established by Local Communities through Direct Democracy Encompass Habitat for Species as Effectively as Protected Areas Planned over Large Spatial Scales",
+   "authors": [
+    "Chad Stachowiak",
+    "Benjamin J. Crain",
+    "Kailin Kroetz",
+    "James N. Sanchirico",
+    "Paul R. Armsworth"
+   ],
+   "year": 2021,
+   "venue": "Environmental Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Protected area, easement, and rental contract data reveal five communities of land protection in the United States",
+   "authors": [
+    "Heather B. Jackson",
+    "et al."
+   ],
+   "year": 2021,
+   "venue": "Ecological Applications",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Citizens of local jurisdictions enhance plant community preservation through ballot initiatives and voter-driven conservation efforts",
+   "authors": [
+    "Benjamin J. Crain",
+    "et al."
+   ],
+   "year": 2021,
+   "venue": "Ambio",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Evaluating sustainable development policies in rural coastal economies",
+   "authors": [
+    "Amanda R. Lindsay",
+    "James N. Sanchirico",
+    "Ted E. Gilliland",
+    "Rohani Ambo-Rappe",
+    "J. Edward Taylor",
+    "Nils C. Krueck",
+    "Peter J. Mumby"
+   ],
+   "year": 2020,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Scale-dependency in discrete choice models: a fishery application",
+   "authors": [
+    "Maxime Depalle",
+    "James N. Sanchirico",
+    "Olivier Thebaud",
+    "Shay O'Farrell",
+    "Alan C. Haynie",
+    "Larry Perruso"
+   ],
+   "year": 2021,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Political Economy of Renewable Resource Federalism",
+   "authors": [
+    "J.N. Sanchirico",
+    "Julie Blackwood",
+    "Ben Fitzpatrick",
+    "David Kling",
+    "Suzanne Lenhart",
+    "Michael Neubert",
+    "Katriona Shea",
+    "Charles B. Sims",
+    "Michael Springborn"
+   ],
+   "year": 2021,
+   "venue": "Ecological Applications",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Accounting for Fleet Heterogeneity in Estimating the Impacts of Large-Scale Fishery Closures",
+   "authors": [
+    "M. Depalle",
+    "O. Thebaud",
+    "J. N. Sanchirico"
+   ],
+   "year": 2020,
+   "venue": "Marine Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Are simultaneously-decided referenda substitutable? Evidence from municipal land use ballot measures",
+   "authors": [
+    "M. Gammans",
+    "J.N. Sanchirico",
+    "K. Kroetz",
+    "P.R. Armsworth",
+    "E.W. Swiedler"
+   ],
+   "year": 2021,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Cost-effectiveness of combining drug and environmental treatments for environmentally transmitted diseases",
+   "authors": [
+    "Francois M. Castonguay",
+    "Susanne H. Sokolow",
+    "Giulio A. De Leo",
+    "J. N. Sanchirico"
+   ],
+   "year": 2020,
+   "venue": "Proceedings of the Royal Society B",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Market-driven bioeconomic general equilibrium impacts of tourism on resource-dependent local economies: A case from the western Philippines",
+   "authors": [
+    "T. E. Gilliland",
+    "J. N. Sanchirico",
+    "J. E. Taylor"
+   ],
+   "year": 2020,
+   "venue": "Journal of Environmental Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Species protection in areas conserved through community-driven direct democracy as compared with a large private land trust in California",
+   "authors": [
+    "B. J. Crain",
+    "J. N. Sanchirico",
+    "K. Kroetz",
+    "A. E. Benefield",
+    "P. R. Armsworth"
+   ],
+   "year": 2020,
+   "venue": "Environmental Conservation",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Disturbance modifies payoffs in the explore-exploit trade-off",
+   "authors": [
+    "S. O'Farrell",
+    "J. N. Sanchirico",
+    "O. Spiegel",
+    "M. Depalle",
+    "A. C. Haynie",
+    "S. A. Murawski",
+    "L. Perruso",
+    "A. Strelcheck"
+   ],
+   "year": 2019,
+   "venue": "Nature Communications",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Classifying fishing behavioral diversity using high-frequency movement data",
+   "authors": [
+    "S. O'Farrell",
+    "I. Chollett",
+    "J. N. Sanchirico",
+    "L. Perruso"
+   ],
+   "year": 2019,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Predicting the impact of future oil-spill closures on fishery-dependent communities - a spatially explicit approach",
+   "authors": [
+    "I. Berenshtein",
+    "S. O'Farrell",
+    "N. Perlin",
+    "J. N. Sanchirico",
+    "S. A. Murawski",
+    "L. Perruso",
+    "C. B. Paris"
+   ],
+   "year": 2019,
+   "venue": "ICES Journal of Marine Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Modelled effects of prawn aquaculture on poverty alleviation and schistosomiasis control",
+   "authors": [
+    "Christopher M. Hoover",
+    "Susanne H. Sokolow",
+    "Jonas Kemp",
+    "James N. Sanchirico",
+    "Andrea J. Lund",
+    "Isabel J. Jones",
+    "Tyler Higginson",
+    "et al."
+   ],
+   "year": 2019,
+   "venue": "Nature Sustainability",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Resilience of a commercial fishing fleet following emergency closures in the Gulf of Mexico",
+   "authors": [
+    "M. L. Cockrell",
+    "S. O'Farrell",
+    "J. Sanchirico",
+    "et al."
+   ],
+   "year": 2019,
+   "venue": "Fisheries Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An integrated bioeconomic local economy-wide assessment of the environmental impacts of poverty programs",
+   "authors": [
+    "T.E. Gilliland",
+    "J.N. Sanchirico",
+    "J.E. Taylor"
+   ],
+   "year": 2019,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Optimal Investment to Enable Evolutionary Rescue",
+   "authors": [
+    "J. Ashander",
+    "L. Thompson",
+    "J. N. Sanchirico",
+    "M. Baskett"
+   ],
+   "year": 2019,
+   "venue": "Journal of Theoretical Ecology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Networks and Policy-Induced Spillovers: Defining the Scope for Ecosystem-Based Fishery Management",
+   "authors": [
+    "K. Kroetz",
+    "M. Reimer",
+    "J.N. Sanchirico",
+    "D. Lew"
+   ],
+   "year": 2019,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Recreational Leasing of Alaska Commercial Halibut Quota: The Early Years of the GAF Program in Alaska",
+   "authors": [
+    "K. Kroetz",
+    "D. Lew",
+    "J. N. Sanchirico",
+    "P. Donovan"
+   ],
+   "year": 2019,
+   "venue": "Coastal Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Building effective fishery ecosystem plans",
+   "authors": [
+    "P.S. Levin",
+    "T.E. Essington",
+    "K.N. Marshall",
+    "L.E. Koehn",
+    "L.G. Anderson",
+    "A. Bundy",
+    "C. Carothers",
+    "F. Coleman",
+    "L.R. Gerber",
+    "J.H. Grabowski",
+    "E. Houde",
+    "O.P. Jensen",
+    "C. Mollmann",
+    "K. Rose",
+    "J.N. Sanchirico",
+    "A.D.M. Smith"
+   ],
+   "year": 2018,
+   "venue": "Marine Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Examination of the Peruvian Anchovy Individual Vessel Quota System",
+   "authors": [
+    "K. Kroetz",
+    "J. N. Sanchirico",
+    "et al."
+   ],
+   "year": 2018,
+   "venue": "Marine Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Exploitation of a Mobile Resource with Costly Cooperation",
+   "authors": [
+    "G. Sampson",
+    "J.N. Sanchirico"
+   ],
+   "year": 2019,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Causal inference in coupled human and natural systems",
+   "authors": [
+    "P. J. Ferraro",
+    "J. N. Sanchirico",
+    "M. D. Smith"
+   ],
+   "year": 2018,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Evolution and future of the sustainable seafood market",
+   "authors": [
+    "C. A. Roheim",
+    "S. R. Bush",
+    "F. Asche",
+    "J. N. Sanchirico",
+    "H. Uchida"
+   ],
+   "year": 2018,
+   "venue": "Nature Sustainability",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Identifying the Potential for Cross-Fishery Spillovers: A Network Analysis of Alaskan Permitting Patterns",
+   "authors": [
+    "E. T. Addicott",
+    "K. Kroetz",
+    "M. N. Reimer",
+    "J. N. Sanchirico",
+    "D. K. Lew",
+    "J. Huetteman"
+   ],
+   "year": 2018,
+   "venue": "Canadian Journal of Fisheries and Aquatic Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Vessel monitoring systems (VMS) reveal an increase in fishing efficiency following regulatory changes in a demersal longline fishery",
+   "authors": [
+    "J. T. Watson",
+    "A. C. Haynie",
+    "P. J. Sullivan",
+    "L. Perruso",
+    "S. O'Farrell",
+    "J. N. Sanchirico",
+    "F. J. Mueter"
+   ],
+   "year": 2018,
+   "venue": "Fisheries Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Slow treatment promotes control of harmful species by multiple agents",
+   "authors": [
+    "A. Lampert",
+    "A. Hastings",
+    "J.N. Sanchirico"
+   ],
+   "year": 2018,
+   "venue": "Conservation Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic value of ecological information in ecosystem-based natural resource management depends on exploitation history",
+   "authors": [
+    "T.E. Essington",
+    "J.N. Sanchirico",
+    "M.L. Baskett"
+   ],
+   "year": 2018,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Estimating the Cost of Invasive Species Control",
+   "authors": [
+    "S. Jardine",
+    "J.N. Sanchirico"
+   ],
+   "year": 2018,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Spatial-Dynamic Benefits from Cooperative Disease Control in a Perennial Crop",
+   "authors": [
+    "K. B. Fuller",
+    "J. N. Sanchirico",
+    "J. M. Alston"
+   ],
+   "year": 2017,
+   "venue": "Journal of Agricultural and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Ecosystem-based Fisheries Management for Social-ecological Systems: Renewing the Focus in the United States with Next Generation Fishery Ecosystem Plans",
+   "authors": [
+    "K. N. Marshall",
+    "et al."
+   ],
+   "year": 2017,
+   "venue": "Conservation Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Avoiding a crisis of motivation for ocean management under global environmental change",
+   "authors": [
+    "P. J. Mumby",
+    "J. N. Sanchirico",
+    "K. Broad",
+    "et al."
+   ],
+   "year": 2017,
+   "venue": "Global Change Biology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Optimal monitoring and control under state uncertainty: Application to lionfish management",
+   "authors": [
+    "D. Kling",
+    "P. Fackler",
+    "J.N. Sanchirico"
+   ],
+   "year": 2017,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Evaluation of the Chilean Jack Mackerel ITQ System",
+   "authors": [
+    "K. Kroetz",
+    "J. N. Sanchirico",
+    "J. Penas-Torres",
+    "D. C. Novoa"
+   ],
+   "year": 2017,
+   "venue": "Marine Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Improving Detection of short-duration behavior in fishing vessel tracks by feature engineering of training data",
+   "authors": [
+    "S. O'Farrell",
+    "J. N. Sanchirico",
+    "I. Chollett",
+    "et al."
+   ],
+   "year": 2016,
+   "venue": "ICES Journal of Marine Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Characterizing Uncertainty and Learning in the Economics of Resource and Environmental Management",
+   "authors": [
+    "J. LaRiviere",
+    "D. Kling",
+    "M. Springborn",
+    "C. Sims",
+    "J.N. Sanchirico"
+   ],
+   "year": 2017,
+   "venue": "Review of Environmental Economics and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Effectiveness, Costs and Coastal Protection Benefits of Natural and Nature-Based Defences",
+   "authors": [
+    "S. Narayan",
+    "M. W. Beck",
+    "B. G. Reguero",
+    "I. J. Losada",
+    "B. van Wesenbeeck",
+    "N. Pontee",
+    "J. N. Sanchirico",
+    "J. C. Ingram",
+    "G. M. Lange",
+    "K. A. Burks-Copes"
+   ],
+   "year": 2016,
+   "venue": "PLoS ONE",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Implications of Policy Adjustment Costs for Fisheries Management",
+   "authors": [
+    "D. Ryan",
+    "C. Toews",
+    "J.N. Sanchirico",
+    "P. R. Armsworth"
+   ],
+   "year": 2016,
+   "venue": "Natural Resource Modeling",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Bioeconomics of managed relocation",
+   "authors": [
+    "D. Kling",
+    "J.N. Sanchirico",
+    "J.E. Wilen"
+   ],
+   "year": 2016,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Returns from aligning management resolution with ecological variation in a coral reef fishery",
+   "authors": [
+    "M. Bode",
+    "J.N. Sanchirico",
+    "P. Armsworth"
+   ],
+   "year": 2016,
+   "venue": "Proceedings of the Royal Society B",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Optimal management of a stochastically varying population when policy adjustment is costly",
+   "authors": [
+    "C. Boettiger",
+    "M. Bode",
+    "J. N. Sanchirico",
+    "J. LaRiviere",
+    "A. Hastings",
+    "P. R. Armsworth"
+   ],
+   "year": 2015,
+   "venue": "Ecological Applications",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Empirical distributions of vehicle use and fuel efficiency across space: Implications of asymmetry for measuring policy incidence",
+   "authors": [
+    "J. Cook",
+    "J.N. Sanchirico",
+    "D. Salon",
+    "J. Williams"
+   ],
+   "year": 2015,
+   "venue": "Transportation Research Part A: Policy and Practice",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Fishermen, Markets, and Population Diversity",
+   "authors": [
+    "S. Jardine",
+    "J.N. Sanchirico"
+   ],
+   "year": 2015,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Secure Sustainable Seafood from Developing Countries",
+   "authors": [
+    "G. Sampson",
+    "J. N. Sanchirico",
+    "C. A. Roheim",
+    "S. R. Bush",
+    "J. E. Taylor",
+    "E.H. Allison",
+    "J. L. Anderson",
+    "N. C. Ban",
+    "R. Fujita",
+    "S. Jupiter",
+    "J. R. Wilson"
+   ],
+   "year": 2015,
+   "venue": "Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Efficiency costs of social objectives in tradable permit programs",
+   "authors": [
+    "K. Kroetz",
+    "J. N. Sanchirico",
+    "D. K. Lew"
+   ],
+   "year": 2015,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A novel model of predator prey interactions reveals the sensitivity of forage fish-piscivore fishery trade-offs to ecological conditions",
+   "authors": [
+    "T. Essington",
+    "M. L. Baskett",
+    "J. N. Sanchirico",
+    "C. Walters"
+   ],
+   "year": 2015,
+   "venue": "ICES Journal of Marine Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Bioeconomics of Spatial-Dynamical Systems in Natural Resource Management",
+   "authors": [
+    "K. Kroetz",
+    "J. Sanchirico"
+   ],
+   "year": 2015,
+   "venue": "Annual Review of Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Optimal approaches for balancing invasive species eradication and endangered species management",
+   "authors": [
+    "A. Lampert",
+    "A. Hastings",
+    "E. D. Grosholz",
+    "S. L. Jardine",
+    "J.N. Sanchirico"
+   ],
+   "year": 2014,
+   "venue": "Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Measuring benefits from a marketing cooperative in the Copper River fishery",
+   "authors": [
+    "S. Jardine",
+    "C. Lin",
+    "J.N. Sanchirico"
+   ],
+   "year": 2014,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "High vulnerability of ecosystem function and services to diversity loss in Caribbean coral reefs",
+   "authors": [
+    "F. Micheli",
+    "P. J. Mumby",
+    "D. R. Brumbaugh",
+    "K. Broad",
+    "C. P. Dahlgren",
+    "A. R. Harborne",
+    "K. E. Holmes",
+    "C. V. Kappel",
+    "S. Y. Litvin",
+    "J. N. Sanchirico"
+   ],
+   "year": 2014,
+   "venue": "Biological Conservation",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Benefits of the Ballot Box for Species Conservation",
+   "authors": [
+    "K. Kroetz",
+    "J.N. Sanchirico",
+    "P. Armsworth",
+    "H. S. Banzhaf"
+   ],
+   "year": 2014,
+   "venue": "Ecology Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Blue Carbon: Coastal Ecosystems, Carbon Storage, and Potential for Reducing Emissions",
+   "authors": [
+    "J. Siikamaki",
+    "J.N. Sanchirico",
+    "S. Jardine",
+    "D. McLaughlin",
+    "D. Morris"
+   ],
+   "year": 2013,
+   "venue": "Environment",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Investment and the Policy Process in Conservation Monitoring",
+   "authors": [
+    "J.N. Sanchirico",
+    "M. Springborn",
+    "A. Doerr",
+    "M. Schwartz"
+   ],
+   "year": 2014,
+   "venue": "Conservation Biology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A density projection approach for non-trivial information dynamics: Adaptive management of stochastic natural resources",
+   "authors": [
+    "M. Springborn",
+    "J.N. Sanchirico"
+   ],
+   "year": 2013,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Behavior of the Galapagos fishing fleet and its consequences for the design of spatial management alternatives for the red spiny lobster fishery",
+   "authors": [
+    "S. Bucaram",
+    "J.W. White",
+    "J. N. Sanchirico",
+    "J. Wilen"
+   ],
+   "year": 2013,
+   "venue": "Ocean and Coastal Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Marine spatial planning in practice",
+   "authors": [
+    "Jeremy S. Collie",
+    "W. L. Adamowicz",
+    "Michael W. Beck",
+    "Bethany Craig",
+    "Timothy E. Essington",
+    "David Fluharty",
+    "Jake Rice",
+    "James N. Sanchirico"
+   ],
+   "year": 2013,
+   "venue": "Estuarine, Coastal and Shelf Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Conservation values in marine ecosystem-based management",
+   "authors": [
+    "J.N. Sanchirico",
+    "D. Lew",
+    "D. Kling",
+    "A. Haynie",
+    "D. Layton"
+   ],
+   "year": 2013,
+   "venue": "Marine Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Global economic potential for reducing carbon dioxide emissions from mangrove loss",
+   "authors": [
+    "J. Siikamaki",
+    "J.N. Sanchirico",
+    "S. Jardine"
+   ],
+   "year": 2012,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Catch Shares in Developing Countries: A review of the literature",
+   "authors": [
+    "S. Jardine",
+    "J.N. Sanchirico"
+   ],
+   "year": 2012,
+   "venue": "Marine Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Trends, current understanding, and future research priorities for artisanal coral reef fisheries research",
+   "authors": [
+    "A. Johnson",
+    "J. Cinner",
+    "M. Hardt",
+    "J. Jacquet",
+    "T. McClanahan",
+    "J. N. Sanchirico"
+   ],
+   "year": 2012,
+   "venue": "Fish and Fisheries",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Reexamining the science of marine protected areas: linking knowledge to action",
+   "authors": [
+    "Helen E. Fox",
+    "Michael B. Mascia",
+    "Xavier Basurto",
+    "Alice Costa",
+    "Louise Glew",
+    "Dennis Heinemann",
+    "Leah Bunce Karrer",
+    "Sarah E. Lester",
+    "Alfonso V. Lombana",
+    "Robert S. Pomeroy",
+    "Cheri A. Recchia",
+    "Callum M. Roberts",
+    "James N. Sanchirico",
+    "Lida Pet-Soede",
+    "Alan T. White"
+   ],
+   "year": 2012,
+   "venue": "Conservation Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How to get there from here: Ecological and economic dynamics of ecosystem service provision",
+   "authors": [
+    "J.N. Sanchirico",
+    "M. Springborn"
+   ],
+   "year": 2011,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Use of Incentive-Based Management Systems to Limit Bycatch and Discarding",
+   "authors": [
+    "S. Pascoe",
+    "J. Innes",
+    "D. Holland",
+    "M. Fina",
+    "O. Thebaud",
+    "R. Townsend",
+    "J. Sanchirico",
+    "R. Arnason",
+    "C. Wilcox",
+    "T. Hutton"
+   ],
+   "year": 2010,
+   "venue": "International Review of Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Optimizing for multiple species and multiple values: Tradeoffs inherent in ecosystem-based fisheries management",
+   "authors": [
+    "J. Kellner",
+    "J.N. Sanchirico",
+    "A. Hastings",
+    "P.J. Mumby"
+   ],
+   "year": 2011,
+   "venue": "Conservation Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Selection and Design of Local Referenda for Land Conservation",
+   "authors": [
+    "H. S. Banzhaf",
+    "W. E. Oates",
+    "J. N. Sanchirico"
+   ],
+   "year": 2010,
+   "venue": "Journal of Policy Analysis and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Optimal rebuilding of a metapopulation",
+   "authors": [
+    "J.N. Sanchirico",
+    "J. Wilen",
+    "C. Coleman"
+   ],
+   "year": 2010,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The political economy of marine reserves: Understanding the role of opportunity costs",
+   "authors": [
+    "M. Smith",
+    "J. Lynham",
+    "J.N. Sanchirico",
+    "J. Wilson"
+   ],
+   "year": 2010,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Spatial Management of Invasive Species: Pathways and Policy Options",
+   "authors": [
+    "J.N. Sanchirico",
+    "H.J. Albers",
+    "C. Fischer",
+    "C. Coleman"
+   ],
+   "year": 2010,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Comprehensive planning, dominant-use zones, and user rights: a new era in ocean governance",
+   "authors": [
+    "J.N. Sanchirico",
+    "J. Eagle",
+    "S. Palumbi",
+    "B. Thompson"
+   ],
+   "year": 2010,
+   "venue": "Bulletin of Marine Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Invasive Species Management in a Spatially Heterogeneous World: Spatial vs. Uniform Policies",
+   "authors": [
+    "C. Fischer",
+    "H.J. Albers",
+    "J.N. Sanchirico"
+   ],
+   "year": 2010,
+   "venue": "Resource and Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Regional patterns of U.S. household carbon emissions",
+   "authors": [
+    "W. Pizer",
+    "J.N. Sanchirico",
+    "M. Batz"
+   ],
+   "year": 2010,
+   "venue": "Climatic Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Mapping Ecosystem Functions to the Valuation of Ecosystem Services: Implications of species-habitat associations for coastal land-use decisions",
+   "authors": [
+    "J. N. Sanchirico",
+    "P. Mumby"
+   ],
+   "year": 2009,
+   "venue": "Theoretical Ecology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Economics of Spatial-Dynamic Processes: Applications to Renewable Resources",
+   "authors": [
+    "M. Smith",
+    "J. N. Sanchirico",
+    "J.E. Wilen"
+   ],
+   "year": 2009,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Local perspectives on marine reserve creation in the Bahamas",
+   "authors": [
+    "K. Broad",
+    "J.N. Sanchirico"
+   ],
+   "year": 2008,
+   "venue": "Ocean and Coastal Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Effectiveness of Buying Easements as a Conservation Strategy",
+   "authors": [
+    "P. Armsworth",
+    "J.N. Sanchirico"
+   ],
+   "year": 2008,
+   "venue": "Conservation Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Ocean Zoning and Spatial Access Privileges: Rewriting the Tragedy of the Regulated Ocean",
+   "authors": [
+    "J. Eagle",
+    "J.N. Sanchirico",
+    "B. Thompson"
+   ],
+   "year": 2008,
+   "venue": "New York University Environmental Law Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Reserve effects versus natural variation in coral reef communities",
+   "authors": [
+    "A. R. Harborne",
+    "P. J. Mumby",
+    "C. V. Kappel",
+    "C. P. Dahlgren",
+    "F. Micheli",
+    "K. E. Holmes",
+    "J. N. Sanchirico",
+    "K. Broad",
+    "I. A. Elliott",
+    "D. R. Brumbaugh"
+   ],
+   "year": 2008,
+   "venue": "Journal of Applied Ecology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Sustainable use of Renewable Resources: Implications of Spatial-Dynamic Ecological and Economic Processes",
+   "authors": [
+    "J.N. Sanchirico",
+    "J. Wilen"
+   ],
+   "year": 2008,
+   "venue": "International Review of Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Coral reef habitats as surrogates of species, ecological functions and ecosystem services",
+   "authors": [
+    "P.J. Mumby",
+    "K. Broad",
+    "D.R. Brumbaugh",
+    "C.P. Dahlgren",
+    "A.R. Harborne",
+    "A. Hastings",
+    "K.E. Holmes",
+    "C.V. Kappel",
+    "F. Micheli",
+    "J.N. Sanchirico"
+   ],
+   "year": 2008,
+   "venue": "Conservation Biology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An approach to ecosystem-based fishery management",
+   "authors": [
+    "James N. Sanchirico",
+    "M. Smith",
+    "D. Lipton"
+   ],
+   "year": 2008,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Asset Pricing in Created Markets for Fishing Quota",
+   "authors": [
+    "R. Newell",
+    "K. Papps",
+    "J. N. Sanchirico"
+   ],
+   "year": 2007,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Global Marine Fishery Resources: Status and Prospectus",
+   "authors": [
+    "J.N. Sanchirico",
+    "J.E. Wilen"
+   ],
+   "year": 2007,
+   "venue": "International Journal of Global Environmental Issues",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "When are no-take zones an economically optimal fishery management strategy?",
+   "authors": [
+    "J.N. Sanchirico",
+    "U. Maldavkar",
+    "A. Hastings",
+    "J. Wilen"
+   ],
+   "year": 2006,
+   "venue": "Ecological Applications",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Catch-quota balancing in Multispecies Individual Fishing Quotas",
+   "authors": [
+    "J.N. Sanchirico",
+    "D. Holland",
+    "K. Quigley",
+    "M. Fina"
+   ],
+   "year": 2006,
+   "venue": "Marine Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Land Market Feedbacks Can Undermine Biodiversity Conservation",
+   "authors": [
+    "P. Armsworth",
+    "G.C. Daily",
+    "P. Kareiva",
+    "J.N. Sanchirico"
+   ],
+   "year": 2006,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Modeling Costs of Economy-wide versus Sectoral Climate Policies using Combined Aggregate-Sectoral Models",
+   "authors": [
+    "W. Pizer",
+    "D. Burtraw",
+    "W. Harrington",
+    "R. Newell",
+    "J. N. Sanchirico"
+   ],
+   "year": 2006,
+   "venue": "The Energy Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Fishing, trophic cascades, and the process of grazing on coral reefs",
+   "authors": [
+    "Peter J. Mumby",
+    "C. P. Dahlgren",
+    "A. R. Harborne",
+    "C. Kappel",
+    "F. Micheli",
+    "D. Brumbaugh",
+    "K. Holmes",
+    "J. M. Mendes",
+    "K. Broad",
+    "J. N. Sanchirico",
+    "K. Buch",
+    "S. Box",
+    "R. Stoffle",
+    "A. Gill"
+   ],
+   "year": 2006,
+   "venue": "Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Optimal Spatial Management of Renewable Resources: Matching Policy Scope to Ecosystem Scale",
+   "authors": [
+    "J. N. Sanchirico",
+    "J. E. Wilen"
+   ],
+   "year": 2005,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Social Scientist's Perspective on the Census of Marine Life",
+   "authors": [
+    "J. N. Sanchirico"
+   ],
+   "year": 2005,
+   "venue": "Marine Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Fishing Quota Markets",
+   "authors": [
+    "R. Newell",
+    "J. N. Sanchirico",
+    "S. Kerr"
+   ],
+   "year": 2005,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Additivity Properties in Metapopulation Models: Implications for the Assessment of Marine Reserves",
+   "authors": [
+    "J. N. Sanchirico"
+   ],
+   "year": 2005,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Navigating U.S. Fishery Policy Into the 21st Century",
+   "authors": [
+    "J. N. Sanchirico",
+    "S. Hanna"
+   ],
+   "year": 2004,
+   "venue": "Marine Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Introduction to Spatial Modeling in Fisheries Economics",
+   "authors": [
+    "D. Holland",
+    "J. N. Sanchirico",
+    "R. Curtis",
+    "R. L. Hicks"
+   ],
+   "year": 2004,
+   "venue": "Marine Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Designing a Cost-Effective Marine Reserve Network: A Bioeconomic Metapopulation Analysis",
+   "authors": [
+    "J. N. Sanchirico"
+   ],
+   "year": 2004,
+   "venue": "Marine Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Managing Marine Capture Fisheries with Incentive Based Price Instruments",
+   "authors": [
+    "J. N. Sanchirico"
+   ],
+   "year": 2003,
+   "venue": "Public Finance and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Trading Cases: Is Trading Credits in Created Markets a Better Way to Reduce Pollution and Protect Natural Resources?",
+   "authors": [
+    "J. Boyd",
+    "D. Burtraw",
+    "A. Krupnick",
+    "R. Newell",
+    "V. McConnell",
+    "K. Palmer",
+    "J. N. Sanchirico",
+    "M. Walls"
+   ],
+   "year": 2003,
+   "venue": "Environmental Science and Technology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Impacts of Marine Reserves on Limited-Entry Fisheries",
+   "authors": [
+    "J. N. Sanchirico",
+    "J. E. Wilen"
+   ],
+   "year": 2002,
+   "venue": "Natural Resource Modeling",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Bioeconomic Model of Marine Reserve Creation",
+   "authors": [
+    "J. N. Sanchirico",
+    "J. E. Wilen"
+   ],
+   "year": 2001,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Dynamics of Spatial Exploitation: A Metapopulation Approach",
+   "authors": [
+    "J. N. Sanchirico",
+    "J. E. Wilen"
+   ],
+   "year": 2001,
+   "venue": "Natural Resource Modeling",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Bioeconomics of Spatial Exploitation in a Patchy Environment",
+   "authors": [
+    "J. N. Sanchirico",
+    "J. E. Wilen"
+   ],
+   "year": 1999,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Evaluating the New Zealand Individual Transferable Quota Market for Fisheries Management",
+   "authors": [
+    "S. Kerr",
+    "R. G. Newell",
+    "J. N. Sanchirico"
+   ],
+   "year": 2004,
+   "venue": "Tradeable Permits: Policy Evaluation, Design and Reform (OECD, book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic Analysis for Ecosystem Based Management: Applications to Marine and Coastal Environments",
+   "authors": [
+    "D. Holland",
+    "J.N. Sanchirico",
+    "R. Johnston",
+    "D. Joglekar"
+   ],
+   "year": 2010,
+   "venue": "RFF Press (book)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economically optimal management of a metapopulation",
+   "authors": [
+    "J. N. Sanchirico",
+    "J. E. Wilen"
+   ],
+   "year": 2010,
+   "venue": "Spatial Ecology (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Bioeconomics of Metapopulations: Sources, Sinks and Optimal Closures",
+   "authors": [
+    "J.E. Wilen",
+    "J.N. Sanchirico"
+   ],
+   "year": 2006,
+   "venue": "Explorations in Environmental and Natural Resource Economics (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

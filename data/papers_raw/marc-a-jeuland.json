@@ -1,0 +1,1509 @@
+{
+ "slug": "marc-a-jeuland",
+ "name": "Marc A. Jeuland",
+ "sources": [
+  "http://sites.globalhealth.duke.edu/jeulandresearch/",
+  "https://sites.globalhealth.duke.edu/jeulandresearch/publications/"
+ ],
+ "collected": "2026-10-25",
+ "notes": "Publications page appears last updated ~2021 (CV on Dropbox and sanford.duke.edu link not retrievable), so recent work is missing. 'In revision' mapped to R&R; 'Submitted'/'Working paper' to working paper; years for those from page. Skipped in-preparation items, reports, policy briefs, white paper, conference proceedings, IDB report. Co-author names as written (initials).",
+ "papers": [
+  {
+   "title": "Efficient biomass cooking in Africa for climate change mitigation and development",
+   "authors": [
+    "G. Bensch",
+    "M. Jeuland",
+    "J. Peters"
+   ],
+   "year": 2020,
+   "venue": "Working Paper",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "COVID-19 reveals vulnerability of the food-energy-water nexus to viral pandemics",
+   "authors": [
+    "R. Calder",
+    "C. Grady",
+    "M. Jeuland",
+    "C. Kirchhoff",
+    "R. Hale",
+    "R. Muenich"
+   ],
+   "year": 2020,
+   "venue": "Working Paper",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "NGOs and the effectiveness of interventions",
+   "authors": [
+    "F. Usmani",
+    "M. Jeuland",
+    "S. Pattanayak"
+   ],
+   "year": 2020,
+   "venue": "Working Paper",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Increasing willingness to pay for urban drinking water service",
+   "authors": [
+    "Syed M. Hasan",
+    "Agha Ali Akram",
+    "M. Jeuland"
+   ],
+   "year": 2020,
+   "venue": "Working Paper",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do improved cookstoves save time and improve gender outcomes? Evidence from six developing countries",
+   "authors": [
+    "P.P. Krishnapriya",
+    "M. Chandrasekaran",
+    "M. Jeuland",
+    "S.K. Pattanayak"
+   ],
+   "year": 2021,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Fuel Stacking Implications for Willingness to Pay for Cooking Fuels in Peri-urban Kathmandu Valley, Nepal",
+   "authors": [
+    "I. Das",
+    "B. Rogers",
+    "M. Nepal",
+    "M. Jeuland"
+   ],
+   "year": 2021,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Households' valuation of power outages in major cities of Ethiopia: An application of stated preference methods",
+   "authors": [
+    "T.H. Meles",
+    "A. Mekonnen",
+    "A.D. Beyene",
+    "S. Hassen",
+    "S.K. Pattanayak",
+    "S. Sebsibie",
+    "T. Klug",
+    "M. Jeuland"
+   ],
+   "year": 2021,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do Increasing Block Tariffs promote water conservation? Evidence from a unique pricing reform in Hangzhou, China",
+   "authors": [
+    "L. Li",
+    "M. Jeuland"
+   ],
+   "year": 2018,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The economic impacts of large-scale water infrastructure improvements in urban Zarqa, Jordan",
+   "authors": [
+    "M. Jeuland",
+    "J. Orgill"
+   ],
+   "year": 2021,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Review of the State of the Art in Analysis of the Economics of Water Resources Infrastructure",
+   "authors": [
+    "M. Jeuland"
+   ],
+   "year": 2021,
+   "venue": "Oxford Research Encyclopedia of Environmental Science",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do decentralized community treatment plants provide better water? Evidence from Andhra Pradesh",
+   "authors": [
+    "M. Jeuland",
+    "M. McClatchey",
+    "S. Patil",
+    "S.K. Pattanayak",
+    "C. Poulos",
+    "J.C. Yang"
+   ],
+   "year": 2021,
+   "venue": "Land Economics",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Valuing water quality with adaptation: Evidence from a natural experiment in Jordan",
+   "authors": [
+    "S. Morgan",
+    "J. Baker",
+    "J. Orgill-Meyer",
+    "M. Jeuland"
+   ],
+   "year": 2020,
+   "venue": "Water Economics and Policy",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The contribution of a major urban infrastructure improvement project to reducing water deficits in Jordan",
+   "authors": [
+    "M. Jeuland",
+    "M. Moffa",
+    "A. Al-Farra"
+   ],
+   "year": 2021,
+   "venue": "International Journal of Water Resources Development",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Cooking Energy Transition in Nepal: Trend Review",
+   "authors": [
+    "D. Paudel",
+    "M. Jeuland",
+    "S.P. Lohani"
+   ],
+   "year": 2021,
+   "venue": "Clean Energy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The benefits of action to reduce household air pollution (BAR-HAP) model: A new decision support tool for energy and health sector decision-makers",
+   "authors": [
+    "I. Das",
+    "J.J. Lewis",
+    "R. Ludolph",
+    "M. Bertram",
+    "H. Adair-Rohani",
+    "M. Jeuland"
+   ],
+   "year": 2021,
+   "venue": "PLoS One",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Benefits and costs of rural sanitation interventions in Ghana",
+   "authors": [
+    "M. Radin",
+    "B. Wong",
+    "C. McManus",
+    "S. Sinha",
+    "M. Jeuland",
+    "E. Larbi",
+    "B. Tuffuor",
+    "N.K. Biscoff",
+    "D. Whittington"
+   ],
+   "year": 2020,
+   "venue": "Journal of Water, Sanitation and Hygiene for Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Is energy a golden thread? A systematic review of the impacts of modern and traditional energy use in low-and middle-income countries",
+   "authors": [
+    "M. Jeuland",
+    "T.R. Fetter",
+    "Y. Li",
+    "S.K. Pattanayak",
+    "F. Usmani"
+   ],
+   "year": 2020,
+   "venue": "Renewable and Sustainable Energy Reviews",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Understanding and Managing New Risks on the Nile with the Grand Ethiopian Renaissance Dam",
+   "authors": [
+    "K. Wheeler",
+    "M. Jeuland",
+    "J. Hall",
+    "E. Zagona",
+    "D. Whittington"
+   ],
+   "year": 2020,
+   "venue": "Nature Communications",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Climate implications of electrification projects in the developing world: A systematic review",
+   "authors": [
+    "M. Jeuland",
+    "N. Ohlendorf",
+    "R. Saparapa",
+    "J. Steckel"
+   ],
+   "year": 2020,
+   "venue": "Environmental Research Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Adoption and impacts of improved biomass cookstoves in rural Rajasthan",
+   "authors": [
+    "M. Jeuland",
+    "S. Pattanayak",
+    "S. Samaddar",
+    "R. Shah",
+    "M. Vora"
+   ],
+   "year": 2020,
+   "venue": "Energy for Sustainable Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Graphical causal network and evidence characterization for development, environment and health impacts of energy transitions in the developing world",
+   "authors": [
+    "R. Calder",
+    "A. Troncoso",
+    "R. Marx",
+    "V. Mallampalli",
+    "S.A. Mason",
+    "L.P. Olander",
+    "M. Jeuland",
+    "M.E. Borsuk"
+   ],
+   "year": 2020,
+   "venue": "Environmental Modelling and Software",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Whose river is it: An assessment of livelihood and cultural water flow requirements for the Karnali",
+   "authors": [
+    "A. Sharma",
+    "E. Karki",
+    "N. Eriyagama",
+    "G. Shrestha",
+    "M. Jeuland",
+    "L. Bharati"
+   ],
+   "year": 2020,
+   "venue": "Ecology and Society",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Economics of Dams",
+   "authors": [
+    "M. Jeuland"
+   ],
+   "year": 2020,
+   "venue": "Oxford Review of Economic Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Forecasts of Mortality and Economic Losses from Poor Water and Sanitation in Sub-Saharan Africa",
+   "authors": [
+    "D. Fuente",
+    "M. Allaire",
+    "M. Jeuland",
+    "D. Whittington"
+   ],
+   "year": 2020,
+   "venue": "PLoS One",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Benefit-Cost Analysis of Community-Led Total Sanitation Campaigns: Incorporating Results from Recent Evaluations",
+   "authors": [
+    "M. Radin",
+    "M. Jeuland",
+    "H. Wang",
+    "D. Whittington"
+   ],
+   "year": 2020,
+   "venue": "Journal of Benefit-Cost Analysis",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Evidence-based Policy Analysis? The Strange Case of the Randomized Controlled Trials of Community-Led Total Sanitation",
+   "authors": [
+    "D. Whittington",
+    "M. Radin",
+    "M. Jeuland"
+   ],
+   "year": 2020,
+   "venue": "Oxford Review of Economic Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Preferences and the effectiveness of behavior-change interventions: Evidence from adoption of improved cookstoves in India",
+   "authors": [
+    "M. Jeuland",
+    "S.K. Pattanayak",
+    "J.S. Tan-Soo",
+    "F. Usmani"
+   ],
+   "year": 2020,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Bone quality in fluoride-exposed populations: A novel application of the ultrasonic method",
+   "authors": [
+    "T. Godebo",
+    "M. Jeuland",
+    "R. Tekle-Haimanot",
+    "A. Shankar",
+    "B. Alemayehu",
+    "G. Assefa",
+    "G. Whitford",
+    "A. Wolfe"
+   ],
+   "year": 2020,
+   "venue": "Bone Reports",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Balancing intersectoral demands in basin-scale planning: The case of Nepal's western river basins",
+   "authors": [
+    "E. Pakhtigian",
+    "M. Jeuland",
+    "S. Dhaubanjar",
+    "V. Pandey"
+   ],
+   "year": 2020,
+   "venue": "Water Resources and Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Role of Hydropower in Visions of Water Resources Development for the Rivers of Western Nepal",
+   "authors": [
+    "E. Pakhtigian",
+    "M. Jeuland",
+    "L. Bharati",
+    "V. Pandey"
+   ],
+   "year": 2019,
+   "venue": "International Journal of Water Resources Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Biomonitoring of metals and trace elements in urine of central Ethiopian populations",
+   "authors": [
+    "T. Godebo",
+    "C. Paul",
+    "R. Tekle-Haimanot",
+    "M. Jeuland"
+   ],
+   "year": 2019,
+   "venue": "International Journal of Hygiene and Environmental Health",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Drivers of Household Drinking Water Choices in Singapore: Evidence from Multivariable Regression Analysis of Perceptions and Household Characteristics",
+   "authors": [
+    "L. Li",
+    "E. Araral",
+    "M. Jeuland"
+   ],
+   "year": 2019,
+   "venue": "Science of the Total Environment",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Experimental Evidence on Promotion of Electric and Improved Biomass Cookstoves",
+   "authors": [
+    "S.K. Pattanayak",
+    "M. Jeuland",
+    "J.J. Lewis",
+    "F. Usmani"
+   ],
+   "year": 2019,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Sustaining Sanitation: The Long-Term Impacts of a Community-Led Total Sanitation Campaign",
+   "authors": [
+    "J. Orgill-Meyer",
+    "S. Pattanayak",
+    "N. Chindarkar",
+    "K. Dickinson",
+    "U. Panda",
+    "S. Rai",
+    "B. Sahoo",
+    "A. Singha",
+    "M. Jeuland"
+   ],
+   "year": 2019,
+   "venue": "Bulletin of the World Health Organization",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Factors Associated with Water Service Continuity for the Rural Populations of Bangladesh, Pakistan, Ethiopia, and Mozambique",
+   "authors": [
+    "R. DuChanois",
+    "E. Liddle",
+    "R. Fenner",
+    "M. Jeuland",
+    "B. Evans",
+    "O. Cumming",
+    "R. Zaman",
+    "A. Mujica-Pereira",
+    "I. Ross",
+    "M. Gribble",
+    "J. Brown"
+   ],
+   "year": 2019,
+   "venue": "Environmental Science and Technology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Valuing the environmental costs of local development: Evidence from households in Western Nepal",
+   "authors": [
+    "E. Pakhtigian",
+    "M. Jeuland"
+   ],
+   "year": 2019,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The potential benefits of groundwater trading and reformed water rights in the Diamond Valley, Nevada",
+   "authors": [
+    "H. Zeff",
+    "G. Characklis",
+    "M. Jeuland",
+    "D. Kaczan",
+    "B. Murray"
+   ],
+   "year": 2019,
+   "venue": "Journal of Water Resources Planning and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The economic impacts of water information systems: A systematic review",
+   "authors": [
+    "M. Jeuland",
+    "K. Hansen",
+    "H. Doherty",
+    "L. Eastman",
+    "M. Tchamkina"
+   ],
+   "year": 2019,
+   "venue": "Water Resources and Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Communities coping with risks: Household water choice and environmental health in the Ethiopian Rift Valley",
+   "authors": [
+    "C. Paul",
+    "M. Jeuland",
+    "T. Godebo",
+    "E. Weinthal"
+   ],
+   "year": 2018,
+   "venue": "Environmental Science and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Access to household water quality information leads to safer water: a cluster randomized controlled trial in India",
+   "authors": [
+    "M. Trent",
+    "R. Dreibelbis",
+    "A. Bir",
+    "S. Tripathi",
+    "P. Labhasetwar",
+    "P. Nagarnaik",
+    "A. Loo",
+    "R. Bain",
+    "M. Jeuland",
+    "J. Brown"
+   ],
+   "year": 2018,
+   "venue": "Environmental Science & Technology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Preferences for forest attributes along an urbanization gradient in the national capital region of India",
+   "authors": [
+    "D. Grace",
+    "M. Jeuland"
+   ],
+   "year": 2018,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Price of Purity: Willingness to pay for air and water purification technologies in Rajasthan, India",
+   "authors": [
+    "A. Shannon",
+    "F. Usmani",
+    "S. Pattanayak",
+    "M. Jeuland"
+   ],
+   "year": 2018,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Access to Environmental Health Assets across Wealth Strata: Evidence from 41 Low- and Middle-Income Countries",
+   "authors": [
+    "J. Graham",
+    "M. Kaur",
+    "M. Jeuland"
+   ],
+   "year": 2018,
+   "venue": "PLoS One",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The need for policies to reduce the costs of cleaner cooking in low income settings: Implications from systematic analysis of costs and benefits",
+   "authors": [
+    "M. Jeuland",
+    "J.S. Tan Soo",
+    "D. Shindell"
+   ],
+   "year": 2018,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Hydro-economic models to address river basin management problems: structure, applications, and research gaps",
+   "authors": [
+    "M. Bekchanov",
+    "A. Sood",
+    "M. Jeuland"
+   ],
+   "year": 2017,
+   "venue": "Journal of Water Resources Planning and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Infrastructure Development and the Economics of Cooperation in the Eastern Nile",
+   "authors": [
+    "M. Jeuland",
+    "X. Wu",
+    "D. Whittington"
+   ],
+   "year": 2017,
+   "venue": "Water International",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Comparing contingent valuation and averting expenditure estimates of the costs of irregular water supply",
+   "authors": [
+    "J. Orgill",
+    "M. Jeuland",
+    "N. Cutler",
+    "J. Albert"
+   ],
+   "year": 2017,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Evaluation of biomarkers of chronic exposure to fluoride in groundwater in a highly exposed Rift Valley population",
+   "authors": [
+    "T. Rango",
+    "M. Jeuland",
+    "T. Whitford",
+    "A. Vengosh"
+   ],
+   "year": 2017,
+   "venue": "Science of the Total Environment",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Can economic incentives enhance adoption and sustained use of a household energy technology? Evidence from a pilot study in Cambodia",
+   "authors": [
+    "F. Usmani",
+    "J. Steele",
+    "M. Jeuland"
+   ],
+   "year": 2017,
+   "venue": "Environmental Research Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The cost effectiveness of a quality improvement program to reduce maternal and fetal mortality in a regional referral hospital in Accra, Ghana",
+   "authors": [
+    "D. Goodman",
+    "R. Ramaswamy",
+    "M. Jeuland",
+    "E. Srofenyoh",
+    "C. Engmann",
+    "A. Olufolabi",
+    "M. Owen"
+   ],
+   "year": 2017,
+   "venue": "PLoS One",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Adoption and use of a semi-gasifier cooking and water heating stove and fuel intervention in the Tibetan Plateau, China",
+   "authors": [
+    "S. Clark",
+    "E. Carter",
+    "M. Shan",
+    "K. Ni",
+    "H. Niu",
+    "J.T.W. Tseng",
+    "S.K. Pattanayak",
+    "M. Jeuland",
+    "J.J. Schauer",
+    "M. Ezzati",
+    "C. Wiedinmyer",
+    "X. Yang",
+    "J. Baumgartner"
+   ],
+   "year": 2017,
+   "venue": "Environmental Research Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How much do clean cookstoves reduce biomass fuel consumption? Evidence from North India",
+   "authors": [
+    "N. Brooks",
+    "M. Jeuland",
+    "J. Lewis",
+    "S. Pattanayak"
+   ],
+   "year": 2016,
+   "venue": "Resource and Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Seeing, believing, and behaving: Heterogeneous effects of an information intervention on household water treatment",
+   "authors": [
+    "J. Brown",
+    "M. Jeuland",
+    "A. Hamoudi",
+    "G. Turrini"
+   ],
+   "year": 2016,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Does Hydropolitical Ambiguity Affect Water Resources Development? The Case of the Eastern Nile",
+   "authors": [
+    "X. Wu",
+    "M. Jeuland",
+    "D. Whittington"
+   ],
+   "year": 2016,
+   "venue": "Policy & Society",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Social capital, trust, and adaptation to climate change: Evidence from rural Ethiopia",
+   "authors": [
+    "C. Paul",
+    "E. Weinthal",
+    "M. Bellemare",
+    "M. Jeuland"
+   ],
+   "year": 2015,
+   "venue": "Global Environmental Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Chronic Kidney Disease of Uncertain Etiology: A Systematic Review",
+   "authors": [
+    "J. Lunyera",
+    "D. Mohottige",
+    "M. von Isenburg",
+    "M. Jeuland",
+    "U. Patel",
+    "J. Stanifer"
+   ],
+   "year": 2015,
+   "venue": "Clinical Journal of the American Society of Nephrology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Preferences for improved cookstoves: Evidence from rural villages in north India",
+   "authors": [
+    "M. Jeuland",
+    "V. Bhojvaid",
+    "A. Kar",
+    "J. Lewis",
+    "O. Patange",
+    "S.K. Pattanayak",
+    "N. Ramanathan",
+    "I. Rehman",
+    "J. Tan Soo",
+    "V. Ramanathan"
+   ],
+   "year": 2015,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Optimizing irrigation efficiency improvements in the Aral Sea Basin",
+   "authors": [
+    "M. Bekchanov",
+    "C. Ringler",
+    "A. Bhaduri",
+    "M. Jeuland"
+   ],
+   "year": 2015,
+   "venue": "Water Resources and Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A matter of good taste: Investigating preferences for in-house water treatment",
+   "authors": [
+    "M. Jeuland",
+    "J. Orgill",
+    "A. Shaheed",
+    "G. Revell",
+    "J. Brown"
+   ],
+   "year": 2015,
+   "venue": "Environment and Development Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "CMIP5 model simulations of Ethiopian Kiremt-season precipitation: current climate and future changes",
+   "authors": [
+    "L. Li",
+    "W. Li",
+    "T. Ballard",
+    "G. Sun",
+    "M. Jeuland"
+   ],
+   "year": 2015,
+   "venue": "Climate Dynamics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How does the Rogun Dam affect water and energy scarcity in Central Asia?",
+   "authors": [
+    "M. Bekchanov",
+    "C. Ringler",
+    "A. Bhaduri",
+    "M. Jeuland"
+   ],
+   "year": 2015,
+   "venue": "Water International",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The economics of household air pollution",
+   "authors": [
+    "M. Jeuland",
+    "R. Bluffstone",
+    "S.K. Pattanayak"
+   ],
+   "year": 2015,
+   "venue": "Annual Review of Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Challenges to wastewater reuse in the Middle East and North Africa",
+   "authors": [
+    "M. Jeuland"
+   ],
+   "year": 2015,
+   "venue": "Middle East Development Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Nephrotoxic contaminants in drinking water and urine, and chronic kidney disease in rural Sri Lanka",
+   "authors": [
+    "T. Rango",
+    "M. Jeuland",
+    "H. Manthrithilake",
+    "P. McCornick"
+   ],
+   "year": 2015,
+   "venue": "Science of the Total Environment",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Piloting improved cookstoves in India",
+   "authors": [
+    "J. Lewis",
+    "V. Bhojvaid",
+    "N. Brooks",
+    "I. Das",
+    "M. Jeuland",
+    "O. Patange",
+    "S.K. Pattanayak"
+   ],
+   "year": 2014,
+   "venue": "Journal of Health Communication",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The costs of uncoordinated infrastructure management in multi-reservoir river basins",
+   "authors": [
+    "M. Jeuland",
+    "J. Baker",
+    "R. Bartlett",
+    "G. Lacombe"
+   ],
+   "year": 2014,
+   "venue": "Environmental Research Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Hydropower and irrigation in the Nam Ngum sub-basin of the Mekong River: An example of complimentary developments",
+   "authors": [
+    "G. Lacombe",
+    "S. Douangsavanh",
+    "J. Baker",
+    "C.T. Hoanh",
+    "R. Bartlett",
+    "M. Jeuland",
+    "C. Phongpachith"
+   ],
+   "year": 2014,
+   "venue": "Water International",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Fluoride exposure from groundwater as reflected by urinary fluoride and children's dental fluorosis in the Main Ethiopian Rift Valley",
+   "authors": [
+    "T. Rango",
+    "A. Vengosh",
+    "M. Jeuland",
+    "R. Tekle-Haimanot",
+    "E. Weinthal",
+    "J. Kravchenko",
+    "C. Paul",
+    "P. McCornick"
+   ],
+   "year": 2014,
+   "venue": "Science of the Total Environment",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Grand Renaissance Dam and Prospects for Cooperation on the Nile",
+   "authors": [
+    "D. Whittington",
+    "J. Waterbury",
+    "M. Jeuland"
+   ],
+   "year": 2014,
+   "venue": "Water Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Water Resources Planning under Climate Change: Assessing the Robustness of Real Options for the Blue Nile",
+   "authors": [
+    "M. Jeuland",
+    "D. Whittington"
+   ],
+   "year": 2014,
+   "venue": "Water Resources Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The effect of non-fluoride factors on risk of dental fluorosis: Evidence from rural populations of the Main Ethiopian Rift",
+   "authors": [
+    "J. Krauchanka",
+    "T. Rango",
+    "I. Akushevich",
+    "B. Atlaw",
+    "P.G. McCornick",
+    "B.R. Merola",
+    "C. Paul",
+    "E. Weinthal",
+    "A. Vengosh",
+    "M. Jeuland"
+   ],
+   "year": 2014,
+   "venue": "Science of the Total Environment",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Why 'improved' water sources are not always safe",
+   "authors": [
+    "A. Shaheed",
+    "J. Orgill",
+    "M.A. Montgomery",
+    "M. Jeuland",
+    "J. Brown"
+   ],
+   "year": 2014,
+   "venue": "Bulletin of the World Health Organization",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How do people in rural India perceive improved stoves and clean fuel? Evidence from Uttar Pradesh and Uttarakhand",
+   "authors": [
+    "V. Bhojvaid",
+    "M. Jeuland",
+    "A. Kar",
+    "J. Lewis",
+    "S.K. Pattanayak",
+    "N. Ramanathan",
+    "V. Ramanathan",
+    "I. Rehman"
+   ],
+   "year": 2014,
+   "venue": "International Journal of Environmental Research and Public Health",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Water quality risks to 'improved' water sources: evidence from Cambodia",
+   "authors": [
+    "A. Shaheed",
+    "J. Orgill",
+    "R. Chai",
+    "M. Montgomery",
+    "M. Jeuland",
+    "J. Brown"
+   ],
+   "year": 2013,
+   "venue": "Tropical Medicine and International Health",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The long-term dynamics of health benefits from improved water and sanitation in developing countries",
+   "authors": [
+    "M. Jeuland",
+    "S. Ozdemir",
+    "D. Fuente",
+    "M. Allaire",
+    "D. Whittington"
+   ],
+   "year": 2013,
+   "venue": "PLoS One",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Water quality perceptions and willingness to pay for clean water in peri-urban communities in Cambodia",
+   "authors": [
+    "J. Orgill",
+    "M. Jeuland",
+    "A. Shaheed",
+    "J. Brown"
+   ],
+   "year": 2013,
+   "venue": "Journal of Water & Health",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Implications of climate change for water resources development in the Ganges basin",
+   "authors": [
+    "M. Jeuland",
+    "N. Harshadeep",
+    "J. Escurra",
+    "D. Blackmore",
+    "C. Sadoff"
+   ],
+   "year": 2013,
+   "venue": "Water Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Interdependence in water resource development in the Ganges: an economic analysis",
+   "authors": [
+    "X. Wu",
+    "M. Jeuland",
+    "D. Whittington",
+    "C. Sadoff"
+   ],
+   "year": 2013,
+   "venue": "Water Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Ten fundamental questions for water resources development in the Ganges: myths and realities",
+   "authors": [
+    "C. Sadoff",
+    "N.R. Harshadeep",
+    "D. Blackmore",
+    "X. Wu",
+    "A. O'Donnell",
+    "M. Jeuland",
+    "S. Lee",
+    "D. Whittington"
+   ],
+   "year": 2013,
+   "venue": "Water Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The effect of water quality testing on household behavior: Evidence from an experiment in rural India",
+   "authors": [
+    "A. Hamoudi",
+    "M. Jeuland",
+    "S. Lombardo",
+    "S.R. Patil",
+    "S.K. Pattanayak",
+    "S. Rai"
+   ],
+   "year": 2012,
+   "venue": "American Journal of Tropical Medicine and Hygiene",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Creating incentives for more effective wastewater reuse in the Middle East and North Africa",
+   "authors": [
+    "M. Jeuland"
+   ],
+   "year": 2012,
+   "venue": "Book chapter in Environmental Incentives and Regulation (Edward Elgar)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Setting Priorities and, Targeting Subsidies among Water, Sanitation, Hygiene and Preventive Health Interventions in Developing Countries",
+   "authors": [
+    "D. Whittington",
+    "M. Jeuland",
+    "K. Barker",
+    "Y. Yuen"
+   ],
+   "year": 2012,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Groundwater quality and its health impact: an assessment of dental fluorosis in rural inhabitants of the Main Ethiopian Rift",
+   "authors": [
+    "T. Rango",
+    "J. Kravchenko",
+    "A. Vengosh",
+    "P. McCornick",
+    "B. Atlaw",
+    "M. Jeuland",
+    "B. Merola"
+   ],
+   "year": 2012,
+   "venue": "Environment International",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Benefits and costs of improved cookstoves: Assessing the implications of variability in health, forest and climate impacts",
+   "authors": [
+    "M. Jeuland",
+    "S. Pattanayak"
+   ],
+   "year": 2012,
+   "venue": "PLoS One",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Giving stated preference respondents 'time to think': results from four countries",
+   "authors": [
+    "J. Cook",
+    "M. Jeuland",
+    "B. Maskery",
+    "D. Whittington"
+   ],
+   "year": 2011,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic implications of climate change for infrastructure planning in transboundary water systems: an example from the Blue Nile",
+   "authors": [
+    "M. Jeuland"
+   ],
+   "year": 2010,
+   "venue": "Water Resources Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Social discounting of large dams with climate change uncertainty",
+   "authors": [
+    "M. Jeuland"
+   ],
+   "year": 2010,
+   "venue": "Water Alternatives",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Estimating the private benefits of vaccination against cholera in Beira, Mozambique: a travel cost approach",
+   "authors": [
+    "M. Jeuland",
+    "M. Lucas",
+    "J. Clemens",
+    "D. Whittington"
+   ],
+   "year": 2009,
+   "venue": "Journal of Development Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Cost-effectiveness of new generation oral cholera vaccines: a multi-site analysis",
+   "authors": [
+    "M. Jeuland",
+    "J. Cook",
+    "J. Clemens",
+    "C. Poulos",
+    "D. Whittington"
+   ],
+   "year": 2009,
+   "venue": "Value in Health",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Cost Benefit Analysis of Vaccination Programs in Beira, Mozambique",
+   "authors": [
+    "M. Jeuland",
+    "M. Lucas",
+    "J. Clemens",
+    "D. Whittington"
+   ],
+   "year": 2009,
+   "venue": "World Bank Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Challenge of Improving Water and Sanitation Services in Less Developed Countries",
+   "authors": [
+    "D. Whittington",
+    "W.M. Hanemann",
+    "C. Sadoff",
+    "M. Jeuland"
+   ],
+   "year": 2009,
+   "venue": "Foundations and Trends in Microeconomics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Cost-benefit comparisons of investments in improved water supply and cholera vaccination programs",
+   "authors": [
+    "M. Jeuland",
+    "D. Whittington"
+   ],
+   "year": 2009,
+   "venue": "Vaccine",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Impact Assessment of Future Climate Change for the Blue Nile Basin, Using a RCM Nested in a GCM",
+   "authors": [
+    "E. Soliman",
+    "M.A. Aty Sayed",
+    "M. Jeuland"
+   ],
+   "year": 2009,
+   "venue": "Nile Water Science and Engineering Magazine",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Sustaining the benefits of rural water supply investments: Experience from Cochabamba and Chuquisaca, Bolivia",
+   "authors": [
+    "J. Davis",
+    "H. Lukacs",
+    "M. Jeuland",
+    "A. Alvestegui",
+    "B. Soto",
+    "G. Lizarraga",
+    "A. Bakalian"
+   ],
+   "year": 2008,
+   "venue": "Water Resources Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Using private demand studies to calculate socially optimal vaccine subsidies in developing countries",
+   "authors": [
+    "J. Cook",
+    "M. Jeuland",
+    "B. Maskery",
+    "D. Lauria",
+    "D. Sur",
+    "J. Clemens",
+    "D. Whittington"
+   ],
+   "year": 2008,
+   "venue": "Journal of Policy Analysis and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The cost-effectiveness of typhoid Vi vaccination programs: Calculations for four urban sites in four Asian countries",
+   "authors": [
+    "J. Cook",
+    "M. Jeuland",
+    "D. Whittington",
+    "C. Poulos",
+    "J. Clemens",
+    "D. Sur",
+    "D.D. Anh",
+    "M. Agtini",
+    "Z. Bhutta"
+   ],
+   "year": 2008,
+   "venue": "Vaccine",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Private Demand for Cholera Vaccines in Beira, Mozambique",
+   "authors": [
+    "M. Lucas",
+    "M. Jeuland",
+    "J. Deen",
+    "N. Lizaro",
+    "M. McMahon",
+    "A. Nyamete",
+    "A. Barreto",
+    "L. von Seidlein",
+    "A. Cumbane",
+    "F. Songane",
+    "D. Whittington"
+   ],
+   "year": 2007,
+   "venue": "Vaccine",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Surface Water Resources of the Ganga Basin",
+   "authors": [
+    "S.K. Jain",
+    "M. Jeuland",
+    "L. Bharati",
+    "Z.H. Khan"
+   ],
+   "year": 2016,
+   "venue": "Book chapter in The Ganges River Basin: Status and challenges in water, environment and livelihoods (Earthscan)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Water financing and policy in a new era of infrastructure development",
+   "authors": [
+    "M. Jeuland"
+   ],
+   "year": 2016,
+   "venue": "Book chapter in Water, Security and U.S. Foreign Policy (World Wildlife Fund)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Demand Assessment; Cost-Benefit and Cost-Effectiveness Analysis",
+   "authors": [
+    "M. Jeuland"
+   ],
+   "year": 2013,
+   "venue": "Book chapters in Global Water, Sanitation and Hygiene and Health (ed. Bartram)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic Losses from Poor Water and Sanitation: Past, Present, and Future",
+   "authors": [
+    "M. Jeuland",
+    "S. Ozdemir",
+    "D. Fuente",
+    "M. Allaire",
+    "D. Whittington"
+   ],
+   "year": 2013,
+   "venue": "Book chapter in How Much have Global Problems Cost the World? (Cambridge University Press)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Water Reuse in the MNA Region: Constraints, Experiences, and Policy Recommendations",
+   "authors": [
+    "C. Kfouri",
+    "P. Mantovani",
+    "M. Jeuland"
+   ],
+   "year": 2009,
+   "venue": "Book chapter in Water in the Arab World (World Bank)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

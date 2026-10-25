@@ -1,0 +1,180 @@
+{
+ "slug": "todd-gerarden",
+ "name": "Todd Gerarden",
+ "sources": [
+  "http://toddgerarden.com",
+  "https://apps.business.cornell.edu/faculty-research/faculty/vita/tdg48"
+ ],
+ "collected": "2026-10-25",
+ "notes": "Homepage and CV (dated July 1, 2026) agree. Bylines taken from the CV (the homepage's 'with' lists matched). R&R at AER: NBER WP 34401 has no year on the page; year set to 2025 (NBER number era, assumption). Skipped 'work in progress' items with no draft (DOE funding paper with Dugoua/Myers/Pless; Industrial Policy and Global Supply Chains) and the VoxEU piece. Management Science issue is 69(11) in CV vs 69(12) on homepage; venue field unaffected. Abstracts not shown.",
+ "papers": [
+  {
+   "title": "Strategic Avoidance and the Welfare Impacts of U.S. Solar Panel Tariffs",
+   "authors": [
+    "Bryan Bollinger",
+    "Todd D. Gerarden",
+    "Kenneth Gillingham",
+    "Daniel Yi Xu"
+   ],
+   "year": 2025,
+   "venue": "NBER Working Paper 34401; revisions requested at American Economic Review",
+   "status": "修改重投",
+   "url": "http://toddgerarden.com/files/solar-tariffs.pdf",
+   "abstract": null
+  },
+  {
+   "title": "The Role of Industrial Policy in the Renewable Energy Sector",
+   "authors": [
+    "Todd D. Gerarden",
+    "Mar Reguant",
+    "Daniel Yi Xu"
+   ],
+   "year": 2026,
+   "venue": "NBER Environmental and Energy Policy and the Economy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1086/738542",
+   "abstract": null
+  },
+  {
+   "title": "Induced Innovation, Inventors, and the Energy Transition",
+   "authors": [
+    "Eugenie Dugoua",
+    "Todd D. Gerarden"
+   ],
+   "year": 2025,
+   "venue": "American Economic Review: Insights",
+   "status": "已发表",
+   "url": "https://doi.org/10.1257/aeri.20230522",
+   "abstract": null
+  },
+  {
+   "title": "Demanding Innovation: The Impact of Consumer Subsidies on Solar Panel Production Costs",
+   "authors": [
+    "Todd D. Gerarden"
+   ],
+   "year": 2023,
+   "venue": "Management Science",
+   "status": "已发表",
+   "url": "https://doi.org/10.1287/mnsc.2022.4662",
+   "abstract": null
+  },
+  {
+   "title": "Investment versus Output Subsidies: Implications of Alternative Incentives for Wind Energy",
+   "authors": [
+    "Joseph E. Aldy",
+    "Todd D. Gerarden",
+    "Richard L. Sweeney"
+   ],
+   "year": 2023,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "https://doi.org/10.1086/723142",
+   "abstract": null
+  },
+  {
+   "title": "Using Targeting to Optimize Program Design: Evidence from an Energy Conservation Experiment",
+   "authors": [
+    "Todd D. Gerarden",
+    "Muxi Yang"
+   ],
+   "year": 2023,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "https://doi.org/10.1086/722833",
+   "abstract": null
+  },
+  {
+   "title": "Federal Coal Program Reform, the Clean Power Plan, and the Interaction of Upstream and Downstream Climate Policies",
+   "authors": [
+    "Todd D. Gerarden",
+    "W. Spencer Reeder",
+    "James H. Stock"
+   ],
+   "year": 2020,
+   "venue": "American Economic Journal: Economic Policy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1257/pol.20160246",
+   "abstract": null
+  },
+  {
+   "title": "The Effects of Fuel Prices, Environmental Regulations, and Other Factors on U.S. Coal Production, 2008-2016",
+   "authors": [
+    "John Coglianese",
+    "Todd D. Gerarden",
+    "James H. Stock"
+   ],
+   "year": 2020,
+   "venue": "The Energy Journal",
+   "status": "已发表",
+   "url": "https://doi.org/10.5547/01956574.41.1.jcog",
+   "abstract": null
+  },
+  {
+   "title": "Assessing the Energy-Efficiency Gap",
+   "authors": [
+    "Todd D. Gerarden",
+    "Richard G. Newell",
+    "Robert N. Stavins"
+   ],
+   "year": 2017,
+   "venue": "Journal of Economic Literature",
+   "status": "已发表",
+   "url": "https://doi.org/10.1257/jel.20161360",
+   "abstract": null
+  },
+  {
+   "title": "Is Energy Efficiency Capitalized into Home Prices? Evidence from Three U.S. Cities",
+   "authors": [
+    "Margaret Walls",
+    "Todd Gerarden",
+    "Karen Palmer",
+    "Xian Fang Bak"
+   ],
+   "year": 2017,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jeem.2016.11.006",
+   "abstract": null
+  },
+  {
+   "title": "Deconstructing the Energy-Efficiency Gap: Conceptual Frameworks and Evidence",
+   "authors": [
+    "Todd Gerarden",
+    "Richard G. Newell",
+    "Robert N. Stavins"
+   ],
+   "year": 2015,
+   "venue": "American Economic Review: Papers & Proceedings",
+   "status": "已发表",
+   "url": "https://doi.org/10.1257/aer.p20151012",
+   "abstract": null
+  },
+  {
+   "title": "Assessing the Energy-Efficiency Information Gap: Results from a Survey of Home Energy Auditors",
+   "authors": [
+    "Karen Palmer",
+    "Margaret Walls",
+    "Hal Gordon",
+    "Todd Gerarden"
+   ],
+   "year": 2013,
+   "venue": "Energy Efficiency",
+   "status": "已发表",
+   "url": "https://doi.org/10.1007/s12053-012-9178-2",
+   "abstract": null
+  },
+  {
+   "title": "The Impact of Water Depth on Safety and Environmental Performance in Offshore Oil and Gas Production",
+   "authors": [
+    "Lucija Muehlenbachs",
+    "Mark A. Cohen",
+    "Todd Gerarden"
+   ],
+   "year": 2013,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.enpol.2012.12.074",
+   "abstract": null
+  }
+ ]
+}

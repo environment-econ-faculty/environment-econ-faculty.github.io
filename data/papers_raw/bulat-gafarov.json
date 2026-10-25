@@ -1,0 +1,167 @@
+{
+ "slug": "bulat-gafarov",
+ "name": "Bulat Gafarov",
+ "sources": [
+  "http://www.bulatngafarov.com/ (not fetched)",
+  "https://arefiles.ucdavis.edu/uploads/pub/2025/07/17/cv_gafarovjuly25.pdf"
+ ],
+ "collected": "2026-10-25",
+ "notes": "From CV dated July 15, 2025; homepage not fetched. Authors scholar-first per CV 'joint with' phrasing except where CV lists Gafarov among others. Working paper years = CV year 2025 (no dates given). Work in progress and ARE Update pieces skipped.",
+ "papers": [
+  {
+   "title": "Bias correction for quantile regression estimators",
+   "authors": [
+    "Gregory Franguridi",
+    "Bulat Gafarov",
+    "Kaspar Wüthrich"
+   ],
+   "year": 2025,
+   "venue": "Journal of Econometrics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "California Gasoline Demand Elasticity Estimated Using Refinery Outages",
+   "authors": [
+    "Bulat Gafarov",
+    "Armando Rangel Colina",
+    "Jens Hilscher"
+   ],
+   "year": 2025,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Simple subvector inference on sharp identified set in affine models",
+   "authors": [
+    "Bulat Gafarov"
+   ],
+   "year": 2025,
+   "venue": "Journal of Econometrics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "On model selection criteria for climate change impact studies",
+   "authors": [
+    "Xiaomeng Cui",
+    "Bulat Gafarov",
+    "Dalia Ghanem",
+    "Todd Kuffner"
+   ],
+   "year": 2024,
+   "venue": "Journal of Econometrics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Time Consistency and Duration of Government Debt: A Model of Quantitative Easing",
+   "authors": [
+    "Saroj Bhattarai",
+    "Gauti Eggertsson",
+    "Bulat Gafarov"
+   ],
+   "year": 2023,
+   "venue": "Review of Economic Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Delta-Method Inference for a Class of Set-Identified SVARs",
+   "authors": [
+    "Bulat Gafarov",
+    "Matthias Meier",
+    "Jose-Luis Montiel-Olea"
+   ],
+   "year": 2018,
+   "venue": "Journal of Econometrics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Ordinal dominance and risk aversion",
+   "authors": [
+    "Bulat Gafarov",
+    "Bruno Salcedo"
+   ],
+   "year": 2015,
+   "venue": "Economic Theory Bulletin",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Phillips curve and development of the labor market in Russia",
+   "authors": [
+    "Bulat Gafarov"
+   ],
+   "year": 2011,
+   "venue": "The Economic Journal of the Higher School of Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Estimating effects of storage on water price sensitivity to droughts",
+   "authors": [
+    "Bulat Gafarov",
+    "M. Turland",
+    "J. Hilscher",
+    "C. Carter",
+    "K. Jessoe"
+   ],
+   "year": 2025,
+   "venue": "Nature Sustainability",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Procyclical Markups: Nonparametric Estimates in a Structural Dynamic Panel",
+   "authors": [
+    "Bulat Gafarov",
+    "Tengda Gong",
+    "Jens Hilscher"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Wild inference for wild SVARs with application to heteroscedasticity-based IV",
+   "authors": [
+    "Bulat Gafarov",
+    "Madina Karamysheva",
+    "Andrey Polbin",
+    "Anton Skrobotov"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Projection Inference for Set-Identified SVARs",
+   "authors": [
+    "Bulat Gafarov",
+    "Matthias Meier",
+    "Jose-Luis Montiel-Olea"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

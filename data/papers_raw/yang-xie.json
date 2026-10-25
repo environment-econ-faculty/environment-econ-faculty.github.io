@@ -1,0 +1,198 @@
+{
+ "slug": "yang-xie",
+ "name": "Yang Xie",
+ "sources": [
+  "https://yang-xie.super.site/",
+  "https://zenodo.org/records/21941448/files/cv_20260813.pdf"
+ ],
+ "collected": "2026-10-25",
+ "notes": "Homepage + CV (Aug 13, 2026). Working papers have no years in sources; 2026 used (file/CV dates). Separation of powers earlier version: Hobbesian wars (NBER WP 30945, 2022). Omitted two \"Resting Papers\" conference presentations. Includes book chapters and a 2011 Chinese-language Tsinghua journal article.",
+ "papers": [
+  {
+   "title": "Brahmins versus mandarins: A theory on the origin and persistence of (in)dependent intellectual elites",
+   "authors": [
+    "Yang Xie"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://zenodo.org/records/22169933/preview/Xie_brahmins%20vs%20mandarins_20260829.pdf?include_deleted=0",
+   "abstract": null
+  },
+  {
+   "title": "Separation of powers as a guardian of civil peace",
+   "authors": [
+    "Weijia Li",
+    "Gérard Roland",
+    "Yang Xie"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://zenodo.org/records/21941903/preview/lrx_separation_of_powers_20260325.pdf?include_deleted=0",
+   "abstract": null
+  },
+  {
+   "title": "Deterring transgressions at the apex of government",
+   "authors": [
+    "Weijia Li",
+    "Yang Xie"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://zenodo.org/records/21941981/preview/li_and_xie_apex_transgressions_20260424.pdf?include_deleted=0",
+   "abstract": null
+  },
+  {
+   "title": "Market versus planning: Emission abatement under incomplete information and with local externalities",
+   "authors": [
+    "Guojun He",
+    "Yuhang Pan",
+    "Yang Xie"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://zenodo.org/records/21941993/preview/he_et_al._market_vs_planning_20260614.pdf?include_deleted=0",
+   "abstract": null
+  },
+  {
+   "title": "A theory of power structure and institutional compatibility: China versus Europe revisited",
+   "authors": [
+    "Ruixue Jia",
+    "Gérard Roland",
+    "Yang Xie"
+   ],
+   "year": 2024,
+   "venue": "Journal of the European Economic Association",
+   "status": "已发表",
+   "url": "https://zenodo.org/records/21961760/preview/Jia%20et%20al._2024_JEEA_power%20structure.pdf?include_deleted=0",
+   "abstract": null
+  },
+  {
+   "title": "Erosion of state power, corruption control and fiscal capacity",
+   "authors": [
+    "Weijia Li",
+    "Gérard Roland",
+    "Yang Xie"
+   ],
+   "year": 2022,
+   "venue": "Economic Journal",
+   "status": "已发表",
+   "url": "https://zenodo.org/records/21961748/preview/Li%20et%20al._2022_EJ_corruption.pdf?include_deleted=0",
+   "abstract": null
+  },
+  {
+   "title": "Crony capitalism, the party-state, and the political boundaries of corruption",
+   "authors": [
+    "Weijia Li",
+    "Gérard Roland",
+    "Yang Xie"
+   ],
+   "year": 2022,
+   "venue": "Journal of Comparative Economics",
+   "status": "已发表",
+   "url": "https://zenodo.org/records/21961784/preview/Li%20et%20al._2022_JCE_corruption.pdf?include_deleted=0",
+   "abstract": null
+  },
+  {
+   "title": "Expressways, GDP, and the environment: The case of China",
+   "authors": [
+    "Guojun He",
+    "Yang Xie",
+    "Bing Zhang"
+   ],
+   "year": 2020,
+   "venue": "Journal of Development Economics",
+   "status": "已发表",
+   "url": "https://zenodo.org/records/21961808/preview/He%20et%20al._2020_JDE_Expressways.pdf?include_deleted=0",
+   "abstract": null
+  },
+  {
+   "title": "Water storage capacity versus water use efficiency: Substitutes or complements?",
+   "authors": [
+    "Yang Xie",
+    "David Zilberman"
+   ],
+   "year": 2018,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "https://zenodo.org/records/21961822/preview/Xie%20and%20Zilberman_2018_JAERE_Storage%20vs%20conservation.pdf?include_deleted=0",
+   "abstract": null
+  },
+  {
+   "title": "Water supply and dams in agriculture",
+   "authors": [
+    "Biswo N. Poudel",
+    "Yang Xie",
+    "David Zilberman"
+   ],
+   "year": 2018,
+   "venue": "The Routledge Handbook of Agricultural Economics (book chapter)",
+   "status": "已发表",
+   "url": "https://books.google.com/books?hl=en&lr=&id=rDVlDwAAQBAJ&oi=fnd&pg=PA285&ots=SDydD3RfuG&sig=_5YL3mYdLGtl2DrTYY3T2R_jJYk",
+   "abstract": null
+  },
+  {
+   "title": "Machiavellian experimentation",
+   "authors": [
+    "Yinxi Xie",
+    "Yang Xie"
+   ],
+   "year": 2017,
+   "venue": "Journal of Comparative Economics",
+   "status": "已发表",
+   "url": "https://zenodo.org/records/21961800/preview/Xie%20and%20Xie_2017_JCE_Machiavellian%20experimentation.pdf?include_deleted=0",
+   "abstract": null
+  },
+  {
+   "title": "Culture and collective action",
+   "authors": [
+    "Gérard Roland",
+    "Yang Xie"
+   ],
+   "year": 2016,
+   "venue": "Contemporary Issues in Development Economics (book chapter)",
+   "status": "已发表",
+   "url": "https://zenodo.org/records/21942011/preview/roland_and_xie_2016_cide_culture_and_collective_action_with_title_page.pdf?include_deleted=0",
+   "abstract": null
+  },
+  {
+   "title": "Theoretical implications of institutional, environmental, and technological changes for capacity choices of water projects",
+   "authors": [
+    "Yang Xie",
+    "David Zilberman"
+   ],
+   "year": 2016,
+   "venue": "Water Resources and Economics",
+   "status": "已发表",
+   "url": "https://zenodo.org/records/21961876/preview/Xie%20and%20Zilberman_2016_WRE_Water%20project%20capacities.pdf?include_deleted=0",
+   "abstract": null
+  },
+  {
+   "title": "Error analysis and comparison of two algorithms measuring compensated income",
+   "authors": [
+    "Zhen Sun",
+    "Yang Xie"
+   ],
+   "year": 2013,
+   "venue": "Computational Economics",
+   "status": "已发表",
+   "url": "https://zenodo.org/records/21961951/preview/Sun%20and%20Xie_2013_CE_Vartia%20and%20Breslaw%20and%20Smith.pdf?include_deleted=0",
+   "abstract": null
+  },
+  {
+   "title": "Diesel demand per capita elasticities in China, 1999-2007",
+   "authors": [
+    "Jing Cao",
+    "Yang Xie"
+   ],
+   "year": 2011,
+   "venue": "Journal of Tsinghua University (Science and Technology)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

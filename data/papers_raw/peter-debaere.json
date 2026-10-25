@@ -1,0 +1,379 @@
+{
+ "slug": "peter-debaere",
+ "name": "Peter Debaere",
+ "sources": [
+  "https://www.darden.virginia.edu/sites/default/files/inline-files/DebeareP%20CV%20Feb2022.pdf"
+ ],
+ "collected": "2026-10-25",
+ "notes": "Source: CV dated Feb 2022 only (homepage not fetched). Scholar listed first where CV says '(with X)'. Murray-Darling WP undated; year 2022 assumed from CV date. IMF paper byline per CV (spelled 'Davodi' in CV; Davoodi used). Skipped reports, reviews, edited volume, work in progress, older working papers (2003-2016).",
+ "papers": [
+  {
+   "title": "Water Resources and Trade: A Research Vision",
+   "authors": [
+    "Peter Debaere",
+    "Megan Konar"
+   ],
+   "year": 2022,
+   "venue": "PLOS Water",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Potential of the Private Sector in Combating Water Scarcity: The Economics",
+   "authors": [
+    "Peter Debaere",
+    "Andrew Kapral"
+   ],
+   "year": 2021,
+   "venue": "Water Security",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Crop-specific exposure to extreme temperature and wetness for the globe for the last half century",
+   "authors": [
+    "Nicole Jackson",
+    "Megan Konar",
+    "Peter Debaere",
+    "Justin Sheffield"
+   ],
+   "year": 2021,
+   "venue": "Environmental Research Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Effects of Water Markets: Evidence from the Rio Grande",
+   "authors": [
+    "Peter Debaere",
+    "Tianshu Li"
+   ],
+   "year": 2020,
+   "venue": "Advances in Water Resources",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Beef production is leading contributor to water scarcity and fish imperilment",
+   "authors": [
+    "Peter Debaere",
+    "B. Richter",
+    "N. Bartak",
+    "P. Caldwell",
+    "A. Hoekstra",
+    "T. Li",
+    "L. Marston",
+    "R. McManamay",
+    "M. Mekommen",
+    "B. Ruddell",
+    "R. Rushforth",
+    "T. Troy"
+   ],
+   "year": 2020,
+   "venue": "Nature Sustainability",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Water Markets' Promise and Limits in a Changing World",
+   "authors": [
+    "Peter Debaere"
+   ],
+   "year": 2020,
+   "venue": "Water Resources and Economic Growth (Elsevier, book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Probabilistic Global Maps of Crop-specific Areas from 1961 to 2014",
+   "authors": [
+    "Nicole Jackson",
+    "Megan Konar",
+    "Peter Debaere",
+    "Lyndon Estes"
+   ],
+   "year": 2019,
+   "venue": "Environmental Research Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Trade Openness and the Nutrient Use of Nations",
+   "authors": [
+    "Peter Debaere",
+    "Qian Dang",
+    "Megan Konar"
+   ],
+   "year": 2018,
+   "venue": "Environmental Research Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Economics of Water: A Programmatic Outlook",
+   "authors": [
+    "Peter Debaere"
+   ],
+   "year": 2018,
+   "venue": "Yamuna River Project (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Decomposing U.S Water Withdrawal since 1950",
+   "authors": [
+    "Peter Debaere",
+    "Amanda Kuerzendoerfer"
+   ],
+   "year": 2017,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Water Markets as a Response to Scarcity",
+   "authors": [
+    "Peter Debaere",
+    "Brian Richter",
+    "Kyle Davis",
+    "Melissa Duvall",
+    "Jessica Gephart",
+    "Clark O'Bannon",
+    "Carolyn Pelnik",
+    "Emily Maynard Powell",
+    "Ty Smith"
+   ],
+   "year": 2014,
+   "venue": "Water Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Global Economics of Water: Is Water a Source of Comparative Advantage?",
+   "authors": [
+    "Peter Debaere"
+   ],
+   "year": 2014,
+   "venue": "American Economic Journal: Applied Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "International Trade and the Environment: Does Globalization Create Havens of Pollution?",
+   "authors": [
+    "Peter Debaere"
+   ],
+   "year": 2013,
+   "venue": "Sustainability in Transatlantic Perspective (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Language, Ethnicity and Intra Firm Trade",
+   "authors": [
+    "Peter Debaere",
+    "Hongshik Lee",
+    "Joon Lee"
+   ],
+   "year": 2013,
+   "venue": "Journal of Development Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Greasing the Wheels of International Commerce: Market Thickness vs. International Offshoring",
+   "authors": [
+    "Peter Debaere",
+    "Holger Goerg",
+    "Horst Raff"
+   ],
+   "year": 2013,
+   "venue": "Canadian Journal of Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "What Determines the Extensive Margin of Trade?",
+   "authors": [
+    "Peter Debaere",
+    "Shalah Mostashari"
+   ],
+   "year": 2012,
+   "venue": "Quantitative Analysis of Newly Evolving Patterns of International Trade (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Does Where You Go to Matter? The Impact of Outward Foreign Direct Investment on Multinationals' Employment at Home",
+   "authors": [
+    "Peter Debaere",
+    "Hongshik Lee",
+    "Joonhyung Lee"
+   ],
+   "year": 2010,
+   "venue": "Journal of Development Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Agglomeration, Backward and Forward Linkages: Evidence from South Korean Investment In China",
+   "authors": [
+    "Peter Debaere",
+    "Joon Lee",
+    "Myungho Paik"
+   ],
+   "year": 2010,
+   "venue": "Canadian Journal of Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Small Fish - Big Issues. The Impact of Trade Policy on the Global Shrimp Market",
+   "authors": [
+    "Peter Debaere"
+   ],
+   "year": 2010,
+   "venue": "World Trade Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do Tariffs Matter for the Extensive Margin of Trade? An Empirical Analysis",
+   "authors": [
+    "Peter Debaere",
+    "Shalah Mostashari"
+   ],
+   "year": 2010,
+   "venue": "Journal of International Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "International Saving and Investment and Trade",
+   "authors": [
+    "Peter Debaere",
+    "Ufuk Demiroglu"
+   ],
+   "year": 2008,
+   "venue": "Open Economies Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Factor Accumulation without Diminishing Returns",
+   "authors": [
+    "Peter Debaere",
+    "Ufuk Demiroglu"
+   ],
+   "year": 2006,
+   "venue": "Review of International Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Monopolistic Competition and Trade, Revisited: Testing the Model without Testing for Gravity",
+   "authors": [
+    "Peter Debaere"
+   ],
+   "year": 2005,
+   "venue": "Journal of International Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Does Lumpiness Matter in an Open Economy?",
+   "authors": [
+    "Peter Debaere"
+   ],
+   "year": 2004,
+   "venue": "Journal of International Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Relative Factor Abundance and Trade",
+   "authors": [
+    "Peter Debaere"
+   ],
+   "year": 2003,
+   "venue": "Journal of Political Economy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "On the Similarity of Country Endowments and Factor Price Equalization for the Developed Countries",
+   "authors": [
+    "Peter Debaere",
+    "Ufuk Demiroglu"
+   ],
+   "year": 2003,
+   "venue": "Journal of International Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Military Spending, the Peace Dividend and Fiscal Adjustment",
+   "authors": [
+    "H. Davoodi",
+    "B. Clements",
+    "J. Schiff",
+    "Peter Debaere"
+   ],
+   "year": 2001,
+   "venue": "IMF Staff Papers",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The promise of Water markets: Australia's Murray Darling Basin",
+   "authors": [
+    "Peter Debaere",
+    "Tianshu Li"
+   ],
+   "year": 2022,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Outsourcing vs. Integration in the Mutual Fund Industry: The Puzzle of Low Returns",
+   "authors": [
+    "Peter Debaere",
+    "Richard Evans"
+   ],
+   "year": 2015,
+   "venue": "Working Paper (CEPR Discussion Paper 10599)",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

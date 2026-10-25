@@ -1,0 +1,1477 @@
+{
+ "slug": "frank-lupi",
+ "name": "Frank Lupi",
+ "sources": [
+  "https://sites.google.com/msu.edu/franklupi"
+ ],
+ "collected": "2026-10-25",
+ "notes": "Source: homepage publications list only (no CV). Initials kept as given on the page. Items listed 'et al.' (Stanley; Hyndman; Steinman; Srivastava; Ansah coffee WP) have only the first author given, plus F. Lupi omitted because byline unknown. Working papers undated on page: year 2026 (page date) assumed. Skipped Bigford et al. committee report, Whitehead et al. Fisheries commentary, Lupi 1998 AJAE discussion. Page lists years 2109/2107 for two items (corrected to 2019/2017); Palm-Forster 2016 pages garbled; Stewart et al. 2003 listed with same vol/pages as Lupi et al. 2003. Author names as written on page (initials).",
+ "papers": [
+  {
+   "title": "Benefits, costs, and affordability of frequent PFAS testing in public water systems",
+   "authors": [
+    "S. Sarkar",
+    "F. Lupi"
+   ],
+   "year": 2026,
+   "venue": "Land Economics",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Two's company, three's a crowd: Nonlinear preferences for crowding at public beaches",
+   "authors": [
+    "A. Earle",
+    "C. Thomson",
+    "R. von Haefen",
+    "F. Lupi"
+   ],
+   "year": 2026,
+   "venue": "Marine Resource Economics",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Financial well-being of farm households",
+   "authors": [
+    "Z. Dong",
+    "F. Lupi",
+    "M. McKendree"
+   ],
+   "year": 2026,
+   "venue": "Agricultural and Resource Economics Review",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The two-edged sword of altruism in willingness to pay for water infrastructure and affordability programs",
+   "authors": [
+    "S. Sarkar",
+    "F. Lupi"
+   ],
+   "year": 2026,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Merging rigor and relevance in grazingland research: A comprehensive social-ecological monitoring approach",
+   "authors": [
+    "P. Stanley"
+   ],
+   "year": 2026,
+   "venue": "Carbon Balance and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How sustainability certification works for smallholder farmers across different crops",
+   "authors": [
+    "E. Ansah",
+    "M. Kaplowitz",
+    "F. Lupi",
+    "K. Yeboah",
+    "J. Kerr"
+   ],
+   "year": 2025,
+   "venue": "Agroecology and Sustainable Food Systems",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Phosphorus application rates and farmers' perceptions of environmental concerns",
+   "authors": [
+    "S. Sarkar",
+    "F. Lupi",
+    "B. Basso"
+   ],
+   "year": 2025,
+   "venue": "Agricultural and Environmental Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Evaluating the impact of fertilizer and crop prices on phosphorus concentrations in Great Lakes watersheds",
+   "authors": [
+    "S. Sarkar",
+    "L. Preet",
+    "M. Sears",
+    "F. Lupi"
+   ],
+   "year": 2024,
+   "venue": "Journal of the Agricultural and Applied Economics Association",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Corn yield response to phosphorus fertilizer in Michigan: a metamodeling approach for phosphorus management policies",
+   "authors": [
+    "S. Sarkar",
+    "F. Lupi",
+    "L. Price",
+    "B. Basso"
+   ],
+   "year": 2024,
+   "venue": "Journal of Agriculture and Food Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Getting off the ladder: Disentangling water quality indices to enhance the valuation of divergent ecosystem services",
+   "authors": [
+    "F. Lupi",
+    "J. A. Herriges",
+    "H. Kim",
+    "R. J. Stevenson"
+   ],
+   "year": 2023,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Measuring beachgoer preferences for avoiding harmful algal blooms and bacterial warnings",
+   "authors": [
+    "G. Boudreaux",
+    "F. Lupi",
+    "B. Sohngen",
+    "A. Xu"
+   ],
+   "year": 2023,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Comparing water quality valuation across probability and non-probability samples",
+   "authors": [
+    "K. Sandstrom",
+    "F. Lupi",
+    "J. A. Herriges",
+    "H. Kim"
+   ],
+   "year": 2023,
+   "venue": "Applied Economic Perspectives and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Testing the robustness of a structural model for discerning use and non-use values of ecosystem services",
+   "authors": [
+    "H. Kim",
+    "F. Lupi"
+   ],
+   "year": 2023,
+   "venue": "Agricultural and Resource Economics Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Distributional effects of entry fees and taxation for financing public beaches",
+   "authors": [
+    "F. Lupi",
+    "R. von Haefen",
+    "L. Cheng"
+   ],
+   "year": 2022,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How does congestion affect the evaluation of recreational gate fees? An application to Gulf Coast Beaches",
+   "authors": [
+    "R. von Haefen",
+    "F. Lupi"
+   ],
+   "year": 2022,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Estimating visitor preferences for recreation sites in wildfire prone areas",
+   "authors": [
+    "S. Tanner",
+    "F. Lupi",
+    "C. Garnache"
+   ],
+   "year": 2022,
+   "venue": "International Journal of Wildland Fire",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Showing Pesticides' true colors: The effects of a farmer-to-farmer training on pesticide knowledge",
+   "authors": [
+    "J. Goeb",
+    "F. Lupi"
+   ],
+   "year": 2021,
+   "venue": "Journal of Environmental Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Best practices for implementing recreation demand models",
+   "authors": [
+    "F. Lupi",
+    "D. Phaneuf",
+    "R. von Haefen"
+   ],
+   "year": 2020,
+   "venue": "Review of Environmental Economics and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Pesticides: What you don't know can hurt you",
+   "authors": [
+    "J. Goeb",
+    "A. Dillon",
+    "F. Lupi",
+    "D. Tschirley"
+   ],
+   "year": 2020,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Valuing goods allocated via dynamic lottery",
+   "authors": [
+    "C. Reeling",
+    "V. Verdier",
+    "F. Lupi"
+   ],
+   "year": 2020,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Linking agricultural nutrient pollution to the value of freshwater ecosystem services",
+   "authors": [
+    "F. Lupi",
+    "B. Basso",
+    "C. Garnache",
+    "J. Herriges",
+    "D. Hyndman",
+    "R. Stevenson"
+   ],
+   "year": 2020,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How will climate change affect provision and value of water from public lands in Southern California through the 21st century?",
+   "authors": [
+    "L. Srivastava"
+   ],
+   "year": 2020,
+   "venue": "Agricultural and Resource Economics Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Smallholder participation and compliance with sustainable cocoa certification",
+   "authors": [
+    "E. Ansah",
+    "M. Kaplowitz",
+    "F. Lupi",
+    "J. Kerr"
+   ],
+   "year": 2020,
+   "venue": "Agroecology and Sustainable Food Systems",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Timber or Carbon? Evaluating forest conservation strategies through a discrete choice experiment",
+   "authors": [
+    "C. Bocci",
+    "B. Sohngen",
+    "F. Lupi",
+    "B. Milian"
+   ],
+   "year": 2020,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Hidden cost of conservation: A demonstration using losses from human-wildlife conflicts under a payment for ecosystem services program",
+   "authors": [
+    "H. Yang",
+    "F. Lupi",
+    "J. Zhang",
+    "J. Liu"
+   ],
+   "year": 2020,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Fixed costs and recreation value",
+   "authors": [
+    "E. English",
+    "J. Herriges",
+    "F. Lupi",
+    "K. McConnell",
+    "R. von Haefen"
+   ],
+   "year": 2019,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic damages from a worst-case oil spill in the Straits of Mackinac",
+   "authors": [
+    "R. Melstrom",
+    "C. Reeling",
+    "L. Gupta",
+    "S. Miller",
+    "Y. Zhang",
+    "F. Lupi"
+   ],
+   "year": 2019,
+   "venue": "Journal of Great Lakes Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Valuing provision scenarios of coastal ecosystem services: The case of boat ramp closings due to algae blooms in Florida",
+   "authors": [
+    "S. Alvarez",
+    "F. Lupi",
+    "D. Solis",
+    "M. Thomas"
+   ],
+   "year": 2019,
+   "venue": "Water",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Households' preferences for attributes of Conditional Cash Transfer programmes: A choice experiment in Ghana",
+   "authors": [
+    "F. Yeboah",
+    "F. Lupi",
+    "M. Kaplowitz",
+    "J. Kerr"
+   ],
+   "year": 2019,
+   "venue": "Development Policy Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Estimating the value of lost recreation days from the Deepwater Horizon oil spill",
+   "authors": [
+    "E. English",
+    "R. von Haefen",
+    "J. Herriges",
+    "C. Leggett",
+    "F. Lupi",
+    "K. McConnell",
+    "M. Welsh",
+    "A. Domanski",
+    "N. Meade"
+   ],
+   "year": 2018,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Lakefront property owners' willingness to accept easements for conservation of water quality and habitat",
+   "authors": [
+    "J. Nohner",
+    "F. Lupi",
+    "W. Taylor"
+   ],
+   "year": 2018,
+   "venue": "Water Resources Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Feedback of telecoupling: The case of a payment for ecosystem services program",
+   "authors": [
+    "H. Yang",
+    "F. Lupi",
+    "J. Zhang",
+    "X. Chen",
+    "J. Liu"
+   ],
+   "year": 2018,
+   "venue": "Ecology and Society",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Accounting for ecosystem services in compensating for the costs of effective conservation in protected areas",
+   "authors": [
+    "X. Chen",
+    "F. Lupi",
+    "J. Liu"
+   ],
+   "year": 2017,
+   "venue": "Biological Conservation",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Quantifying changes in water use and groundwater availability in a megacity using novel integrated systems modeling",
+   "authors": [
+    "D. Hyndman"
+   ],
+   "year": 2017,
+   "venue": "Geophysical Research Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Ecosystem services in the Great Lakes",
+   "authors": [
+    "A. D. Steinman"
+   ],
+   "year": 2017,
+   "venue": "Journal of Great Lakes Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Solving the phosphorus pollution puzzle: Synthesis and directions for future research",
+   "authors": [
+    "C. Garnache",
+    "S. Swinton",
+    "J. Herriges",
+    "F. Lupi",
+    "J. Stevenson"
+   ],
+   "year": 2016,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Urban Water Sustainability: Framework and Application",
+   "authors": [
+    "W. Yang",
+    "D. Hyndman",
+    "J. Winkler",
+    "A. Vina",
+    "J. Deines",
+    "F. Lupi"
+   ],
+   "year": 2016,
+   "venue": "Ecology and Society",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Too Burdensome to Bid: Transaction Costs and Pay-for-Performance Conservation",
+   "authors": [
+    "L. Palm-Forster",
+    "S. Swinton",
+    "F. Lupi",
+    "R. Shupp"
+   ],
+   "year": 2016,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Sociocultural and institutional contexts of social cash transfer programs",
+   "authors": [
+    "F. Yeboah",
+    "M. Kaplowitz",
+    "J. Kerr",
+    "F. Lupi",
+    "L. Thorp"
+   ],
+   "year": 2016,
+   "venue": "Global Social Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Valuing Lake Erie beaches using value and function transfers",
+   "authors": [
+    "L. Palm-Forster",
+    "F. Lupi",
+    "M. Chen"
+   ],
+   "year": 2016,
+   "venue": "Agricultural and Resource Economics Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Demand for Fishery Regulations: Effects of Angler Heterogeneity and Catch Improvements on Preferences for Gear and Harvest Restrictions",
+   "authors": [
+    "S. Knoche",
+    "F. Lupi"
+   ],
+   "year": 2016,
+   "venue": "Fisheries Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Evolution of tourism in a flagship protected area of China",
+   "authors": [
+    "W. Liu",
+    "C. Vogt",
+    "F. Lupi",
+    "G. He",
+    "Z. Ouyang",
+    "J. Liu"
+   ],
+   "year": 2016,
+   "venue": "Journal of Sustainable Tourism",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Landowner willingness to supply marginal land for bioenergy production",
+   "authors": [
+    "T. Skevas",
+    "N. Hayden",
+    "S. Swinton",
+    "F. Lupi"
+   ],
+   "year": 2016,
+   "venue": "Land Use Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Harvesting benefits from habitat restoration: Influence of landscape position on economic benefits to pheasant hunters",
+   "authors": [
+    "S. Knoche",
+    "F. Lupi",
+    "A. Suiter"
+   ],
+   "year": 2015,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Valuing recreational fishing quality at rivers and streams",
+   "authors": [
+    "R. Melstrom",
+    "F. Lupi",
+    "P. Esselman",
+    "R. J. Stevenson"
+   ],
+   "year": 2015,
+   "venue": "Water Resources Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Agricultural landowners' willingness to participate in a filter strip program for watershed protection",
+   "authors": [
+    "F. Yeboah",
+    "F. Lupi",
+    "M. Kaplowitz"
+   ],
+   "year": 2015,
+   "venue": "Land Use Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Landscape prediction and mapping of game fish biomass, an ecosystem service of Michigan rivers",
+   "authors": [
+    "P. Esselman",
+    "R. Stevenson",
+    "F. Lupi",
+    "C. Riseng",
+    "M. Wiley"
+   ],
+   "year": 2015,
+   "venue": "North American Journal of Fisheries Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Valuing Recreational Fishing in the Great Lakes",
+   "authors": [
+    "R. Melstrom",
+    "F. Lupi"
+   ],
+   "year": 2013,
+   "venue": "North American Journal of Fisheries Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Exploring the Middle Ground between Environmental Protection and Economic Growth",
+   "authors": [
+    "M. Kaplowitz",
+    "F. Lupi",
+    "F. Yeboah",
+    "L. Thorp"
+   ],
+   "year": 2013,
+   "venue": "Public Understanding of Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Estimating the Demand for Drop-Off Recycling Sites: A Random Utility Travel Cost Approach",
+   "authors": [
+    "S. Sidique",
+    "F. Lupi",
+    "S. V. Joshi"
+   ],
+   "year": 2013,
+   "venue": "Journal of Environmental Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic Benefits of Publicly Accessible Land for Ruffed Grouse Hunters",
+   "authors": [
+    "S. Knoche",
+    "F. Lupi"
+   ],
+   "year": 2013,
+   "venue": "Journal of Wildlife Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Influence of Energy Alternatives and Carbon Emissions on an Institution's Green Reputation",
+   "authors": [
+    "T. Komarek",
+    "F. Lupi",
+    "M. Kaplowitz",
+    "L. Thorp"
+   ],
+   "year": 2013,
+   "venue": "Journal of Environmental Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Agent-based modeling of the effects of social norms on enrollment in Payments for Ecosystem Services",
+   "authors": [
+    "X. Chen",
+    "F. Lupi",
+    "L. An",
+    "R. Sheely",
+    "A. Vina",
+    "J. Liu"
+   ],
+   "year": 2012,
+   "venue": "Ecological Modelling",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Local markets for payments for environmental services: Can small rural communities self-finance watershed protection?",
+   "authors": [
+    "M. Kaplowitz",
+    "F. Lupi",
+    "O. Arrello"
+   ],
+   "year": 2012,
+   "venue": "Water Resources Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Farmers' Willingness to Participate in Payment-for-Environmental-Services Programs",
+   "authors": [
+    "S. Ma",
+    "S. Swinton",
+    "F. Lupi",
+    "C. Jolejole-Foreman"
+   ],
+   "year": 2012,
+   "venue": "Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Stakeholder Preferences for Best Management Practices for Non-Point Source Pollution and Stormwater Control",
+   "authors": [
+    "M. Kaplowitz",
+    "F. Lupi"
+   ],
+   "year": 2012,
+   "venue": "Landscape and Urban Planning",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Effect of Invitation Design on Web Survey Response Rates",
+   "authors": [
+    "M. Kaplowitz",
+    "F. Lupi",
+    "M. Couper",
+    "L. Thorp"
+   ],
+   "year": 2012,
+   "venue": "Social Science Computer Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Economic Value of Publicly Accessible Deer Hunting Land",
+   "authors": [
+    "S. Knoche",
+    "F. Lupi"
+   ],
+   "year": 2012,
+   "venue": "Journal of Wildlife Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Valuing Energy Policy Attributes for Environmental Management: Choice Experiment Evidence from a Research Institution",
+   "authors": [
+    "T. Komarek",
+    "F. Lupi",
+    "M. Kaplowitz"
+   ],
+   "year": 2011,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Farmer Demand for Financial Record-Keeping System Attributes",
+   "authors": [
+    "C. Wolf",
+    "F. Lupi",
+    "S. Harsh"
+   ],
+   "year": 2011,
+   "venue": "Agricultural Finance Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Stated choice experiments with complex ecosystem changes: The effect of information formats on estimated variances and choice parameters",
+   "authors": [
+    "J. Hoehn",
+    "F. Lupi",
+    "M. Kaplowitz"
+   ],
+   "year": 2010,
+   "venue": "Journal of Agricultural and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economics of Managing and Controlling Invasive Species",
+   "authors": [
+    "R. Horan",
+    "F. Lupi"
+   ],
+   "year": 2010,
+   "venue": "Resource and Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Using Cost-Effective Targeting to Enhance the Efficiency of Conservation Investments in Payments for Ecosystem Services",
+   "authors": [
+    "X. Chen",
+    "F. Lupi",
+    "A. Vina",
+    "G. He",
+    "J. Liu"
+   ],
+   "year": 2010,
+   "venue": "Conservation Biology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Time and Money Invested in Off-Season Deer Hunting Activities",
+   "authors": [
+    "S. Knoche",
+    "F. Lupi"
+   ],
+   "year": 2010,
+   "venue": "Human Dimensions of Wildlife",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Factors influencing the rate of recycling: An analysis of Minnesota counties",
+   "authors": [
+    "S. Sidique",
+    "S. Joshi",
+    "F. Lupi"
+   ],
+   "year": 2010,
+   "venue": "Resources, Conservation, and Recycling",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Understanding Adoption of Livestock Health Management Practices: The Case of Bovine Leukosis Virus",
+   "authors": [
+    "B. Gramig",
+    "C. Wolf",
+    "F. Lupi"
+   ],
+   "year": 2010,
+   "venue": "Canadian Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Effects of Behaviors and Attitude on Drop-off Recycling Activities",
+   "authors": [
+    "S. Sidique",
+    "F. Lupi",
+    "S. Joshi"
+   ],
+   "year": 2010,
+   "venue": "Resources, Conservation, and Recycling",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Linking social norms to efficient conservation investment in payments for ecosystem services",
+   "authors": [
+    "X. Chen",
+    "F. Lupi",
+    "G. He",
+    "J. Liu"
+   ],
+   "year": 2009,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Relating Tradable Credits for Biodiversity to Sustainability Criteria at a Landscape-Scale",
+   "authors": [
+    "D. Bruggeman",
+    "M. Jones",
+    "K. Scribner",
+    "F. Lupi"
+   ],
+   "year": 2009,
+   "venue": "Landscape Ecology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Factors affecting land reconversion plans following a payment for ecosystem service program",
+   "authors": [
+    "X. Chen",
+    "F. Lupi",
+    "G. He",
+    "Z. Ouyang",
+    "J. Liu"
+   ],
+   "year": 2009,
+   "venue": "Biological Conservation",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Payment for environmental services: estimating demand within a tropical watershed",
+   "authors": [
+    "D. Ortega-Pacheco",
+    "F. Lupi",
+    "M. Kaplowitz"
+   ],
+   "year": 2009,
+   "venue": "Journal of Natural Resource Policy Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Split-sample tests of 'no opinion' responses in an attribute based choice model",
+   "authors": [
+    "E. Fenichel",
+    "F. Lupi",
+    "J. Hoehn",
+    "M. Kaplowitz"
+   ],
+   "year": 2009,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Wetland mitigation banking: The banker's perspective",
+   "authors": [
+    "M. Kaplowitz",
+    "F. Lupi",
+    "D. Bailey"
+   ],
+   "year": 2008,
+   "venue": "Journal of Soil and Water Conservation",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Valuing Deer Hunting Services from Farm Landscapes",
+   "authors": [
+    "S. Knoche",
+    "F. Lupi"
+   ],
+   "year": 2007,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Socioeconomic Consequences of Mercury Use and Pollution",
+   "authors": [
+    "E. Swain",
+    "P. Jakus",
+    "G. Rice",
+    "F. Lupi",
+    "P. Maxson",
+    "J. Pacyna",
+    "A. Penn",
+    "S. Spiegel",
+    "M. Veiga"
+   ],
+   "year": 2007,
+   "venue": "AMBIO",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Ecosystem services and agriculture: Cultivating agricultural ecosystems for diverse benefits",
+   "authors": [
+    "S. M. Swinton",
+    "F. Lupi",
+    "G. P. Robertson",
+    "S. K. Hamilton"
+   ],
+   "year": 2007,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "What does the public know about wetlands in Michigan? Using focus groups for scoping and exploratory research",
+   "authors": [
+    "M. D. Kaplowitz",
+    "F. Lupi",
+    "J. P. Hoehn"
+   ],
+   "year": 2007,
+   "venue": "Michigan Academician",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Environmental Constraints on Hydropower: An Ex-Post Benefit-Cost Analysis of Dam Relicensing in Michigan",
+   "authors": [
+    "M. Kotchen",
+    "M. Moore",
+    "F. Lupi",
+    "E. Rutherford"
+   ],
+   "year": 2006,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Ecosystem Services from Agriculture: Looking Beyond the Usual Suspects",
+   "authors": [
+    "S. Swinton",
+    "F. Lupi",
+    "P. Robertson",
+    "D. Landis"
+   ],
+   "year": 2006,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Comparing Urban and Rural Perceptions of and Familiarity with the Management of Forest Ecosystems",
+   "authors": [
+    "L. A. Racevskis",
+    "F. Lupi"
+   ],
+   "year": 2006,
+   "venue": "Society and Natural Resources",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Nutrient Loading and Efficiency of Tilapia Cage Culture in Taal Lake, Philippines",
+   "authors": [
+    "A. Vista",
+    "P. Norris",
+    "F. Lupi",
+    "R. Bernsten"
+   ],
+   "year": 2006,
+   "venue": "The Philippine Agricultural Scientist",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Local Spatial Modeling of White-Tailed Deer Distributions",
+   "authors": [
+    "H. Shi",
+    "E. J. Laurent",
+    "J. LeBouton",
+    "L. Racevskis",
+    "K. R. Hall",
+    "M. Donovan",
+    "R. V. Doepker",
+    "M. B. Walters",
+    "F. Lupi",
+    "J. Liu"
+   ],
+   "year": 2006,
+   "venue": "Ecological Modelling",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic Incentives for Controlling Trade-Related Biological Invasions in the Great Lakes",
+   "authors": [
+    "R. Horan",
+    "F. Lupi"
+   ],
+   "year": 2005,
+   "venue": "Agricultural and Resource Economics Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Landscape Equivalency Analysis: Methodology for Estimating Spatially Explicit Biodiversity Credits",
+   "authors": [
+    "D. Bruggeman",
+    "M. Jones",
+    "F. Lupi",
+    "K. Scribner"
+   ],
+   "year": 2005,
+   "venue": "Environmental Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Tradable risk permits to prevent future introductions of alien invasive species into the Great Lakes",
+   "authors": [
+    "R. Horan",
+    "F. Lupi"
+   ],
+   "year": 2005,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Color Photographs and Mail Survey Response Rates",
+   "authors": [
+    "M. Kaplowitz",
+    "F. Lupi"
+   ],
+   "year": 2004,
+   "venue": "International Journal of Public Opinion Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Multiple-methods for developing and evaluating a stated preference survey for valuing wetland ecosystems",
+   "authors": [
+    "M. Kaplowitz",
+    "F. Lupi",
+    "J. Hoehn"
+   ],
+   "year": 2004,
+   "venue": "Questionnaire Development, Evaluation, and Testing Methods (Wiley, book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Using an Economic Model of Recreational Fishing to Evaluate Benefits of Sea Lamprey Control on the St. Marys River",
+   "authors": [
+    "F. Lupi",
+    "J. Hoehn",
+    "G. Christie"
+   ],
+   "year": 2003,
+   "venue": "Journal of Great Lakes Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Untying a Lancastrian Bundle: Ecosystem Valuation in Wetland Mitigation",
+   "authors": [
+    "J. P. Hoehn",
+    "F. Lupi",
+    "M. D. Kaplowitz"
+   ],
+   "year": 2003,
+   "venue": "Journal of Environmental Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Recommendations for Assessing Sea Lamprey Damages: Toward Optimizing the Control Program in the Great Lakes",
+   "authors": [
+    "T. J. Stewart",
+    "J. Bence",
+    "R. Bergstedt",
+    "M. Ebener",
+    "F. Lupi",
+    "M. Rutter"
+   ],
+   "year": 2003,
+   "venue": "Journal of Great Lakes Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Uses of resource economics in managing Great Lakes fisheries",
+   "authors": [
+    "F. Lupi",
+    "D. Jester"
+   ],
+   "year": 2002,
+   "venue": "Sustaining North American Salmon (American Fisheries Society, book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Farming Captive Cervids: A Review of Social, Economic, and Ecological Opportunities and Risks in Michigan and North America",
+   "authors": [
+    "T. G. Coon",
+    "H. Campa III",
+    "A. B. Felix",
+    "R. B. Peyton",
+    "S. R. Winterstein",
+    "F. Lupi",
+    "M. Schulz",
+    "J. Sikarskie"
+   ],
+   "year": 2002,
+   "venue": "Transactions of the North American Wildlife and Natural Resources Conference",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Economic Equivalency of Drained and Restored Wetlands in Michigan",
+   "authors": [
+    "F. Lupi",
+    "M. D. Kaplowitz",
+    "J. P. Hoehn"
+   ],
+   "year": 2002,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Biological pollution prevention strategies under ignorance: The case of invasive species",
+   "authors": [
+    "R. Horan",
+    "C. Perrings",
+    "F. Lupi",
+    "E. Bulte"
+   ],
+   "year": 2002,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Modeling the Switch from Fuelwood to Electricity: Implications for the Conservation of Giant Panda Habitat",
+   "authors": [
+    "L. An",
+    "F. Lupi",
+    "J. Liu",
+    "M. Linderman",
+    "J. Huang"
+   ],
+   "year": 2002,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Effect of Modeling Substitute Activities on Recreational Benefit Estimates",
+   "authors": [
+    "C. A. Jones",
+    "F. Lupi"
+   ],
+   "year": 2000,
+   "venue": "Marine Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An empirical assessment of multinomial probit and logit models for recreation demand",
+   "authors": [
+    "H. Chen",
+    "F. Lupi",
+    "J. Hoehn"
+   ],
+   "year": 1999,
+   "venue": "Valuing Recreation and the Environment (Edward Elgar, book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Using Partial Site Aggregation to Reduce Bias in Random Utility Travel Cost Models",
+   "authors": [
+    "F. Lupi",
+    "P. Feather"
+   ],
+   "year": 1998,
+   "venue": "Water Resources Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Predicting the Effects of Market Reform in Zimbabwe: A Stated Preference Approach",
+   "authors": [
+    "L. Rubey",
+    "F. Lupi"
+   ],
+   "year": 1997,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Estimating Consumer Response to Food Market Reform Using Stated Preference Data: Evidence from Eastern and Southern Africa",
+   "authors": [
+    "T. S. Jayne",
+    "L. Rubey",
+    "F. Lupi",
+    "D. Tschirley",
+    "M. T. Weber"
+   ],
+   "year": 1996,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Should single and multiple day trips be pooled when estimating travel cost models?",
+   "authors": [
+    "E. English",
+    "K. E. McConnell",
+    "R. von Haefen",
+    "F. Lupi"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A multisite zonal travel cost model of recreational damages from the Deepwater Horizon Oil Spill with intercept data",
+   "authors": [
+    "R. von Haefen",
+    "E. English",
+    "T. McConnell",
+    "J. Herriges",
+    "F. Lupi"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Estimating economic damages of water quality warnings in the Great Lakes",
+   "authors": [
+    "G. Boudreaux",
+    "F. Lupi",
+    "B. Sohngen",
+    "A. Xu"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Thomas Fire and the effect of wildfires on the value of recreation services in Southern California",
+   "authors": [
+    "C. Garnache",
+    "F. Lupi"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Estimating the impact of fires on recreation in the Angeles National Forest using combined revealed and stated preference methods",
+   "authors": [
+    "S. Tanner",
+    "F. Lupi",
+    "C. Garnache"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Differential effects of wildfires on housing prices: Do risk zones convey information to homeowners?",
+   "authors": [
+    "S. Tanner",
+    "C. Garnache",
+    "F. Lupi"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Why do sustainably-certified coffee cooperatives cease operations?",
+   "authors": [
+    "E. Ansah"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Estimating recreation demand with incomplete trip location information",
+   "authors": [
+    "H. Kim",
+    "F. Lupi",
+    "J. A. Herriges"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

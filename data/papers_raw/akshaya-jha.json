@@ -1,0 +1,309 @@
+{
+ "slug": "akshaya-jha",
+ "name": "Akshaya Jha",
+ "sources": [
+  "https://www.dropbox.com/scl/fi/s3xujkstqf058p6pkvsph/Akshaya_Jha_CV_Website.pdf (CV updated Aug 2026)"
+ ],
+ "collected": "2026-10-25",
+ "notes": "From CV (Aug 2026) only; homepage not fetched. CV only gives \"(with X, Y)\", so authors are listed alphabetically by surname per convention (true byline order not shown). Blackouts (AEJ:EP) is \"conditionally accepted\" -> marked 修改重投. Unpublished WP years = CV date (2026). Skipped work in progress.",
+ "papers": [
+  {
+   "title": "Effects of Uber and Lyft on Jobs, Wages and GDP",
+   "authors": [
+    "Daniel Armanios",
+    "Connor R. Forsythe",
+    "Akshaya Jha",
+    "Adam Koling",
+    "Jeremy J. Michalek"
+   ],
+   "year": 2026,
+   "venue": "Nature Cities",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Blackouts: The Role of India's Wholesale Electricity Market",
+   "authors": [
+    "Fiona Burlig",
+    "Akshaya Jha",
+    "Louis Preonas"
+   ],
+   "year": 2026,
+   "venue": "American Economic Journal: Economic Policy",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Externalities of Policy-Induced Scrappage: The Case of Automotive Safety Inspections",
+   "authors": [
+    "Connor R. Forsythe",
+    "Akshaya Jha",
+    "Jeremy J. Michalek",
+    "Kate S. Whitefoot"
+   ],
+   "year": 2026,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Instrumental Variables Regression for Criminological Research",
+   "authors": [
+    "Akshaya Jha",
+    "Daniel S. Nagin"
+   ],
+   "year": 2026,
+   "venue": "Annual Review of Criminology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Impact of Air Pollution on Petcare Utilization",
+   "authors": [
+    "Olivier Deschenes",
+    "Stephen Jarvis",
+    "Akshaya Jha",
+    "Alan D. Radford"
+   ],
+   "year": 2025,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Polluting Public Funds: The Effect of Environmental Regulations on Municipal Bonds",
+   "authors": [
+    "Akshaya Jha",
+    "Stephen A. Karolyi",
+    "Nicholas Z. Muller"
+   ],
+   "year": 2026,
+   "venue": "Management Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Social Life Cycle Impacts of Power Plant Siting in the Historical United States",
+   "authors": [
+    "Karen Clay",
+    "Danae Hernandez-Cortes",
+    "Akshaya Jha",
+    "Joshua Lewis",
+    "Noah Miller",
+    "Edson Severnini"
+   ],
+   "year": 2026,
+   "venue": "Environmental and Energy Policy and the Economy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Carbon Rollercoaster: A Historical Analysis of Decarbonization in the United States",
+   "authors": [
+    "Karen Clay",
+    "Akshaya Jha",
+    "Joshua Lewis",
+    "Edson Severnini"
+   ],
+   "year": 2025,
+   "venue": "Journal of Economic Perspectives",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Start-up Costs and Market Power: Lessons from the Renewable Energy Transition",
+   "authors": [
+    "Akshaya Jha",
+    "Gordon Leslie"
+   ],
+   "year": 2025,
+   "venue": "American Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Evaluation of the Winter Pollution Mitigation Policy in China",
+   "authors": [
+    "Akshaya Jha",
+    "Mengjia Ren"
+   ],
+   "year": 2024,
+   "venue": "Economics of Energy & Environmental Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Can Forward Commodity Markets Improve Spot Market Performance? Evidence from Wholesale Electricity",
+   "authors": [
+    "Akshaya Jha",
+    "Frank A. Wolak"
+   ],
+   "year": 2023,
+   "venue": "American Economic Journal: Economic Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "U.S. Embassy Air Quality Tweets Led to Global Health Benefits",
+   "authors": [
+    "Akshaya Jha",
+    "Andrea La Nauze"
+   ],
+   "year": 2022,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Private and External Costs of Germany's Nuclear Phase-Out",
+   "authors": [
+    "Olivier Deschenes",
+    "Stephen Jarvis",
+    "Akshaya Jha"
+   ],
+   "year": 2022,
+   "venue": "Journal of the European Economic Association",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Regulatory Induced Risk Aversion in Coal Contracting at U.S. Power Plants: Implications for Environmental Policy",
+   "authors": [
+    "Akshaya Jha"
+   ],
+   "year": 2022,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Considering the Nuclear Option: Hidden Benefits and Social Costs of Nuclear Power in the U.S. Since 1970",
+   "authors": [
+    "David Adler",
+    "Akshaya Jha",
+    "Edson Severnini"
+   ],
+   "year": 2020,
+   "venue": "Resource and Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Does Environmental Policy Affect Income Inequality? Evidence from the Clean Air Act",
+   "authors": [
+    "Akshaya Jha",
+    "Peter H. Matthews",
+    "Nicholas Z. Muller"
+   ],
+   "year": 2019,
+   "venue": "AEA Papers and Proceedings",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economics and Externalities of Moving Crude Oil by Pipelines and Railroads: Evidence from the Bakken Formation",
+   "authors": [
+    "Karen Clay",
+    "Akshaya Jha",
+    "Nicholas Z. Muller",
+    "Randall Walsh"
+   ],
+   "year": 2019,
+   "venue": "The Energy Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Local Air Pollution Cost of Coal Storage and Handling: Evidence from U.S. Power Plants",
+   "authors": [
+    "Akshaya Jha",
+    "Nicholas Z. Muller"
+   ],
+   "year": 2018,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Superintendent's Dilemma: Managing School District Capacity as Parents Vote with Their Feet",
+   "authors": [
+    "Dennis Epple",
+    "Akshaya Jha",
+    "Holger Sieg"
+   ],
+   "year": 2018,
+   "venue": "Quantitative Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Does Environmental Policy Affect Scaling Laws between Population and Pollution? Evidence from American Metropolitan Areas",
+   "authors": [
+    "Akshaya Jha",
+    "Nicholas Z. Muller"
+   ],
+   "year": 2017,
+   "venue": "PLOS ONE",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Dynamic Regulatory Distortions: Coal Procurement at U.S. Power Plants",
+   "authors": [
+    "Akshaya Jha"
+   ],
+   "year": 2026,
+   "venue": "Quantitative Economics",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Impacts of the Clean Air Act on the Power Sector from 1938-1994: Anticipation and Adaptation",
+   "authors": [
+    "Karen Clay",
+    "Akshaya Jha",
+    "Joshua Lewis",
+    "Edson Severnini"
+   ],
+   "year": 2026,
+   "venue": "NBER Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Health Costs of Coal-Fired Power Plants in India",
+   "authors": [
+    "Geoffrey Barrows",
+    "Teevrat Garg",
+    "Akshaya Jha"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

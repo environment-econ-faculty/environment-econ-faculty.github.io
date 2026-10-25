@@ -1,0 +1,1768 @@
+{
+ "slug": "madhu-khanna",
+ "name": "Madhu Khanna",
+ "sources": [
+  "https://ws.engr.illinois.edu/directory/getfile.asp?id=569"
+ ],
+ "collected": "2026-10-25",
+ "notes": "Source is Khanna's CV (.doc) on UIUC directory; its content ends in early 2018 (latest entries 2018; two 'accepted pending minor revisions' marked forthcoming), so 2019+ papers are absent. Author names given as initials as in CV. Included refereed journal articles and book chapters; skipped Choices articles, a reply/comment, reports, proceedings. Years of a few entries inferred from CV text (reprint notes); chapter venues are book titles.",
+ "papers": [
+  {
+   "title": "Sustaining our Natural Resources in the Face of Increasing Societal Demands on Agriculture: Directions for Future Research 40 (1), 38-5",
+   "authors": [
+    "M. Khanna",
+    "S.M. Swinton",
+    "K.D. Messer"
+   ],
+   "year": 2018,
+   "venue": "Applied Economic Perspectives and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Multi-criterion Optimal Electric Drive Vehicle Selection Based on Lifecycle Emission and Lifecycle Cost",
+   "authors": [
+    "P. Ahmadi",
+    "X. Cai",
+    "M. Khanna"
+   ],
+   "year": 2018,
+   "venue": "Energy Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Corporate Social Responsibility Rules in India",
+   "authors": [
+    "S. Bansal",
+    "M. Khanna",
+    "S. Jain"
+   ],
+   "year": 2018,
+   "venue": "Economic and Political Weekly",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Spatial Distribution of Welfare Costs of Renewable Portfolio Standards in the United States Electricity Sector",
+   "authors": [
+    "A.C. Oliver",
+    "M. Khanna"
+   ],
+   "year": 2018,
+   "venue": "Letters in Spatial and Resource Sciences",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Integration of Economic and Biophysical Process Models to Examine the Potential Water Impacts of U.S. Biofuels",
+   "authors": [
+    "J. Teter",
+    "S. Yeh",
+    "M. Khanna",
+    "G. Berndes",
+    "X. Chen"
+   ],
+   "year": 2018,
+   "venue": "PLoS One",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Motivations to Grow Energy Crops: The Role of Crop and Contract Attributes",
+   "authors": [
+    "M. Khanna",
+    "J. J. Louviere",
+    "X. Yang"
+   ],
+   "year": 2017,
+   "venue": "Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Demand for Biomass to Meet Renewable Energy Targets in the US: Implications for Land Use",
+   "authors": [
+    "A.C. Oliver",
+    "M. Khanna"
+   ],
+   "year": 2017,
+   "venue": "Global Change Biology Bioenergy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Inducing Pollution Prevention Adoption: Effectiveness of the 33/50 Voluntary Environmental Program",
+   "authors": [
+    "X. Bi",
+    "M. Khanna"
+   ],
+   "year": 2017,
+   "venue": "Journal of Environmental Planning and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Costs of Meeting a Cellulosic Biofuel Mandate with Perennial Energy Crops: Implications for Policy",
+   "authors": [
+    "R. Miao",
+    "M. Khanna"
+   ],
+   "year": 2017,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Social Inefficiency of Regulating Indirect Land Use Change due to Biofuels",
+   "authors": [
+    "M. Khanna",
+    "W. Wang",
+    "T. Hudiburg",
+    "E. DeLucia"
+   ],
+   "year": 2017,
+   "venue": "Nature Communications",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "What Is the Cost of a Renewable Energy-Based Approach to Greenhouse Gas Mitigation?",
+   "authors": [
+    "A.C. Oliver",
+    "M. Khanna"
+   ],
+   "year": 2017,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Is Forest Bioenergy Carbon Neutral or Worse than Coal? Implications of Carbon Accounting Methods",
+   "authors": [
+    "M. Khanna",
+    "P. Dwivedi",
+    "R. Abt"
+   ],
+   "year": 2017,
+   "venue": "International Review of Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Effectiveness of the Biomass Crop Assistance Program: Roles of Behavioral Factors, Credit Constraint, and Program Design 39 (4), 584-608, 2017",
+   "authors": [
+    "R. Miao",
+    "M. Khanna"
+   ],
+   "year": 2017,
+   "venue": "Applied Economic Perspectives and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Innovation in Agriculture: Incentives for Adoption and Development of a Supply Chain for Energy Crops",
+   "authors": [
+    "M. Khanna",
+    "D. Zilberman",
+    "R. Miao"
+   ],
+   "year": 2017,
+   "venue": "Book chapter: Handbook of Bioenergy Economics and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Land Use and Greenhouse Gas Implications of Biofuel Policies",
+   "authors": [
+    "X. Chen",
+    "M. Khanna"
+   ],
+   "year": 2017,
+   "venue": "Book chapter: Handbook of Bioenergy Economics and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Contract Farming for Biofuel Feedstocks",
+   "authors": [
+    "X. Du",
+    "M. Khanna",
+    "L. Lu",
+    "X. Yang",
+    "D. Zilberman"
+   ],
+   "year": 2017,
+   "venue": "Book chapter: Handbook of Bioenergy Economics and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Prospects for Biofuel Production in Brazil: Role of Market and Policy Uncertainties",
+   "authors": [
+    "M.P.V. Cicogna",
+    "M. Khanna",
+    "D. Zilberman"
+   ],
+   "year": 2017,
+   "venue": "Book chapter: Handbook of Bioenergy Economics and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Impacts of a 32 Billion Gallon Bioenergy Landscape on Land and Fossil Fuel use in the US",
+   "authors": [
+    "T.W. Hudiburg",
+    "W. Wang",
+    "M. Khanna",
+    "S. P. Long",
+    "P. Dwivedi",
+    "W.J. Parton",
+    "M. Hartmann",
+    "E.H. DeLucia"
+   ],
+   "year": 2016,
+   "venue": "Nature Energy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Responsiveness of Yield and Acreage to Climate and Prices, American Journal of Agricultural Economics, 98(1): 191-211, 2016",
+   "authors": [
+    "R. Miao",
+    "M. Khanna",
+    "H. Huang"
+   ],
+   "year": 2016,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Who Pays and Who Gains from Fuel Policies in Brazil?",
+   "authors": [
+    "M. Khanna",
+    "H. Nunez",
+    "D. Zilberman"
+   ],
+   "year": 2016,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Efficacy of Carbon and Bioenergy Markets in Mitigating Carbon Emissions on Reforested Lands: A Case Study from Southern United States",
+   "authors": [
+    "P. Dwivedi",
+    "M. Khanna",
+    "A. Sharma",
+    "A. Susaeta"
+   ],
+   "year": 2016,
+   "venue": "Forest Policy and Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Biomass feedstock preprocessing and long-distance transportation logistics",
+   "authors": [
+    "T. Lin",
+    "L. F. Rodriguez",
+    "S. Davis",
+    "M. Khanna",
+    "Y. Shastri",
+    "T. Grift",
+    "S. Long",
+    "K. C. Ting"
+   ],
+   "year": 2015,
+   "venue": "Global Change Biology Bioenergy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Cost of Abating Greenhouse Gas Emissions with Cellulosic Ethanol. Environmental Science and Technology",
+   "authors": [
+    "P. Dwivedi",
+    "W. Wang",
+    "T. Hudiburg",
+    "D. Jaiswal",
+    "W. Parton",
+    "S. Long",
+    "E. DeLucia",
+    "M. Khanna"
+   ],
+   "year": 2015,
+   "venue": "Environmental Science and Technology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Mix of First and Second Generation Biofuels to meet Multiple Environmental Objectives: Implications for Policy at a Watershed Scale",
+   "authors": [
+    "M. Housh",
+    "M. Khanna",
+    "X. Cai"
+   ],
+   "year": 2015,
+   "venue": "Water Economics and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Managing Multiple Mandates: A System of Systems Model to Analyze Strategies for Producing Cellulosic Ethanol and Reducing Riverine Nitrate Loads in the Upper Mississippi River Basin",
+   "authors": [
+    "M. Housh",
+    "M. Yaeger",
+    "X. Cai",
+    "G. McIsaac",
+    "M. Khanna",
+    "M. Sivapalan",
+    "Y. Ouyang",
+    "I. Al-Qadi",
+    "A. Jain"
+   ],
+   "year": 2015,
+   "venue": "Environmental Science and Technology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Optimal Mix of Vertical Integration and Contracting for Energy Crops: Effect of Risk Preferences and Land Quality",
+   "authors": [
+    "X. Yang",
+    "N. Paulson",
+    "M. Khanna"
+   ],
+   "year": 2015,
+   "venue": "Applied Economic Perspectives and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Carbon Savings with Transatlantic Trade in Pellets: Accounting for Market-Driven Effects",
+   "authors": [
+    "W. Wang",
+    "P. Dwivedi",
+    "R. Abt",
+    "M. Khanna"
+   ],
+   "year": 2015,
+   "venue": "Environmental Research Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Impacts of Management Practices on Bioenergy Feedstock Yield and Economic Feasibility on Conservation Reserve Program (CRP) Grasslands",
+   "authors": [
+    "E. K. Anderson",
+    "E. Aberle",
+    "C. Chen",
+    "J. Egenolf",
+    "K. Harmoney",
+    "G. Kakani",
+    "R. L. Kallenbach",
+    "M. Khanna",
+    "W. Wang",
+    "D. K. Lee"
+   ],
+   "year": 2015,
+   "venue": "GCB Bioenergy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Is Use of Both Pulpwood and Logging Residues Instead of Only Logging Residues for Bioenergy Development a Viable Carbon Mitigation Strategy?",
+   "authors": [
+    "P. Dwivedi",
+    "R. Bailis",
+    "M. Khanna"
+   ],
+   "year": 2014,
+   "venue": "Bioenergy Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Green Management and the Nature of Pollution Prevention",
+   "authors": [
+    "G. Deltas",
+    "D.R. Harrington",
+    "M. Khanna"
+   ],
+   "year": 2014,
+   "venue": "Applied Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Greenhouse Gas Benefits of Transatlantic Wood Pellet Trade",
+   "authors": [
+    "P. Dwivedi",
+    "M. Khanna",
+    "R. Bailis",
+    "A. Ghilardi"
+   ],
+   "year": 2014,
+   "venue": "Environmental Research Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Globalization and Voluntary Environmental Management in Developing Countries",
+   "authors": [
+    "M. Khanna",
+    "Y. Liao"
+   ],
+   "year": 2014,
+   "venue": "Frontiers of Economics in China",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Carbon Abatement in the Fuel Market with Biofuels: Implications for Second-Best Policies",
+   "authors": [
+    "C. Crago",
+    "M. Khanna"
+   ],
+   "year": 2014,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Alternative Fuel Standards: Welfare Effects and Climate Benefits",
+   "authors": [
+    "X. Chen",
+    "H. Huang",
+    "M. Khanna",
+    "H. Onal"
+   ],
+   "year": 2014,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Does Pollution Prevention Reduce Toxic Releases? A Dynamic Panel Model",
+   "authors": [
+    "D.R. Harrington",
+    "G. Deltas",
+    "M. Khanna"
+   ],
+   "year": 2014,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Abatement Cost of Wood-Based Energy Products at the Production Level on Afforested and Reforested Lands",
+   "authors": [
+    "P. Dwivedi",
+    "M. Khanna"
+   ],
+   "year": 2014,
+   "venue": "Global Change Biology Bioenergy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Corporate Environmental Strategies in Developing and Transition Economies",
+   "authors": [
+    "D. Earnhart",
+    "M. Khanna",
+    "T.P. Lyon"
+   ],
+   "year": 2014,
+   "venue": "Review of Environmental Economics and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Abatement Cost of GHG Emissions for Wood-based Electricity and Ethanol at Production and Consumption Levels",
+   "authors": [
+    "P. Dwivedi",
+    "M. Khanna"
+   ],
+   "year": 2014,
+   "venue": "PLoS One",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Wood-based Bioenergy Products - Land or Energy Efficient?",
+   "authors": [
+    "P. Dwivedi",
+    "M. Khanna"
+   ],
+   "year": 2014,
+   "venue": "Canadian Journal of Forestry Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Estimates of Biomass Yield for Perennial Bioenergy Grasses in the United States",
+   "authors": [
+    "Y. Song",
+    "A. K. Jain",
+    "W. Landuyt",
+    "H.S. Kheshgi",
+    "M. Khanna"
+   ],
+   "year": 2014,
+   "venue": "Bioenergy Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "System of Systems Model for Analysis of Biofuel Development",
+   "authors": [
+    "M. Housh",
+    "X. Cai",
+    "T. Ng",
+    "G. McIsaac",
+    "Y. Ouyang",
+    "M. Khanna",
+    "M. Sivapalan",
+    "A. Jain",
+    "S. Eckhoff",
+    "S. Gasteyer",
+    "I. Al-Qadi",
+    "Y. Bai",
+    "M. Yaeger",
+    "S. Ma",
+    "Y. Song"
+   ],
+   "year": 2014,
+   "venue": "Journal of Infrastructure Systems",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Adoption and Land Use",
+   "authors": [
+    "D. Zilberman",
+    "M. Khanna",
+    "S. Kaplan",
+    "E. Kim"
+   ],
+   "year": 2014,
+   "venue": "Book chapter: Oxford Handbook of Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Toxics Release Inventory",
+   "authors": [
+    "M. Khanna",
+    "K. Brouhle"
+   ],
+   "year": 2014,
+   "venue": "Book chapter: Environmental and Natural Resource Economics: An Encyclopedia",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Modeling Land Use Change with Biofuels",
+   "authors": [
+    "M. Khanna",
+    "D. Zilberman",
+    "C. Crago"
+   ],
+   "year": 2014,
+   "venue": "Book chapter: Oxford Handbook of Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Can India Meet Biofuel Policy Targets? Implications for Food and Fuel Prices",
+   "authors": [
+    "M. Khanna",
+    "H. Onal",
+    "C. Crago",
+    "K. Mino"
+   ],
+   "year": 2013,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Food vs. Fuel: The Effect of Biofuel Policies",
+   "authors": [
+    "X. Chen",
+    "M. Khanna"
+   ],
+   "year": 2013,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Stacking Low Carbon Policies on the Renewable Fuel Standard: Economic and Greenhouse Gas Implications",
+   "authors": [
+    "H. Huang",
+    "M. Khanna",
+    "H. Onal",
+    "X. Chen"
+   ],
+   "year": 2013,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Assessing Participation in Voluntary Environmental Programmes in the Developing World: The Role of FDI and Export Orientation on ISO14001 Adoption in Thailand, 2013",
+   "authors": [
+    "K. Tambunlertchai",
+    "A. Kontoleon",
+    "M. Khanna"
+   ],
+   "year": 2013,
+   "venue": "Applied Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic, Energy Security and Greenhouse Gas Effects of Biofuels: Implications for Policy",
+   "authors": [
+    "M. Khanna",
+    "X. Chen"
+   ],
+   "year": 2013,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Land Use and Economic Effects of Alternative Biofuel Policies in Brazil and the U.S",
+   "authors": [
+    "H. Nunez",
+    "H. Onal",
+    "M. Khanna"
+   ],
+   "year": 2013,
+   "venue": "Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Motivations for Proactive Environmental Management",
+   "authors": [
+    "M. Khanna",
+    "C. Spier"
+   ],
+   "year": 2013,
+   "venue": "Journal of Sustainability",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Oligopolies with (Somewhat) Environmentally Conscious Consumers: Market Equilibrium and Regulatory Intervention",
+   "authors": [
+    "G. Deltas",
+    "D.R. Harrington",
+    "M. Khanna"
+   ],
+   "year": 2013,
+   "venue": "Journal of Economics and Management Strategy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Voluntary Approaches for Environmental Protection",
+   "authors": [
+    "M. Khanna",
+    "K. Brouhle"
+   ],
+   "year": 2013,
+   "venue": "Book chapter: Encyclopedia of Energy, Natural Resources and Environmental Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Determinants of Participation vs. Consumption in the Swan Eco-Labeled Paper Products Market",
+   "authors": [
+    "K. Brouhle",
+    "M. Khanna"
+   ],
+   "year": 2012,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Explaining the Reductions in Corn Ethanol Processing Costs: Testing Competing Hypothesis",
+   "authors": [
+    "X. Chen",
+    "M. Khanna"
+   ],
+   "year": 2012,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Market-Mediated Effects of Low Carbon Fuel Policies",
+   "authors": [
+    "X. Chen",
+    "M. Khanna"
+   ],
+   "year": 2012,
+   "venue": "AgBio Forum",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic and Institutional Factors Affecting Business Environmental Management",
+   "authors": [
+    "D. Ervin",
+    "J. Wu",
+    "M. Khanna",
+    "C. Jones",
+    "T. Werikla"
+   ],
+   "year": 2012,
+   "venue": "Business Strategy and the Environment",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Land Use and Greenhouse Gas Implications of Biofuels: Role of Technology and Policy",
+   "authors": [
+    "X. Chen",
+    "H. Huang",
+    "M. Khanna"
+   ],
+   "year": 2012,
+   "venue": "Climate Change Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Modeling the Land-use and Greenhouse-gas Implications of Biofuels",
+   "authors": [
+    "M. Khanna",
+    "D. Zilberman"
+   ],
+   "year": 2012,
+   "venue": "Climate Change Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Measuring Indirect Land Use Change with Biofuels: Implications for Policy",
+   "authors": [
+    "M. Khanna",
+    "C.L. Crago"
+   ],
+   "year": 2012,
+   "venue": "Annual Review of Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Stimulating Learning-By-Doing in Advanced Biofuels: Effectiveness of Alternative Policies",
+   "authors": [
+    "X. Chen",
+    "M. Khanna",
+    "S. Yeh"
+   ],
+   "year": 2012,
+   "venue": "Environmental Research Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Meeting the Mandate for Biofuels: Implications for Land Use, Food and Fuel Prices",
+   "authors": [
+    "X. Chen",
+    "H. Huang",
+    "M. Khanna",
+    "H. Onal"
+   ],
+   "year": 2012,
+   "venue": "Book chapter: The Intended & Unintended Effects of U.S. Agricultural & Biotechnology Policies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Supply of Cellulosic Biofuel Feedstocks and Regional Production Patterns",
+   "authors": [
+    "M. Khanna",
+    "X. Chen",
+    "H. Huang",
+    "H. Onal"
+   ],
+   "year": 2011,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economics of Bioenergy Crops for Electricity Generation: Implications for Land Use and Greenhouse Gas Emissions",
+   "authors": [
+    "M. Khanna",
+    "H. Onal",
+    "B. Dhungana",
+    "M. Wander"
+   ],
+   "year": 2011,
+   "venue": "Biomass and Bioenergy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Agave for Tequila and Biofuels: An Economic Assessment and Potential Opportunities",
+   "authors": [
+    "H. Nunez",
+    "L. Rodriguez",
+    "M. Khanna"
+   ],
+   "year": 2011,
+   "venue": "Global Change Biology Bioenergy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Can Biofuels be a Solution to Climate Change? The Implications of Land Use Change Related Emissions for Policy",
+   "authors": [
+    "M. Khanna",
+    "C. Crago",
+    "M. Black"
+   ],
+   "year": 2011,
+   "venue": "Interface Focus",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Land Use and Greenhouse Gas Mitigation Effects of Biofuel Policies",
+   "authors": [
+    "M. Khanna",
+    "X. Chen",
+    "H. Huang",
+    "H. Onal"
+   ],
+   "year": 2011,
+   "venue": "University of Illinois Law Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Fostering Regulatory Compliance: the Role of Environmental Self-Auditing and Audit Policies",
+   "authors": [
+    "M. Khanna",
+    "D. Widyawati"
+   ],
+   "year": 2011,
+   "venue": "Review of Law and Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Corporate Environmental Management and Environmental Efficiency",
+   "authors": [
+    "M. Khanna",
+    "S. Kumar"
+   ],
+   "year": 2011,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Re-assessment of the Impact of EPA's Voluntary 33/50 Program on Toxic Releases",
+   "authors": [
+    "X. Bi",
+    "M. Khanna"
+   ],
+   "year": 2011,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Individual and Institutional Responses to the Drought: the Case of California Agriculture",
+   "authors": [
+    "D. Zilberman",
+    "A. Dinar",
+    "N. MacDougall",
+    "M. Khanna",
+    "C. Brown",
+    "F. Castillo"
+   ],
+   "year": 2011,
+   "venue": "Journal of Contemporary Water Research and Education",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economics of Bioenergy Crops for Electricity Generation: Implications for Land Use and Greenhouse Gases",
+   "authors": [
+    "M. Khanna",
+    "H. Onal",
+    "B. Dhungana",
+    "M. Wander"
+   ],
+   "year": 2011,
+   "venue": "Book chapter: Dynamics, Games and Science II",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Engineering and Economic Evaluation of Quick Germ-Quick Fiber Process for Dry-Grind Ethanol Facilities: Analysis",
+   "authors": [
+    "L. Rodriguez",
+    "C. Li",
+    "M. Khanna",
+    "A. Spaulding",
+    "T. Lin",
+    "S. Eckhoff"
+   ],
+   "year": 2010,
+   "venue": "Bioresource Technology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Engineering and Economic Evaluation of Quick Germ Fiber Process for Dry-Grind Ethanol Facilities: Model Description and Documentation",
+   "authors": [
+    "C. Li",
+    "L. Rodriguez",
+    "M. Khanna",
+    "A. Spaulding",
+    "T. Lin",
+    "S. Eckhoff"
+   ],
+   "year": 2010,
+   "venue": "Bioresource Technology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Integrated Biogeochemical and Economic Analysis of Bioenergy Crops in the Midwestern United States",
+   "authors": [
+    "A. Jain",
+    "M. Khanna",
+    "M. Erickson",
+    "H. Huang"
+   ],
+   "year": 2010,
+   "venue": "Global Change Biology Bioenergy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Competitiveness of Brazilian Sugarcane Ethanol Compared to US Corn Ethanol",
+   "authors": [
+    "C. Crago",
+    "M. Khanna",
+    "J. Barton",
+    "E. Guiliani",
+    "W. Amaral"
+   ],
+   "year": 2010,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Measurement of Environmental Efficiency and Productivity: A Cross Country Analysis",
+   "authors": [
+    "S. Kumar",
+    "M. Khanna"
+   ],
+   "year": 2009,
+   "venue": "Environment and Development Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Sustainability of Food, Energy and Environment with Biofuels",
+   "authors": [
+    "M. Khanna",
+    "G. Hochman",
+    "D. Rajgopal",
+    "S.E. Sexton",
+    "D. Zilberman"
+   ],
+   "year": 2009,
+   "venue": "CAB Reviews",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Adoption of Pollution Prevention Techniques: The Role of Management Systems and Regulatory Pressures",
+   "authors": [
+    "M. Khanna",
+    "G. Deltas",
+    "D.R. Harrington"
+   ],
+   "year": 2009,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Science, Economics and the Design of Agricultural Conservation Programmes in the U.S",
+   "authors": [
+    "M. Khanna",
+    "A. Ando"
+   ],
+   "year": 2009,
+   "venue": "Journal of Environmental Planning and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Voluntary Pollution Reduction Programs, Environmental Management, and Environmental Performance: An Empirical Study",
+   "authors": [
+    "A. G. Sam",
+    "M. Khanna",
+    "R. Innes"
+   ],
+   "year": 2009,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Supply and Demand of Electricity in the Developing World",
+   "authors": [
+    "M. Khanna",
+    "N.D. Rao"
+   ],
+   "year": 2009,
+   "venue": "Annual Review of Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Effectiveness of Voluntary Environmental Initiatives",
+   "authors": [
+    "M. Khanna",
+    "K. Brouhle"
+   ],
+   "year": 2009,
+   "venue": "Book chapter: New Perspectives on Agri-environmental Policies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economics of Soil Carbon Sequestration Through Biomass Crops",
+   "authors": [
+    "M. Khanna",
+    "H. Onal",
+    "B. Dhungana",
+    "M. Wander"
+   ],
+   "year": 2009,
+   "venue": "Book chapter: New Perspectives on Agri-environmental Policies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Meeting Biofuel Targets in Illinois: Implications for Land Use, Greenhouse Gas Emissions and Nitrogen Use",
+   "authors": [
+    "M. Khanna",
+    "H. Onal",
+    "X. Chen",
+    "H. Huang"
+   ],
+   "year": 2009,
+   "venue": "Book chapter: Handbook of Bioenergy Economics and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "US-Brazil Trade in Biofuels: Determinants, Constraints and Implications for Trade Policy",
+   "authors": [
+    "C. Lasco",
+    "M. Khanna"
+   ],
+   "year": 2009,
+   "venue": "Book chapter: Handbook of Bioenergy Economics and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Market and Social Welfare Effects of the Renewable Fuels Standard",
+   "authors": [
+    "A.W. Ando",
+    "M. Khanna",
+    "F. Taheripour"
+   ],
+   "year": 2009,
+   "venue": "Book chapter: Handbook of Bioenergy Economics and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Voluntary Environmental Management: Motivations and Policy Implications",
+   "authors": [
+    "M. Khanna",
+    "C. Jones",
+    "D. Ervin",
+    "P. Koss"
+   ],
+   "year": 2009,
+   "venue": "Book chapter: Voluntary Environmental Programs: A Policy Perspective",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Costs of Producing Miscanthus and Switchgrass for Bioenergy in Illinois",
+   "authors": [
+    "M. Khanna",
+    "B. Dhungana",
+    "J. Clifton-Brown"
+   ],
+   "year": 2008,
+   "venue": "Biomass and Bioenergy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Striving To Be Green: The Adoption Of Total Quality Environmental Management",
+   "authors": [
+    "D. Harrington",
+    "M. Khanna",
+    "G. Deltas"
+   ],
+   "year": 2008,
+   "venue": "Applied Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Welfare Impacts of Alternative Public Policies for Agricultural Pollution Control in an Open Economy: A General Equilibrium Framework",
+   "authors": [
+    "F. Taheripour",
+    "M. Khanna",
+    "C. H. Nelson"
+   ],
+   "year": 2008,
+   "venue": "American Journal Of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Welfare Effects and Unintended Consequences of Ethanol Subsidies",
+   "authors": [
+    "M. Khanna",
+    "A. Ando",
+    "F. Taheripour"
+   ],
+   "year": 2008,
+   "venue": "Review of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Probability Distributions For Carbon Emissions And Atmospheric Response",
+   "authors": [
+    "C. Singer",
+    "T. G. Rethinaraj",
+    "D. Durham",
+    "M. Isik",
+    "T. Kaspar",
+    "M. Khanna",
+    "B. Kuehl",
+    "J. Luo",
+    "W. Quimio",
+    "K. Rajendran",
+    "D. Ramirez",
+    "J. Qiang",
+    "J. Scheffran",
+    "T. Nedjla Tiouririne",
+    "J. Zhang"
+   ],
+   "year": 2008,
+   "venue": "Climatic Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Information and the Provision of Quality-Differentiated Goods",
+   "authors": [
+    "K. Brouhle",
+    "M. Khanna"
+   ],
+   "year": 2007,
+   "venue": "Economic Inquiry",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Motivations for Voluntary Environmental Management",
+   "authors": [
+    "M. Khanna",
+    "P. Koss",
+    "C. Jones",
+    "D. Ervin"
+   ],
+   "year": 2007,
+   "venue": "Policy Studies Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The U.S. 33/50 Voluntary program: Its Design and Effectiveness",
+   "authors": [
+    "M. Khanna"
+   ],
+   "year": 2007,
+   "venue": "Book chapter: Reality Check: The Nature and Performance of Voluntary Environmental Programs",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Science of Targeting within Landscapes and Watersheds to Improve Conservation Effectiveness",
+   "authors": [
+    "T. Walter",
+    "M. Dosskey",
+    "M. Khanna",
+    "J. Miller",
+    "M. Tomer",
+    "J. Wiens"
+   ],
+   "year": 2007,
+   "venue": "Book chapter: Managing Agricultural Landscapes for Environmental Quality",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Effectiveness of the Conservation Reserve Enhancement Program in Illinois",
+   "authors": [
+    "M. Khanna"
+   ],
+   "year": 2006,
+   "venue": "Book chapter: The State of the State of Illinois, 2006",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economics Analysis of Green Payment Policies for Water Quality",
+   "authors": [
+    "M. Khanna",
+    "R.L. Farnsworth"
+   ],
+   "year": 2006,
+   "venue": "Book chapter: Frontiers in Water Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Conservation Capital and Sustainable Economic Growth",
+   "authors": [
+    "D.T. Ramirez",
+    "M. Khanna",
+    "D. Zilberman"
+   ],
+   "year": 2005,
+   "venue": "Oxford Economic Papers",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Is Geographical Targeting Cost-Effective? The Case of the Conservation Reserve Enhancement Program in Illinois",
+   "authors": [
+    "W. Yang",
+    "M. Khanna",
+    "R.L. Farnsworth",
+    "H. Önal"
+   ],
+   "year": 2005,
+   "venue": "Review of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Irrigation Technology Adoption and Gains from Water Trading under Asymmetric Information",
+   "authors": [
+    "C. Dridi",
+    "M. Khanna"
+   ],
+   "year": 2005,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Effectiveness of Conservation Programs in Illinois and Gains from Targeting",
+   "authors": [
+    "W. Yang",
+    "M. Khanna",
+    "R.L. Farnsworth"
+   ],
+   "year": 2005,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Incentives for Environmental Self-Regulation and Implications for Environmental Performance",
+   "authors": [
+    "W.R. Q. Anton",
+    "G. Deltas",
+    "M. Khanna"
+   ],
+   "year": 2004,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Natural Resource Damage Assessment Methods: Lessons in Simplicity from State Trustees",
+   "authors": [
+    "A.W. Ando",
+    "M. Khanna"
+   ],
+   "year": 2004,
+   "venue": "Contemporary Economic Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Effectiveness of Voluntary Approaches: Implications for Climate Change Mitigation",
+   "authors": [
+    "M. Khanna",
+    "D.T. Ramirez"
+   ],
+   "year": 2004,
+   "venue": "Book chapter: Voluntary Agreements in Climate Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Stochastic Technology, Risk Preferences and Adoption of Site-specific Technologies",
+   "authors": [
+    "M. Isik",
+    "M. Khanna"
+   ],
+   "year": 2003,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Cost-Effective Targeting of Land Retirement to Improve Water Quality with Endogenous Sediment Deposition Coefficients",
+   "authors": [
+    "M. Khanna",
+    "W. Yang",
+    "R.L. Farnsworth",
+    "H. Önal"
+   ],
+   "year": 2003,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Integrating Economic, Environmental and GIS Modeling to Target Cost Effective Land Retirement in Multiple Watersheds",
+   "authors": [
+    "W. Yang",
+    "M. Khanna",
+    "R.L. Farnsworth",
+    "H. Önal"
+   ],
+   "year": 2003,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Policies for Carbon Abatement in the Presence of Regulatory Distortions: The Electricity Sector in India",
+   "authors": [
+    "M. Khanna"
+   ],
+   "year": 2003,
+   "venue": "Book chapter: India and Global Climate Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Variable Rate Nitrogen Application under Uncertainty: Implications for Profitability and Nitrogen Use",
+   "authors": [
+    "M. Isik",
+    "M. Khanna"
+   ],
+   "year": 2002,
+   "venue": "Journal of Agricultural and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Cost-Effectiveness of Alternative Green Payment Policies for Conservation Technology Adoption with Heterogeneous Land Quality",
+   "authors": [
+    "M. Khanna",
+    "M. Isik",
+    "D. Zilberman"
+   ],
+   "year": 2002,
+   "venue": "Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Corporate Environmental Management: Regulatory and Market-based Pressures",
+   "authors": [
+    "M. Khanna",
+    "W.R.Q. Anton"
+   ],
+   "year": 2002,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "What is Driving Corporate Environmentalism: Opportunity or Threat?",
+   "authors": [
+    "M. Khanna",
+    "W.R.Q. Anton"
+   ],
+   "year": 2002,
+   "venue": "Corporate Environmental Strategy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Uncertainty and Spatial Variability: Incentives for Variable Rate Technology Adoption in Agriculture",
+   "authors": [
+    "M. Isik",
+    "M. Khanna"
+   ],
+   "year": 2002,
+   "venue": "Risk, Decision and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Sequential Adoption of Site-Specific Technologies and its Implications for Nitrogen Productivity: A Double Selectivity Model",
+   "authors": [
+    "M. Khanna"
+   ],
+   "year": 2001,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic Analysis of Non-Mandatory Approaches to Environmental Protection",
+   "authors": [
+    "M. Khanna"
+   ],
+   "year": 2001,
+   "venue": "Journal of Economic Surveys",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Sequential Investment in Site-Specific Crop Management under Output Price Uncertainty",
+   "authors": [
+    "M. Isik",
+    "M. Khanna",
+    "A. Winter-Nelson"
+   ],
+   "year": 2001,
+   "venue": "Journal of Agricultural and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Adoption of Energy Efficient Technologies and Carbon Abatement: The Electricity Generating Sector in India",
+   "authors": [
+    "M. Khanna",
+    "D. Zilberman"
+   ],
+   "year": 2001,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Environmental Costs and Benefits of Genetically Modified Crops: Implications for Regulatory Strategies",
+   "authors": [
+    "A.W. Ando",
+    "M. Khanna"
+   ],
+   "year": 2000,
+   "venue": "American Behavioral Scientist",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Investment in Site-Specific Crop Management under Uncertainty: Implications for Nitrate Pollution Control and Environmental Policy",
+   "authors": [
+    "M. Khanna",
+    "M. Isik",
+    "A. Winter-Nelson"
+   ],
+   "year": 2000,
+   "venue": "Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Barriers to Energy Efficiency in Electricity Generation in India",
+   "authors": [
+    "M. Khanna",
+    "D. Zilberman"
+   ],
+   "year": 1999,
+   "venue": "The Energy Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Freer Markets and the Abatement of Carbon Emissions: The Electricity-Generating Sector in India",
+   "authors": [
+    "M. Khanna",
+    "D. Zilberman"
+   ],
+   "year": 1999,
+   "venue": "Resource and Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "EPA's Voluntary 33/50 Program: Impact on Toxic Releases and Economic Performance of Firms",
+   "authors": [
+    "M. Khanna",
+    "L. Damon"
+   ],
+   "year": 1999,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Parametric and Semi-Parametric Estimation of the Effect of Firm Attributes on Efficiency: The Electricity Generating Sector in India",
+   "authors": [
+    "M. Khanna",
+    "K. Mundra",
+    "A. Ullah"
+   ],
+   "year": 1999,
+   "venue": "The Journal of International Trade and Economic Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Site Specific Crop Management: Adoption Patterns and Incentives",
+   "authors": [
+    "M. Khanna",
+    "O.F. Epouhe",
+    "R. H. Hornbaker"
+   ],
+   "year": 1999,
+   "venue": "Review of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Agriculture and the Environment: An Economic Perspective with Implications for Nutrition",
+   "authors": [
+    "D. Zilberman",
+    "S.R. Templeton",
+    "M. Khanna"
+   ],
+   "year": 1999,
+   "venue": "Food Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Sustainability, Technology, and Incentives",
+   "authors": [
+    "M. Khanna",
+    "D. Zilberman",
+    "K. Millock"
+   ],
+   "year": 1999,
+   "venue": "Book chapter: Flexible Incentives for the Adoption of Environmental Technologies in Agriculture",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Toxic Release Information: A Policy Tool for Environmental Protection",
+   "authors": [
+    "M. Khanna",
+    "W. Quimio",
+    "D. Bojilova"
+   ],
+   "year": 1998,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Incentives, Precision Technology, and Environmental Quality",
+   "authors": [
+    "M. Khanna",
+    "D. Zilberman"
+   ],
+   "year": 1997,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economics of New Technologies for Sustainable Agriculture",
+   "authors": [
+    "D. Zilberman",
+    "M. Khanna",
+    "L. Lipper"
+   ],
+   "year": 1997,
+   "venue": "Australian Journal of Agricultural and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Changing Nature of Agricultural Markets: Implications for Privatization of Technology, Information Transfer, and the Role of Land-Grant Research and Extension",
+   "authors": [
+    "D. Zilberman",
+    "D. Sunding",
+    "M. Khanna"
+   ],
+   "year": 1997,
+   "venue": "Book chapter: Privatization of Technology and Information Transfer in U.S. Agriculture",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

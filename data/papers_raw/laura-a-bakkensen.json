@@ -1,0 +1,494 @@
+{
+ "slug": "laura-a-bakkensen",
+ "name": "Laura A. Bakkensen",
+ "sources": [
+  "https://www.laurabakkensen.com/research/"
+ ],
+ "collected": "2026-10-25",
+ "notes": "From homepage Research page (current, 2026). Skipped policy white papers, popular press, work in progress; NBER 'Fatal Errors' (w31361) omitted as it appears to be the earlier version of the 2026 PNAS paper (assumption). Book chapters included.",
+ "papers": [
+  {
+   "title": "Operationalizing Cumulative Impacts for Policy",
+   "authors": [
+    "Laura Bakkensen",
+    "Lala Ma",
+    "Lucija Muehlenbachs"
+   ],
+   "year": 2026,
+   "venue": "Review of Environmental Economics and Policy",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Flooding, Housing Prices, and Insurance: Evidence from the United States",
+   "authors": [
+    "Laura Bakkensen",
+    "Hannah Friedrich"
+   ],
+   "year": 2026,
+   "venue": "Annual Review of Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Weather Forecasts Become More Important for Reducing Mortality as the Climate Warms",
+   "authors": [
+    "Jeffrey Shrader",
+    "Stephen Thies",
+    "Laura Bakkensen",
+    "Mark Linsenmeier",
+    "Derek Lemoine"
+   ],
+   "year": 2026,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "\"Do Battle With Insurance\": Post-Hurricane Insurance Litigation in Southwest Louisiana",
+   "authors": [
+    "Hannah Friedrich",
+    "Elizabeth Tellman",
+    "Laura Bakkensen",
+    "Jacob Jurjevich",
+    "Matthew Kear"
+   ],
+   "year": 2026,
+   "venue": "RSF: The Russell Sage Foundation Journal of the Social Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Climate Shocks, Cyclones, and Economic Growth: Bridging the Micro-Macro Gap",
+   "authors": [
+    "Laura Bakkensen",
+    "Lint Barrage"
+   ],
+   "year": 2026,
+   "venue": "The Economic Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Charting the Course: How Does Information about Sea Level Rise Affect the Willingness to Migrate?",
+   "authors": [
+    "Laura Bakkensen",
+    "Quynh Nguyen",
+    "Toan Phan",
+    "Peter Schuler"
+   ],
+   "year": 2025,
+   "venue": "Communications Earth & Environment",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Leveraging the Disagreement on Climate Change: Theory and Evidence",
+   "authors": [
+    "Laura Bakkensen",
+    "Toan Phan",
+    "Tsz-Nga Wong"
+   ],
+   "year": 2025,
+   "venue": "Journal of Political Economy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Cumulative Impacts in Environmental Justice: Insights from Economics and Policy",
+   "authors": [
+    "Laura Bakkensen",
+    "Lala Ma",
+    "Lucija Muehlenbachs",
+    "Laura Benitez"
+   ],
+   "year": 2024,
+   "venue": "Regional Science and Urban Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Creating Sustainable Flood Maps Using Machine Learning and Free Remote Sensing Data in Unmapped Areas",
+   "authors": [
+    "H. L. Venegas-Quinones",
+    "P. Garcia-Chevesich",
+    "R. Valdes-Pineda",
+    "T. Ferre",
+    "H. Gupta",
+    "D. Groenendyk",
+    "J. Valdes",
+    "Laura Bakkensen"
+   ],
+   "year": 2024,
+   "venue": "Sustainability",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Earth Observation to Monitor and Redress Inequitable Post-Flood Recovery",
+   "authors": [
+    "H. Friedrich",
+    "B. Tellman",
+    "J. Sullivan",
+    "A. Saunders",
+    "A. Zuniga-Terran",
+    "Laura Bakkensen",
+    "M. Cawley",
+    "M. Dolk",
+    "R. Emberson",
+    "S. Forrest",
+    "N. Gupta",
+    "N. Gyawali",
+    "C. Hall",
+    "A. Kettner",
+    "J. Sanchez Lozano",
+    "G. Bola"
+   ],
+   "year": 2024,
+   "venue": "Earth's Future",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Challenges in and Opportunities for International Collaboration: Costing Flood Damages and Losses across Canada, Mexico, and the United States",
+   "authors": [
+    "Z. Adeel",
+    "Laura Bakkensen",
+    "O. Cabrera-Rivera",
+    "E. Franco",
+    "G. Garfin",
+    "R. McPherson",
+    "K. Mendez",
+    "X. Wen"
+   ],
+   "year": 2023,
+   "venue": "Bulletin of the American Meteorological Society",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Stakeholder Opinions on the Issues of the Central Arizona Groundwater Replenishment District and Policy Alternatives",
+   "authors": [
+    "R. Bernat",
+    "S. Megdal",
+    "S. Eden",
+    "Laura Bakkensen"
+   ],
+   "year": 2023,
+   "venue": "Water",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Comprehensive Methodology for Evaluating Economic Impacts of Floods: An Application to Canada, Mexico, and the United States",
+   "authors": [
+    "X. Wen",
+    "A. M. Alarcon Ferreira",
+    "L. Rae",
+    "H. Saffari",
+    "Z. Adeel",
+    "Laura Bakkensen",
+    "K. Mendez Estrada",
+    "G. Garfin",
+    "R. McPherson",
+    "E. Vargas"
+   ],
+   "year": 2022,
+   "venue": "Sustainability",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Going Under Water? Flood Risk Belief Heterogeneity and Coastal Home Price Dynamics",
+   "authors": [
+    "Laura Bakkensen",
+    "Lint Barrage"
+   ],
+   "year": 2022,
+   "venue": "The Review of Financial Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Household Sorting as Adaptation to Hurricane Risk in the United States",
+   "authors": [
+    "Q. Fan",
+    "Laura Bakkensen"
+   ],
+   "year": 2022,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Institutional Design for a Complex Commons: Variations in the Design of Credible Commitments and the Provision of Public Goods",
+   "authors": [
+    "E. Schlager",
+    "Laura Bakkensen",
+    "T. Olivier",
+    "J. Hanlon"
+   ],
+   "year": 2021,
+   "venue": "Public Administration",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Developing a Comprehensive Methodology for Evaluating Economic Impacts of Floods in Canada, Mexico, and the United States",
+   "authors": [
+    "Z. Adeel",
+    "A. M. Alarcon",
+    "Laura Bakkensen",
+    "E. Franco",
+    "G. Garfin",
+    "R. McPherson",
+    "K. Mendez",
+    "M. B. Roudaut",
+    "H. Saffari",
+    "X. Wen"
+   ],
+   "year": 2020,
+   "venue": "International Journal of Disaster Risk Reduction",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Sorting Over Flood Risk and Implications for Policy Reform",
+   "authors": [
+    "Laura Bakkensen",
+    "Lala Ma"
+   ],
+   "year": 2020,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Preference for Power: Willingness to Pay for Energy Reliability Versus Fuel Type in Vietnam",
+   "authors": [
+    "Laura Bakkensen",
+    "Peter Schuler"
+   ],
+   "year": 2020,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Flood Risk and Salience: New Evidence from the Sunshine State",
+   "authors": [
+    "Laura Bakkensen",
+    "Xiaozhou Ding",
+    "Lala Ma"
+   ],
+   "year": 2019,
+   "venue": "Southern Economic Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Climate Costs of Tropical Cyclone Losses Depend Also on Rain",
+   "authors": [
+    "Laura Bakkensen",
+    "S. Park",
+    "R. Sarkar"
+   ],
+   "year": 2018,
+   "venue": "Environmental Research Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Impact of Disaster Data on Estimating Damage Determinants and Climate Costs",
+   "authors": [
+    "Laura Bakkensen",
+    "X. Shi",
+    "B. Zurita"
+   ],
+   "year": 2018,
+   "venue": "Economics of Disasters and Climate Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Mediterranean Hurricanes and Associated Damage Estimates",
+   "authors": [
+    "Laura Bakkensen"
+   ],
+   "year": 2017,
+   "venue": "Journal of Extreme Events",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Validating Resilience and Vulnerability Indices in the Context of Natural Disasters",
+   "authors": [
+    "Laura Bakkensen",
+    "C. Fox-Lent",
+    "L. Read",
+    "I. Linkov"
+   ],
+   "year": 2017,
+   "venue": "Risk Analysis",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Is Tropical Cyclone Surge, Not Intensity, What Kills So Many People in South Asia?",
+   "authors": [
+    "N. Seo",
+    "Laura Bakkensen"
+   ],
+   "year": 2017,
+   "venue": "Weather, Climate, and Society",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Risk and Adaptation: Evidence from Global Hurricane Damages and Fatalities",
+   "authors": [
+    "Laura Bakkensen",
+    "Robert Mendelsohn"
+   ],
+   "year": 2016,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Did Adaptation Strategies Work? High Fatalities from Tropical Cyclones in the North Indian Ocean and Future Vulnerability Under Global Warming",
+   "authors": [
+    "N. Seo",
+    "Laura Bakkensen"
+   ],
+   "year": 2016,
+   "venue": "Natural Hazards",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Population Matters When Modeling Hurricane Fatalities",
+   "authors": [
+    "Laura Bakkensen",
+    "W. Larson"
+   ],
+   "year": 2014,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Impact of Climate Change on Global Tropical Cyclone Damage",
+   "authors": [
+    "R. Mendelsohn",
+    "K. Emanuel",
+    "S. Chonabayashi",
+    "Laura Bakkensen"
+   ],
+   "year": 2012,
+   "venue": "Nature Climate Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Student-Perspective Sources of Environmental Learning in South Korea",
+   "authors": [
+    "Laura Bakkensen"
+   ],
+   "year": 2007,
+   "venue": "Journal of the Korean Geographical Society",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Global Trade in CO2 Permits: A Classroom Experiment",
+   "authors": [
+    "D. Hazlett",
+    "Laura Bakkensen"
+   ],
+   "year": 2005,
+   "venue": "Perspectives in Economic Education Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Risk Preferences and Natural Disasters: A Review of Theoretical and Empirical Themes",
+   "authors": [
+    "Laura Bakkensen",
+    "M. Conte"
+   ],
+   "year": 2022,
+   "venue": "Handbook on the Economics of Disasters (Edward Elgar, book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Economics of Tropical Cyclone Adaptation",
+   "authors": [
+    "Laura Bakkensen",
+    "L. Blair"
+   ],
+   "year": 2022,
+   "venue": "Handbook of Behavioral Economics and Climate Change (Edward Elgar, book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Flood Damage Assessments: Theory and Evidence from the United States",
+   "authors": [
+    "Laura Bakkensen",
+    "L. Blair"
+   ],
+   "year": 2020,
+   "venue": "Encyclopedia of Crisis Analysis (Oxford University Press, book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Global Tropical Cyclone Damages and Fatalities Under Climate Change: An Updated Assessment",
+   "authors": [
+    "Laura Bakkensen",
+    "Robert Mendelsohn"
+   ],
+   "year": 2019,
+   "venue": "Hurricane Risk (Springer, book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

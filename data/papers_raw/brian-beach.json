@@ -1,0 +1,275 @@
+{
+ "slug": "brian-beach",
+ "name": "Brian Beach",
+ "sources": [
+  "https://brianbbeach.github.io/Materials/BeachCV.pdf (updated Jan 2026)",
+  "https://brianbbeach.com/research/"
+ ],
+ "collected": "2026-10-25",
+ "notes": "CV (Jan 2026) and research page. Working-paper years not shown for most: Black Newspapers, Land Use Regulation, Constitutional Reform set to 2026 (CV date); Municipalization = NBER W22553 (2016, year from NBER number, not on page); Fetal Origins year 2022 = pre-analysis plan date (work in progress on CV, no draft). Water and Waste listed 2025 on CV (51(3)); page says accepted. Skipped AEA P&P-type 'other writing' VoxEU/VoxDev pieces; kept AEA P&P Segregation paper. No abstracts shown.",
+ "papers": [
+  {
+   "title": "Water and Waste: A History of Reluctant Policymaking in U.S. Cities",
+   "authors": [
+    "Brian Beach"
+   ],
+   "year": 2025,
+   "venue": "Journal of Urban History",
+   "status": "已发表",
+   "url": "https://brianbbeach.github.io/Materials/WP/Beach_Water_Waste.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Racial and Ethnic Representation in Local Government",
+   "authors": [
+    "Brian Beach",
+    "Daniel Jones",
+    "Tate Twinam",
+    "Randall Walsh"
+   ],
+   "year": 2024,
+   "venue": "American Economic Journal: Economic Policy",
+   "status": "已发表",
+   "url": "https://brianbbeach.github.io/Materials/WP/BJTW_MinoRep_Draft_2022_09.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Historical Newspaper Data: A Researcher's Guide",
+   "authors": [
+    "Brian Beach",
+    "Walker Hanlon"
+   ],
+   "year": 2023,
+   "venue": "Explorations in Economic History",
+   "status": "已发表",
+   "url": "https://brianbbeach.github.io/Materials/WP/BH_Newspapers.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Culture and the Historical Fertility Transition",
+   "authors": [
+    "Brian Beach",
+    "Walker Hanlon"
+   ],
+   "year": 2023,
+   "venue": "The Review of Economic Studies",
+   "status": "已发表",
+   "url": "https://brianbbeach.github.io/Materials/WP/Beach_Hanlon_Fertility_Transition.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Re-Evaluating the Long-Term Impact of In Utero Exposure to the 1918 Influenza Pandemic",
+   "authors": [
+    "Brian Beach",
+    "Ryan Brown",
+    "Joseph Ferrie",
+    "Martin Saavedra",
+    "Duncan Thomas"
+   ],
+   "year": 2022,
+   "venue": "Journal of Political Economy",
+   "status": "已发表",
+   "url": "https://brianbbeach.github.io/Materials/Publications/BBFST_Flu_JPE.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Water Infrastructure and Health in U.S. Cities",
+   "authors": [
+    "Brian Beach"
+   ],
+   "year": 2022,
+   "venue": "Regional Science and Urban Economics",
+   "status": "已发表",
+   "url": "https://brianbbeach.github.io/Materials/Publications/Water_and_Health_RSUE.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Recessions, Mortality, and Migration Bias: Evidence from the Lancashire Cotton Famine",
+   "authors": [
+    "Brian Beach",
+    "Vellore Arthi",
+    "Walker Hanlon"
+   ],
+   "year": 2022,
+   "venue": "American Economic Journal: Applied Economics",
+   "status": "已发表",
+   "url": "https://brianbbeach.github.io/Materials/Publications/2022_Cotton_Famine_AEJA.pdf",
+   "abstract": null
+  },
+  {
+   "title": "The 1918 Influenza Pandemic and its Lessons for COVID-19",
+   "authors": [
+    "Brian Beach",
+    "Karen Clay",
+    "Martin Saavedra"
+   ],
+   "year": 2022,
+   "venue": "Journal of Economic Literature",
+   "status": "已发表",
+   "url": "https://brianbbeach.github.io/Materials/Publications/2022_Influenza_JEL.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Segregation and the Initial Provision of Water in the United States",
+   "authors": [
+    "Brian Beach",
+    "John Parman",
+    "Martin Saavedra"
+   ],
+   "year": 2022,
+   "venue": "AEA Papers and Proceedings",
+   "status": "已发表",
+   "url": "https://brianbbeach.github.io/Materials/Publications/2022_Seg_Water_AEA_PP.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Losing by Less? Import Competition, Unemployment Insurance Generosity, and Crime",
+   "authors": [
+    "Brian Beach",
+    "John Lopresti"
+   ],
+   "year": 2019,
+   "venue": "Economic Inquiry",
+   "status": "已发表",
+   "url": "https://brianbbeach.github.io/Materials/Publications/2019_Losing_by_less_EI.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Coal Smoke and Mortality in an Early Industrial Economy",
+   "authors": [
+    "Brian Beach",
+    "Walker Hanlon"
+   ],
+   "year": 2018,
+   "venue": "The Economic Journal",
+   "status": "已发表",
+   "url": "https://brianbbeach.github.io/Materials/Publications/2018_Coal_Smoke_EJ.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Gridlock: Ethnic Diversity in Government and the Provision of Public Goods",
+   "authors": [
+    "Brian Beach",
+    "Daniel Jones"
+   ],
+   "year": 2017,
+   "venue": "American Economic Journal: Economic Policy",
+   "status": "已发表",
+   "url": "https://brianbbeach.github.io/Materials/Publications/2017_Gridlock_AEJP.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Business as Usual: Politicians with Business Experience, Government Finances, and Policy Outcomes",
+   "authors": [
+    "Brian Beach",
+    "Daniel Jones"
+   ],
+   "year": 2016,
+   "venue": "Journal of Economic Behavior & Organization",
+   "status": "已发表",
+   "url": "https://brianbbeach.github.io/Materials/Publications/2016_Business_as_usual_JEBO.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Typhoid Fever, Water Quality, and Human Capital Formation",
+   "authors": [
+    "Brian Beach",
+    "Joseph Ferrie",
+    "Martin Saavedra",
+    "Werner Troesken"
+   ],
+   "year": 2016,
+   "venue": "The Journal of Economic History",
+   "status": "已发表",
+   "url": "https://brianbbeach.github.io/Materials/Publications/2016_Typhoid_JEH.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Mitigating the Effects of Low Birth Weight: Evidence from Quasi-randomly Assigned Adoptees",
+   "authors": [
+    "Brian Beach",
+    "Martin Saavedra"
+   ],
+   "year": 2015,
+   "venue": "American Journal of Health Economics",
+   "status": "已发表",
+   "url": "https://brianbbeach.github.io/Materials/Publications/2015_MitigatingLBW_AJHE.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Time or Spot? A Reevaluation of Amsterdam Market Data Prior to 1747",
+   "authors": [
+    "Brian Beach",
+    "Stephen Norman",
+    "Douglas Wills"
+   ],
+   "year": 2013,
+   "venue": "Cliometrica",
+   "status": "已发表",
+   "url": "https://brianbbeach.github.io/Materials/Publications/2013_TimeSpot_cliometrica.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Black Newspapers and Partisanship",
+   "authors": [
+    "Brian Beach",
+    "Martin Saavedra",
+    "João Tampellini"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Disease and the Municipalization of Private Waterworks in Nineteenth Century England and Wales",
+   "authors": [
+    "Brian Beach",
+    "Werner Troesken",
+    "Nicola Tynan"
+   ],
+   "year": 2016,
+   "venue": "NBER Working Paper",
+   "status": "工作论文",
+   "url": "https://brianbbeach.github.io/Materials/WP/BTT_Municipalization.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Land Use Regulation and Individual Welfare",
+   "authors": [
+    "Brian Beach",
+    "Tate Twinam"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do Markets Reward Constitutional Reform? Lessons from America's State Debt Crisis",
+   "authors": [
+    "Brian Beach"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://brianbbeach.github.io/Materials/WP/Beach_Constitutions.pdf",
+   "abstract": null
+  },
+  {
+   "title": "The 1918 Influenza Pandemic and the Fetal Origins Hypothesis",
+   "authors": [
+    "Brian Beach",
+    "Douglas Almond",
+    "Martin Saavedra"
+   ],
+   "year": 2022,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

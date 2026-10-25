@@ -1,0 +1,166 @@
+{
+ "slug": "edward-a-rubin",
+ "name": "Edward A. Rubin",
+ "sources": [
+  "https://edrub.in/cv.html"
+ ],
+ "collected": "2026-10-25",
+ "notes": "From CV page (2026). Gun policy paper listed with 2026, vol 261. 'Research in progress' skipped. Working paper years not given on CV: set to 2026 (CV date). Baylis-Borenstein-Rubin is R&R at JEBO.",
+ "papers": [
+  {
+   "title": "Gun policy and the steel paradox",
+   "authors": [
+    "Katie Bollman",
+    "Benjamin Hansen",
+    "Edward Rubin",
+    "Garrett Stanford"
+   ],
+   "year": 2026,
+   "venue": "Journal of Public Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Glyphosate exposure and GM seed rollout unequally reduced perinatal health",
+   "authors": [
+    "Emmett Reynier",
+    "Edward Rubin"
+   ],
+   "year": 2025,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Downwind and Out: The Strategic Dispersion of Power Plants and Their Pollution",
+   "authors": [
+    "John Morehouse",
+    "Edward Rubin"
+   ],
+   "year": 2025,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Customer Discrimination in the Workplace: Evidence from Online Sales",
+   "authors": [
+    "Erin Kelley",
+    "Gregory Lane",
+    "Matthew Pecenco",
+    "Edward Rubin"
+   ],
+   "year": 2025,
+   "venue": "Journal of Labor Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Strategic Shutdowns of Air Quality Monitors: Evidence from Jersey City and Across the U.S.",
+   "authors": [
+    "Yingfei Mu",
+    "Edward Rubin",
+    "Eric Zou"
+   ],
+   "year": 2024,
+   "venue": "The Review of Economics and Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Quantifying heterogeneity in the price elasticity of residential natural gas",
+   "authors": [
+    "Edward Rubin",
+    "Maximilian Auffhammer"
+   ],
+   "year": 2024,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Economic Impact of Critical Habitat Designation: Evidence from Vacant-Land Transactions",
+   "authors": [
+    "Maximilian Auffhammer",
+    "Maya Duru",
+    "Edward Rubin",
+    "David L. Sunding"
+   ],
+   "year": 2020,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Bringing Satellite-Based Air-Quality Estimates Down to Earth",
+   "authors": [
+    "Meredith Fowlie",
+    "Edward Rubin",
+    "Reed Walker"
+   ],
+   "year": 2019,
+   "venue": "AEA Papers and Proceedings",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Data Science for Public Policy (book)",
+   "authors": [
+    "Jeffrey Chen",
+    "Edward Rubin",
+    "Gary Cornwall"
+   ],
+   "year": 2021,
+   "venue": "Springer",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "When we change the clock, does the clock change us?",
+   "authors": [
+    "Patrick Baylis",
+    "Severin Borenstein",
+    "Edward Rubin"
+   ],
+   "year": 2026,
+   "venue": "Journal of Economic Behavior & Organization",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Who flees wildfire smoke? Income and racial disparities in temporary relocation",
+   "authors": [
+    "M. Steven Holloway",
+    "Edward Rubin"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "What can we machine learn (too much of) in 2SLS? Insights from a bias decomposition",
+   "authors": [
+    "Connor Lennon",
+    "Edward Rubin",
+    "Glen Waddell"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

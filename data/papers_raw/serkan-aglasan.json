@@ -1,0 +1,271 @@
+{
+ "slug": "serkan-aglasan",
+ "name": "Serkan Aglasan",
+ "sources": [
+  "https://economics.arizona.edu/sites/default/files/Aglasan_CV_2025_1.pdf",
+  "https://serkanaglasan.wixsite.com/mysite/research"
+ ],
+ "collected": "2026-10-25",
+ "notes": "Source: CV 2025 (17 published/forthcoming papers; no working papers listed in CV or on homepage research page, which lists only 12 published papers). CV abbreviates long author lists with an ellipsis: for Won et al., Zhang et al., and Carriere et al. (PNAS) the middle authors are omitted here too. Author names as in CV (initials).",
+ "papers": [
+  {
+   "title": "Do Cover Crops Reduce Downside Production Risk?",
+   "authors": [
+    "S. Aglasan",
+    "R.M. Rejesus",
+    "M. Bowman",
+    "B.K. Goodwin"
+   ],
+   "year": 2025,
+   "venue": "Agricultural Economics",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic and Policy Drivers of Climate-Smart Soil Health Practices in the United States",
+   "authors": [
+    "R.M. Rejesus",
+    "S. Aglasan",
+    "L. Connor"
+   ],
+   "year": 2025,
+   "venue": "Annual Review of Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Understanding the yield impacts of alternative cover crop families and mixtures: Evidence from side-by-side plot-level panel data",
+   "authors": [
+    "S. Won",
+    "R.M. Rejesus",
+    "A.M. Poncet",
+    "S. Aglasan",
+    "R. Thapa",
+    "K.L. Tulley",
+    "S.B. Mirsky"
+   ],
+   "year": 2024,
+   "venue": "Agrosystems, Geosciences & Environment",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Medium-term economic impacts of cover crop adoption in Maryland",
+   "authors": [
+    "Y. Zhang",
+    "Y. Che",
+    "R.M. Rejesus",
+    "M.A. Cavigelli",
+    "K.E. White",
+    "S. Aglasan",
+    "S.B. Mirsky"
+   ],
+   "year": 2024,
+   "venue": "Soil Security",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The effect of crop insurance on agricultural loan delinquencies",
+   "authors": [
+    "D. Lee",
+    "L. Chen",
+    "R.M. Rejesus",
+    "S. Aglasan",
+    "R. Dinterman",
+    "L. Connor"
+   ],
+   "year": 2024,
+   "venue": "Journal of the Agricultural and Applied Economics Association",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Cover crops, crop insurance losses, and resilience to extreme weather events",
+   "authors": [
+    "S. Aglasan",
+    "R.M. Rejesus",
+    "S. Hagen",
+    "W. Salas"
+   ],
+   "year": 2024,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Understanding the effect of cover crop use on prevented planting losses",
+   "authors": [
+    "S. Won",
+    "R.M. Rejesus",
+    "B.K. Goodwin",
+    "S. Aglasan"
+   ],
+   "year": 2024,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Long-term economic impacts of no-till adoption",
+   "authors": [
+    "Y. Che",
+    "R.M. Rejesus",
+    "M.A. Cavigelli",
+    "K.E. White",
+    "S. Aglasan",
+    "L.G. Knight",
+    "C. Curt Dell",
+    "D. Hollinger",
+    "E.D. Lane"
+   ],
+   "year": 2023,
+   "venue": "Soil Security",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The impact of conservation tillage intensities on mean yields and yield risk",
+   "authors": [
+    "A. Cooray",
+    "R.M. Rejesus",
+    "S. Aglasan",
+    "Z. Li",
+    "A. Woodley"
+   ],
+   "year": 2023,
+   "venue": "Soil Security",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Payments from agricultural conservation programs and cover crop adoption",
+   "authors": [
+    "B. Park",
+    "R.M. Rejesus",
+    "S. Aglasan",
+    "Y. Che",
+    "S.C. Hagen",
+    "W. Salas"
+   ],
+   "year": 2023,
+   "venue": "Applied Economic Perspectives and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The impact of no-till on agricultural land values in the United States Midwest",
+   "authors": [
+    "L. Chen",
+    "R.M. Rejesus",
+    "S. Aglasan",
+    "S. Hagen",
+    "W. Salas"
+   ],
+   "year": 2023,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Risk effects of GM corn: Evidence from crop insurance outcomes and high-dimensional methods",
+   "authors": [
+    "S. Aglasan",
+    "B.K. Goodwin",
+    "R.M. Rejesus"
+   ],
+   "year": 2023,
+   "venue": "Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The impact of cover crops on soil erosion in the US Midwest",
+   "authors": [
+    "L. Chen",
+    "R.M. Rejesus",
+    "S. Aglasan",
+    "S.C. Hagen",
+    "W. Salas"
+   ],
+   "year": 2022,
+   "venue": "Journal of Environmental Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic dimensions of soil health practices that sequester carbon: Promising research directions",
+   "authors": [
+    "R.M. Rejesus",
+    "S. Aglasan",
+    "L.G. Knight",
+    "M.A. Cavigelli",
+    "C.J. Dell",
+    "E.D. Lane",
+    "D.Y. Hollinger"
+   ],
+   "year": 2021,
+   "venue": "Journal of Soil and Water Conservation",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Warming temperatures, yield risk and crop insurance participation",
+   "authors": [
+    "R. Wang",
+    "R.M. Rejesus",
+    "S. Aglasan"
+   ],
+   "year": 2021,
+   "venue": "European Review of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do higher temperatures influence how yields respond to increasing planting density?",
+   "authors": [
+    "R. Wang",
+    "R.M. Rejesus",
+    "J.B. Tack",
+    "S. Aglasan"
+   ],
+   "year": 2021,
+   "venue": "Agricultural and Resource Economics Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Crop rotation mitigates impacts of corn rootworm resistance to transgenic Bt corn",
+   "authors": [
+    "Y. Carrière",
+    "Z. Brown",
+    "S. Aglasan",
+    "P. Dutilleul",
+    "M. Carroll",
+    "G. Head",
+    "S.P. Carroll"
+   ],
+   "year": 2020,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

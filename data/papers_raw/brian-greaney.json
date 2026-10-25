@@ -1,0 +1,97 @@
+{
+ "slug": "brian-greaney",
+ "name": "Brian Greaney",
+ "sources": [
+  "https://econ.washington.edu/sites/econ/files/documents/cv/2026-03/CV.pdf",
+  "https://sites.google.com/view/briangreaney/research"
+ ],
+ "collected": "2026-10-25",
+ "notes": "CV March 2026 + homepage research page. Working-paper years set to 2026 (CV date). R&R title: CV 'Uneven Regional Growth' vs homepage 'Local Shocks'; CV used. Work-in-progress without drafts skipped; groundwater paper has posted draft so included.",
+ "papers": [
+  {
+   "title": "Housing Constraints and Spatial Misallocation: Comment",
+   "authors": [
+    "Brian Greaney"
+   ],
+   "year": 2026,
+   "venue": "American Economic Journal: Macroeconomics",
+   "status": "已发表",
+   "url": "https://drive.google.com/file/d/1iNdQ2YBfUCbc2uH4p9wdnuoVGhJZLSqe/view?usp=sharing",
+   "abstract": null
+  },
+  {
+   "title": "Demand, Growth, and Deleveraging",
+   "authors": [
+    "Brian Greaney",
+    "Conor Walsh"
+   ],
+   "year": 2023,
+   "venue": "Review of Economic Dynamics",
+   "status": "已发表",
+   "url": "https://drive.google.com/file/d/14YEdWMHT7JrN4lePhvk1qxTXwIfXdopn/view?usp=sharing",
+   "abstract": null
+  },
+  {
+   "title": "Can Self-Help Groups Really be \"Self-Help\"?",
+   "authors": [
+    "Brian Greaney",
+    "Joseph Kaboski",
+    "Eva Van Leemput"
+   ],
+   "year": 2016,
+   "venue": "Review of Economic Studies",
+   "status": "已发表",
+   "url": "https://drive.google.com/file/d/1D1DEMYWE1Cl2gcokkTBpZTjxcIvfeoyJ/view?usp=sharing",
+   "abstract": null
+  },
+  {
+   "title": "Homeownership and the Distributional Effects of Uneven Regional Growth",
+   "authors": [
+    "Brian Greaney"
+   ],
+   "year": 2026,
+   "venue": "Review of Economic Studies",
+   "status": "修改重投",
+   "url": "https://drive.google.com/file/d/1t9kVtQIn1tP1CX8n8bf4Idf1Dm7L5he0/view?usp=sharing",
+   "abstract": null
+  },
+  {
+   "title": "Dynamic Urban Economics",
+   "authors": [
+    "Brian Greaney",
+    "Andrii Parkhomenko",
+    "Stijn Van Nieuwerburgh"
+   ],
+   "year": 2026,
+   "venue": "American Economic Review",
+   "status": "修改重投",
+   "url": "https://drive.google.com/file/d/1RLT_B_MBqpr2NrYDPjFcB-53kATJj5ly/view?usp=drive_link",
+   "abstract": null
+  },
+  {
+   "title": "The Geography of Wealth: Shocks, Mobility, and Precautionary Savings",
+   "authors": [
+    "Brian Greaney",
+    "Maximiliano Dvorkin"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://drive.google.com/file/d/1uHzd7hhpTAh4YqrW2kEOk_oUIm5uwIFB/view?usp=drive_link",
+   "abstract": null
+  },
+  {
+   "title": "Are We Consuming Too Much Groundwater?",
+   "authors": [
+    "Brian Greaney",
+    "Joseph Shapiro",
+    "Katherine Wagner"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://joseph-s-shapiro.com/research/optimal_groundwater.pdf",
+   "abstract": null
+  }
+ ]
+}

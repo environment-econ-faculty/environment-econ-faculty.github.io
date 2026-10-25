@@ -1,0 +1,579 @@
+{
+ "slug": "mani-rouhi-rad",
+ "name": "Mani Rouhi Rad",
+ "sources": [
+  "https://manirouhirad.github.io/publication.html",
+  "https://manirouhirad.github.io/research.html"
+ ],
+ "collected": "2026-10-25",
+ "notes": "Homepage gives coauthors as initials (kept as written; scholar name expanded). Year for R&R/WP items not given on page; set to 2026 (collection-year/page date). Excluded 2018 book review. Last R&R item author list truncated with et al. on source.",
+ "papers": [
+  {
+   "title": "Dynamic adaptive capacity of coupled agriculture-water systems under Climate Change: Evidence from the Western United States",
+   "authors": [
+    "H. Balali",
+    "F.A. Ward",
+    "C.R. Allen",
+    "G. Eslamifar",
+    "Mani Rouhi Rad",
+    "A. Fernald"
+   ],
+   "year": 2026,
+   "venue": "Agricultural Water Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Value of Water Access Security in Agriculture",
+   "authors": [
+    "S. Bahrami",
+    "Mani Rouhi Rad",
+    "R.A. Hrozencik",
+    "G. Perez Quesada",
+    "R.M. Nayga"
+   ],
+   "year": 2026,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Groundwater Management Amidst a Changing Climate: A More Severe Climate Can Decrease the Value of Groundwater Conservation",
+   "authors": [
+    "S. Nozari",
+    "R.T. Bailey",
+    "Mani Rouhi Rad",
+    "G.E.B. Smith",
+    "A.A. Andales",
+    "Z.T. Zambreski",
+    "X. Lin",
+    "J.F. Suter",
+    "M.E. Schipanski"
+   ],
+   "year": 2026,
+   "venue": "Water Resources Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Impacts of Depopulation and Climate Change on the Cost of Rural Electric Services",
+   "authors": [
+    "L. Li",
+    "A.R. Hrozencik",
+    "Mani Rouhi Rad",
+    "D. Uz"
+   ],
+   "year": 2025,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Water Scarcity Exacerbates the Negative Effects of Salinity on Irrigated Agriculture",
+   "authors": [
+    "N. Medina",
+    "Mani Rouhi Rad",
+    "S. Nozari",
+    "J.F. Suter",
+    "R.T. Bailey",
+    "D. Sahoo"
+   ],
+   "year": 2025,
+   "venue": "Water Resources Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Abatement Subsidies for Groundwater Conservation",
+   "authors": [
+    "Mani Rouhi Rad",
+    "J.F. Suter",
+    "D.T. Manning",
+    "C. Goemans"
+   ],
+   "year": 2025,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Dollars for Drops: Abatement Cost of Water for Irrigation in the Colorado River Basin",
+   "authors": [
+    "S. Bahrami",
+    "Mani Rouhi Rad",
+    "R.M. Nayga"
+   ],
+   "year": 2025,
+   "venue": "Applied Economic Perspectives and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Non-Market Valuation of Environmental Resources: An Introduction",
+   "authors": [
+    "Mani Rouhi Rad",
+    "L. Li",
+    "R.T. Woodward"
+   ],
+   "year": 2025,
+   "venue": "Oxford Research Encyclopedia of Economics and Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Modeling Wildfire Effects on Ecosystem Services in two Disparate California Watersheds and Communities",
+   "authors": [
+    "I. Busari",
+    "M.R. Sloggy",
+    "Mani Rouhi Rad",
+    "D. Sahoo",
+    "S.A. Drury",
+    "F.J. Escobedo"
+   ],
+   "year": 2025,
+   "venue": "Environmental Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Land Tenure and Conservation in Agriculture: Evidence from United States Farm-level Data",
+   "authors": [
+    "S. Bahrami",
+    "Mani Rouhi Rad",
+    "R. Nayga"
+   ],
+   "year": 2025,
+   "venue": "Land Use Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Integrated Modeling Approach to Simulate Human-Crop-Groundwater Interactions in Intensively Irrigated Regions",
+   "authors": [
+    "S. Nozari",
+    "R.T. Bailey",
+    "Mani Rouhi Rad",
+    "G.E. Smith",
+    "A.A. Andales",
+    "Z.T. Zambreski",
+    "S. Tavakoli-Kivi",
+    "V. Sharda",
+    "I. Kisekka",
+    "P. Gowda",
+    "M.E. Schipanski"
+   ],
+   "year": 2024,
+   "venue": "Environmental Modelling & Software",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Adaptive Water Governance in an Interest-Based Stakeholder-Driven Water Resource Planning Institution in South Carolina, US",
+   "authors": [
+    "V.L. Guerrero",
+    "D. Sahoo",
+    "L. Dickes",
+    "T. Walker",
+    "Mani Rouhi Rad",
+    "J. Allen"
+   ],
+   "year": 2024,
+   "venue": "Journal of Water Resources Planning and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Role of Search Frictions and Trading Ratios in Tradable Permit Markets",
+   "authors": [
+    "Mani Rouhi Rad",
+    "T. Mieno",
+    "N. Brozović"
+   ],
+   "year": 2022,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Importance of Well Yield in Groundwater Demand Specifications",
+   "authors": [
+    "T. Mieno",
+    "Mani Rouhi Rad",
+    "J.F. Suter",
+    "A. Hrozencik"
+   ],
+   "year": 2021,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "http://le.uwpress.org/content/97/3/672.abstract",
+   "abstract": null
+  },
+  {
+   "title": "Changing climate, changing minds? The effects of natural disasters on public perceptions of climate change",
+   "authors": [
+    "M. Sloggy",
+    "J.F. Suter",
+    "Mani Rouhi Rad",
+    "D.T. Manning",
+    "C. Goemans"
+   ],
+   "year": 2021,
+   "venue": "Climatic Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Complementarity (Not Substitution) Between Natural and Produced Capital",
+   "authors": [
+    "Mani Rouhi Rad",
+    "W. Adamowicz",
+    "A. Entem",
+    "E.P. Fenichel",
+    "P. Lloyd-Smith"
+   ],
+   "year": 2021,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Policy Leakage or Policy Benefit? Spatial Spillovers from Conservation Policies in Common Property Resources",
+   "authors": [
+    "Mani Rouhi Rad",
+    "D.T. Manning",
+    "J.F. Suter",
+    "C. Goemans"
+   ],
+   "year": 2021,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Stay-at-home orders and the willingness to stay home during the COVID-19 pandemic: A stated-preference discrete choice experiment",
+   "authors": [
+    "L. Li",
+    "D. Long",
+    "Mani Rouhi Rad",
+    "M. Sloggy"
+   ],
+   "year": 2021,
+   "venue": "PLOS ONE",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Decade after Tomorrow: Estimation of Discount Rates from Realistic Temporal Decisions",
+   "authors": [
+    "P. Lloyd-Smith",
+    "W. Adamowicz",
+    "A. Entem",
+    "E.P. Fenichel",
+    "Mani Rouhi Rad"
+   ],
+   "year": 2021,
+   "venue": "Journal of Economic Behavior and Organization",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Evaluating optimal irrigation for potential yield and economic performance of major crops in southwestern Kansas",
+   "authors": [
+    "A. Araya",
+    "P.H. Gowda",
+    "Mani Rouhi Rad",
+    "C.B. Ariyaratne",
+    "I.A. Ciampitti",
+    "C.W. Rice",
+    "P.V.V. Prasad"
+   ],
+   "year": 2021,
+   "venue": "Agricultural Water Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Groundwater depletion, climate, and the value of groundwater conservation",
+   "authors": [
+    "J.F. Suter",
+    "Mani Rouhi Rad",
+    "D.T. Manning",
+    "C. Goemans"
+   ],
+   "year": 2021,
+   "venue": "Resource and Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Non-market valuation in integrated modeling: The benefits of water right retirement",
+   "authors": [
+    "D.T. Manning",
+    "Mani Rouhi Rad",
+    "J.F. Suter",
+    "C. Goemans"
+   ],
+   "year": 2020,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Downside Risk of Aquifer Depletion",
+   "authors": [
+    "Mani Rouhi Rad",
+    "A. Araya",
+    "Z.T. Zambreski"
+   ],
+   "year": 2020,
+   "venue": "Irrigation Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "MOD$$AT: A hydro-economic model for aquifer management in agriculture",
+   "authors": [
+    "Mani Rouhi Rad",
+    "E.M.K. Haacker",
+    "V. Sharda",
+    "S. Nozari",
+    "Z. Xiang",
+    "A. Araya",
+    "V. Uddameri",
+    "J.F. Suter",
+    "P. Gowda"
+   ],
+   "year": 2020,
+   "venue": "Agricultural Water Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Effects of instantaneous groundwater availability on irrigated agriculture and implications for aquifer management",
+   "authors": [
+    "Mani Rouhi Rad",
+    "N. Brozović",
+    "T. Foster",
+    "T. Mieno"
+   ],
+   "year": 2020,
+   "venue": "Resource and Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Assessing Ecological Infrastructure Investments",
+   "authors": [
+    "W. Adamowicz",
+    "L. Calderon-Etter",
+    "A. Entem",
+    "E.P. Fenichel",
+    "J.S. Hall",
+    "P. Lloyd-Smith",
+    "F.L. Ogden",
+    "J.A. Regina",
+    "Mani Rouhi Rad",
+    "R.F. Stallard"
+   ],
+   "year": 2019,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Estimating Economic Effects of Changes in Climate and Water Availability",
+   "authors": [
+    "B. Hurd",
+    "Mani Rouhi Rad"
+   ],
+   "year": 2013,
+   "venue": "Climatic Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Regulating Stormwater: Evidence from the Clean Water Act",
+   "authors": [
+    "R. Judd",
+    "Mani Rouhi Rad"
+   ],
+   "year": 2026,
+   "venue": "Journal of Public Economics",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Impact of the Reclamation Act on Agricultural Development and Population Dynamics in the Western United States",
+   "authors": [
+    "N. Kang",
+    "Mani Rouhi Rad",
+    "R. Nayga",
+    "A.R. Hrozencik",
+    "G. Perez-Quesada"
+   ],
+   "year": 2026,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Greenhouse Gas Abatement Supply on Agricultural Land",
+   "authors": [
+    "D.T. Manning",
+    "Mani Rouhi Rad",
+    "S. Ogle"
+   ],
+   "year": 2026,
+   "venue": "Land Economics",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Irrigation Organizations in the Western US: Adapting to Water Scarcity",
+   "authors": [
+    "H. Donahue",
+    "G. Perez Quesada",
+    "Mani Rouhi Rad",
+    "R.A. Hrozencik",
+    "R.M. Nayga"
+   ],
+   "year": 2026,
+   "venue": "Water Economics and Policy",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Well Worth It: Well Capacity and the Cost of Aquifer Depletion for Irrigated Agriculture",
+   "authors": [
+    "S. Bahrami",
+    "Mani Rouhi Rad",
+    "R.A. Hrozencik",
+    "G. Perez Quesada",
+    "R.M. Nayga"
+   ],
+   "year": 2026,
+   "venue": "Resource and Energy Economics",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic Costs of the Summer 2023 Heat Wave and Drought on Texas",
+   "authors": [
+    "Mani Rouhi Rad",
+    "J. Abella-Gutierrez",
+    "S. Bahrami",
+    "J. Banner",
+    "M. Cook",
+    "A. Dessler",
+    "et al."
+   ],
+   "year": 2026,
+   "venue": "Texas Water Journal",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Wired for Water: Climate Change and Electricity Use for Irrigation",
+   "authors": [
+    "D. Uz",
+    "A.R. Hrozencik",
+    "Mani Rouhi Rad",
+    "L. Li"
+   ],
+   "year": 2026,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do Foreign Tariffs Reshape Domestic Land Use?",
+   "authors": [
+    "D. Park",
+    "Mani Rouhi Rad",
+    "Y. Zhang"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Value of Improving Canal Conveyance Efficiency",
+   "authors": [
+    "W. Yang",
+    "Mani Rouhi Rad",
+    "S. Bahrami",
+    "A. Hrozencik",
+    "R. Nayga",
+    "G. Perez-Quesada"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Institutions, Climate Change, and the Heterogeneous Cost of Snowpack Decline",
+   "authors": [
+    "S. Bahrami",
+    "Mani Rouhi Rad",
+    "A. Hrozencik",
+    "R.M. Nayga"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Detecting the Signal: Causal Evidence on the Effectiveness of Hurricane Evacuation Orders",
+   "authors": [
+    "H. Anand",
+    "Mani Rouhi Rad",
+    "M. Shafiee-Jood",
+    "N. Alemazkoor"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

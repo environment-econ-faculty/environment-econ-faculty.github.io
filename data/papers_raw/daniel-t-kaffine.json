@@ -1,0 +1,682 @@
+{
+ "slug": "daniel-t-kaffine",
+ "name": "Daniel Kaffine",
+ "sources": [
+  "https://www.colorado.edu/faculty/kaffine/",
+  "https://www.colorado.edu/faculty/kaffine/media/7"
+ ],
+ "collected": "2026-10-25",
+ "notes": "Homepage (2026 status) primary; CV (Dec 2024) for older items, OPUS arXiv link. Homepage gives Brownhall et al. only as 'Indigo Brownhall et al.' so that byline is incomplete (Kaffine's position and other authors unknown). Distributional-benefits coauthor is Nicole Selling on homepage (CV says Mundt). Items accepted in 2025/2026 given year 2026. Working-paper years from homepage. Policy briefs, NREL report, Nature correspondence, Nature Chemistry, book review omitted; homepage work-in-progress items omitted.",
+ "papers": [
+  {
+   "title": "Spatio-temporal heterogeneity in the environmental value of renewable energy",
+   "authors": [
+    "Harrison Fell",
+    "Daniel Kaffine"
+   ],
+   "year": 2026,
+   "venue": "Energy Journal",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The distributional benefits of emission reductions from renewable energy",
+   "authors": [
+    "Daniel Kaffine",
+    "Nicole Selling"
+   ],
+   "year": 2026,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do economic principles explain orbital resource use in space?",
+   "authors": [
+    "Daniel Kaffine",
+    "Akhil Rao"
+   ],
+   "year": 2026,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Bonds Improve Post Mission Disposal Compliance and the Sustainability of Low Earth Orbit",
+   "authors": [
+    "Indigo Brownhall",
+    "Daniel Kaffine"
+   ],
+   "year": 2026,
+   "venue": "Nature Communications",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Wind Power and Split Estate",
+   "authors": [
+    "Daniel Kaffine",
+    "Christopher Worley"
+   ],
+   "year": 2026,
+   "venue": "Nature + Culture",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Decarbonization and electricity price vulnerability",
+   "authors": [
+    "Raul Bajo",
+    "Antonio Bento",
+    "Daniel Kaffine",
+    "Zissis Marmarelis"
+   ],
+   "year": 2025,
+   "venue": "Nature Sustainability",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do Competitive Markets Cleanup the US Electricity Sector? Evidence from the Southwest Power Pool",
+   "authors": [
+    "Doyoung Park",
+    "Daniel Kaffine"
+   ],
+   "year": 2025,
+   "venue": "Energy Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Sharing and expanding the co-benefits of conservation",
+   "authors": [
+    "Renato Molina",
+    "Christopher Costello",
+    "Daniel Kaffine"
+   ],
+   "year": 2024,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Decline in Traffic Congestion Increased Crash Severity in the Wake of COVID-19",
+   "authors": [
+    "Jonathan Hughes",
+    "Daniel Kaffine",
+    "Leah Kaffine"
+   ],
+   "year": 2023,
+   "venue": "Transportation Research Record",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Disease-economy trade-offs under alternative pandemic control strategies",
+   "authors": [
+    "Thomas Ash",
+    "Antonio Bento",
+    "Daniel Kaffine",
+    "Akhil Rao",
+    "Ana Bento"
+   ],
+   "year": 2022,
+   "venue": "Nature Communications",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Private monitoring and public enforcement: Evidence from complaints and regulation of oil and gas wells",
+   "authors": [
+    "Peter Maniloff",
+    "Daniel Kaffine"
+   ],
+   "year": 2021,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Emissions, transmission, and the environmental value of renewable energy",
+   "authors": [
+    "Harrison Fell",
+    "Daniel Kaffine",
+    "Kevin Novan"
+   ],
+   "year": 2021,
+   "venue": "American Economic Journal: Economic Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Costs of increasing oil and gas setbacks are initially modest but rise sharply",
+   "authors": [
+    "Sean Ericson",
+    "Daniel Kaffine",
+    "Peter Maniloff"
+   ],
+   "year": 2020,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Orbital Use Fees could quadruple the value of the space industry",
+   "authors": [
+    "Akhil Rao",
+    "Matthew Burgess",
+    "Daniel Kaffine"
+   ],
+   "year": 2020,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Intermittency and CO2 reductions from wind energy",
+   "authors": [
+    "Daniel Kaffine",
+    "Brannin McBee",
+    "Sean Ericson"
+   ],
+   "year": 2020,
+   "venue": "Energy Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Optimal environmental border adjustments under the General Agreement on Tariffs and Trade",
+   "authors": [
+    "Edward Balistreri",
+    "Daniel Kaffine",
+    "Hidemichi Yonezawa"
+   ],
+   "year": 2019,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Microclimate effects of wind farms on local crop yields",
+   "authors": [
+    "Daniel Kaffine"
+   ],
+   "year": 2019,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Costs and consequences of wind turbine wake effects arising from uncoordinated wind energy development",
+   "authors": [
+    "Julie Lundquist",
+    "K.K. DuVivier",
+    "Daniel Kaffine",
+    "Jessica Tomaszewski"
+   ],
+   "year": 2019,
+   "venue": "Nature Energy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "When should drivers be encouraged to carpool in HOV lanes?",
+   "authors": [
+    "Jonathan Hughes",
+    "Daniel Kaffine"
+   ],
+   "year": 2019,
+   "venue": "Economic Inquiry",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Emissions reductions or green booms? The general equilibrium effects of a Renewable Portfolio Standard",
+   "authors": [
+    "Antonio Bento",
+    "Teevrat Garg",
+    "Daniel Kaffine"
+   ],
+   "year": 2018,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Natural resource federalism: Preferences versus connectivity for patchy resources",
+   "authors": [
+    "Christopher Costello",
+    "Daniel Kaffine"
+   ],
+   "year": 2018,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The fall of coal: Joint impacts of fuel prices and renewables on generation and emissions",
+   "authors": [
+    "Harrison Fell",
+    "Daniel Kaffine"
+   ],
+   "year": 2018,
+   "venue": "American Economic Journal: Economic Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Energy efficiency and emission intensity standards",
+   "authors": [
+    "Harrison Fell",
+    "Daniel Kaffine",
+    "Daniel Steinberg"
+   ],
+   "year": 2017,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "When is increasing consumption of common property optimal? Sorting, congestion and entry in the commons",
+   "authors": [
+    "Jonathan Hughes",
+    "Daniel Kaffine"
+   ],
+   "year": 2017,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A multi-row deletion diagnostic for influential observations in small-sample regressions",
+   "authors": [
+    "Daniel Kaffine",
+    "Graham Davis"
+   ],
+   "year": 2017,
+   "venue": "Computational Statistics and Data Analysis",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Private conservation in TURF-managed fisheries",
+   "authors": [
+    "Christopher Costello",
+    "Daniel Kaffine"
+   ],
+   "year": 2017,
+   "venue": "Natural Resource Modeling",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Minimizing economic impacts from post-fire debris flows in the western United States",
+   "authors": [
+    "Kevin McCoy",
+    "Vitaliy Krasko",
+    "Paul Santi",
+    "Daniel Kaffine",
+    "Steffen Rebennack"
+   ],
+   "year": 2016,
+   "venue": "Natural Hazards",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Community-based tradable permits for localized pollution",
+   "authors": [
+    "Peifang Yang",
+    "Daniel Kaffine"
+   ],
+   "year": 2016,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The effects of regulation in the presence of multiple unpriced externalities: Evidence from the transportation sector",
+   "authors": [
+    "Antonio Bento",
+    "Daniel Kaffine",
+    "Kevin Roth",
+    "Matthew Zaragoza-Watkins"
+   ],
+   "year": 2014,
+   "venue": "American Economic Journal: Economic Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Did California's hand-held cell phone ban reduce accidents?",
+   "authors": [
+    "Nicholas Burger",
+    "Daniel Kaffine",
+    "Bob Yu"
+   ],
+   "year": 2014,
+   "venue": "Transportation Research Part A",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Can decentralized planning really achieve first-best in the presence of environmental spillovers?",
+   "authors": [
+    "Harrison Fell",
+    "Daniel Kaffine"
+   ],
+   "year": 2014,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Scrap prices, waste and recycling policy",
+   "authors": [
+    "Daniel Kaffine"
+   ],
+   "year": 2014,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Carpooling and driver responses to fuel price changes: Evidence from traffic flows in Los Angeles",
+   "authors": [
+    "Antonio Bento",
+    "Jonathan Hughes",
+    "Daniel Kaffine"
+   ],
+   "year": 2013,
+   "venue": "Journal of Urban Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Emissions savings from wind power generation in Texas",
+   "authors": [
+    "Daniel Kaffine",
+    "Brannin McBee",
+    "Jozef Lieskovsky"
+   ],
+   "year": 2013,
+   "venue": "Energy Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Greenhouse gas emissions, waste and recycling policy",
+   "authors": [
+    "Kaylee Acuff",
+    "Daniel Kaffine"
+   ],
+   "year": 2013,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The welfare effects of anti-sprawl policies in the presence of urban decline",
+   "authors": [
+    "Antonio Bento",
+    "Sofia Franco",
+    "Daniel Kaffine"
+   ],
+   "year": 2011,
+   "venue": "Agricultural and Resource Economics Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Effectiveness of housing revitalization subsidies in the presence of zoning",
+   "authors": [
+    "Antonio Bento",
+    "Sofia Franco",
+    "Daniel Kaffine"
+   ],
+   "year": 2011,
+   "venue": "Regional Science and Urban Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Blue Laws, DUIs and alcohol related accidents: Regression discontinuity evidence from Colorado",
+   "authors": [
+    "Bob Yu",
+    "Daniel Kaffine"
+   ],
+   "year": 2011,
+   "venue": "The Journal of Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Unitization of spatially-connected renewable resources",
+   "authors": [
+    "Daniel Kaffine",
+    "Christopher Costello"
+   ],
+   "year": 2011,
+   "venue": "The B.E. Journal of Economic Analysis & Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Is there a double-dividend from anti-sprawl policies?",
+   "authors": [
+    "Antonio Bento",
+    "Sofia Franco",
+    "Daniel Kaffine"
+   ],
+   "year": 2011,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Spatial Diversification of Wind Farms: System Reliability and Private Incentives",
+   "authors": [
+    "Christopher Worley",
+    "Daniel Kaffine"
+   ],
+   "year": 2011,
+   "venue": "Wind Farm: Technical Regulations, Potential Estimation and Siting Assessment (InTech)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The windy commons?",
+   "authors": [
+    "Daniel Kaffine",
+    "Christopher Worley"
+   ],
+   "year": 2010,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Marine Protected Areas in spatial property rights fisheries",
+   "authors": [
+    "Christopher Costello",
+    "Daniel Kaffine"
+   ],
+   "year": 2010,
+   "venue": "Australian Journal of Agricultural and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Efficiency and spatial impacts of development taxes: The critical role of alternative revenue-recycling schemes",
+   "authors": [
+    "Antonio Bento",
+    "Sofia Franco",
+    "Daniel Kaffine"
+   ],
+   "year": 2009,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Quality and the Commons: The Surf Gangs of California",
+   "authors": [
+    "Daniel Kaffine"
+   ],
+   "year": 2009,
+   "venue": "Journal of Law and Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Gas prices, traffic, and freeway speeds in Los Angeles",
+   "authors": [
+    "Nicholas Burger",
+    "Daniel Kaffine"
+   ],
+   "year": 2009,
+   "venue": "Review of Economics and Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Natural resource use with limited-tenure property rights",
+   "authors": [
+    "Christopher Costello",
+    "Daniel Kaffine"
+   ],
+   "year": 2008,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Implications of agricultural policy for species invasion in shifting cultivation systems",
+   "authors": [
+    "Heidi Albers",
+    "Michael Goldbach",
+    "Daniel Kaffine"
+   ],
+   "year": 2006,
+   "venue": "Environment and Development Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The efficiency and distributional impacts of alternative anti-sprawl policies",
+   "authors": [
+    "Antonio Bento",
+    "Sofia Franco",
+    "Daniel Kaffine"
+   ],
+   "year": 2006,
+   "venue": "Journal of Urban Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Potential and Limitations of Consumer-Facing Energy Policies",
+   "authors": [
+    "Nathan Chan",
+    "Grant Jacobsen",
+    "Daniel Kaffine",
+    "Casey Wichman"
+   ],
+   "year": 2026,
+   "venue": "Review of Environmental Economics and Policy",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Travel Choices under Pandemic Federalism",
+   "authors": [
+    "Daniel Kaffine",
+    "Lucas Ladenburger",
+    "Alessandro Peri"
+   ],
+   "year": 2026,
+   "venue": "International Economic Review",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Are renewable generators price responsive?",
+   "authors": [
+    "Harrison Fell",
+    "Scott Holladay",
+    "Daniel Kaffine"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "OPUS: An integrated assessment model for satellites and orbital debris",
+   "authors": [
+    "Akhil Rao",
+    "Mark Moretto",
+    "Marcus Holzinger",
+    "Brian Weeden",
+    "Daniel Kaffine"
+   ],
+   "year": 2024,
+   "venue": "arXiv",
+   "status": "工作论文",
+   "url": "https://arxiv.org/abs/2309.10252",
+   "abstract": null
+  }
+ ]
+}

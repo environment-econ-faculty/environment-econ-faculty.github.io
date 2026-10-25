@@ -1,0 +1,61 @@
+{
+ "slug": "isabelle-isy-picciotto",
+ "name": "Isabelle (Isy) Picciotto",
+ "sources": [
+  "https://www.isy-picciotto.com/",
+  "https://www.isy-picciotto.com/pages",
+  "https://www.isy-picciotto.com/media_files/11641"
+ ],
+ "collected": "2026-10-25",
+ "notes": "CV (updated Sept 27, 2026). CV says JASH 28(3) 2022 (homepage says 2021); used 2022. Homepage lists 'Additionality and Adaptation: The Impacts of Federal Irrigation Efficiency Investments' (with D. Szmurlo), probably the earlier title of the CV's 'Climate Change Adaptation through Agricultural Conservation Programs' (under review at JAERE); listed once under CV title. Szmurlo and Smith given by initial only. Skipped USDA ERS research report (government report). WP year 2026 = CV date. Abstracts not verbatim so null.",
+ "papers": [
+  {
+   "title": "Estimating the Nonfatal Injury Undercount in Agriculture between 2004-2019",
+   "authors": [
+    "Isabelle Picciotto",
+    "Timothy Beatty",
+    "Alexandra Estvan Hill"
+   ],
+   "year": 2022,
+   "venue": "Journal of Agricultural Safety and Health",
+   "status": "已发表",
+   "url": "https://doi.org/10.13031/jash.15039",
+   "abstract": null
+  },
+  {
+   "title": "A Clean SWEEP? Estimating the Impacts of Irrigation Efficiency Subsidy Programs on Water and Energy Use",
+   "authors": [
+    "Isabelle Picciotto"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://www.isy-picciotto.com/media_files/11615",
+   "abstract": null
+  },
+  {
+   "title": "Climate Change Adaptation through Agricultural Conservation Programs",
+   "authors": [
+    "Isabelle Picciotto",
+    "D. Szmurlo"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Hit me with your best shot: Does robotic weeding improve specialty crop yields?",
+   "authors": [
+    "Isabelle Picciotto",
+    "A. Smith"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

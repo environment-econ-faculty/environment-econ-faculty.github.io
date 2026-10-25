@@ -1,0 +1,1625 @@
+{
+ "slug": "brian-e-roe",
+ "name": "Brian E. Roe",
+ "sources": [
+  "https://cfaes-contenthub.org.ohio-state.edu/sites/default/files/2026-04/Roe%20vitae%202025_7038853.pdf"
+ ],
+ "collected": "2026-10-25",
+ "notes": "Source: CV PDF dated December 2024 (may omit 2025-26 work). 112 'Scholarly Journal Articles' kept (skipped #2 comment, #19 reply, #79 special-issue intro, #94 commentary); #33 is a book chapter; #116 Choices 'accepted' listed as forthcoming with year 2024 (CV date). 'Papers in Review or Preparation': submitted/in review/under review -> 工作论文; 'revision requested' -> 修改重投 (journal not named, so venue generic); 'in preparation' items skipped except Yu & Roe, which has an SSRN draft. Working-paper year = CV date year (2024). Author names are as written in CV (some initials); #98 CV spells first author 'Brooker' but #112 'Booker'.",
+ "papers": [
+  {
+   "title": "Conjoint Analysis of Angler Evaluations of Atlantic Salmon on the Penobscot River, Maine",
+   "authors": [
+    "Mario F Teisl",
+    "Kevin J. Boyle",
+    "Brian Roe"
+   ],
+   "year": 1996,
+   "venue": "North American Journal of Fisheries Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Using Conjoint Analysis to Derive Estimates of Compensating Variation",
+   "authors": [
+    "Brian Roe",
+    "Kevin J. Boyle",
+    "Mario F. Teisl"
+   ],
+   "year": 1996,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "What Consumers Need to Know if Competition is Going to Work",
+   "authors": [
+    "David Moskovitz",
+    "Richard Cowart",
+    "Alan S. Levy",
+    "Brian Roe"
+   ],
+   "year": 1998,
+   "venue": "The Electricity Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Economics of Labeling: An Overview of Issues for Health and Environmental Disclosure",
+   "authors": [
+    "Mario F Teisl",
+    "Brian Roe"
+   ],
+   "year": 1998,
+   "venue": "Agricultural and Resource Economics Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Effect of Work Status on Initiation and Duration of Breast Feeding",
+   "authors": [
+    "Sara B Fein",
+    "Brian Roe"
+   ],
+   "year": 1998,
+   "venue": "American Journal of Public Health",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Is There Competition Between Breast-feeding and Maternal Employment?",
+   "authors": [
+    "Brian Roe",
+    "Leslie A. Whittington",
+    "Sara B. Fein",
+    "Mario F. Teisl"
+   ],
+   "year": 1999,
+   "venue": "Demography",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Impact of Health Claims on Consumer Search and Product Evaluation Outcomes: Results from FDA Experimental Data",
+   "authors": [
+    "Brian Roe",
+    "Alan S. Levy",
+    "Brenda M. Derby"
+   ],
+   "year": 1999,
+   "venue": "Journal of Public Policy and Marketing",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Ecocertification: Why It May Not Be a Field of Dreams",
+   "authors": [
+    "Mario F Teisl",
+    "Brian Roe",
+    "Alan S. Levy"
+   ],
+   "year": 1999,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Environmental Certification of Forest Products: How Should Consumers Be Informed?",
+   "authors": [
+    "Mario F Teisl",
+    "Brian Roe"
+   ],
+   "year": 2000,
+   "venue": "Journal of Forestry",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Consumers' Assessment of the Food Safety Problem for Meals Prepared at Home and Reactions to Food Safety Labeling",
+   "authors": [
+    "Brian Roe",
+    "Mario F. Teisl",
+    "Alan S. Levy",
+    "Kevin Boyle",
+    "Mark L. Messonnier",
+    "T. Lynn Riggs",
+    "Melissa J. Herrmann",
+    "Felicia M. Newman"
+   ],
+   "year": 2000,
+   "venue": "Journal of Food Products Marketing",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Public Preferences for Timber Harvesting Using Conjoint Analyses: A Comparison of Response Formats",
+   "authors": [
+    "Kevin J Boyle",
+    "Thomas P. Holmes",
+    "Mario F. Teisl",
+    "Brian Roe"
+   ],
+   "year": 2001,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Characteristics of Consumer- Preferred Labeling Policies: Experimental Evidence from Price and Environmental Disclosure for Deregulated Electricity Services",
+   "authors": [
+    "Brian Roe",
+    "Mario F. Teisl",
+    "Huaping Rong",
+    "Alan Levy"
+   ],
+   "year": 2001,
+   "venue": "Journal of Consumer Affairs",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Consumer Preferences for Residential Electricity Services with Different Generation Sources and Air Emission Profiles",
+   "authors": [
+    "Brian Roe",
+    "Mario F. Teisl",
+    "Alan Levy",
+    "Matthew Russell"
+   ],
+   "year": 2001,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Changing Scale of Livestock Production in and around Corn Belt Metropolitan Areas, 1978 to 1997",
+   "authors": [
+    "Jeff S Sharp",
+    "Brian Roe",
+    "Elena G. Irwin"
+   ],
+   "year": 2002,
+   "venue": "Growth and Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Pigs in Space: Modeling the Spatial Structure of Hog Production in Traditional and Nontraditional Production Regions",
+   "authors": [
+    "Brian Roe",
+    "Jeff S. Sharp",
+    "Elena G. Irwin"
+   ],
+   "year": 2002,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Can Eco-Labels Tune a Market? Evidence from Dolphin-Safe Labeling of Canned Tuna",
+   "authors": [
+    "Mario F Teisl",
+    "Brian Roe",
+    "Robert Hicks"
+   ],
+   "year": 2002,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Focus Group Reactions to Genetically Modified Food Labels",
+   "authors": [
+    "M. F. Teisl",
+    "L. Halverson",
+    "K. O'Brien",
+    "B. Roe",
+    "N. Ross",
+    "M Vayda"
+   ],
+   "year": 2002,
+   "venue": "AgBioForum",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Analyses of Consumers' Dietary Behavior: An Application Of the AIDS Model to Supermarket Scanner Data",
+   "authors": [
+    "Eugene Jones",
+    "Cuma Akbay",
+    "Brian Roe",
+    "Wen Chern"
+   ],
+   "year": 2003,
+   "venue": "Agribusiness",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Design and Pricing of Fixed and Moving Window Contracts: An Application of Asian-Basket Option Pricing Methods to the Hog Finishing Sector",
+   "authors": [
+    "Renyuan Shao",
+    "Brian Roe"
+   ],
+   "year": 2003,
+   "venue": "Journal of Futures Markets",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Labeling Genetically Modified Foods: How Do U.S. Consumers Want to See It Done?",
+   "authors": [
+    "Mario F Teisl",
+    "Luke Garner",
+    "Brian Roe",
+    "Michael Vayda"
+   ],
+   "year": 2003,
+   "venue": "AgBioForum",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Hog Producer Preferences for Marketing Contract Attributes: Results of a Choice Experiment",
+   "authors": [
+    "Brian Roe",
+    "Tom S. Sporleder",
+    "Betsy Belleville"
+   ],
+   "year": 2004,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Effects of Farmland, Farmland Preservation and Other Neighborhood Amenities on Proximate Housing Values: Results of a Conjoint Analysis of Housing Choice",
+   "authors": [
+    "Brian Roe",
+    "Elena G Irwin",
+    "Hazel A Morrow-Jones"
+   ],
+   "year": 2004,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Optimal Sharing of Food Safety Prevention Between Consumers and Industry and the Effect of Regulation and Liability",
+   "authors": [
+    "Brian Roe"
+   ],
+   "year": 2004,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "House and Housemate: An Exploratory Study of Residential Setting, Interpersonal Interactions and Aggression in Two Persons with Developmental Disabilities",
+   "authors": [
+    "K. Warren",
+    "S. Newsome",
+    "B Roe"
+   ],
+   "year": 2004,
+   "venue": "Journal of Social Service Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Value of Agricultural Economics Extension Programming: An Application of Contingent Valuation",
+   "authors": [
+    "Brian Roe",
+    "Tim Haab",
+    "Brent Sohngen"
+   ],
+   "year": 2004,
+   "venue": "Review of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Consumer Preference for Neotraditional Neighborhood Characteristics",
+   "authors": [
+    "Hazel A Morrow-Jones",
+    "Elena G Irwin",
+    "Brian Roe"
+   ],
+   "year": 2004,
+   "venue": "Housing Policy Debate",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Genetically Modified Food: What Are Mainers Thinking?",
+   "authors": [
+    "Mario F Teisl",
+    "Luke Garner",
+    "Brian Roe",
+    "Michael Vayda"
+   ],
+   "year": 2004,
+   "venue": "Maine Policy Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Behavioral and Welfare Effects of Tournaments and Fixed Performance Contracts: Some Experimental Evidence",
+   "authors": [
+    "Steven Wu",
+    "Brian Roe"
+   ],
+   "year": 2005,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Changes in Homeowner Preferences for Housing Density Following September 11, 2001",
+   "authors": [
+    "Brian Roe",
+    "Elena G. Irwin",
+    "Hazel A. Morrow-Jones"
+   ],
+   "year": 2005,
+   "venue": "Applied Economics Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Empirical Analysis of United States Consumers' Concerns about Eight Food Production and Processing Technologies",
+   "authors": [
+    "Y.-J. Hwang",
+    "B. Roe",
+    "M.F. Teisl"
+   ],
+   "year": 2005,
+   "venue": "AgBioForum",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Evaluating the Factors that Impact the Effectiveness of Eco-labelling Programmes",
+   "authors": [
+    "M. F. Teisl",
+    "B Roe"
+   ],
+   "year": 2005,
+   "venue": "Environment, Information and Consumer Behaviour",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Does Price Signal Quality? Strategic Implications of Price and Other Quality Signals for the Case of Genetically Modified Food",
+   "authors": [
+    "Y-J. Hwang",
+    "B. Roe",
+    "M.F. Teisl"
+   ],
+   "year": 2006,
+   "venue": "International Food and Agribusiness Management Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Tournaments, Fairness and Risk",
+   "authors": [
+    "Steven Y Wu",
+    "Brian Roe"
+   ],
+   "year": 2006,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Incentive Effects on Response Rates, Data Quality and Survey Administration Costs",
+   "authors": [
+    "Mario F Teisl",
+    "Brian Roe",
+    "Mike Vayda"
+   ],
+   "year": 2006,
+   "venue": "International Journal of Public Opinion Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Awareness and Intended Compliance of Beef Cattle Exhibitors in the National Animal Identification System",
+   "authors": [
+    "Keisha Patent",
+    "Brian Roe",
+    "Francis Fluharty"
+   ],
+   "year": 2006,
+   "venue": "Journal of Extension",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Genetically Modified Food Labeling: The Impacts of Message and Messenger on Consumer Perceptions of Label Credibility and Adequacy and of Product Risk",
+   "authors": [
+    "Brian Roe",
+    "Mario F. Teisl"
+   ],
+   "year": 2007,
+   "venue": "Food Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Contract Enforcement, Social Efficiency, and Distribution: Some Experimental Results",
+   "authors": [
+    "Steven Y Wu",
+    "Brian Roe"
+   ],
+   "year": 2007,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Credence Good Labeling: The Efficiency and Distributional Implications of Several Policy Approaches",
+   "authors": [
+    "Brian Roe",
+    "Ian Sheldon"
+   ],
+   "year": 2007,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Decomposing Local: A Conjoint Analysis of Locally Produced Foods",
+   "authors": [
+    "Kimberly Darby",
+    "Marvin T Batte",
+    "Stan Ernst",
+    "Brian Roe"
+   ],
+   "year": 2008,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Tractors on eBay: Differences between Internet and In-Person Auctions",
+   "authors": [
+    "Florian Diekmann",
+    "Brian Roe",
+    "Marvin T Batte"
+   ],
+   "year": 2008,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Open Mind Wants More: Opinion Strength and the Desire for Genetically Modified Food Labeling Policy",
+   "authors": [
+    "Sonja Radas",
+    "Mario F. Teisl",
+    "Brian Roe"
+   ],
+   "year": 2008,
+   "venue": "Journal of Consumer Affairs",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Struggles in Optimal Labeling: How Different Consumers React to Various Labels for Genetically Modified Foods",
+   "authors": [
+    "Mario F. Teisl",
+    "Sonja Radas",
+    "Brian Roe"
+   ],
+   "year": 2008,
+   "venue": "International Journal of Consumer Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Success of Strategies for Combining Employment and Breastfeeding",
+   "authors": [
+    "Sara Fein",
+    "Bidisha Mandal",
+    "Brian Roe"
+   ],
+   "year": 2008,
+   "venue": "Pediatrics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Job Loss, Retirement and the Mental Health of Older Americans",
+   "authors": [
+    "Bidisha Mandal",
+    "Brian Roe"
+   ],
+   "year": 2008,
+   "venue": "Journal of Mental Health Policy and Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Risk-Attitude Selection Bias in Subject Pools for Experiments Involving Neuroimaging and Blood Samples",
+   "authors": [
+    "Brian E Roe",
+    "Timothy Haab",
+    "David Beversdorf",
+    "Howard Gu",
+    "Michael Tilley"
+   ],
+   "year": 2009,
+   "venue": "Journal of Economic Psychology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Financial and Psychological Risk Attitudes Associated with Two Single Nucleotide Polymorphisms in the Nicotine Receptor (CHRNA4) Gene",
+   "authors": [
+    "Brian E. Roe",
+    "Michael R. Tilley",
+    "Howard H. Gu",
+    "David Q. Beversdorf",
+    "Wolfgang Sadee",
+    "Timothy C. Haab",
+    "Audrey C. Papp"
+   ],
+   "year": 2009,
+   "venue": "PLoS ONE",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Internal and External Validity in Economics Research: Tradeoffs between Experiments, Field Experiments, Natural Experiments and Field Data",
+   "authors": [
+    "Brian E Roe",
+    "David Just"
+   ],
+   "year": 2009,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Vertical Product Differentiation and Credence Goods: Mandatory Labeling and Gains from International Integration",
+   "authors": [
+    "Ian M Sheldon",
+    "Brian E. Roe"
+   ],
+   "year": 2009,
+   "venue": "EconoQuantum",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Optimal Design of Pro-Conservation Incentives",
+   "authors": [
+    "Astrid Zabel",
+    "Brian E. Roe"
+   ],
+   "year": 2009,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Public vs. Private Eco-Labeling of Environmental Credence Goods: Maximizing the Gains from International Integration",
+   "authors": [
+    "Ian M. Sheldon",
+    "Brian E. Roe"
+   ],
+   "year": 2009,
+   "venue": "Journal of Agricultural & Food Industrial Organization",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Differential Effects of Full-time and Part-time Work Status on Breastfeeding",
+   "authors": [
+    "Bidisha Mandal",
+    "Brian Roe",
+    "Sara Fein"
+   ],
+   "year": 2010,
+   "venue": "Health Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Consumers Willingness-to-Pay to Reduce the Probability of Retail Foodborne Pathogen Contamination",
+   "authors": [
+    "Mario F Teisl",
+    "Brian Roe"
+   ],
+   "year": 2010,
+   "venue": "Food Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Pigs in Cyberspace: A Natural Experiment Testing Differences between Online and Offline Club-Pig Auctions",
+   "authors": [
+    "Brian E Roe",
+    "Timothy E. Wyszynski",
+    "Jafar M. Olimov"
+   ],
+   "year": 2011,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Consequences of a Human Food Pathogen Vaccine on Food Demand: A Calibrated Partial-Equilibrium Analysis of the U.S. Beef Market",
+   "authors": [
+    "Stephan Marette",
+    "Brian E. Roe",
+    "Mario F. Teisl"
+   ],
+   "year": 2012,
+   "venue": "Australian Journal of Agricultural and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Welfare Impact of Food Pathogen Vaccines",
+   "authors": [
+    "Stephan Marette",
+    "Brian E. Roe",
+    "Mario F. Teisl"
+   ],
+   "year": 2012,
+   "venue": "Food Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Role of Cooperation and Reciprocity in Structuring Carbon Sequestration Contracts in Developing Countries",
+   "authors": [
+    "P. Cordero Salas",
+    "B.E. Roe"
+   ],
+   "year": 2012,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How Well Do Farmers Tolerate Risk? Comparisons with Nonfarm Business Owners and the General Population",
+   "authors": [
+    "Brian Roe"
+   ],
+   "year": 2013,
+   "venue": "Choices",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Work and Breastfeeding Decisions Are Jointly Determined for Higher Socioeconomic Status US Mothers",
+   "authors": [
+    "Bidisha Mandal",
+    "Brian Roe",
+    "Sara Fein"
+   ],
+   "year": 2014,
+   "venue": "Review of Economics of the Household",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Risk Tolerance among National Longitudinal Survey of Youth Participants: The Effects of Age and Cognition Skills",
+   "authors": [
+    "Bidisha Mandal",
+    "B. E. Roe"
+   ],
+   "year": 2014,
+   "venue": "Economica",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Competition between Local and Internet Markets: The Role of Local Service Relationships, Risk Aversion and Trust",
+   "authors": [
+    "Brian Roe",
+    "Marv Batte",
+    "Florian Diekmann"
+   ],
+   "year": 2014,
+   "venue": "Agribusiness: An International Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Economics of Voluntary versus Mandatory Labels",
+   "authors": [
+    "Brian E Roe",
+    "Mario F Teisl",
+    "Corin Deans"
+   ],
+   "year": 2014,
+   "venue": "Annual Review of Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A comparative effectiveness analysis of treatment for latent tuberculosis infection using multilevel selection models",
+   "authors": [
+    "Kyle Fluegge",
+    "Brian E Roe"
+   ],
+   "year": 2015,
+   "venue": "Journal of Comparative Effectiveness Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Risk Attitudes of U.S. Farmers",
+   "authors": [
+    "Brian E Roe"
+   ],
+   "year": 2015,
+   "venue": "Applied Economics Perspectives and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Country of Origin Labeling for Complex Supply Chains: Willingness to Pay Differs for Sole- Sourced and Mixed-Sourced Food Products",
+   "authors": [
+    "Jason M Bienenfeld",
+    "Elizabeth C. Robison",
+    "Brian E. Roe",
+    "Marvin T. Batte"
+   ],
+   "year": 2016,
+   "venue": "Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Incentive Contracts for Environmental Services and Their Potential in REDD",
+   "authors": [
+    "Leah Fortmann",
+    "Paula Cordero Salas",
+    "Brent Sohngen",
+    "Brian E. Roe"
+   ],
+   "year": 2016,
+   "venue": "International Review of Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Potential Profitability of Strip Intercropping with Corn and Soybeans",
+   "authors": [
+    "Barry Ward",
+    "Brian E. Roe",
+    "Marvin T. Batte"
+   ],
+   "year": 2016,
+   "venue": "Journal of Farm Managers and Rural Appraisers",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Household Food Waste: Multivariate Regression and Principal Components Analyses of Awareness and Attitudes among U.S. Consumers",
+   "authors": [
+    "Danyi Qi",
+    "Brian E Roe"
+   ],
+   "year": 2016,
+   "venue": "PLOS ONE",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Hypothetical Bias Mitigation Techniques in Choice Experiments: Do Cheap Talk and Honesty Priming Effects Fade with Repeated Choices?",
+   "authors": [
+    "Greg Howard",
+    "Brian E. Roe",
+    "Erik C. Nisbet",
+    "Jay F. Martin"
+   ],
+   "year": 2017,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Assessing the National Bioengineered Food Disclosure Standard of 2016: Can Americans Access Electronic Disclosure Information?",
+   "authors": [
+    "Craig F Berning",
+    "Brian E. Roe"
+   ],
+   "year": 2017,
+   "venue": "Sustainability",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Multidimensional Quality Sorting Between Online and Offline Auctions: The Role of Attribute Transparency",
+   "authors": [
+    "Jafar Olimov",
+    "Brian E. Roe"
+   ],
+   "year": 2017,
+   "venue": "International Journal of Industrial Organization",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Foodservice Composting Crowds Out Consumer Food Waste Reduction Behavior in a Dining Experiment",
+   "authors": [
+    "Danyi Qi",
+    "Brian E. Roe"
+   ],
+   "year": 2017,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Understanding Participation in Farm to School Programs: Results Integrating School and Supply Side Factors",
+   "authors": [
+    "Elizabeth R Botkins",
+    "Brian E. Roe"
+   ],
+   "year": 2018,
+   "venue": "Food Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Additionality When REDD Contracts Must be Self-enforcing",
+   "authors": [
+    "Paula Cordero Salas",
+    "Brian E. Roe",
+    "Brent Sohngen"
+   ],
+   "year": 2018,
+   "venue": "Environmental & Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Discard Intentions are Lower for Milk Presented in Containers without Date Labels",
+   "authors": [
+    "Brian E Roe",
+    "David M Phinney",
+    "Christopher T Simons",
+    "Aishwarya S Badiger",
+    "Kathryn E Bender",
+    "Dennis R Heldman"
+   ],
+   "year": 2018,
+   "venue": "Food Quality and Preference",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Plate waste of adults in the United States measured in free-living conditions",
+   "authors": [
+    "Brian E Roe",
+    "John W. Apolzan",
+    "Danyi Qi",
+    "H. Raymond Allen",
+    "Corby K. Martin"
+   ],
+   "year": 2018,
+   "venue": "PLOS ONE",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Impact of Intensity on Perceived Risk from Unconventional Shale Gas Development",
+   "authors": [
+    "M. R. Livy",
+    "S. Gopalakrishnan",
+    "H. A. Klaiber",
+    "B. E Roe"
+   ],
+   "year": 2018,
+   "venue": "Journal of Environmental Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Generosity, Fairness, Trust and Time: The Performance of Therapeutic Community Residents in Economics Experiments",
+   "authors": [
+    "Anup Gampa",
+    "Jessica Linley",
+    "Brian E Roe",
+    "Keith Warren"
+   ],
+   "year": 2018,
+   "venue": "Therapeutic Communities: The International Journal of Therapeutic Communities",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Exploring Food Loss from Farm-to-Retail in the Produce Industry",
+   "authors": [
+    "Claudia Hitaj",
+    "Fred Kuchler",
+    "Travis Minor",
+    "Sharon Raszap Skorbiansky",
+    "Brian Roe",
+    "Suzanne Thornsbury"
+   ],
+   "year": 2019,
+   "venue": "Choices",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An intersection of privatization and public utility regulation: The Ohio State University's energy concession agreement",
+   "authors": [
+    "Noah Dormady",
+    "Doug Jones",
+    "Brian E. Roe",
+    "Guy Rub"
+   ],
+   "year": 2019,
+   "venue": "Utilities Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Food-related routines, product characteristics, and household food waste in the United States: A refrigerator-based pilot study",
+   "authors": [
+    "Megan Davenport",
+    "Danyi Qi",
+    "Brian E. Roe"
+   ],
+   "year": 2019,
+   "venue": "Resources, Conservation & Recycling",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Industry versus Government Regulation of Food Date Labels: Observed Adherence to Industry-Endorsed Phrases",
+   "authors": [
+    "Brian E Roe",
+    "Danyi Qi",
+    "Kathryn Bender",
+    "Julia Hilty"
+   ],
+   "year": 2019,
+   "venue": "Sustainability",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Tradeoffs in Farm to School Implementation: Larger Foodsheds and Longer Supply Chains Drive More Local Food Expenditures",
+   "authors": [
+    "Zoe Plakias",
+    "H. Allen Klaiber",
+    "Brian E. Roe"
+   ],
+   "year": 2020,
+   "venue": "Journal of Agricultural and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Some Issues in the Ethics of Food Waste",
+   "authors": [
+    "Brian E Roe",
+    "Danyi Qi",
+    "Kathryn Bender"
+   ],
+   "year": 2020,
+   "venue": "Physiology & Behavior",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Validity, Time Burden, and User Satisfaction of the FoodImage(TM) Smartphone App for Food Waste Measurement Versus Diaries: A Randomized Crossover Trial",
+   "authors": [
+    "Brian E Roe",
+    "Danyi Qi",
+    "Robbie A. Beyl",
+    "Karissa E. Neubig",
+    "Corby K. Martin",
+    "John W. Apolzan"
+   ],
+   "year": 2020,
+   "venue": "Resources, Conservation & Recycling",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Food Waste Declined More in Rural Chinese Households with Livestock",
+   "authors": [
+    "Danyi Qi",
+    "Wangyang Lai",
+    "Brian E Roe"
+   ],
+   "year": 2020,
+   "venue": "Food Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Unpacking the Decline in Food Waste Measured in Chinese Households from 1991 to 2009",
+   "authors": [
+    "Danyi Qi",
+    "John Apolzan",
+    "Ran Li",
+    "Brian E. Roe"
+   ],
+   "year": 2020,
+   "venue": "Resources, Conservation & Recycling",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Selection, Intake, and Plate Waste Patterns of Leftover Food Items From a Pilot Study with U.S. Consumers",
+   "authors": [
+    "Brian E Roe",
+    "Danyi Qi",
+    "John W. Apolzan",
+    "Corby K. Martin"
+   ],
+   "year": 2020,
+   "venue": "PLOS ONE",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Impact of COVID-19 on Consumer Food Waste",
+   "authors": [
+    "Brian E Roe",
+    "Kathryn Bender",
+    "Danyi Qi"
+   ],
+   "year": 2020,
+   "venue": "Applied Economic Perspectives and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Addressing Attribute Value Substitution in Discrete Choice Experiments to Avoid Unintended Consequences",
+   "authors": [
+    "G. Howard",
+    "B. E. Roe",
+    "M. G. Interis",
+    "J. Martin"
+   ],
+   "year": 2020,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Perceived vulnerability to COVID-19 infection from event attendance: Results from Louisiana, USA, two weeks preceding the national emergency declaration",
+   "authors": [
+    "Ran Li",
+    "Bingcheng Yang",
+    "Jerrod Penn",
+    "Bailey Houghtaling",
+    "Juan Chen",
+    "Witoon Prinyawiwatkul",
+    "Brian E. Roe",
+    "Danyi Qi"
+   ],
+   "year": 2020,
+   "venue": "BMC Public Health",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Putting Relational Contract Theory to the Test: Experimental Evidence",
+   "authors": [
+    "Nisvan Erkal",
+    "Steven Y. Wu",
+    "Brian E. Roe"
+   ],
+   "year": 2021,
+   "venue": "Experimental Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Adapting, Refining and Expanding a Validated Questionnaire to Measure Food Waste in US Households",
+   "authors": [
+    "Y. Shu",
+    "B. E. Roe",
+    "K Bender"
+   ],
+   "year": 2021,
+   "venue": "MethodsX",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Consumer Behavior during the COVID-19 Pandemic: An analysis of food purchasing and management behaviors in U.S. households through the lens of food system resilience",
+   "authors": [
+    "K. E. Bender",
+    "A. Badiger",
+    "B. E. Roe",
+    "Y. Shu",
+    "D. Qi"
+   ],
+   "year": 2021,
+   "venue": "Socio-Economic Planning Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Public-Private Partnership to Locate Fields for Implementation and Monitoring of Best Management Practices to Treat Legacy Phosphorus",
+   "authors": [
+    "M. R. Brooker",
+    "J. D'Ambrosio",
+    "M. Jones",
+    "M. Kalcic",
+    "K. W. King",
+    "G. LaBarge",
+    "T. Panchalingam",
+    "B. E. Roe",
+    "E. R. Schwab",
+    "C. Soldo",
+    "N. D. Stoltzfus",
+    "R. S. Wilson",
+    "R. J. Winston",
+    "J. F. Martin"
+   ],
+   "year": 2021,
+   "venue": "Frontiers in Sustainable Food Systems",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Winning Ugly: Profit Maximizing Marketing Strategies for Ugly Foods",
+   "authors": [
+    "Danyi Qi",
+    "Jerrod Penn",
+    "Ran Li",
+    "Brian E. Roe"
+   ],
+   "year": 2022,
+   "venue": "Journal of Retailing and Consumer Services",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Randomized Controlled Trial to Address Consumer Food Waste with a Technology-aided Tailored Sustainability Intervention",
+   "authors": [
+    "BE Roe",
+    "D Qi",
+    "RA Beyl",
+    "KE Neubig",
+    "JW Apolzan",
+    "CK Martin"
+   ],
+   "year": 2022,
+   "venue": "Resources, Conservation & Recycling",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Transforming Wasted Food Requires Systemic and Sustainable Infrastructure Innovations",
+   "authors": [
+    "C. W. Babbitt",
+    "R. Neff",
+    "B. E. Roe",
+    "S. Siddiqui",
+    "C. Chavis",
+    "T Trabold"
+   ],
+   "year": 2022,
+   "venue": "Current Opinion in Environmental Sustainability",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Learning about our Vices from Devices: A Model of Individual Learning with an Application to Consumer Food Waste",
+   "authors": [
+    "D. Qi",
+    "J. Apolzan",
+    "R. Li",
+    "B. E. Roe",
+    "C. K. Martin"
+   ],
+   "year": 2022,
+   "venue": "Journal of Agricultural and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Measuring Food Loss and Waste Costs in the Italian Potato Chip Industry using Material Flow Cost Accounting",
+   "authors": [
+    "V. Amicarelli",
+    "B. E. Roe",
+    "C. Bux"
+   ],
+   "year": 2022,
+   "venue": "Agriculture",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Nudging Greater Vegetable Intake and Less Food Waste: A Field Experiment",
+   "authors": [
+    "D. Qi",
+    "R. Li",
+    "J. Penn",
+    "B. Houghtaling",
+    "W. Prinyawiwatkul",
+    "B.E. Roe"
+   ],
+   "year": 2022,
+   "venue": "Food Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Food Choice Behavior of Adolescents under Parent-Child Interaction in the Context of US School Lunch Programs",
+   "authors": [
+    "T. Panchalingam",
+    "G. Howard",
+    "H. A. Klaiber",
+    "B. E Roe"
+   ],
+   "year": 2023,
+   "venue": "Food Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Evaluation of a Community-Based Food Waste Campaign Using a National Control Group",
+   "authors": [
+    "Y. Shu",
+    "A. Booker",
+    "J. Karetny",
+    "K. O'Keefe",
+    "K. Rees",
+    "L. Schroder",
+    "B. E Roe"
+   ],
+   "year": 2023,
+   "venue": "Waste Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Household Food Waste Trending Upwards in the United States: Insights from a National Tracking Survey",
+   "authors": [
+    "R. Li",
+    "Y. Shu",
+    "K. E. Bender",
+    "B. E. Roe"
+   ],
+   "year": 2023,
+   "venue": "Journal of the Agricultural and Applied Economics Association",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "When Considering Whether to Waste Food, Consumers Focus Attention on Food Label Dates Rather than Phrases",
+   "authors": [
+    "A. Badiger",
+    "T. Katz",
+    "C. T. Simons",
+    "B. E. Roe"
+   ],
+   "year": 2023,
+   "venue": "Waste Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Understanding the Reward Worth the Risk: The True Cost of Showing Pigs, with or without Influenza",
+   "authors": [
+    "J. E. Brophy",
+    "J. Park",
+    "A. S. Bowman",
+    "B. E. Roe",
+    "J. M. Nolting"
+   ],
+   "year": 2024,
+   "venue": "Preventive Veterinary Medicine",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Segmenting U.S. Consumers by Food Waste Attitudes and Behaviors: Opportunities for Targeting Reduction Interventions",
+   "authors": [
+    "R. Li",
+    "B. E. Roe"
+   ],
+   "year": 2024,
+   "venue": "Sustainable Production and Consumption",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Frozen Food Purchasing and Home Freezing of Fresh Foods: Associations with Household Food Waste",
+   "authors": [
+    "L. Xu",
+    "R. Li",
+    "B.E. Roe"
+   ],
+   "year": 2024,
+   "venue": "British Food Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Quantifying Phosphorus Loads from Legacy-Phosphorus Fields",
+   "authors": [
+    "M. R. Booker",
+    "J. D'Ambrosio",
+    "M. Kalcic",
+    "K. W. King",
+    "G. LaBarge",
+    "B. E. Roe",
+    "N. D. Stoltzfus",
+    "S. Francis",
+    "R. Crow",
+    "R. S. Wilson",
+    "R. J. Winston",
+    "J. F. Martin"
+   ],
+   "year": 2024,
+   "venue": "Journal of Great Lakes Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Changes in Food Waste among a Sample of U.S. Consumers after Beginning Anti-Obesity Medication",
+   "authors": [
+    "J. Mansouri",
+    "B. E. Roe"
+   ],
+   "year": 2024,
+   "venue": "Nutrients",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "School and Meal Characteristics Associated with Plate Waste in K-12 Cafeterias in the United States",
+   "authors": [
+    "E. S. Adjapong",
+    "S. Schaefer",
+    "K. E. Bender",
+    "B. E. Roe"
+   ],
+   "year": 2024,
+   "venue": "PLOS ONE",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Anti-obesity Medication Patients' Self-reported Food Savings versus the Cost of Such Medicines",
+   "authors": [
+    "B. E Roe"
+   ],
+   "year": 2024,
+   "venue": "International Journal of Obesity",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Food Demand in a Post-Ozempic World",
+   "authors": [
+    "B.E. Roe"
+   ],
+   "year": 2024,
+   "venue": "Choices",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Food Waste Recycling Behaviors among Short-term Rental Lodgers and Hosts",
+   "authors": [
+    "B.E. Roe",
+    "S.S. Ganbat",
+    "M. Malhotra"
+   ],
+   "year": 2024,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Assessing Environmental Gains from Sustainability Interventions in a Competitive Market Setting: A Foodservice Case Study",
+   "authors": [
+    "R. Li",
+    "F. Nazemi",
+    "Y. Shu",
+    "D. Qi",
+    "B. Bakshi",
+    "B.E. Roe"
+   ],
+   "year": 2024,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Youth Height but not Body Mass Index is Greater in Chinese Provinces that Experienced More Market Liberalization: The Role of Milk Consumption",
+   "authors": [
+    "D. Qi",
+    "R. Li",
+    "J.W. Apolzan",
+    "B.E. Roe"
+   ],
+   "year": 2024,
+   "venue": "Under revision (journal not named)",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Green supply chain management in hospital catering: A 3-year comparative assessment of food waste and carbon footprints",
+   "authors": [
+    "C. Bux",
+    "G. Zizzo",
+    "B.E. Roe",
+    "V. Amicarelli"
+   ],
+   "year": 2024,
+   "venue": "Under revision (journal not named)",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Convergence research for sustainable regional systems",
+   "authors": [
+    "H. Chang",
+    "B.E. Roe",
+    "M. Erkoc",
+    "J. Heyman",
+    "K. Foo",
+    "D. Sanyal",
+    "D. Banerjee",
+    "R. Rushforth",
+    "J. Srinivasan"
+   ],
+   "year": 2024,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Comparing Carrots and Sticks to Create a More Circular Food System",
+   "authors": [
+    "J. Jeong",
+    "Y.Y. Cai",
+    "B.E. Roe"
+   ],
+   "year": 2024,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Shelf Life, Consumption Uncertainty, and Food Waste",
+   "authors": [
+    "Y. Yu",
+    "B.E. Roe"
+   ],
+   "year": 2024,
+   "venue": "SSRN Working Paper",
+   "status": "工作论文",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4535144",
+   "abstract": null
+  }
+ ]
+}

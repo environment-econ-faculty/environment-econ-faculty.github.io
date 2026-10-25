@@ -1,0 +1,566 @@
+{
+ "slug": "ariel-ortiz-bobea",
+ "name": "Ariel Ortiz-Bobea",
+ "sources": [
+  "https://arielortizbobea.github.io/research/ (homepage research page, 2026)",
+  "https://apps.business.cornell.edu/faculty-research/faculty/vita/ao332 (older CV; not used for the list)"
+ ],
+ "collected": "2026-10-25",
+ "notes": "Source: homepage research page (newer than CV): 34 listed publications + 6 R&R (year 2026 = page date). Two \"In progress\" working papers (He/Lobell; He/Wu wildfire) marked \"in preparation\" were skipped. Author lists for Earth's Future (~200 authors), Science 2024 (Yang, Tilman, Jin et al.), the SIF yield paper etc. are partial/abbreviated as given on the page (initials as written). Page gives summaries, not verbatim abstracts, so abstract is null.",
+ "papers": [
+  {
+   "title": "Growing more while emitting less? Decoupling U.S. agricultural production and greenhouse gas emissions",
+   "authors": [
+    "Ariel Ortiz-Bobea",
+    "Simone Pieralli",
+    "Jeisson Prieto"
+   ],
+   "year": 2026,
+   "venue": "Applied Economic Perspectives and Policy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1002/aepp.70131",
+   "abstract": null
+  },
+  {
+   "title": "Research Priorities for Robust Climate Assessments in the United States",
+   "authors": [
+    "M.A. Kenney",
+    "R.E. Kopp",
+    "C. Samaras",
+    "Ariel Ortiz-Bobea"
+   ],
+   "year": 2026,
+   "venue": "Earth's Future",
+   "status": "已发表",
+   "url": "https://doi.org/10.1029/2025EF007336",
+   "abstract": null
+  },
+  {
+   "title": "Milk composition responses amplify economic damages from heat stress",
+   "authors": [
+    "Jeisson Prieto",
+    "Ziyi Lin",
+    "Kristan F. Reed",
+    "Christopher A. Wolf",
+    "Ariel Ortiz-Bobea"
+   ],
+   "year": 2026,
+   "venue": "Environmental Research Letters",
+   "status": "已发表",
+   "url": "https://doi.org/10.1088/1748-9326/ae74e6",
+   "abstract": null
+  },
+  {
+   "title": "Unpacking the growth of global agricultural greenhouse gas emissions",
+   "authors": [
+    "Ariel Ortiz-Bobea",
+    "Simone Pieralli"
+   ],
+   "year": 2026,
+   "venue": "Science Advances",
+   "status": "已发表",
+   "url": "https://doi.org/10.1126/sciadv.aeb8653",
+   "abstract": null
+  },
+  {
+   "title": "Harnessing satellite data for the next generation of agri-environmental policies",
+   "authors": [
+    "David Wuepper",
+    "Jan Dirk Wegner",
+    "Nikolina Mileva",
+    "Jean Bouchat",
+    "Shijuan Chen",
+    "Ariel Ortiz-Bobea",
+    "Robert Finger"
+   ],
+   "year": 2026,
+   "venue": "Environmental Research Letters",
+   "status": "已发表",
+   "url": "https://doi.org/10.1088/1748-9326/ae2d77",
+   "abstract": null
+  },
+  {
+   "title": "Impacts of Large-Scale Solar-Enabling Legislation on Farmland Values",
+   "authors": [
+    "Zhiyun Li",
+    "Wendong Zhang",
+    "Ariel Ortiz-Bobea"
+   ],
+   "year": 2025,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.3368/le.102.2.022625-0013R",
+   "abstract": null
+  },
+  {
+   "title": "Large increases in public R&D investment are needed to avoid declines of US agricultural productivity",
+   "authors": [
+    "Ariel Ortiz-Bobea",
+    "Robert G. Chambers",
+    "Yurou He",
+    "David B. Lobell"
+   ],
+   "year": 2025,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "https://doi.org/10.1073/pnas.2411010122",
+   "abstract": null
+  },
+  {
+   "title": "The Role of Staple Food Prices in Deforestation: Evidence from Cambodia",
+   "authors": [
+    "Steven W. Wilcox",
+    "David R. Just",
+    "Ariel Ortiz-Bobea"
+   ],
+   "year": 2025,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.3368/le.101.1.100423-0097R",
+   "abstract": null
+  },
+  {
+   "title": "New York State Climate Impacts Assessment Chapter 03: Agriculture",
+   "authors": [
+    "D. Aller",
+    "A.M. Chatrchyan",
+    "A. Calixto",
+    "J. Cummings",
+    "A. Ortiz-Bobea",
+    "G. Peck",
+    "J. Schouten",
+    "B. Weikert",
+    "E. Wolters",
+    "A. Stevens"
+   ],
+   "year": 2024,
+   "venue": "Annals of the New York Academy of Sciences",
+   "status": "已发表",
+   "url": "http://doi.org/10.1111/nyas.15192",
+   "abstract": null
+  },
+  {
+   "title": "Climate change exacerbates the environmental impacts of agriculture",
+   "authors": [
+    "Y. Yang",
+    "D. Tilman",
+    "Z. Jin",
+    "Ariel Ortiz-Bobea",
+    "D.B. Lobell"
+   ],
+   "year": 2024,
+   "venue": "Science",
+   "status": "已发表",
+   "url": "https://doi.org/10.1126/science.adn3747",
+   "abstract": null
+  },
+  {
+   "title": "Double cropping as an adaptation to climate change in the United States",
+   "authors": [
+    "Matthew Gammans",
+    "Ariel Ortiz-Bobea",
+    "Pierre Mérel"
+   ],
+   "year": 2024,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/ajae.12491",
+   "abstract": null
+  },
+  {
+   "title": "A scalable crop yield estimation framework based on remote sensing of solar-induced chlorophyll fluorescence (SIF)",
+   "authors": [
+    "O. Kira",
+    "J. Wen",
+    "J. Han",
+    "A.J. McDonald",
+    "C.B. Barrett",
+    "Ariel Ortiz-Bobea",
+    "Y. Liu",
+    "L. You",
+    "N. Mueller",
+    "Y. Sun"
+   ],
+   "year": 2024,
+   "venue": "Environmental Research Letters",
+   "status": "已发表",
+   "url": "https://doi.org/10.1088/1748-9326/ad3142",
+   "abstract": null
+  },
+  {
+   "title": "Temperature Shocks and Industry Earnings News",
+   "authors": [
+    "Jawad Addoum",
+    "David Ng",
+    "Ariel Ortiz-Bobea"
+   ],
+   "year": 2023,
+   "venue": "Journal of Financial Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jfineco.2023.07.002",
+   "abstract": null
+  },
+  {
+   "title": "A new look at agricultural fires and health: A replication of Rangel and Vogl (2019)",
+   "authors": [
+    "Matthew Gammans",
+    "Ariel Ortiz-Bobea"
+   ],
+   "year": 2023,
+   "venue": "Applied Economic Perspectives and Policy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1002/aepp.13393",
+   "abstract": null
+  },
+  {
+   "title": "Structural Transformation, Agriculture, Climate, and the Environment",
+   "authors": [
+    "Chris B. Barrett",
+    "Ariel Ortiz-Bobea",
+    "Trinh Pham"
+   ],
+   "year": 2023,
+   "venue": "Review of Environmental Economics and Policy",
+   "status": "已发表",
+   "url": "https://www.journals.uchicago.edu/doi/10.1086/725319",
+   "abstract": null
+  },
+  {
+   "title": "A GNN-RNN approach for harnessing geospatial and temporal information: application to crop yield prediction",
+   "authors": [
+    "Joshua Fan",
+    "Junwen Bai",
+    "Zhiyun Li",
+    "Ariel Ortiz-Bobea",
+    "Carla P. Gomes"
+   ],
+   "year": 2022,
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence",
+   "status": "已发表",
+   "url": "https://ojs.aaai.org/index.php/AAAI/article/view/21444",
+   "abstract": null
+  },
+  {
+   "title": "On the Timing of Relevant Weather Conditions in Agriculture",
+   "authors": [
+    "Zhiyun Li",
+    "Ariel Ortiz-Bobea"
+   ],
+   "year": 2022,
+   "venue": "Journal of the Agricultural and Applied Economics Association",
+   "status": "已发表",
+   "url": "https://doi.org/10.1002/jaa2.21",
+   "abstract": null
+  },
+  {
+   "title": "Heat exposure and child nutrition: Evidence from West Africa",
+   "authors": [
+    "Sylvia Blom",
+    "Ariel Ortiz-Bobea",
+    "John Hoddinott"
+   ],
+   "year": 2022,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jeem.2022.102698",
+   "abstract": null
+  },
+  {
+   "title": "The Empirical Analysis of Climate Change Impacts and Adaptation in Agriculture",
+   "authors": [
+    "Ariel Ortiz-Bobea"
+   ],
+   "year": 2021,
+   "venue": "Handbook of Agricultural Economics",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/pii/S1574007221000025",
+   "abstract": null
+  },
+  {
+   "title": "How big is the 'lemons' problem? Historical evidence from French wines",
+   "authors": [
+    "Pierre Mérel",
+    "Ariel Ortiz-Bobea",
+    "Emmanuel Paroissien"
+   ],
+   "year": 2021,
+   "venue": "European Economic Review",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.euroecorev.2021.103824",
+   "abstract": null
+  },
+  {
+   "title": "A Vulnerability Index for Priority Targeting of Agricultural Crops Under a Changing Climate",
+   "authors": [
+    "Calum Turvey",
+    "Jiajun Du",
+    "Yurou He",
+    "Ariel Ortiz-Bobea"
+   ],
+   "year": 2021,
+   "venue": "Climatic Change",
+   "status": "已发表",
+   "url": "https://doi.org/10.1007/s10584-021-03135-8",
+   "abstract": null
+  },
+  {
+   "title": "Anthropogenic climate change has slowed global agricultural productivity growth",
+   "authors": [
+    "Ariel Ortiz-Bobea",
+    "Toby R. Ault",
+    "Carlos M. Carrillo",
+    "Robert G. Chambers",
+    "David B. Lobell"
+   ],
+   "year": 2021,
+   "venue": "Nature Climate Change",
+   "status": "已发表",
+   "url": "https://doi.org/10.1038/s41558-021-01000-1",
+   "abstract": null
+  },
+  {
+   "title": "How weather affects the decomposition of Total Factor Productivity in U.S. agriculture",
+   "authors": [
+    "Alejandro Plastina",
+    "Sergio Lence",
+    "Ariel Ortiz-Bobea"
+   ],
+   "year": 2021,
+   "venue": "Agricultural Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/agec.12615",
+   "abstract": null
+  },
+  {
+   "title": "Temperature Shocks and Establishment Sales",
+   "authors": [
+    "Jawad Addoum",
+    "David Ng",
+    "Ariel Ortiz-Bobea"
+   ],
+   "year": 2020,
+   "venue": "Review of Financial Studies",
+   "status": "已发表",
+   "url": "https://doi.org/10.1093/rfs/hhz126",
+   "abstract": null
+  },
+  {
+   "title": "The Role of Nonfarm Influences in Ricardian Estimates of Climate Change Impacts on U.S. Agriculture",
+   "authors": [
+    "Ariel Ortiz-Bobea"
+   ],
+   "year": 2020,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1093/ajae/aaz047",
+   "abstract": null
+  },
+  {
+   "title": "Unpacking the climatic drivers of U.S. agricultural yields",
+   "authors": [
+    "Ariel Ortiz-Bobea",
+    "Haoying Wang",
+    "Carlos Carrillo",
+    "Toby R. Ault"
+   ],
+   "year": 2019,
+   "venue": "Environmental Research Letters",
+   "status": "已发表",
+   "url": "https://iopscience.iop.org/article/10.1088/1748-9326/ab1e75",
+   "abstract": null
+  },
+  {
+   "title": "Market-Driven Corn Monoculture in the US Midwest",
+   "authors": [
+    "Haoying Wang",
+    "Ariel Ortiz-Bobea"
+   ],
+   "year": 2019,
+   "venue": "Agricultural and Resource Economics Review",
+   "status": "已发表",
+   "url": "https://doi.org/10.1017/age.2019.4",
+   "abstract": null
+  },
+  {
+   "title": "Is Another Genetic Revolution Needed to Offset Climate Change Impacts for US Maize Yields?",
+   "authors": [
+    "Ariel Ortiz-Bobea",
+    "Jesse Tack"
+   ],
+   "year": 2018,
+   "venue": "Environmental Research Letters",
+   "status": "已发表",
+   "url": "https://doi.org/10.1088/1748-9326/aae9b8",
+   "abstract": null
+  },
+  {
+   "title": "Growing Climatic Sensitivity of US Agriculture Linked to Technological Change and Regional Specialization",
+   "authors": [
+    "Ariel Ortiz-Bobea",
+    "Erwin Knippenberg",
+    "Robert G. Chambers"
+   ],
+   "year": 2018,
+   "venue": "Science Advances",
+   "status": "已发表",
+   "url": "https://doi.org/10.1126/sciadv.aat4343",
+   "abstract": null
+  },
+  {
+   "title": "US Maize Yield Growth and Countervailing Climate Change Impacts",
+   "authors": [
+    "Ariel Ortiz-Bobea"
+   ],
+   "year": 2018,
+   "venue": "Climate Smart Agriculture (book chapter)",
+   "status": "已发表",
+   "url": "https://doi.org/10.1007/978-3-319-61194-5_8",
+   "abstract": null
+  },
+  {
+   "title": "Climate Change and California Agriculture",
+   "authors": [
+    "Katrina Jessoe",
+    "Pierre Mérel",
+    "Ariel Ortiz-Bobea"
+   ],
+   "year": 2018,
+   "venue": "California Agriculture: Dimensions and Issues (book chapter)",
+   "status": "已发表",
+   "url": "https://s.giannini.ucop.edu/uploads/giannini_public/56/a1/56a1a83d-16d2-4f0d-85df-35be6ed1dafc/climatechange.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Negative impacts of climate change on cereal yields: statistical evidence from France",
+   "authors": [
+    "Matthew Gammans",
+    "Pierre Mérel",
+    "Ariel Ortiz-Bobea"
+   ],
+   "year": 2017,
+   "venue": "Environmental Research Letters",
+   "status": "已发表",
+   "url": "https://doi.org/10.1088/1748-9326/aa6b0c",
+   "abstract": null
+  },
+  {
+   "title": "Using the Delphi method to value protection of the Amazon rainforest",
+   "authors": [
+    "J. Strand",
+    "R.T. Carson",
+    "S. Navrud",
+    "Ariel Ortiz-Bobea",
+    "J.R. Vincent"
+   ],
+   "year": 2017,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.ecolecon.2016.09.028",
+   "abstract": null
+  },
+  {
+   "title": "Modeling the Structure of Adaptation in Climate Change Impact Assessment for Agriculture",
+   "authors": [
+    "Ariel Ortiz-Bobea",
+    "Richard E. Just"
+   ],
+   "year": 2013,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1093/ajae/aas035",
+   "abstract": null
+  },
+  {
+   "title": "Heterogeneity and Market Adaptation to Climate Change in Dynamic-Spatial Equilibrium",
+   "authors": [
+    "Ivan Rudik",
+    "Gary Lyn",
+    "Weiliang Tan",
+    "Ariel Ortiz-Bobea"
+   ],
+   "year": 2026,
+   "venue": "Journal of Political Economy Macroeconomics",
+   "status": "修改重投",
+   "url": "https://osf.io/preprints/socarxiv/usghb",
+   "abstract": null
+  },
+  {
+   "title": "Optimal Forest Management for Interdependent Products: A Nested Stochastic Dynamic Bioeconomic Model and Application to Bamboo",
+   "authors": [
+    "Tong Wu",
+    "David R. Just",
+    "C.-Y. Cynthia Lin Lawell",
+    "Ariel Ortiz-Bobea",
+    "Jiancheng Zhao"
+   ],
+   "year": 2026,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Bamboo Cycle",
+   "authors": [
+    "Tong Wu",
+    "Jennifer E. Ifft",
+    "David R. Just",
+    "C.-Y. Cynthia Lin Lawell",
+    "Ariel Ortiz-Bobea",
+    "Jiancheng Zhao",
+    "Zhangjun Fei",
+    "Qiang Wei"
+   ],
+   "year": 2026,
+   "venue": "Journal of the Agricultural and Applied Economics Association",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Weather-driven US milk yield losses and economic damages revealed by 9 million cows",
+   "authors": [
+    "Eukyoung Choi",
+    "Frances Davenport",
+    "Ziyi Lin",
+    "Ariel Ortiz-Bobea",
+    "Kristan Reed",
+    "Ermias Kebreab",
+    "Nathaniel Mueller"
+   ],
+   "year": 2026,
+   "venue": "Nature Food",
+   "status": "修改重投",
+   "url": "https://doi.org/10.21203/rs.3.rs-8227805/v1",
+   "abstract": null
+  },
+  {
+   "title": "Climate Change as a Determinant of Migrant Family Reunification",
+   "authors": [
+    "Brian H. Park",
+    "Arnab K. Basu",
+    "Nancy H. Chau",
+    "Filiz Garip",
+    "Ariel Ortiz-Bobea"
+   ],
+   "year": 2026,
+   "venue": "Networks and Spatial Economics",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The impact of extreme heat on farm finances: farm-level evidence from Kansas",
+   "authors": [
+    "Osama Sajid",
+    "Jenny Ifft",
+    "Ariel Ortiz-Bobea"
+   ],
+   "year": 2026,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "修改重投",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5022435",
+   "abstract": null
+  }
+ ]
+}

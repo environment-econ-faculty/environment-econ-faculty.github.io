@@ -1,0 +1,328 @@
+{
+ "slug": "riccardo-colacito",
+ "name": "Riccardo Colacito",
+ "sources": [
+  "https://drric.web.unc.edu/publications-new/",
+  "https://drric.web.unc.edu/research/working-papers/"
+ ],
+ "collected": "2026-10-25",
+ "notes": "Homepage only (CV not read). Coauthors of published papers as shown on page (some initials only). The working-paper page lists NO coauthors, so only Colacito is listed for those 5 (likely incomplete; some are probably coauthored). WP years from page. Omitted 2009 WP, book chapter, discussions.",
+ "papers": [
+  {
+   "title": "Volatility (Dis)Connect in International Markets",
+   "authors": [
+    "Riccardo Colacito",
+    "M. Croce",
+    "Y. Liu",
+    "I. Shaliastovich"
+   ],
+   "year": 2026,
+   "venue": "Management Science",
+   "status": "已发表",
+   "url": "https://pubsonline.informs.org/doi/10.1287/mnsc.2023.03930",
+   "abstract": null
+  },
+  {
+   "title": "Global Sales, International Currencies and the Currency Denomination of Debt",
+   "authors": [
+    "Riccardo Colacito",
+    "Y. Qian",
+    "A. Stathopoulos"
+   ],
+   "year": 2025,
+   "venue": "Journal of Financial Economics",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/abs/pii/S0304405X25001928",
+   "abstract": null
+  },
+  {
+   "title": "Concealed Carry",
+   "authors": [
+    "Riccardo Colacito",
+    "S. Andrews",
+    "M. Croce",
+    "F. Gavazzoni"
+   ],
+   "year": 2023,
+   "venue": "Journal of Financial Economics",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/pii/S0304405X24000977",
+   "abstract": null
+  },
+  {
+   "title": "Volatility Risk Pass-Through",
+   "authors": [
+    "Riccardo Colacito",
+    "M. Croce",
+    "Y. Liu",
+    "I. Shaliastovich"
+   ],
+   "year": 2022,
+   "venue": "Review of Financial Studies",
+   "status": "已发表",
+   "url": "https://academic.oup.com/rfs/article-abstract/35/5/2345/6358737",
+   "abstract": null
+  },
+  {
+   "title": "Business Cycles and Currency Returns",
+   "authors": [
+    "Riccardo Colacito",
+    "S. Riddiough",
+    "L. Sarno"
+   ],
+   "year": 2020,
+   "venue": "Journal of Financial Economics",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/abs/pii/S0304405X20301203",
+   "abstract": null
+  },
+  {
+   "title": "Temperature and Growth: a Panel Analysis of the United States",
+   "authors": [
+    "Riccardo Colacito",
+    "B. Hoffmann",
+    "Toan Phan"
+   ],
+   "year": 2019,
+   "venue": "Journal of Money, Credit and Banking",
+   "status": "已发表",
+   "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/jmcb.12574",
+   "abstract": null
+  },
+  {
+   "title": "The Term Structures of Coentropy in International Financial Markets",
+   "authors": [
+    "Riccardo Colacito",
+    "F. Chabi-Yo"
+   ],
+   "year": 2019,
+   "venue": "Management Science",
+   "status": "已发表",
+   "url": "https://pubsonline.informs.org/doi/pdf/10.1287/mnsc.2017.3017",
+   "abstract": null
+  },
+  {
+   "title": "Recursive Allocations and Wealth Distribution with Multiple Goods: Existence, Survivorship, and Dynamics",
+   "authors": [
+    "Riccardo Colacito",
+    "M. Croce",
+    "Y. Liu"
+   ],
+   "year": 2019,
+   "venue": "Quantitative Economics",
+   "status": "已发表",
+   "url": "https://onlinelibrary.wiley.com/doi/full/10.3982/QE457",
+   "abstract": null
+  },
+  {
+   "title": "Currency Risk Factors in a Recursive Multi-Country Economy",
+   "authors": [
+    "Riccardo Colacito",
+    "M. Croce",
+    "F. Gavazzoni",
+    "R. Ready"
+   ],
+   "year": 2018,
+   "venue": "Journal of Finance",
+   "status": "已发表",
+   "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12720",
+   "abstract": null
+  },
+  {
+   "title": "BKK the EZ Way: International Long-Run Growth News and Capital Flows",
+   "authors": [
+    "Riccardo Colacito",
+    "Max Croce",
+    "Steven Ho",
+    "Philip Howard"
+   ],
+   "year": 2018,
+   "venue": "American Economic Review",
+   "status": "已发表",
+   "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20141123",
+   "abstract": null
+  },
+  {
+   "title": "Skewness in Expected Macro Fundamentals and the Predictability of Equity Returns: Evidence and Theory",
+   "authors": [
+    "Riccardo Colacito",
+    "Eric Ghysels",
+    "Jinghan Meng",
+    "Wasin Siwasarit"
+   ],
+   "year": 2016,
+   "venue": "Review of Financial Studies",
+   "status": "已发表",
+   "url": "https://academic.oup.com/rfs/article-abstract/29/8/2069/2583646",
+   "abstract": null
+  },
+  {
+   "title": "International Asset Pricing with Recursive Preferences",
+   "authors": [
+    "Riccardo Colacito",
+    "Max Croce"
+   ],
+   "year": 2013,
+   "venue": "Journal of Finance",
+   "status": "已发表",
+   "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/jofi.12088",
+   "abstract": null
+  },
+  {
+   "title": "O' Sole Mio: An Experimental Analysis of Weather and Risk Attitudes in Financial Decisions",
+   "authors": [
+    "Riccardo Colacito",
+    "Anna Bassi",
+    "Paolo Fulghieri"
+   ],
+   "year": 2013,
+   "venue": "Review of Financial Studies",
+   "status": "已发表",
+   "url": "https://academic.oup.com/rfs/article-abstract/26/7/1824/1606934",
+   "abstract": null
+  },
+  {
+   "title": "International Robust Disagreement",
+   "authors": [
+    "Riccardo Colacito",
+    "Max Croce"
+   ],
+   "year": 2012,
+   "venue": "American Economic Review Papers & Proceedings",
+   "status": "已发表",
+   "url": "https://www.aeaweb.org/articles?id=10.1257/aer.102.3.152",
+   "abstract": null
+  },
+  {
+   "title": "A Component Model for Dynamic Correlations",
+   "authors": [
+    "Riccardo Colacito",
+    "Robert Engle",
+    "Eric Ghysels"
+   ],
+   "year": 2011,
+   "venue": "Journal of Econometrics",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/abs/pii/S0304407611000406",
+   "abstract": null
+  },
+  {
+   "title": "Risks for the Long Run and the Real Exchange Rate",
+   "authors": [
+    "Riccardo Colacito",
+    "Max Croce"
+   ],
+   "year": 2011,
+   "venue": "Journal of Political Economy",
+   "status": "已发表",
+   "url": "https://www.journals.uchicago.edu/doi/epdfplus/10.1086/659238",
+   "abstract": null
+  },
+  {
+   "title": "The Short- and Long-Run Benefits of Financial Integration",
+   "authors": [
+    "Riccardo Colacito",
+    "Max Croce"
+   ],
+   "year": 2010,
+   "venue": "American Economic Review Papers & Proceedings",
+   "status": "已发表",
+   "url": "https://www.aeaweb.org/articles?id=10.1257/aer.100.2.527",
+   "abstract": null
+  },
+  {
+   "title": "Robustness and US Monetary Policy Experimentation",
+   "authors": [
+    "Riccardo Colacito",
+    "Tim W. Cogley",
+    "Lars Peter Hansen",
+    "Tom J. Sargent"
+   ],
+   "year": 2008,
+   "venue": "Journal of Money, Credit and Banking",
+   "status": "已发表",
+   "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1538-4616.2008.00176.x",
+   "abstract": null
+  },
+  {
+   "title": "Benefits from U.S. Monetary Policy Experimentation",
+   "authors": [
+    "Riccardo Colacito",
+    "Tim Cogley",
+    "Tom Sargent"
+   ],
+   "year": 2006,
+   "venue": "Journal of Money, Credit and Banking",
+   "status": "已发表",
+   "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/j.1538-4616.2007.00016.x",
+   "abstract": null
+  },
+  {
+   "title": "Testing and Valuing Dynamic Correlation for Asset Allocation",
+   "authors": [
+    "Riccardo Colacito",
+    "Robert F. Engle"
+   ],
+   "year": 2006,
+   "venue": "Journal of Business and Economic Statistics",
+   "status": "已发表",
+   "url": "https://www.tandfonline.com/doi/abs/10.1198/073500106000000017",
+   "abstract": null
+  },
+  {
+   "title": "What Is a Currency Worth?",
+   "authors": [
+    "Riccardo Colacito"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6460763",
+   "abstract": null
+  },
+  {
+   "title": "The POP Premium",
+   "authors": [
+    "Riccardo Colacito"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5763042",
+   "abstract": null
+  },
+  {
+   "title": "International Climate News",
+   "authors": [
+    "Riccardo Colacito"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4713016",
+   "abstract": null
+  },
+  {
+   "title": "Robust Exchange Rates and the International Entropy Frontier",
+   "authors": [
+    "Riccardo Colacito"
+   ],
+   "year": 2015,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://www.dropbox.com/s/wvm4ojyrfdw3ohw/NYU.pdf?dl=0",
+   "abstract": null
+  },
+  {
+   "title": "Six Anomalies Looking for a Model",
+   "authors": [
+    "Riccardo Colacito"
+   ],
+   "year": 2014,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://www.dropbox.com/scl/fi/4h9oxrbawikpxfufjtwa1/SixPuzzles03.pdf?rlkey=qivsxckoytojnftvdcayy88hu&dl=0",
+   "abstract": null
+  }
+ ]
+}

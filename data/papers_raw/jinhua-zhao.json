@@ -1,0 +1,1058 @@
+{
+ "slug": "jinhua-zhao",
+ "name": "Jinhua Zhao",
+ "sources": [
+  "https://apps.business.cornell.edu/faculty-research/faculty/vita/jz638",
+  "https://sites.google.com/view/jinhuazhao",
+  "https://sites.google.com/view/jinhuazhao/research"
+ ],
+ "collected": "2026-10-25",
+ "notes": "Main source: Cornell CV PDF (vita jz638; about 2025 vintage). Included refereed articles, edited-volume chapters (venue prefixed 'Book chapter:'), papers under review and working papers; skipped nonrefereed items, reprints, the Choices magazine piece and the Water Resources Update note. Working-paper years from the CV (2022-2025). Homepage listed Fan et al. as a 2022 working paper but the CV shows it published (Economic Inquiry 2025); CV used. Homepage research page lists no 2025-26 items; no newer CV was readable, so later 2026 items may be missing. The 2022 Economic Inquiry and similar year values follow the CV. URLs left blank where the CV gave no DOI.",
+ "papers": [
+  {
+   "title": "Eliciting Time and Risk Preferences of Farmers",
+   "authors": [
+    "Gabriela Perez-Quesada",
+    "Nathan P. Hendricks",
+    "Christian A. Vossler",
+    "Jinhua Zhao"
+   ],
+   "year": 2025,
+   "venue": "Journal of the Agricultural and Applied Economics Association",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The interaction of financial incentives and social norms to motivate conservation on the Tibetan Plateau",
+   "authors": [
+    "John Kerr",
+    "Rain Wuyu Liu",
+    "Jinhua Zhao",
+    "Lu Zhi",
+    "Tsering Bum",
+    "Maria Lapinski"
+   ],
+   "year": 2025,
+   "venue": "Ecosystem Services",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.ecoser.2025.101792",
+   "abstract": null
+  },
+  {
+   "title": "State Ownership and Cost-effectiveness of Environmental Policy: Firm-level Evidence",
+   "authors": [
+    "Maoyong Fan",
+    "Shunqi Ge",
+    "Haoyang Li",
+    "Jinhua Zhao"
+   ],
+   "year": 2025,
+   "venue": "Economic Inquiry",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Markup Dispersion, Industry Coverage, and the Cost of Environmental Regulation",
+   "authors": [
+    "Haoyang Li",
+    "Nan Wu",
+    "Jinhua Zhao"
+   ],
+   "year": 2025,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jeem.2025.103130",
+   "abstract": null
+  },
+  {
+   "title": "Too Much of a Good Thing: Lessons from Compromised Rootworm Bt Maize in the U.S. Corn Belt",
+   "authors": [
+    "Ziwei Ye",
+    "Christina DiFonzo",
+    "David A. Hennessy",
+    "Jinhua Zhao",
+    "Felicia Wu",
+    "Shawn P. Conley",
+    "Aaron J. Gassmann",
+    "Erin W. Hodgson",
+    "Bryan Jensen",
+    "Janet J. Knodel",
+    "Bradley McManus",
+    "Lance J. Meinke",
+    "Andrew Michel",
+    "Bruce Potter",
+    "Nicholas J. Seiter",
+    "Jocelyn L. Smith",
+    "Joseph L. Spencer",
+    "Kelley J. Tilmon",
+    "Robert J. Wright",
+    "Christian H. Krupke"
+   ],
+   "year": 2025,
+   "venue": "Science",
+   "status": "已发表",
+   "url": "https://doi.org/10.1126/science.adm7634",
+   "abstract": null
+  },
+  {
+   "title": "Farmers as Prosumers: Evidence from Cadmium-contaminated Rice in China",
+   "authors": [
+    "Li Zhou",
+    "Bei Liu",
+    "Zongzhi Liu",
+    "Jinhua Zhao"
+   ],
+   "year": 2025,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/ajae.12497",
+   "abstract": null
+  },
+  {
+   "title": "Social Norms for Illegal Hunting and Patrolling to Prevent It: Formative Data for Intervention Design and Communication Campaigns",
+   "authors": [
+    "Maria K. Lapinski",
+    "Ruth Heo",
+    "Rain W. Liu",
+    "John M. Kerr",
+    "Jinhua Zhao",
+    "Tsering Bum",
+    "Yichao Wang",
+    "Hyungro Yoon",
+    "Sarah Hipple",
+    "Zhi Lu"
+   ],
+   "year": 2025,
+   "venue": "Environmental Communication",
+   "status": "已发表",
+   "url": "https://doi.org/10.1080/17524032.2025.2458225",
+   "abstract": null
+  },
+  {
+   "title": "Environmental Protection for Bureaucratic Promotion: Water Quality Performance Review of Provincial Governors in China",
+   "authors": [
+    "Liguo Lin",
+    "Wei Sun",
+    "Jinhua Zhao"
+   ],
+   "year": 2024,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jeem.2024.103060",
+   "abstract": null
+  },
+  {
+   "title": "Are facemasks effective against particulate matter pollution? Evidence from the field",
+   "authors": [
+    "Ke Chen",
+    "Yazhen Gong",
+    "Jinhua Zhao"
+   ],
+   "year": 2024,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jeem.2024.103001",
+   "abstract": null
+  },
+  {
+   "title": "Groundwater Institutions in the Face of Global Climate Change",
+   "authors": [
+    "Jinhua Zhao",
+    "Nathan P. Hendricks",
+    "Haoyang Li"
+   ],
+   "year": 2024,
+   "venue": "Annual Review of Resource Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1146/annurev-resource-101623-100909",
+   "abstract": null
+  },
+  {
+   "title": "Knowledge Protects Against Pollution: The Health Effects of the Cadmium Rice Event in China",
+   "authors": [
+    "Xiaohong Chen",
+    "Jinhua Zhao",
+    "Li Zhou"
+   ],
+   "year": 2024,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.worlddev.2023.106470",
+   "abstract": null
+  },
+  {
+   "title": "Aggregate Emission Intensity Targets: Applications to the Paris Agreement",
+   "authors": [
+    "Jinhua Zhao"
+   ],
+   "year": 2022,
+   "venue": "Economic Inquiry",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/ecin.13085",
+   "abstract": null
+  },
+  {
+   "title": "Adaptation and the Distributional Effects of Heat: Evidence from Professional Archery Competitions",
+   "authors": [
+    "Yun Qiu",
+    "Jinhua Zhao"
+   ],
+   "year": 2022,
+   "venue": "Southern Economic Journal",
+   "status": "已发表",
+   "url": "https://doi.org/10.1002/soej.12553",
+   "abstract": null
+  },
+  {
+   "title": "I Do, Therefore I think It Is Normal: The Causal Effects of Behavior on Descriptive Norm Formation and Evolution",
+   "authors": [
+    "Minwoong Chung",
+    "Youjin Jang",
+    "Maria K. Lapinski",
+    "John Kerr",
+    "Jinhua Zhao",
+    "Robert Shupp",
+    "Tai-Quan Peng"
+   ],
+   "year": 2022,
+   "venue": "Social Influence",
+   "status": "已发表",
+   "url": "https://doi.org/10.1080/15534510.2022.2052955",
+   "abstract": null
+  },
+  {
+   "title": "Culture and Social Norms: Development and Application of a Model for Culturally Contextualized Communication Measurement (MC2M)",
+   "authors": [
+    "Rain W. Liu",
+    "Maria K. Lapinski",
+    "John M. Kerr",
+    "Jinhua Zhao",
+    "Tsering Bum",
+    "Zhi Lu"
+   ],
+   "year": 2022,
+   "venue": "Frontiers in Communication",
+   "status": "已发表",
+   "url": "https://doi.org/10.3389/fcomm.2021.770513",
+   "abstract": null
+  },
+  {
+   "title": "Adaptation to Climate Change: Gradual Changes vs. Extreme Events",
+   "authors": [
+    "Sangjun Lee",
+    "Jinhua Zhao"
+   ],
+   "year": 2021,
+   "venue": "Journal of Economic Dynamics and Control",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jedc.2021.104262",
+   "abstract": null
+  },
+  {
+   "title": "Navigating and Evaluating the Labyrinth of Environmental Regulation in China",
+   "authors": [
+    "Valerie J. Karplus",
+    "Junjie Zhang",
+    "Jinhua Zhao"
+   ],
+   "year": 2021,
+   "venue": "Review of Environmental Economics and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Reciprocity and social norms: short- and long-run crowding out effects of financial incentives",
+   "authors": [
+    "Jinhua Zhao",
+    "John M. Kerr",
+    "Maria K. Lapinski",
+    "Rob Shupp"
+   ],
+   "year": 2021,
+   "venue": "Frontiers of Economics in China",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Culture and Social Norms: Behavioral Decisions about Grassland Conservation among Ethnically-Tibetan Pastoralists",
+   "authors": [
+    "Maria K. Lapinski",
+    "Rain W. Liu",
+    "John M. Kerr",
+    "Jinhua Zhao",
+    "Tsering Bum",
+    "Zhi Lu"
+   ],
+   "year": 2021,
+   "venue": "Journal of International and Intercultural Communication",
+   "status": "已发表",
+   "url": "https://doi.org/10.1080/17513057.2021.1916569",
+   "abstract": null
+  },
+  {
+   "title": "Real Options and Environmental Policies - the Good, the Bad, and the Ugly",
+   "authors": [
+    "Justus Wesseler",
+    "Jinhua Zhao"
+   ],
+   "year": 2019,
+   "venue": "Annual Review of Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The effects of social norms on motivation crowding: experimental evidence from the Tibetan Plateau",
+   "authors": [
+    "John M. Kerr",
+    "Tsering Bum",
+    "Maria K. Lapinski",
+    "Rain Wuyu Liu",
+    "Zhi Lu",
+    "Jinhua Zhao"
+   ],
+   "year": 2019,
+   "venue": "International Journal of the Commons",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Are Renewable Energy Policies Climate Friendly? The Role of Capacity Constraints and Market Power",
+   "authors": [
+    "Min Wang",
+    "Jinhua Zhao"
+   ],
+   "year": 2018,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Rebound Effects of New Irrigation Technologies: The Role of Water Rights",
+   "authors": [
+    "Haoyang Li",
+    "Jinhua Zhao"
+   ],
+   "year": 2018,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Characterizing Interpersonal Influence for Grassland Conservation Behaviors in a Unique Population",
+   "authors": [
+    "Maria K. Lapinski",
+    "Rain Wuyu Liu",
+    "John M. Kerr",
+    "Jinhua Zhao",
+    "Tsering Bum"
+   ],
+   "year": 2018,
+   "venue": "Environmental Communication",
+   "status": "已发表",
+   "url": "https://doi.org/10.1080/17524032.2018.1436579",
+   "abstract": null
+  },
+  {
+   "title": "Long-Term Effects of Payments for Environmental Services: Combining Insights from Communication and Economics",
+   "authors": [
+    "John M. Kerr",
+    "Maria K. Lapinski",
+    "Rain Wuyu Liu",
+    "Jinhua Zhao"
+   ],
+   "year": 2017,
+   "venue": "Sustainability",
+   "status": "已发表",
+   "url": "https://doi.org/10.3390/su9091627",
+   "abstract": null
+  },
+  {
+   "title": "Moving toward sustainable farming systems: Insights from private and public sector dialogues on nitrogen management",
+   "authors": [
+    "Adam Reimer",
+    "Julie E. Doll",
+    "Bruno Basso",
+    "Sandra T. Marquart-Pyatt",
+    "G. Philip Robertson",
+    "Diana Stuart",
+    "Jinhua Zhao"
+   ],
+   "year": 2017,
+   "venue": "Journal of Soil and Water Conservation",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Environmental Regulation in a Mixed Economy",
+   "authors": [
+    "Guangliang Ye",
+    "Jinhua Zhao"
+   ],
+   "year": 2016,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Social Norms, Behavioral Payment Programs, and Cooperative Behaviors: Toward a Theory of Financial Incentives in Normative Systems",
+   "authors": [
+    "Maria K. Lapinski",
+    "John M. Kerr",
+    "Jinhua Zhao",
+    "Robert Shupp"
+   ],
+   "year": 2016,
+   "venue": "Human Communication Research",
+   "status": "已发表",
+   "url": "http://dx.doi.org/10.1111/hcre.12099",
+   "abstract": null
+  },
+  {
+   "title": "Understanding Behavioral Explanations of the WTP-WTA Divergence Through a Neoclassical Lens: Implications for Environmental Policy",
+   "authors": [
+    "Younjun Kim",
+    "Catherine L. Kling",
+    "Jinhua Zhao"
+   ],
+   "year": 2015,
+   "venue": "Annual Review of Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Rational Exaggeration and Counter-Exaggeration in Information Aggregation Games",
+   "authors": [
+    "Gordon C. Rausser",
+    "Leo K. Simon",
+    "Jinhua Zhao"
+   ],
+   "year": 2015,
+   "venue": "Economic Theory",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Optimal Health and Environmental Policies in a Pollution-Growth Nexus",
+   "authors": [
+    "Min Wang",
+    "Jinhua Zhao",
+    "Joydeep Bhattacharya"
+   ],
+   "year": 2015,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Need for a Coupled Human and Natural Systems Understanding of Agricultural Nitrogen Loss",
+   "authors": [
+    "Diana Stuart",
+    "Bruno Basso",
+    "Sandy Marquart-Pyatt",
+    "Adam P. Reimer",
+    "G. Philip Robertson",
+    "Jinhua Zhao"
+   ],
+   "year": 2015,
+   "venue": "BioScience",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Sustainability and Substitutability",
+   "authors": [
+    "Eli Fenichel",
+    "Jinhua Zhao"
+   ],
+   "year": 2015,
+   "venue": "Bulletin of Mathematical Biology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Value of Clean Air in China: Evidence from Beijing and Shanghai",
+   "authors": [
+    "Jijun Tan",
+    "Jinhua Zhao"
+   ],
+   "year": 2014,
+   "venue": "Frontiers of Economics in China",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Monopoly Extraction of a Nonrenewable Resource Facing Capacity Constrained Renewable Competition",
+   "authors": [
+    "Min Wang",
+    "Jinhua Zhao"
+   ],
+   "year": 2013,
+   "venue": "Economics Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A dynamic explanation of the willingness to pay and willingness to accept disparity",
+   "authors": [
+    "Catherine L. Kling",
+    "John List",
+    "Jinhua Zhao"
+   ],
+   "year": 2013,
+   "venue": "Economic Inquiry",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "From Exxon to BP: Has Some Number Become Better Than No Number?",
+   "authors": [
+    "Catherine L. Kling",
+    "Daniel J. Phaneuf",
+    "Jinhua Zhao"
+   ],
+   "year": 2012,
+   "venue": "Journal of Economic Perspectives",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Adaptation versus Adoption: with Emphasis on Climate Change",
+   "authors": [
+    "David Zilberman",
+    "Jinhua Zhao",
+    "Amir Heiman"
+   ],
+   "year": 2012,
+   "venue": "Annual Review of Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Switching to Perennial Energy Crops under Uncertainty and Costly Irreversibility",
+   "authors": [
+    "Feng Song",
+    "Jinhua Zhao",
+    "Scott Swinton"
+   ],
+   "year": 2011,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Paths to Climate Cooperation",
+   "authors": [
+    "Thomas Dietz",
+    "Jinhua Zhao"
+   ],
+   "year": 2011,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "International Environmental Agreements Emissions Trade, Safety Valves and Escape Clauses",
+   "authors": [
+    "Larry Karp",
+    "Jinhua Zhao"
+   ],
+   "year": 2010,
+   "venue": "Revue Economique",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Welfare Measures When Consumers Can Learn: A Unifying Theory",
+   "authors": [
+    "Jinhua Zhao",
+    "Catherine L. Kling"
+   ],
+   "year": 2009,
+   "venue": "Economic Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Willingness to pay and the cost of commitment: An empirical specification and test",
+   "authors": [
+    "Jay R. Corrigan",
+    "Catherine L. Kling",
+    "Jinhua Zhao"
+   ],
+   "year": 2008,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Optimal Use of Correlated Information in Mechanism Design When Full Surplus Extraction May Be Impossible",
+   "authors": [
+    "Subir Bose",
+    "Jinhua Zhao"
+   ],
+   "year": 2007,
+   "venue": "Journal of Economic Theory",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Green Subsidies in Agriculture: Estimating the Adoption Costs of Conservation Tillage From Observed Behavior",
+   "authors": [
+    "Lyubov A. Kurkalova",
+    "Catherine L. Kling",
+    "Jinhua Zhao"
+   ],
+   "year": 2006,
+   "venue": "Canadian Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Alternative Intertemporal Permit Trading Regimes with Stochastic Abatement Costs",
+   "authors": [
+    "Hongli Feng",
+    "Jinhua Zhao"
+   ],
+   "year": 2006,
+   "venue": "Resource and Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Value of agricultural non-point source pollution measurement technology: assessment from a policy perspective",
+   "authors": [
+    "Lyubov A. Kurkalova",
+    "Catherine L. Kling",
+    "Jinhua Zhao"
+   ],
+   "year": 2004,
+   "venue": "Applied Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Willingness-to-Pay, Compensating Variation, and the Cost of Commitment",
+   "authors": [
+    "Jinhua Zhao",
+    "Catherine L. Kling"
+   ],
+   "year": 2004,
+   "venue": "Economic Inquiry",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Alternative Green Payment Policies Under Heterogeneity When Multiple Benefits Matter",
+   "authors": [
+    "Lyubov A. Kurkalova",
+    "Catherine L. Kling",
+    "Jinhua Zhao"
+   ],
+   "year": 2004,
+   "venue": "Agricultural and Resource Economics Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Multiple Benefits of Carbon-Friendly Agricultural Practices: Empirical Assessment of Conservation Tillage",
+   "authors": [
+    "Lyubov A. Kurkalova",
+    "Catherine L. Kling",
+    "Jinhua Zhao"
+   ],
+   "year": 2004,
+   "venue": "Environmental Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Irreversible Abatement Investment under Cost Uncertainties: Tradable Emission Permits and Emissions Charges",
+   "authors": [
+    "Jinhua Zhao"
+   ],
+   "year": 2003,
+   "venue": "Journal of Public Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Policy Persistence in Environmental Regulation",
+   "authors": [
+    "Jinhua Zhao",
+    "Catherine L. Kling"
+   ],
+   "year": 2003,
+   "venue": "Resource and Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Long-run Effects of Environmental Reform in Open Economies",
+   "authors": [
+    "Larry Karp",
+    "Jinhua Zhao",
+    "Sandeep Sacheti"
+   ],
+   "year": 2003,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Impact of Management Practices on Regional Prevalence of Soybean Sclerotinia Stem Rot in the North-Central Region of the United States and on Farmers' Decisions Under Uncertainty",
+   "authors": [
+    "A.L. Mila",
+    "A.L. Carriquiry",
+    "J. Zhao",
+    "X.B. Yang"
+   ],
+   "year": 2003,
+   "venue": "Plant Disease",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Valuation and management of money-back guarantee options",
+   "authors": [
+    "Amir Heiman",
+    "Bruce McWilliams",
+    "Jinhua Zhao",
+    "David Zilberman"
+   ],
+   "year": 2002,
+   "venue": "Journal of Retailing",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Time Path and Implementation of Carbon Sequestration",
+   "authors": [
+    "Hongli Feng",
+    "Jinhua Zhao",
+    "Catherine L. Kling"
+   ],
+   "year": 2002,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A New Explanation for the WTP/WTA Disparity",
+   "authors": [
+    "Jinhua Zhao",
+    "Catherine L. Kling"
+   ],
+   "year": 2001,
+   "venue": "Economics Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Common Ground Between Free-Traders and Environmentalists",
+   "authors": [
+    "Larry Karp",
+    "Sandeep Sacheti",
+    "Jinhua Zhao"
+   ],
+   "year": 2001,
+   "venue": "International Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Fixed Costs, Efficient Resource Management and Conservation",
+   "authors": [
+    "Jinhua Zhao",
+    "David Zilberman"
+   ],
+   "year": 2001,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Trade and Environmental Distortions: Coordinated Intervention",
+   "authors": [
+    "Jinhua Zhao"
+   ],
+   "year": 2000,
+   "venue": "Environment and Development Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "On the Long-Run Efficiency of Auctioned vs. Free Permits",
+   "authors": [
+    "Catherine L. Kling",
+    "Jinhua Zhao"
+   ],
+   "year": 2000,
+   "venue": "Economics Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Irreversibility and Restoration in Natural Resource Development",
+   "authors": [
+    "Jinhua Zhao",
+    "David Zilberman"
+   ],
+   "year": 1999,
+   "venue": "Oxford Economic Papers",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Information Asymmetries, Uncertainties, and Cleanup Delays at Superfund Sites",
+   "authors": [
+    "Gordon C. Rausser",
+    "Leo K. Simon",
+    "Jinhua Zhao"
+   ],
+   "year": 1998,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Gradualism or Big Bang? A Dynamic Approach",
+   "authors": [
+    "Jinhua Zhao"
+   ],
+   "year": 1996,
+   "venue": "Revue d'Economie du Developpement",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Evolution of Political Hyperbole and Polarization: Echo Chambers and Voter-Elite Feedback Loops",
+   "authors": [
+    "Leo Simon",
+    "Jinhua Zhao"
+   ],
+   "year": 2022,
+   "venue": "Book chapter: Modern Agricultural and Resource Economics and Policy: Essays in Honor of Gordon Rausser (Springer)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Environmental Regulation: Lessons for Developing Economies in Asia",
+   "authors": [
+    "Jinhua Zhao"
+   ],
+   "year": 2020,
+   "venue": "Book chapter: Ways to Achieve Clean Asia (Asian Development Bank Institute)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Uncertainty and Hysteresis in Adapting to Climate Change",
+   "authors": [
+    "Jinhua Zhao"
+   ],
+   "year": 2012,
+   "venue": "Book chapter: Climate change in the Midwest: impacts, risks, vulnerability and adaptation (Indiana University Press)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Proposal for the Design of the Successor to the Kyoto Protocol",
+   "authors": [
+    "Larry Karp",
+    "Jinhua Zhao"
+   ],
+   "year": 2009,
+   "venue": "Book chapter: Post-Kyoto International Climate Policy (Cambridge University Press)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Role of Information in Technology Adoption under Poverty",
+   "authors": [
+    "Jinhua Zhao"
+   ],
+   "year": 2007,
+   "venue": "Book chapter: The Impact of Globalization on the World's Poor (Palgrave Macmillan)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Environmental Valuation Under Dynamic Consumer Behavior",
+   "authors": [
+    "Jinhua Zhao",
+    "Catherine L. Kling"
+   ],
+   "year": 2006,
+   "venue": "Book chapter: Explorations in Environmental and Natural Resource Economics (Edward Elgar)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Dynamic Effects of Trade Liberalization and Policy Harmonization",
+   "authors": [
+    "Larry Karp",
+    "Jinhua Zhao"
+   ],
+   "year": 2004,
+   "venue": "Book chapter: Handbook of International Trade, Vol II (Blackwell)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Notes on Irreversibility, Sustainability and the Limits to Growth",
+   "authors": [
+    "Anthony Fisher",
+    "Jinhua Zhao"
+   ],
+   "year": 2002,
+   "venue": "Book chapter: Economic Theory for the Environment: Essays in Honour of Karl-Goran Maler (Edward Elgar)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "China's Climate Policies: Climate Targets and Implementation Mechanisms",
+   "authors": [
+    "Yazhen Gong",
+    "Min Wang",
+    "Jinhua Zhao"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Heterogeneous effects of food safety risk information on consumer preferences for rice",
+   "authors": [
+    "Li Zhou",
+    "Jinhua Zhao",
+    "Zongzhi Liu"
+   ],
+   "year": 2023,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Effects of Ambient Air Pollution and Pollution Exposure on Inattention",
+   "authors": [
+    "Yazhen Gong",
+    "Jinhua Zhao"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Defending Against Air Pollution: the Role of Active Nudge and Attention",
+   "authors": [
+    "Yazhen Gong",
+    "Jinhua Zhao"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Polarization, Hyperbole and the Battle for Control over the Narrative",
+   "authors": [
+    "Gordon C. Rausser",
+    "Leo K. Simon",
+    "Jinhua Zhao"
+   ],
+   "year": 2022,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://drive.google.com/file/d/19A-FXxR1n7Kstey87VqLq_oXMaZNkjNe/view?usp=sharing",
+   "abstract": null
+  },
+  {
+   "title": "What Drives the Slow Diffusion of New Irrigation Technologies: A Structural Dynamic Estimation Approach",
+   "authors": [
+    "Haoyang Li",
+    "Jinhua Zhao"
+   ],
+   "year": 2022,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://drive.google.com/file/d/1vLRdZv0PrqNfG1-9--N1Y0c07yOj3pFr/view?usp=sharing",
+   "abstract": null
+  },
+  {
+   "title": "Financial incentives for behavior change at the intersection of human, animal, and ecosystem health: A One Health perspective",
+   "authors": [
+    "John M. Kerr",
+    "Maryann Delea",
+    "Minwoong Chung",
+    "Jinhua Zhao",
+    "Jessica Crawford",
+    "Maria K. Lapinski"
+   ],
+   "year": 2023,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

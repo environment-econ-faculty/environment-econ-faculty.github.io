@@ -1,0 +1,205 @@
+{
+ "slug": "juan-pablo-sesmero",
+ "name": "Juan Pablo Sesmero",
+ "sources": [
+  "https://ag.purdue.edu/api/pi/2021/api/Directory/GetStaffDetail?alias=jsesmero",
+  "https://ideas.repec.org/f/pse577.html"
+ ],
+ "collected": "2026-10-25",
+ "notes": "CV PDF link (ag.purdue.edu cv_sesmero.pdf) returns 404 and no homepage; list built from Purdue directory selected publications plus RePEc/IDEAS article list (2009-2018), so INCOMPLETE for 2019-2026 (e.g. Sesmero/Trull/Gramig 2021 GCB Bioenergy and Turnley et al. 2024 J. Cleaner Production seen in search but exact titles/authors not verified, omitted; Jakob et al. 2022 Science policy forum omitted). Conference-only RePEc working papers omitted.",
+ "papers": [
+  {
+   "title": "Do Proposed and Enacted Contract Farming Regulations Really Raise Farmer Income?",
+   "authors": [
+    "T. McCarty",
+    "Juan Pablo Sesmero"
+   ],
+   "year": 2025,
+   "venue": "Applied Economic Perspectives and Policy",
+   "status": "已发表",
+   "url": "https://onlinelibrary.wiley.com/doi/10.1002/aepp.70036",
+   "abstract": null
+  },
+  {
+   "title": "Market and welfare effects of quality misperception in food labels",
+   "authors": [
+    "F. Scott",
+    "Juan Pablo Sesmero"
+   ],
+   "year": 2022,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ajae.12287",
+   "abstract": null
+  },
+  {
+   "title": "A structural estimation of spatial differentiation and market power in input procurement",
+   "authors": [
+    "J. Jung",
+    "Juan Pablo Sesmero",
+    "R. Siebert"
+   ],
+   "year": 2022,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ajae.12239",
+   "abstract": null
+  },
+  {
+   "title": "Market Structure and the Local Effects of Ethanol Expansion on Land Allocation: A Spatially Explicit Analysis",
+   "authors": [
+    "Y. Wang",
+    "M. S. Delgado",
+    "Juan Pablo Sesmero",
+    "B. M. Gramig"
+   ],
+   "year": 2020,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "https://onlinelibrary.wiley.com/doi/10.1111/ajae.12119",
+   "abstract": null
+  },
+  {
+   "title": "A nonparametric frontier measure of marketing efficiency: An illustration with corn ethanol plants",
+   "authors": [
+    "Juan Pablo Sesmero",
+    "R. Perrin",
+    "L. Fulginiti"
+   ],
+   "year": 2018,
+   "venue": "Agribusiness",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How Do African Farm Households Respond to Changes in Current and Past Weather Patterns? A Structural Panel Data Analysis from Malawi",
+   "authors": [
+    "Juan Pablo Sesmero",
+    "J. Ricker-Gilbert",
+    "A. Cook"
+   ],
+   "year": 2018,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Spatial Pricing in Uncontested Procurement Markets: Regulatory Implications",
+   "authors": [
+    "Juan Pablo Sesmero"
+   ],
+   "year": 2018,
+   "venue": "Journal of Agricultural & Food Industrial Organization",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The role of common pool problems in irrigation inefficiency: a case study in groundwater pumping in Mexico",
+   "authors": [
+    "C. Sun",
+    "Juan Pablo Sesmero",
+    "K. Schoengold"
+   ],
+   "year": 2016,
+   "venue": "Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Variable Cost Function for Corn Ethanol Plants in the Midwest",
+   "authors": [
+    "Juan Pablo Sesmero",
+    "R. Perrin",
+    "L. Fulginiti"
+   ],
+   "year": 2016,
+   "venue": "Canadian Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Horizon and Free-Rider Problems in Cooperative Organizations",
+   "authors": [
+    "K. Giannakas",
+    "M. Fulton",
+    "Juan Pablo Sesmero"
+   ],
+   "year": 2016,
+   "venue": "Journal of Agricultural and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The effect of current and prospective policies on photovoltaic system economics: An application to the US Midwest",
+   "authors": [
+    "Juan Pablo Sesmero",
+    "J. Jung",
+    "W. Tyner"
+   ],
+   "year": 2016,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Supply Response, Marginal Cost, and Soil Erosion Implications of Stover-based Biofuels",
+   "authors": [
+    "Juan Pablo Sesmero",
+    "J. Pratt",
+    "W. Tyner"
+   ],
+   "year": 2015,
+   "venue": "Applied Economic Perspectives and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Economics of Spatial Competition for Corn Stover",
+   "authors": [
+    "Juan Pablo Sesmero",
+    "J. Balagtas",
+    "J. Pratt"
+   ],
+   "year": 2015,
+   "venue": "Journal of Agricultural and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Innovation, Parallel Shifts of Supply, and Welfare",
+   "authors": [
+    "A. Karls",
+    "J. Horowitz",
+    "Juan Pablo Sesmero",
+    "A. Van Cott"
+   ],
+   "year": 2013,
+   "venue": "Agricultural Economics Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Efficiency in Midwest US corn ethanol plants: A plant survey",
+   "authors": [
+    "R. Perrin",
+    "N. Fretes",
+    "Juan Pablo Sesmero"
+   ],
+   "year": 2009,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

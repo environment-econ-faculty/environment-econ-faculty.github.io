@@ -1,0 +1,251 @@
+{
+ "slug": "stephen-p-ryan",
+ "name": "Stephen P. Ryan",
+ "sources": [
+  "https://sites.wustl.edu/stephenryan/files/2024/11/CV2024-9-23.pdf",
+  "https://sites.wustl.edu/stephenryan/home-2/research/published-papers/",
+  "https://sites.wustl.edu/stephenryan/home-2/research/working-papers/"
+ ],
+ "collected": "2026-10-25",
+ "notes": "CV (Fall 2024) plus homepage lists. Homepage lists coauthors without clear byline order; byline order here follows the published bylines from my own knowledge, not stated on source. Moment Forests status per CV (R&R J. Econometrics). Subsidy Targeting and Market Power only on CV (under revision). WP years: Adaptive Dec 2025 and Market Power ACA May 2023 from file paths, others CV Fall 2024. Dropped CV duplicate 'Adaptive Semiparametric Estimation' (same paper as Never Running Two Million Regressions).",
+ "papers": [
+  {
+   "title": "Linear Regression Estimation of Discrete Choice Models with Nonparametric Distributions of Random Coefficients",
+   "authors": [
+    "Patrick Bajari",
+    "Jeremy Fox",
+    "Stephen P. Ryan"
+   ],
+   "year": 2007,
+   "venue": "American Economic Review: Papers and Proceedings",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Evaluating Wireless Consolidation Using Semiparametric Demand Estimation",
+   "authors": [
+    "Patrick Bajari",
+    "Jeremy T. Fox",
+    "Stephen P. Ryan"
+   ],
+   "year": 2008,
+   "venue": "Quantitative Marketing and Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Identification and Estimation of a Discrete Game of Complete Information",
+   "authors": [
+    "Patrick Bajari",
+    "Han Hong",
+    "Stephen P. Ryan"
+   ],
+   "year": 2010,
+   "venue": "Econometrica",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Heterogeneity and the Dynamics of Technology Adoption",
+   "authors": [
+    "Stephen P. Ryan",
+    "Catherine Tucker"
+   ],
+   "year": 2012,
+   "venue": "Quantitative Marketing and Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Simple Estimator for the Distribution of Random Coefficients",
+   "authors": [
+    "Patrick Bajari",
+    "Jeremy Fox",
+    "Kyoo-il Kim",
+    "Stephen P. Ryan"
+   ],
+   "year": 2011,
+   "venue": "Quantitative Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Random Coefficients Logit Model is Identified",
+   "authors": [
+    "Patrick Bajari",
+    "Jeremy Fox",
+    "Kyoo-il Kim",
+    "Stephen P. Ryan"
+   ],
+   "year": 2012,
+   "venue": "Journal of Econometrics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Costs of Environmental Regulation in a Concentrated Industry",
+   "authors": [
+    "Stephen P. Ryan"
+   ],
+   "year": 2012,
+   "venue": "Econometrica",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Incentives Work: Getting Teachers to Go to School",
+   "authors": [
+    "Esther Duflo",
+    "Rema Hanna",
+    "Stephen P. Ryan"
+   ],
+   "year": 2012,
+   "venue": "American Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Selection on Moral Hazard in Health Insurance",
+   "authors": [
+    "Liran Einav",
+    "Amy Finkelstein",
+    "Stephen P. Ryan",
+    "Paul Schrimpf",
+    "Mark Cullen"
+   ],
+   "year": 2013,
+   "venue": "American Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Market-based Emissions Regulation and Industry Dynamics",
+   "authors": [
+    "Meredith Fowlie",
+    "Mar Reguant",
+    "Stephen P. Ryan"
+   ],
+   "year": 2016,
+   "venue": "Journal of Political Economy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Machine Learning Methods for Demand Estimation",
+   "authors": [
+    "Patrick Bajari",
+    "Denis Nekipelov",
+    "Stephen P. Ryan",
+    "Miaoyu Yang"
+   ],
+   "year": 2015,
+   "venue": "American Economic Review: Papers and Proceedings",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Subsidy Design in Privately-Provided Social Insurance: Lessons from Medicare Part D",
+   "authors": [
+    "Francesco Decarolis",
+    "Maria Polyakova",
+    "Stephen P. Ryan"
+   ],
+   "year": 2020,
+   "venue": "Journal of Political Economy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Delivering Education to the Underserved through a Public-Private Partnership Program in Pakistan",
+   "authors": [
+    "Felipe Barrera-Osorio",
+    "David S. Blakeslee",
+    "Matthew Hoover",
+    "Leigh Linden",
+    "Dhushyanth Raju",
+    "Stephen P. Ryan"
+   ],
+   "year": 2022,
+   "venue": "Review of Economics and Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Moment Forests",
+   "authors": [
+    "Denis Nekipelov",
+    "Paul Novosad",
+    "Stephen P. Ryan"
+   ],
+   "year": 2022,
+   "venue": "Journal of Econometrics",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Never Running Two Million Regressions Again: Adaptive Semiparametric Models",
+   "authors": [
+    "Denis Nekipelov",
+    "Nathan Jiang",
+    "Stephen P. Ryan"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Market Power and Redistribution: Evidence from the Affordable Care Act",
+   "authors": [
+    "Maria Polyakova",
+    "Stephen P. Ryan"
+   ],
+   "year": 2023,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Value of a Statistical Life: Evidence from Military Retention Incentives and Occupation-Specific Mortality Hazards",
+   "authors": [
+    "Kyle Greenberg",
+    "Michael Greenstone",
+    "Stephen P. Ryan",
+    "Michael Yankovich"
+   ],
+   "year": 2024,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Subsidy Targeting and Market Power",
+   "authors": [
+    "Maria Polyakova",
+    "Stephen P. Ryan"
+   ],
+   "year": 2024,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

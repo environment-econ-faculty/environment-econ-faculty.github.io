@@ -1,0 +1,243 @@
+{
+ "slug": "r-andrew-butters",
+ "name": "R. Andrew Butters",
+ "sources": [
+  "https://apps.kelley.iu.edu/SystemsAPI/vitae/profilecv?username=RABUTTER&type=html"
+ ],
+ "collected": "2026-10-25",
+ "notes": "Kelley CV only (no homepage). Author order as extracted from CV; the extraction put Butters first in every multi-author paper, so order may be normalized and some (e.g. alphabetical-byline papers) may differ from the printed byline. Working papers undated on CV; year 2026 assumed (CV date). Works in progress skipped.",
+ "papers": [
+  {
+   "title": "Soaking Up the Sun: Battery Investment, Renewable Energy, and Market Equilibrium",
+   "authors": [
+    "R. Andrew Butters",
+    "Jackson Dorsey",
+    "Gautam Gowrisankaran"
+   ],
+   "year": 2025,
+   "venue": "Econometrica",
+   "status": "已发表",
+   "url": "https://doi.org/10.3982/ECTA20411",
+   "abstract": null
+  },
+  {
+   "title": "Why Do Retail Prices Fall During Seasonal Demand Peaks?",
+   "authors": [
+    "R. Andrew Butters",
+    "Daniel W. Sacks",
+    "Boyoung Seo"
+   ],
+   "year": 2025,
+   "venue": "RAND Journal of Economics",
+   "status": "已发表",
+   "url": "https://onlinelibrary.wiley.com/doi/10.1111/1756-2171.12490",
+   "abstract": null
+  },
+  {
+   "title": "Competitive Balance in Professional Sports: A Multi-Dimensional Perspective",
+   "authors": [
+    "R. Andrew Butters",
+    "Levi Bognar",
+    "Scott A. Brave",
+    "Kevin Roberts"
+   ],
+   "year": 2024,
+   "venue": "Sports Economics Review",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.serev.2024.100034",
+   "abstract": null
+  },
+  {
+   "title": "Industry Structure, Segmentation, and Quality Competition in the U.S. Hotel Industry",
+   "authors": [
+    "R. Andrew Butters",
+    "Thomas N. Hubbard"
+   ],
+   "year": 2023,
+   "venue": "Journal of Industrial Economics",
+   "status": "已发表",
+   "url": "https://onlinelibrary.wiley.com/doi/10.1111/joie.12330",
+   "abstract": null
+  },
+  {
+   "title": "A Practitioner's Guide and MATLAB Toolbox for Mixed Frequency State Space Models",
+   "authors": [
+    "R. Andrew Butters",
+    "Scott A. Brave",
+    "David Kelley"
+   ],
+   "year": 2022,
+   "venue": "Journal of Statistical Software",
+   "status": "已发表",
+   "url": "https://doi.org/10.18637/jss.v104.i10",
+   "abstract": null
+  },
+  {
+   "title": "The Perils of Working with Big Data and a SMALL Framework You Can Use to Recognize Them",
+   "authors": [
+    "R. Andrew Butters",
+    "Scott A. Brave",
+    "Michael Fogarty"
+   ],
+   "year": 2022,
+   "venue": "Business Horizons",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.bushor.2021.06.004",
+   "abstract": null
+  },
+  {
+   "title": "How Do National Firms Respond to Local Cost Shocks?",
+   "authors": [
+    "R. Andrew Butters",
+    "Daniel W. Sacks",
+    "Boyoung Seo"
+   ],
+   "year": 2022,
+   "venue": "American Economic Review",
+   "status": "已发表",
+   "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20201524",
+   "abstract": null
+  },
+  {
+   "title": "Forecasting Unemployment Insurance Claims in Realtime with Google Trends",
+   "authors": [
+    "R. Andrew Butters",
+    "Daniel Aaronson",
+    "Scott A. Brave",
+    "Michael Fogarty",
+    "Daniel W. Sacks",
+    "Boyoung Seo"
+   ],
+   "year": 2022,
+   "venue": "International Journal of Forecasting",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.ijforecast.2021.04.001",
+   "abstract": null
+  },
+  {
+   "title": "Demand Volatility, Adjustment Costs, and Productivity: An Examination of Capacity Utilization in Hotels and Airlines",
+   "authors": [
+    "R. Andrew Butters"
+   ],
+   "year": 2020,
+   "venue": "American Economic Journal: Microeconomics",
+   "status": "已发表",
+   "url": "https://www.aeaweb.org/articles?id=10.1257/mic.20170056",
+   "abstract": null
+  },
+  {
+   "title": "The Extent of the Market and Integration Through Factor Markets: Evidence from Wholesale Electricity",
+   "authors": [
+    "R. Andrew Butters",
+    "Daniel F. Spulber"
+   ],
+   "year": 2020,
+   "venue": "Economic Inquiry",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/ecin.12879",
+   "abstract": null
+  },
+  {
+   "title": "Using the Eye of the Storm to Predict the Wave of Covid-19 UI Claims",
+   "authors": [
+    "R. Andrew Butters",
+    "Daniel Aaronson",
+    "Scott A. Brave",
+    "Daniel W. Sacks",
+    "Boyoung Seo"
+   ],
+   "year": 2020,
+   "venue": "Covid Economics",
+   "status": "已发表",
+   "url": "https://cepr.org/node/390397",
+   "abstract": null
+  },
+  {
+   "title": "On Demand Uncertainty in the Newsvendor Model",
+   "authors": [
+    "R. Andrew Butters"
+   ],
+   "year": 2019,
+   "venue": "Economics Letters",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.econlet.2019.108746",
+   "abstract": null
+  },
+  {
+   "title": "Forecasting Economic Activity with Mixed Frequency Bayesian VARs",
+   "authors": [
+    "R. Andrew Butters",
+    "Scott A. Brave",
+    "Alejandro Justiniano"
+   ],
+   "year": 2019,
+   "venue": "International Journal of Forecasting",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.ijforecast.2019.02.010",
+   "abstract": null
+  },
+  {
+   "title": "Uncovering the Sources of Team Synergy: Player Complementarities and the Production of Wins",
+   "authors": [
+    "R. Andrew Butters",
+    "Scott A. Brave",
+    "Kevin Roberts"
+   ],
+   "year": 2019,
+   "venue": "Journal of Sports Analytics",
+   "status": "已发表",
+   "url": "https://content.iospress.com/articles/journal-of-sports-analytics/jsa190248",
+   "abstract": null
+  },
+  {
+   "title": "Diagnosing the Financial System: Financial Conditions and Financial Stress",
+   "authors": [
+    "R. Andrew Butters",
+    "Scott A. Brave"
+   ],
+   "year": 2012,
+   "venue": "International Journal of Central Banking",
+   "status": "已发表",
+   "url": "https://www.ijcb.org/journal/ijcb12q2a6.htm",
+   "abstract": null
+  },
+  {
+   "title": "Charging into the Future: Intermittency and the Role of Energy Storage in the Transition to a Renewable Electric Grid",
+   "authors": [
+    "R. Andrew Butters",
+    "Thomas S. Palley",
+    "Asa B. Palley",
+    "Oguz Cetiz"
+   ],
+   "year": 2026,
+   "venue": "SSRN Working Paper",
+   "status": "工作论文",
+   "url": "https://ssrn.com/abstract=4849063",
+   "abstract": null
+  },
+  {
+   "title": "Racial differences in prices paid",
+   "authors": [
+    "R. Andrew Butters",
+    "Daniel W. Sacks",
+    "Boyoung Seo"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How Long is the Long Run? Evidence of Market Integration in Wholesale Electricity",
+   "authors": [
+    "R. Andrew Butters"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

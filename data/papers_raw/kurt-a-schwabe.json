@@ -1,0 +1,852 @@
+{
+ "slug": "kurt-a-schwabe",
+ "name": "Kurt A. Schwabe",
+ "sources": [
+  "https://profiles.ucr.edu/api/CvAttachment/16488681"
+ ],
+ "collected": "2026-10-25",
+ "notes": "From CV dated May 2026 (UCR profile). Authors as written (initials). Skipped Choices/Policy Matters/ARE Update short pieces, book review, introduction/summary/encyclopedia-style entries, edited books, technical reports. 'In-press' items marked 即将发表. Several papers overlap with Baerenklau's file (co-authored). Chapter entries in venue prefixed 'Chapter in'.",
+ "papers": [
+  {
+   "title": "Cross-Country Analyses Don't Estimate Health-Health Responses",
+   "authors": [
+    "V.K. Smith",
+    "D. Epp",
+    "K.A. Schwabe"
+   ],
+   "year": 1994,
+   "venue": "Journal of Risk and Uncertainty",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Effects of Separability on Incentive-Based Instrument Performance",
+   "authors": [
+    "K.A. Schwabe"
+   ],
+   "year": 1999,
+   "venue": "Economics Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Modeling State-level Water Quality Management: The Case of the Neuse River Basin",
+   "authors": [
+    "K.A. Schwabe"
+   ],
+   "year": 2000,
+   "venue": "Resource and Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Value of Changes in Deer Season Length: An Application of the Nested Multinomial Logit Model",
+   "authors": [
+    "K.A. Schwabe",
+    "P. Schuhmann",
+    "R. Boyd",
+    "K. Doorodian"
+   ],
+   "year": 2001,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Nonpoint Source Pollution, Uniform Control Strategies and the Neuse River Basin",
+   "authors": [
+    "K.A. Schwabe"
+   ],
+   "year": 2001,
+   "venue": "Review of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Deer-Vehicle Collisions and Deer Value: An Analysis of Competing Literatures",
+   "authors": [
+    "K.A. Schwabe",
+    "P. Schuhmann"
+   ],
+   "year": 2002,
+   "venue": "Wildlife Society Bulletin",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Microeconomics of Irrigation with Saline Water",
+   "authors": [
+    "I. Kan",
+    "K.A. Schwabe",
+    "K.C. Knapp"
+   ],
+   "year": 2002,
+   "venue": "Journal of Agricultural and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Dynamic Exercise in Reducing Deer-Vehicle Collisions: Management through Vehicle Mitigation Techniques and Hunting",
+   "authors": [
+    "K.A. Schwabe",
+    "P. Schuhmann",
+    "M. Tonkovich"
+   ],
+   "year": 2002,
+   "venue": "Journal of Agricultural and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Analysis of Congestion Measures and Heterogeneous Angler Preferences in a Random Utility Model of Recreational Fishing",
+   "authors": [
+    "P. Schuhmann",
+    "K.A. Schwabe"
+   ],
+   "year": 2004,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Modeling the Dynamics of Fishery Stock Recovery: Implications for the Assessment of Natural Resource Damages",
+   "authors": [
+    "P. Schuhmann",
+    "K.A. Schwabe"
+   ],
+   "year": 2004,
+   "venue": "Natural Resource Modeling",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Assessment of Aboriginal Smallholder Soils for Rubber Growth in Peninsular Malaysia",
+   "authors": [
+    "C. Howell",
+    "K.A. Schwabe",
+    "A. Samah",
+    "R. Graham",
+    "I. Taib"
+   ],
+   "year": 2005,
+   "venue": "Soil Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Hatchery Programs, Stock Enhancement, and Cost Effectiveness: A Case Study of the Albermarle Sound/Roanoke River Stocking Program 1981-1996",
+   "authors": [
+    "W.S. Patrick",
+    "O. Bin",
+    "K.A. Schwabe",
+    "P.W. Schuhmann"
+   ],
+   "year": 2006,
+   "venue": "Marine Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Is Income Related to Happiness for the Materially Deprived? Examining the Association between Wealth and Life Satisfaction among Indigenous Malaysian Farmers",
+   "authors": [
+    "C.J. Howell",
+    "R.T. Howell",
+    "K.A. Schwabe"
+   ],
+   "year": 2006,
+   "venue": "Social Indicators Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Drainwater Management to Reduce Salinity Problems in Irrigated Agriculture",
+   "authors": [
+    "K.A. Schwabe",
+    "I. Kan",
+    "K.C. Knapp"
+   ],
+   "year": 2006,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Fundamentals of Estimating the Net Benefits of Ecosystem Preservation: The Case of the Salton Sea",
+   "authors": [
+    "K.A. Schwabe",
+    "P. Schuhmann",
+    "K. Baerenklau",
+    "N. Nergis"
+   ],
+   "year": 2008,
+   "venue": "Hydrobiologia",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Effects of Nutrient Restrictions on Confined Animal Facilities: Insights from a Structural Model",
+   "authors": [
+    "K. Baerenklau",
+    "N. Nergis",
+    "K.A. Schwabe"
+   ],
+   "year": 2008,
+   "venue": "Canadian Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Regional Economics and Management in Closed Drainage Basins",
+   "authors": [
+    "K.C. Knapp",
+    "K.A. Schwabe",
+    "K. Baerenklau"
+   ],
+   "year": 2014,
+   "venue": "Chapter in Salinity/Drainage Management in the San Joaquin Valley (Springer)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Spatial Dynamics of Water and Nitrogen Management in Irrigated Agriculture",
+   "authors": [
+    "K.C. Knapp",
+    "K.A. Schwabe"
+   ],
+   "year": 2008,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Impacts of Reduced Water Availability on Lower Murray Irrigation, Australia",
+   "authors": [
+    "J. Connor",
+    "K.A. Schwabe",
+    "M. Kirby",
+    "M. Kaczan",
+    "D. King"
+   ],
+   "year": 2009,
+   "venue": "Australian Journal of Agricultural and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Non-Timber Forest Product Dependence among the Jah Hut Subgroup of Peninsular Malaysia's Orang Asli",
+   "authors": [
+    "C. Howell",
+    "K.A. Schwabe",
+    "A. Samah"
+   ],
+   "year": 2010,
+   "venue": "Environment, Development, and Sustainability",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Environmental Water Incentive Policy and Return Flows",
+   "authors": [
+    "E. Qureshi",
+    "K.A. Schwabe",
+    "J. Conner",
+    "M. Kirby"
+   ],
+   "year": 2010,
+   "venue": "Water Resources Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Irrigated Agriculture and Climate Change: The Influence of Water Supply Variability and Salinity on Adaptation",
+   "authors": [
+    "J. Connor",
+    "K.A. Schwabe",
+    "D. King",
+    "K. Knapp"
+   ],
+   "year": 2012,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Where's the Salt? A Spatial Hedonic Analysis of the Value of Groundwater to Irrigated Agriculture",
+   "authors": [
+    "M. Mukherjee",
+    "K.A. Schwabe"
+   ],
+   "year": 2014,
+   "venue": "Agricultural Water Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Residential Water Demand Effect of Increasing Block Rate Water Budgets",
+   "authors": [
+    "K. Baerenklau",
+    "K.A. Schwabe",
+    "A. Dinar"
+   ],
+   "year": 2014,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Tropical countries may be willing to pay more to protect their forests",
+   "authors": [
+    "J. Vincent",
+    "R. Carson",
+    "J. DeShazo",
+    "K.A. Schwabe",
+    "I. Ahmad",
+    "S. Chong",
+    "Y. Chang",
+    "M.D. Potts"
+   ],
+   "year": 2014,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Irrigated Agricultural Adaptation to Water and Climate Variability: The Economic Value of a Water Portfolio",
+   "authors": [
+    "M. Mukherjee",
+    "K.A. Schwabe"
+   ],
+   "year": 2015,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Creation of Malaysia's Royal Belum State Park: A Case Study of Conservation in a Developing Country",
+   "authors": [
+    "K.A. Schwabe",
+    "R. Carson",
+    "J. DeShazo",
+    "M.D. Potts",
+    "A. Reese",
+    "J. Vincent"
+   ],
+   "year": 2015,
+   "venue": "Journal of Environment and Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Designing and Implementing Surveys to Value Tropical Forests: A Malaysian Application",
+   "authors": [
+    "J. DeShazo",
+    "R. Carson",
+    "K.A. Schwabe",
+    "J. Vincent",
+    "I. Ahmad",
+    "S. Chong",
+    "Y. Chang"
+   ],
+   "year": 2015,
+   "venue": "Journal of Tropical Forest Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Incorporating Local Visitor Valuation Information into the Design of New Recreation Sites in Tropical Forests",
+   "authors": [
+    "R.T. Carson",
+    "J.R. DeShazo",
+    "K.A. Schwabe",
+    "J.R. Vincent",
+    "I. Ahmad"
+   ],
+   "year": 2015,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Wastewater Reuse for Agriculture: Development of a Regional Water Reuse Decision-Support Model (RWRM) for Cost-Effective Irrigation Sources",
+   "authors": [
+    "Q. Tran",
+    "K.A. Schwabe",
+    "D. Jassby"
+   ],
+   "year": 2016,
+   "venue": "Environmental Science and Technology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Dynamic Regional Model of Perennial Crop Production",
+   "authors": [
+    "B. Franklin",
+    "K.C. Knapp",
+    "K.A. Schwabe"
+   ],
+   "year": 2017,
+   "venue": "Water Economics and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Biofuel as an Integrated Farm Drainage Management Crop: A Bio-Economic Analysis",
+   "authors": [
+    "L. Levers",
+    "K.A. Schwabe"
+   ],
+   "year": 2017,
+   "venue": "Water Resources Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Adaptation responses to increasing drought frequency",
+   "authors": [
+    "D. Adamson",
+    "A. Loch",
+    "K.A. Schwabe"
+   ],
+   "year": 2017,
+   "venue": "Australian Journal of Agricultural and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Model Use in FEW Nexus Analysis: A Review of Issues",
+   "authors": [
+    "B.A. McCarl",
+    "Y.Q. Yang",
+    "K.A. Schwabe",
+    "B.A. Engel",
+    "A.H. Mondal",
+    "C. Ringler",
+    "E.N. Pistikopoulos"
+   ],
+   "year": 2017,
+   "venue": "Current Sustainable/Renewable Energy Reports",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Implications of Drought and Water Conservation on the Reuse of Municipal Wastewater: Recognizing Impacts and Identifying Mitigation Possibilities",
+   "authors": [
+    "Q. Tran",
+    "D. Jassby",
+    "K.A. Schwabe"
+   ],
+   "year": 2017,
+   "venue": "Water Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Forest transition in developed agricultural regions needs efficient regulatory policy",
+   "authors": [
+    "R. Marcos-Martinez",
+    "B.A. Bryan",
+    "K.A. Schwabe",
+    "J.D. Connor",
+    "E.A. Law"
+   ],
+   "year": 2017,
+   "venue": "Forest Policy and Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Buying water for the Environment: A hydro-economic analysis of Salton Sea inflows",
+   "authors": [
+    "L. Levers",
+    "T. Skaggs",
+    "K.A. Schwabe"
+   ],
+   "year": 2019,
+   "venue": "Agricultural Water Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Projected social costs of CO2 emissions from forest losses far exceed the sequestration benefits of forest gains under global change",
+   "authors": [
+    "R. Marcos-Martinez",
+    "B.A. Bryan",
+    "K.A. Schwabe",
+    "J.D. Connor",
+    "E.A. Law",
+    "M. Nolan",
+    "J. Sánchez José"
+   ],
+   "year": 2019,
+   "venue": "Ecosystem Services",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Water Markets in the Western United States: Trends and Opportunities",
+   "authors": [
+    "K.A. Schwabe",
+    "M. Nemati",
+    "C. Landry",
+    "G. Zimmerman"
+   ],
+   "year": 2020,
+   "venue": "Water",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Unintended consequences of water conservation on treated municipal wastewater use",
+   "authors": [
+    "K.A. Schwabe",
+    "M. Nemati",
+    "R. Amin",
+    "Q. Tran",
+    "D. Jassby"
+   ],
+   "year": 2020,
+   "venue": "Nature Sustainability",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Shallow Groundwater Manganese Merits Deeper Consideration",
+   "authors": [
+    "M. Ramachandran",
+    "K.A. Schwabe",
+    "S. Ying"
+   ],
+   "year": 2021,
+   "venue": "Environmental Science and Technology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Perennial crop dynamics may affect long-run groundwater levels",
+   "authors": [
+    "B. Franklin",
+    "K.A. Schwabe",
+    "L. Levers"
+   ],
+   "year": 2021,
+   "venue": "Land",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Evaluating health outcome metrics and their connections to air pollution and vulnerability in Southern California's Coachella Valley",
+   "authors": [
+    "Y. Miao",
+    "W.C. Porter",
+    "K.A. Schwabe",
+    "J. LeComte-Hinely"
+   ],
+   "year": 2022,
+   "venue": "Science of the Total Environment",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Re-examining the Water Affordability: A Comparison of Alternative Measures",
+   "authors": [
+    "M. Nemati",
+    "K.A. Schwabe"
+   ],
+   "year": 2022,
+   "venue": "Journal of the American Water Resources Association",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Intersection of Wastewater Treatment Plants and Threatened and Endangered Species in California, USA Watersheds",
+   "authors": [
+    "A. Cassidy",
+    "K. Anderson",
+    "K.A. Schwabe",
+    "H. Regan"
+   ],
+   "year": 2023,
+   "venue": "Water Resources Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Residential Water Conservation and the Rebound Effect: A Temporal Decomposition and Investigation",
+   "authors": [
+    "M. Nemati",
+    "D. Tran",
+    "K.A. Schwabe"
+   ],
+   "year": 2023,
+   "venue": "Water Resources Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Disparities in drinking water manganese concentrations in domestic wells and community water systems in the Central Valley, CA, USA",
+   "authors": [
+    "M. Aiken",
+    "C. Pace",
+    "M. Ramachandran",
+    "K.A. Schwabe",
+    "H. Ajami",
+    "B. Link",
+    "S. Ying"
+   ],
+   "year": 2023,
+   "venue": "Environmental Science and Technology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Integrated Electrochemical Treatment Process for Hexahydro-1,3,5-trinitro-1,3,5-triazine (RDX), Hexavalent Chromium, and Ammonia Using Electroactive Membranes",
+   "authors": [
+    "A. Iddya",
+    "G. Elezi",
+    "S. Hembade",
+    "J. Whitelegge",
+    "K.A. Schwabe",
+    "D. Jassby"
+   ],
+   "year": 2024,
+   "venue": "Industrial and Engineering Chemistry Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Cultivating Climate Resilience in California Agriculture: Adaptations to an Increasingly Volatile Water Future",
+   "authors": [
+    "J. Medellin-Azuara",
+    "A. Escriva-Bou",
+    "A. Gaudin",
+    "K.A. Schwabe",
+    "D. Sumner"
+   ],
+   "year": 2024,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Investigating the suitability of managed aquifer recharge legislation across Australia, and lessons for reducing barriers",
+   "authors": [
+    "C. Seidl",
+    "S.A. Wheeler",
+    "D. Page",
+    "K.A. Schwabe"
+   ],
+   "year": 2025,
+   "venue": "Australian Journal of Agricultural and Resource Economics",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Microplastic Exposure Disparities in California Communities Through Bottled Water Consumption",
+   "authors": [
+    "S. Singh",
+    "A. Gray",
+    "N. Nemati",
+    "K.A. Schwabe",
+    "L. Wang"
+   ],
+   "year": 2025,
+   "venue": "Microplastics and Nanoplastics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The cost of 'forever': economic implications of per- and polyfluoroalkyl substances (PFAS) mitigation in drinking water and their impact on water affordability",
+   "authors": [
+    "D. Andries",
+    "K.A. Schwabe",
+    "A. Garrido",
+    "L. De Stefano"
+   ],
+   "year": 2026,
+   "venue": "Environmental Science and Technology: Water",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Does Nature Limit Environmental Federalism",
+   "authors": [
+    "V.K. Smith",
+    "K.A. Schwabe",
+    "C. Mansfield"
+   ],
+   "year": 1999,
+   "venue": "Chapter in Environmental and Public Economics: Essays in Honor of Wallace E. Oates (Edward Elgar)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Analysis of Deer-Vehicle Collisions: The Case of Ohio",
+   "authors": [
+    "K.A. Schwabe",
+    "P. Schuhmann",
+    "M. Tonkovich",
+    "E. Wu"
+   ],
+   "year": 2002,
+   "venue": "Chapter in Human Conflicts with Wildlife: Economic Considerations (USDA NWRC)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Fundamentals of Economic Principles and Wildlife Management",
+   "authors": [
+    "P. Schuhmann",
+    "K.A. Schwabe"
+   ],
+   "year": 2002,
+   "venue": "Chapter in Human Conflicts with Wildlife: Economic Considerations (USDA NWRC)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Irrigation to meet growing food demand with climate change, salinity and water trade",
+   "authors": [
+    "J. Connor",
+    "K.A. Schwabe",
+    "D. King"
+   ],
+   "year": 2008,
+   "venue": "Chapter in Sustainable Irrigation: Management, Technologies and Policies II (WIT Press)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Happiness and Life Satisfaction in Malaysia",
+   "authors": [
+    "R.T. Howell",
+    "W. Chong",
+    "C. Howell",
+    "K.A. Schwabe"
+   ],
+   "year": 2012,
+   "venue": "Chapter in Happiness across Cultures (Springer)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Groundwater Use and Irrigated Agriculture in California: Dynamics, Uncertainty, and Conjunctive Use",
+   "authors": [
+    "K. Knapp",
+    "K.A. Schwabe"
+   ],
+   "year": 2015,
+   "venue": "Chapter in The Handbook of Water Economics and Institutions (Routledge)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Salinity and Groundwater Management: A Hydro-Economic Analysis",
+   "authors": [
+    "K.A. Schwabe",
+    "K. Knapp"
+   ],
+   "year": 2015,
+   "venue": "Chapter in The Handbook of Water Economics (Edward Elgar)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Water-Energy Nexus and Irrigated Agriculture in the US: Trends and Analyses",
+   "authors": [
+    "K.A. Schwabe",
+    "K.C. Knapp",
+    "I. Luviano"
+   ],
+   "year": 2016,
+   "venue": "Chapter in Competition for Water Resources (Elsevier)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Water Markets in California: Punching Below Its Weight",
+   "authors": [
+    "K.A. Schwabe",
+    "M. Nemati"
+   ],
+   "year": 2024,
+   "venue": "Chapter in Elgar Encyclopedia of Water Policy, Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Reassessing grey, green, and demand-based water security options in Australia: A Case Study of Broken Hill",
+   "authors": [
+    "J. Kandulu",
+    "S. Wheeler",
+    "K.A. Schwabe"
+   ],
+   "year": 2025,
+   "venue": "Chapter in Integral Water Management: Diagnosis, Technologies, and Sustainable Policies (Springer)",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

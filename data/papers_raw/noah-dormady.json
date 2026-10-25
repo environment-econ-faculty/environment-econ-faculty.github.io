@@ -1,0 +1,521 @@
+{
+ "slug": "noah-dormady",
+ "name": "Noah Dormady",
+ "sources": [
+  "https://assets.zyrosite.com/AVLpnJojq5ijVL6j/dormady_cv-TJmch1BCVeMdDDZH.pdf",
+  "https://www.noahdormady.com"
+ ],
+ "collected": "2026-10-25",
+ "notes": "Source: CV updated Oct 2026 (newer PDF link found on homepage; the listed CV link was dead). Homepage has no pub list. 'Publications In Progress' items (other than the R&R) have no status/draft shown so omitted; reports/policy briefs and IAEE Energy Forum piece omitted. R&R year set to CV year 2026.",
+ "papers": [
+  {
+   "title": "An Explainable Machine Learning Analysis of Retail Renewable Premiums",
+   "authors": [
+    "Y. Ji",
+    "N. Dormady",
+    "A. Shafieezadeh",
+    "K. Diana",
+    "M. Hoyt",
+    "A. Lamadrid",
+    "S. Fox"
+   ],
+   "year": 2026,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Public Management of Deregulated Systems: Challenges and Opportunities in the Public Management of Retail Energy Markets",
+   "authors": [
+    "N. Dormady",
+    "J. Kahn-Lang",
+    "Y. Choi",
+    "Y. Ji",
+    "S. Fox",
+    "A. Lamadrid",
+    "M. Hoyt"
+   ],
+   "year": 2026,
+   "venue": "Public Administration Review",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic Baselines For Evaluating Disaster Resilience And Recovery",
+   "authors": [
+    "A. Rose",
+    "N. Dormady",
+    "H. Tatano",
+    "Y. Kajitani",
+    "M. Watson",
+    "H. Liu",
+    "V. Sharma",
+    "M. Yoshida"
+   ],
+   "year": 2026,
+   "venue": "Integrated Disaster Risk Management",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Long-term Recovery of Female- and Immigrant-owned Businesses Following the 2011 Tohoku Earthquake",
+   "authors": [
+    "Y. Kajitani",
+    "M. Yoshida",
+    "H. Liu",
+    "N. Dormady",
+    "M. Watson",
+    "S. Byun",
+    "H. Tatano"
+   ],
+   "year": 2026,
+   "venue": "Economics of Disasters and Climate Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Role of Numeracy and Personal Experience in Emergency Management Decision-Making",
+   "authors": [
+    "V. Osei-Ahenkan",
+    "N. Dormady"
+   ],
+   "year": 2026,
+   "venue": "International Journal of Disaster Risk Reduction",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How Are Retail Prices Formed in Restructured Electricity Markets?",
+   "authors": [
+    "N. Dormady",
+    "A. Roa-Henriquez",
+    "M. Hoyt",
+    "M. Pesavento",
+    "G. Koenig",
+    "W. Welch",
+    "Z. Li"
+   ],
+   "year": 2025,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Can FICO Score Be Used To Explain Managerial Decision Making? Evidence From A Supply Chain Resilience Experiment",
+   "authors": [
+    "Y. Choi",
+    "N. Dormady"
+   ],
+   "year": 2025,
+   "venue": "International Journal of Production Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Efficiency and Consumer Welfare Under Retail Electricity Deregulation: Analysis of Ohio's Retail Choice Markets",
+   "authors": [
+    "N. Dormady",
+    "W. Welch",
+    "Y. Ji",
+    "S. Pedron",
+    "A. Shafieezadeh",
+    "A. Lamadrid",
+    "M. Hoyt",
+    "S. Fox"
+   ],
+   "year": 2025,
+   "venue": "Journal of Critical Infrastructure Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Cost-Effective Business Resilience Decision Making",
+   "authors": [
+    "N. Dormady",
+    "A. Rose",
+    "C. Snider",
+    "A. Roa-Henriquez"
+   ],
+   "year": 2024,
+   "venue": "Oxford Research Encyclopedia of Natural Hazard Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Methods and Lessons for Business Resilience and Recovery Surveys",
+   "authors": [
+    "M. Watson",
+    "C. Brown",
+    "J. Handmer",
+    "C. Kroll",
+    "A. Wein",
+    "J. Helgeson",
+    "A. Rose",
+    "N. Dormady",
+    "J. Kim"
+   ],
+   "year": 2023,
+   "venue": "International Journal of Disaster Risk Reduction",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Cost-Effectiveness of Economic Resilience",
+   "authors": [
+    "N. Dormady",
+    "A. Rose",
+    "A. Roa-Henriquez",
+    "B. Morin"
+   ],
+   "year": 2022,
+   "venue": "International Journal of Production Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Informational Determinants of Large-area Hurricane Evacuations",
+   "authors": [
+    "N. Dormady",
+    "A. Fasano",
+    "A. Roa-Henriquez",
+    "D. Flanagan",
+    "W. Welch",
+    "D. Wood"
+   ],
+   "year": 2022,
+   "venue": "Bulletin of the American Meteorological Society",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Advances in the Empirical Estimation of Disaster Resilience",
+   "authors": [
+    "N. Dormady",
+    "A. Rose",
+    "B. Morin"
+   ],
+   "year": 2022,
+   "venue": "Handbook on the Economics of Natural Disasters, Edward Elgar (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Experimental Investigation of Resilience Decision Making in Repeated Disasters",
+   "authors": [
+    "N. Dormady",
+    "R. Greenbaum",
+    "K. Young"
+   ],
+   "year": 2021,
+   "venue": "Environment Systems & Decisions",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Value of Information on Resilience Decision Making in Repeated Disaster Environments",
+   "authors": [
+    "N. Dormady",
+    "R. Greenbaum",
+    "K. Young"
+   ],
+   "year": 2021,
+   "venue": "Natural Hazards Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Conceptual Foundations & Empirical Advances of Economic Resilience with Extensions to Complexity, Entropy & Spatial Dynamics",
+   "authors": [
+    "A. Rose",
+    "N. Dormady"
+   ],
+   "year": 2021,
+   "venue": "Handbook on Entropy, Complexity & Spatial Dynamics, Edward Elgar (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Bayesian Calibration of Multi-Response Systems via Multivariate Kriging: Methodology & Geological & Geotechnical Case Studies",
+   "authors": [
+    "M. Rahimi",
+    "A. Shafieezadeh",
+    "D. Wood",
+    "E.J. Kubatko",
+    "N. Dormady"
+   ],
+   "year": 2019,
+   "venue": "Engineering Geology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Intersection of Privatization & Public Utility Regulation: The Ohio State University's Energy Concession Agreement & Private-Public Utility Theory",
+   "authors": [
+    "N. Dormady",
+    "D. Jones",
+    "B. Roe",
+    "G. Rub"
+   ],
+   "year": 2019,
+   "venue": "Utilities Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Consignment Mechanism in Carbon Markets: A Laboratory Investigation",
+   "authors": [
+    "N. Dormady",
+    "P.J. Healy"
+   ],
+   "year": 2019,
+   "venue": "Journal of Commodity Markets",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Who Pays for Retail Electric Deregulation?: Evidence of Cross-Subsidization from Complete Bill Data",
+   "authors": [
+    "N. Dormady",
+    "M. Hoyt",
+    "A. Roa-Henriquez",
+    "W. Welch"
+   ],
+   "year": 2019,
+   "venue": "The Energy Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do Markets Make Good Commissioners: A Quasi-Experimental Analysis of Retail Electric Restructuring in Ohio",
+   "authors": [
+    "N. Dormady",
+    "Z. Jiang",
+    "M. Hoyt"
+   ],
+   "year": 2019,
+   "venue": "Journal of Public Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic Resilience of the Firm: A Production Theory Approach",
+   "authors": [
+    "N. Dormady",
+    "A. Roa-Henriquez",
+    "A. Rose"
+   ],
+   "year": 2019,
+   "venue": "International Journal of Production Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Estimating the Cost-Effectiveness of Resilience to Disasters: Survey Instrument Design & Refinement of Primary Data",
+   "authors": [
+    "N. Dormady",
+    "A. Rose",
+    "H. Rosoff",
+    "A. Roa-Henriquez"
+   ],
+   "year": 2019,
+   "venue": "Handbook on Resilience of Socio-Technical Systems, Edward Elgar (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Energy-Transport Sector Interdependence in Extreme Events: The Case of a Hurricane Event in Boston",
+   "authors": [
+    "N. Dormady",
+    "R. Ellis"
+   ],
+   "year": 2018,
+   "venue": "Current Sustainable/Renewable Energy Reports",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Advances in Analyzing & Measuring Dynamic Economic Resilience",
+   "authors": [
+    "A. Rose",
+    "N. Dormady"
+   ],
+   "year": 2018,
+   "venue": "IRGC Resource Guide on Resilience (Vol. 2), EPFL (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Sex, Gender & Disasters: Experimental Evidence on the Decision to Invest in Resilience",
+   "authors": [
+    "K. Young",
+    "R. Greenbaum",
+    "N. Dormady"
+   ],
+   "year": 2017,
+   "venue": "International Journal of Disaster Risk Reduction",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Having Your Cake & Eating it, Too: Ohio's Proposals to Re-Regulate through Power Purchase Agreements",
+   "authors": [
+    "N. Dormady"
+   ],
+   "year": 2017,
+   "venue": "The Electricity Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Carbon Auction Revenue & Market Power: An Experimental Analysis",
+   "authors": [
+    "N. Dormady"
+   ],
+   "year": 2016,
+   "venue": "Energies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Carbon Allowances & the Demand for Offsets: A Comprehensive Assessment of Imperfect Substitutes",
+   "authors": [
+    "N. Dormady",
+    "A.G. Englander"
+   ],
+   "year": 2016,
+   "venue": "Journal of Public Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Development of Reduced-Form Models to Evaluate Macroeconomic Impacts of Greenhouse Gas Mitigation",
+   "authors": [
+    "D. Wei",
+    "N. Dormady",
+    "A. Rose"
+   ],
+   "year": 2015,
+   "venue": "Journal of Sustainable Energy Engineering",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Carbon Auctions, Energy Markets & Market Power: An Experimental Analysis",
+   "authors": [
+    "N. Dormady"
+   ],
+   "year": 2014,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Potential Impact of an Anthrax Attack on Real Estate Prices & Foreclosures in Seattle",
+   "authors": [
+    "N. Dormady",
+    "T. Szelazek",
+    "A. Rose"
+   ],
+   "year": 2014,
+   "venue": "Risk Analysis",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Market Power in Cap-and-Trade Auctions: A Monte Carlo Approach",
+   "authors": [
+    "N. Dormady"
+   ],
+   "year": 2013,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Political Economy of Collaborative Organization",
+   "authors": [
+    "N. Dormady"
+   ],
+   "year": 2013,
+   "venue": "Administration & Society",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Macroeconomic Assessment of the Pennsylvania Climate Action Plan",
+   "authors": [
+    "A. Rose",
+    "D. Wei",
+    "N. Dormady"
+   ],
+   "year": 2011,
+   "venue": "Regional Science Policy & Practice",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Meta-Analysis of the Economic Impacts of Climate Change Policy in the United States",
+   "authors": [
+    "A. Rose",
+    "N. Dormady"
+   ],
+   "year": 2011,
+   "venue": "The Energy Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Long-duration Power Outages in Tribal Communities: A Case Study of the Resilience of the Navajo People",
+   "authors": [
+    "V. Osei-Ahenkan",
+    "N. Dormady",
+    "M. Illafe",
+    "H. Shin",
+    "A. Shafieezadeh",
+    "S. Mohagheghi",
+    "M. Moore"
+   ],
+   "year": 2026,
+   "venue": "Journal of Critical Infrastructure Policy",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

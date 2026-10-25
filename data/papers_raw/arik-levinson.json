@@ -1,0 +1,670 @@
+{
+ "slug": "arik-levinson",
+ "name": "Arik Levinson",
+ "sources": [
+  "https://ariklevinson.georgetown.domains/vita.pdf"
+ ],
+ "collected": "2026-10-25",
+ "notes": "From Aug 2026 CV (pdftotext). Journal articles (incl. Case Studies in the Environment) plus active WP, NBER wp19329 and World Bank WP; omitted Science policy pieces, op-eds, book chapters, comments/reviews, inactive 'Medicaid Stigma' (no year). CV gives 'with' coauthors; scholar listed first, CV coauthor order kept. Child Tax Credit WP year = CV date (2026).",
+ "papers": [
+  {
+   "title": "Greenhouse Gases Resulting from Grid-Connected Electricity Demand",
+   "authors": [
+    "Arik Levinson",
+    "Karl Dunkle Werner"
+   ],
+   "year": 2026,
+   "venue": "Contemporary Economic Policy",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Carbon Tariffs",
+   "authors": [
+    "Arik Levinson",
+    "Claire Brunel"
+   ],
+   "year": 2025,
+   "venue": "Environmental and Energy Policy and the Economy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Tariffs on Clean-Energy Technology",
+   "authors": [
+    "Arik Levinson"
+   ],
+   "year": 2024,
+   "venue": "Journal of Policy Analysis and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Introduction to Distributional Consequences of New Energy Technologies and Policies",
+   "authors": [
+    "Arik Levinson",
+    "Catherine Hausman",
+    "Shanjun Li"
+   ],
+   "year": 2024,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Are Developing Countries Outsourcing Pollution?",
+   "authors": [
+    "Arik Levinson"
+   ],
+   "year": 2023,
+   "venue": "Journal of Economic Perspectives",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Who Values Future Energy Savings? Evidence from American Drivers",
+   "authors": [
+    "Arik Levinson",
+    "Lutz Sager"
+   ],
+   "year": 2023,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Renewable Portfolio Standards",
+   "authors": [
+    "Arik Levinson",
+    "Rachel Feldman"
+   ],
+   "year": 2023,
+   "venue": "Energy Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "When Can Benefit-Cost Analyses Ignore Secondary Markets?",
+   "authors": [
+    "Arik Levinson",
+    "Matthew Kotchen"
+   ],
+   "year": 2023,
+   "venue": "Journal of Benefit-Cost Analysis",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Electric Gini: Income Redistribution through Energy Prices",
+   "authors": [
+    "Arik Levinson",
+    "Emilson Silva"
+   ],
+   "year": 2022,
+   "venue": "American Economic Journal: Economic Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Energy Intensity: Deindustrialization, Composition, Prices, and Policies in U.S. States",
+   "authors": [
+    "Arik Levinson"
+   ],
+   "year": 2021,
+   "venue": "Resource and Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Role of Retrospective Analysis in an Era of Deregulation: Lessons from the US Mercury and Air Toxics Standards",
+   "authors": [
+    "Arik Levinson",
+    "Mary Evans",
+    "Karen Palmer",
+    "Joseph Aldy",
+    "Meredith Fowlie",
+    "Matthew Kotchen"
+   ],
+   "year": 2021,
+   "venue": "Review of Environmental Economics and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "America's Regressive Wealth Tax: State and Local Property Taxes",
+   "authors": [
+    "Arik Levinson"
+   ],
+   "year": 2020,
+   "venue": "Applied Economics Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Co-Benefits and Regulatory Impact Analysis: Theory and Evidence from Federal Air Quality Regulations",
+   "authors": [
+    "Arik Levinson",
+    "Joseph Aldy",
+    "Matthew Kotchen",
+    "Mary Evans",
+    "Meredith Fowlie",
+    "Karen Palmer"
+   ],
+   "year": 2020,
+   "venue": "Environmental and Energy Policy and the Economy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Energy Efficiency Standards Are More Regressive Than Energy Taxes: Theory and Evidence",
+   "authors": [
+    "Arik Levinson"
+   ],
+   "year": 2019,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Environmental Engel Curves: Indirect Emissions of Common Air Pollutants",
+   "authors": [
+    "Arik Levinson",
+    "James O'Brien"
+   ],
+   "year": 2019,
+   "venue": "Review of Economics and Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Misreporting Trade: Tariff Evasion, Corruption, and Auditing Standards",
+   "authors": [
+    "Arik Levinson",
+    "Derek Kellenberg"
+   ],
+   "year": 2018,
+   "venue": "Review of International Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Mercury and Air Toxics Standards: Co-Benefits and the Courts in U.S. Cost-Benefit Analysis",
+   "authors": [
+    "Arik Levinson"
+   ],
+   "year": 2018,
+   "venue": "Case Studies in the Environment",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Environmental Protectionism: The Case of CAFE",
+   "authors": [
+    "Arik Levinson"
+   ],
+   "year": 2017,
+   "venue": "Economics Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Automobile Fuel Economy and Greenhouse Gas Emissions Standards",
+   "authors": [
+    "Arik Levinson",
+    "Grady Killeen"
+   ],
+   "year": 2017,
+   "venue": "Case Studies in the Environment",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How Much Energy Do Building Energy Codes Save? Evidence from California Houses",
+   "authors": [
+    "Arik Levinson"
+   ],
+   "year": 2016,
+   "venue": "American Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Measuring Environmental Regulatory Stringency",
+   "authors": [
+    "Arik Levinson",
+    "Claire Brunel"
+   ],
+   "year": 2016,
+   "venue": "Review of Environmental Economics and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Direct Estimate of the Technique Effect: Changes in the Pollution Intensity of US Manufacturing 1990-2008",
+   "authors": [
+    "Arik Levinson"
+   ],
+   "year": 2015,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "California Energy Efficiency: Lessons for the Rest of the World, or Not?",
+   "authors": [
+    "Arik Levinson"
+   ],
+   "year": 2014,
+   "venue": "Journal of Economic Behavior and Organization",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Waste of Effort? International Environmental Agreements",
+   "authors": [
+    "Arik Levinson",
+    "Derek Kellenberg"
+   ],
+   "year": 2014,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Valuing Public Goods Using Happiness Data: The Case of Air Quality",
+   "authors": [
+    "Arik Levinson"
+   ],
+   "year": 2012,
+   "venue": "Journal of Public Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Pollution and International Trade in Services",
+   "authors": [
+    "Arik Levinson"
+   ],
+   "year": 2010,
+   "venue": "International Environmental Agreements: Politics, Law and Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Offshoring pollution: Is the U.S. increasingly importing polluting goods?",
+   "authors": [
+    "Arik Levinson"
+   ],
+   "year": 2010,
+   "venue": "Review of Environmental Economics and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Technology, International Trade, and Pollution from U.S. Manufacturing",
+   "authors": [
+    "Arik Levinson"
+   ],
+   "year": 2009,
+   "venue": "American Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Unmasking the Pollution Haven Effect",
+   "authors": [
+    "Arik Levinson",
+    "Scott Taylor"
+   ],
+   "year": 2008,
+   "venue": "International Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Budget Rules and State Business Cycles: A Comment",
+   "authors": [
+    "Arik Levinson"
+   ],
+   "year": 2007,
+   "venue": "Public Finance Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Employee Cost-sharing and the Welfare Effects of Flexible Spending Accounts",
+   "authors": [
+    "Arik Levinson",
+    "William Jack",
+    "Sjamsu Rahardja"
+   ],
+   "year": 2006,
+   "venue": "Journal of Public Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Labor Supply Effects of the Earned Income Tax Credit: Evidence from Wisconsin's Supplemental Benefit for Families with Three Children",
+   "authors": [
+    "Arik Levinson",
+    "Maria Cancian"
+   ],
+   "year": 2006,
+   "venue": "National Tax Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Trade Liberalization and Pollution Havens",
+   "authors": [
+    "Arik Levinson",
+    "Josh Ederington",
+    "Jenny Minier"
+   ],
+   "year": 2004,
+   "venue": "Advances in Economic Analysis and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Footloose and Pollution-Free",
+   "authors": [
+    "Arik Levinson",
+    "Josh Ederington",
+    "Jenny Minier"
+   ],
+   "year": 2005,
+   "venue": "Review of Economics and Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Willingness to Pay for the Environment: Testable Empirical Implications of the Growth and Environment Literature",
+   "authors": [
+    "Arik Levinson",
+    "Debra Israel"
+   ],
+   "year": 2004,
+   "venue": "Contributions to Economic Analysis and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Energy Use by Apartment Tenants When Landlords Pay for Utilities",
+   "authors": [
+    "Arik Levinson",
+    "Scott Niemann"
+   ],
+   "year": 2004,
+   "venue": "Resource and Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Examining the Evidence on Environmental Regulations and Industry Location",
+   "authors": [
+    "Arik Levinson",
+    "Smita Brunnermeier"
+   ],
+   "year": 2004,
+   "venue": "Journal of the Environment and Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Environmental Regulatory Competition: A Status Report and Some New Evidence",
+   "authors": [
+    "Arik Levinson"
+   ],
+   "year": 2002,
+   "venue": "National Tax Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Pollution Abatement Costs and FDI Inflows to U.S. States",
+   "authors": [
+    "Arik Levinson",
+    "Wolfgang Keller"
+   ],
+   "year": 2002,
+   "venue": "Review of Economics and Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Reexamining the Empirical Evidence for an Environmental Kuznets Curve",
+   "authors": [
+    "Arik Levinson",
+    "Bill Harbaugh",
+    "David Wilson"
+   ],
+   "year": 2002,
+   "venue": "Review of Economics and Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Simple Analytics of the Environmental Kuznets Curve",
+   "authors": [
+    "Arik Levinson",
+    "James Andreoni"
+   ],
+   "year": 2001,
+   "venue": "Journal of Public Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Missing Pollution Haven Effect: Examining Some Common Explanations",
+   "authors": [
+    "Arik Levinson"
+   ],
+   "year": 2000,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "NIMBY Taxes Matter: The Case of State Hazardous Waste Disposal Taxes",
+   "authors": [
+    "Arik Levinson"
+   ],
+   "year": 1999,
+   "venue": "Journal of Public Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "State Taxes and Interstate Hazardous Waste Shipments",
+   "authors": [
+    "Arik Levinson"
+   ],
+   "year": 1999,
+   "venue": "American Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Grandfather Regulations, New Source Bias, and State Air Toxics Regulations",
+   "authors": [
+    "Arik Levinson"
+   ],
+   "year": 1999,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Rainy Day Funds and State Government Savings",
+   "authors": [
+    "Arik Levinson",
+    "Brian Knight"
+   ],
+   "year": 1999,
+   "venue": "National Tax Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Balanced Budgets and Business Cycles: Evidence from the States",
+   "authors": [
+    "Arik Levinson"
+   ],
+   "year": 1998,
+   "venue": "National Tax Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Factoring the Environmental Kuznets Curve: Evidence from Automotive Lead Emissions",
+   "authors": [
+    "Arik Levinson",
+    "F.G. Hank Hilton"
+   ],
+   "year": 1998,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Medicaid Managed Care and Infant Health",
+   "authors": [
+    "Arik Levinson",
+    "Frank Ullman"
+   ],
+   "year": 1998,
+   "venue": "Journal of Health Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Why Oppose TDRs?: Transferable Development Rights Can Increase Overall Development",
+   "authors": [
+    "Arik Levinson"
+   ],
+   "year": 1997,
+   "venue": "Regional Science and Urban Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Note on Environmental Federalism: Interpreting Some Contradictory Results",
+   "authors": [
+    "Arik Levinson"
+   ],
+   "year": 1997,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Environmental Regulations and Manufacturers' Location Choices: Evidence from the Census of Manufactures",
+   "authors": [
+    "Arik Levinson"
+   ],
+   "year": 1996,
+   "venue": "Journal of Public Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Reexamining Teacher Preferences and Compensating Wages",
+   "authors": [
+    "Arik Levinson"
+   ],
+   "year": 1988,
+   "venue": "Economics of Education Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The 2021 Child Tax Credit Expansion and Economic Insecurity",
+   "authors": [
+    "Arik Levinson",
+    "Jenny Le"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Happiness, Behavioral Economics, and Public Policy",
+   "authors": [
+    "Arik Levinson"
+   ],
+   "year": 2013,
+   "venue": "NBER Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Efficient Environmental Regulation: Case Studies of Urban Air Pollution in Los Angeles, Mexico City, Cubatao, and Ankara",
+   "authors": [
+    "Arik Levinson",
+    "Sudhir Shetty"
+   ],
+   "year": 1992,
+   "venue": "World Bank Policy Research Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

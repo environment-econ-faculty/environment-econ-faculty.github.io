@@ -1,0 +1,426 @@
+{
+ "slug": "eric-c-edwards",
+ "name": "Eric C. Edwards",
+ "sources": [
+  "https://www.ericcedwards.com/",
+  "https://www.ericcedwards.com/copy-of-research-1",
+  "https://www.ericcedwards.com/_files/ugd/1110dc_272754c1f0764ae5ba2ef3a335615f69.pdf"
+ ],
+ "collected": "2026-10-25",
+ "notes": "Published items from CV (2026 version); working papers from homepage Working Papers page (no years shown; year 2026 assumed). 'In preparation' items skipped. Book chapters included.",
+ "papers": [
+  {
+   "title": "Defending districts: local levee coordination and the development of the lower Mississippi",
+   "authors": [
+    "Eric C. Edwards",
+    "Wesley N. Thurman"
+   ],
+   "year": 2026,
+   "venue": "Journal of Historical Political Economy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Agent-based modeling to assess the effects of time-of-use water tariffs on social equity",
+   "authors": [
+    "Cade Karrenberg",
+    "Eric Edwards",
+    "Emily Z. Berglund"
+   ],
+   "year": 2026,
+   "venue": "Utilities Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Creating American Farmland: Institutional Evolution and the Development of Agricultural Drainage",
+   "authors": [
+    "Eric C. Edwards",
+    "Wesley Thurman"
+   ],
+   "year": 2025,
+   "venue": "Journal of Economic History",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Water, Dust, and Environmental Justice: The Case of Agricultural Water Diversions",
+   "authors": [
+    "Ryan Abman",
+    "Eric C. Edwards",
+    "Danae Hernandez-Cortes"
+   ],
+   "year": 2025,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Capitalization of Property Rights to Groundwater",
+   "authors": [
+    "Eric C. Edwards",
+    "Nathan P. Hendricks",
+    "Gabriel S. Sampson"
+   ],
+   "year": 2025,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Economics of Drought",
+   "authors": [
+    "Eric C. Edwards",
+    "Leslie Sanchez",
+    "Sandip Sekhri"
+   ],
+   "year": 2024,
+   "venue": "Annual Review of Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Dynamic Pricing Framework for Water Demand Management Using Advanced Metering Infrastructure Data",
+   "authors": [
+    "F.M. Alghamdi",
+    "Eric C. Edwards",
+    "Emily Z. Berglund"
+   ],
+   "year": 2024,
+   "venue": "Water Resources Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Manure Nutrient Cycling in U.S. Animal Agriculture Basins – North Carolina Case Study",
+   "authors": [
+    "L. Huezo",
+    "D. Jones",
+    "Eric C. Edwards",
+    "M. Sharara"
+   ],
+   "year": 2024,
+   "venue": "Journal of Environmental Quality",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Paper Water, Wet Water, and the Recognition of Indigenous Property Rights",
+   "authors": [
+    "Leslie Sanchez",
+    "Eric C. Edwards",
+    "Bryan Leonard"
+   ],
+   "year": 2023,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Teaching Elasticity of Demand and Marginal Analysis Using Water Utility Pricing",
+   "authors": [
+    "Eric C. Edwards",
+    "A. Hassett",
+    "Sara A. Sutherland"
+   ],
+   "year": 2023,
+   "venue": "Applied Economics Teaching Resources",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Property Rights to Land and Agricultural Organization: An Argentina-United States Comparison",
+   "authors": [
+    "Eric C. Edwards",
+    "Martin Fiszbein",
+    "Gary D. Libecap"
+   ],
+   "year": 2022,
+   "venue": "Journal of Law & Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Impact of Property Rights to Fish on Remote Communities in Alaska",
+   "authors": [
+    "Sara A. Sutherland",
+    "Eric C. Edwards"
+   ],
+   "year": 2022,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Water Storage and Agricultural Resilience to Drought: Historical Evidence of the Capacity and Institutional Limits in the United States",
+   "authors": [
+    "Eric C. Edwards",
+    "Shawn M. Smith"
+   ],
+   "year": 2021,
+   "venue": "Environmental Research Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Economics of Groundwater Governance Institutions Across the Globe",
+   "authors": [
+    "Eric C. Edwards",
+    "Todd Guilfoos"
+   ],
+   "year": 2021,
+   "venue": "Applied Economic Perspectives and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Economics of Indigenous Water Claim Settlements in the American West",
+   "authors": [
+    "Leslie Sanchez",
+    "Eric C. Edwards",
+    "Bryan Leonard"
+   ],
+   "year": 2020,
+   "venue": "Environmental Research Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Predator-Prey Interaction in a Bi-Resource Economy and the Role of Free Trade",
+   "authors": [
+    "D.H. Go",
+    "Eric C. Edwards",
+    "R. Oladi"
+   ],
+   "year": 2020,
+   "venue": "Resource and Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Irrigation Investment on an American Indian Reservation",
+   "authors": [
+    "M. Ge",
+    "Eric C. Edwards",
+    "S.B. Akhundjanov"
+   ],
+   "year": 2020,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Cost of Addressing Saline Lake Decline and the Potential for Water Conservation Markets",
+   "authors": [
+    "Eric C. Edwards",
+    "S.E. Null"
+   ],
+   "year": 2019,
+   "venue": "Science of the Total Environment",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An illiquid market in the desert: Estimating the cost of water trade restrictions in northern Chile",
+   "authors": [
+    "Eric C. Edwards",
+    "O. Cristi",
+    "G. Edwards",
+    "Gary D. Libecap"
+   ],
+   "year": 2018,
+   "venue": "Environment and Development Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Role of Irrigation in the Development of Agriculture in the United States",
+   "authors": [
+    "Eric C. Edwards",
+    "Shawn M. Smith"
+   ],
+   "year": 2018,
+   "venue": "Journal of Economic History",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How Transaction Costs Obstruct Collective Action: Evidence from California's Groundwater",
+   "authors": [
+    "A.B. Ayres",
+    "Eric C. Edwards",
+    "Gary D. Libecap"
+   ],
+   "year": 2018,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic Insight from Utah's Water Efficiency Supply Curve",
+   "authors": [
+    "Eric C. Edwards",
+    "R.C. Bosworth",
+    "P. Adams",
+    "V. Baji",
+    "A. Burrows",
+    "C. Gerdes",
+    "M. Jones"
+   ],
+   "year": 2017,
+   "venue": "Water",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "What Lies Beneath? Aquifer Heterogeneity and the Economics of Groundwater Management",
+   "authors": [
+    "Eric C. Edwards"
+   ],
+   "year": 2016,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Comparative Assessment of Water Markets: Insights from the Murray-Darling Basin of Australia and the Western USA",
+   "authors": [
+    "R.Q. Grafton",
+    "Gary D. Libecap",
+    "Eric C. Edwards",
+    "R.J. O'Brien",
+    "C. Landry"
+   ],
+   "year": 2012,
+   "venue": "Water Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Economics of Climatic Adaptation: Agricultural Drainage in the United States",
+   "authors": [
+    "Eric C. Edwards",
+    "Wesley N. Thurman"
+   ],
+   "year": 2023,
+   "venue": "American Agriculture, Water Resources, and Climate Change (NBER/University of Chicago Press)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Colonial Origins of Diverse Property-Rights to Land and the Long-Term Economic Implications in North and South America",
+   "authors": [
+    "Eric C. Edwards",
+    "Martin Fiszbein",
+    "Gary D. Libecap"
+   ],
+   "year": 2023,
+   "venue": "The Changing Role of Property Law (Edward Elgar)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Contracting and the Commons: Linking the Insight of Gary Libecap and Elinor Ostrom",
+   "authors": [
+    "Eric C. Edwards",
+    "Bryan Leonard"
+   ],
+   "year": 2020,
+   "venue": "The Environmental Optimism of Elinor Ostrom (Center for Growth and Opportunity)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Water Institutions and the Law of One price",
+   "authors": [
+    "Eric C. Edwards",
+    "Gary D. Libecap"
+   ],
+   "year": 2015,
+   "venue": "Handbook on the Economics of Natural Resource (Edward Elgar)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Left in the Dust: Pecuniary and Environmental Externalities in Water Markets",
+   "authors": [
+    "Sherzod Akhundjanov",
+    "Muyang Ge",
+    "Reza Oladi",
+    "Eric C. Edwards"
+   ],
+   "year": 2026,
+   "venue": "Journal of Political Economy Microeconomics",
+   "status": "修改重投",
+   "url": "https://www.ericcedwards.com/_files/ugd/1110dc_bd27167929b94dffbe42170d44f625b5.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Dust in the Wind: The Health Costs of Great Salt Lake Desiccation",
+   "authors": [
+    "Lena Harris",
+    "Danae Hernandez-Cortes",
+    "Eric C. Edwards"
+   ],
+   "year": 2026,
+   "venue": "NBER Working Paper 35270",
+   "status": "工作论文",
+   "url": "https://www.nber.org/papers/w35270",
+   "abstract": null
+  },
+  {
+   "title": "Waiting to Burn: The National Environmental Policy Act and Fuel Treatments",
+   "authors": [
+    "Sara A. Sutherland",
+    "Frederik Strabo",
+    "Eric C. Edwards"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://github.com/eric8767/nepa-wildfire-working-paper",
+   "abstract": null
+  },
+  {
+   "title": "Identifying Time-of-Use Demand Characteristics of Residential Water Users for Tailored Demand Management",
+   "authors": [
+    "Cade Karrenberg",
+    "Emily Berglund",
+    "Eric C. Edwards"
+   ],
+   "year": 2026,
+   "venue": "Resources, Conservation, and Recycling",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

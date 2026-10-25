@@ -1,0 +1,735 @@
+{
+ "slug": "michael-r-springborn",
+ "name": "Michael R. Springborn",
+ "sources": [
+  "http://www.des.ucdavis.edu/faculty/Springborn/data/Springborn%20CV.pdf",
+  "https://springborn.faculty.ucdavis.edu/",
+  "https://springborn.faculty.ucdavis.edu/publications/"
+ ],
+ "collected": "2026-10-25",
+ "notes": "CV is dated 7/1/22; newer entries (2023-2026) come from the homepage Publications page, which gives surname-only author lists; full first names for those were filled in by title lookup in Crossref (not an author search). Under-review items on the CV (amphibian, ants, federalism, DiD flexibility) now appear as published on the homepage, so listed as published. Donovan et al. JEEM is 'forthcoming' with no year on page; year 2026 per Crossref online date. Dated years for Economic Inquiry 2025 and Conservation Letters 2025 follow page/vol. LaRiviere et al. year 2018 per CV (page says 2017). No working papers listed; skipped letters/reports/ARE Update. Roura-Pascual and Essl multi-author lists as printed in CV (typo 'Anew Liebhold' kept).",
+ "papers": [
+  {
+   "title": "Timing, uncertainty, and opportunity cost: Lessons for ecosystem modification on the Colorado River",
+   "authors": [
+    "Pierce Donovan",
+    "Lucas S. Bair",
+    "Matthew N. Reimer",
+    "Michael R. Springborn",
+    "Charles B. Yackulic"
+   ],
+   "year": 2026,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Preparing regulation for climate-resilient restoration: Learning from emerging technologies",
+   "authors": [
+    "Mary C. Fisher",
+    "Marissa L. Baskett",
+    "Andrew C. Baker",
+    "Ashley Kidd",
+    "Michael R. Springborn",
+    "Tyler A. Scott"
+   ],
+   "year": 2025,
+   "venue": "Conservation Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Don't move a mussel: Key environmental drivers and management scale in dreissenid spread risk, Missouri River Basin",
+   "authors": [
+    "Joseph Raymond",
+    "Lucas S. Bair",
+    "Timothy D. Counihan",
+    "Wesley M. Daniel",
+    "Sofie Duntugan",
+    "Matthew E. Neilson",
+    "Michael Springborn"
+   ],
+   "year": 2025,
+   "venue": "Ecological Indicators",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Researchers' degrees of flexibility: Revisiting COVID-19 policy evaluations",
+   "authors": [
+    "Joakim A. Weill",
+    "Matthieu Stigler",
+    "Olivier Deschenes",
+    "Michael R. Springborn"
+   ],
+   "year": 2025,
+   "venue": "Economic Inquiry",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Assessing Impacts of Bycatch Policies and Fishers' Heterogeneous Information on Food Webs and Fishery Sustainability",
+   "authors": [
+    "Appilineni Kushal",
+    "Michael R. Springborn",
+    "Fernanda S. Valdovinos"
+   ],
+   "year": 2024,
+   "venue": "Philosophical Transactions of the Royal Society B",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The role of climatic similarity and bridgeheads in two centuries of trade-driven global ant invasions",
+   "authors": [
+    "Paul Mwebaze",
+    "Andrew M. Liebhold",
+    "Cleo Bertelsmeier",
+    "Olivia K. Bates",
+    "Derek Kellenberg",
+    "Michael Springborn"
+   ],
+   "year": 2023,
+   "venue": "Journal of the Agricultural and Applied Economics Association",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Leveraging federalism for flexible and robust management of social-ecological systems",
+   "authors": [
+    "Charles B. Sims",
+    "Paul Armsworth",
+    "Julie Blackwood",
+    "Ben Fitzpatrick",
+    "David Kling",
+    "Suzanne Lenhart",
+    "Michael Neubert",
+    "Monica Papeş",
+    "James Sanchirico",
+    "Katriona Shea",
+    "Michael Springborn"
+   ],
+   "year": 2023,
+   "venue": "People and Nature",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Amphibian Collapses Increased Malaria Incidence in Central America",
+   "authors": [
+    "Michael R. Springborn",
+    "Joakim A. Weill",
+    "Karen R. Lips",
+    "Roberto Ibàñez",
+    "Aniruddha Ghosh"
+   ],
+   "year": 2022,
+   "venue": "Environmental Research Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Balancing conservation and commerce: A shadow value viability approach for governing bycatch",
+   "authors": [
+    "Pierce Donovan",
+    "Michael R. Springborn"
+   ],
+   "year": 2022,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Hidden patterns of insect invasion risk revealed from two centuries of alien species discoveries",
+   "authors": [
+    "Matthew J. MacLachlan",
+    "Andrew M. Liebhold",
+    "Takehiko Yamanaka",
+    "Michael R. Springborn"
+   ],
+   "year": 2021,
+   "venue": "Science Advances",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Alternative futures for global biological invasions",
+   "authors": [
+    "Núria Roura-Pascual",
+    "Brian Leung",
+    "Wolfgang Rabitsch",
+    "Lucas Rutting",
+    "Joost Vervoort",
+    "Sven Bacher",
+    "Stefan Dullinger",
+    "Karlheinz Erb",
+    "Jonathan Jeschke",
+    "Stelios Katsanevakis",
+    "Ingolf Kühn",
+    "Bernd Lenzner",
+    "Anew Liebhold",
+    "Michael Obersteiner",
+    "Anibal Pauchard",
+    "Garry Peterson",
+    "Helen Roy",
+    "Hanno Seebens",
+    "Marten Winter",
+    "Mark Burgman",
+    "Piero Genovesi",
+    "Philip Hulme",
+    "Reuben Keller",
+    "Guillaume Latombe",
+    "Melodie McGeoch",
+    "Gregory M. Ruiz",
+    "Riccardo Scalera",
+    "Michael Springborn",
+    "Betsy von Holle",
+    "Franz Essl"
+   ],
+   "year": 2021,
+   "venue": "Sustainability Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Dynamic Prioritization of COVID-19 Vaccines When Social Distancing is Limited for Essential Workers",
+   "authors": [
+    "Jack H. Buckner",
+    "Gerardo Chowell",
+    "Michael R. Springborn"
+   ],
+   "year": 2021,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Trade and Invasive Species: Tackling a Moving Target",
+   "authors": [
+    "Rebecca Epanchin-Niell",
+    "Andrew Liebhold",
+    "Carol McAusland",
+    "Paul Mwebaze",
+    "Michael R. Springborn"
+   ],
+   "year": 2021,
+   "venue": "Review of Economics and Environmental Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Political Economy of Renewable Resource Federalism",
+   "authors": [
+    "James Sanchirico",
+    "Julie Blackwood",
+    "Ben Fitzpatrick",
+    "David Kling",
+    "Suzanne Lenhart",
+    "Michael Neubert",
+    "Katriona Shea",
+    "Charles B. Sims",
+    "Michael Springborn"
+   ],
+   "year": 2021,
+   "venue": "Ecological Applications",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Social Distancing Responses to COVID-19 Emergency Declarations Strongly Differentiated by Income",
+   "authors": [
+    "Joakim A. Weill",
+    "Matthieu Stigler",
+    "Olivier Deschenes",
+    "Michael R. Springborn"
+   ],
+   "year": 2020,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Drivers of future alien species impacts: An expert-based assessment",
+   "authors": [
+    "Franz Essl",
+    "Bernd Lenzner",
+    "Sven Bacher",
+    "Sarah Bailey",
+    "Cesar Capinha",
+    "Curtis Daehler",
+    "Stefan Dullinger",
+    "Piero Genovesi",
+    "Cang Hui",
+    "Philip E. Hulme",
+    "Jonathan M. Jeschke",
+    "Stelios Katsanevakis",
+    "Ingolf Kühn",
+    "Brian Leung",
+    "Andrew Liebhold",
+    "Chunlong Liu",
+    "Hugh J. MacIsaac",
+    "Laura A. Meyerson",
+    "Martin A. Nuñez",
+    "Aníbal Pauchard",
+    "Petr Pyšek",
+    "Wolfgang Rabitsch",
+    "David M. Richardson",
+    "Helen E. Roy",
+    "Gregory M. Ruiz",
+    "James C. Russell",
+    "Nathan J. Sanders",
+    "Dov F. Sax",
+    "Riccardo Scalera",
+    "Hanno Seebens",
+    "Michael Springborn",
+    "Anna Turbelin",
+    "Mark van Kleunen",
+    "Betsy von Holle",
+    "Marten Winter",
+    "Rafael D. Zenni",
+    "Brady J. Mattsson",
+    "Nuria Roura-Pascual"
+   ],
+   "year": 2020,
+   "venue": "Global Change Biology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Beyond biomass: valuing genetic diversity in natural resource management",
+   "authors": [
+    "Michael R. Springborn",
+    "Amanda Faig",
+    "Allison Dedrick",
+    "Marissa Baskett"
+   ],
+   "year": 2020,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Moving forward: a simulation-based approach for solving dynamic resource management problems",
+   "authors": [
+    "Michael R. Springborn",
+    "Amanda Faig"
+   ],
+   "year": 2019,
+   "venue": "Marine Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "When Pets Become Pests: The Role of the Exotic Pet Trade in Producing Invasive Vertebrate Animals",
+   "authors": [
+    "Julie L. Lockwood",
+    "Dustin J. Welbourne",
+    "Christina Romagosa",
+    "Phillip Cassey",
+    "Nicholas E. Mandrak",
+    "Angela Strecker",
+    "Brian Leung",
+    "Oliver C. Stringham",
+    "Bradley Udell",
+    "Diane J. Episcopio Sturgeon",
+    "Michael F. Tlusty",
+    "James Sinclair",
+    "Michael R. Springborn",
+    "Elizabeth F. Pienaar",
+    "Andrew Rhyne",
+    "Rueben Keller"
+   ],
+   "year": 2019,
+   "venue": "Frontiers in Ecology and the Environment",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Safety in numbers: cost-effective endangered species management for viable populations",
+   "authors": [
+    "Pierce Donovan",
+    "Lucas Bair",
+    "Charles B. Yackulic",
+    "Michael R. Springborn"
+   ],
+   "year": 2019,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Identifying cost-effective invasive species control to enhance endangered species populations in the Grand Canyon, USA",
+   "authors": [
+    "Lucas S. Bair",
+    "Charles B. Yackulic",
+    "Michael R. Springborn",
+    "Matthew N. Reimer",
+    "Craig A. Bond",
+    "Lewis G. Coggins"
+   ],
+   "year": 2018,
+   "venue": "Biological Conservation",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Characterizing Uncertainty and Learning in the Economics of Resource and Environmental Management",
+   "authors": [
+    "Jacob LaRiviere",
+    "David Kling",
+    "James Sanchirico",
+    "Charles Sims",
+    "Michael R. Springborn"
+   ],
+   "year": 2018,
+   "venue": "Review of Economics and Environmental Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Harnessing enforcement leverage at the border to minimize biological risk from international live species trade",
+   "authors": [
+    "Michael R. Springborn",
+    "Amanda R. Lindsay",
+    "Rebecca S. Epanchin-Niell"
+   ],
+   "year": 2016,
+   "venue": "Journal of Economic Behavior and Organization",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Learning about a moving target in resource management: Optimal Bayesian disease control",
+   "authors": [
+    "Matthew MacLachlan",
+    "Michael R. Springborn",
+    "Paul Fackler"
+   ],
+   "year": 2017,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Accounting for Behavioral Responses during a Flu Epidemic Using Home Television Viewing",
+   "authors": [
+    "Michael R. Springborn",
+    "Gerardo Chowell",
+    "Matthew MacLachlan",
+    "Eli P. Fenichel"
+   ],
+   "year": 2015,
+   "venue": "BMC Infectious Diseases",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Integrating risk assessment for invasion and disease risk in live animal trade",
+   "authors": [
+    "Michael R. Springborn",
+    "Reuben P. Keller",
+    "Peter Daszak",
+    "Sarah Elwood",
+    "Christina M. Romagosa",
+    "Carlos Zambrana-Torrelio"
+   ],
+   "year": 2015,
+   "venue": "Diversity & Distributions",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Epidemiological economics is changing infectious disease management",
+   "authors": [
+    "Charles Perrings",
+    "Carlos Castillo-Chavez",
+    "Gerardo Chowell",
+    "Peter Daszak",
+    "Eli P. Fenichel",
+    "David Finnoff",
+    "Richard D. Horan",
+    "A. Marm Kilpatrick",
+    "Ann Kinzig",
+    "Nicolai V. Kuminoff",
+    "Simon Levin",
+    "Benjamin Morin",
+    "Katherine F. Smith",
+    "Michael R. Springborn"
+   ],
+   "year": 2014,
+   "venue": "Ecohealth",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Climate-Smart Agriculture Global Research Agenda: Science for Action",
+   "authors": [
+    "Kerri Steenwerth",
+    "A.K. Hodson",
+    "Michael R. Springborn",
+    "L. Jarvis",
+    "L. Lipper",
+    "S. Vermeulen",
+    "L.E. Jackson"
+   ],
+   "year": 2014,
+   "venue": "Agriculture & Food Security",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Risk aversion and adaptive management: insights from a multi-armed bandit model of invasive species risk",
+   "authors": [
+    "Michael R. Springborn"
+   ],
+   "year": 2014,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Closing the Screen Door to New Invasions",
+   "authors": [
+    "Reuben Keller",
+    "Michael R. Springborn"
+   ],
+   "year": 2014,
+   "venue": "Conservation Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Pathway-level risk analysis: the net present value of an invasive species policy in the US",
+   "authors": [
+    "Brian Leung",
+    "Michael R. Springborn",
+    "James A. Turner",
+    "Eckehard G. Brockerhoff"
+   ],
+   "year": 2014,
+   "venue": "Frontiers in Ecology and the Environment",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Investment and the policy process in conservation monitoring",
+   "authors": [
+    "James N. Sanchirico",
+    "Michael R. Springborn",
+    "Mark W. Schwartz",
+    "Angela N. Doerr"
+   ],
+   "year": 2014,
+   "venue": "Conservation Biology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Repeated experimentation to learn about a flow-pollutant threshold",
+   "authors": [
+    "Rolf Groeneveld",
+    "Michael R. Springborn",
+    "Christopher Costello"
+   ],
+   "year": 2014,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A density projection approach for non-trivial information dynamics: Adaptive management of stochastic natural resources",
+   "authors": [
+    "Michael R. Springborn",
+    "James N. Sanchirico"
+   ],
+   "year": 2013,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Crediting uncertain ecosystem services in a market",
+   "authors": [
+    "Michael R. Springborn",
+    "Boon-Ling Yeo",
+    "Juhwan Lee",
+    "Johan Six"
+   ],
+   "year": 2013,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Closing the gap between risk estimation and decision-making: efficient management of trade-related invasive species risk",
+   "authors": [
+    "Robert P. Lieli",
+    "Michael R. Springborn"
+   ],
+   "year": 2013,
+   "venue": "The Review of Economics and Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Bioeconomic forecasting of invasive species by ecological syndrome",
+   "authors": [
+    "John Schmidt",
+    "Michael R. Springborn",
+    "John Drake"
+   ],
+   "year": 2012,
+   "venue": "Ecosphere",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Sediment-adsorbed total mercury flux through Yolo Bypass, the primary floodway and wetland in the Sacramento Valley, California",
+   "authors": [
+    "Michael R. Springborn",
+    "Michael Bliss Singer",
+    "Thomas Dunne"
+   ],
+   "year": 2011,
+   "venue": "Science of the Total Environment",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How to get there from here: Ecological and economic dynamics of ecosystem service provision",
+   "authors": [
+    "James N. Sanchirico",
+    "Michael R. Springborn"
+   ],
+   "year": 2011,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Adaptive human behavior in epidemiological models",
+   "authors": [
+    "Eli P. Fenichel",
+    "Carlos Castillo-Chavez",
+    "M. G. Ceddia",
+    "Gerardo Chowell",
+    "Paula A. Gonzalez Parra",
+    "Graham J. Hickling",
+    "Garth Holloway",
+    "Richard Horan",
+    "Benjamin Morin",
+    "Charles Perrings",
+    "Michael R. Springborn",
+    "Leticia Velazqueze",
+    "Cristina Villalobosi"
+   ],
+   "year": 2011,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The value of nonindigenous species risk assessment in international trade",
+   "authors": [
+    "Michael R. Springborn",
+    "Reuben Keller",
+    "Christina Romagosa"
+   ],
+   "year": 2011,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Emissions Targets and the Real Business Cycle: Intensity Targets versus Caps or Taxes",
+   "authors": [
+    "Carolyn Fischer",
+    "Michael R. Springborn"
+   ],
+   "year": 2011,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Unintended biological invasions: Does risk vary by trading partner?",
+   "authors": [
+    "Christopher J. Costello",
+    "Michael R. Springborn",
+    "Carol McAusland",
+    "Andy Solow"
+   ],
+   "year": 2007,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Rationalizing international species trade through invasion risk assessment",
+   "authors": [
+    "Michael R. Springborn"
+   ],
+   "year": 2015,
+   "venue": "Invasive Species in a Globalized World, University of Chicago Press (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Optimal random exploration for trade-related non-indigenous species risk",
+   "authors": [
+    "Michael R. Springborn",
+    "Christopher J. Costello",
+    "Peyton Ferrier"
+   ],
+   "year": 2010,
+   "venue": "Bioinvasions and Globalization: Ecology, Economics, Management, and Policy, Oxford University Press (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

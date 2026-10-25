@@ -1,0 +1,711 @@
+{
+ "slug": "peter-j-wilcoxen",
+ "name": "Peter J. Wilcoxen",
+ "sources": [
+  "https://www.maxwell.syr.edu/docs/default-source/cv/wilcoxen-pete.pdf?sfvrsn=6c241d8c_1"
+ ],
+ "collected": "2026-10-25",
+ "notes": "Homepage (wilcoxen.insightworks.com) returned HTTP 526, so only the CV was used; CV latest item 2020. CV gives bylines only as '(with ...)', so author order is approximate: coauthors in CV order with Wilcoxen placed last in multi-author lists (his CV position is unstated). Skipped books, opinion pieces, EPA SAB reports, IEEE/NAFIPS engineering proceedings, minor notes/replies, JCT proceedings, and 1990s conference/proceedings papers. 'Other reports and working papers' Brookings discussion papers kept as working papers.",
+ "papers": [
+  {
+   "title": "Climate Change and Monetary Policy: Issues for Policy Design and Modelling",
+   "authors": [
+    "Warwick J. McKibbin",
+    "Adele C. Morris",
+    "Peter J. Wilcoxen",
+    "Augustus J. Panton"
+   ],
+   "year": 2020,
+   "venue": "Oxford Review of Economic Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Global Economic and Environmental Outcomes of the Paris Agreement",
+   "authors": [
+    "Warwick J. McKibbin",
+    "Adele C. Morris",
+    "Peter J. Wilcoxen",
+    "Weifeng Liu"
+   ],
+   "year": 2020,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Role of Border Carbon Adjustments in a U.S. Carbon Tax",
+   "authors": [
+    "Warwick J. McKibbin",
+    "Adele C. Morris",
+    "Peter J. Wilcoxen",
+    "Weifeng Liu"
+   ],
+   "year": 2018,
+   "venue": "Climate Change Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Overview of the EMF 32 Study on U.S. Carbon Tax Scenarios",
+   "authors": [
+    "James McFarland",
+    "Allen A. Fawcett",
+    "Adele C. Morris",
+    "John M. Reilly",
+    "Peter J. Wilcoxen"
+   ],
+   "year": 2018,
+   "venue": "Climate Change Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Welfare Consequences of Taxing Carbon",
+   "authors": [
+    "Dale W. Jorgenson",
+    "Richard J. Goettle",
+    "Mun S. Ho",
+    "Peter J. Wilcoxen"
+   ],
+   "year": 2018,
+   "venue": "Climate Change Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Carbon Taxes and Fiscal Reform in the United States",
+   "authors": [
+    "Dale W. Jorgenson",
+    "Richard J. Goettle",
+    "Mun S. Ho",
+    "Peter J. Wilcoxen"
+   ],
+   "year": 2015,
+   "venue": "National Tax Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Potential Role of a Carbon Tax in U.S. Fiscal Reform",
+   "authors": [
+    "Warwick J. McKibbin",
+    "Adele C. Morris",
+    "Peter J. Wilcoxen",
+    "Yiyong Cai"
+   ],
+   "year": 2015,
+   "venue": "National Tax Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Pricing Carbon in the U.S.: A Model-Based Analysis of Power-Sector-Only Approaches",
+   "authors": [
+    "Warwick J. McKibbin",
+    "Adele C. Morris",
+    "Peter J. Wilcoxen"
+   ],
+   "year": 2014,
+   "venue": "Resource and Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Econometric Approach to General Equilibrium Modeling",
+   "authors": [
+    "Dale W. Jorgenson",
+    "Hui Jin",
+    "Daniel T. Slesnick",
+    "Peter J. Wilcoxen"
+   ],
+   "year": 2013,
+   "venue": "Handbook of Computational General Equilibrium Modeling (North-Holland; book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Energy, the Environment and U.S. Economic Growth",
+   "authors": [
+    "Dale W. Jorgenson",
+    "Richard J. Goettle",
+    "Mun S. Ho",
+    "Peter J. Wilcoxen"
+   ],
+   "year": 2013,
+   "venue": "Handbook of Computational General Equilibrium Modeling (North-Holland; book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Global Approach to Energy and Environment: The G-Cubed Model",
+   "authors": [
+    "Warwick J. McKibbin",
+    "Peter J. Wilcoxen"
+   ],
+   "year": 2013,
+   "venue": "Handbook of Computational General Equilibrium Modeling (North-Holland; book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Subsidizing Household Capital: How Does Energy Efficiency Policy Compare to a Carbon Tax?",
+   "authors": [
+    "Adele Morris",
+    "Warwick J. McKibbin",
+    "Peter J. Wilcoxen"
+   ],
+   "year": 2011,
+   "venue": "Energy Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Comparing Climate Commitments: A Model-Based Analysis of the Copenhagen Accord",
+   "authors": [
+    "Adele Morris",
+    "Warwick J. McKibbin",
+    "Peter J. Wilcoxen"
+   ],
+   "year": 2011,
+   "venue": "Climate Change Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Distributional Impact of Climate Policy",
+   "authors": [
+    "Dale W. Jorgenson",
+    "Richard J. Goettle",
+    "Mun S. Ho",
+    "Daniel T. Slesnick",
+    "Peter J. Wilcoxen"
+   ],
+   "year": 2010,
+   "venue": "B.E. Journal of Economic Analysis and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Information Disclosure Policy: Do State Data Processing Efforts Help More Than the Information Disclosure Itself?",
+   "authors": [
+    "Hyunhoe Bae",
+    "Peter J. Wilcoxen",
+    "David Popp"
+   ],
+   "year": 2010,
+   "venue": "Journal of Policy Analysis and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Uncertainty and Climate Change Policy Design",
+   "authors": [
+    "Warwick J. McKibbin",
+    "Peter J. Wilcoxen"
+   ],
+   "year": 2009,
+   "venue": "Journal of Policy Modeling",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Cap and Trade Climate Policy and US Economic Adjustments",
+   "authors": [
+    "Dale Jorgenson",
+    "Richard Goettle",
+    "Mun Sing Ho",
+    "Peter J. Wilcoxen"
+   ],
+   "year": 2009,
+   "venue": "Journal of Policy Modeling",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Economic and Environmental Effects of Border Tax Adjustments for Climate Policy",
+   "authors": [
+    "Warwick J. McKibbin",
+    "Peter J. Wilcoxen"
+   ],
+   "year": 2009,
+   "venue": "Climate Change, Trade and Competitiveness (Brookings; book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Expecting the Unexpected: Macroeconomic Volatility and Climate Policy",
+   "authors": [
+    "Warwick McKibbin",
+    "Adele Morris",
+    "Peter J. Wilcoxen"
+   ],
+   "year": 2009,
+   "venue": "Post-Kyoto International Climate Policy (Cambridge University Press; book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "US Labor Supply and Demand in the Long Run",
+   "authors": [
+    "Dale W. Jorgenson",
+    "Richard J. Goettle",
+    "Mun S. Ho",
+    "Daniel T. Slesnick",
+    "Peter J. Wilcoxen"
+   ],
+   "year": 2008,
+   "venue": "Journal of Policy Modeling",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "China Can Grow and Still Help Prevent the Tragedy of the CO2 Commons",
+   "authors": [
+    "Warwick J. McKibbin",
+    "Peter J. Wilcoxen",
+    "Wing Thye Woo"
+   ],
+   "year": 2008,
+   "venue": "China's Dilemma: Economic Growth, the Environment and Climate Change (ANU E Press; book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Credible Foundation for Long Term International Cooperation on Climate Change",
+   "authors": [
+    "Warwick McKibbin",
+    "Peter J. Wilcoxen"
+   ],
+   "year": 2007,
+   "venue": "Architectures for Agreement (Cambridge University Press; book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Estimates of the Costs of Kyoto-Marrakesh versus the McKibbin-Wilcoxen Blueprint",
+   "authors": [
+    "Warwick J. McKibbin",
+    "Peter J. Wilcoxen"
+   ],
+   "year": 2004,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic Modelling of Global Climate Change",
+   "authors": [
+    "Warwick J. McKibbin",
+    "Peter J. Wilcoxen"
+   ],
+   "year": 2004,
+   "venue": "The Economics of Climate Change (Routledge; book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Role of Economics in Climate Change Policy",
+   "authors": [
+    "Warwick J. McKibbin",
+    "Peter J. Wilcoxen"
+   ],
+   "year": 2002,
+   "venue": "Journal of Economic Perspectives",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Economic Impact of Fundamental Tax Reform",
+   "authors": [
+    "Dale W. Jorgenson",
+    "Peter J. Wilcoxen"
+   ],
+   "year": 2002,
+   "venue": "United States Tax Reform in the 21st Century (Cambridge University Press; book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Cost of Capital and The Economics of the Environment",
+   "authors": [
+    "Peter J. Wilcoxen"
+   ],
+   "year": 2000,
+   "venue": "Econometrics and the Cost of Capital (MIT Press; book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Emissions Trading, Capital Flows and the Kyoto Protocol",
+   "authors": [
+    "Warwick J. McKibbin",
+    "Martin Ross",
+    "Robert Shackleton",
+    "Peter J. Wilcoxen"
+   ],
+   "year": 1999,
+   "venue": "Energy Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "What to Expect from an International System of Tradable Permits for Carbon Emissions",
+   "authors": [
+    "Warwick J. McKibbin",
+    "Robert Shackleton",
+    "Peter J. Wilcoxen"
+   ],
+   "year": 1999,
+   "venue": "Resource and Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Theoretical and Empirical Structure of the G-Cubed Model",
+   "authors": [
+    "Warwick J. McKibbin",
+    "Peter J. Wilcoxen"
+   ],
+   "year": 1999,
+   "venue": "Economic Modelling",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Environmental Policy and International Trade",
+   "authors": [
+    "Warwick J. McKibbin",
+    "Peter J. Wilcoxen"
+   ],
+   "year": 1999,
+   "venue": "Modelling Change in Integrated Economic and Environmental Systems (Wiley; book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Permit Trading Under the Kyoto Protocol and Beyond",
+   "authors": [
+    "Warwick J. McKibbin",
+    "Peter J. Wilcoxen"
+   ],
+   "year": 1999,
+   "venue": "The Sustainable Future of the Global System II (United Nations University Press; book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Fundamental U.S. Tax Reform and Energy Markets",
+   "authors": [
+    "Dale W. Jorgenson",
+    "Peter J. Wilcoxen"
+   ],
+   "year": 1997,
+   "venue": "The Energy Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Long-Run Dynamics of Fundamental Tax Reform",
+   "authors": [
+    "Dale W. Jorgenson",
+    "Peter J. Wilcoxen"
+   ],
+   "year": 1997,
+   "venue": "American Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Role of Services in Modeling the Global Economy",
+   "authors": [
+    "Warwick J. McKibbin",
+    "Peter J. Wilcoxen"
+   ],
+   "year": 1996,
+   "venue": "Asia-Pacific Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Intertemporal Equilibrium Modeling of Energy and Environmental Policies",
+   "authors": [
+    "Dale W. Jorgenson",
+    "Peter J. Wilcoxen"
+   ],
+   "year": 1995,
+   "venue": "Current Issues in Environmental Economics (Manchester University Press; book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Reducing US Carbon Dioxide Emissions: An Assessment of Alternative Instruments",
+   "authors": [
+    "Dale W. Jorgenson",
+    "Peter J. Wilcoxen"
+   ],
+   "year": 1993,
+   "venue": "Journal of Policy Modeling",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Reducing US Carbon Emissions: An Econometric General Equilibrium Assessment",
+   "authors": [
+    "Dale W. Jorgenson",
+    "Peter J. Wilcoxen"
+   ],
+   "year": 1993,
+   "venue": "Resource and Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Supply Elasticities in the Presence of Adjustment Costs",
+   "authors": [
+    "Peter J. Wilcoxen"
+   ],
+   "year": 1993,
+   "venue": "Journal of Policy Modeling",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Economic Impact of the Clean Air Act Amendments of 1990",
+   "authors": [
+    "Dale W. Jorgenson",
+    "Peter J. Wilcoxen"
+   ],
+   "year": 1993,
+   "venue": "The Energy Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Energy Prices, Productivity and Economic Growth",
+   "authors": [
+    "Dale W. Jorgenson",
+    "Peter J. Wilcoxen"
+   ],
+   "year": 1993,
+   "venue": "Annual Review of Energy and the Environment",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Energy, the Environment and Economic Growth",
+   "authors": [
+    "Dale W. Jorgenson",
+    "Peter J. Wilcoxen"
+   ],
+   "year": 1993,
+   "venue": "Handbook of Natural Resource and Energy Economics, Vol. 3 (North-Holland; book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Global Costs of Policies to Reduce Greenhouse Gas Emissions",
+   "authors": [
+    "Warwick J. McKibbin",
+    "Peter J. Wilcoxen"
+   ],
+   "year": 1992,
+   "venue": "Tokyo Club Papers",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Carbon Taxes and Economic Welfare",
+   "authors": [
+    "Dale W. Jorgenson",
+    "Daniel T. Slesnick",
+    "Peter J. Wilcoxen"
+   ],
+   "year": 1992,
+   "venue": "Brookings Papers on Economic Activity: Microeconomics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "General-Purpose Software for Intertemporal Economic Models",
+   "authors": [
+    "George Codsi",
+    "K.R. Pearson",
+    "Peter J. Wilcoxen"
+   ],
+   "year": 1992,
+   "venue": "Computer Science in Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Reducing US Carbon Dioxide Emissions: The Cost of Different Goals",
+   "authors": [
+    "Dale W. Jorgenson",
+    "Peter J. Wilcoxen"
+   ],
+   "year": 1992,
+   "venue": "Advances in the Economics of Energy and Resources, Vol. 7 (JAI Press; book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Effects of Fiscal Restraint on the Australian Economy as Projected by the Murphy and MSG2 Models: A Comparison",
+   "authors": [
+    "Bruce F. Parsell",
+    "Alan A. Powell",
+    "Peter J. Wilcoxen"
+   ],
+   "year": 1991,
+   "venue": "The Economic Record",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Global Change, Energy Prices, and U.S. Economic Growth",
+   "authors": [
+    "Dale W. Jorgenson",
+    "Peter J. Wilcoxen"
+   ],
+   "year": 1991,
+   "venue": "Structural Change and Economic Dynamics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Intertemporal General Equilibrium Modeling of U.S. Environmental Regulation",
+   "authors": [
+    "Dale W. Jorgenson",
+    "Peter J. Wilcoxen"
+   ],
+   "year": 1990,
+   "venue": "Journal of Policy Modeling",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Environmental Regulation and U.S. Economic Growth",
+   "authors": [
+    "Dale W. Jorgenson",
+    "Peter J. Wilcoxen"
+   ],
+   "year": 1990,
+   "venue": "RAND Journal of Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Coastal Erosion and Sea Level Rise: Implications for Ocean Beach and San Francisco's Westside Sewer Transport Project",
+   "authors": [
+    "Peter J. Wilcoxen"
+   ],
+   "year": 1986,
+   "venue": "Coastal Zone Management Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "China's Carbon Future: A Model-Based Analysis",
+   "authors": [
+    "Warwick J. McKibbin",
+    "Adele C. Morris",
+    "Peter J. Wilcoxen"
+   ],
+   "year": 2015,
+   "venue": "Brookings Climate and Energy Economics Discussion Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Controlling Carbon Emissions from U.S. Power Plants: How a Tradable Performance Standard Compares to a Carbon Tax",
+   "authors": [
+    "Warwick J. McKibbin",
+    "Adele C. Morris",
+    "Peter J. Wilcoxen"
+   ],
+   "year": 2015,
+   "venue": "Brookings Climate and Energy Economics Discussion Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Economic Consequences of Delay in U.S. Climate Policy",
+   "authors": [
+    "Warwick J. McKibbin",
+    "Adele C. Morris",
+    "Peter J. Wilcoxen"
+   ],
+   "year": 2014,
+   "venue": "Brookings Climate and Energy Economics Discussion Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Bridging the Gap: Integrating Price Mechanisms into International Climate Negotiations",
+   "authors": [
+    "Warwick J. McKibbin",
+    "Adele C. Morris",
+    "Peter J. Wilcoxen"
+   ],
+   "year": 2012,
+   "venue": "Brookings Climate and Energy Economics Discussion Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

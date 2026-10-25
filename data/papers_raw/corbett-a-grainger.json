@@ -1,0 +1,366 @@
+{
+ "slug": "corbett-a-grainger",
+ "name": "Corbett A. Grainger",
+ "sources": [
+  "https://www.corbettgrainger.com/uploads/1/3/8/3/138381301/vita-2.pdf",
+  "https://www.corbettgrainger.com/research.html"
+ ],
+ "collected": "2026-10-25",
+ "notes": "CV (updated May 2026) plus research page. Working papers with no year dated 2026 (CV date); NBER WP 29798 dated 2022. Forthcoming ERC paper year 2026 assumed. Skipped ADB reports/background papers. Homepage title 'Electricity Shortages and Manufacturing Productivity in Pakistan' = CV's 'Productivity Impacts of Electricity Outages in Pakistan' (CV title used).",
+ "papers": [
+  {
+   "title": "Combining Remote Sensing and Cell Phone Users' Mobility Data to Monitor the Impact of Transportation on NO2 Concentrations in India",
+   "authors": [
+    "Corbett A. Grainger",
+    "Fan Zhang",
+    "Adam Theising"
+   ],
+   "year": 2026,
+   "venue": "Environmental Research Communications",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Comment on \"Microdata and the Valuation of Natural Capital\"",
+   "authors": [
+    "Corbett Grainger"
+   ],
+   "year": 2024,
+   "venue": "Measuring and Accounting for Environmental Public Goods: A National Accounts Perspective (NBER)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Impact of Air Pollution on Labor Supply in China",
+   "authors": [
+    "Mingxuan Fan",
+    "Corbett Grainger"
+   ],
+   "year": 2023,
+   "venue": "Sustainability",
+   "status": "已发表",
+   "url": "https://www.mdpi.com/2071-1050/15/17/13082",
+   "abstract": null
+  },
+  {
+   "title": "Wolves Make Roadways Safer, Generating Large Economic Returns to Predator Conservation",
+   "authors": [
+    "Jennifer Raynor",
+    "Corbett Grainger",
+    "Dominic Parker"
+   ],
+   "year": 2021,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "https://doi.org/10.1073/pnas.2023251118",
+   "abstract": null
+  },
+  {
+   "title": "Discrimination in Ambient Pollution Monitoring?",
+   "authors": [
+    "Corbett Grainger",
+    "Andrew Schreiber"
+   ],
+   "year": 2019,
+   "venue": "AEA Papers and Proceedings",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "On the Dynamic Instability of Arctic Sea Ice",
+   "authors": [
+    "Jean-Paul Chavas",
+    "Corbett Grainger"
+   ],
+   "year": 2019,
+   "venue": "npj Climate and Atmospheric Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Productivity Impacts of Electricity Outages in Pakistan",
+   "authors": [
+    "Corbett Grainger",
+    "Fan Zhang"
+   ],
+   "year": 2019,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Distributional Impacts of Energy-Heat Cross-Subsidization",
+   "authors": [
+    "Corbett Grainger",
+    "Andrew Schreiber",
+    "Fan Zhang"
+   ],
+   "year": 2019,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.enpol.2018.10.005",
+   "abstract": null
+  },
+  {
+   "title": "Environmental Justice and Ambient Air Pollution Monitoring",
+   "authors": [
+    "Corbett Grainger"
+   ],
+   "year": 2019,
+   "venue": "Distributional Effects of Environmental Market Design (book chapter, PERC)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Property Rights, Regulatory Capture, and Exploitation of Natural Resources",
+   "authors": [
+    "Christopher Costello",
+    "Corbett A. Grainger"
+   ],
+   "year": 2018,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Fossil Fuel Subsidy Reform in the Developing World: Who Wins, Who Loses, and Why?",
+   "authors": [
+    "Ian Coxhead",
+    "Corbett A. Grainger"
+   ],
+   "year": 2018,
+   "venue": "Asian Development Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Who Wins from Emissions Trading? Evidence from California",
+   "authors": [
+    "Corbett Grainger",
+    "Thanicha Ruangmas"
+   ],
+   "year": 2018,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How Should Economists Model Climate Change? Tipping Points and Nonlinear Dynamics of Carbon Dioxide Concentrations",
+   "authors": [
+    "Jean-Paul Chavas",
+    "Corbett A. Grainger",
+    "Nicholas Hudson"
+   ],
+   "year": 2016,
+   "venue": "Journal of Economic Behavior and Organization",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Distributional Effects of the Transition to Property Rights in a Common Pool Resource",
+   "authors": [
+    "Corbett A. Grainger",
+    "Christopher Costello"
+   ],
+   "year": 2016,
+   "venue": "Marine Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Capitalizing Property Rights Insecurity in Natural Resource Assets",
+   "authors": [
+    "Corbett A. Grainger",
+    "Christopher Costello"
+   ],
+   "year": 2014,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Political Economy of Fishery Reform",
+   "authors": [
+    "Corbett A. Grainger",
+    "Dominic Parker"
+   ],
+   "year": 2013,
+   "venue": "Annual Review of Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Distributional Effects of Pollution Regulations: Do Renters Fully Pay for Cleaner Air?",
+   "authors": [
+    "Corbett A. Grainger"
+   ],
+   "year": 2012,
+   "venue": "Journal of Public Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Redistricting and Polarization: Who Draws the Lines in California?",
+   "authors": [
+    "Corbett A. Grainger"
+   ],
+   "year": 2010,
+   "venue": "Journal of Law & Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Who Pays a Price on Carbon?",
+   "authors": [
+    "Corbett A. Grainger",
+    "Charles Kolstad"
+   ],
+   "year": 2010,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Distribution and Climate Change Policies",
+   "authors": [
+    "Corbett A. Grainger",
+    "Charles Kolstad"
+   ],
+   "year": 2010,
+   "venue": "Climate Change Policies: Global Challenges and Future Prospects (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Nutritional Improvements and Student Food Choices in a School Lunch Program",
+   "authors": [
+    "Corbett A. Grainger",
+    "Benjamin Senauer",
+    "C. Ford Runge"
+   ],
+   "year": 2007,
+   "venue": "Journal of Consumer Affairs",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do Regulators Strategically Avoid Pollution Hotspots when Siting Monitors? Evidence from Remote Sensing of Air Pollution",
+   "authors": [
+    "Corbett Grainger",
+    "Andrew Schreiber",
+    "Wonjun Chang"
+   ],
+   "year": 2026,
+   "venue": "AEJ: Economic Policy",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Grandfathering with Anticipation",
+   "authors": [
+    "Corbett Grainger",
+    "Christopher Costello"
+   ],
+   "year": 2022,
+   "venue": "NBER Working Paper 29798 (R&R Journal of Political Economy: Microeconomics)",
+   "status": "修改重投",
+   "url": "http://www.nber.org/papers/w29798",
+   "abstract": null
+  },
+  {
+   "title": "Zoning and Neighborhood Air Quality: Evidence from HOLC Boundaries",
+   "authors": [
+    "Corbett Grainger",
+    "Siyuan Hu",
+    "Mingxuan Fan"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Biotechnology, Environmental Stress, and Agricultural Productivity",
+   "authors": [
+    "Corbett Grainger",
+    "Qinan Liu",
+    "Guanming Shi"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Leakage of Carbon and Co-Pollutants from Regional Cap-and-Trade: Evidence from RGGI",
+   "authors": [
+    "Corbett Grainger",
+    "Mingxuan Fan"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Electricity Shortages and Productivity of Small Enterprises: Evidence from India",
+   "authors": [
+    "Corbett Grainger",
+    "Danjing Lei",
+    "Fan Zhang"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How Are ITQ Prices Discovered?",
+   "authors": [
+    "Corbett Grainger",
+    "Linda Nøstbakken"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Evaluating the Efficacy of Low-Income Heat Pump Incentives",
+   "authors": [
+    "Corbett Grainger",
+    "Jake Erickson",
+    "Morgan Edwards"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

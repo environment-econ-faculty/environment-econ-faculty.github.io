@@ -1,0 +1,73 @@
+{
+ "slug": "lucy-page",
+ "name": "Lucy Page",
+ "sources": [
+  "https://sites.google.com/view/lucy-page/research",
+  "https://www.econ.pitt.edu/sites/default/files/CVs/LP_CV_econ_2024.pdf"
+ ],
+ "collected": "2026-10-25",
+ "notes": "Homepage research page plus 2024 CV. Working-paper years not stated; set to 2024 (CV date). Homepage titles used. Work-in-progress without drafts skipped. JHR year 2025 per homepage.",
+ "papers": [
+  {
+   "title": "Childhood Confidence, Schooling, and the Labor Market: Evidence from the PSID",
+   "authors": [
+    "Lucy Page",
+    "Hannah Ruebeck"
+   ],
+   "year": 2025,
+   "venue": "Journal of Human Resources",
+   "status": "已发表",
+   "url": "https://jhr.uwpress.org/content/early/2022/09/02/jhr.0621-11743R3",
+   "abstract": null
+  },
+  {
+   "title": "Ending Global Poverty: Why Money Isn't Enough",
+   "authors": [
+    "Lucy Page",
+    "Rohini Pande"
+   ],
+   "year": 2018,
+   "venue": "Journal of Economic Perspectives",
+   "status": "已发表",
+   "url": "https://www.aeaweb.org/articles?id=10.1257/jep.32.4.173",
+   "abstract": null
+  },
+  {
+   "title": "Got Beef with Beef? Evidence from a Large-Scale Carbon Labeling Experiment",
+   "authors": [
+    "Lucy Page",
+    "Lisa Ho"
+   ],
+   "year": 2024,
+   "venue": "Science",
+   "status": "修改重投",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4803757",
+   "abstract": null
+  },
+  {
+   "title": "Reaching Across the Aisle: Polarization and Grassroots Climate Mobilization",
+   "authors": [
+    "Lucy Page",
+    "Hannah Ruebeck"
+   ],
+   "year": 2024,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://www.dropbox.com/scl/fi/852sm1ioe2hjrubb9icpx/LP-HR-climate-influence.pdf?rlkey=ketekskwp0j6ad04q4xwaux36&dl=0",
+   "abstract": null
+  },
+  {
+   "title": "The Narrative of Policy Change: Effects on Policy Preferences, Political Efficacy, and Contributions to Climate Action",
+   "authors": [
+    "Lucy Page",
+    "Hannah Ruebeck",
+    "Jamie Walsh"
+   ],
+   "year": 2024,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4799878",
+   "abstract": null
+  }
+ ]
+}

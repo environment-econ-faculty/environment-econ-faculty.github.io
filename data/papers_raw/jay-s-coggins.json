@@ -1,0 +1,312 @@
+{
+ "slug": "jay-s-coggins",
+ "name": "Jay S. Coggins",
+ "sources": [
+  "https://drive.google.com/file/d/1dT6CC_-__43Ko2GGHUi_5S4gXDqsw3I7/view"
+ ],
+ "collected": "2026-10-25",
+ "notes": "From CV PDF ('Selected Publications' + 'In Progress'; CV undated, latest dated item 2021 so under-review PNAS paper given year 2021 as an assumption). Burnett et al. 2018 PNAS: CV gives only 'Burnett, Richard, et al.' so only that author listed (Coggins is a coauthor per CV placement but not named). 'In progress' items without drafts skipped; kept the PNAS under-review paper and the May 2018 working paper.",
+ "papers": [
+  {
+   "title": "Heat Waves, Climate Change, and Economic Output",
+   "authors": [
+    "Steve Miller",
+    "Kenn Chua",
+    "Jay Coggins",
+    "Hamid Mohtadi"
+   ],
+   "year": 2021,
+   "venue": "Journal of the European Economic Association",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Effectiveness of Air Pollution Standards in Reducing Mortality in India",
+   "authors": [
+    "Ashwini Sankar",
+    "Jay S. Coggins",
+    "Andrew L. Goodkind"
+   ],
+   "year": 2020,
+   "venue": "Resource and Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Fine-scale damage estimates of particulate matter air pollution reveal opportunities for location-specific mitigation of emissions",
+   "authors": [
+    "Andrew L. Goodkind",
+    "Christopher W. Tessum",
+    "Jay S. Coggins",
+    "Jason D. Hill",
+    "Julian D. Marshall"
+   ],
+   "year": 2019,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Global Mortality and Long-Term Ambient Exposure to Fine Particulate Matter: a New Relative Risk Estimator",
+   "authors": [
+    "Richard Burnett"
+   ],
+   "year": 2018,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Price Effects, Inefficient Environmental Policy, and Windfall Profits",
+   "authors": [
+    "Jay S. Coggins",
+    "Andrew L. Goodkind",
+    "Jason (Quang) Nguyen",
+    "Zhiyu Wang"
+   ],
+   "year": 2018,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Blue Skies Bluer?",
+   "authors": [
+    "Julian D. Marshall",
+    "Joshua S. Apte",
+    "Jay S. Coggins",
+    "Andrew L. Goodkind"
+   ],
+   "year": 2015,
+   "venue": "Environmental Science & Technology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Weitzman Price Corner",
+   "authors": [
+    "Andrew L. Goodkind",
+    "Jay S. Coggins"
+   ],
+   "year": 2015,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Water Quality Trading: Can We Get the Prices of Pollution Right?",
+   "authors": [
+    "Yoshifumi Konishi",
+    "Jay S. Coggins",
+    "Bin Wang"
+   ],
+   "year": 2015,
+   "venue": "Water Resources Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Health Benefits of Air Pollution Abatement Policy: Role of the Shape of the Concentration-Response Function",
+   "authors": [
+    "C. Arden Pope III",
+    "Maureen Cropper",
+    "Jay S. Coggins",
+    "Aaron Cohen"
+   ],
+   "year": 2015,
+   "venue": "Journal of the Air & Waste Management Association",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Spatial Model of Air Pollution: the Impact of the Concentration-Response Function",
+   "authors": [
+    "Andrew L. Goodkind",
+    "Jay S. Coggins",
+    "Julian D. Marshall"
+   ],
+   "year": 2014,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Impact of Timber Sale Tract, Policy, and Administrative Characteristics on State Stumpage Prices: An Econometric Analysis",
+   "authors": [
+    "Ross N. Brown",
+    "Michael A. Kilgore",
+    "Jay S. Coggins",
+    "Charles R. Blinn"
+   ],
+   "year": 2012,
+   "venue": "Forest Policy and Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Effect of Timber Harvesting Guidelines on Felling and Skidding Productivity in Minnesota",
+   "authors": [
+    "Denys Goychuk",
+    "Michael A. Kilgore",
+    "Charles R. Blinn",
+    "Jay Coggins",
+    "Randall K. Kolka"
+   ],
+   "year": 2011,
+   "venue": "Forest Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Projected Costs and Benefits of Water Diversion From and to the Sultan Marshes (Turkey)",
+   "authors": [
+    "Filiz Dadaser-Celik",
+    "Jay S. Coggins",
+    "Patrick L. Brezonik",
+    "Heinz G. Stefan"
+   ],
+   "year": 2009,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Environmental Risk and Welfare Under Imperfect Information",
+   "authors": [
+    "Yoshifumi Konishi",
+    "Jay S. Coggins"
+   ],
+   "year": 2008,
+   "venue": "Resource and Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "On Fairness and Welfare Analysis Under Uncertainty",
+   "authors": [
+    "Jean-Paul Chavas",
+    "Jay S. Coggins"
+   ],
+   "year": 2003,
+   "venue": "Social Choice and Welfare",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Dynamic Environmental Policy with Strategic Firms: Prices versus Quantities",
+   "authors": [
+    "Amyaz Moledina",
+    "Jay S. Coggins",
+    "Steven Polasky",
+    "Christopher Costello"
+   ],
+   "year": 2003,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Tradable Permits for Controlling Nitrates in Groundwater at the Farm Level: A Conceptual Model",
+   "authors": [
+    "Cynthia L. Morgan",
+    "Jay S. Coggins",
+    "Vernon R. Eidman"
+   ],
+   "year": 2000,
+   "venue": "Journal of Agricultural and Applied Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Arbitrage-Free Approach to Quasi-Option Value",
+   "authors": [
+    "Jay S. Coggins",
+    "Cyrus Ramezani"
+   ],
+   "year": 1998,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Price of Pollution: A Dual Approach to Valuing SO2 Allowances",
+   "authors": [
+    "Jay S. Coggins",
+    "John R. Swinton"
+   ],
+   "year": 1996,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Some Welfare Effects of Emission Allowance Trading in a Twice-Regulated Industry",
+   "authors": [
+    "Jay S. Coggins",
+    "Vincent H. Smith"
+   ],
+   "year": 1993,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Existence of Equilibrium in a Lobbying Economy",
+   "authors": [
+    "Jay S. Coggins",
+    "Theodore Graham-Tomasi",
+    "Terry L. Roe"
+   ],
+   "year": 1991,
+   "venue": "International Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The air pollution tradeoff in India: Saving more lives versus reducing the inequality of exposure",
+   "authors": [
+    "Ashwini Sankar",
+    "Jay S. Coggins",
+    "Andrew L. Goodkind"
+   ],
+   "year": 2021,
+   "venue": "Proceedings of the National Academy of Sciences (under review)",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Prices vs. Quantities with Price Effects",
+   "authors": [
+    "Andrew L. Goodkind",
+    "Jay S. Coggins"
+   ],
+   "year": 2018,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

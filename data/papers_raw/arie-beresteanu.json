@@ -1,0 +1,182 @@
+{
+ "slug": "arie-beresteanu",
+ "name": "Arie Beresteanu",
+ "sources": [
+  "http://sites.pitt.edu/~arie/Research.html (updated Oct 2, 2026)",
+  "https://www.econ.pitt.edu/sites/default/files/CVs/beresteanu_vita_23.pdf"
+ ],
+ "collected": "2026-10-25",
+ "notes": "Primary source: homepage Research page (newer than the Aug-2021 CV). Bylines given as with X, so authors listed alphabetically by surname. Dormant nonparametric/partial-derivatives paper has no date: 2026 (page date) used. Work-in-progress items omitted. Auxiliary Moment Restrictions marked submitted Aug 2026; Bounds for Restricted Selections is arXiv Dec 2025 (submitted).",
+ "papers": [
+  {
+   "title": "Nonparametric Analysis of Cost Complementarities in the Telecommunication Industry",
+   "authors": [
+    "Arie Beresteanu"
+   ],
+   "year": 2005,
+   "venue": "RAND Journal of Economics",
+   "status": "已发表",
+   "url": "http://sites.pitt.edu/~arie/PDFs/RAND2005.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Asymptotic Properties for a Class of Partially Identified Models",
+   "authors": [
+    "Arie Beresteanu",
+    "Francesca Molinari"
+   ],
+   "year": 2008,
+   "venue": "Econometrica",
+   "status": "已发表",
+   "url": "http://sites.pitt.edu/~arie/PDFs/beresteanu_molinari.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Gasoline Prices, Government Support, and the Demand for Hybrid Vehicles in the U.S.",
+   "authors": [
+    "Arie Beresteanu",
+    "Shanjun Li"
+   ],
+   "year": 2011,
+   "venue": "International Economic Review",
+   "status": "已发表",
+   "url": "http://sites.pitt.edu/~arie/PDFs/hybrid.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Sharp Identification Regions in Models with Convex Moment Predictions",
+   "authors": [
+    "Arie Beresteanu",
+    "Ilya Molchanov",
+    "Francesca Molinari"
+   ],
+   "year": 2011,
+   "venue": "Econometrica",
+   "status": "已发表",
+   "url": "http://sites.pitt.edu/~arie/PDFs/MS8680_Rev2.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Partial Identification Using Random Set Theory",
+   "authors": [
+    "Arie Beresteanu",
+    "Ilya Molchanov",
+    "Francesca Molinari"
+   ],
+   "year": 2012,
+   "venue": "Journal of Econometrics",
+   "status": "已发表",
+   "url": "http://sites.pitt.edu/~arie/PDFs/partial_identification_using_random_set_theory_JoE2012.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Efficiency Gains in Rank-Ordered Multinomial Logit Models",
+   "authors": [
+    "Arie Beresteanu",
+    "Federico Zincenko"
+   ],
+   "year": 2018,
+   "venue": "Oxford Bulletin of Economics and Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Quantile Regression with Interval Data",
+   "authors": [
+    "Arie Beresteanu",
+    "Yuya Sasaki"
+   ],
+   "year": 2021,
+   "venue": "Econometric Reviews",
+   "status": "已发表",
+   "url": "http://arxiv.org/abs/1710.07575",
+   "abstract": null
+  },
+  {
+   "title": "Dynamic Competition in Oligopolistic Markets",
+   "authors": [
+    "Arie Beresteanu",
+    "Paul Ellickson",
+    "James C. Reeder III",
+    "Sanjog Misra"
+   ],
+   "year": 2024,
+   "venue": "Marketing Science",
+   "status": "修改重投",
+   "url": "http://sites.pitt.edu/~arie/PDFs/SMdynamics.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Extended Set Difference: Inverse Operation of Minkowski Summation",
+   "authors": [
+    "Arie Beresteanu",
+    "Behrooz Moosavi Ramezanzadeh"
+   ],
+   "year": 2024,
+   "venue": "Journal of Convex Analysis",
+   "status": "修改重投",
+   "url": "https://arxiv.org/abs/2412.19779",
+   "abstract": null
+  },
+  {
+   "title": "Identification of Incomplete Preferences",
+   "authors": [
+    "Arie Beresteanu",
+    "Luca Rigotti"
+   ],
+   "year": 2025,
+   "venue": "Working Paper (arXiv)",
+   "status": "工作论文",
+   "url": "https://arxiv.org/abs/2108.06282",
+   "abstract": null
+  },
+  {
+   "title": "Bounds for Restricted Selections of Random Sets",
+   "authors": [
+    "Arie Beresteanu",
+    "Behrooz Moosavi Ramezanzadeh"
+   ],
+   "year": 2025,
+   "venue": "Working Paper (arXiv)",
+   "status": "工作论文",
+   "url": "https://arxiv.org/abs/2512.04539",
+   "abstract": null
+  },
+  {
+   "title": "Partial Identification with Auxiliary Moment Restrictions",
+   "authors": [
+    "Arie Beresteanu",
+    "Behrooz Moosavi Ramezanzadeh"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Nonparametric Estimation of Regression Functions under Restrictions on Partial Derivatives",
+   "authors": [
+    "Arie Beresteanu"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "http://sites.pitt.edu/~arie/PDFs/shape.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Optimal Shape of Income Tax: Evidence from Zero Income Tax Countries - Paraguay and Uruguay",
+   "authors": [
+    "Arie Beresteanu",
+    "Momi Dahan"
+   ],
+   "year": 2003,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "http://sites.pitt.edu/~arie/PDFs/PryUry.pdf",
+   "abstract": null
+  }
+ ]
+}

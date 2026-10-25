@@ -1,0 +1,3959 @@
+{
+ "slug": "w-kip-viscusi",
+ "name": "W. Kip Viscusi",
+ "sources": [
+  "https://as.vanderbilt.edu/economics/bio/wkip-viscusi",
+  "https://cdn.vanderbilt.edu/vu-cas/wp-content/uploads/sites/9/2025/03/07152643/Viscusi_CV_biblio_021725.pdf"
+ ],
+ "collected": "2026-10-25",
+ "notes": "No personal homepage; used CV bibliography dated Feb 17, 2025 (parsed by script from the ARTICLES section, items 1-422, plus forthcoming list). Kept journal articles only (omitted books, book chapters, encyclopedia entries, replies/comments/editor introductions, Regulation magazine/National Affairs/other non-refereed pieces, reports, testimony). CV gives only 'with ...' coauthors, so authors are listed alphabetically by surname including Viscusi (true byline order unknown). Year = first year in the CV citation. Entry 356 'with Susan Dudley, et al.' lists only Dudley. Forthcoming/working-paper year = 2025 (CV date). No URLs/abstracts on source. Venue strings parsed automatically and spot-checked; small errors possible for old items.",
+ "papers": [
+  {
+   "title": "Why Office of Management and Budget's (OMB) Social Welfare Function Is Not Society's Social Welfare Function",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 2024,
+   "venue": "Journal of Benefit-Cost Analysis",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Tale of the Tails: The Value of a Statistical Life at the Tails of the Age Distribution",
+   "authors": [
+    "Thomas J. Kniesner",
+    "W. Kip Viscusi"
+   ],
+   "year": 2024,
+   "venue": "Journal of Benefit-Cost Analysis",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Market versus Policy Responses to Novel Occupational Risks",
+   "authors": [
+    "Robert J. Cramer",
+    "Elissa Philip Gentry",
+    "W. Kip Viscusi"
+   ],
+   "year": 2024,
+   "venue": "Journal of Empirical Legal Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Equitable Assignment of Standing for Intergenerational and International Environmental Policies",
+   "authors": [
+    "Sydney Schoonover",
+    "W. Kip Viscusi"
+   ],
+   "year": 2024,
+   "venue": "Arizona Law Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Leveraging Public Support for Gun Laws to Reduce Mass Shootings",
+   "authors": [
+    "Kyle Blasinsky",
+    "W. Kip Viscusi"
+   ],
+   "year": 2024,
+   "venue": "University of Illinois Law Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Misapplication of the Major Questions Doctrine to Emerging Risks",
+   "authors": [
+    "Elissa Philip Gentry",
+    "W. Kip Viscusi"
+   ],
+   "year": 2024,
+   "venue": "Houston Law Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Bayesian Analysis of E-Cigarette Risk Perceptions in the United Kingdom",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 2024,
+   "venue": "Southern Economic Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Differences by Race and Ethnicity in Title IX's Effect on Women's Health",
+   "authors": [
+    "Delaney Beck",
+    "Joni Hersch",
+    "W. Kip Viscusi"
+   ],
+   "year": 2023,
+   "venue": "Journal of Benefit-Cost Analysis",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Seven Recommendations for Pricing Greenhouse Gas Emissions",
+   "authors": [
+    "Arthur Fraas",
+    "John D. Graham",
+    "Kerry Krutilla",
+    "Randall Lutter",
+    "Jason F. Shogren",
+    "Linda Thunström",
+    "W. Kip Viscusi"
+   ],
+   "year": 2023,
+   "venue": "Journal of Benefit-Cost Analysis",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "When Patients Are Assailants: Valuing Occupational Risks in Health Care",
+   "authors": [
+    "Elissa Philip Gentry",
+    "W. Kip Viscusi"
+   ],
+   "year": 2023,
+   "venue": "Journal of Benefit-Cost Analysis",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Social Discount Rate: Legal and Philosophical Underpinnings",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 2023,
+   "venue": "Annual Review of Financial Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Using Objective Characteristics to Target Household Recycling Policies",
+   "authors": [
+    "Jason Bell",
+    "Joel Huber",
+    "W. Kip Viscusi"
+   ],
+   "year": 2023,
+   "venue": "Environmental Law Reporter",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Balanced Prescription for More Effective Environmental Regulations",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 2023,
+   "venue": "Pace Environmental Law Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Perceived Risks of E-Cigarettes to Others and During Pregnancy",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 2023,
+   "venue": "Journal of Public Health",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Promoting Equity through Equitable Risk Tradeoffs",
+   "authors": [
+    "Thomas J. Kniesner",
+    "W. Kip Viscusi"
+   ],
+   "year": 2023,
+   "venue": "Journal of Benefit-Cost Analysis",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Locus of Dread for Mass Shooting Risks: Distinguishing Alarmist Risk Beliefs from Risk Preferences",
+   "authors": [
+    "Rachel E. Dalafave",
+    "W. Kip Viscusi"
+   ],
+   "year": 2023,
+   "venue": "Journal of Risk and Uncertainty",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Global COVID-19 Mortality Cost Report Card: 2020, 2021, and 2022",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 2023,
+   "venue": "PLoS ONE",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Changes in Household Recycling Behavior: Evidence from Panel Data",
+   "authors": [
+    "Jason Bell",
+    "Joel Huber",
+    "W. Kip Viscusi"
+   ],
+   "year": 2023,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Compensating Differentials for Occupational Health and Safety Risks: Implications of Recent Evidence",
+   "authors": [
+    "Thomas J. Kniesner",
+    "W. Kip Viscusi"
+   ],
+   "year": 2023,
+   "venue": "Research in Labor Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How Regulations Undervalue Occupational Fatalities",
+   "authors": [
+    "Robert J. Cramer",
+    "W. Kip Viscusi"
+   ],
+   "year": 2023,
+   "venue": "Regulation and Governance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Quasi-Experimental Evidence on the Impact of State Recycling and Deposit Laws: Household Recycling Following Interstate Moves",
+   "authors": [
+    "Jason Bell",
+    "Joel Huber",
+    "W. Kip Viscusi"
+   ],
+   "year": 2022,
+   "venue": "American Law and Economics Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Broad Impacts of Disposable Lighter Safety Regulations",
+   "authors": [
+    "Rachel Dalafave",
+    "W. Kip Viscusi"
+   ],
+   "year": 2022,
+   "venue": "Journal of Benefit-Cost Analysis",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Hierarchy and Performance of State Recycling and Deposit Laws",
+   "authors": [
+    "Caroline Cecot",
+    "W. Kip Viscusi"
+   ],
+   "year": 2022,
+   "venue": "Vermont Journal of Environmental Law",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Bringing Predictability to the Chaos of Punitive Damages",
+   "authors": [
+    "Benjamin J. McMichael",
+    "W. Kip Viscusi"
+   ],
+   "year": 2022,
+   "venue": "Arizona State Law Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Efficiency Criteria for Nudges and Norms",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 2022,
+   "venue": "Public Choice",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Risk-Risk Tradeoffs for Mass Shootings and International Terrorism",
+   "authors": [
+    "Rachel Dalafave",
+    "W. Kip Viscusi"
+   ],
+   "year": 2021,
+   "venue": "Risk Analysis",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Locale and Damages of Fatal Policing",
+   "authors": [
+    "Scott Jeffrey",
+    "W. Kip Viscusi"
+   ],
+   "year": 2021,
+   "venue": "Denver Law Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Damages to Deter Police Shootings",
+   "authors": [
+    "Scott Jeffrey",
+    "W. Kip Viscusi"
+   ],
+   "year": 2021,
+   "venue": "University of Illinois Law Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Regulatory Policy Strategy for Protecting Immigrant Workers",
+   "authors": [
+    "Nick Marquiss",
+    "W. Kip Viscusi"
+   ],
+   "year": 2021,
+   "venue": "Seton Hall Law Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Experimental Study of Consumer Responses to Different Sources of Information about Prescription Drugs",
+   "authors": [
+    "Jacob P. Byl",
+    "W. Kip Viscusi"
+   ],
+   "year": 2021,
+   "venue": "Journal of Economic Behavior and Organization",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Efficient Ethical Principles for Making Fatal Choices",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 2021,
+   "venue": "Notre Dame Law Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Extending the Domain of the Value of a Statistical Life",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 2021,
+   "venue": "Journal of Benefit-Cost Analysis",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic Lessons for COVID-19 Pandemic Policies",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 2021,
+   "venue": "Southern Economic Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Mortality Cost of Expenditures",
+   "authors": [
+    "James Broughel",
+    "W. Kip Viscusi"
+   ],
+   "year": 2021,
+   "venue": "Contemporary Economic Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Reducing Malpractice Loss Reserve Volatility Through Tort Reform",
+   "authors": [
+    "Patricia H. Born",
+    "Evan M. Eastman",
+    "W. Kip Viscusi"
+   ],
+   "year": 2020,
+   "venue": "North American Actuarial Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Publication Selection Biases in Stated Preference Estimates of the Value of a Statistical Life",
+   "authors": [
+    "Clayton J. Masterman",
+    "W. Kip Viscusi"
+   ],
+   "year": 2020,
+   "venue": "Journal of Benefit-Cost Analysis",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Pricing the Global Health Risks of the COVID-19 Pandemic",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 2020,
+   "venue": "Journal of Risk and Uncertainty",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Catastrophic Risk: Waking Up to the Reality of a Pandemic",
+   "authors": [
+    "David Aadland",
+    "Peter Daszak",
+    "David Finnoff",
+    "Jamison Pike",
+    "Jason F. Shogren",
+    "Alexandre Skiba",
+    "W. Kip Viscusi"
+   ],
+   "year": 2020,
+   "venue": "EcoHealth",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Electronic Cigarette Risk Beliefs and Usage After the Vaping Illness Outbreak",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 2020,
+   "venue": "Journal of Risk and Uncertainty",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Perception and Excessive Valuation of Small, Publicized Drinking Water Risks",
+   "authors": [
+    "Jason Bell",
+    "Joel Huber",
+    "W. Kip Viscusi"
+   ],
+   "year": 2020,
+   "venue": "Journal of Benefit-Cost Analysis",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Wellbeing Measures of Mortality Risks: Life-Cycle Contradictions and Ordinal Index Challenges",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 2020,
+   "venue": "Behavioral Public Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Specific Consumer Expectations Test for Products Defects",
+   "authors": [
+    "Clayton J. Masterman",
+    "W. Kip Viscusi"
+   ],
+   "year": 2020,
+   "venue": "Indiana Law Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Dynamic Relationships between Social Norms and Pro-Environmental Behavior: Evidence from Household Recycling",
+   "authors": [
+    "Jason Bell",
+    "Joel Huber",
+    "W. Kip Viscusi"
+   ],
+   "year": 2020,
+   "venue": "Behavioural Public Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "When to Walk Away and When to Risk It All",
+   "authors": [
+    "Scott DeAngelis",
+    "W. Kip Viscusi"
+   ],
+   "year": 2020,
+   "venue": "Journal of Sports Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Impact of Cannabis Access Laws on Opioid Prescribing",
+   "authors": [
+    "R. Lawrence Van Horn",
+    "Benjamin J. McMichael",
+    "W. Kip Viscusi"
+   ],
+   "year": 2020,
+   "venue": "Journal of Health Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Identifying the Legitimate Role of the Value of a Statistical Life in Legal Contexts",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 2019,
+   "venue": "Journal of Legal Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Asymmetric Effects on Fatality Rates of Changes in Workers' Compensation Laws",
+   "authors": [
+    "Elissa Philip Gentry",
+    "W. Kip Viscusi"
+   ],
+   "year": 2019,
+   "venue": "American Law and Economics Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Mortality Cost Metric for the Costs of War",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 2019,
+   "venue": "Peace Economics, Peace Science and Public Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Responsible Precautions for Uncertain Environmental Risks",
+   "authors": [
+    "Jason Bell",
+    "Joel Huber",
+    "W. Kip Viscusi"
+   ],
+   "year": 2019,
+   "venue": "Journal of Benefit-Cost Analysis",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Medical Malpractice Reform: What Works and What Doesn't",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 2019,
+   "venue": "Denver Law Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Utility Functions for Mild and Severe Health Risks",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 2019,
+   "venue": "Journal of Risk and Uncertainty",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Taming Blockbuster Punitive Damages Awards",
+   "authors": [
+    "Benjamin J. McMichael",
+    "W. Kip Viscusi"
+   ],
+   "year": 2019,
+   "venue": "University of Illinois Law Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "'Sorry' Is Never Enough: How State Apology Laws Fail to Reduce Medical Malpractice Liability Risk",
+   "authors": [
+    "R. Lawrence Van Horn",
+    "Benjamin J. McMichael",
+    "W. Kip Viscusi"
+   ],
+   "year": 2019,
+   "venue": "Stanford Law Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Fatal Failure of the Regulatory State",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 2018,
+   "venue": "William & Mary Law Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Decision Irrationalities Involving Deadly Risks",
+   "authors": [
+    "Scott DeAngelis",
+    "W. Kip Viscusi"
+   ],
+   "year": 2018,
+   "venue": "Journal of Risk and Uncertainty",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Income Elasticity of Global Values of a Statistical Life: Stated Preference Evidence",
+   "authors": [
+    "Clayton J. Masterman",
+    "W. Kip Viscusi"
+   ],
+   "year": 2018,
+   "venue": "Journal of Benefit-Cost Analysis",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Best Estimate Selection Bias in the Value of a Statistical Life",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 2018,
+   "venue": "Journal of Benefit-Cost Analysis",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Pricing Lives: International Guideposts for Safety",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 2018,
+   "venue": "Economic Record",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Lessons from Ten Years of Household Recycling in the United States",
+   "authors": [
+    "Jason Bell",
+    "Joel Huber",
+    "W. Kip Viscusi"
+   ],
+   "year": 2018,
+   "venue": "Environmental Law Reporter",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Net Effects of Medical Malpractice Tort Reform on Health Insurance Losses: The Texas Experience",
+   "authors": [
+    "Patricia H. Born",
+    "J. Bradley Karl",
+    "W. Kip Viscusi"
+   ],
+   "year": 2017,
+   "venue": "Health Economics Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Consumer's Guide to Regulatory Impact Analysis: Ten Tips for Being an Informed Policymaker",
+   "authors": [
+    "Susan Dudley",
+    "W. Kip Viscusi"
+   ],
+   "year": 2017,
+   "venue": "Journal of Benefit-Cost Analysis",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Income Elasticities and Global Values of a Statistical Life",
+   "authors": [
+    "Clayton J. Masterman",
+    "W. Kip Viscusi"
+   ],
+   "year": 2017,
+   "venue": "Journal of Benefit-Cost Analysis",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Punitive Damages Calculus: The Differential Incidence of State Punitive Damages Reforms",
+   "authors": [
+    "Benjamin J. McMichael",
+    "W. Kip Viscusi"
+   ],
+   "year": 2017,
+   "venue": "Southern Economic Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Recollection Bias and Its Underpinnings: Lessons from Terrorism Risk Assessments",
+   "authors": [
+    "W. Kip Viscusi",
+    "Richard J. Zeckhauser"
+   ],
+   "year": 2017,
+   "venue": "Risk Analysis",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Fostering Recycling Participation in Wisconsin Households through Single-Stream Programs",
+   "authors": [
+    "Jason Bell",
+    "Joel Huber",
+    "W. Kip Viscusi"
+   ],
+   "year": 2017,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Anchoring Biases in International Estimates of the Value of a Statistical Life",
+   "authors": [
+    "Clayton J. Masterman",
+    "W. Kip Viscusi"
+   ],
+   "year": 2017,
+   "venue": "Journal of Risk and Uncertainty",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Relationship between the Markets for Health Insurance and Medical Malpractice Insurance",
+   "authors": [
+    "Patricia H. Born",
+    "J. Bradley Karl",
+    "W. Kip Viscusi"
+   ],
+   "year": 2016,
+   "venue": "Applied Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Determining the Proper Scope of Climate Change Policy Benefits in U.S. Regulatory Analyses: Domestic versus Global Approaches",
+   "authors": [
+    "Ted Gayer",
+    "W. Kip Viscusi"
+   ],
+   "year": 2016,
+   "venue": "Review of Environmental Economics and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Risk Beliefs and Preferences for E-Cigarettes",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 2016,
+   "venue": "American Journal of Health Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Rational Benefit Assessment for an Irrational World: Toward a Behavioral Transfer Test",
+   "authors": [
+    "Ted Gayer",
+    "W. Kip Viscusi"
+   ],
+   "year": 2016,
+   "venue": "Journal of Benefit-Cost Analysis",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Fatality and Morbidity Components of the Value of Statistical Life",
+   "authors": [
+    "Elissa Philip Gentry",
+    "W. Kip Viscusi"
+   ],
+   "year": 2016,
+   "venue": "Journal of Health Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Pricing Lives for Corporate and Governmental Risk Decisions",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 2015,
+   "venue": "Journal of Benefit-Cost Analysis",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Value of a Statistical Life for Transportation Regulations: A Test of the Benefits Transfer Methodology",
+   "authors": [
+    "Elissa Philip Gentry",
+    "W. Kip Viscusi"
+   ],
+   "year": 2015,
+   "venue": "Journal of Risk and Uncertainty",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Private Rationality of Bottled Water Drinking",
+   "authors": [
+    "Jason Bell",
+    "Joel Huber",
+    "W. Kip Viscusi"
+   ],
+   "year": 2015,
+   "venue": "Contemporary Economic Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Regulating Ambiguous Risks: The Less than Rational Regulation of Pharmaceuticals",
+   "authors": [
+    "W. Kip Viscusi",
+    "Richard J. Zeckhauser"
+   ],
+   "year": 2015,
+   "venue": "Journal of Legal Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Behavioral Public Choice: The Behavioral Paradox of Government Policy",
+   "authors": [
+    "Ted Gayer",
+    "W. Kip Viscusi"
+   ],
+   "year": 2015,
+   "venue": "Harvard Journal of Law and Public Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Pricing Lives for Corporate Risk Decisions",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 2015,
+   "venue": "Vanderbilt Law Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Reference-Dependence Effects in Benefit Assessment: Beyond the WTA-WTP Dichotomy and WTA-WTP Ratios",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 2015,
+   "venue": "Journal of Benefit-Cost Analysis",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Judicial Review of Agency Benefit-Cost Analysis",
+   "authors": [
+    "Caroline Cecot",
+    "W. Kip Viscusi"
+   ],
+   "year": 2015,
+   "venue": "George Mason Law Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Relative Weights of Direct and Indirect Experiences in the Formation of Environmental Risk Beliefs",
+   "authors": [
+    "W. Kip Viscusi",
+    "Richard J. Zeckhauser"
+   ],
+   "year": 2015,
+   "venue": "Risk Analysis",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Role of Publication Selection Bias in Estimates of the Value of a Statistical Life",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 2015,
+   "venue": "American Journal of Health Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Producer and Consumer Responses to Green Housing Labels",
+   "authors": [
+    "Sharon Shewmake",
+    "W. Kip Viscusi"
+   ],
+   "year": 2015,
+   "venue": "Economic Inquiry",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Assessing the Insurance Role of Tort Liability after Calabresi",
+   "authors": [
+    "Joni Hersch",
+    "W. Kip Viscusi"
+   ],
+   "year": 2014,
+   "venue": "Law and Contemporary Problems",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Willingness to Accept Equals Willingness to Pay for Labor Market Estimates of the Value of Statistical Life",
+   "authors": [
+    "Thomas J. Kniesner",
+    "W. Kip Viscusi",
+    "James P. Ziliak"
+   ],
+   "year": 2014,
+   "venue": "Journal of Risk and Uncertainty",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Shifting the Fat-Tailed Distribution of Blockbuster Punitive Damages Awards",
+   "authors": [
+    "Benjamin J. McMichael",
+    "W. Kip Viscusi"
+   ],
+   "year": 2014,
+   "venue": "Journal of Empirical Legal Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Private Recycling Values, Social Norms, and Legal Rules",
+   "authors": [
+    "Jason Bell",
+    "Joel Huber",
+    "W. Kip Viscusi"
+   ],
+   "year": 2014,
+   "venue": "Revue d’Economie Politique",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Assessing Whether There Is a Cancer Premium for the Value of a Statistical Life",
+   "authors": [
+    "Jason Bell",
+    "Joel Huber",
+    "W. Kip Viscusi"
+   ],
+   "year": 2014,
+   "venue": "Health Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Publication Selection and the Income Elasticity of the Value of a Statistical Life",
+   "authors": [
+    "Hristos Doucouliagos",
+    "T.D. Stanley",
+    "W. Kip Viscusi"
+   ],
+   "year": 2014,
+   "venue": "Journal of Health Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Risk Regulation Lessons from Mad Cows",
+   "authors": [
+    "Joseph E. Aldy",
+    "W. Kip Viscusi"
+   ],
+   "year": 2013,
+   "venue": "Foundations and Trends in Microeconomics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Overriding Consumer Preferences with Energy Regulations",
+   "authors": [
+    "Ted Gayer",
+    "W. Kip Viscusi"
+   ],
+   "year": 2013,
+   "venue": "Journal of Regulatory Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Discontinuous Behavioral Responses to Recycling Laws and Plastic Water Bottle Deposits",
+   "authors": [
+    "Jason Bell",
+    "Caroline Cecot",
+    "Joel Huber",
+    "W. Kip Viscusi"
+   ],
+   "year": 2013,
+   "venue": "American Law and Economics Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Benefits of Mortality Risk Reduction: Happiness Surveys vs. the Value of a Statistical Life",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 2013,
+   "venue": "Duke Law Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "What's to Know? Puzzles in the Literature on the Value of Statistical Life",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 2012,
+   "venue": "Journal of Economic Surveys",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Role of Information Disclosure in Climate Mitigation Policy",
+   "authors": [
+    "Mark A. Cohen",
+    "W. Kip Viscusi"
+   ],
+   "year": 2012,
+   "venue": "Climate Change Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Law and Economics as a Pillar of Legal Education",
+   "authors": [
+    "Joni Hersch",
+    "W. Kip Viscusi"
+   ],
+   "year": 2012,
+   "venue": "Review of Law and Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Heterogeneity in Values of Morbidity Risks from Drinking Water",
+   "authors": [
+    "Jason Bell",
+    "Joel Huber",
+    "W. Kip Viscusi"
+   ],
+   "year": 2012,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Alternative Policies to Increase Recycling of Plastic Water Bottles in the United States",
+   "authors": [
+    "Jason Bell",
+    "Joel Huber",
+    "W. Kip Viscusi"
+   ],
+   "year": 2012,
+   "venue": "Review of Environmental Economics and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Reference-Dependent Valuations of Risk: Why Willingness-to-Accept Exceeds Willingness-to- Pay",
+   "authors": [
+    "Joel Huber",
+    "W. Kip Viscusi"
+   ],
+   "year": 2012,
+   "venue": "Journal of Risk and Uncertainty",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Value of Statistical Life: Evidence from Panel Data",
+   "authors": [
+    "Thomas J. Kniesner",
+    "W. Kip Viscusi",
+    "Christopher Woock",
+    "James P. Ziliak"
+   ],
+   "year": 2012,
+   "venue": "Review of Economics and Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Variables Influencing the Neural Correlates of Perceived Risk of Physical Harm",
+   "authors": [
+    "Mariam Coaster",
+    "John C. Gore",
+    "Owen D. Jones",
+    "Kristen L. Merkle",
+    "Baxter P. Rogers",
+    "W. Kip Viscusi",
+    "David H. Zald"
+   ],
+   "year": 2011,
+   "venue": "Cognitive, Affective, & Behavioral Neuroscience",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Deterring and Compensating Oil Spill Catastrophes: The Need for Strict and Two-Tier Liability",
+   "authors": [
+    "W. Kip Viscusi",
+    "Richard J. Zeckhauser"
+   ],
+   "year": 2011,
+   "venue": "Vanderbilt Law Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Risky Investment Decisions: How Are Individuals Influenced by Their Groups",
+   "authors": [
+    "Stephan Kroll",
+    "Owen R. Phillips",
+    "W. Kip Viscusi"
+   ],
+   "year": 2011,
+   "venue": "Journal of Risk and Uncertainty",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Heterogeneous Rates of Time Preference and the Decision to Smoke",
+   "authors": [
+    "Robert L. Scharff",
+    "W. Kip Viscusi"
+   ],
+   "year": 2011,
+   "venue": "Economic Inquiry",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Towards Principles and Standards for the Benefit-Cost Analysis of Safety",
+   "authors": [
+    "Scott Farrow",
+    "W. Kip Viscusi"
+   ],
+   "year": 2011,
+   "venue": "Journal of Benefit-Cost Analysis",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Promoting Recycling: Private Values, Social Norms, and Economic Incentives",
+   "authors": [
+    "Jason Bell",
+    "Joel Huber",
+    "W. Kip Viscusi"
+   ],
+   "year": 2011,
+   "venue": "American Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Survey Mode Effects on Valuation of Environmental Goods",
+   "authors": [
+    "Jason Bell",
+    "Joel Huber",
+    "W. Kip Viscusi"
+   ],
+   "year": 2011,
+   "venue": "International Journal of Environmental Research and Public Health",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Policy Challenges of the Heterogeneity of the Value of Statistical Life",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 2010,
+   "venue": "Foundations and Trends in Microeconomics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Punitive Damages by Numbers: Exxon Shipping Co. v. Baker",
+   "authors": [
+    "Joni Hersch",
+    "W. Kip Viscusi"
+   ],
+   "year": 2010,
+   "venue": "Supreme Court Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Immigrant Status and the Value of Statistical Life",
+   "authors": [
+    "Joni Hersch",
+    "W. Kip Viscusi"
+   ],
+   "year": 2010,
+   "venue": "Journal of Human Resources",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Changing Landscape of Blockbuster Punitive Damages Awards",
+   "authors": [
+    "Alison F. Del Rossi",
+    "W. Kip Viscusi"
+   ],
+   "year": 2010,
+   "venue": "American Law and Economics Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Policy Relevant Heterogeneity in the Value of Statistical Life: New Evidence from Panel Data Quantile Regressions",
+   "authors": [
+    "Thomas J. Kniesner",
+    "W. Kip Viscusi",
+    "James P. Ziliak"
+   ],
+   "year": 2010,
+   "venue": "Journal of Risk and Uncertainty",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Saving Lives through Punitive Damages",
+   "authors": [
+    "Joni Hersch",
+    "W. Kip Viscusi"
+   ],
+   "year": 2010,
+   "venue": "Southern California Law Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Voter-Weighted Environmental Preferences",
+   "authors": [
+    "Jason Bell",
+    "Joel Huber",
+    "W. Kip Viscusi"
+   ],
+   "year": 2009,
+   "venue": "Journal of Policy Analysis and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Devaluation of Life",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 2009,
+   "venue": "Regulation and Governance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Valuing Risks of Death from Terrorism and Natural Disasters",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 2009,
+   "venue": "Journal of Risk and Uncertainty",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Effects of Tort Reform on Medical Malpractice Insurers' Ultimate Losses",
+   "authors": [
+    "Tom Baker",
+    "Patricia Born",
+    "W. Kip Viscusi"
+   ],
+   "year": 2009,
+   "venue": "Journal of Risk and Insurance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Using Economics to Fuel Responsible Energy Consumption Decisions",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 2008,
+   "venue": "Environmental Law Reporter",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Estimating Discount Rates for Environmental Quality from Utility-Based Choice Experiments",
+   "authors": [
+    "Jason Bell",
+    "Joel Huber",
+    "W. Kip Viscusi"
+   ],
+   "year": 2008,
+   "venue": "Journal of Risk and Uncertainty",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Economic Value of Water Quality",
+   "authors": [
+    "Jason Bell",
+    "Joel Huber",
+    "W. Kip Viscusi"
+   ],
+   "year": 2008,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How to Value a Life",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 2008,
+   "venue": "Journal of Economics and Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Adjusting the Value of a Statistical Life for Age and Cohort Effects",
+   "authors": [
+    "Joseph E. Aldy",
+    "W. Kip Viscusi"
+   ],
+   "year": 2008,
+   "venue": "Review of Economics and Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Reference Dependence in Iterative Choices",
+   "authors": [
+    "Jason Bell",
+    "Joel Huber",
+    "W. Kip Viscusi"
+   ],
+   "year": 2008,
+   "venue": "Organizational Behavior and Human Decision Processes",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Mortality Cost to Smokers",
+   "authors": [
+    "Joni Hersch",
+    "W. Kip Viscusi"
+   ],
+   "year": 2008,
+   "venue": "Journal of Health Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Risk Beliefs and Smoking Behavior",
+   "authors": [
+    "Jahn K. Hakes",
+    "W. Kip Viscusi"
+   ],
+   "year": 2008,
+   "venue": "Economic Inquiry",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Flawed Hedonic Damages Measure of Compensation for Wrongful Death and Personal Injury",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 2007,
+   "venue": "Journal of Forensic Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Tort Liability Litigation Costs for Commercial Claims",
+   "authors": [
+    "Joni Hersch",
+    "W. Kip Viscusi"
+   ],
+   "year": 2007,
+   "venue": "American Law and Economics Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Age Differences in the Value of Statistical Life: Revealed Preference Evidence",
+   "authors": [
+    "Joseph E. Aldy",
+    "W. Kip Viscusi"
+   ],
+   "year": 2007,
+   "venue": "Review of Environmental Economics and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Empirical Assessment of Early Offer Reform for Medical Malpractice",
+   "authors": [
+    "Joni Hersch",
+    "Jeffrey O’Connell",
+    "W. Kip Viscusi"
+   ],
+   "year": 2007,
+   "venue": "Journal of Legal Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Allocating Responsibility for the Failure of Global Warming Policies",
+   "authors": [
+    "Joni Hersch",
+    "W. Kip Viscusi"
+   ],
+   "year": 2007,
+   "venue": "University of Pennsylvania Law Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Labor Market Estimates of the Senior Discount for the Value of Statistical Life",
+   "authors": [
+    "Joseph E. Aldy",
+    "W. Kip Viscusi"
+   ],
+   "year": 2007,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Rational Discounting for Regulatory Analysis",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 2007,
+   "venue": "University of Chicago Law Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Automobile Seatbelt Usage and the Value of Statistical Life",
+   "authors": [
+    "Jahn K. Hakes",
+    "W. Kip Viscusi"
+   ],
+   "year": 2007,
+   "venue": "Southern Economic Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "National Survey Evidence on Disasters and Relief: Risk Beliefs, Self-Interest, and Compassion",
+   "authors": [
+    "W. Kip Viscusi",
+    "Richard J. Zeckhauser"
+   ],
+   "year": 2006,
+   "venue": "Journal of Risk and Uncertainty",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Catastrophic Effects of Natural Disasters on Insurance Markets",
+   "authors": [
+    "Patricia Born",
+    "W. Kip Viscusi"
+   ],
+   "year": 2006,
+   "venue": "Journal of Risk and Uncertainty",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Generational Divide in Support for Environmental Policies: European Evidence",
+   "authors": [
+    "Joni Hersch",
+    "W. Kip Viscusi"
+   ],
+   "year": 2006,
+   "venue": "Climatic Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Perception and Valuation of the Risks of Climate Change: A Rational and Behavioral Blend",
+   "authors": [
+    "W. Kip Viscusi",
+    "Richard J. Zeckhauser"
+   ],
+   "year": 2006,
+   "venue": "Climatic Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Monetizing the Benefits of Risk and Environmental Regulation",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 2006,
+   "venue": "Fordham Urban Law Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Behavioral Probabilities",
+   "authors": [
+    "William N. Evans",
+    "W. Kip Viscusi"
+   ],
+   "year": 2006,
+   "venue": "Journal of Risk and Uncertainty",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Life-Cycle Consumption and the Age-Adjusted Value of Life",
+   "authors": [
+    "Thomas J. Kniesner",
+    "W. Kip Viscusi",
+    "James P. Ziliak"
+   ],
+   "year": 2006,
+   "venue": "Contributions to Economic Analysis & Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Value of a Statistical Life: Relative Position vs. Relative Age",
+   "authors": [
+    "Thomas J. Kniesner",
+    "W. Kip Viscusi"
+   ],
+   "year": 2005,
+   "venue": "American Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Damages Caps, Insurability, and the Performance of Medical Malpractice Insurance",
+   "authors": [
+    "Patricia H. Born",
+    "W. Kip Viscusi"
+   ],
+   "year": 2005,
+   "venue": "Journal of Risk and Insurance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Recollection Bias and the Combat of Terrorism",
+   "authors": [
+    "W. Kip Viscusi",
+    "Richard J. Zeckhauser"
+   ],
+   "year": 2005,
+   "venue": "Journal of Legal Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Blockbuster Punitive Damages Awards",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 2004,
+   "venue": "Emory Law Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Voter Preferences and State Regulation of Smoking",
+   "authors": [
+    "Joni Hersch",
+    "Alison F. Del Rossi",
+    "W. Kip Viscusi"
+   ],
+   "year": 2004,
+   "venue": "Economic Inquiry",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Dead Reckoning: Demographic Determinants of the Accuracy of Mortality Risk Perceptions",
+   "authors": [
+    "Jahn K. Hakes",
+    "W. Kip Viscusi"
+   ],
+   "year": 2004,
+   "venue": "Risk Analysis",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Tort Reform and Insurance Markets",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 2004,
+   "venue": "Risk Management and Insurance Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Punitive Damages: How Judges and Juries Perform",
+   "authors": [
+    "Joni Hersch",
+    "W. Kip Viscusi"
+   ],
+   "year": 2004,
+   "venue": "Journal of Legal Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Value of Life: Estimates with Risks by Occupation and Industry",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 2004,
+   "venue": "Economic Inquiry",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Denominator Blindness Effect: Accident Frequencies and the Misjudgment of Recklessness",
+   "authors": [
+    "W. Kip Viscusi",
+    "Richard J. Zeckhauser"
+   ],
+   "year": 2004,
+   "venue": "American Law and Economics Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Racial Differences in Labor Market Values of a Statistical Life",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 2003,
+   "venue": "Journal of Risk and Uncertainty",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Commonalities in Time and Ambiguity Aversion for Long-Term Risks",
+   "authors": [
+    "Harrell W. Chesson",
+    "W. Kip Viscusi"
+   ],
+   "year": 2003,
+   "venue": "Theory and Decision",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Value of a Statistical Life: A Critical Review of Market Estimates throughout the World",
+   "authors": [
+    "Joseph E. Aldy",
+    "W. Kip Viscusi"
+   ],
+   "year": 2003,
+   "venue": "Journal of Risk and Uncertainty",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Sacrificing Civil Liberties to Reduce Terrorism Risks",
+   "authors": [
+    "W. Kip Viscusi",
+    "Richard J. Zeckhauser"
+   ],
+   "year": 2003,
+   "venue": "Journal of Risk and Uncertainty",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Why Relative Economic Position Does Not Matter: A Cost-Benefit Analysis",
+   "authors": [
+    "Thomas J. Kniesner",
+    "W. Kip Viscusi"
+   ],
+   "year": 2003,
+   "venue": "Yale Journal on Regulation",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Risk Ratings that Do Not Measure Probabilities",
+   "authors": [
+    "Jahn K. Hakes",
+    "W. Kip Viscusi"
+   ],
+   "year": 2003,
+   "venue": "Journal of Risk Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Market Value of Reducing Cancer Risk: Hedonic Housing Prices with Changing Information",
+   "authors": [
+    "Ted Gayer",
+    "James T. Hamilton",
+    "W. Kip Viscusi"
+   ],
+   "year": 2002,
+   "venue": "Southern Economic Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Juries, Hindsight, and Punitive Damages Awards: Reply to Richard Lempert",
+   "authors": [
+    "Reid Hastie",
+    "W. Kip Viscusi"
+   ],
+   "year": 2002,
+   "venue": "DePaul Law Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Housing Price Responses to Newspaper Publicity of Hazardous Waste Sites",
+   "authors": [
+    "Ted Gayer",
+    "W. Kip Viscusi"
+   ],
+   "year": 2002,
+   "venue": "Resource and Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Punitive Damages: How Jurors Fail to Promote Efficiency",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 2002,
+   "venue": "Harvard Journal on Legislation",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Challenge of Punitive Damages Mathematics",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 2001,
+   "venue": "Journal of Legal Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Cigarette Smokers as Job Risk Takers",
+   "authors": [
+    "Joni Hersch",
+    "W. Kip Viscusi"
+   ],
+   "year": 2001,
+   "venue": "Review of Economics and Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do Workers Want OSHA's Ergonomics Regulations",
+   "authors": [
+    "Wendy L. Gramm",
+    "Joseph M. Johnson",
+    "W. Kip Viscusi"
+   ],
+   "year": 2001,
+   "venue": "Journal of Labor Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Jurors, Judges, and the Mistreatment of Risk by the Courts",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 2001,
+   "venue": "Journal of Legal Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Smoking Risks in Spain: Part III – Determinants of Smoking Behavior",
+   "authors": [
+    "Fernando Antoñanzas",
+    "Francisco J. Braña",
+    "Irineu Carvalho",
+    "Fabiola Portillo",
+    "Joan Rovira",
+    "W. Kip Viscusi"
+   ],
+   "year": 2000,
+   "venue": "Journal of Risk and Uncertainty",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Smoking Risks in Spain: Part II – Perception of Environmental Tobacco Smoke Externalities",
+   "authors": [
+    "Fernando Antoñanzas",
+    "Irineu Carvalho",
+    "Joan Costa",
+    "Warren Hart",
+    "Joan Rovira",
+    "W. Kip Viscusi"
+   ],
+   "year": 2000,
+   "venue": "Journal of Risk and Uncertainty",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Smoking Risks in Spain: Part I – Perception of Risks to the Smoker",
+   "authors": [
+    "Fernando Antoñanzas",
+    "Francisco J. Braña",
+    "Irineu Carvalho",
+    "Fabiola Portillo",
+    "Joan Rovira",
+    "W. Kip Viscusi"
+   ],
+   "year": 2000,
+   "venue": "Journal of Risk and Uncertainty",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Private Values of Risk Tradeoffs at Superfund Sites: Housing Market Evidence on Learning about Risk",
+   "authors": [
+    "Ted Gayer",
+    "James T. Hamilton",
+    "W. Kip Viscusi"
+   ],
+   "year": 2000,
+   "venue": "Review of Economics and Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Iterative Choice Approach to Valuing Clean Lakes, Rivers, and Streams",
+   "authors": [
+    "Jason Bell",
+    "Joel Huber",
+    "Wesley A. Magat",
+    "W. Kip Viscusi"
+   ],
+   "year": 2000,
+   "venue": "Journal of Risk and Uncertainty",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Risk Equity",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 2000,
+   "venue": "Journal of Legal Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Misuses and Proper Uses of Hedonic Values of Life in Legal Contexts",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 2000,
+   "venue": "Journal of Forensic Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Value of Life in Legal Contexts: Survey and Critique",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 2000,
+   "venue": "American Law and Economics Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Perils of Qualitative Smoking Risk Measures",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 2000,
+   "venue": "Journal of Behavioral Decision Making",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Heterogeneity of Time-Risk Tradeoffs",
+   "authors": [
+    "Harrell Chesson",
+    "W. Kip Viscusi"
+   ],
+   "year": 2000,
+   "venue": "Journal of Behavioral Decision Making",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Corporate Risk Analysis: A Reckless Act?",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 2000,
+   "venue": "Stanford Law Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Using Warnings to Extend the Boundaries of Consumer Sovereignty",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1999,
+   "venue": "Harvard Journal of Law and Public Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How Do Judges Think about Risk",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1999,
+   "venue": "American Law and Economics Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Postmortem on the Cigarette Settlement",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1998,
+   "venue": "Cumberland Law Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Cost-Per-Life-Saved Cutoff for Safety-Enhancing Regulations",
+   "authors": [
+    "Randall Lutter",
+    "John F. Morrall",
+    "W. Kip Viscusi"
+   ],
+   "year": 1999,
+   "venue": "Economic Inquiry",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Governmental Composition of the Insurance Costs of Smoking",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1999,
+   "venue": "Journal of Law and Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Hopes and Fears: The Conflicting Effects of Risk Ambiguity",
+   "authors": [
+    "Harrell Chesson",
+    "W. Kip Viscusi"
+   ],
+   "year": 1999,
+   "venue": "Theory and Decision",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Smoking Status and Public Responses to Ambiguous Scientific Risk Evidence",
+   "authors": [
+    "Joel Huber",
+    "Wesley A. Magat",
+    "W. Kip Viscusi"
+   ],
+   "year": 1999,
+   "venue": "Southern Economic Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Are Risk Regulators Rational? Evidence from Hazardous Waste Cleanup Decisions",
+   "authors": [
+    "James T. Hamilton",
+    "W. Kip Viscusi"
+   ],
+   "year": 1999,
+   "venue": "American Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Performance of the 1980s California Insurance and Liability Reforms",
+   "authors": [
+    "Patricia Born",
+    "W. Kip Viscusi"
+   ],
+   "year": 1999,
+   "venue": "Risk Management and Insurance Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Distribution of the Insurance Market Effects of Tort Liability Reforms",
+   "authors": [
+    "Patricia H. Born",
+    "W. Kip Viscusi"
+   ],
+   "year": 1998,
+   "venue": "Brookings Papers on Economic Activity: Microeconomics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Why There Is No Defense of Punitive Damages",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1998,
+   "venue": "Georgetown Law Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Social Costs of Punitive Damages against Corporations in Environmental and Safety Torts",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1998,
+   "venue": "Georgetown Law Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Courtroom Comes to the Classroom: Estimating Economic Damages as an Instructional Device",
+   "authors": [
+    "Joni Hersch",
+    "W. Kip Viscusi"
+   ],
+   "year": 1998,
+   "venue": "Journal of Economic Education",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "What Juries Can't Do Well: The Jury's Performance as a Risk Manager",
+   "authors": [
+    "Reid Hastie",
+    "W. Kip Viscusi"
+   ],
+   "year": 1998,
+   "venue": "Arizona Law Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Alternative Approaches to Valuing Intangible Health Losses: The Evidence for Multiple Sclerosis",
+   "authors": [
+    "Harrell W. Chesson",
+    "Christopher J. Conover",
+    "Frank A. Sloan",
+    "W. Kip Viscusi",
+    "Kathryn Whetten-Goldstein"
+   ],
+   "year": 1998,
+   "venue": "Journal of Health Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Smoking and Other Risky Behaviors",
+   "authors": [
+    "Joni Hersch",
+    "W. Kip Viscusi"
+   ],
+   "year": 1998,
+   "venue": "Journal of Drug Issues",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Differences in Subjective Risk Thresholds: Worker Groups as an Example",
+   "authors": [
+    "Anil Gaba",
+    "W. Kip Viscusi"
+   ],
+   "year": 1998,
+   "venue": "Management Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Constructive Cigarette Regulation",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1998,
+   "venue": "Duke Law Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Estimation of Revealed Probabilities and Utility Functions for Product Safety Decisions",
+   "authors": [
+    "William N. Evans",
+    "W. Kip Viscusi"
+   ],
+   "year": 1998,
+   "venue": "Review of Economics and Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Synthetic Risks, Risk Potency, and Carcinogen Regulation",
+   "authors": [
+    "Jahn K. Hakes",
+    "W. Kip Viscusi"
+   ],
+   "year": 1998,
+   "venue": "Journal of Policy Analysis and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Conservative versus Mean Risk Assessments: Implications for Superfund Policies",
+   "authors": [
+    "P. Christen Dockins",
+    "James T. Hamilton",
+    "W. Kip Viscusi"
+   ],
+   "year": 1997,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Alarmist Decisions with Divergent Risk Information",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1997,
+   "venue": "The Economic Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Mortality Risk Perceptions: A Bayesian Reassessment",
+   "authors": [
+    "Jahn K. Hakes",
+    "W. Kip Viscusi"
+   ],
+   "year": 1997,
+   "venue": "Journal of Risk and Uncertainty",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Benefits and Costs of Regulatory Reforms for Superfund",
+   "authors": [
+    "James T. Hamilton",
+    "W. Kip Viscusi"
+   ],
+   "year": 1997,
+   "venue": "Stanford Environmental Law Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Measures of Mortality Risks",
+   "authors": [
+    "Alan Carlin",
+    "Jahn K. Hakes",
+    "W. Kip Viscusi"
+   ],
+   "year": 1997,
+   "venue": "Journal of Risk and Uncertainty",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Asymmetric Assessments in Valuing Pharmaceutical Risks",
+   "authors": [
+    "Wesley A. Magat",
+    "Robert Scharff",
+    "W. Kip Viscusi"
+   ],
+   "year": 1996,
+   "venue": "Medical Care",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Gender Differences in Promotions and Wages",
+   "authors": [
+    "Joni Hersch",
+    "W. Kip Viscusi"
+   ],
+   "year": 1996,
+   "venue": "Industrial Relations",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Regulating the Regulators",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1996,
+   "venue": "The University of Chicago Law Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Safety Behavior and Consumer Responses to Cigarette Lighter Safety Mechanisms",
+   "authors": [
+    "Gerald Cavallo",
+    "W. Kip Viscusi"
+   ],
+   "year": 1996,
+   "venue": "Managerial and Decision Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Reference Lottery Metric for Valuing Health",
+   "authors": [
+    "Joel Huber",
+    "Wesley A. Magat",
+    "W. Kip Viscusi"
+   ],
+   "year": 1996,
+   "venue": "Management Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Pain and Suffering: Damages in Search of a Sounder Rationale",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1996,
+   "venue": "Michigan Law and Policy Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic Foundations of the Current Regulatory Reform Efforts",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1996,
+   "venue": "Journal of Economic Perspectives",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Alternative Institutional Responses to Asbestos",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1996,
+   "venue": "Journal of Risk and Uncertainty",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Risk Management Dilemma",
+   "authors": [
+    "W. Kip Viscusi",
+    "Richard J. Zeckhauser"
+   ],
+   "year": 1996,
+   "venue": "The Annals of the American Academy of Political and Social Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Hazard Communication: Warnings and Risk",
+   "authors": [
+    "W. Kip Viscusi",
+    "Richard J. Zeckhauser"
+   ],
+   "year": 1996,
+   "venue": "The Annals of the American Academy of Political and Social Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Individual Rationality, Hazard Warnings, and the Foundations of Tort Law",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1996,
+   "venue": "Rutgers Law Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Insurance and Catastrophes: The Changing Role of the Liability System",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1995,
+   "venue": "Geneva Papers on Risk and Insurance Theory",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Coase Theorem in a Rent-Seeking Society",
+   "authors": [
+    "Roy Boyd",
+    "Chulho Jung",
+    "Kerry Krutilla",
+    "W. Kip Viscusi"
+   ],
+   "year": 1995,
+   "venue": "International Review of Law and Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Government Action, Biases in Risk Perception, and Insurance Decisions",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1995,
+   "venue": "Geneva Papers on Risk and Insurance Theory",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Environmental Taxation for Environmental Regulation and Fiscal Policy: An Analysis of a Clinton-Type BTU Tax",
+   "authors": [
+    "Roy Boyd",
+    "Kerry Krutilla",
+    "W. Kip Viscusi"
+   ],
+   "year": 1995,
+   "venue": "Journal of Regulatory Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Medical Malpractice Insurance in the Wake of Liability Reform",
+   "authors": [
+    "Patricia Born",
+    "W. Kip Viscusi"
+   ],
+   "year": 1995,
+   "venue": "Journal of Legal Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Workers' Compensation and Injury Duration: Evidence from a Natural Experiment",
+   "authors": [
+    "David L. Durbin",
+    "Bruce D. Meyer",
+    "W. Kip Viscusi"
+   ],
+   "year": 1995,
+   "venue": "American Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Carcinogen Regulation: Risk Characteristics and the Synthetic Risk Bias",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1995,
+   "venue": "American Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Rates of Time Preference and Consumer Valuations of Automobile Safety and Fuel Efficiency",
+   "authors": [
+    "Mark K. Dreyfus",
+    "W. Kip Viscusi"
+   ],
+   "year": 1995,
+   "venue": "Journal of Law and Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The General-Liability Reform Experiments and the Distribution of Insurance-Market Outcomes",
+   "authors": [
+    "Patricia Born",
+    "W. Kip Viscusi"
+   ],
+   "year": 1995,
+   "venue": "Journal of Business and Economic Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Energy Taxation as a Policy Instrument to Reduce CO2 Emissions: A Net Benefit Analysis",
+   "authors": [
+    "Roy Boyd",
+    "Kerry Krutilla",
+    "W. Kip Viscusi"
+   ],
+   "year": 1995,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Equivalent Frames of Reference for Judging Risk Regulation Policies",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1994,
+   "venue": "Environmental Law Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Effect of Product Safety Regulation on Safety Precautions",
+   "authors": [
+    "Gerald O. Cavallo",
+    "W. Kip Viscusi"
+   ],
+   "year": 1994,
+   "venue": "Risk Analysis",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Promoting Smokers' Welfare with Responsible Taxation",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1994,
+   "venue": "National Tax Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Human Health Risk Assessments for Superfund",
+   "authors": [
+    "James T. Hamilton",
+    "W. Kip Viscusi"
+   ],
+   "year": 1994,
+   "venue": "Ecology Law Quarterly",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Insurance Market Responses to the 1980s Liability Reforms: An Analysis of Firm-Level Data",
+   "authors": [
+    "Patricia Born",
+    "W. Kip Viscusi"
+   ],
+   "year": 1994,
+   "venue": "Journal of Risk and Insurance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The National Implications of Liability Reforms for General Liability and Medical Malpractice Insurance",
+   "authors": [
+    "Patricia Born",
+    "W. Kip Viscusi"
+   ],
+   "year": 1994,
+   "venue": "Seton Hall Law Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Performance of the Liability Reform Experiments: New York and Colorado",
+   "authors": [
+    "Patricia Born",
+    "W. Kip Viscusi"
+   ],
+   "year": 1994,
+   "venue": "Journal of Products and Toxics Liability",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Environmentally Responsible Energy Pricing",
+   "authors": [
+    "Alan Carlin",
+    "Mark K. Dreyfus",
+    "Wesley A. Magat",
+    "W. Kip Viscusi"
+   ],
+   "year": 1994,
+   "venue": "Energy Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Efficacy of Labeling of Foods and Pharmaceuticals",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1994,
+   "venue": "Annual Review of Public Health",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Deterring Inefficient Pharmaceutical Litigation: An Economic Rationale for the FDA Regulatory Compliance Defense",
+   "authors": [
+    "Howard L. Dorfman",
+    "Steven R. Rowland",
+    "W. Kip Viscusi",
+    "Charles J. Walsh"
+   ],
+   "year": 1994,
+   "venue": "Seton Hall Law Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Statistical Profile of Pharmaceutical Industry Liability, 1976–1989",
+   "authors": [
+    "James Albright",
+    "Michael J. Moore",
+    "W. Kip Viscusi"
+   ],
+   "year": 1994,
+   "venue": "Seton Hall Law Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Mortality Effects of Regulatory Costs and Policy Evaluation Criteria",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1994,
+   "venue": "RAND Journal of Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Risk-Risk Analysis",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1994,
+   "venue": "Journal of Risk and Uncertainty",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Fatality and Injury Costs of Expenditures",
+   "authors": [
+    "W. Kip Viscusi",
+    "Richard J. Zeckhauser"
+   ],
+   "year": 1994,
+   "venue": "Journal of Risk and Uncertainty",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Cigarette Warnings: The Perils of the Cipollone Decision",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1993,
+   "venue": "Supreme Court Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Value of Risks to Life and Health",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1993,
+   "venue": "Journal of Economic Literature",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Risky Business of Insurance Pricing",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1993,
+   "venue": "Journal of Risk and Uncertainty",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Income Effects and the Value of Health",
+   "authors": [
+    "William N. Evans",
+    "W. Kip Viscusi"
+   ],
+   "year": 1993,
+   "venue": "Journal of Human Resources",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Effect of 1980s Tort Reform Legislation on General Liability and Medical Malpractice Insurance",
+   "authors": [
+    "Glenn Blackmon",
+    "Patricia Born",
+    "W. Kip Viscusi",
+    "Richard J. Zeckhauser"
+   ],
+   "year": 1993,
+   "venue": "Journal of Risk and Uncertainty",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Product Liability, Research and Development, and Innovation",
+   "authors": [
+    "Michael J. Moore",
+    "W. Kip Viscusi"
+   ],
+   "year": 1993,
+   "venue": "Journal of Political Economy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Bayesian Decisions with Ambiguous Belief Aversion",
+   "authors": [
+    "Wesley A. Magat",
+    "W. Kip Viscusi"
+   ],
+   "year": 1992,
+   "venue": "Journal of Risk and Uncertainty",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Utility-Based Measures of Health",
+   "authors": [
+    "William N. Evans",
+    "W. Kip Viscusi"
+   ],
+   "year": 1991,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Principled Basis for Product Liability Reform",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1991,
+   "venue": "Journal of Regulation and Social Costs",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Age Variations in Risk Perceptions and Smoking Decisions",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1991,
+   "venue": "Review of Economics and Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Communication of Ambiguous Risk Information",
+   "authors": [
+    "Joel Huber",
+    "Wesley A. Magat",
+    "W. Kip Viscusi"
+   ],
+   "year": 1991,
+   "venue": "Theory and Decision",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Worker Learning and Compensating Differentials",
+   "authors": [
+    "Michael J. Moore",
+    "W. Kip Viscusi"
+   ],
+   "year": 1991,
+   "venue": "Industrial and Labor Relations Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Product and Occupational Liability",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1991,
+   "venue": "Journal of Economic Perspectives",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Pricing Environmental Health Risks: Survey Assessments of Risk-Risk and Risk-Dollar Trade- Offs for Chronic Bronchitis",
+   "authors": [
+    "Joel Huber",
+    "Wesley A. Magat",
+    "W. Kip Viscusi"
+   ],
+   "year": 1991,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Toward a Proper Role for Hazard Warnings in Products Liability Cases",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1991,
+   "venue": "Journal of Products Liability",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Estimation of State-Dependent Utility Functions Using Survey Data",
+   "authors": [
+    "William N. Evans",
+    "W. Kip Viscusi"
+   ],
+   "year": 1991,
+   "venue": "Review of Economics and Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Dimensions of the Product Liability Crisis",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1991,
+   "venue": "Journal of Legal Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Models for Estimating Discount Rates for Long-Term Health Risks Using Labor Market Data",
+   "authors": [
+    "Michael J. Moore",
+    "W. Kip Viscusi"
+   ],
+   "year": 1990,
+   "venue": "Journal of Risk and Uncertainty",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Long-Term Environmental Risks",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1990,
+   "venue": "Journal of Risk and Uncertainty",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do Smokers Underestimate Risks",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1990,
+   "venue": "Journal of Political Economy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Effectiveness of EPA's Regulatory Enforcement: The Case of Industrial Effluent Standards",
+   "authors": [
+    "Wesley A. Magat",
+    "W. Kip Viscusi"
+   ],
+   "year": 1990,
+   "venue": "Journal of Law and Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Econometric Basis for Estimates of the Value of Life",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1990,
+   "venue": "Journal of Forensic Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Value of Life: Has Voodoo Economics Come to the Courts",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1990,
+   "venue": "Journal of Forensic Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Social Insurance for Work and Product Injuries",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1990,
+   "venue": "Geneva Papers on Risk and Insurance Theory",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Market Response to Product Safety Litigation",
+   "authors": [
+    "Joni Hersch",
+    "W. Kip Viscusi"
+   ],
+   "year": 1990,
+   "venue": "Journal of Regulatory Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Performance of Liability Insurance in States with Different Products Liability Statutes",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1990,
+   "venue": "Journal of Legal Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Utility Functions that Depend on Health Status: Estimates and Economic Implications",
+   "authors": [
+    "William N. Evans",
+    "W. Kip Viscusi"
+   ],
+   "year": 1990,
+   "venue": "American Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Risk within Reason",
+   "authors": [
+    "W. Kip Viscusi",
+    "Richard J. Zeckhauser"
+   ],
+   "year": 1990,
+   "venue": "Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Sources of Inconsistency in Societal Responses to Health Risks",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1990,
+   "venue": "American Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Wading through the Muddle of Risk-Utility Analysis",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1990,
+   "venue": "American University Law Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Cigarette Smoking, Seatbelt Use, and Differences in Wage-Risk Trade-Offs",
+   "authors": [
+    "Joni Hersch",
+    "W. Kip Viscusi"
+   ],
+   "year": 1990,
+   "venue": "Journal of Human Resources",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Discounting Environmental Health Risks: New Evidence and Policy Implications",
+   "authors": [
+    "Michael J. Moore",
+    "W. Kip Viscusi"
+   ],
+   "year": 1990,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Promoting Safety through Workers' Compensation: The Efficacy and Net Wage Costs of Injury Insurance",
+   "authors": [
+    "Michael J. Moore",
+    "W. Kip Viscusi"
+   ],
+   "year": 1989,
+   "venue": "RAND Journal of Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Prospective Reference Theory: Toward an Explanation of the Paradoxes",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1989,
+   "venue": "Journal of Risk and Uncertainty",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Price and Availability Tradeoffs of Automobile Insurance Regulation",
+   "authors": [
+    "William N. Evans",
+    "Henry Grabowski",
+    "W. Kip Viscusi"
+   ],
+   "year": 1989,
+   "venue": "Journal of Risk and Insurance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Rates of Time Preference and Valuations of the Duration of Life",
+   "authors": [
+    "Michael J. Moore",
+    "W. Kip Viscusi"
+   ],
+   "year": 1989,
+   "venue": "Journal of Public Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Interaction between Product Liability and Workers' Compensation as Ex Post Remedies for Workplace Injuries",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1989,
+   "venue": "Journal of Law, Economics, and Organization",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Toward a Diminished Role of Tort Liability: Social Insurance, Government Regulation, and Contemporary Risks to Health and Safety",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1989,
+   "venue": "Yale Journal on Regulation",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Paired Comparison and Contingent Valuation Approaches to Morbidity Risk Valuation",
+   "authors": [
+    "Joel Huber",
+    "Wesley A. Magat",
+    "W. Kip Viscusi"
+   ],
+   "year": 1988,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Pain and Suffering in Product Liability Cases: Systematic Compensation or Capricious Awards",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1988,
+   "venue": "International Review of Law and Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Quantity-Adjusted Value of Life",
+   "authors": [
+    "Michael J. Moore",
+    "W. Kip Viscusi"
+   ],
+   "year": 1988,
+   "venue": "Economic Inquiry",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Irreversible Environmental Investments with Uncertain Benefit Levels",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1988,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Consumer Processing of Hazard Warning Information",
+   "authors": [
+    "Joel Huber",
+    "Wesley A. Magat",
+    "W. Kip Viscusi"
+   ],
+   "year": 1988,
+   "venue": "Journal of Risk and Uncertainty",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Product Liability and Regulation: Establishing the Appropriate Institutional Division of Labor",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1988,
+   "venue": "American Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Doubling the Estimated Value of Life: Results Using New Occupational Fatality Data",
+   "authors": [
+    "Michael J. Moore",
+    "W. Kip Viscusi"
+   ],
+   "year": 1988,
+   "venue": "Journal of Policy Analysis and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Predicting the Effect of Food Cancer Risk Warnings on Consumers",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1988,
+   "venue": "Food Drug Cosmetic Law Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Product Liability Litigation with Risk Aversion",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1988,
+   "venue": "Journal of Legal Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Altruistic and Private Valuations of Risk Reduction",
+   "authors": [
+    "Anne Forrest",
+    "Wesley A. Magat",
+    "W. Kip Viscusi"
+   ],
+   "year": 1988,
+   "venue": "Journal of Policy Analysis and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Investigation of the Rationality of Consumer Valuations of Multiple Health Risks",
+   "authors": [
+    "Joel Huber",
+    "Wesley A. Magat",
+    "W. Kip Viscusi"
+   ],
+   "year": 1987,
+   "venue": "RAND Journal of Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Regulatory Economics in the Courts: An Analysis of Judge Scalia's NHTSA Bumper Decision",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1987,
+   "venue": "Law and Contemporary Problems",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Workers' Compensation: Wage Effects, Benefit Inadequacies, and the Value of Health Losses",
+   "authors": [
+    "Michael J. Moore",
+    "W. Kip Viscusi"
+   ],
+   "year": 1987,
+   "venue": "Review of Economics and Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Impact of Occupational Safety and Health Regulation, 1973–1983",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1986,
+   "venue": "RAND Journal of Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Structure and Enforcement of Job Safety Regulation",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1986,
+   "venue": "Law and Contemporary Problems",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Informational Regulation of Consumer Health Risks: An Empirical Evaluation of Hazard Warnings",
+   "authors": [
+    "Joel Huber",
+    "Wesley A. Magat",
+    "W. Kip Viscusi"
+   ],
+   "year": 1986,
+   "venue": "RAND Journal of Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Risks and Rewards of Criminal Activity: A Comprehensive Test of Criminal Deterrence",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1986,
+   "venue": "Journal of Labor Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Determinants of the Disposition of Product Liability Claims and Compensation for Bodily Injury",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1986,
+   "venue": "Journal of Legal Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Status of OSHA Reform: A Comment on Mendeloff's Proposals",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1986,
+   "venue": "Journal of Policy Analysis and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Moral Hazard and Merit Rating over Time: An Analysis of Optimal Intertemporal Wage Structures",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1986,
+   "venue": "Southern Economic Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Consumer Behavior and the Safety Effects of Product Safety Regulation",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1985,
+   "venue": "Journal of Law and Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Are Individuals Bayesian Decision Makers",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1985,
+   "venue": "American Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Cotton Dust Regulation: An OSHA Success Story",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1985,
+   "venue": "Journal of Policy Analysis and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Environmental Policy Choice with an Uncertain Chance of Irreversibility",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1985,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Bayesian Perspective on Biases in Risk Perception",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1985,
+   "venue": "Economic Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Regulating Uncertain Health Hazards When There Is Changing Risk Information",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1984,
+   "venue": "Journal of Health Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Structuring an Effective Occupational Disease Policy: Victim Compensation and Risk Regulation",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1984,
+   "venue": "Yale Journal on Regulation",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Adaptive Responses to Chemical Labeling: Are Workers Bayesian Decision Makers",
+   "authors": [
+    "Charles J. O’Connor",
+    "W. Kip Viscusi"
+   ],
+   "year": 1984,
+   "venue": "American Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Lulling Effect: The Impact of Child-Resistant Packaging on Aspirin and Analgesic Ingestions",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1984,
+   "venue": "American Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic Contests: Comparative Reward Schemes",
+   "authors": [
+    "Mary O’Keefe",
+    "W. Kip Viscusi",
+    "Richard J. Zeckhauser"
+   ],
+   "year": 1984,
+   "venue": "Journal of Labor Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Alternative Approaches to Valuing the Health Impacts of Accidents: Liability Law and Prospective Evaluations",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1983,
+   "venue": "Law and Contemporary Problems",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Frameworks for Analyzing the Effects of Risk and Environmental Regulations on Productivity",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1983,
+   "venue": "American Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Employment Relationships with Joint Employer and Worker Experimentation",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1983,
+   "venue": "International Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Presidential Oversight: Controlling the Regulators",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1983,
+   "venue": "Journal of Policy Analysis and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Setting Efficient Standards for Occupational Hazards",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1982,
+   "venue": "Journal of Occupational Medicine",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Informational Requirements for Effective Regulatory Review: An Analysis of the EPA Lead Standard",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1982,
+   "venue": "Policy Studies Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Strategic Behavior and the Impact of Unions on Wage Incentive Plans",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1982,
+   "venue": "Journal of Labor Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Bernoulli Two-Armed Bandits with Geometric Termination",
+   "authors": [
+    "Donald A. Berry",
+    "W. Kip Viscusi"
+   ],
+   "year": 1981,
+   "venue": "Stochastic Processes and their Applications",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Imperfect Job Risk Information and Optimal Workmen's Compensation Benefits",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1980,
+   "venue": "Journal of Public Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Self-Selection, Learning-Induced Quits, and the Optimal Wage Structure",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1980,
+   "venue": "International Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Sex Differences in Worker Quitting",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1980,
+   "venue": "Review of Economics and Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Theory of Job Shopping: A Bayesian Perspective",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1980,
+   "venue": "Quarterly Journal of Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Unions, Labor Market Structure, and the Welfare Implications of the Quality of Work",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1980,
+   "venue": "Journal of Labor Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Insurance and Individual Incentives in Adaptive Contexts",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1979,
+   "venue": "Econometrica",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Optimal Standards with Incomplete Enforcement",
+   "authors": [
+    "W. Kip Viscusi",
+    "Richard J. Zeckhauser"
+   ],
+   "year": 1979,
+   "venue": "Public Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Impact of Occupational Safety and Health Regulation",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1979,
+   "venue": "Bell Journal of Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Job Hazards and Worker Quit Rates: An Analysis of Adaptive Worker Behavior",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1979,
+   "venue": "International Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Wealth Effects and Earnings Premiums for Job Hazards",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1978,
+   "venue": "Review of Economics and Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Labor Market Valuations of Life and Limb: Empirical Evidence and Policy Implications",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1978,
+   "venue": "Public Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Note on 'Lemons' Markets with Quality Certification",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1978,
+   "venue": "Bell Journal of Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Environmental Policy Choice under Uncertainty",
+   "authors": [
+    "W. Kip Viscusi",
+    "Richard Zeckhauser"
+   ],
+   "year": 1976,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Insuring the Expropriation Risks of Multinational Firms",
+   "authors": [
+    "R. Michael Allen",
+    "W. Kip Viscusi"
+   ],
+   "year": 1976,
+   "venue": "Stanford Journal of International Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Budgetary Constraints and Benefit-Cost Criteria",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 1972,
+   "venue": "Water Resources Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How Costly Is \"Clean\"? An Analysis of the Benefits and Costs of Superfund Site Remediations",
+   "authors": [
+    "James T. Hamilton",
+    "W. Kip Viscusi"
+   ],
+   "year": 1999,
+   "venue": "Journal of Policy Analysis and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Constitutional False Claims Act",
+   "authors": [
+    "Mackenzi Barrett",
+    "Benjamin McMichael",
+    "W. Kip Viscusi"
+   ],
+   "year": 2025,
+   "venue": "Washington University Law Review",
+   "status": "即将发表",
+   "url": "https://papers.ssrn.com/abstract=4780153",
+   "abstract": null
+  },
+  {
+   "title": "Viscusi Circular A-4 Peer Review Comments and Guidance for Future Revisions",
+   "authors": [
+    "W. Kip Viscusi"
+   ],
+   "year": 2025,
+   "venue": "Journal of Benefit-Cost Analysis",
+   "status": "即将发表",
+   "url": "https://papers.ssrn.com/abstract=4965213",
+   "abstract": null
+  },
+  {
+   "title": "Reconciling Regulatory Impact Analyses and Agencies' Statutory Mandates for Environmental Regulations under Loper Bright",
+   "authors": [
+    "Sydney Schoonover",
+    "W. Kip Viscusi"
+   ],
+   "year": 2025,
+   "venue": "Environmental Law",
+   "status": "即将发表",
+   "url": "https://papers.ssrn.com/abstract=4967663",
+   "abstract": null
+  },
+  {
+   "title": "Valuing Heat-Related Mortality Risks",
+   "authors": [
+    "Clayton J. Masterman",
+    "W. Kip Viscusi"
+   ],
+   "year": 2025,
+   "venue": "Working Paper (SSRN)",
+   "status": "工作论文",
+   "url": "https://papers.ssrn.com/abstract=4940505",
+   "abstract": null
+  },
+  {
+   "title": "The Military VSL",
+   "authors": [
+    "Thomas J. Kniesner",
+    "Ryan Sullivan",
+    "W. Kip Viscusi"
+   ],
+   "year": 2025,
+   "venue": "IZA Discussion Paper",
+   "status": "工作论文",
+   "url": "https://www.iza.org/publications/dp/17441/the-military-vsl",
+   "abstract": null
+  }
+ ]
+}

@@ -1,0 +1,598 @@
+{
+ "slug": "kailin-kroetz",
+ "name": "Kailin Kroetz",
+ "sources": [
+  "https://search.asu.edu/profile/3519130/cv"
+ ],
+ "collected": "2026-10-25",
+ "notes": "From ASU CV; peer-reviewed articles/chapters only (skipped practitioner pieces). Two 'Accepted' items (JEEM, REEP) given year 2026 (no year in CV). No working-paper section in CV. Beaudrot et al. author list truncated to 'et al.' as in CV.",
+ "papers": [
+  {
+   "title": "Impacts of natural resource traceability programs: evidence from the United States' Seafood Import Monitoring Program",
+   "authors": [
+    "K.L. Malakoff",
+    "K. Kroetz",
+    "B.E. Fissel"
+   ],
+   "year": 2026,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The economics of protected area design for biodiversity conservation: Incorporating people's threats",
+   "authors": [
+    "H.J. Albers",
+    "K. Kroetz"
+   ],
+   "year": 2026,
+   "venue": "Review of Environmental Economics and Policy",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The emerging need to manage scavenged wildlife resources",
+   "authors": [
+    "S.G. Maher",
+    "T. Kjorstad",
+    "K. Kroetz",
+    "V. Bustic",
+    "A. Middleton"
+   ],
+   "year": 2025,
+   "venue": "Biological Conservation",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The fate of imperiled species: Lessons from 50 years of the US Endangered Species Act",
+   "authors": [
+    "M.W. Schwartz",
+    "M.A. Williamson",
+    "J.J. Apodaca",
+    "A. Echeverri",
+    "L.M. Guzman",
+    "K. Kroetz"
+   ],
+   "year": 2025,
+   "venue": "Annual Review of Ecology, Evolution, and Systematics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Multilevel decision-making and protected area prioritization",
+   "authors": [
+    "P.R. Armsworth",
+    "B. Dilkina",
+    "H. Jackson",
+    "K. Kroetz",
+    "C. Sims"
+   ],
+   "year": 2025,
+   "venue": "Natural Resource Modeling",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Seafood traceability program design: Examination of the United States' Seafood Import Monitoring Program",
+   "authors": [
+    "A. Steinkruger",
+    "K. Kroetz",
+    "K.L. Malakoff",
+    "J.A. Gephart",
+    "G. Luque",
+    "P. Lee",
+    "K. Chicojay Moore",
+    "C.J. Donlan"
+   ],
+   "year": 2025,
+   "venue": "Ambio",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Anticipating anthropogenic threats in acquiring new protected areas",
+   "authors": [
+    "H.J. Albers",
+    "C. Chang",
+    "S. Dissanayake",
+    "K. Helmstedt",
+    "K. Kroetz",
+    "B. Dilkina",
+    "I.G. Zapata-Moran",
+    "L. Ochoa-Ochoa",
+    "G. Spencer"
+   ],
+   "year": 2024,
+   "venue": "Conservation Biology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Enrollment, retention, and inclusivity of Marine Stewardship Council (MSC) eco-labelling certifications",
+   "authors": [
+    "S.T. Jones",
+    "E.H. Allison",
+    "K. Kroetz",
+    "Y. Ota",
+    "S.L. Jardine"
+   ],
+   "year": 2023,
+   "venue": "Marine Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Where, when, what, and which? Using characteristics of migratory species to inform conservation policy questions",
+   "authors": [
+    "H.J. Albers",
+    "K. Kroetz",
+    "C. Sims",
+    "A.W. Ando",
+    "D. Finnoff",
+    "R.D. Horan",
+    "R. Liu",
+    "E. Nelson",
+    "J. Merkle"
+   ],
+   "year": 2023,
+   "venue": "Review of Environmental Economics and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Multi-level avoidance thresholds for residential and agricultural land use of elk across the Greater Yellowstone Ecosystem",
+   "authors": [
+    "L.C. Gigliotti",
+    "M.P. Atwood",
+    "E.K. Cole",
+    "A. Courtemanch",
+    "S. Dewey",
+    "J.A. Gude",
+    "M. Hurley",
+    "M. Kauffman",
+    "K. Kroetz",
+    "A. Lawson",
+    "B. Leonard",
+    "D. MacNulty",
+    "E. Maichak",
+    "D. McWhirter",
+    "T.W. Mong",
+    "K. Proffitt",
+    "B. Scurlock",
+    "D. Stahler",
+    "A.D. Middleton"
+   ],
+   "year": 2023,
+   "venue": "Journal of Applied Ecology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Assessing the ecosystem services and disservices provided by migratory wildlife across the Greater Yellowstone Ecosystem",
+   "authors": [
+    "S.M.L. Maher",
+    "K. Barker",
+    "K. Kroetz",
+    "V. Butsic",
+    "B. Leonard",
+    "A.D. Middleton"
+   ],
+   "year": 2023,
+   "venue": "Biological Conservation",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Partnerships between organizations that manage protected land in California are associated with groups with environmentally oriented missions",
+   "authors": [
+    "E.U. Harding",
+    "K. Kroetz",
+    "H.L. Breetz",
+    "K. Malakoff",
+    "A.L. Thompson",
+    "H.B. Jackson",
+    "P.R. Armsworth",
+    "G.D. Iacona"
+   ],
+   "year": 2023,
+   "venue": "Conservation Science and Practice",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Guiding large-scale management of invasive species using network metrics",
+   "authors": [
+    "J. Ashander",
+    "K. Kroetz",
+    "R. Epanchin-Niell",
+    "N.B.D. Phelps",
+    "R.G. Haight",
+    "L.E. Dee"
+   ],
+   "year": 2022,
+   "venue": "Nature Sustainability",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The future of wild-caught fisheries: expanding the scope of management",
+   "authors": [
+    "K. Kroetz",
+    "L. Nostbakken",
+    "M. Quaas"
+   ],
+   "year": 2022,
+   "venue": "Review of Environmental Economics and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Wildlife migrations highlight importance of both private lands and protected areas in the Greater Yellowstone Ecosystem",
+   "authors": [
+    "L.C. Gigliotti",
+    "W. Xu",
+    "G. Zuckerman",
+    "M.P. Atwood",
+    "E.K. Cole",
+    "A. Courtemanch",
+    "S. Dewey",
+    "J.A. Gude",
+    "P. Hnilicka",
+    "M. Hurley",
+    "M. Kauffman",
+    "K. Kroetz",
+    "A. Lawson",
+    "B. Leonard",
+    "D. MacNulty",
+    "E. Maichak",
+    "D. McWhirter",
+    "T.W. Mong",
+    "K. Proffitt",
+    "B. Scurlock",
+    "D. Stahler",
+    "A.D. Middleton"
+   ],
+   "year": 2022,
+   "venue": "Biological Conservation",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Impact Of Recreational Use And Access On Biotic And Abiotic Disturbances On Areas Protected By Local Communities And A State Conservation Agency",
+   "authors": [
+    "C. Stachowiak",
+    "B.J. Crain",
+    "K. Kroetz",
+    "J.N. Sanchirico",
+    "P.R. Armsworth"
+   ],
+   "year": 2022,
+   "venue": "Journal for Nature Conservation",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Conceptualizing ecosystem services as social-ecological networks",
+   "authors": [
+    "M.R. Felipe-Lucia",
+    "A.M. Guerrero",
+    "S. Alexander",
+    "J. Ashander",
+    "J.A. Baggio",
+    "M. Barnes",
+    "O. Bodin",
+    "A. Bonn",
+    "M. Fortin",
+    "R.S. Friedman",
+    "J. Gephart",
+    "K.J. Helmstedt",
+    "A. Keyes",
+    "K. Kroetz",
+    "F. Massol",
+    "M.J.O. Pocock",
+    "J. Sayles",
+    "R. Thompson",
+    "S.A. Wood",
+    "L.E. Dee"
+   ],
+   "year": 2021,
+   "venue": "Trends in Ecology & Evolution",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Are simultaneously-decided referenda substitutable? Evidence from municipal land use ballot measures",
+   "authors": [
+    "M. Gammans",
+    "J.N. Sanchirico",
+    "K. Kroetz",
+    "P.R. Armsworth",
+    "E. Swiedler"
+   ],
+   "year": 2021,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Protected Area, Easement, and Rental Contract Data Reveal Five Communities of Land Protection in the United States",
+   "authors": [
+    "H. Jackson",
+    "K. Kroetz",
+    "J.N. Sanchirico",
+    "A. Thompson",
+    "P. Armsworth"
+   ],
+   "year": 2021,
+   "venue": "Ecological Applications",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Citizens of Local Jurisdictions Enhance Plant Community Preservation through Ballot Initiatives and Voter-Driven Conservation Efforts",
+   "authors": [
+    "B.J. Crain",
+    "C.M. Stachowiak",
+    "P.F. McKenzie",
+    "J.N. Sanchirico",
+    "K. Kroetz",
+    "P.R. Armsworth"
+   ],
+   "year": 2021,
+   "venue": "Ambio",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Protected areas established by local communities through direct democracy encompass habitat for species as effectively as protected areas planned over large spatial scales",
+   "authors": [
+    "C.M. Stachowiak",
+    "B. Crain",
+    "K. Kroetz",
+    "J.N. Sanchirico",
+    "P.R. Armsworth"
+   ],
+   "year": 2021,
+   "venue": "Environmental Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Consequences of Seafood Mislabeling for Fish Populations and Fisheries Management",
+   "authors": [
+    "K. Kroetz",
+    "G.M. Luque",
+    "J.A. Gephart",
+    "S.L. Jardine",
+    "P. Lee",
+    "K. Chicojay",
+    "A. Steinkruger",
+    "C.J. Donlan"
+   ],
+   "year": 2020,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Economics of the Joint Management of Water Resources and Aquatic Species in the United States",
+   "authors": [
+    "K. Kroetz",
+    "Yusuke Kuwayama",
+    "Caroline Vexler"
+   ],
+   "year": 2020,
+   "venue": "Review of Environmental Economics and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Species Protection on Areas Conserved through Community-Driven Direct Democracy as Compared with a Large Private Land Trust - A Case Study of California",
+   "authors": [
+    "B. Crain",
+    "J.N. Sanchirico",
+    "K. Kroetz",
+    "A. Benefield",
+    "P.R. Armsworth"
+   ],
+   "year": 2020,
+   "venue": "Environmental Conservation",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Systematically Incorporating Environmental Objectives into Shale Gas Pipeline Development: A Binary Integer, Multi-Objective Spatial Optimization Model",
+   "authors": [
+    "K. Kroetz",
+    "J. Shih",
+    "J. Siikamaki",
+    "V. Marianov",
+    "A. Krupnick",
+    "Z. Chu"
+   ],
+   "year": 2019,
+   "venue": "Environmental Science & Technology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Defining the Economic Scope for Ecosystem-Based Fishery Management",
+   "authors": [
+    "K. Kroetz",
+    "M.N. Reimer",
+    "J.N. Sanchirico",
+    "D.K. Lew",
+    "J. Huetteman"
+   ],
+   "year": 2019,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Examination of the Peruvian Anchovy Individual Vessel Quota (IVQ) System",
+   "authors": [
+    "K. Kroetz",
+    "J.N. Sanchirico",
+    "E. Galarza",
+    "D. Corderi Novoa",
+    "M. Collado Duran",
+    "E. Swiedler"
+   ],
+   "year": 2019,
+   "venue": "Marine Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Recreational Leasing of Alaska Commercial Halibut Quota: The First Two Years of the Guided Angler Fish Provision",
+   "authors": [
+    "K. Kroetz",
+    "J.N. Sanchirico",
+    "D.K. Lew",
+    "P. Donovan"
+   ],
+   "year": 2019,
+   "venue": "Coastal Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Identifying the Potential for Cross-Fishery Spillovers: A Network Analysis of Alaskan Permitting Patterns",
+   "authors": [
+    "E.T. Addicott",
+    "K. Kroetz",
+    "M.N. Reimer",
+    "J.N. Sanchirico",
+    "D.K. Lew",
+    "J. Huetteman"
+   ],
+   "year": 2018,
+   "venue": "Canadian Journal of Fisheries and Aquatic Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic Impacts of the Chilean Jack Mackerel ITQ System",
+   "authors": [
+    "K. Kroetz",
+    "J.N. Sanchirico",
+    "J. Pena-Torres",
+    "D. Corderi Novoa"
+   ],
+   "year": 2016,
+   "venue": "Marine Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Limited Carbon and Biodiversity Co-Benefits for Tropical Forest Mammals and Birds",
+   "authors": [
+    "L. Beaudrot",
+    "et al."
+   ],
+   "year": 2016,
+   "venue": "Ecological Applications",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Efficiency Costs of Social Objectives in Tradable Permit Programs",
+   "authors": [
+    "K. Kroetz",
+    "J.N. Sanchirico",
+    "D.K. Lew"
+   ],
+   "year": 2015,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Bioeconomics of Spatial-Dynamic Systems in Natural Resource Management",
+   "authors": [
+    "K. Kroetz",
+    "J.N. Sanchirico"
+   ],
+   "year": 2015,
+   "venue": "Annual Review of Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Benefits of the Ballot Box for Species Conservation",
+   "authors": [
+    "K. Kroetz",
+    "J.N. Sanchirico",
+    "P.R. Armsworth",
+    "H.S. Banzhaf"
+   ],
+   "year": 2014,
+   "venue": "Ecology Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economics and Ecology of Open-Access Fisheries",
+   "authors": [
+    "K. Fuller",
+    "D. Kling",
+    "K. Kroetz",
+    "N. Ross",
+    "J.N. Sanchirico"
+   ],
+   "year": 2013,
+   "venue": "Encyclopedia of Energy, Natural Resource, and Environmental Economics (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Comparing Costs and Emissions of Northern New England Space Heating Fuel Options",
+   "authors": [
+    "K.M. Kroetz",
+    "A.J. Friedland"
+   ],
+   "year": 2008,
+   "venue": "Biomass and Bioenergy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

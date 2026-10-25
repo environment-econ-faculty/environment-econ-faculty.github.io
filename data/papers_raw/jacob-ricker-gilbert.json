@@ -1,0 +1,875 @@
+{
+ "slug": "jacob-ricker-gilbert",
+ "name": "Jacob Ricker-Gilbert",
+ "sources": [
+  "https://drive.google.com/file/d/1XJY5ykMWe6WlhJAsStTnz7CQJw9oEhFB/view (CV dated 1 Aug 2026)"
+ ],
+ "collected": "2026-10-25",
+ "notes": "CV bylines used; authors given with initials as in CV. Under-review items dated 2026 per CV. Skipped policy briefs/other publications. Note CV lists same 2013 Agricultural Economics fertilizer-subsidy synthesis and a 2015 'Rejoinder' with the same author list (kept as two entries).",
+ "papers": [
+  {
+   "title": "What's Hers isn't Mine? Gender-Differentiated Tenure Security, Agricultural Investments and Productivity in Malawi",
+   "authors": [
+    "M.L. Mwale",
+    "J. Ricker-Gilbert"
+   ],
+   "year": 2026,
+   "venue": "Economic Development and Cultural Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Kenyan Farmers' Policy Priorities During Economic Crisis and Stability: Insights from a Best-Worst Scaling Experiment",
+   "authors": [
+    "M.K. Maredia",
+    "J. Olwande",
+    "J. Ricker-Gilbert",
+    "D. Mather",
+    "N.M. Mason"
+   ],
+   "year": 2026,
+   "venue": "Applied Economic Perspectives and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Stocks and Shocks: Assessing the Relative Roles of Public and Private Inventories in Buffering Rice Price Volatility in the Philippines",
+   "authors": [
+    "B. Dalheimer",
+    "K. Foster",
+    "G. Shively",
+    "V.O. Pede",
+    "D.D.D. Fiankor",
+    "J. Ricker-Gilbert",
+    "P. Bist"
+   ],
+   "year": 2026,
+   "venue": "Food Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do Estate Farms Affect Smallholder Household Labor Decisions in sub-Saharan Africa: A Case Study of Malawi",
+   "authors": [
+    "E. Edobor",
+    "J. Ricker-Gilbert"
+   ],
+   "year": 2026,
+   "venue": "Agrekon",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Estimating the Direct and Indirect Effects of Improved Seed Adoption on Yields: Evidence from DNA-Fingerprinting, Crop cuts, and Self-Reporting in Ethiopia",
+   "authors": [
+    "N. Jovanovic",
+    "J. Ricker-Gilbert"
+   ],
+   "year": 2025,
+   "venue": "Journal of Development Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Social networks and the demand for credence agricultural technologies",
+   "authors": [
+    "Y. Arias-Granada",
+    "J. Bauchet",
+    "J. Ricker-Gilbert",
+    "K. Gulati"
+   ],
+   "year": 2025,
+   "venue": "Food Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Signaling Quality in Informal Markets. Evidence from an Experimental Auction in the Sahel",
+   "authors": [
+    "J. Ricker-Gilbert",
+    "B. Moussa",
+    "T. Abdoulaye"
+   ],
+   "year": 2025,
+   "venue": "Food Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Estimating the Effectiveness of Public versus Private Distribution Systems: Insights from a Fertilizer Policy Reform in Malawi",
+   "authors": [
+    "Y. Arias-Granada",
+    "J. Ricker-Gilbert"
+   ],
+   "year": 2025,
+   "venue": "Journal of Development Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Increasing Agricultural Productivity in Sub-Saharan Africa During Times of Volatile Prices and a Changing Climate",
+   "authors": [
+    "J. Ricker-Gilbert"
+   ],
+   "year": 2024,
+   "venue": "Agrekon",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Incentive mechanisms to exploit intra-seasonal price arbitrage opportunities for smallholder farmers: Experimental evidence from Malawi",
+   "authors": [
+    "T. Nindi",
+    "J. Ricker-Gilbert",
+    "J. Bauchet"
+   ],
+   "year": 2024,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Policy collision: a framework to identify where polycentric, multi-objective sustainability solutions are needed",
+   "authors": [
+    "D.R. Johnson",
+    "S. Polasky",
+    "J. Ricker-Gilbert"
+   ],
+   "year": 2023,
+   "venue": "Environmental Research Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Information and the trade-off between food safety and food security in rural markets: Experimental evidence from Malawi",
+   "authors": [
+    "T. Nindi",
+    "J. Bauchet",
+    "J. Ricker-Gilbert"
+   ],
+   "year": 2023,
+   "venue": "Journal of Economic Behavior and Organization",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Technical Performance and Economic Efficiency of Small-Scale Maize Dryers in Kenya",
+   "authors": [
+    "H. De Groote",
+    "P.O. Akoko",
+    "R. Stroshine",
+    "E. Gathungu",
+    "J. Ricker-Gilbert"
+   ],
+   "year": 2023,
+   "venue": "Journal of Stored Products Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Overcoming Smallholder Farmers' Post-Harvest Constraints through Harvest Loans and Storage Technology: Insights from a Randomized Controlled Trial in Tanzania",
+   "authors": [
+    "H. Channa",
+    "J. Ricker-Gilbert",
+    "S. Feleke",
+    "T. Abdoulaye"
+   ],
+   "year": 2022,
+   "venue": "Journal of Development Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Farm production diversity and child nutrition in rural Africa",
+   "authors": [
+    "M. Khonje",
+    "J. Ricker-Gilbert",
+    "M. Muyanga",
+    "M. Qiam"
+   ],
+   "year": 2022,
+   "venue": "Lancet Planetary Health",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Exploring adoption effects of subsidies and soil fertility management in Malawi",
+   "authors": [
+    "M. Khonje",
+    "C. Nyondo",
+    "J. Ricker-Gilbert",
+    "J. Mangisoni",
+    "W.J. Burk",
+    "W. Chadza",
+    "M. Muyunga"
+   ],
+   "year": 2022,
+   "venue": "Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Does Subsidizing Legume Seeds Improve Farm Productivity and Nutrition in Malawi?",
+   "authors": [
+    "M. Khonje",
+    "C. Nyondo",
+    "J. Mangisoni",
+    "J. Ricker-Gilbert",
+    "W.J. Burk",
+    "C. Lemekezani"
+   ],
+   "year": 2022,
+   "venue": "Food Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Economics of Post-Harvest Loss and Loss-Preventing Technologies in Developing Countries",
+   "authors": [
+    "J. Ricker-Gilbert",
+    "O. Omotilewa",
+    "D. Kadjo"
+   ],
+   "year": 2022,
+   "venue": "Annual Review of Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Soil Quality and Soil Fertility Investments on Rented Versus Owned Plots: Evidence from a Matched Tenant-Landlord Sample in Malawi",
+   "authors": [
+    "J. Ricker-Gilbert",
+    "J. Chamberlin",
+    "J. Kanyamuka"
+   ],
+   "year": 2022,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Incomplete information and product quality in rural markets: Evidence from an experimental auction for maize in Senegal",
+   "authors": [
+    "S. Prieto",
+    "J. Ricker-Gilbert",
+    "J. Bauchet",
+    "M. Sall"
+   ],
+   "year": 2021,
+   "venue": "Economic Development and Cultural Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Rising land commodification in sub-Saharan Africa: Reconciling the diverse narratives",
+   "authors": [
+    "T.S. Jayne",
+    "J. Chamberlin",
+    "S. Holden",
+    "H. Ghebru",
+    "J. Ricker-Gilbert",
+    "F. Place"
+   ],
+   "year": 2021,
+   "venue": "Global Food Security",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Absentee Tenants and Farmland Transfers in sub-Saharan Africa: Evidence from Malawi",
+   "authors": [
+    "J. Ricker-Gilbert",
+    "T.S. Jayne",
+    "J. Chamberlin"
+   ],
+   "year": 2021,
+   "venue": "Development in Practice",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Improved drying and storage practices that reduce aflatoxins in stored maize: Experimental evidence from smallholders in Senegal",
+   "authors": [
+    "J. Bauchet",
+    "S. Prieto",
+    "J. Ricker-Gilbert"
+   ],
+   "year": 2021,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Willingness to pay for a new farm technology given risk preferences: Evidence from an experimental auction in Kenya",
+   "authors": [
+    "H. Channa",
+    "J. Ricker-Gilbert",
+    "H. De Groote",
+    "J. Bauchet"
+   ],
+   "year": 2021,
+   "venue": "Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Foodborne diseases and food safety in sub-Saharan Africa: Current situation of three representative countries and policy recommendations for the region",
+   "authors": [
+    "Y. Arias-Granada",
+    "Z. Neuhofer",
+    "J. Bauchet",
+    "P. Ebner",
+    "J. Ricker-Gilbert"
+   ],
+   "year": 2021,
+   "venue": "African Journal of Agricultural and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "After the Project is Over: Measuring Longer-Term Impacts of a Food Safety Intervention in Senegal",
+   "authors": [
+    "L. Leavens",
+    "J. Bauchet",
+    "J. Ricker-Gilbert"
+   ],
+   "year": 2021,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Estimating Demand for Third-party Quality Testing in Rural Grain Markets: Evidence from an Experimental Auction for Measuring Moisture Content in Kenya",
+   "authors": [
+    "A. Fuller",
+    "J. Ricker-Gilbert"
+   ],
+   "year": 2021,
+   "venue": "Journal of African Economies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economics of Open-air Maize Drying in East Africa",
+   "authors": [
+    "H. De Groote",
+    "P.G. Githinji",
+    "B.G. Munya",
+    "J. Ricker-Gilbert"
+   ],
+   "year": 2021,
+   "venue": "Journal of Agriculture and Food Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Food Safety and Adverse Selection in Rural Maize Markets",
+   "authors": [
+    "D. Kadjo",
+    "J. Ricker-Gilbert",
+    "J. Shively",
+    "T. Abdoulaye"
+   ],
+   "year": 2020,
+   "venue": "Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Behavioral Explanation of Crop Choice: Growing and Eating Sorghum and Maize in Zimbabwe",
+   "authors": [
+    "A. Josephson",
+    "J. Ricker-Gilbert"
+   ],
+   "year": 2020,
+   "venue": "African Journal of Agriculture and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How do Informal Farmland Rental Markets Affect Smallholders' Well-being? Evidence from a Matched Tenant-Landlord Survey in Malawi",
+   "authors": [
+    "J. Ricker-Gilbert",
+    "J. Chamberlin",
+    "J. Kanyamuka",
+    "C.B. Jumbe",
+    "R. Lunduka",
+    "S. Kaiyatsa"
+   ],
+   "year": 2019,
+   "venue": "Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "What drives smallholder farmers' willingness to pay for a new farm storage technology? Evidence from an Experimental Auction in Kenya",
+   "authors": [
+    "H. Channa",
+    "A. Chen",
+    "P. Pineda",
+    "J. Ricker-Gilbert",
+    "D. Stein"
+   ],
+   "year": 2019,
+   "venue": "Food Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Subsidies for agricultural technology adoption: Evidence from a randomized experiment in Uganda",
+   "authors": [
+    "O. Omotilewa",
+    "J. Ricker-Gilbert",
+    "J.H. Ainembambazi"
+   ],
+   "year": 2019,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Supply-Side Crowding-out and Crowding-in effects of private sector participation in Farm Input Subsidies: A quasi-experimental field study for Malawi",
+   "authors": [
+    "S. Kaiyatsa",
+    "J. Ricker-Gilbert",
+    "C. Jumbe"
+   ],
+   "year": 2019,
+   "venue": "Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Transactions Costs in Land Rental Markets and Their Impact on Youth Access to Agriculture in Tanzania",
+   "authors": [
+    "J. Ricker-Gilbert",
+    "J. Chamberlin"
+   ],
+   "year": 2018,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Does improved storage technology promote modern input use and food security? Evidence from a randomized trial in Uganda",
+   "authors": [
+    "O. Omotilewa",
+    "J. Ricker-Gilbert",
+    "J.H. Ainembambazi",
+    "G. Shively"
+   ],
+   "year": 2018,
+   "venue": "Journal of Development Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Storage Decisions in Smallholder Rural Households Under Liquidity and Technology Constraints",
+   "authors": [
+    "D. Kadjo",
+    "J. Ricker-Gilbert",
+    "T. Abdoulaye",
+    "G. Shively",
+    "N. Baco"
+   ],
+   "year": 2018,
+   "venue": "Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Micro-level Welfare Impacts of Agricultural Productivity: Evidence from Rural Malawi",
+   "authors": [
+    "F.A. Darko",
+    "A. Palacios-Lopez",
+    "T. Kilic",
+    "J. Ricker-Gilbert"
+   ],
+   "year": 2018,
+   "venue": "Journal of Development Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How Do African Farm Households Respond to Changes in Past and Current Weather Patterns? A Structural Panel Data Analysis from Malawi",
+   "authors": [
+    "J.P. Sesmero",
+    "J. Ricker-Gilbert",
+    "A. Cook"
+   ],
+   "year": 2018,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Estimating the Enduring Effects of Fertilizer Subsidies on Commercial Fertilizer Demand and Maize Production: Panel Data Evidence from Malawi",
+   "authors": [
+    "J. Ricker-Gilbert",
+    "T.S. Jayne"
+   ],
+   "year": 2017,
+   "venue": "Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Productivity and Welfare Effects of Nigeria's e-Voucher Based Input Subsidy Program",
+   "authors": [
+    "T. Wossen",
+    "T. Abdoulaye",
+    "A. Arega",
+    "F. Shiferaw",
+    "J. Ricker-Gilbert",
+    "V. Manyong",
+    "B.A. Awotide"
+   ],
+   "year": 2017,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Effects of Attribute Non-Attendance, Simple Validation Questions, and Their Interactions on Willingness to Pay Estimates for Meat Choice Experiments",
+   "authors": [
+    "E. Byrd",
+    "N.J.O Widmar",
+    "J. Ricker-Gilbert"
+   ],
+   "year": 2017,
+   "venue": "Cogent Food & Agriculture",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Participation in Rural Land Rental Markets in sub-Saharan Africa: Who benefits and by how much? Evidence from Malawi and Zambia",
+   "authors": [
+    "J. Chamberlin",
+    "J. Ricker-Gilbert"
+   ],
+   "year": 2016,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Estimating Price Discounts for Low-Quality Maize in sub-Saharan Africa: Evidence from Benin",
+   "authors": [
+    "D. Kadjo",
+    "J. Ricker-Gilbert",
+    "C. Alexander"
+   ],
+   "year": 2016,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do Insect and Mold Damage Affect Maize Prices in Africa? Evidence from Malawi",
+   "authors": [
+    "M. Jones",
+    "C. Alexander",
+    "N.J.O. Widmar",
+    "J. Ricker-Gilbert",
+    "J. Lowenberg-DeBoer"
+   ],
+   "year": 2016,
+   "venue": "Modern Economy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Nutrient management in African sorghum cropping systems: applying meta-analysis to assess yield and profitability",
+   "authors": [
+    "C. Tonitto",
+    "J. Ricker-Gilbert"
+   ],
+   "year": 2016,
+   "venue": "Agronomy for Sustainable Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Does Storage Technology Affect Adoption of Improved Maize Varieties in Africa? Insights from Malawi's Input Subsidy Program",
+   "authors": [
+    "J. Ricker-Gilbert",
+    "M. Jones"
+   ],
+   "year": 2015,
+   "venue": "Food Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Rejoinder to: How do Fertilizer Subsidy Programs Affect Total Fertilizer Use? A Synthesis of the Evidence on \"Crowding in/out\" in sub-Saharan Africa",
+   "authors": [
+    "T.S. Jayne",
+    "D. Mather",
+    "N. Mason",
+    "J. Ricker-Gilbert"
+   ],
+   "year": 2015,
+   "venue": "Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Impact of Improved Maize Adoption on Welfare of Farm Households in Malawi: A Panel Data Analysis",
+   "authors": [
+    "S. Bezu",
+    "G. Tesfahun",
+    "B. Shiferaw",
+    "J. Ricker-Gilbert"
+   ],
+   "year": 2014,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Impact of Increasing Population Density on African Agriculture and Livelihoods: The Case of Malawi",
+   "authors": [
+    "J. Ricker-Gilbert",
+    "C. Jumbe",
+    "J. Chamberlain"
+   ],
+   "year": 2014,
+   "venue": "Food Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How Does Population Density Affect Agricultural Productivity? Evidence from Ethiopia",
+   "authors": [
+    "A.L. Josephson",
+    "J. Ricker-Gilbert",
+    "R. Florax"
+   ],
+   "year": 2014,
+   "venue": "Food Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Wage and Employment Effects of Malawi's Fertilizer Subsidy Program",
+   "authors": [
+    "J. Ricker-Gilbert"
+   ],
+   "year": 2014,
+   "venue": "Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "What are the Effects of Input subsidy Programs on Maize Prices? Evidence from Malawi and Zambia",
+   "authors": [
+    "J. Ricker-Gilbert",
+    "N. Mason",
+    "F. Darko",
+    "S. Tembo"
+   ],
+   "year": 2013,
+   "venue": "Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How do Fertilizer Subsidy Programs Affect Total Fertilizer Use? A Synthesis of the Evidence on \"Crowding in/out\" in sub-Saharan Africa",
+   "authors": [
+    "T.S. Jayne",
+    "D. Mather",
+    "N. Mason",
+    "J. Ricker-Gilbert"
+   ],
+   "year": 2013,
+   "venue": "Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Consistent and Contrasting Results of Research Examining the Economic Impacts of Malawi's Fertilizer Subsidy Program",
+   "authors": [
+    "R. Lunduka",
+    "J. Ricker-Gilbert",
+    "M. Fisher"
+   ],
+   "year": 2013,
+   "venue": "Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Addressing the `Wicked Problem' of Input Subsidy Programs in Africa: A Review",
+   "authors": [
+    "J. Ricker-Gilbert",
+    "T.S. Jayne",
+    "G. Shively"
+   ],
+   "year": 2013,
+   "venue": "Applied Economic Perspectives and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Disrupting Demand for Commercial Seed: Input Subsidies in Malawi and Zambia",
+   "authors": [
+    "N.M. Mason",
+    "J. Ricker-Gilbert"
+   ],
+   "year": 2013,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Subsidies and Crowding Out: A Double-Hurdle Model of Fertilizer Demand in Malawi",
+   "authors": [
+    "J. Ricker-Gilbert",
+    "T.S. Jayne",
+    "E. Chirwa"
+   ],
+   "year": 2011,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Cost Effectiveness of Alternative IPM Extension Methods: An Example from Bangladesh",
+   "authors": [
+    "J. Ricker-Gilbert",
+    "G. Norton",
+    "J. Alwang",
+    "M. Miah",
+    "G. Feder"
+   ],
+   "year": 2008,
+   "venue": "Applied Economic Perspectives and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Increasing the Adoption of Credence Technologies: Experimental Evidence from Kenya",
+   "authors": [
+    "N. Jovanovic",
+    "J. Ricker-Gilbert",
+    "J. Bauchet"
+   ],
+   "year": 2026,
+   "venue": "Journal of Development Economics (R&R)",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Assessing the Effects of the 2021/22 Fertilizer Price Spike on Agricultural Input Markets in Sub-Saharan Africa",
+   "authors": [
+    "J. Ricker-Gilbert",
+    "W.J. Burke",
+    "J. Goeb",
+    "O. Akano",
+    "I. Ogunbayo"
+   ],
+   "year": 2026,
+   "venue": "Agriculture and Food Security (R&R)",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Does nutrition matter for low-income consumers? Demand for biofortified sweetpotato bread in Nigeria",
+   "authors": [
+    "B. Adesina",
+    "J. Bauchet",
+    "J. Ricker-Gilbert"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do Rural African Youth Benefit from Short-term Training and Employment Opportunities? Evidence from a Randomized Trial in Kenya",
+   "authors": [
+    "W. Pracht",
+    "J. Ricker-Gilbert"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Riding the Wave or Drowning in the Sea? A review of Generative Artificial Intelligence in Applied Economics Research and Directions for the Future",
+   "authors": [
+    "A. Josephson",
+    "J. Ricker-Gilbert"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

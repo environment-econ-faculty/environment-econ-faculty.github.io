@@ -1,0 +1,188 @@
+{
+ "slug": "doyoung-park",
+ "name": "Doyoung Park",
+ "sources": [
+  "https://doyoungpark.info/DoyoungVitae.pdf (CV Oct 2026)",
+  "https://doyoungpark.info/"
+ ],
+ "collected": "2026-10-25",
+ "notes": "CV dated Oct 2026 (CV titles used; homepage titles differ slightly for two papers). Working paper years = CV date 2026. Skipped Wildlife Crossings and Accidents (homepage work in progress only). Authors: scholar first, then coauthors in CV order.",
+ "papers": [
+  {
+   "title": "The Economics of Space Development",
+   "authors": [
+    "Doyoung Park",
+    "Akhil Rao"
+   ],
+   "year": 2025,
+   "venue": "The Oxford Handbook of the New Space Economy (book chapter)",
+   "status": "已发表",
+   "url": "https://global.oup.com/academic/product/the-oxford-handbook-of-the-new-space-economy-9780198881049?cc=us&lang=en",
+   "abstract": null
+  },
+  {
+   "title": "Do Competitive Markets Cleanup the US Electricity Sector?: Evidence from the Southwest Power Pool",
+   "authors": [
+    "Doyoung Park",
+    "Daniel Kaffine"
+   ],
+   "year": 2025,
+   "venue": "The Energy Journal",
+   "status": "已发表",
+   "url": "https://doi.org/10.1177/01956574241305584",
+   "abstract": null
+  },
+  {
+   "title": "Thirsty for Trade: How Globalization Shapes Virtual Water Trade",
+   "authors": [
+    "Doyoung Park",
+    "William Ridley"
+   ],
+   "year": 2025,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1007/s10640-024-00928-0",
+   "abstract": null
+  },
+  {
+   "title": "How Do Exchange Rates Affect the Environment?",
+   "authors": [
+    "Doyoung Park",
+    "William Ridley"
+   ],
+   "year": 2025,
+   "venue": "Canadian Journal of Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/caje.12748",
+   "abstract": null
+  },
+  {
+   "title": "Regional Environmental Quality and International Trade: The Role of Production Networks",
+   "authors": [
+    "Doyoung Park",
+    "Jacob Howard",
+    "William Ridley"
+   ],
+   "year": 2024,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "https://doi.org/10.1086/729124",
+   "abstract": null
+  },
+  {
+   "title": "Harmonizing Welfare and Externalities: Unraveling the Product Versus Process Standards Puzzle in Regulatory Policy",
+   "authors": [
+    "Doyoung Park",
+    "Difei Geng"
+   ],
+   "year": 2023,
+   "venue": "Economics Bulletin",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Can the Federal Reserve Save the Environment?",
+   "authors": [
+    "Doyoung Park",
+    "Kyoung-Gon Kim"
+   ],
+   "year": 2023,
+   "venue": "Journal of Cleaner Production",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jclepro.2023.138730",
+   "abstract": null
+  },
+  {
+   "title": "Currencies, Value Chains, and Air Pollution: How Value Chain Position and Exchange Rates Shape Industrial Emissions",
+   "authors": [
+    "Doyoung Park",
+    "William Ridley"
+   ],
+   "year": 2026,
+   "venue": "Review of World Economics",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "When Regulation Travels: Supply Chain Disruptions and Environmental Spillovers under the Clean Air Act",
+   "authors": [
+    "Doyoung Park",
+    "Scott Holladay",
+    "Jay Hyun",
+    "Gueyon Kim"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5635190",
+   "abstract": null
+  },
+  {
+   "title": "Trade Policy and the Emissions Content of Agricultural Trade",
+   "authors": [
+    "Doyoung Park",
+    "Keliang Xiao",
+    "William Ridley"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do Foreign Tariffs Reshape Domestic Land Use?",
+   "authors": [
+    "Doyoung Park",
+    "Mani Rouhi Rad",
+    "Yue Zhang"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7472138",
+   "abstract": null
+  },
+  {
+   "title": "Do Energy Audit Mandates Change Buildings? Evidence from New York City",
+   "authors": [
+    "Doyoung Park",
+    "Taeseon Eo",
+    "Eric Lewis"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7656238",
+   "abstract": null
+  },
+  {
+   "title": "Wildfire Smoke Fuels Pollution Emissions in the U.S. Electricity Sector",
+   "authors": [
+    "Doyoung Park",
+    "Daniel Kaffine",
+    "Yue Zhang"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "US Power Grid and Trade",
+   "authors": [
+    "Doyoung Park",
+    "Daniel Kaffine",
+    "Sergey Nigai"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

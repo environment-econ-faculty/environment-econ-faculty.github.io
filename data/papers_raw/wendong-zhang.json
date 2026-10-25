@@ -1,0 +1,1103 @@
+{
+ "slug": "wendong-zhang",
+ "name": "Wendong Zhang",
+ "sources": [
+  "https://apps.business.cornell.edu/faculty-research/faculty/vita/wz384",
+  "https://wendongzhang.weebly.com/"
+ ],
+ "collected": "2026-10-25",
+ "notes": "Main source: Cornell CV PDF dated June 30, 2026. Included peer-reviewed economic, extension/engagement and interdisciplinary articles, 2 book chapters, and the CV's Working Papers section (R&R / under review). Skipped Choices Magazine pieces, Nature Food News & Views, non-peer-reviewed reports/bulletins, work in progress. Co-author names appear as initials as written in the CV; only Wendong Zhang is expanded. Where the byline has two 'W. Zhang' (JASFMRA 2018; PFAS working paper) I assumed the scholar is first/last respectively - ambiguity. Land Economics Wan et al. year set to 2025 (online 2025, CV lists under 2024). Book chapter years: Irwin et al. has no year in CV (2021 assumed from book publication, not verified); Nickerson and Zhang 2014. Working-paper years are the CV's dates. Teaching Appraisals paper only from homepage (SSRN 2026). Homepage-only items without bylines (dairy digester JDS Comm paper, AEEE, etc.) mostly skipped when not in CV. R&R status for papers with 'Revisions Requested'.",
+ "papers": [
+  {
+   "title": "The Impact of Solar-Enabling Legislations on Farmland Values",
+   "authors": [
+    "Z. Li",
+    "A. Ortiz-Bobea",
+    "Wendong Zhang"
+   ],
+   "year": 2026,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.3368/le.102.2.022625-0013R",
+   "abstract": null
+  },
+  {
+   "title": "Impact of Water Quality Regulation on the Agricultural Economy in China",
+   "authors": [
+    "D. Li",
+    "Z. Li",
+    "S. Shao",
+    "C. Yu",
+    "Wendong Zhang"
+   ],
+   "year": 2026,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jeem.2026.103380",
+   "abstract": null
+  },
+  {
+   "title": "Financial Incentives and Intrinsic Motives for Residents' Participation in Demand Response Programs",
+   "authors": [
+    "Y. Wang",
+    "G. Howard",
+    "Wendong Zhang",
+    "M. Brown",
+    "K. Cetin",
+    "J. McCalley"
+   ],
+   "year": 2026,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.enpol.2026.115201",
+   "abstract": null
+  },
+  {
+   "title": "Revealing Spatiotemporal Distribution of Aflatoxin B1-Related Health Burdens to Optimize Monitoring in Peanut Supply Chains",
+   "authors": [
+    "Z. Wang",
+    "X. Wang",
+    "Wendong Zhang",
+    "T. Xiong",
+    "L. Nie",
+    "X. Wang"
+   ],
+   "year": 2026,
+   "venue": "npj Science of Food",
+   "status": "已发表",
+   "url": "https://doi.org/10.1038/s41538-026-00868-7",
+   "abstract": null
+  },
+  {
+   "title": "Tracking the Hog and Pig Inventory in Real-Time Using Nowcasting",
+   "authors": [
+    "T. Xiong",
+    "Z. Ma",
+    "L. Schulz",
+    "X. He",
+    "D. Hayes",
+    "Wendong Zhang"
+   ],
+   "year": 2026,
+   "venue": "Food Policy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.foodpol.2026.103071",
+   "abstract": null
+  },
+  {
+   "title": "The Impacts of the 2025 Trade Wars on Global Agricultural Markets and US Agricultural Trade",
+   "authors": [
+    "J. Ai",
+    "M. Li",
+    "T. Zhang",
+    "Wendong Zhang"
+   ],
+   "year": 2025,
+   "venue": "International Food and Agribusiness Management Review",
+   "status": "已发表",
+   "url": "https://brill.com/view/journals/ifam/aop/article-10.22434-ifamr.1388/article-10.22434-ifamr.1388.xml",
+   "abstract": null
+  },
+  {
+   "title": "Broadband Internet Speed Upgrades and the Farmland Market: A Shift-Share Instrumental Variable Approach",
+   "authors": [
+    "X. Qu",
+    "Q. Lu",
+    "M. Li",
+    "Wendong Zhang"
+   ],
+   "year": 2025,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/ajae.12559",
+   "abstract": null
+  },
+  {
+   "title": "The Impact of China's Place-Based Environmental Regulations on Its Hog Industry: A Synthetic Difference-in-Differences Approach",
+   "authors": [
+    "N. Cheng",
+    "T. Xiong",
+    "Wendong Zhang"
+   ],
+   "year": 2025,
+   "venue": "Canadian Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/cjag.12386",
+   "abstract": null
+  },
+  {
+   "title": "Information Rigidities and Farmland Value Expectations",
+   "authors": [
+    "C. Fiechter",
+    "T. Kuethe",
+    "Wendong Zhang"
+   ],
+   "year": 2025,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.3368/le.101.2.102623-0111R1",
+   "abstract": null
+  },
+  {
+   "title": "Pipeline Incidents and Property Values: A Nationwide Hedonic Analysis",
+   "authors": [
+    "N. Cheng",
+    "C. Tang",
+    "P. Liu",
+    "M. Li",
+    "Wendong Zhang"
+   ],
+   "year": 2024,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jeem.2024.103041",
+   "abstract": null
+  },
+  {
+   "title": "Impact of Waterborne E. Coli Outbreaks on Local Communities: Evidence from Housing Transactions in Michigan",
+   "authors": [
+    "M. Graziano",
+    "K. Meyer",
+    "P. Liu",
+    "Wendong Zhang"
+   ],
+   "year": 2024,
+   "venue": "Agricultural and Resource Economics Review",
+   "status": "已发表",
+   "url": "https://doi.org/10.1017/age.2024.13",
+   "abstract": null
+  },
+  {
+   "title": "Evaluating the Tradeoff between Cost-Effectiveness and Participation in Agricultural Conservation Programs",
+   "authors": [
+    "G. Howard",
+    "Wendong Zhang",
+    "A. Valcu-Lisman",
+    "P. Gassman"
+   ],
+   "year": 2024,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/ajae.12397",
+   "abstract": null
+  },
+  {
+   "title": "How Do Firms Respond to Long-Term Political Tensions? Evidence from Chinese Food Importers",
+   "authors": [
+    "H. Li",
+    "X. Wan",
+    "Wendong Zhang"
+   ],
+   "year": 2024,
+   "venue": "The World Economy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/twec.13601",
+   "abstract": null
+  },
+  {
+   "title": "Designated Market Makers and Agricultural Futures Market Quality: Evidence from China's Dalian Commodity Exchange",
+   "authors": [
+    "M. Li",
+    "T. Xiong",
+    "Z. Li",
+    "Wendong Zhang"
+   ],
+   "year": 2024,
+   "venue": "Agricultural Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/agec.12854",
+   "abstract": null
+  },
+  {
+   "title": "Omitted Downstream Attributes and the Benefits of Nutrient Reductions: Implications for Choice Experiments",
+   "authors": [
+    "J. Shr",
+    "Wendong Zhang"
+   ],
+   "year": 2024,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.ecolecon.2024.108218",
+   "abstract": null
+  },
+  {
+   "title": "Enrollment Restrictions and Conservation Practice Adoptions by Midwestern Farmers: Survey Evidence from Iowa",
+   "authors": [
+    "X. Wan",
+    "G. Howard",
+    "Wendong Zhang"
+   ],
+   "year": 2025,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.3368/le.101.2.050924-0041R",
+   "abstract": null
+  },
+  {
+   "title": "The Roles of Risk Preferences, Selection, and Uncertain Returns on Land Contracts",
+   "authors": [
+    "J. Lee",
+    "G. Durbahn",
+    "P.F. Orazem",
+    "Wendong Zhang"
+   ],
+   "year": 2023,
+   "venue": "Agricultural Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/agec.12770",
+   "abstract": null
+  },
+  {
+   "title": "Of Women and Land: How Gender Affects Successions and Transfers of Iowa Farms",
+   "authors": [
+    "Q. Liu",
+    "B. Maule",
+    "Wendong Zhang"
+   ],
+   "year": 2023,
+   "venue": "Applied Economic Perspectives and Policy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1002/aepp.13363",
+   "abstract": null
+  },
+  {
+   "title": "Disamenity or Premium: Do Electricity Transmission Lines Affect Farmland Values and Housing Prices Differently?",
+   "authors": [
+    "Q. Lu",
+    "N. Cheng",
+    "Wendong Zhang",
+    "P. Liu"
+   ],
+   "year": 2023,
+   "venue": "Journal of Housing Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jhe.2023.101968",
+   "abstract": null
+  },
+  {
+   "title": "When China Strikes: Quantifying Australian Companies' Stock Price Responses to China's Trade Restrictions",
+   "authors": [
+    "T. Xiong",
+    "F. Zhao",
+    "Wendong Zhang"
+   ],
+   "year": 2023,
+   "venue": "Australian Journal of Agricultural and Resource Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/1467-8489.12532",
+   "abstract": null
+  },
+  {
+   "title": "A General Equilibrium Assessment of the Labor Productivity Impacts of COVID-19 on China's Regional Economies",
+   "authors": [
+    "X. He",
+    "E.J. Balistreri",
+    "G.H. Kim",
+    "Wendong Zhang"
+   ],
+   "year": 2022,
+   "venue": "Journal of Productivity Analysis",
+   "status": "已发表",
+   "url": "https://doi.org/10.1007/s11123-022-00642-3",
+   "abstract": null
+  },
+  {
+   "title": "China's Growing Feed Imports: Projections from the CARD Agricultural Modeling Framework",
+   "authors": [
+    "X. He",
+    "A. Elobeid",
+    "M. Carriquiry",
+    "M. Li",
+    "D. Hayes",
+    "M. Li",
+    "Wendong Zhang"
+   ],
+   "year": 2022,
+   "venue": "Agribusiness",
+   "status": "已发表",
+   "url": "https://doi.org/10.1002/agr.21764",
+   "abstract": null
+  },
+  {
+   "title": "The Impacts of Interest Rate Changes on US Midwest Farmland Values",
+   "authors": [
+    "A. Basha",
+    "Wendong Zhang",
+    "C. Hart"
+   ],
+   "year": 2021,
+   "venue": "Agricultural Finance Review",
+   "status": "已发表",
+   "url": "https://doi.org/10.1108/AFR-11-2020-0163",
+   "abstract": null
+  },
+  {
+   "title": "Who Can Work and Study from Home in Pakistan: Evidence from a Nationwide Household Survey",
+   "authors": [
+    "S.M. Hasan",
+    "A. Rehman",
+    "Wendong Zhang"
+   ],
+   "year": 2021,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.worlddev.2020.105197",
+   "abstract": null
+  },
+  {
+   "title": "Do Homeowners Benefit When Coal-Fired Power Plants Switch to Natural Gas? Evidence from Beijing, China",
+   "authors": [
+    "Y. Mei",
+    "L. Gao",
+    "Wendong Zhang",
+    "F. Yang"
+   ],
+   "year": 2021,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jeem.2021.102566",
+   "abstract": null
+  },
+  {
+   "title": "China's Missing Pigs: Correcting China's Hog Inventory Data Using a Machine Learning Approach",
+   "authors": [
+    "Y. Shao",
+    "T. Xiong",
+    "M. Li",
+    "D.J. Hayes",
+    "Wendong Zhang",
+    "W. Xie"
+   ],
+   "year": 2021,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/ajae.12137",
+   "abstract": null
+  },
+  {
+   "title": "A Fortune From Misfortune: Evidence from Hog Firms' Stock Price Responses to China's African Swine Fever Outbreaks",
+   "authors": [
+    "T. Xiong",
+    "Wendong Zhang",
+    "C. Chen"
+   ],
+   "year": 2021,
+   "venue": "Food Policy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.foodpol.2021.102150",
+   "abstract": null
+  },
+  {
+   "title": "Are Expert Opinions Accurate? Panel Data Evidence from the Iowa Land Value Survey",
+   "authors": [
+    "Wendong Zhang",
+    "S. Lence",
+    "T. Kuethe"
+   ],
+   "year": 2021,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.3368/le.97.4.080820-0124R",
+   "abstract": null
+  },
+  {
+   "title": "The U.S.-China Trade War: Data and General Equilibrium Analysis",
+   "authors": [
+    "M. Li",
+    "E. Balistreri",
+    "Wendong Zhang"
+   ],
+   "year": 2020,
+   "venue": "Journal of Asian Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.asieco.2020.101216",
+   "abstract": null
+  },
+  {
+   "title": "Best Management Practices and Nutrient Reduction: An Integrated Economic-Hydrological Model of the Western Lake Erie Basin",
+   "authors": [
+    "H. Liu",
+    "Wendong Zhang",
+    "E. Irwin",
+    "J. Kast",
+    "N. Aloysius",
+    "J.F. Martin",
+    "M. Kelcic"
+   ],
+   "year": 2020,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.3368/le.96.4.510",
+   "abstract": null
+  },
+  {
+   "title": "Do US Anglers Care About Harmful Algal Blooms? A Discrete Choice Experiment of Lake Erie Recreational Anglers",
+   "authors": [
+    "Wendong Zhang",
+    "B. Sohngen"
+   ],
+   "year": 2018,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1093/ajae/aay006",
+   "abstract": null
+  },
+  {
+   "title": "Do Farmers Adopt Fewer Conservation Practices on Rented Land? Evidence from Straw Retention in China",
+   "authors": [
+    "L. Gao",
+    "Wendong Zhang",
+    "Y. Mei",
+    "A. Sam",
+    "Y. Song",
+    "S. Jin"
+   ],
+   "year": 2018,
+   "venue": "Land Use Policy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.landusepol.2018.08.026",
+   "abstract": null
+  },
+  {
+   "title": "Current Farm Downturn vs. 1920s and 1980s Farm Crisis: An Economic and Legal Comparison",
+   "authors": [
+    "Wendong Zhang",
+    "K. Tidgren"
+   ],
+   "year": 2018,
+   "venue": "Agricultural Finance Review",
+   "status": "已发表",
+   "url": "https://doi.org/10.1108/AFR-08-2017-0075",
+   "abstract": null
+  },
+  {
+   "title": "Does Fertilizer Education Program Increase the Technical Efficiency of Chemical Fertilizer Use? Evidence from Wheat Production in China",
+   "authors": [
+    "P. Wang",
+    "Wendong Zhang",
+    "M. Li",
+    "Y. Han"
+   ],
+   "year": 2019,
+   "venue": "Sustainability",
+   "status": "已发表",
+   "url": "https://doi.org/10.3390/su11020543",
+   "abstract": null
+  },
+  {
+   "title": "Spatial Heterogeneity, Accessibility, and Zoning: An Empirical Investigation of Leapfrog Development",
+   "authors": [
+    "Wendong Zhang",
+    "D.H. Wrenn",
+    "E.G. Irwin"
+   ],
+   "year": 2016,
+   "venue": "Journal of Economic Geography",
+   "status": "已发表",
+   "url": "https://doi.org/10.1093/jeg/lbw007",
+   "abstract": null
+  },
+  {
+   "title": "The Housing Market Bust and Farmland Values: Identifying the Changing Influence of Proximity to Urban Centers",
+   "authors": [
+    "Wendong Zhang",
+    "C.J. Nickerson"
+   ],
+   "year": 2015,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.3368/le.91.4.605",
+   "abstract": null
+  },
+  {
+   "title": "SNAP's New Reality: Expanded Work Requirements, Cost Shifts to States, and Benefit Adjustment Changes",
+   "authors": [
+    "Z. Huang",
+    "Wendong Zhang",
+    "A. Hinds"
+   ],
+   "year": 2026,
+   "venue": "Applied Economic Education and Extension (AEEE)",
+   "status": "已发表",
+   "url": "https://doi.org/10.71162/aeee.155443",
+   "abstract": null
+  },
+  {
+   "title": "Factors Influencing the Adoption of Flexible Lease Arrangements in Iowa",
+   "authors": [
+    "J. Tong",
+    "M. Bootsma",
+    "W. Zhang",
+    "Wendong Zhang"
+   ],
+   "year": 2026,
+   "venue": "Journal of the American Society of Farm Managers and Rural Appraisers",
+   "status": "已发表",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6350760",
+   "abstract": null
+  },
+  {
+   "title": "Is There an Extension Discount for Agricultural Economics Faculty?",
+   "authors": [
+    "S. Lee",
+    "J. Hyde",
+    "R. Nayga",
+    "Y. Liu",
+    "Wendong Zhang"
+   ],
+   "year": 2025,
+   "venue": "Journal of Extension",
+   "status": "已发表",
+   "url": "https://commons.joe.org/joe/vol63/iss4/18/",
+   "abstract": null
+  },
+  {
+   "title": "By How Much Can Appraised Farm Values Differ Across Appraisers?",
+   "authors": [
+    "A. Plastina",
+    "W. Sawadgo",
+    "Wendong Zhang"
+   ],
+   "year": 2024,
+   "venue": "Journal of the American Society of Farm Managers and Rural Appraisers",
+   "status": "已发表",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5092400",
+   "abstract": null
+  },
+  {
+   "title": "What Midwest Farmers Think about the Trade Dispute with China: Concerns, Claims, Solutions, and Information Needs",
+   "authors": [
+    "L. Rodriguez",
+    "S. Qu",
+    "G. Han",
+    "Wendong Zhang",
+    "M. Li",
+    "E. Cork"
+   ],
+   "year": 2024,
+   "venue": "Sage Open",
+   "status": "已发表",
+   "url": "https://doi.org/10.1177/21582440241287997",
+   "abstract": null
+  },
+  {
+   "title": "What Women Landowners Want to Know about Conservation?",
+   "authors": [
+    "J. Tong",
+    "Wendong Zhang",
+    "C. DeLong",
+    "J. Benning",
+    "M. Schultz"
+   ],
+   "year": 2024,
+   "venue": "Renewable Agriculture and Food Systems",
+   "status": "已发表",
+   "url": "https://doi.org/10.1017/S1742170524000243",
+   "abstract": null
+  },
+  {
+   "title": "Mapping and Contextualizing Foreign Ownership and Leasing of US Farmland",
+   "authors": [
+    "F. Wang",
+    "Wendong Zhang",
+    "M. Taylor"
+   ],
+   "year": 2024,
+   "venue": "Journal of the American Society of Farm Managers and Rural Appraisers",
+   "status": "已发表",
+   "url": "https://ageconsearch.umn.edu/record/342906",
+   "abstract": null
+  },
+  {
+   "title": "Farmers' Reactions to the U.S.-China Trade War: Perceptions vs. Behaviors",
+   "authors": [
+    "M. Li",
+    "X. He",
+    "Wendong Zhang",
+    "J.M. Gbeda",
+    "S. Qu",
+    "L. Rodriguez"
+   ],
+   "year": 2023,
+   "venue": "Journal of the Agricultural and Applied Economics Association",
+   "status": "已发表",
+   "url": "https://doi.org/10.1002/jaa2.68",
+   "abstract": null
+  },
+  {
+   "title": "Nurturing International Graduate Students for a More Diversified and Inclusive Extension Workforce",
+   "authors": [
+    "Y. Liu",
+    "Wendong Zhang"
+   ],
+   "year": 2022,
+   "venue": "Applied Economics Teaching Resources",
+   "status": "已发表",
+   "url": "https://www.aaea.org/UserFiles/file/AETR_2022_003RV4I2_v5.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Survey Increases Understanding of Iowa Women Farmland Owners",
+   "authors": [
+    "M. Schultz",
+    "J. Benning",
+    "C. DeLong",
+    "C. Hyde",
+    "M. O'Rourke",
+    "L. Scarbrough",
+    "K. Tidgren",
+    "J. Tong",
+    "Wendong Zhang"
+   ],
+   "year": 2022,
+   "venue": "Journal of the National Association of County Agricultural Agents",
+   "status": "已发表",
+   "url": "https://www.nacaa.com/file.ashx?id=493c150e-fc3d-4454-98f3-80f94e1b5b7d",
+   "abstract": null
+  },
+  {
+   "title": "The Case for Healthy U.S.-China Agricultural Trade Relations Despite Deglobalization Pressures",
+   "authors": [
+    "Wendong Zhang"
+   ],
+   "year": 2021,
+   "venue": "Applied Economic Perspectives and Policy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1002/aepp.13115",
+   "abstract": null
+  },
+  {
+   "title": "What Drives Landowners' Conservation Decisions? Evidence from Iowa",
+   "authors": [
+    "W. Sawadgo",
+    "Wendong Zhang",
+    "A. Plastina"
+   ],
+   "year": 2021,
+   "venue": "Journal of Soil and Water Conservation",
+   "status": "已发表",
+   "url": "https://doi.org/10.2489/jswc.2021.00115",
+   "abstract": null
+  },
+  {
+   "title": "Entrepreneurship and Start-Ups in the Agricultural Industry",
+   "authors": [
+    "M. Grant",
+    "Wendong Zhang"
+   ],
+   "year": 2019,
+   "venue": "Journal of the American Society of Farm Managers and Rural Appraisers",
+   "status": "已发表",
+   "url": "https://ideas.repec.org/a/ags/jasfmr/322662.html",
+   "abstract": null
+  },
+  {
+   "title": "Are Agricultural Professionals' Farmland Value and Crop Price Forecasts Consistent?",
+   "authors": [
+    "Wendong Zhang",
+    "W. Zhang",
+    "C. Hart"
+   ],
+   "year": 2018,
+   "venue": "Journal of the American Society of Farm Managers and Rural Appraisers",
+   "status": "已发表",
+   "url": "https://dr.lib.iastate.edu/handle/20.500.12876/21910",
+   "abstract": null
+  },
+  {
+   "title": "Land Quality Perceptions in Expert Opinion Surveys: Evidence from Iowa",
+   "authors": [
+    "Wendong Zhang",
+    "M. Duffy"
+   ],
+   "year": 2017,
+   "venue": "Journal of the American Society of Farm Managers and Rural Appraisers",
+   "status": "已发表",
+   "url": "https://www.jstor.org/stable/90016149",
+   "abstract": null
+  },
+  {
+   "title": "Trends and Determinants of U.S. Farmland Values: Evidence from Iowa Land Value Survey since 1950",
+   "authors": [
+    "Wendong Zhang",
+    "Z. Beek"
+   ],
+   "year": 2016,
+   "venue": "Farm Policy Journal",
+   "status": "已发表",
+   "url": "https://dr.lib.iastate.edu/handle/20.500.12876/21824",
+   "abstract": null
+  },
+  {
+   "title": "Rice Farming for Climate Change Adaptation in the Northeastern United States",
+   "authors": [
+    "C. Liao",
+    "J. Kao-Kniffin",
+    "M. Reid",
+    "Wendong Zhang",
+    "P. Tshabalala",
+    "E. Andrus",
+    "Z. Butler-Jones",
+    "J. LaPoint",
+    "S. Zhou",
+    "R. Rafols",
+    "S. Shin",
+    "M. Ichihara",
+    "A. Pereira",
+    "N. Butler",
+    "Y. Tu",
+    "S.R. McCouch"
+   ],
+   "year": 2025,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "https://doi.org/10.1073/pnas.2402181122",
+   "abstract": null
+  },
+  {
+   "title": "Carbon Markets Promote Environmental Justice in China",
+   "authors": [
+    "Y. Mei",
+    "J. Qiu",
+    "Wendong Zhang",
+    "S. Chaudhary",
+    "P. Liu"
+   ],
+   "year": 2025,
+   "venue": "Nature Communications",
+   "status": "已发表",
+   "url": "https://doi.org/10.1038/s41467-025-67081-0",
+   "abstract": null
+  },
+  {
+   "title": "Uncovering Disparities in Water-Based Outdoor Recreation Using Cell Phone Mobility Data",
+   "authors": [
+    "Wendong Zhang",
+    "X. Wan",
+    "W. Fan",
+    "Y. Ji"
+   ],
+   "year": 2024,
+   "venue": "Environmental Research Letters",
+   "status": "已发表",
+   "url": "https://doi.org/10.1088/1748-9326/ad801c",
+   "abstract": null
+  },
+  {
+   "title": "Row Covers Limit Pests and Disease and Increase Profit in Organic Acorn Squash",
+   "authors": [
+    "K. Fiske",
+    "N. Cheng",
+    "R. Kuesel",
+    "Wendong Zhang",
+    "R. Bessin",
+    "M. Williams",
+    "D. Gonthier"
+   ],
+   "year": 2024,
+   "venue": "Frontiers in Sustainable Food Systems",
+   "status": "已发表",
+   "url": "https://doi.org/10.3389/fsufs.2024.1347924",
+   "abstract": null
+  },
+  {
+   "title": "Comparison of Row Cover Systems for Pest Management in Organic Muskmelon in Iowa",
+   "authors": [
+    "H.M. Nelson",
+    "J.F. Gonzalez-Acuna",
+    "A. Nair",
+    "N. Cheng",
+    "K. Mphande",
+    "S. Badilla-Arias",
+    "Wendong Zhang",
+    "M. Gleason"
+   ],
+   "year": 2023,
+   "venue": "HortTechnology",
+   "status": "已发表",
+   "url": "https://doi.org/10.21273/HORTTECH05096-22",
+   "abstract": null
+  },
+  {
+   "title": "Using APSIM to Optimize Biochar Applications for Midwest Corn-Bioenergy Cropping Systems",
+   "authors": [
+    "D. Aller",
+    "S. Archontoulis",
+    "Wendong Zhang",
+    "W. Sawadgo",
+    "D. Laird",
+    "K. Moore"
+   ],
+   "year": 2018,
+   "venue": "Field Crops Research",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.fcr.2018.07.012",
+   "abstract": null
+  },
+  {
+   "title": "Field Validation of a Modified Relative Humidity-Based Warning System for Sooty Blotch and Flyspeck in Iowa",
+   "authors": [
+    "H. Rosli",
+    "D.A. Mayfield",
+    "J.C. Batzer",
+    "P.M. Dixon",
+    "Wendong Zhang",
+    "M.L. Gleason"
+   ],
+   "year": 2017,
+   "venue": "Plant Disease",
+   "status": "已发表",
+   "url": "https://doi.org/10.1094/PDIS-02-17-0294-RE",
+   "abstract": null
+  },
+  {
+   "title": "What Motivates Farmers to Apply Phosphorus at the 'Right' Time? Survey Evidence from the Western Lake Erie Basin",
+   "authors": [
+    "Wendong Zhang",
+    "R. Wilson",
+    "E. Burnett",
+    "E.G. Irwin",
+    "J.F. Martin"
+   ],
+   "year": 2016,
+   "venue": "Journal of Great Lakes Research",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jglr.2016.08.007",
+   "abstract": null
+  },
+  {
+   "title": "Modeling the Determinants of Farmland Values in the U.S.",
+   "authors": [
+    "C. J. Nickerson",
+    "Wendong Zhang"
+   ],
+   "year": 2014,
+   "venue": "Book chapter: The Oxford Handbook of Land Economics (Oxford University Press)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Role of Regulations and Norms in Land Use Change",
+   "authors": [
+    "E.G. Irwin",
+    "G.L. Buckley",
+    "M. Gnagey",
+    "N. Irwin",
+    "D. Newburn",
+    "E. Pierce",
+    "D. Wrenn",
+    "Wendong Zhang"
+   ],
+   "year": 2021,
+   "venue": "Book chapter: Science for the Sustainable City: Empirical Insights from the Baltimore School of Urban Ecology (Yale University Press)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Is a Farmer a Better Messenger than an Extension Professional for Conservation Practice Adoption?",
+   "authors": [
+    "X. Wan",
+    "J. Comito",
+    "Wendong Zhang",
+    "J. Tong"
+   ],
+   "year": 2025,
+   "venue": "Agricultural Economics (2nd revision requested)",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "When Nature Turns Hazy: the Impacts of Wildfire Smoke on Recreational Demand",
+   "authors": [
+    "J. Shr",
+    "X. Wan",
+    "Wendong Zhang"
+   ],
+   "year": 2025,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Institutional Land Ownership and Conservation Practice Adoption in the US Midwest",
+   "authors": [
+    "J. Tong",
+    "O. Bartalotti",
+    "Wendong Zhang"
+   ],
+   "year": 2025,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "修改重投",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6409709",
+   "abstract": null
+  },
+  {
+   "title": "Carbon Emissions from Household Energy Use in Pakistan: Policy Implications for Climate Mitigation and Regional Development",
+   "authors": [
+    "R. Saeed",
+    "A. Rehman",
+    "S.M. Hasan",
+    "Wendong Zhang"
+   ],
+   "year": 2025,
+   "venue": "Climate Policy",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Economic Impacts of the 2025 Trade Wars",
+   "authors": [
+    "J. Ai",
+    "M. Li",
+    "T. Zhang",
+    "Wendong Zhang"
+   ],
+   "year": 2025,
+   "venue": "Journal of Asian Economics",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Recreational Benefit Disparity? Evidence from Underrepresented Population in Iowa",
+   "authors": [
+    "W. Fan",
+    "Y. Ji",
+    "X. Wan",
+    "Wendong Zhang"
+   ],
+   "year": 2025,
+   "venue": "Working Paper (under review)",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Barriers and Incentives to Anaerobic Digester Adoption: A Nationwide Analysis of U.S. Dairy Farms",
+   "authors": [
+    "J. Wehner",
+    "Wendong Zhang",
+    "C. Wolf"
+   ],
+   "year": 2026,
+   "venue": "Working Paper (under review)",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Large Livestock Facilities and Farmland Values: Evidence from Competitive Bidding by CAFOs",
+   "authors": [
+    "C. Chen",
+    "Y. Ji",
+    "Wendong Zhang",
+    "Q. Lu"
+   ],
+   "year": 2026,
+   "venue": "Working Paper (under review)",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Evolution of China's Pork Value Chains under African Swine Fever and COVID-19",
+   "authors": [
+    "T. Xiong",
+    "Wendong Zhang",
+    "J. Li",
+    "G. Li",
+    "F. Li"
+   ],
+   "year": 2024,
+   "venue": "Working Paper (under review)",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "County-Level PFAS Contamination Site Density and Associations with Chronic Disease and Cancer in the United States",
+   "authors": [
+    "J. Tong",
+    "W. Chen",
+    "W. Zhang",
+    "Wendong Zhang"
+   ],
+   "year": 2025,
+   "venue": "Working Paper (under review)",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Geospatial Inequality in the Green Transition: Pollution Redistribution from Electric Vehicles",
+   "authors": [
+    "J. Ai",
+    "Z. Xiao",
+    "Wendong Zhang"
+   ],
+   "year": 2026,
+   "venue": "Working Paper (under review)",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Incorporating Recreational Benefits into Hedonic Property Value Models: Evidence from Iowa",
+   "authors": [
+    "X. Wan",
+    "Y. Ji",
+    "Wendong Zhang",
+    "P. Liu"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "U.S. Peanut Price Forecasting under Climate-Driven Yield Shocks",
+   "authors": [
+    "W. Xia",
+    "T. Xiong",
+    "Wendong Zhang"
+   ],
+   "year": 2025,
+   "venue": "Working Paper (under review)",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Artificial Intelligence Innovation and Product Quality: Evidence from China's Agri-Food Firms",
+   "authors": [
+    "F. Nie",
+    "L. Li",
+    "T. Xiong",
+    "J. Ai",
+    "Wendong Zhang"
+   ],
+   "year": 2025,
+   "venue": "Working Paper (under review)",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Teaching Appraisals at America's Colleges",
+   "authors": [
+    "Wendong Zhang"
+   ],
+   "year": 2026,
+   "venue": "SSRN Working Paper",
+   "status": "工作论文",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7057518",
+   "abstract": null
+  }
+ ]
+}

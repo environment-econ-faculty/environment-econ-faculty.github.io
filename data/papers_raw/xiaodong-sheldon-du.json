@@ -1,0 +1,592 @@
+{
+ "slug": "xiaodong-sheldon-du",
+ "name": "Xiaodong (Sheldon) Du",
+ "sources": [
+  "https://aae-cv-storage.s3.us-east-2.amazonaws.com/DuSheldon(Xiaodong)CV.pdf"
+ ],
+ "collected": "2026-10-25",
+ "notes": "CV only (no homepage; includes 2026 forthcoming items). CV has no working-paper section. Coauthor names are initials as in CV; scholar written as Xiaodong Du. Includes one book chapter.",
+ "papers": [
+  {
+   "title": "Volatility Formation in Dairy Futures: Fundamentals, Public Information, and Processing Ambiguity",
+   "authors": [
+    "Xiaodong Du"
+   ],
+   "year": 2026,
+   "venue": "Journal of Futures Markets",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Dynamics of U.S. Farm Income Distribution Under Weather Shocks",
+   "authors": [
+    "Xiaodong Du",
+    "F. Dong"
+   ],
+   "year": 2026,
+   "venue": "Journal of Agricultural and Resource Economics",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Stage-Specific Effects of Extreme Temperatures on Rural Labor Reallocation in China",
+   "authors": [
+    "L. Yu",
+    "Xiaodong Du",
+    "Q. Lu"
+   ],
+   "year": 2025,
+   "venue": "Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Inertia in the U.S. Federal Crop Insurance Market",
+   "authors": [
+    "Xiaodong Du"
+   ],
+   "year": 2025,
+   "venue": "International Journal of Industrial Organization",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Electricity Market Resilience in the Face of Hurricane Harvey: A Network-Oriented Approach",
+   "authors": [
+    "Y. Zhao",
+    "A.E. Brooks",
+    "Xiaodong Du"
+   ],
+   "year": 2024,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Can Corporate Digital Transformation Alleviate Financing Constraints?",
+   "authors": [
+    "J. He",
+    "Xiaodong Du",
+    "W. Tu"
+   ],
+   "year": 2024,
+   "venue": "Applied Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Role of Animal Breeding in Productivity Growth: Evidence from Wisconsin Dairy Farms",
+   "authors": [
+    "J. Hutchins",
+    "Y. Gong",
+    "Xiaodong Du"
+   ],
+   "year": 2024,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Agricultural Policy Uncertainty and Its Impact on Commodity Markets",
+   "authors": [
+    "Xiaodong Du",
+    "F. Dong"
+   ],
+   "year": 2023,
+   "venue": "Journal of the Agricultural and Applied Economics Association",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Wholesale Price Dynamics in the Evolving Texas Power Grid",
+   "authors": [
+    "Xiaodong Du",
+    "Y. Zhao",
+    "A. Brooks"
+   ],
+   "year": 2023,
+   "venue": "The Electricity Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Impact of Oil Price Uncertainty Shocks on China's Macro-Economy: A DSGE Approach",
+   "authors": [
+    "X. Zhang",
+    "J. Zhou",
+    "Xiaodong Du"
+   ],
+   "year": 2022,
+   "venue": "Resources Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Adoption Patterns and Productivity Impacts of Agricultural Mechanization Services",
+   "authors": [
+    "Q. Lu",
+    "Xiaodong Du",
+    "H. Qiu"
+   ],
+   "year": 2022,
+   "venue": "Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Land Certification, Rental Market Participation, and Household Welfare in Rural China",
+   "authors": [
+    "L. Xu",
+    "Xiaodong Du"
+   ],
+   "year": 2022,
+   "venue": "Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Impact of the Clean Water Act on Farm Practices: The Case of U.S. Dairy CAFOs",
+   "authors": [
+    "C. Yu",
+    "Xiaodong Du",
+    "D. Phaneuf"
+   ],
+   "year": 2021,
+   "venue": "Journal of Agricultural and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Transmission Integration and the Market for Congestion Revenue Rights: The Case of the Texas Electricity Market",
+   "authors": [
+    "G. Doshi",
+    "Xiaodong Du"
+   ],
+   "year": 2021,
+   "venue": "Energy Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Depressed Demand for Crop Insurance Contracts, and a Rationale Based on Third Generation Prospect Theory",
+   "authors": [
+    "H. Feng",
+    "Xiaodong Du",
+    "D.A. Hennessy"
+   ],
+   "year": 2020,
+   "venue": "Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Are Actuarial Crop Insurance Rates Fair?: an Analysis Using a Penalized Bivariate B-Spline Method",
+   "authors": [
+    "M. Price",
+    "C. Yu",
+    "D. Hennessy",
+    "Xiaodong Du"
+   ],
+   "year": 2019,
+   "venue": "Journal of the Royal Statistical Society: Series C (Applied Statistics)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Evolving Techniques in Production Function Identification Illustrated in the Case of the US Dairy",
+   "authors": [
+    "H. Jang",
+    "Xiaodong Du"
+   ],
+   "year": 2019,
+   "venue": "Applied Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Transition and Integration of the ERCOT Market with the Competitive Renewable Energy Zone Project",
+   "authors": [
+    "Xiaodong Du",
+    "O. Rubin"
+   ],
+   "year": 2018,
+   "venue": "Energy Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Land Resilience and Tail Dependence Among Crop Yield Distributions",
+   "authors": [
+    "Xiaodong Du",
+    "D. Hennessy",
+    "H. Feng",
+    "G. Aurora"
+   ],
+   "year": 2018,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Empirical Structural Model of Productivity and Conservation Reserve Program Participation",
+   "authors": [
+    "H. Jang",
+    "Xiaodong Du"
+   ],
+   "year": 2018,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Rationality of Choices in Subsidized Crop Insurance Markets",
+   "authors": [
+    "Xiaodong Du",
+    "H. Feng",
+    "D. Hennessy"
+   ],
+   "year": 2017,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Assessing Cost-effectiveness of the Conservation Reserve Program (CRP) and Interactions between the CRP and Crop Insurance",
+   "authors": [
+    "R. Miao",
+    "H. Feng",
+    "D. Hennessy",
+    "Xiaodong Du"
+   ],
+   "year": 2016,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Responses to Market Information and the Impact on Price Volatility and Trading Volume: The Case of Class III Milk Futures",
+   "authors": [
+    "Xiaodong Du",
+    "F. Dong"
+   ],
+   "year": 2016,
+   "venue": "Empirical Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Geography of Crop Yield Skewness",
+   "authors": [
+    "Xiaodong Du",
+    "C. Yu",
+    "D.A. Hennessy",
+    "R. Miao"
+   ],
+   "year": 2015,
+   "venue": "Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Price Dynamics in Wisconsin Woody Biomass Markets",
+   "authors": [
+    "Xiaodong Du",
+    "T. Runge"
+   ],
+   "year": 2014,
+   "venue": "Biomass & Bioenergy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Natural Resource Theory of U.S. Crop Insurance Contract Choice",
+   "authors": [
+    "Xiaodong Du",
+    "D. Hennessy",
+    "H. Feng"
+   ],
+   "year": 2014,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Price- and Policy-Induced Innovations: The Case of U.S. Biofuel",
+   "authors": [
+    "H. Jang",
+    "Xiaodong Du"
+   ],
+   "year": 2013,
+   "venue": "Journal of Agricultural and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Flex-Fuel Vehicle Adoption and Dynamics of Ethanol Price: Lessons from Brazil",
+   "authors": [
+    "Xiaodong Du",
+    "M. Carriquiry"
+   ],
+   "year": 2013,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Spatiotemporal Analysis of Ethanol Market Penetration",
+   "authors": [
+    "Xiaodong Du",
+    "M. Carriquiry"
+   ],
+   "year": 2013,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Effects of Potential Changes in United States Beef Production on Global Grazing Systems and Greenhouse Gas Emissions",
+   "authors": [
+    "J. Dumortier",
+    "D. Hayes",
+    "M. Carriquiry",
+    "F. Dong",
+    "Xiaodong Du",
+    "A. Elobeid",
+    "J. Fabiosa",
+    "S. Tokgoz"
+   ],
+   "year": 2012,
+   "venue": "Environmental Research Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Disentangling Corn Price Volatility: the Role of Global Demand, Speculation, and Energy",
+   "authors": [
+    "L. McPhail",
+    "Xiaodong Du",
+    "A. Muhammad"
+   ],
+   "year": 2012,
+   "venue": "Journal of Agricultural and Applied Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Testing Day's Conjecture that More Nitrogen Decreases Crop Yield Skewness",
+   "authors": [
+    "Xiaodong Du",
+    "D. Hennessy",
+    "C. Yu"
+   ],
+   "year": 2012,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Inside the Black Box: the Price Linkage and Transmission between Energy and Agricultural Markets",
+   "authors": [
+    "Xiaodong Du",
+    "L. McPhail"
+   ],
+   "year": 2012,
+   "venue": "Energy Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Planting Real Option in Cash Rent Valuation",
+   "authors": [
+    "Xiaodong Du",
+    "D. Hennessy"
+   ],
+   "year": 2012,
+   "venue": "Applied Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Sensitivity of Carbon Emission Estimates from Indirect Land-Use Change",
+   "authors": [
+    "J. Dumortier",
+    "D. Hayes",
+    "M. Carriquiry",
+    "F. Dong",
+    "Xiaodong Du",
+    "A. Elobeid",
+    "J. Fabiosa",
+    "S. Tokgoz"
+   ],
+   "year": 2011,
+   "venue": "Applied Economic Perspectives and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Assessment of Environmental Impacts Embodied in U.S.-China and U.S.-India Trade and Related Climate Change Policies",
+   "authors": [
+    "Xiaodong Du",
+    "F. Dong",
+    "D. Hayes",
+    "T. Brown"
+   ],
+   "year": 2011,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Dynamics of Biofuel Stock Prices: A Bayesian Approach",
+   "authors": [
+    "Xiaodong Du",
+    "D. Hayes",
+    "C. Yu"
+   ],
+   "year": 2011,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Second Generation Biofuels: Economics and Policies",
+   "authors": [
+    "M. Carriquiry",
+    "Xiaodong Du",
+    "G. Timilsina"
+   ],
+   "year": 2011,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Impact of Biofuels Policy on Agribusiness Stock Prices",
+   "authors": [
+    "F. Tepe",
+    "Xiaodong Du",
+    "D. Hennessy"
+   ],
+   "year": 2011,
+   "venue": "Agribusiness: An International Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Speculation and Volatility Spillover in the Crude Oil and Agricultural Commodity Markets: A Bayesian Analysis",
+   "authors": [
+    "Xiaodong Du",
+    "C. Yu",
+    "D. Hayes"
+   ],
+   "year": 2011,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Pass-through in United States Beef Cattle Prices",
+   "authors": [
+    "H. Zhao",
+    "Xiaodong Du",
+    "D. Hennessy"
+   ],
+   "year": 2011,
+   "venue": "Empirical Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Welfare Analysis of the U.S. Ethanol Subsidy",
+   "authors": [
+    "Xiaodong Du",
+    "D. Hayes",
+    "M. Mallory"
+   ],
+   "year": 2009,
+   "venue": "Applied Economic Perspectives and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Impact of Ethanol Production on U.S. and Regional Gasoline Markets",
+   "authors": [
+    "Xiaodong Du",
+    "D. Hayes"
+   ],
+   "year": 2009,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Does a Rising Biofuels Tide Raise All Boats? A Study of Cash Rent Determinants for Iowa Farmland under Hay and Pasture",
+   "authors": [
+    "Xiaodong Du",
+    "D. Hennessy",
+    "W. Edwards"
+   ],
+   "year": 2008,
+   "venue": "Journal of Agricultural & Food Industrial Organization",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Production Costs of Biofuels",
+   "authors": [
+    "M. Carriquiry",
+    "Xiaodong Du",
+    "G. Timilsina"
+   ],
+   "year": 2014,
+   "venue": "The Impacts of Biofuels on the Economy, Environment, and Poverty: A Global Perspective (Springer, book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

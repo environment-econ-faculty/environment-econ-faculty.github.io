@@ -1,0 +1,643 @@
+{
+ "slug": "santanu-roy",
+ "name": "Santanu Roy",
+ "sources": [
+  "https://s2.smu.edu/sroy/vita.pdf"
+ ],
+ "collected": "2026-10-25",
+ "notes": "From the CV (vita.pdf, includes 2025-26 items); homepage not separately fetched. CV gives only \"(with X)\" so Roy is listed first and coauthors in CV order; true byline order may differ (theory papers are often alphabetical). Annual Review (2009): CV lists \"with Dan Millimet and Aditi Sengupta\" (Millimet CV puts Millimet first). Excluded: UNESCO encyclopedia entry, 1996 proceedings volume, and \"incomplete draft\" items (Product Mismatch, Harvest Moratorium). Working-paper years from CV dates (Price Transparency: revised 2025). Items dated 2009 appear after 2010 in CV order; years as given.",
+ "papers": [
+  {
+   "title": "Unobserved Wholesale Contracts",
+   "authors": [
+    "Santanu Roy",
+    "Maarten Janssen"
+   ],
+   "year": 2026,
+   "venue": "Journal of Industrial Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Repeated Trading: Transparency and Market Structure",
+   "authors": [
+    "Santanu Roy",
+    "Ayca Kaya"
+   ],
+   "year": 2024,
+   "venue": "American Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Stochastic Growth, Conservation of Capital and Convergence to a Positive Steady State",
+   "authors": [
+    "Santanu Roy",
+    "Tapan Mitra"
+   ],
+   "year": 2023,
+   "venue": "Economic Theory",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Market Screening with Limited Records",
+   "authors": [
+    "Santanu Roy",
+    "Ayca Kaya"
+   ],
+   "year": 2022,
+   "venue": "Games and Economic Behavior",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Regulating Product Communication",
+   "authors": [
+    "Santanu Roy",
+    "Maarten Janssen"
+   ],
+   "year": 2022,
+   "venue": "American Economic Journal: Microeconomics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Propensity to Consume and the Optimality of Ramsey-Euler Policy",
+   "authors": [
+    "Santanu Roy",
+    "Tapan Mitra"
+   ],
+   "year": 2022,
+   "venue": "Economic Theory",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Irreversibility and the Economics of Forest Conservation",
+   "authors": [
+    "Santanu Roy",
+    "Adriana Piazza"
+   ],
+   "year": 2020,
+   "venue": "Economic Theory",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Optimality of Ramsey-Euler Policy in the Stochastic Growth Model",
+   "authors": [
+    "Santanu Roy",
+    "Tapan Mitra"
+   ],
+   "year": 2017,
+   "venue": "Journal of Economic Theory",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Are Global Trade Negotiations Behind a Fragmented World of 'Gated Globalization'?",
+   "authors": [
+    "Santanu Roy",
+    "James Lake"
+   ],
+   "year": 2017,
+   "venue": "Journal of International Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Competition, Disclosure and Signaling",
+   "authors": [
+    "Santanu Roy",
+    "Maarten Janssen"
+   ],
+   "year": 2015,
+   "venue": "Economic Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Deforestation and Optimal Management",
+   "authors": [
+    "Santanu Roy",
+    "Adriana Piazza"
+   ],
+   "year": 2015,
+   "venue": "Journal of Economic Dynamics and Control",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Dynamic Sorting in Durable Goods Markets with Buyer Heterogeneity",
+   "authors": [
+    "Santanu Roy"
+   ],
+   "year": 2014,
+   "venue": "Canadian Journal of Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Dynamic Inconsistency and Non-preferential taxation of foreign capital",
+   "authors": [
+    "Santanu Roy",
+    "Kaushal Kishore"
+   ],
+   "year": 2014,
+   "venue": "Economics Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Sustained Positive Consumption in a Model of Stochastic Growth: The Role of Risk Aversion",
+   "authors": [
+    "Santanu Roy",
+    "Tapan Mitra"
+   ],
+   "year": 2012,
+   "venue": "Journal of Economic Theory",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Equilibrium Parallel Import Policies and International Market Structure",
+   "authors": [
+    "Santanu Roy",
+    "Kamal Saggi"
+   ],
+   "year": 2012,
+   "venue": "Journal of International Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Stochastic Growth with Short Run Prediction of Shocks",
+   "authors": [
+    "Santanu Roy",
+    "Itzhak Zilcha"
+   ],
+   "year": 2012,
+   "venue": "Economic Theory",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Strategic Competition and Optimal Parallel Import Policy",
+   "authors": [
+    "Santanu Roy",
+    "Kamal Saggi"
+   ],
+   "year": 2012,
+   "venue": "Canadian Journal of Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "On a Safe Capital Stock for Consumption Maintenance in a Convex Model of Stochastic Growth",
+   "authors": [
+    "Santanu Roy",
+    "Tapan Mitra"
+   ],
+   "year": 2012,
+   "venue": "International Journal of Economic Theory",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "On Sequential and Simultaneous Contributions under Incomplete Information",
+   "authors": [
+    "Santanu Roy",
+    "Parimal Bag"
+   ],
+   "year": 2011,
+   "venue": "International Journal of Game Theory",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Dynamic Sanitary and Phytosanitary Trade Policy",
+   "authors": [
+    "Santanu Roy",
+    "Lars Olson"
+   ],
+   "year": 2010,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Signaling quality through prices in an oligopoly",
+   "authors": [
+    "Santanu Roy",
+    "Maarten Janssen"
+   ],
+   "year": 2010,
+   "venue": "Games and Economic Behavior",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "On Sustained Economic Growth with Wealth Effects",
+   "authors": [
+    "Santanu Roy"
+   ],
+   "year": 2010,
+   "venue": "International Journal of Economic Theory",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Repeated Charitable Contributions under Incomplete Information",
+   "authors": [
+    "Santanu Roy",
+    "Parimal Bag"
+   ],
+   "year": 2008,
+   "venue": "Economic Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Controlling a Biological Invasion: A Non-Classical Dynamic Economic Model",
+   "authors": [
+    "Santanu Roy",
+    "Lars Olson"
+   ],
+   "year": 2008,
+   "venue": "Economic Theory",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Environmental Regulations and Economic Activity: Influence on Market Structure",
+   "authors": [
+    "Santanu Roy",
+    "Dan Millimet",
+    "Aditi Sengupta"
+   ],
+   "year": 2009,
+   "venue": "Annual Review of Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Non-convexity, Discounting and Infinite Horizon Optimization",
+   "authors": [
+    "Santanu Roy",
+    "Mukul Majumdar"
+   ],
+   "year": 2009,
+   "venue": "Journal of Nonlinear and Convex Analysis",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "On the Possibility of Extinction in a Class of Markov Processes in Economics",
+   "authors": [
+    "Santanu Roy",
+    "Tapan Mitra"
+   ],
+   "year": 2007,
+   "venue": "Journal of Mathematical Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Non-smooth, Non-convex Model of Economic Growth",
+   "authors": [
+    "Santanu Roy",
+    "Takashi Kamihigashi"
+   ],
+   "year": 2007,
+   "venue": "Journal of Economic Theory",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Optimal Exploitation of Renewable Resources under Uncertainty and the Extinction of Species",
+   "authors": [
+    "Santanu Roy",
+    "Tapan Mitra"
+   ],
+   "year": 2006,
+   "venue": "Economic Theory",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Dynamic Optimization with a Non-smooth, Non-convex Technology: The case of a Linear Objective Function",
+   "authors": [
+    "Santanu Roy",
+    "Takashi Kamihigashi"
+   ],
+   "year": 2006,
+   "venue": "Economic Theory",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "On Prevention and Control of an Uncertain Biological Invasion",
+   "authors": [
+    "Santanu Roy",
+    "Lars Olson"
+   ],
+   "year": 2005,
+   "venue": "Review of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "On Durable Goods Markets with Entry and Adverse Selection",
+   "authors": [
+    "Santanu Roy",
+    "Maarten Janssen"
+   ],
+   "year": 2004,
+   "venue": "Canadian Journal of Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Dynamic Trading in a Durable Good Market with Asymmetric information",
+   "authors": [
+    "Santanu Roy",
+    "Maarten Janssen"
+   ],
+   "year": 2002,
+   "venue": "International Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Economics of Controlling a Stochastic Biological Invasion",
+   "authors": [
+    "Santanu Roy",
+    "Lars Olson"
+   ],
+   "year": 2002,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Inter-firm Complementarity in R&D: A Re-examination of the Relative Performance of Joint Ventures",
+   "authors": [
+    "Santanu Roy",
+    "Nejat Anbarci",
+    "Robert Lemke"
+   ],
+   "year": 2002,
+   "venue": "International Journal of Industrial Organization",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "On Sustained Growth under Uncertainty",
+   "authors": [
+    "Santanu Roy",
+    "Paul de Hek"
+   ],
+   "year": 2001,
+   "venue": "International Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Dynamic Efficiency of Renewable Resource Conservation under Uncertainty",
+   "authors": [
+    "Santanu Roy",
+    "Lars Olson"
+   ],
+   "year": 2000,
+   "venue": "Journal of Economic Theory",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Strategic Segmentation of a Market",
+   "authors": [
+    "Santanu Roy"
+   ],
+   "year": 2000,
+   "venue": "International Journal of Industrial Organization",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Cost Reducing Investment, Competition and Industry Dynamics",
+   "authors": [
+    "Santanu Roy",
+    "Emmanuel Petrakis"
+   ],
+   "year": 1999,
+   "venue": "International Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "On Strategic Vertical Foreign Investment",
+   "authors": [
+    "Santanu Roy",
+    "Jean-Marie Viaene"
+   ],
+   "year": 1998,
+   "venue": "Journal of International Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Preferences, Country Bias and International Trade",
+   "authors": [
+    "Santanu Roy",
+    "Jean-Marie Viaene"
+   ],
+   "year": 1998,
+   "venue": "Review of International Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Learning Curve in a Competitive Industry",
+   "authors": [
+    "Santanu Roy",
+    "Emmanuel Petrakis",
+    "Eric Rasmusen"
+   ],
+   "year": 1997,
+   "venue": "RAND Journal of Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "On Conservation of Renewable Resources with Stock-Dependent Return and Non-Concave Production",
+   "authors": [
+    "Santanu Roy",
+    "Lars Olson"
+   ],
+   "year": 1996,
+   "venue": "Journal of Economic Theory",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Risk Preference and Indirect Utility in Portfolio Choice Problems",
+   "authors": [
+    "Santanu Roy",
+    "Rien Wagenvoort"
+   ],
+   "year": 1996,
+   "venue": "Journal of Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Theory of Dynamic Portfolio Choice for Survival under Uncertainty",
+   "authors": [
+    "Santanu Roy"
+   ],
+   "year": 1995,
+   "venue": "Mathematical Social Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "On Income Fluctuations and Capital Gains with a Convex Production Function: A Note",
+   "authors": [
+    "Santanu Roy"
+   ],
+   "year": 1994,
+   "venue": "Journal of Economic Dynamics and Control",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "On Some Aspects of Survival under Production Uncertainty",
+   "authors": [
+    "Santanu Roy",
+    "Tapan Mitra"
+   ],
+   "year": 1993,
+   "venue": "Economic Theory",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Some Economic Applications of Recent Advances in Random Dynamical Systems",
+   "authors": [
+    "Santanu Roy"
+   ],
+   "year": 2016,
+   "venue": "Rabi N. Bhattacharya: Selected Papers (Birkhauser, book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Theory of Stochastic Optimal Growth",
+   "authors": [
+    "Santanu Roy",
+    "Lars Olson"
+   ],
+   "year": 2005,
+   "venue": "Handbook of Optimal Growth, Volume I (Springer, book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Why do they come? - Economic Incentives for Immigration to Assam",
+   "authors": [
+    "Santanu Roy"
+   ],
+   "year": 2005,
+   "venue": "India's North East: Development Issues in a Historical Perspective (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Bilateral Learning Before Trading?",
+   "authors": [
+    "Santanu Roy",
+    "Maarten Janssen"
+   ],
+   "year": 2025,
+   "venue": "Working Paper (under journal review)",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Price Transparency and Market Screening",
+   "authors": [
+    "Santanu Roy",
+    "Ayca Kaya"
+   ],
+   "year": 2025,
+   "venue": "Working Paper (under journal review)",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Information Uncertainty",
+   "authors": [
+    "Santanu Roy",
+    "Maarten Janssen"
+   ],
+   "year": 2023,
+   "venue": "Working Paper (under substantial revision)",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

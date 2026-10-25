@@ -1,0 +1,280 @@
+{
+ "slug": "chengcheng-j-fei",
+ "name": "Chengcheng J. Fei",
+ "sources": [
+  "https://drive.google.com/open?id=1stXlPj-SNmMcyo_FbYQc7x9VV0rslYoU (CV docx, updated Jan 2023)",
+  "https://sites.google.com/tamu.edu/chengcheng-fei/home"
+ ],
+ "collected": "2026-10-25",
+ "notes": "Homepage lists no papers; used CV (Jan 2023, outdated). Skipped report, US Clivar Variations magazine note, working book. Under-review items given year 2023 (CV date); statuses per CV (Anthropocene and Annual Review papers appear published in 2023 in McCarl CV, titles slightly changed). Authors as written (initials).",
+ "papers": [
+  {
+   "title": "Changes in Electrical Generator Cooling Systems: Are They a Cost Effective Source of Water?",
+   "authors": [
+    "Y. Yang",
+    "C.J. Fei",
+    "B.A. McCarl"
+   ],
+   "year": 2023,
+   "venue": "Journal of the American Water Resources Association",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Impacts of climate change on water management",
+   "authors": [
+    "C.J. Fei",
+    "B.A. McCarl",
+    "Y. Yang",
+    "E. Ayana",
+    "R. Srinivasan",
+    "Y. Lei",
+    "L. Li",
+    "B. Sheng",
+    "X. Fan"
+   ],
+   "year": 2022,
+   "venue": "Applied Economic Perspectives and Policy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1002/aepp.13264",
+   "abstract": null
+  },
+  {
+   "title": "Potential of Biopower Production and Climate Change Mitigation from Major Pyrolysis Technologies Using Energy Crops and Crop Residuals",
+   "authors": [
+    "C.C. Kung",
+    "C.J. Fei",
+    "B.A. McCarl",
+    "X. Fan"
+   ],
+   "year": 2022,
+   "venue": "Renewable and Sustainable Energy Reviews",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.rser.2022.112443",
+   "abstract": null
+  },
+  {
+   "title": "Climate Change and Livestock Production: A Literature Review",
+   "authors": [
+    "M. Cheng",
+    "B.A. McCarl",
+    "C.J. Fei"
+   ],
+   "year": 2022,
+   "venue": "Atmosphere",
+   "status": "已发表",
+   "url": "https://doi.org/10.3390/atmos13010140",
+   "abstract": null
+  },
+  {
+   "title": "Honey Bees, Almonds, and Colony Mortality: An Economic Analysis of the Pollination Market",
+   "authors": [
+    "C.J. Fei",
+    "K.M. Williamson",
+    "R.T. Woodward",
+    "B.A. McCarl",
+    "J. Rangel"
+   ],
+   "year": 2021,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.3368/wple.97.3.101519-0148R1",
+   "abstract": null
+  },
+  {
+   "title": "Single-Commodity versus Joint Hedging in Cattle Feeding Cycle: Is Joint Hedging Always Essential?",
+   "authors": [
+    "C.J. Fei",
+    "D.V. Vedenov",
+    "R.B. Stevens",
+    "D.P. Anderson"
+   ],
+   "year": 2021,
+   "venue": "Journal of Agricultural and Resource Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.22004/ag.econ.304776",
+   "abstract": null
+  },
+  {
+   "title": "Identifying Vulnerable Households Using Machine Learning",
+   "authors": [
+    "C. Gao",
+    "C.J. Fei",
+    "B.A. McCarl",
+    "D.J. Leatham"
+   ],
+   "year": 2020,
+   "venue": "Sustainability",
+   "status": "已发表",
+   "url": "https://doi.org/10.3390/su12156002",
+   "abstract": null
+  },
+  {
+   "title": "A comparative evaluation of the performance of CHIRPS and CFSR data for different climate zones using the SWAT model",
+   "authors": [
+    "D. Yeganantham",
+    "V.M. Bindhu",
+    "J. Senent-Aparicio",
+    "T.M. Brighenti",
+    "E. Ayana",
+    "P.S. Smitha",
+    "C.J. Fei",
+    "R. Srinivasan"
+   ],
+   "year": 2020,
+   "venue": "Remote Sensing",
+   "status": "已发表",
+   "url": "https://doi.org/10.3390/rs12183088",
+   "abstract": null
+  },
+  {
+   "title": "Estimating the Impacts of Climate Change and Potential Adaptation Strategies on Cereal Grains in the United States",
+   "authors": [
+    "C.J. Fei",
+    "B.A. McCarl",
+    "A.W. Thayer"
+   ],
+   "year": 2017,
+   "venue": "Frontiers in Ecology and Evolution",
+   "status": "已发表",
+   "url": "https://doi.org/10.3389/fevo.2017.00062",
+   "abstract": null
+  },
+  {
+   "title": "Adaptation: An agricultural challenge",
+   "authors": [
+    "X. Fan",
+    "C.J. Fei",
+    "B.A. McCarl"
+   ],
+   "year": 2017,
+   "venue": "Climate",
+   "status": "已发表",
+   "url": "https://doi.org/10.3390/cli5030056",
+   "abstract": null
+  },
+  {
+   "title": "Adaptation in Agriculture",
+   "authors": [
+    "P. Arunanondchai",
+    "C.J. Fei",
+    "B.A. McCarl"
+   ],
+   "year": 2018,
+   "venue": "Climate Resilient Agriculture-Strategies and Perspectives (InTech), book chapter",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How does climate change affect agriculture",
+   "authors": [
+    "P. Arunanondchai",
+    "C.J. Fei",
+    "A. Fisher",
+    "B.A. McCarl",
+    "W. Wang",
+    "Y.Q. Yang"
+   ],
+   "year": 2018,
+   "venue": "Routledge Handbook of Agricultural Economics, book chapter",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Climate Change Impacts on U.S. Agriculture",
+   "authors": [
+    "C.J. Fei",
+    "J. Jägermeyr",
+    "B.A. McCarl",
+    "E. Mencos",
+    "C. Mutter",
+    "M. Phillips",
+    "A. Ruane",
+    "P. Schultz",
+    "A. Vargo"
+   ],
+   "year": 2023,
+   "venue": "Anthropocene",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Multi-stream Integrated BioRefinery: Sustainability Enabled by Waste Processing",
+   "authors": [
+    "Q. Li",
+    "C.J. Fei",
+    "B.A. McCarl",
+    "B. Yang",
+    "A.J. Ragauskas",
+    "J.S. Yuan"
+   ],
+   "year": 2023,
+   "venue": "Nature Sustainability",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Does Consideration of Spatial Interrelationships Improve Predictions of the Impact of Climate Change on Crop Yields",
+   "authors": [
+    "Z. Wang",
+    "C.J. Fei",
+    "B.A. McCarl",
+    "J. Mu"
+   ],
+   "year": 2023,
+   "venue": "Climate Change Economics",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Effects of CO2 and Climate on Rice Yields Over Time",
+   "authors": [
+    "Y. Huang",
+    "P. Piriyathanasak",
+    "B.A. McCarl",
+    "C.J. Fei",
+    "W. Attavanich",
+    "T. Jithitikulchai",
+    "D.B. Han"
+   ],
+   "year": 2023,
+   "venue": "Mitigation and Adaptation Strategies for Global Change",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Role and Use of Mathematical Programming in Agricultural, Natural Resource, and Climate Change Analysis",
+   "authors": [
+    "B.A. McCarl",
+    "C.J. Fei"
+   ],
+   "year": 2023,
+   "venue": "Annual Review of Resource Economics",
+   "status": "工作论文",
+   "url": "https://doi.org/10.1146/annurev-resource-101422-041745",
+   "abstract": null
+  },
+  {
+   "title": "Differences in Arid Region Water Values across Sectors: Room for trade or a reflection of barriers?",
+   "authors": [
+    "C.J. Fei",
+    "B.A. McCarl",
+    "A. Thayer",
+    "Y. Yang",
+    "A. Vargas"
+   ],
+   "year": 2023,
+   "venue": "Water Resources Research",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

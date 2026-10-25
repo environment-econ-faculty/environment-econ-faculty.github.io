@@ -1,0 +1,445 @@
+{
+ "slug": "kyle-c-meng",
+ "name": "Kyle C. Meng",
+ "sources": [
+  "Meng_CV.pdf (Dropbox, dated October 2026)",
+  "http://www.kylemeng.com/"
+ ],
+ "collected": "2026-10-25",
+ "notes": "Bylines from CV (Oct 2026), initials as written. Skipped reports/policy pieces: Science policy forums (2016, 2026), Nature Energy 2023 policy brief, PNAS replies, Nature CC 2014 correspondence, CalEPA and PERC reports. 'Estimating Path Dependence' (NBER WP 22536) accepted at JPE Micro; Dingel-Meng forthcoming ReStat. Links from homepage PDFs/articles.",
+ "papers": [
+  {
+   "title": "Estimating Path Dependence in Energy Transitions",
+   "authors": [
+    "K. C. Meng"
+   ],
+   "year": 2026,
+   "venue": "Journal of Political Economy Microeconomics",
+   "status": "即将发表",
+   "url": "https://www.dropbox.com/s/ek3t18snhxcuy2n/Meng_energy_transitions.pdf?dl=1",
+   "abstract": null
+  },
+  {
+   "title": "Spatial Correlation, Trade, and Inequality: Evidence from the Global Climate",
+   "authors": [
+    "J. I. Dingel",
+    "K. C. Meng"
+   ],
+   "year": 2026,
+   "venue": "Review of Economics and Statistics",
+   "status": "即将发表",
+   "url": "https://www.dropbox.com/scl/fi/rbhecvdglgyfcszovlz87/DingelMeng.pdf?rlkey=iwuy1v25fgag2xh0se7lrlsx6&dl=1",
+   "abstract": null
+  },
+  {
+   "title": "Dodging Day Zero: Drought, Adaptation, and Inequality in Cape Town",
+   "authors": [
+    "A. Abajian",
+    "C. Cole",
+    "B. K. Jack",
+    "K. C. Meng",
+    "M. Visser"
+   ],
+   "year": 2026,
+   "venue": "Journal of the European Economic Association",
+   "status": "已发表",
+   "url": "https://www.dropbox.com/scl/fi/nhxh1ahsqu8pxx3bmrivu/ACJMV_day_zero.pdf?rlkey=25jvmx25zk2woh07r2slsjz3w&dl=1",
+   "abstract": null
+  },
+  {
+   "title": "Quantifying the global climate feedback from energy-based adaptation",
+   "authors": [
+    "A. C. Abajian",
+    "T. Carleton",
+    "K. C. Meng",
+    "O. Deschênes"
+   ],
+   "year": 2025,
+   "venue": "Nature Communications",
+   "status": "已发表",
+   "url": "https://www.nature.com/articles/s41467-025-59201-7",
+   "abstract": null
+  },
+  {
+   "title": "Equitable low-carbon transition pathways for California's oil extraction",
+   "authors": [
+    "R. Deshmukh",
+    "P. Weber",
+    "O. Deschênes",
+    "D. Lea",
+    "D. Hernandez-Cortes",
+    "T. Kordell",
+    "R. Lee",
+    "C. Malloy",
+    "T. Mangin",
+    "M. Meng",
+    "S. Sum",
+    "V. Thivierge",
+    "A. Uppal",
+    "K. C. Meng"
+   ],
+   "year": 2023,
+   "venue": "Nature Energy",
+   "status": "已发表",
+   "url": "https://www.nature.com/articles/s41560-023-01259-y",
+   "abstract": null
+  },
+  {
+   "title": "Spatial distributions of stranded fossil asset costs and benefits from climate change mitigation",
+   "authors": [
+    "H. Yang",
+    "K. C. Meng",
+    "S. Suh"
+   ],
+   "year": 2023,
+   "venue": "Environmental Research Communications",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do Health Disparities Narrow with Pollution Disparities? Trends from California",
+   "authors": [
+    "D. Hernandez-Cortes",
+    "K. C. Meng"
+   ],
+   "year": 2023,
+   "venue": "AEA Papers and Proceedings",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do environmental markets cause environmental injustice? Evidence from California's carbon market",
+   "authors": [
+    "D. Hernandez-Cortes",
+    "K. C. Meng"
+   ],
+   "year": 2023,
+   "venue": "Journal of Public Economics",
+   "status": "已发表",
+   "url": "https://www.dropbox.com/s/bpcuzyxdh96bo94/HCM_capandtrade_EJ_manuscript.pdf?dl=1",
+   "abstract": null
+  },
+  {
+   "title": "Decomposing Trends in US Air Pollution Disparities from Electricity",
+   "authors": [
+    "D. Hernandez-Cortes",
+    "K. C. Meng",
+    "P. Weber"
+   ],
+   "year": 2023,
+   "venue": "Environmental and Energy Policy and the Economy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do Environmental Markets Improve on Open Access? Evidence from California Groundwater Rights",
+   "authors": [
+    "A. B. Ayres",
+    "K. C. Meng",
+    "A. J. Plantinga"
+   ],
+   "year": 2021,
+   "venue": "Journal of Political Economy",
+   "status": "已发表",
+   "url": "https://www.dropbox.com/s/mt411ftyjgdytx5/AMP_manuscript.pdf?dl=1",
+   "abstract": null
+  },
+  {
+   "title": "Satellites can reveal global extent of forced labor in the world's fishing fleet",
+   "authors": [
+    "G. G. McDonald",
+    "C. Costello",
+    "J. Bone",
+    "R. B. Cabral",
+    "V. Farabee",
+    "T. Hochberg",
+    "D. Kroodsma",
+    "T. Mangin",
+    "K. C. Meng",
+    "O. Zahn"
+   ],
+   "year": 2021,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "https://www.pnas.org/content/early/2020/12/16/2016238117",
+   "abstract": null
+  },
+  {
+   "title": "Global evidence for ultraviolet radiation decreasing COVID-19 growth rates",
+   "authors": [
+    "T. Carleton",
+    "J. Cornetet",
+    "P. Huybers",
+    "K. C. Meng",
+    "J. Proctor"
+   ],
+   "year": 2021,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "https://www.pnas.org/content/118/1/e2012370118",
+   "abstract": null
+  },
+  {
+   "title": "The social cost of lobbying over climate policy",
+   "authors": [
+    "K. C. Meng",
+    "A. Rode"
+   ],
+   "year": 2019,
+   "venue": "Nature Climate Change",
+   "status": "已发表",
+   "url": "https://www.nature.com/articles/s41558-019-0489-6",
+   "abstract": null
+  },
+  {
+   "title": "Causal analysis in control-impact ecological studies with observational data",
+   "authors": [
+    "A. E. Larsen",
+    "K. C. Meng",
+    "B. E. Kendall"
+   ],
+   "year": 2019,
+   "venue": "Methods in Ecology and Evolution",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The blue paradox: Preemptive overfishing in marine reserves",
+   "authors": [
+    "G. R. McDermott",
+    "K. C. Meng",
+    "G. G. McDonald",
+    "C. J. Costello"
+   ],
+   "year": 2019,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "https://www.pnas.org/content/116/12/5319",
+   "abstract": null
+  },
+  {
+   "title": "Quasi-experimental methods in environmental economics: Opportunities and challenges",
+   "authors": [
+    "O. Deschênes",
+    "K. C. Meng"
+   ],
+   "year": 2018,
+   "venue": "Handbook of Environmental Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Temperature effects on productivity and factor reallocation: Evidence from a half million Chinese manufacturing plants",
+   "authors": [
+    "P. Zhang",
+    "O. Deschênes",
+    "K. C. Meng",
+    "J. Zhang"
+   ],
+   "year": 2018,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/abs/pii/S0095069617304588",
+   "abstract": null
+  },
+  {
+   "title": "Using a free permit rule to forecast the marginal abatement cost of proposed climate policy",
+   "authors": [
+    "K. C. Meng"
+   ],
+   "year": 2017,
+   "venue": "American Economic Review",
+   "status": "已发表",
+   "url": "https://www.dropbox.com/s/506wa9t2kvxop5y/Meng_aer_2017_manuscript.pdf?dl=1",
+   "abstract": null
+  },
+  {
+   "title": "New England cod collapse and the climate",
+   "authors": [
+    "K. C. Meng",
+    "K. L. Oremus",
+    "S. D. Gaines"
+   ],
+   "year": 2016,
+   "venue": "PLOS ONE",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Habit formation in voting: Evidence from rainy elections",
+   "authors": [
+    "T. Fujiwara",
+    "K. C. Meng",
+    "T. Vogl"
+   ],
+   "year": 2016,
+   "venue": "American Economic Journal: Applied Economics",
+   "status": "已发表",
+   "url": "https://www.dropbox.com/s/pc0epmltt0qpydb/fujiwara_meng_vogl_AEJ_2016.pdf?dl=1",
+   "abstract": null
+  },
+  {
+   "title": "Tropical economics",
+   "authors": [
+    "S. M. Hsiang",
+    "K. C. Meng"
+   ],
+   "year": 2015,
+   "venue": "American Economic Review: Papers and Proceedings",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Reconciling disagreement over climate-conflict results in Africa",
+   "authors": [
+    "S. M. Hsiang",
+    "K. C. Meng"
+   ],
+   "year": 2014,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "General resilience to cope with extreme events",
+   "authors": [
+    "S. Carpenter",
+    "K. Arrow",
+    "S. Barrett",
+    "R. Biggs",
+    "W. Brock",
+    "A.-S. Crepin",
+    "G. Engstrom",
+    "C. Folke",
+    "T. Hughes",
+    "N. Kautsky",
+    "C.-Z. Li",
+    "G. McCarney",
+    "K.-G. Maler",
+    "K. C. Meng",
+    "S. Polasky",
+    "M. Scheffer",
+    "J. Shogren",
+    "T. Sterner",
+    "S. Taylor",
+    "J. Vincent",
+    "B. Walker",
+    "A. Xepapadeas",
+    "A. de Zeeuw"
+   ],
+   "year": 2012,
+   "venue": "Sustainability",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Civil conflicts are associated with the global climate",
+   "authors": [
+    "S. M. Hsiang",
+    "K. C. Meng",
+    "M. A. Cane"
+   ],
+   "year": 2011,
+   "venue": "Nature",
+   "status": "已发表",
+   "url": "http://www.nature.com/nature/journal/v476/n7361/full/nature10311.html",
+   "abstract": null
+  },
+  {
+   "title": "Opportunities for low-cost CO2 storage demonstration projects in China",
+   "authors": [
+    "K. C. Meng",
+    "R. H. Williams",
+    "M. A. Celia"
+   ],
+   "year": 2007,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do Environmental Markets Improve Allocative Efficiency? Evidence from U.S. Air Pollution",
+   "authors": [
+    "K. C. Meng",
+    "V. Thivierge",
+    "M. Hyun"
+   ],
+   "year": 2026,
+   "venue": "NBER Working Paper",
+   "status": "工作论文",
+   "url": "https://www.dropbox.com/scl/fi/r6nupnv7xouej8bzzm3y2/MengThiviergeHyun_efficiency.pdf?rlkey=zvw1ifned4kqtiedmx9ekrro9&dl=1",
+   "abstract": null
+  },
+  {
+   "title": "Are carbon tariffs climate policy?",
+   "authors": [
+    "G. Casey",
+    "K. C. Meng",
+    "I. Rudik"
+   ],
+   "year": 2026,
+   "venue": "NBER Working Paper",
+   "status": "工作论文",
+   "url": "https://www.dropbox.com/scl/fi/jqjg9903c2m97kyagmh1r/CaseyMengRudik_carbon_tariffs.pdf?rlkey=vt1jja2dxgrqatmszyr10yajs&dl=1",
+   "abstract": null
+  },
+  {
+   "title": "Environmental costs and geography of U.S. data center expansion",
+   "authors": [
+    "D. Hernandez-Cortes",
+    "K. C. Meng",
+    "P. Weber"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://www.dropbox.com/scl/fi/xefpefvbyl3yq3n3lvlpy/HCMW_data_centers.pdf?rlkey=s8mvz1hxqyxbajgufky4a4ql7&dl=1",
+   "abstract": null
+  },
+  {
+   "title": "Health, labor, and equity in the low carbon transition of California's petroleum refineries",
+   "authors": [
+    "M. Meng",
+    "D. Hernandez-Cortes",
+    "C. Malloy",
+    "T. Mangin",
+    "V. Thivierge",
+    "P. Weber",
+    "K. C. Meng",
+    "D. W. Lea",
+    "O. Deschênes",
+    "R. Deshmukh"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Analysis of Statistical Power Reconciles Climate-Conflict Results in Africa",
+   "authors": [
+    "S. M. Hsiang",
+    "M. Burke",
+    "E. Miguel",
+    "K. C. Meng",
+    "M. A. Cane"
+   ],
+   "year": 2015,
+   "venue": "CEGA Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

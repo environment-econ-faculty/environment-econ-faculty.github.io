@@ -1,0 +1,970 @@
+{
+ "slug": "sheridan-titman",
+ "name": "Sheridan Titman",
+ "sources": [
+  "https://www.fsgexperts.com/wp-content/uploads/2012/12/sheridan-titman.pdf",
+  "web search snippet (one recent item)"
+ ],
+ "collected": "2026-10-25",
+ "notes": "CV used is an old (c. 2011) resume: publication list ends 2010/2011; the McCombs-hosted current CV and faculty page could not be retrieved (404 / connection reset), so recent papers (2012-2026, incl. NBER working papers) are largely MISSING. CV gives only \"(with X and Y)\" so authors listed alphabetically by surname (Titman included). The JFQAn \"forthcoming\" item is assigned year 2012 (CV c.2011). Last item (City Characteristics ... with Guozhong Zhu, JUE forthcoming) comes from a search-result snippet, not the CV; author order and year unverified. Skipped one discussion piece and the Professional Publications section.",
+ "papers": [
+  {
+   "title": "An International Comparison of Capital Structure and Debt Maturity Choices",
+   "authors": [
+    "Joseph Fan",
+    "Sheridan Titman",
+    "Garry Twite"
+   ],
+   "year": 2012,
+   "venue": "Journal of Financial and Quantitative Analysis",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do the Best Hedge Funds Hedge?",
+   "authors": [
+    "Sheridan Titman",
+    "Cristian-Ioan Tiu"
+   ],
+   "year": 2011,
+   "venue": "Review of Financial Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Alternative Benchmarks for Evaluating Mutual Fund Performance",
+   "authors": [
+    "Jay Hartzell",
+    "Toby Muhlhofer",
+    "Sheridan Titman"
+   ],
+   "year": 2010,
+   "venue": "Real Estate Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Leverage of Hedge Funds",
+   "authors": [
+    "Sheridan Titman"
+   ],
+   "year": 2010,
+   "venue": "Financial Research Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Financial Structure, Acquisition Opportunities, and Firm Locations",
+   "authors": [
+    "Andres Almazan",
+    "Adolfo de Motta",
+    "Sheridan Titman",
+    "Vahap Uysal"
+   ],
+   "year": 2010,
+   "venue": "Journal of Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Individualism and Momentum around the World",
+   "authors": [
+    "Andy Chui",
+    "Sheridan Titman",
+    "John Wei"
+   ],
+   "year": 2010,
+   "venue": "Journal of Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Capital Investments and Stock Returns in Japan",
+   "authors": [
+    "Sheridan Titman",
+    "John Wei",
+    "Feixue Xie"
+   ],
+   "year": 2009,
+   "venue": "International Review of Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Firm's Stakeholders and the Costs of Transparency",
+   "authors": [
+    "Andres Almazan",
+    "Javier Suarez",
+    "Sheridan Titman"
+   ],
+   "year": 2009,
+   "venue": "Journal of Economics & Management Strategy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Empirical Capital Structure: A Review",
+   "authors": [
+    "Chris Parsons",
+    "Sheridan Titman"
+   ],
+   "year": 2009,
+   "venue": "Foundations and Trends in Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Individual Investor Trading and Stock Returns",
+   "authors": [
+    "Ron Kaniel",
+    "Gideon Saar",
+    "Sheridan Titman"
+   ],
+   "year": 2008,
+   "venue": "Journal of Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Why do Firms Hold So Much Cash? A Tax-Based Explanation",
+   "authors": [
+    "Fritz Foley",
+    "Jay Hartzell",
+    "Sheridan Titman",
+    "Garry Twite"
+   ],
+   "year": 2007,
+   "venue": "Journal of Financial Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Dynamic Model of Optimal Capital Structure",
+   "authors": [
+    "Sheridan Titman",
+    "Sergey Tsyplakov"
+   ],
+   "year": 2007,
+   "venue": "Review of Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Firm Location and the Creation and Utilization of Human Capital",
+   "authors": [
+    "Andres Almazan",
+    "Adolfo de Motta",
+    "Sheridan Titman"
+   ],
+   "year": 2007,
+   "venue": "Review of Economic Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Equilibrium, Analysis of Exhaustible Resource Investments",
+   "authors": [
+    "Murray Carlson",
+    "Zeigham Khokher",
+    "Sheridan Titman"
+   ],
+   "year": 2007,
+   "venue": "Journal of Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Firms' Histories and their Capital Structures",
+   "authors": [
+    "Ayla Kayhan",
+    "Sheridan Titman"
+   ],
+   "year": 2007,
+   "venue": "Journal of Financial Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Feedback and the Success of Irrational Investors",
+   "authors": [
+    "David Hirshleifer",
+    "Avanidhar Subrahmanyam",
+    "Sheridan Titman"
+   ],
+   "year": 2006,
+   "venue": "Journal of Financial Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Effect of Corporate Governance on Investment: Evidence from Real Estate Investment Trusts",
+   "authors": [
+    "Jay Hartzell",
+    "Libo Sun",
+    "Sheridan Titman"
+   ],
+   "year": 2006,
+   "venue": "Real Estate Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Changes in Institutional Ownership and Stock Returns: Assessment and Methodology",
+   "authors": [
+    "Richard Sias",
+    "Laura Starks",
+    "Sheridan Titman"
+   ],
+   "year": 2006,
+   "venue": "Journal of Business",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Market Reactions to Tangible and Intangible Information",
+   "authors": [
+    "Kent Daniel",
+    "Sheridan Titman"
+   ],
+   "year": 2006,
+   "venue": "Journal of Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Determinants of Credit Spreads in Commercial Mortgages",
+   "authors": [
+    "Sheridan Titman",
+    "Stathis Tompaidis",
+    "Sergey Tsyplakov"
+   ],
+   "year": 2005,
+   "venue": "Real Estate Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Corporate Investment with Financial Constraints: Sensitivity of Investment to Funds from Voluntary Asset Sales",
+   "authors": [
+    "Gayane Hovakimian",
+    "Sheridan Titman"
+   ],
+   "year": 2006,
+   "venue": "Journal of Money, Credit and Banking",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Capital Investments and Stock Returns",
+   "authors": [
+    "Sheridan Titman",
+    "K.C. John Wei",
+    "Feixue Xie"
+   ],
+   "year": 2004,
+   "venue": "Journal of Financial and Quantitative Analysis",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Market Imperfections, Investment Optionality and Default Spreads",
+   "authors": [
+    "Sheridan Titman",
+    "Stathis Tompaidis",
+    "Sergey Tsyplakov"
+   ],
+   "year": 2004,
+   "venue": "Journal of Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Cross-section of Expected REIT Returns",
+   "authors": [
+    "Andy Chui",
+    "Sheridan Titman",
+    "K.C. John Wei"
+   ],
+   "year": 2003,
+   "venue": "Real Estate Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Intra-Industry Momentum: The Case of REITs",
+   "authors": [
+    "Andy Chui",
+    "Sheridan Titman",
+    "K.C. John Wei"
+   ],
+   "year": 2003,
+   "venue": "Journal of Financial Markets",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Building the IPO Order Book: Underpricing and Participation Constraints with Costly Information",
+   "authors": [
+    "Ann Sherman",
+    "Sheridan Titman"
+   ],
+   "year": 2002,
+   "venue": "Journal of Financial Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Cross-Sectional and Time-Series Determinants of Momentum Returns",
+   "authors": [
+    "Narasimhan Jegadeesh",
+    "Sheridan Titman"
+   ],
+   "year": 2002,
+   "venue": "Review of Financial Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Modigliani and Miller Theorem and the Integration of Financial Markets",
+   "authors": [
+    "Sheridan Titman"
+   ],
+   "year": 2002,
+   "venue": "Financial Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Financial Development, Real Estate Development and Economic Development",
+   "authors": [
+    "Sheridan Titman"
+   ],
+   "year": 2001,
+   "venue": "International Real Estate Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Feedback from Stock Prices to Cash Flows",
+   "authors": [
+    "Avanidhar Subrahmanyam",
+    "Sheridan Titman"
+   ],
+   "year": 2001,
+   "venue": "Journal of Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Why Real Interest Rates, Cost of Capital and Price/Earnings Ratios Vary across Countries",
+   "authors": [
+    "Bhagwan Chowdhry",
+    "Sheridan Titman"
+   ],
+   "year": 2001,
+   "venue": "Journal of International Money and Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Debt-Equity Choice",
+   "authors": [
+    "Armen Hovakimian",
+    "Tim Opler",
+    "Sheridan Titman"
+   ],
+   "year": 2001,
+   "venue": "Journal of Financial and Quantitative Analysis",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Profitability of Momentum Strategies: An Evaluation of Alternative Explanations",
+   "authors": [
+    "Narasimhan Jegadeesh",
+    "Sheridan Titman"
+   ],
+   "year": 2001,
+   "venue": "Journal of Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Explaining the Cross-Section of Stock Returns in Japan: Factors or Characteristics?",
+   "authors": [
+    "Kent Daniel",
+    "Sheridan Titman",
+    "John Wei"
+   ],
+   "year": 2001,
+   "venue": "Journal of Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Tax-Motivated Trading and Price Pressure: An Analysis of Mutual Fund Holdings",
+   "authors": [
+    "Scott Gibson",
+    "Assem Safieddine",
+    "Sheridan Titman"
+   ],
+   "year": 2000,
+   "venue": "Journal of Financial and Quantitative Analysis",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do Real Estate Prices and Stock Prices Move Together? An International Analysis",
+   "authors": [
+    "Dan Quan",
+    "Sheridan Titman"
+   ],
+   "year": 1999,
+   "venue": "Real Estate Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Debt and Corporate Performance: Evidence From Unsuccessful Takeovers",
+   "authors": [
+    "Assem Safieddine",
+    "Sheridan Titman"
+   ],
+   "year": 1999,
+   "venue": "Journal of Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Going Public Decision and the Development of Financial Markets",
+   "authors": [
+    "Avanidhar Subrahmanyam",
+    "Sheridan Titman"
+   ],
+   "year": 1999,
+   "venue": "Journal of Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Understanding Stock Market Volatility: The Case of Korea and Taiwan",
+   "authors": [
+    "Sheridan Titman"
+   ],
+   "year": 1998,
+   "venue": "Pacific Basin Finance Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Pricing Strategy and Financial Policy",
+   "authors": [
+    "Sudipto Dasgupta",
+    "Sheridan Titman"
+   ],
+   "year": 1998,
+   "venue": "Review of Financial Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Measuring Mutual Fund Performance with Characteristic Based Benchmarks",
+   "authors": [
+    "Kent Daniel",
+    "Mark Grinblatt",
+    "Sheridan Titman",
+    "Russ Wermers"
+   ],
+   "year": 1997,
+   "venue": "Journal of Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Evidence on the Characteristics of Cross Sectional Variation in Stock Returns",
+   "authors": [
+    "Kent Daniel",
+    "Sheridan Titman"
+   ],
+   "year": 1997,
+   "venue": "Journal of Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Momentum Investment Strategies, Portfolio Performance and Herding: A Study of Mutual Fund Behavior",
+   "authors": [
+    "Mark Grinblatt",
+    "Sheridan Titman",
+    "Russ Wermers"
+   ],
+   "year": 1995,
+   "venue": "American Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Overreaction, Delayed Reaction and Contrarian Profits",
+   "authors": [
+    "Narasimhan Jegadeesh",
+    "Sheridan Titman"
+   ],
+   "year": 1995,
+   "venue": "Review of Financial Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Short Horizon Return Reversals and the Bid-Ask Spread",
+   "authors": [
+    "Narasimhan Jegadeesh",
+    "Sheridan Titman"
+   ],
+   "year": 1995,
+   "venue": "Journal of Financial Intermediation",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Security Analysis and Trading Patterns When Some Investors Receive Private Information Before Others",
+   "authors": [
+    "David Hirshleifer",
+    "Avanidhar Subrahmanyam",
+    "Sheridan Titman"
+   ],
+   "year": 1994,
+   "venue": "Journal of Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Study of Monthly Mutual Fund Returns and Performance Evaluation Techniques",
+   "authors": [
+    "Mark Grinblatt",
+    "Sheridan Titman"
+   ],
+   "year": 1994,
+   "venue": "Journal of Financial and Quantitative Analysis",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Financial Distress and Corporate Performance",
+   "authors": [
+    "Tim Opler",
+    "Sheridan Titman"
+   ],
+   "year": 1994,
+   "venue": "Journal of Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Characteristics of Leveraged Buyout Firms",
+   "authors": [
+    "Tim Opler",
+    "Sheridan Titman"
+   ],
+   "year": 1993,
+   "venue": "Journal of Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Performance Measurement without Benchmarks: An Examination of Mutual Fund Returns",
+   "authors": [
+    "Mark Grinblatt",
+    "Sheridan Titman"
+   ],
+   "year": 1993,
+   "venue": "Journal of Business",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Returns to Buying Winners and Selling Losers: Implications for Stock Market Efficiency",
+   "authors": [
+    "Narasimhan Jegadeesh",
+    "Sheridan Titman"
+   ],
+   "year": 1993,
+   "venue": "Journal of Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Persistence of Mutual Fund Returns",
+   "authors": [
+    "Mark Grinblatt",
+    "Sheridan Titman"
+   ],
+   "year": 1992,
+   "venue": "Journal of Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Interest Rate Swaps and Corporate Financing Choices",
+   "authors": [
+    "Sheridan Titman"
+   ],
+   "year": 1992,
+   "venue": "Journal of Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Postmerger Shareprice Performance of Acquiring Firms",
+   "authors": [
+    "Julian Franks",
+    "Robert Harris",
+    "Sheridan Titman"
+   ],
+   "year": 1991,
+   "venue": "Journal of Financial Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Financial Policy and a Firm's Reputation for Product Quality",
+   "authors": [
+    "Vojislav Maksimovic",
+    "Sheridan Titman"
+   ],
+   "year": 1991,
+   "venue": "Review of Financial Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Share Tendering Strategies and the Success of Hostile Takeover Bids",
+   "authors": [
+    "David Hirshleifer",
+    "Sheridan Titman"
+   ],
+   "year": 1990,
+   "venue": "Journal of Political Economy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Portfolio Performance Evaluation: Old Issues and New Insights",
+   "authors": [
+    "Mark Grinblatt",
+    "Sheridan Titman"
+   ],
+   "year": 1989,
+   "venue": "Review of Financial Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Valuing Commercial Mortgages: An Empirical Investigation of the Contingent Claims Approach to Pricing Risky Debt",
+   "authors": [
+    "Sheridan Titman",
+    "Walter Torous"
+   ],
+   "year": 1989,
+   "venue": "Journal of Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Mutual Fund Performance: An Analysis of Quarterly Portfolio Holdings",
+   "authors": [
+    "Mark Grinblatt",
+    "Sheridan Titman"
+   ],
+   "year": 1989,
+   "venue": "Journal of Business",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Adverse Risk Incentives and the Design of Performance-Based Contracts",
+   "authors": [
+    "Mark Grinblatt",
+    "Sheridan Titman"
+   ],
+   "year": 1989,
+   "venue": "Management Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Explanation of Accounting Income Smoothing",
+   "authors": [
+    "Sheridan Titman",
+    "Brett Trueman"
+   ],
+   "year": 1989,
+   "venue": "Journal of Accounting Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Stock Returns as Predictors of Interest Rates and Inflation",
+   "authors": [
+    "Sheridan Titman",
+    "Arthur Warga"
+   ],
+   "year": 1989,
+   "venue": "Journal of Financial and Quantitative Analysis",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Determinants of Capital Structure",
+   "authors": [
+    "Sheridan Titman",
+    "Roberto Wessels"
+   ],
+   "year": 1988,
+   "venue": "Journal of Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Relation Between Mean-Variance Efficiency and Arbitrage Pricing",
+   "authors": [
+    "Mark Grinblatt",
+    "Sheridan Titman"
+   ],
+   "year": 1987,
+   "venue": "Journal of Business",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Risk and the Performance of Real Estate Investment Trusts: A Multiple Index Approach",
+   "authors": [
+    "Sheridan Titman",
+    "Arthur Warga"
+   ],
+   "year": 1986,
+   "venue": "AREUEA Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Information Quality and the Valuation of New Issues",
+   "authors": [
+    "Sheridan Titman",
+    "Brett Trueman"
+   ],
+   "year": 1986,
+   "venue": "Journal of Accounting and Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Approximate Factor Structures: Interpretations and Implications for Empirical Tests",
+   "authors": [
+    "Mark Grinblatt",
+    "Sheridan Titman"
+   ],
+   "year": 1985,
+   "venue": "Journal of Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Urban Land Prices Under Uncertainty",
+   "authors": [
+    "Sheridan Titman"
+   ],
+   "year": 1985,
+   "venue": "American Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Effect of Forward Markets on the Debt-Equity Mix of Investor Portfolios and the Optimal Capital Structure of Firms",
+   "authors": [
+    "Sheridan Titman"
+   ],
+   "year": 1985,
+   "venue": "Journal of Financial and Quantitative Analysis",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Valuation Effects of Stock Splits and Stock Dividends",
+   "authors": [
+    "Mark Grinblatt",
+    "Ronald Masulis",
+    "Sheridan Titman"
+   ],
+   "year": 1984,
+   "venue": "Journal of Financial Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Effect of Capital Structure on a Firm's Liquidation Decision",
+   "authors": [
+    "Sheridan Titman"
+   ],
+   "year": 1984,
+   "venue": "Journal of Financial Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Factor Pricing in a Finite Economy",
+   "authors": [
+    "Mark Grinblatt",
+    "Sheridan Titman"
+   ],
+   "year": 1983,
+   "venue": "Journal of Financial Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Effects of Anticipated Inflation on Housing Market Equilibrium",
+   "authors": [
+    "Sheridan Titman"
+   ],
+   "year": 1982,
+   "venue": "Journal of Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Predicting systematic risk: Implications from growth options",
+   "authors": [
+    "Eric Jacquier",
+    "Sheridan Titman",
+    "Atakan Yalcin"
+   ],
+   "year": 2010,
+   "venue": "Journal of Empirical Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Originator Performance, CMBS Structures and Yield Spreads of Commercial Mortgages",
+   "authors": [
+    "Sheridan Titman",
+    "Sergey Tsyplakov"
+   ],
+   "year": 2010,
+   "venue": "Review of Financial Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Financial Constraints, Competition and Hedging in Industry Equilibrium",
+   "authors": [
+    "Tim Adams",
+    "Sudipto Dasgupta",
+    "Sheridan Titman"
+   ],
+   "year": 2007,
+   "venue": "Journal of Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Taxes and Dividend Policy",
+   "authors": [
+    "Eli Talmor",
+    "Sheridan Titman"
+   ],
+   "year": 1990,
+   "venue": "Financial Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "City Characteristics, Land Prices and Volatility",
+   "authors": [
+    "Guozhong Zhu",
+    "Sheridan Titman"
+   ],
+   "year": 2025,
+   "venue": "Journal of Urban Economics",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

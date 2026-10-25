@@ -1,0 +1,60 @@
+{
+ "slug": "edmund-m-tavernier",
+ "name": "Edmund M. Tavernier",
+ "sources": [
+  "https://fare.rutgers.edu/faculty/edmund-tavernier",
+  "web search result snippets only"
+ ],
+ "collected": "2026-10-25",
+ "notes": "No homepage or CV exists and the dept page lists no papers. Partial list from a web-search snippet only (4 articles; coauthor first names unknown: Yadavalli, Onyango, Hossain, Turvey). INCOMPLETE and unverified. Other known titles not included for lack of full byline/year: farm tenure (with Temel, Derr, 2007), risk strategies at the rural/urban fringe (with Onyango, 2008), land conservation programs (2008), NJ agricultural policy as social engineering (2006), federal market information (2002).",
+ "papers": [
+  {
+   "title": "Should the United States continue to pursue free trade agreements? A socio-economic perspective",
+   "authors": [
+    "Edmund M. Tavernier",
+    "Yadavalli"
+   ],
+   "year": 2012,
+   "venue": "Tropical Agriculture",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Should the United States eliminate unilateral sanctions prohibiting food trade?",
+   "authors": [
+    "Edmund M. Tavernier"
+   ],
+   "year": 2009,
+   "venue": "Tropical Agriculture",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Nonlinearity and asymmetric vertical transmission in U.S. fresh vegetable prices",
+   "authors": [
+    "Edmund M. Tavernier",
+    "Onyango",
+    "Hossain"
+   ],
+   "year": 2009,
+   "venue": "Tropical Agriculture",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Determinants of a social clause in international trade negotiations",
+   "authors": [
+    "Edmund M. Tavernier",
+    "Turvey"
+   ],
+   "year": 2006,
+   "venue": "Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

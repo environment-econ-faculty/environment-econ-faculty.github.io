@@ -1,0 +1,188 @@
+{
+ "slug": "mark-paul",
+ "name": "Mark Paul",
+ "sources": [
+  "https://markpaulecon.com",
+  "https://markpaulecon.com/about/",
+  "https://markpaulecon.com/working-papers-2/ (empty)",
+  "https://markpaulecon.com/wp-content/uploads/2022/01/mark_paul_cv-1.pdf"
+ ],
+ "collected": "2026-10-25",
+ "notes": "Refereed articles from the Publications page (Paul first author on all). Reports, book reviews and the 2023 book skipped. Working Papers page empty; page says forthcoming papers on request. Rutgers Box CV not fetched (older 2022 CV used only as cross-check).",
+ "papers": [
+  {
+   "title": "Incorporating an Investment Multiplier into DICE Supports More Rapid Decarbonization",
+   "authors": [
+    "Mark Paul",
+    "Anders Fremstad"
+   ],
+   "year": 2026,
+   "venue": "Environmental Research: Energy",
+   "status": "已发表",
+   "url": "https://iopscience.iop.org/article/10.1088/2753-3751/ae6595",
+   "abstract": null
+  },
+  {
+   "title": "The Role of Rebates in Public Support for Carbon Taxes",
+   "authors": [
+    "Mark Paul",
+    "Anders Fremstad",
+    "Matto Mildenberger",
+    "Isabelle Stadelmann-Steffen"
+   ],
+   "year": 2022,
+   "venue": "Environmental Research Letters",
+   "status": "已发表",
+   "url": "https://iopscience.iop.org/article/10.1088/1748-9326/ac8607",
+   "abstract": null
+  },
+  {
+   "title": "Neoliberalism and Climate Change: How the Free Market Myth Has Prevented Climate Action",
+   "authors": [
+    "Mark Paul",
+    "Anders Fremstad"
+   ],
+   "year": 2022,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/pii/S0921800922000155",
+   "abstract": null
+  },
+  {
+   "title": "Returns in the Labor Market: A Nuanced View of Penalties at the Intersection of Race and Gender",
+   "authors": [
+    "Mark Paul",
+    "Khaing Zaw",
+    "William Darity Jr."
+   ],
+   "year": 2022,
+   "venue": "Feminist Economics",
+   "status": "已发表",
+   "url": "https://www.tandfonline.com/doi/full/10.1080/13545701.2022.2042472",
+   "abstract": null
+  },
+  {
+   "title": "About Face: Seeing Class and Race",
+   "authors": [
+    "Mark Paul",
+    "Sarah Gaither",
+    "William Darity Jr."
+   ],
+   "year": 2022,
+   "venue": "Journal of Economic Issues",
+   "status": "已发表",
+   "url": "https://www.tandfonline.com/doi/full/10.1080/00213624.2022.2008750",
+   "abstract": null
+  },
+  {
+   "title": "Monopsony and Collective Action in an Institutional Context",
+   "authors": [
+    "Mark Paul",
+    "Mark Stelzner"
+   ],
+   "year": 2020,
+   "venue": "Review of Social Economy",
+   "status": "已发表",
+   "url": "https://www.tandfonline.com/doi/full/10.1080/00346764.2020.1829017",
+   "abstract": null
+  },
+  {
+   "title": "A Public Banking Option as a Mode of Regulation for Household Financial Services in the United States",
+   "authors": [
+    "Mark Paul",
+    "Thomas Herndon"
+   ],
+   "year": 2020,
+   "venue": "Journal of Post Keynesian Economics",
+   "status": "已发表",
+   "url": "https://www.tandfonline.com/doi/full/10.1080/01603477.2020.1734462",
+   "abstract": null
+  },
+  {
+   "title": "Opening the Farm Gate to Women? Sustainable Agriculture in the United States",
+   "authors": [
+    "Mark Paul",
+    "Anders Fremstad"
+   ],
+   "year": 2020,
+   "venue": "Journal of Economic Issues",
+   "status": "已发表",
+   "url": "https://www.tandfonline.com/doi/full/10.1080/00213624.2020.1720569",
+   "abstract": null
+  },
+  {
+   "title": "Work Hours and CO2 Emissions: Evidence from U.S. Households",
+   "authors": [
+    "Mark Paul",
+    "Anders Fremstad",
+    "Anthony Underwood"
+   ],
+   "year": 2019,
+   "venue": "Review of Political Economy",
+   "status": "已发表",
+   "url": "https://www.tandfonline.com/doi/full/10.1080/09538259.2019.1592950",
+   "abstract": null
+  },
+  {
+   "title": "The Impact of a Carbon Tax on Inequality",
+   "authors": [
+    "Mark Paul",
+    "Anders Fremstad"
+   ],
+   "year": 2019,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/pii/S092180091831084X",
+   "abstract": null
+  },
+  {
+   "title": "Community Supported Agriculture in the United States: Social, Ecological, and Economic Benefits to Farming",
+   "authors": [
+    "Mark Paul"
+   ],
+   "year": 2019,
+   "venue": "Journal of Agrarian Change",
+   "status": "已发表",
+   "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/joac.12280",
+   "abstract": null
+  },
+  {
+   "title": "A Path to Ending Poverty by Way of Ending Unemployment: A Federal Job Guarantee",
+   "authors": [
+    "Mark Paul",
+    "William Darity Jr.",
+    "Darrick Hamilton",
+    "Khaing Zaw"
+   ],
+   "year": 2018,
+   "venue": "RSF: The Russell Sage Foundation Journal of the Social Sciences",
+   "status": "已发表",
+   "url": "https://www.rsfjournal.org/content/4/3/44",
+   "abstract": null
+  },
+  {
+   "title": "Small Farms Smaller Plots: Land Size, Fragmentation, and Productivity in Ethiopia",
+   "authors": [
+    "Mark Paul",
+    "Mwangi wa Githinji"
+   ],
+   "year": 2018,
+   "venue": "The Journal of Peasant Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Question of 'Fit': local perspectives on top-down flood mitigation policies in Vermont",
+   "authors": [
+    "Mark Paul",
+    "Anita Milman"
+   ],
+   "year": 2017,
+   "venue": "Journal of Environmental Planning and Management",
+   "status": "已发表",
+   "url": "http://www.tandfonline.com/doi/full/10.1080/09640568.2017.1283298",
+   "abstract": null
+  }
+ ]
+}

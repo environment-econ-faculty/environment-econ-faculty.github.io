@@ -1,0 +1,178 @@
+{
+ "slug": "david-molitor",
+ "name": "David Molitor",
+ "sources": [
+  "https://giesbusiness.illinois.edu/profile/david-molitor"
+ ],
+ "collected": "2026-10-25",
+ "notes": "Only the Gies profile was available. Profile lists coauthors without Molitor; Molitor placed first, coauthors in profile order (byline order unverified); coauthor first names given as initials on the profile. Years for the 3 'Forthcoming' items not stated: 2026 used; the profile may be stale and they may now be published. Skipped the Scientific American popular article.",
+ "papers": [
+  {
+   "title": "Air Pollution and the Labor Market: Evidence from Wildfire Smoke",
+   "authors": [
+    "David Molitor",
+    "M. Borgschulte",
+    "E. Zou"
+   ],
+   "year": 2026,
+   "venue": "Review of Economics and Statistics",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do Cities Mitigate or Exacerbate Environmental Damages to Health?",
+   "authors": [
+    "David Molitor",
+    "C. White"
+   ],
+   "year": 2026,
+   "venue": "Regional Science and Urban Economics",
+   "status": "即将发表",
+   "url": "https://doi.org/10.1016/j.regsciurbeco.2023.103973",
+   "abstract": null
+  },
+  {
+   "title": "The Nonlinear Effects of Air Pollution on Health: Evidence from Wildfire Smoke",
+   "authors": [
+    "David Molitor",
+    "N. Miller",
+    "E. Zou"
+   ],
+   "year": 2026,
+   "venue": "American Economic Review: Insights",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Air Pollution and Suicide in Rural and Urban America: Evidence from Wildfire Smoke",
+   "authors": [
+    "David Molitor",
+    "J. Mullins",
+    "C. White"
+   ],
+   "year": 2023,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2221621120",
+   "abstract": null
+  },
+  {
+   "title": "The Causal Effects of Place on Health and Longevity",
+   "authors": [
+    "David Molitor",
+    "T. Deryugina"
+   ],
+   "year": 2021,
+   "venue": "Journal of Economic Perspectives",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Adaptation and the Mortality Effects of Temperature across US Climate Regions",
+   "authors": [
+    "David Molitor",
+    "G. Heutel",
+    "N. Miller"
+   ],
+   "year": 2021,
+   "venue": "Review of Economics and Statistics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1162/rest_a_00936",
+   "abstract": null
+  },
+  {
+   "title": "Geographic and Socioeconomic Heterogeneity in the Benefits of Reducing Air Pollution in the United States",
+   "authors": [
+    "David Molitor",
+    "T. Deryugina",
+    "N. Miller",
+    "J. Reif"
+   ],
+   "year": 2021,
+   "venue": "Environmental and Energy Policy and the Economy",
+   "status": "已发表",
+   "url": "http://dx.doi.org/10.1086/711309",
+   "abstract": null
+  },
+  {
+   "title": "Does When You Die Depend on Where You Live? Evidence from Hurricane Katrina",
+   "authors": [
+    "David Molitor",
+    "T. Deryugina"
+   ],
+   "year": 2020,
+   "venue": "American Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Mortality and Medical Costs of Air Pollution: Evidence from Changes in Wind Direction",
+   "authors": [
+    "David Molitor",
+    "T. Deryugina",
+    "G. Heutel",
+    "N. Miller",
+    "J. Reif"
+   ],
+   "year": 2019,
+   "venue": "American Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "What Do Workplace Wellness Programs Do? Evidence from the Illinois Workplace Wellness Study",
+   "authors": [
+    "David Molitor",
+    "D. Jones",
+    "J. Reif"
+   ],
+   "year": 2019,
+   "venue": "Quarterly Journal of Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Influence of Pioneer Investigators on Technology Adoption: Evidence from New Cancer Drugs",
+   "authors": [
+    "David Molitor",
+    "L. Agha"
+   ],
+   "year": 2018,
+   "venue": "Review of Economics and Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Evolution of Physician Practice Styles: Evidence from Cardiologist Migration",
+   "authors": [
+    "David Molitor"
+   ],
+   "year": 2018,
+   "venue": "American Economic Journal: Economic Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Feeling it in your bones: A retrospective claims analysis of the association between rainfall and diagnosis of joint or back pain",
+   "authors": [
+    "David Molitor",
+    "A. Jena",
+    "A. Olenski",
+    "N. Miller"
+   ],
+   "year": 2017,
+   "venue": "BMJ",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

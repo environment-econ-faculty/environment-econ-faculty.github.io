@@ -1,0 +1,504 @@
+{
+ "slug": "junjie-zhang",
+ "name": "Junjie Zhang",
+ "sources": [
+  "https://sites.nicholas.duke.edu/junjiezhang/files/2023/01/cv_junjie_zhang.pdf"
+ ],
+ "collected": "2026-10-25",
+ "notes": "CV only (dated ~2022-23, possibly stale). Homepage junjiezhang.org now redirects to an unrelated domain, so not used. Author names kept as written in CV (initials), only the scholar expanded. Skipped reports, Chinese-language publications, short commentaries (Nature Climate Change 2014 HFC piece, GEC 2014 'Same dream', Intl Affairs Forum 2013). Working papers are 'In Submission' items, year 2022 from CV.",
+ "papers": [
+  {
+   "title": "The impact of air pollution on movie theater admissions",
+   "authors": [
+    "X. He",
+    "Z. Luo",
+    "Junjie Zhang"
+   ],
+   "year": 2022,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Rising temperature threatens China's cropland",
+   "authors": [
+    "J. Wang",
+    "Junjie Zhang",
+    "P. Zhang"
+   ],
+   "year": 2022,
+   "venue": "Environmental Research Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The effectiveness of China's regional carbon market pilots in reducing firm emissions",
+   "authors": [
+    "J. Cui",
+    "C. Wang",
+    "Junjie Zhang",
+    "Y. Zheng"
+   ],
+   "year": 2021,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Navigating and Evaluating the Labyrinth of Environmental Regulation in China",
+   "authors": [
+    "V. J. Karplus",
+    "Junjie Zhang",
+    "J. Zhao"
+   ],
+   "year": 2021,
+   "venue": "Review of Environmental Economics and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Financing a sustainable ocean economy",
+   "authors": [
+    "U. R. Sumaila",
+    "M. Walsh",
+    "K. Hoareau",
+    "A. Cox",
+    "L. Teh",
+    "P. Abdallah",
+    "W. Akpalu",
+    "Z. Anna",
+    "D. Benzaken",
+    "B. Crona",
+    "T. Fitzgerald",
+    "L. Heaps",
+    "I. Issifu",
+    "K. Karousakis",
+    "G. M. Lange",
+    "A. Leland",
+    "D. Miller",
+    "K. Sack",
+    "D. Shahnaz",
+    "T. Thiele",
+    "N. Vestergaard",
+    "N. Yagi",
+    "Junjie Zhang"
+   ],
+   "year": 2021,
+   "venue": "Nature Communications",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Consideration of culture is vital if we are to achieve the Sustainable Development Goals",
+   "authors": [
+    "X. Zheng",
+    "R. Wang",
+    "A. Y. Hoekstra",
+    "M. S. Krol",
+    "Y. Zhang",
+    "K. Guo",
+    "M. Sanwal",
+    "Z. Sun",
+    "J. Zhu",
+    "Junjie Zhang",
+    "A. Lounsbury",
+    "X. Pan",
+    "D. Guan",
+    "E. G. Hertwich",
+    "C. Wang"
+   ],
+   "year": 2021,
+   "venue": "One Earth",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Censored Maximum Likelihood Approach to Quantifying Manipulation in China's Air Pollution Data",
+   "authors": [
+    "D. Ghanem",
+    "S. Shen",
+    "Junjie Zhang"
+   ],
+   "year": 2020,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Validating China's output data using satellite observations",
+   "authors": [
+    "S. D. Morris",
+    "Junjie Zhang"
+   ],
+   "year": 2019,
+   "venue": "Macroeconomic Dynamics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Air pollution and defensive expenditures: Evidence from particulate-filtering facemasks",
+   "authors": [
+    "Junjie Zhang",
+    "Q. Mu"
+   ],
+   "year": 2018,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Carbon pricing induces innovation: Evidence from China's regional carbon market pilots",
+   "authors": [
+    "J. Cui",
+    "Junjie Zhang",
+    "Y. Zheng"
+   ],
+   "year": 2018,
+   "venue": "American Economic Association Papers & Proceedings",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Population exposure to ambient PM2.5 at the subdistrict level in China",
+   "authors": [
+    "Y. Long",
+    "J. Wang",
+    "K. Wu",
+    "Junjie Zhang"
+   ],
+   "year": 2018,
+   "venue": "International Journal of Environmental Research and Public Health",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Regional cooperation on carbon markets in east Asia",
+   "authors": [
+    "J. Li",
+    "Junjie Zhang"
+   ],
+   "year": 2018,
+   "venue": "Asian Development Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Temperature effects on productivity and factor reallocation: Evidence from a half million Chinese manufacturing plants",
+   "authors": [
+    "P. Zhang",
+    "O. Deschenes",
+    "K. Meng",
+    "Junjie Zhang"
+   ],
+   "year": 2018,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Forecasting China's carbon intensity: Is China on track to comply with its Copenhagen commitment?",
+   "authors": [
+    "Y. Yang",
+    "Junjie Zhang",
+    "C. Wang"
+   ],
+   "year": 2018,
+   "venue": "Energy Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Lessons learned from China's regional carbon market pilots",
+   "authors": [
+    "Junjie Zhang",
+    "Z. Wang",
+    "X. Du"
+   ],
+   "year": 2017,
+   "venue": "Economics of Energy & Environmental Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic impacts of climate change on agriculture: The importance of additional climatic variables other than temperature and precipitation",
+   "authors": [
+    "P. Zhang",
+    "Junjie Zhang",
+    "M. Chen"
+   ],
+   "year": 2017,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "China's sectoral strategies in energy conservation and carbon mitigation",
+   "authors": [
+    "C. Wang",
+    "Y. Yang",
+    "Junjie Zhang"
+   ],
+   "year": 2015,
+   "venue": "Climate Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Effortless perfection: Do Chinese cities manipulate air pollution data?",
+   "authors": [
+    "D. Ghanem",
+    "Junjie Zhang"
+   ],
+   "year": 2014,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Fiscal decentralization and environmental infrastructure in China",
+   "authors": [
+    "A. Liu",
+    "Junjie Zhang"
+   ],
+   "year": 2013,
+   "venue": "B.E. Journal of Economic Analysis and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Fishermen's perspectives on climate variability",
+   "authors": [
+    "Junjie Zhang",
+    "J. Fleming",
+    "R. Goericke"
+   ],
+   "year": 2012,
+   "venue": "Marine Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Estimation of a generalized fishery model: A two-stage approach",
+   "authors": [
+    "Junjie Zhang",
+    "M. D. Smith"
+   ],
+   "year": 2011,
+   "venue": "Review of Economics and Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Co-benefits and additionality of the Clean Development Mechanism: An empirical analysis",
+   "authors": [
+    "Junjie Zhang",
+    "C. Wang"
+   ],
+   "year": 2011,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Heterogeneous response to marine reserve formation: A sorting model approach",
+   "authors": [
+    "Junjie Zhang",
+    "M. D. Smith"
+   ],
+   "year": 2011,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Lose some, save some: Obesity, automobile demand, and gasoline consumption",
+   "authors": [
+    "S. Li",
+    "Y. Liu",
+    "Junjie Zhang"
+   ],
+   "year": 2011,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Behavioral response to stock abundance in exploiting common-pool resources",
+   "authors": [
+    "Junjie Zhang"
+   ],
+   "year": 2011,
+   "venue": "B.E. Journal of Economic Analysis and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Econometric modeling of fisheries with complex life histories: Avoiding biological management failures",
+   "authors": [
+    "M. D. Smith",
+    "Junjie Zhang",
+    "F. C. Coleman"
+   ],
+   "year": 2008,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Structural modeling of marine reserves with Bayesian estimation",
+   "authors": [
+    "M. D. Smith",
+    "Junjie Zhang",
+    "F. C. Coleman"
+   ],
+   "year": 2007,
+   "venue": "Marine Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Effectiveness of marine reserves for large-scale fisheries management",
+   "authors": [
+    "M. D. Smith",
+    "Junjie Zhang",
+    "F. C. Coleman"
+   ],
+   "year": 2006,
+   "venue": "Canadian Journal of Fisheries and Aquatic Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Developing non-market approaches through regional cooperation platforms",
+   "authors": [
+    "Z. Huang",
+    "Junjie Zhang"
+   ],
+   "year": 2018,
+   "venue": "Book chapter in International Cooperation in East Asia to Address Climate Change (Harvard Belfer Center)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic considerations: Cost-effective and efficient climate policies",
+   "authors": [
+    "M. Auffhammer",
+    "C.-Y. C. L. Lawell",
+    "J. Bushnell",
+    "O. Deschenes",
+    "Junjie Zhang"
+   ],
+   "year": 2016,
+   "venue": "Book chapter in Bending the Curve (Collabra)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Carbon Leakage within Firm Ownership Networks",
+   "authors": [
+    "J. Cui",
+    "C. Wang",
+    "Z. Wang",
+    "Junjie Zhang",
+    "Y. Zheng"
+   ],
+   "year": 2022,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Cost-effectiveness of Heavy Pollution Control Measures",
+   "authors": [
+    "X. Chen",
+    "Junjie Zhang"
+   ],
+   "year": 2022,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Value of Information Disclosure: Evidence from Mask Consumption in China",
+   "authors": [
+    "Z. Wang",
+    "Junjie Zhang"
+   ],
+   "year": 2022,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Impacts of Carbon Pricing on Firm Competitiveness: Evidence from the Regional Carbon Market Pilots in China",
+   "authors": [
+    "J. Cui",
+    "Junjie Zhang",
+    "Y. Zheng"
+   ],
+   "year": 2022,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Lockdowns, location, and learning: The effects of COVID-19 on students' academic performance",
+   "authors": [
+    "J. Sun",
+    "P. S. Ward",
+    "Junjie Zhang"
+   ],
+   "year": 2022,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Population Affected by Dust in China in the Springtime",
+   "authors": [
+    "W. Wang",
+    "Junjie Zhang"
+   ],
+   "year": 2022,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

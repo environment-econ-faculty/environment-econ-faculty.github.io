@@ -1,0 +1,466 @@
+{
+ "slug": "david-newburn",
+ "name": "David Newburn",
+ "sources": [
+  "https://arec.umd.edu/sites/arec.umd.edu/files/files/documents/People/CVs/Newburn_CV.pdf",
+  "https://sites.google.com/umd.edu/dnewburn"
+ ],
+ "collected": "2026-10-25",
+ "notes": "From UMD CV (latest entries 2023; probably dated ~2023). Names abbreviated to initials where the CV gives only initials (first names not expanded). Working paper year (2023) is assumed from the CV date; the working-paper in-review items are listed on the CV without a year. Homepage lists no papers directly. 'In press' 2023 items classed as forthcoming. Abstracts not available.",
+ "papers": [
+  {
+   "title": "Household willingness to pay for stream restoration on private and public lands: Evidence from the Baltimore Metropolitan Region",
+   "authors": [
+    "A. Rosenberg",
+    "D. Newburn",
+    "C. Towe"
+   ],
+   "year": 2023,
+   "venue": "Journal of the American Water Resources Association",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Balancing development and forest conservation: The impact of Maryland's Forest Conservation Act on spatial configuration of forest and housing",
+   "authors": [
+    "M. Mockrin",
+    "D. Newburn",
+    "J. Stanovick"
+   ],
+   "year": 2023,
+   "venue": "Journal of Environmental Planning and Management",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Modeling transaction costs in household adoption of landscape conservation practices",
+   "authors": [
+    "R. Johnston",
+    "T. Ndebele",
+    "D. Newburn"
+   ],
+   "year": 2023,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Spatial asynchrony in environmental and economic benefits of stream restoration",
+   "authors": [
+    "R. Zhang",
+    "D. Newburn",
+    "A. Rosenberg",
+    "L. Lin",
+    "P. Groffman",
+    "J. Duncan",
+    "L. Band"
+   ],
+   "year": 2022,
+   "venue": "Environmental Research Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Water quality trading in the presence of conservation subsidies",
+   "authors": [
+    "P. Fleming",
+    "E. Lichtenberg",
+    "D. Newburn"
+   ],
+   "year": 2020,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Price-based policies for managing residential development and impacts to water quality",
+   "authors": [
+    "D. Wrenn",
+    "A. Klaiber",
+    "D. Newburn"
+   ],
+   "year": 2019,
+   "venue": "Resource and Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Evaluating impacts of agricultural cost sharing on water quality: additionality, crowding in, and slippage",
+   "authors": [
+    "P. Fleming",
+    "E. Lichtenberg",
+    "D. Newburn"
+   ],
+   "year": 2018,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Additionality and forest conservation regulation for residential development",
+   "authors": [
+    "D. Newburn",
+    "J. Ferris"
+   ],
+   "year": 2017,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Confronting price endogeneity in a duration model of residential subdivision development",
+   "authors": [
+    "D. Wrenn",
+    "A. Klaiber",
+    "D. Newburn"
+   ],
+   "year": 2017,
+   "venue": "Journal of Applied Econometrics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Wireless alerts for extreme weather and the impact on hazard mitigation behavior",
+   "authors": [
+    "J. Ferris",
+    "D. Newburn"
+   ],
+   "year": 2017,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Household response to environmental incentives for rain garden adoption",
+   "authors": [
+    "D. Newburn",
+    "A. Alberini"
+   ],
+   "year": 2016,
+   "venue": "Water Resources Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The effect of downzoning for managing residential development and density",
+   "authors": [
+    "D. Newburn",
+    "J. Ferris"
+   ],
+   "year": 2016,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Additionality and reverse crowding out for pollution offsets in water quality trading",
+   "authors": [
+    "R. Woodward",
+    "D. Newburn",
+    "M. Mezzatesta"
+   ],
+   "year": 2016,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Evaluating tradeoffs between environmental flow protections and agricultural water security",
+   "authors": [
+    "T. Grantham",
+    "M. Mezzatesta",
+    "D. Newburn",
+    "A. Merenlender"
+   ],
+   "year": 2014,
+   "venue": "River Research and Applications",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Additionality and the adoption of farm conservation practices",
+   "authors": [
+    "M. Mezzatesta",
+    "D. Newburn",
+    "R. Woodward"
+   ],
+   "year": 2013,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An ex post assessment of the Great Miami River Water Quality Trading Program",
+   "authors": [
+    "D. Newburn",
+    "R. Woodward"
+   ],
+   "year": 2012,
+   "venue": "Journal of the American Water Resources Association",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The role of stream flow and land use on limiting oversummer survival of juvenile steelhead in California streams",
+   "authors": [
+    "T. Grantham",
+    "D. Newburn",
+    "M. McCarthy",
+    "A. Merenlender"
+   ],
+   "year": 2012,
+   "venue": "Transactions of the American Fisheries Society",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Exurban development",
+   "authors": [
+    "D. Newburn",
+    "P. Berck"
+   ],
+   "year": 2011,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Agricultural water security and instream flows for endangered species",
+   "authors": [
+    "D. Newburn",
+    "N. Brozovic",
+    "M. Mezzatesta"
+   ],
+   "year": 2011,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Growth management policies for exurban and suburban development: Theory and an Application to Sonoma County, California",
+   "authors": [
+    "D. Newburn",
+    "P. Berck"
+   ],
+   "year": 2011,
+   "venue": "Agricultural and Resource Economics Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The economics of urban-rural space",
+   "authors": [
+    "E. Irwin",
+    "K. Bell",
+    "N. Bockstael",
+    "D. Newburn",
+    "M. Partridge",
+    "J. Wu"
+   ],
+   "year": 2009,
+   "venue": "Annual Review of Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The importance of incorporating threat for efficient targeting and evaluation of conservation investments",
+   "authors": [
+    "A. Merenlender",
+    "D. Newburn",
+    "S. Reed",
+    "A. Rissman"
+   ],
+   "year": 2009,
+   "venue": "Conservation Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Forecasting relative impacts of land use on anadromous fish habitat to guide conservation planning",
+   "authors": [
+    "K.A. Lohse",
+    "D.A. Newburn",
+    "J.J. Opperman",
+    "A.M. Merenlender"
+   ],
+   "year": 2008,
+   "venue": "Ecological Applications",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The importance of sewer extension costs for determining the value of future development on agricultural lands",
+   "authors": [
+    "P. Berck",
+    "D.A. Newburn"
+   ],
+   "year": 2007,
+   "venue": "Review of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Habitat and open space at risk of land-use conversion: targeting strategies for land conservation",
+   "authors": [
+    "D.A. Newburn",
+    "P. Berck",
+    "A.M. Merenlender"
+   ],
+   "year": 2006,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Modeling suburban and rural residential development beyond the urban fringe",
+   "authors": [
+    "D.A. Newburn",
+    "P. Berck"
+   ],
+   "year": 2006,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economics and land-use change in prioritizing private land conservation",
+   "authors": [
+    "D. Newburn",
+    "S. Reed",
+    "P. Berck",
+    "A. Merenlender"
+   ],
+   "year": 2005,
+   "venue": "Conservation Biology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Vineyard identification in an oak woodland landscape with airborne digital camera imagery",
+   "authors": [
+    "P. Gong",
+    "S.A. Mahler",
+    "G.S. Biging",
+    "D.A. Newburn"
+   ],
+   "year": 2003,
+   "venue": "International Journal of Remote Sensing",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Modeling multi-scale influences on household lawncare decisions: formal and informal neighborhood effects on fertilizer use",
+   "authors": [
+    "David Newburn",
+    "Rob Johnston",
+    "Tom Ndebele",
+    "Colin Polsky",
+    "Haoluan Wang"
+   ],
+   "year": 2023,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Payments and penalties in ecosystem services programs",
+   "authors": [
+    "Young Kim",
+    "Erik Lichtenberg",
+    "David Newburn"
+   ],
+   "year": 2023,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Time and risk preferences in payments for ecosystem services contracts",
+   "authors": [
+    "David Newburn",
+    "Erik Lichtenberg",
+    "Haoluan Wang"
+   ],
+   "year": 2023,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Understanding household preferences for price versus quantity instruments on lawncare practices: Implications for nonpoint nutrient reductions",
+   "authors": [
+    "David Newburn",
+    "Rob Johnston",
+    "Tom Ndebele",
+    "Ewa Zawojska"
+   ],
+   "year": 2023,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Farmland and forest conservation: Evaluation of smart growth policies and tools",
+   "authors": [
+    "D. Newburn",
+    "L. Lynch",
+    "H. Wang"
+   ],
+   "year": 2022,
+   "venue": "Handbook of Smart Growth: Promise, Principles, and Prospects for Planning (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The role of regulations and norms in land use change",
+   "authors": [
+    "E.G. Irwin",
+    "G. Buckley",
+    "M. Gnagey",
+    "N. Irwin",
+    "D. Newburn",
+    "E. Pierce",
+    "D. Wrenn",
+    "W. Zhang"
+   ],
+   "year": 2019,
+   "venue": "Science for the Sustainable City: Empirical Insights from the Baltimore School of Urban Ecology (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

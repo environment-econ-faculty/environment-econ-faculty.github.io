@@ -1,0 +1,899 @@
+{
+ "slug": "benjamin-m-gramig",
+ "name": "Benjamin M. Gramig",
+ "sources": [
+  "https://apps.business.cornell.edu/faculty-research/faculty/vita/bmg99 (CV PDF, 2026)",
+  "https://www.bengramig.com/ (homepage; research page returned 404)"
+ ],
+ "collected": "2026-10-25",
+ "notes": "Source: CV only: 53 refereed journal articles + 3 book chapters (Horan et al. 2008 chapter duplicates a journal article already listed). Author names are as written in the CV (initials, e.g. \"LS Prokopy\"); only Gramig is expanded. No working papers/R&R are listed in the CV (only unpublished conference selected papers, skipped), and the homepage research page was not readable, so working papers may be missing. ERS reports/memos, datasets, proceedings skipped.",
+ "papers": [
+  {
+   "title": "Additionality of Afforestation Incentives: Evidence from the Conservation Reserve Program",
+   "authors": [
+    "AB Rosenberg",
+    "Benjamin M. Gramig",
+    "PC Beeson",
+    "R Iovanna"
+   ],
+   "year": 2026,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A framework for conceptualizing agricultural diversification with a focus on the U.S. Corn Belt",
+   "authors": [
+    "LS Asprooth",
+    "R Traldi",
+    "J Arbuckle",
+    "S Church",
+    "K Floress",
+    "Benjamin M. Gramig",
+    "S Harden",
+    "AJ Margenot",
+    "A Thompson",
+    "A Torres",
+    "EM DeaKyne",
+    "LS Prokopy"
+   ],
+   "year": 2026,
+   "venue": "Agricultural Systems",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Effect of the Conservation Stewardship Program on Ambient Water Quality in the Illinois River Basin",
+   "authors": [
+    "HC Hsieh",
+    "Benjamin M. Gramig"
+   ],
+   "year": 2026,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Econometric evaluation of the impact of agricultural conservation on nonpoint source pollution: An application to the Wabash River watershed",
+   "authors": [
+    "S Sun",
+    "Benjamin M. Gramig",
+    "M Delgado"
+   ],
+   "year": 2026,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Pay the Polluter or Polluter Pays? A Preliminary Assessment of Public Preferences for Water Quality Policy",
+   "authors": [
+    "S Oh",
+    "Benjamin M. Gramig"
+   ],
+   "year": 2025,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Interplay between Voluntary Private Carbon Initiatives and USDA Programs",
+   "authors": [
+    "O. Wongpiyabovorn",
+    "A Plastina",
+    "A Rosenberg",
+    "Benjamin M. Gramig"
+   ],
+   "year": 2025,
+   "venue": "Journal of Soil and Water Conservation",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "To Diversify or Not to Diversify: A Preliminary Report on Farmers’ Perspectives on Diversification in the U.S. Midwest",
+   "authors": [
+    "LS Asprooth",
+    "J Arbuckle",
+    "R Traldi",
+    "S Church",
+    "K Floress",
+    "AJ Margenot",
+    "E Maynard",
+    "A Thompson",
+    "A Torres",
+    "E Usher-DeKeayne",
+    "F Woodings",
+    "I Awashra",
+    "K Pivaral",
+    "Benjamin M. Gramig",
+    "LS Prokopy"
+   ],
+   "year": 2025,
+   "venue": "Renewable Agriculture and Food Systems",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How could payments for U.S. climate-smart farming practices change the regional adoption of conservation practices?",
+   "authors": [
+    "JW Burnett",
+    "C Sichko",
+    "Benjamin M. Gramig",
+    "M Bowman",
+    "J O'Hara"
+   ],
+   "year": 2024,
+   "venue": "Environmental Research Communications",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Estimating the Impact of Cover Crop Adoption on Ambient Nitrogen Concentration in the Upper Mississippi River Drainage",
+   "authors": [
+    "HC Hsieh",
+    "Benjamin M. Gramig"
+   ],
+   "year": 2024,
+   "venue": "Applied Economic Perspectives and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Valuing Ecosystem Services and Downstream Water Quality Improvement in the U.S. Corn Belt",
+   "authors": [
+    "S Oh",
+    "Benjamin M. Gramig"
+   ],
+   "year": 2023,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Integrated agricultural practices and engineering technologies enhance synergies of food-energy-water systems in Corn Belt Watersheds",
+   "authors": [
+    "S Li",
+    "X Cai",
+    "S Niroula",
+    "K Wallington",
+    "Benjamin M. Gramig",
+    "R Cusick",
+    "V Singh",
+    "G McIsaac",
+    "S Oh",
+    "C Kurambhatti",
+    "S Emaminejad",
+    "S John"
+   ],
+   "year": 2023,
+   "venue": "Environmental Science & Technology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A meta-analysis of agricultural conservation intentions, behaviors, and practices: Insights from 35 years of quantitative literature in the United States",
+   "authors": [
+    "J Lu",
+    "P Ranjan",
+    "J Arbuckle",
+    "SP Church",
+    "FR Eanes",
+    "K Floress",
+    "Y Gao",
+    "Benjamin M. Gramig",
+    "AS Singh",
+    "LS Prokopy"
+   ],
+   "year": 2022,
+   "venue": "Journal of Environmental Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Understanding the relationship between land tenure and conservation behavior: Recommendations for social science research",
+   "authors": [
+    "P Ranjan",
+    "J Arbuckle",
+    "SP Church",
+    "FR Eanes",
+    "K Floress",
+    "Y Gao",
+    "Benjamin M. Gramig",
+    "AS Singh",
+    "LS Prokopy"
+   ],
+   "year": 2022,
+   "venue": "Land Use Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Agri-Environmental Programs in the United States and Canada",
+   "authors": [
+    "K Baylis",
+    "J Coppess",
+    "Benjamin M. Gramig",
+    "P Sachdeva"
+   ],
+   "year": 2022,
+   "venue": "Review of Environmental Economics and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Spatial Panel Models of Crop Yield Response to Weather: Econometric Specification and Performance Tests",
+   "authors": [
+    "SD Yun",
+    "Benjamin M. Gramig"
+   ],
+   "year": 2022,
+   "venue": "Journal of Agricultural and Applied Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Conservation Tillage Mitigates Drought Induced Soybean Yield Losses in the US Corn Belt",
+   "authors": [
+    "B Chen",
+    "Benjamin M. Gramig",
+    "SD Yun"
+   ],
+   "year": 2021,
+   "venue": "Q Open",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Developing an Integrated Technology- Environment-Economics Model to Simulate Food-Energy-Water Systems in Corn Belt Watersheds",
+   "authors": [
+    "S Li",
+    "X Cai",
+    "SA Emaminejad",
+    "A Juneja",
+    "S Niroula",
+    "SJ Oh",
+    "K Wallington",
+    "RD Cusick",
+    "Benjamin M. Gramig",
+    "S John",
+    "G McIsaac",
+    "V Singh"
+   ],
+   "year": 2021,
+   "venue": "Environmental Modelling & Software",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Cost-Competitiveness and Carbon Footprint of Dedicated Energy Crops for Cellulosic Biofuels: Insights from a Spatial Multi-feedstock Procurement Landscape Analysis",
+   "authors": [
+    "JP Sesmero",
+    "NU Trull",
+    "Benjamin M. Gramig"
+   ],
+   "year": 2021,
+   "venue": "Global Change Biology Bioenergy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Agricultural Impacts of Climate Change in Indiana and Potential Adaptations",
+   "authors": [
+    "LC Bowling",
+    "K Cherkauer",
+    "C Lee",
+    "J Beckerman",
+    "S Brouder",
+    "J Buzan",
+    "O Doering",
+    "J Dukes",
+    "P Ebner",
+    "J Frankenberger",
+    "Benjamin M. Gramig",
+    "E Kladivko",
+    "J Volenec"
+   ],
+   "year": 2020,
+   "venue": "Climatic Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Market Structure and the Effect of Ethanol Expansion on Land Allocation: A Spatially Explicit Analysis",
+   "authors": [
+    "Y Wang",
+    "MS Delgado",
+    "JP Sesmero",
+    "Benjamin M. Gramig"
+   ],
+   "year": 2020,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The urgency of transforming the Midwestern U.S. landscape into more than corn and soybean",
+   "authors": [
+    "LS Prokopy",
+    "Benjamin M. Gramig",
+    "A Bower",
+    "SP Church",
+    "B Ellison",
+    "PW Gassman",
+    "K Genskow",
+    "D Gucker",
+    "SG Hallett",
+    "J Hill",
+    "N Hunt",
+    "KA Johnson",
+    "I Kaplan",
+    "JP Kelleher",
+    "H Kok",
+    "M Komp",
+    "P Lammers",
+    "S LaRose",
+    "M Liebman",
+    "A Margenot",
+    "D Mulla",
+    "MJ O’Donnell",
+    "AW Peimer",
+    "E Reaves",
+    "K Salazar",
+    "C Schelly",
+    "K Schilling",
+    "S Secchi",
+    "AD Spaulding",
+    "D Swenson",
+    "AW Thompson",
+    "JD Ulrich-Schad"
+   ],
+   "year": 2020,
+   "venue": "Agriculture and Human Values",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The practice of Payments for Ecosystem Services (PES) in the Tropical Andes: Evidence from program administrators",
+   "authors": [
+    "J Bauchet",
+    "N Asquith",
+    "Z Ma",
+    "C Raudel",
+    "R Godoy",
+    "L Zanotti",
+    "D Steele",
+    "Benjamin M. Gramig",
+    "AE Chong"
+   ],
+   "year": 2020,
+   "venue": "Ecosystem Services",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The effect of projected climate change on the economics of conservation tillage",
+   "authors": [
+    "W Hodde",
+    "JP Sesmero",
+    "Benjamin M. Gramig",
+    "TJ Vyn",
+    "O Doering"
+   ],
+   "year": 2019,
+   "venue": "Agronomy Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Harnessing the Potential of Emerging Technologies to Mitigate the Hypoxia Challenge",
+   "authors": [
+    "M Khanna",
+    "Benjamin M. Gramig",
+    "EH DeLucia",
+    "X Cai",
+    "P Kumar"
+   ],
+   "year": 2019,
+   "venue": "Nature Sustainability",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Adoption of Agricultural Conservation Practices in the United States: Evidence from 35 Years of Quantitative Literature",
+   "authors": [
+    "LS Prokopy",
+    "K Floress",
+    "JG Arbuckle",
+    "SP Church",
+    "F Eanes",
+    "Y Gao",
+    "Benjamin M. Gramig",
+    "P Ranjan",
+    "AS Singh"
+   ],
+   "year": 2019,
+   "venue": "Journal of Soil and Water Conservation",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Toward a regional phosphorus (re)cycle in the U.S. Midwest",
+   "authors": [
+    "A Margenot",
+    "D Kitt",
+    "Benjamin M. Gramig",
+    "T Berkshire",
+    "N Chatterjee",
+    "A Hertzberger",
+    "S Aguiar",
+    "A Furneaux",
+    "N Sharma",
+    "R Cusick"
+   ],
+   "year": 2019,
+   "venue": "Journal of Environmental Quality",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Agro-Climatic Data by County: A Spatially and Temporally Consistent U.S. Dataset for Agricultural Yields, Weather and Soils",
+   "authors": [
+    "SD Yun",
+    "Benjamin M. Gramig"
+   ],
+   "year": 2019,
+   "venue": "Data",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Farmer Preferences for Agricultural Soil Carbon Sequestration Schemes",
+   "authors": [
+    "Benjamin M. Gramig",
+    "NJO Widmar"
+   ],
+   "year": 2018,
+   "venue": "Applied Economic Perspectives and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Risk Analysis of Precision Agriculture Technology to Manage Tomato Late Blight",
+   "authors": [
+    "Y Liu",
+    "MR Langemeier",
+    "IM Small",
+    "L Joseph",
+    "WE Fry",
+    "JB Ristaino",
+    "A Saville",
+    "Benjamin M. Gramig",
+    "PV Preckel"
+   ],
+   "year": 2018,
+   "venue": "Sustainability",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Presentation Matters: Number of Attributes Presented Impacts Estimated Preferences",
+   "authors": [
+    "ES Byrd",
+    "NJO Widmar",
+    "Benjamin M. Gramig"
+   ],
+   "year": 2018,
+   "venue": "Agribusiness: an International Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Integrated economic and environmental assessment of cellulosic biofuel production in an agricultural watershed",
+   "authors": [
+    "J Song",
+    "Benjamin M. Gramig",
+    "R Cibin",
+    "I Chaubey"
+   ],
+   "year": 2017,
+   "venue": "BioEnergy Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Nitrogen Application Decision-making under Climate Risk in the U.S. Corn Belt",
+   "authors": [
+    "Benjamin M. Gramig",
+    "R Massey",
+    "SD Yun"
+   ],
+   "year": 2017,
+   "venue": "Climate Risk Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Climate change beliefs, risk perceptions, and adaptation behavior among Midwestern U.S. crop farmers",
+   "authors": [
+    "AS Mase",
+    "Benjamin M. Gramig",
+    "LS Prokopy"
+   ],
+   "year": 2017,
+   "venue": "Climate Risk Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Finding the Right Value: Framing Effects on Domain Experts",
+   "authors": [
+    "AC Andrews",
+    "R Clawson",
+    "Benjamin M. Gramig",
+    "L Raymond"
+   ],
+   "year": 2017,
+   "venue": "Political Psychology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A multiple metrics approach to prioritizing strategies for measuring and managing reactive nitrogen in the San Joaquin Valley of California",
+   "authors": [
+    "A Horowitz",
+    "W Moomaw",
+    "D Liptzin",
+    "Benjamin M. Gramig",
+    "CJ Reeling",
+    "J Meyer",
+    "K Hurley"
+   ],
+   "year": 2016,
+   "venue": "Environmental Research Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Using a team survey to improve team communication for enhanced delivery of agro-climate decision support tools",
+   "authors": [
+    "LS Prokopy",
+    "CE Hart",
+    "R Massey",
+    "M Widhalm",
+    "J. Klink",
+    "J Andresen",
+    "J Angel",
+    "T Blewett",
+    "OC Doering",
+    "R Elmore",
+    "Benjamin M. Gramig",
+    "P. Guinan",
+    "BL Hall",
+    "A Jain",
+    "CL Knutson",
+    "MC Lemos",
+    "LW Morton",
+    "D Niyogi",
+    "R Power",
+    "MD Shulski",
+    "CX Song",
+    "ES Takle",
+    "D Todey"
+   ],
+   "year": 2015,
+   "venue": "Agricultural Systems",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Climate Forecasts for Corn Producer Decision-Making",
+   "authors": [
+    "ES Takle",
+    "CJ Anderson",
+    "J Andresen",
+    "J Angel",
+    "R Elmore",
+    "P Guinan",
+    "Benjamin M. Gramig",
+    "S Hilberg",
+    "D Kluck",
+    "R Massey",
+    "D Niyogi",
+    "J Schneider",
+    "MD Shulski",
+    "D Todey",
+    "M Widhalm"
+   ],
+   "year": 2014,
+   "venue": "Earth Interactions",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How Do Agribusiness Companies Select Their Innovation Projects?: A Choice Experiment Conducted with Agribusiness Executives",
+   "authors": [
+    "M Roucan-Kane",
+    "Benjamin M. Gramig",
+    "NJO Widmar",
+    "DL Ortega",
+    "A Gray"
+   ],
+   "year": 2013,
+   "venue": "International Food and Agribusiness Management Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Why Do Farmers Adopt Conservation Tillage? An Experimental Investigation of Framing Effects",
+   "authors": [
+    "AC Andrews",
+    "R Clawson",
+    "Benjamin M. Gramig",
+    "L Raymond"
+   ],
+   "year": 2013,
+   "venue": "Journal of Soil and Water Conservation",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Environmental and economic tradeoffs in a watershed when using corn stover for bioenergy",
+   "authors": [
+    "Benjamin M. Gramig",
+    "CJ Reeling",
+    "C Raj",
+    "I Chaubey"
+   ],
+   "year": 2013,
+   "venue": "Environmental Science & Technology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Farmers' Supply Response, Price of Corn Residue, and Its Economic Viability as an Energy Feedstock",
+   "authors": [
+    "JP Sesmero",
+    "Benjamin M. Gramig"
+   ],
+   "year": 2013,
+   "venue": "Bioenergy Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Farmer Beliefs about Climate Change and Mechanisms to Incentivize Soil Carbon Storage",
+   "authors": [
+    "Benjamin M. Gramig",
+    "JB Barnard",
+    "LS Prokopy"
+   ],
+   "year": 2013,
+   "venue": "Climate Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Farmers and conservation programs: Explaining differences in Environmental Quality Incentives Program applications between states",
+   "authors": [
+    "A Reimer",
+    "Benjamin M. Gramig",
+    "LS Prokopy"
+   ],
+   "year": 2013,
+   "venue": "Journal of Soil and Water Conservation",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Some Unaddressed Issues in Proposed Cap-and-Trade Legislation Involving Agricultural Soil Carbon Sequestration",
+   "authors": [
+    "Benjamin M. Gramig"
+   ],
+   "year": 2012,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Novel Framework for Analysis of Cross-Media Environmental Effects from Agricultural Conservation Practices",
+   "authors": [
+    "CJ Reeling",
+    "Benjamin M. Gramig"
+   ],
+   "year": 2012,
+   "venue": "Agriculture, Ecosystems and Environment",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Jointly-Determined Livestock Disease Dynamics and Decentralised Economic Behaviour",
+   "authors": [
+    "Benjamin M. Gramig",
+    "RD Horan"
+   ],
+   "year": 2011,
+   "venue": "Australian Journal of Agricultural and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Why Metrics Matter: Evaluating Policy Choices for Reactive Nitrogen in the Chesapeake Bay Watershed",
+   "authors": [
+    "MBL Birch",
+    "Benjamin M. Gramig",
+    "W Moomaw",
+    "OC Doering",
+    "CJ Reeling"
+   ],
+   "year": 2011,
+   "venue": "Environmental Science & Technology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Managing Infectious Animal Disease Systems",
+   "authors": [
+    "RD Horan",
+    "EP Fenichel",
+    "CA Wolf",
+    "Benjamin M. Gramig"
+   ],
+   "year": 2010,
+   "venue": "Annual Review of Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Understanding Adoption of Livestock Health Management Practices: The Case of Bovine Leukosis Virus",
+   "authors": [
+    "Benjamin M. Gramig",
+    "CA Wolf",
+    "F Lupi"
+   ],
+   "year": 2010,
+   "venue": "Canadian Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Livestock Disease Indemnity Design when Moral Hazard is Followed by Adverse Selection",
+   "authors": [
+    "Benjamin M. Gramig",
+    "RD Horan",
+    "CA Wolf"
+   ],
+   "year": 2009,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Wildlife Conservation Payments to Address Habitat Fragmentation and Disease Risks",
+   "authors": [
+    "RD Horan",
+    "JF Shogren",
+    "Benjamin M. Gramig"
+   ],
+   "year": 2008,
+   "venue": "Environment and Development Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Estimating Within-Herd Preventive Spillovers in Livestock Disease Management",
+   "authors": [
+    "Benjamin M. Gramig",
+    "CA Wolf"
+   ],
+   "year": 2007,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Utilizing Contingent Claims to Improve CAFO Management",
+   "authors": [
+    "Benjamin M. Gramig",
+    "JR Skees",
+    "JR Black"
+   ],
+   "year": 2004,
+   "venue": "Journal of Agricultural and Applied Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Extreme soil moisture risk and subsurface drainage adoption: a structural Ricardian analysis",
+   "authors": [
+    "S Wallander",
+    "D Szmurlo",
+    "Benjamin M. Gramig"
+   ],
+   "year": 2026,
+   "venue": "Handbook on Climate Change Impacts, Mitigation, and Adaptation in Agriculture",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic and Policy Implications of Nitrogen Management",
+   "authors": [
+    "OC Doering",
+    "Benjamin M. Gramig",
+    "D Jeong"
+   ],
+   "year": 2018,
+   "venue": "Soil Nitrogen Uses and Environmental Impacts (Advances in Soil Science)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Incentive Compatibility in Risk Management of Contagious Livestock Diseases",
+   "authors": [
+    "Benjamin M. Gramig",
+    "BJ Barnett",
+    "JR Skees",
+    "JR Black"
+   ],
+   "year": 2006,
+   "venue": "The Economics of Livestock Disease Insurance: Concepts, Issues and International Case Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

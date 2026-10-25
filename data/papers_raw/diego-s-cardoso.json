@@ -1,0 +1,260 @@
+{
+ "slug": "diego-s-cardoso",
+ "name": "Diego S. Cardoso",
+ "sources": [
+  "https://www.diegoscardoso.com/",
+  "https://www.diegoscardoso.com/files/DiegoCardoso_CV.pdf"
+ ],
+ "collected": "2026-10-25",
+ "notes": "Homepage + CV (updated Sept 2026). Bylines from CV (Almeida et al. 2021: CV truncates after 7 authors with et al, so only listed authors given). Working paper years = 2026 (CV date/CESifo URL). Dynamics of evasion is forthcoming at AEJ: Policy (year 2025 per working paper). Selected work in progress skipped. Two 2024 World Bank book chapters included.",
+ "papers": [
+  {
+   "title": "The dynamics of evasion: The price cap on Russian oil exports and the amassing of the shadow fleet",
+   "authors": [
+    "Diego S. Cardoso",
+    "Stephen W. Salant",
+    "Julien Daubanes"
+   ],
+   "year": 2025,
+   "venue": "American Economic Journal: Economic Policy",
+   "status": "即将发表",
+   "url": "https://www.aeaweb.org/articles?id=10.1257/pol.20250007",
+   "abstract": null
+  },
+  {
+   "title": "The economic value of reducing avoidable mortality",
+   "authors": [
+    "Angela Chang",
+    "Gretchen Stevens",
+    "Diego S. Cardoso",
+    "Bochen Cao",
+    "Dean Jamison"
+   ],
+   "year": 2024,
+   "venue": "Nature Medicine",
+   "status": "已发表",
+   "url": "https://www.nature.com/articles/s41591-024-03253-7",
+   "abstract": null
+  },
+  {
+   "title": "The economic value of reducing mortality due to non-communicable diseases and injuries",
+   "authors": [
+    "Stéphane Verguet",
+    "Sarah Bolongaita",
+    "Angela Chang",
+    "Diego S. Cardoso",
+    "Gretchen Stevens"
+   ],
+   "year": 2024,
+   "venue": "Nature Medicine",
+   "status": "已发表",
+   "url": "https://www.nature.com/articles/s41591-024-03248-4",
+   "abstract": null
+  },
+  {
+   "title": "Calculating the economic value of non-marginal mortality risk reductions",
+   "authors": [
+    "Diego S. Cardoso",
+    "Ricardo Dahis"
+   ],
+   "year": 2024,
+   "venue": "Economics Letters",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.econlet.2024.111673",
+   "abstract": null
+  },
+  {
+   "title": "Spatial heterogeneity in hedonic price effects for lake water quality",
+   "authors": [
+    "Kristen Swedberg",
+    "Diego S. Cardoso",
+    "Adriana Castillo-Castillo",
+    "Saleh Mamun",
+    "Kevin J. Boyle",
+    "Christoph Nolte",
+    "Michael Papenfus",
+    "Stephen Polasky"
+   ],
+   "year": 2024,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.3368/le.100.1.102122-0086R",
+   "abstract": null
+  },
+  {
+   "title": "Valuing water quality in the US using a national data set on property values",
+   "authors": [
+    "Saleh Mamun",
+    "Adriana Castillo-Castillo",
+    "Kristen Swedberg",
+    "Jiarui Zhang",
+    "Kevin J. Boyle",
+    "Diego S. Cardoso",
+    "Catherine L. Kling",
+    "Christoph Nolte",
+    "Michael Papenfus",
+    "Daniel Phaneuf",
+    "Stephen Polasky"
+   ],
+   "year": 2023,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "https://www.pnas.org/doi/10.1073/pnas.2210417120",
+   "abstract": null
+  },
+  {
+   "title": "Water affordability in the United States",
+   "authors": [
+    "Diego S. Cardoso",
+    "Casey J. Wichman"
+   ],
+   "year": 2022,
+   "venue": "Water Resources Research",
+   "status": "已发表",
+   "url": "https://doi.org/10.1029/2022WR032206",
+   "abstract": null
+  },
+  {
+   "title": "Reduced river discharge under climate change impairs electricity generation and the economic feasibility of future Amazon hydropower",
+   "authors": [
+    "Rafael M. Almeida",
+    "Ayan S. Fleischmann",
+    "João P. F. Brêda",
+    "Diego S. Cardoso",
+    "Hector Angarita",
+    "Walter Collischonn",
+    "Alexander S. Flecker"
+   ],
+   "year": 2021,
+   "venue": "Global Environmental Change",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.gloenvcha.2021.102383",
+   "abstract": null
+  },
+  {
+   "title": "An econometric analysis of the Brazilian merger policy",
+   "authors": [
+    "Diego S. Cardoso",
+    "Mariusa M. Pitelli",
+    "Adelson M. Figueiredo"
+   ],
+   "year": 2021,
+   "venue": "Review of Industrial Organization",
+   "status": "已发表",
+   "url": "https://doi.org/10.1007/s11151-021-09812-3",
+   "abstract": null
+  },
+  {
+   "title": "An agent-based platform for the study of watersheds as coupled natural and human systems",
+   "authors": [
+    "Leigh Tesfatsion",
+    "Chris R. Rehmann",
+    "Diego S. Cardoso",
+    "Yu Jie",
+    "William J. Gutowski"
+   ],
+   "year": 2017,
+   "venue": "Environmental Modelling & Software",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.envsoft.2016.11.021",
+   "abstract": null
+  },
+  {
+   "title": "The Economic Value of Avoidable Mortality (book chapter)",
+   "authors": [
+    "Angela Y. Chang",
+    "Gretchen A. Stevens",
+    "Diego S. Cardoso",
+    "Bochen Cao",
+    "Dean T. Jamison"
+   ],
+   "year": 2024,
+   "venue": "Unlocking the Power of Healthy Longevity, World Bank (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Economic Value Associated with Avoidable Mortality (book chapter)",
+   "authors": [
+    "Stéphane Verguet",
+    "Sarah Bolongaita",
+    "Angela Y. Chang",
+    "Diego S. Cardoso",
+    "Gretchen A. Stevens"
+   ],
+   "year": 2024,
+   "venue": "Unlocking the Power of Healthy Longevity, World Bank (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Second-best carbon taxation in a differentiated oligopoly",
+   "authors": [
+    "Diego S. Cardoso"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "修改重投",
+   "url": "https://dx.doi.org/10.2139/ssrn.7435943",
+   "abstract": null
+  },
+  {
+   "title": "Sanctioning an exporter wielding market power without excessively raising the price buyers pay",
+   "authors": [
+    "Diego S. Cardoso",
+    "Stephen Salant",
+    "Julien Daubanes"
+   ],
+   "year": 2026,
+   "venue": "CESifo Working Paper",
+   "status": "工作论文",
+   "url": "https://www.ifo.de/en/cesifo/publications/2026/working-paper/sanctioning-exporter-wielding-market-power-without-excessively",
+   "abstract": null
+  },
+  {
+   "title": "Do markets price the sensitivity of economic oil reserves?",
+   "authors": [
+    "Diego S. Cardoso",
+    "Saraly Andrade de Sá",
+    "Julien Daubanes"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A global trade model calibrated to the USDA Baseline Agricultural Projections",
+   "authors": [
+    "Diego S. Cardoso",
+    "Manuel Jimenez",
+    "Hao Xiong",
+    "Russell Hillberry"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Hurricane hunters and the economic value of augmented observations for hurricane forecasts",
+   "authors": [
+    "Diego S. Cardoso",
+    "Renato Molina",
+    "Ivan Rudik",
+    "Brian McNoldy",
+    "Mark DeMaria",
+    "David Nolan"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

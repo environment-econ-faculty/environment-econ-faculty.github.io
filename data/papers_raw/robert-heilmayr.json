@@ -1,0 +1,662 @@
+{
+ "slug": "robert-heilmayr",
+ "name": "Robert Heilmayr",
+ "sources": [
+  "https://robert-heilmayr.squarespace.com/s/Heilmayr-CV-2025-zxj9.pdf"
+ ],
+ "collected": "2026-10-25",
+ "notes": "Source: CV 2025 (homepage not fetched). Working-paper years set to 2025 (CV/page date; the CV gives no year for Jordan-Heilmayr and the in-review items; the latter three 'in review - available upon request'). Skipped patent, reports, datasets, 2008 book and book chapters.",
+ "papers": [
+  {
+   "title": "Environmental Impacts of Indigenous Land Restitution in Chile",
+   "authors": [
+    "Dany Jaimovich",
+    "Felipe Jordán",
+    "Matías Black",
+    "Robert Heilmayr"
+   ],
+   "year": 2025,
+   "venue": "SSRN Working Paper",
+   "status": "工作论文",
+   "url": "https://doi.org/10.2139/ssrn.5406046",
+   "abstract": null
+  },
+  {
+   "title": "Improving Smallholder Representation in Crop Maps",
+   "authors": [
+    "Kendra Walker",
+    "Atahualpa Ayala",
+    "Lauren Sharwood",
+    "Robert Heilmayr"
+   ],
+   "year": 2025,
+   "venue": "SSRN Working Paper",
+   "status": "工作论文",
+   "url": "https://doi.org/10.2139/ssrn.5237621",
+   "abstract": null
+  },
+  {
+   "title": "Who benefits from individual rights over indigenous lands? Evidence from the Mapuche",
+   "authors": [
+    "Felipe Jordán",
+    "Robert Heilmayr"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Zero-Deforestation Commitments in Indonesia's Palm Oil Sector Achieve High Compliance but No Additionality",
+   "authors": [
+    "Matthieu Stigler",
+    "Janina Grabbs",
+    "Robert Heilmayr",
+    "Kimberly Carlson",
+    "Adelina Chandra",
+    "Jason Jon Benedict",
+    "Rachael Garrett"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Chilean payments for forest restoration achieved greater environmental impacts when directed toward economically disadvantaged groups",
+   "authors": [
+    "Alberto Garcia",
+    "Robert Heilmayr"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Indonesia's Pulp Sector Risks Reversing Progress towards Zero Deforestation",
+   "authors": [
+    "Robert Heilmayr",
+    "Jason Jon Benedict",
+    "David Gaveau",
+    "Brian Orland",
+    "Hilman Afif",
+    "Christopher Barr",
+    "Adrià Descals",
+    "Husnayaen",
+    "Age Kridalaksan",
+    "Timer Manurung",
+    "Grahat Nagara"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Uneven participation of independent and contract smallholders in certified palm oil mill markets in Indonesia",
+   "authors": [
+    "Andini D. Ekaputri",
+    "David L. A. Gaveau",
+    "Robert Heilmayr",
+    "Kimberly M. Carlson"
+   ],
+   "year": 2025,
+   "venue": "Communications Earth & Environment",
+   "status": "已发表",
+   "url": "https://doi.org/10.1038/s43247-025-02683-6",
+   "abstract": null
+  },
+  {
+   "title": "A Causal Inference Framework for Climate Change Attribution in Ecology",
+   "authors": [
+    "Joan Dudney",
+    "Laura E. Dee",
+    "Robert Heilmayr",
+    "Jarrett Byrnes",
+    "Katherine Siegel"
+   ],
+   "year": 2025,
+   "venue": "Ecology Letters",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/ele.70192",
+   "abstract": null
+  },
+  {
+   "title": "Triangulating Habitat Suitability for the Locally Extirpated California Grizzly Bear",
+   "authors": [
+    "Alex McInturff",
+    "Peter S. Alagona",
+    "Scott D. Cooper",
+    "Kaitlyn M. Gaynor",
+    "Sarah E. Anderson",
+    "Elizabeth S. Forbes",
+    "Robert Heilmayr",
+    "Elizabeth H.T. Hiroyasu",
+    "Bruce E. Kendall",
+    "Alexis M. Mychajliw",
+    "Molly Hardesty-Moore"
+   ],
+   "year": 2025,
+   "venue": "Biological Conservation",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.biocon.2025.110989",
+   "abstract": null
+  },
+  {
+   "title": "Smallholder Participation in Zero-Deforestation Supply Chain Initiatives in the Indonesian Palm Oil Sector: Challenges, Opportunities, and Limitations",
+   "authors": [
+    "Michael Eggen",
+    "Robert Heilmayr",
+    "Patrick Anderson",
+    "Rebecca Armson",
+    "Kemen Austin",
+    "Reza Azmi",
+    "Peter Bayliss",
+    "David Burns",
+    "J. T. Erbaugh",
+    "Andini Desita Ekaputri",
+    "David L. A. Gaveau",
+    "Janina Grabs",
+    "Aida Greenbury",
+    "Ibrahim Gulagnar",
+    "Mansuetus Alsy Hanu",
+    "Tony Hill",
+    "Marieke Leegwater",
+    "Godwin Limberg",
+    "Charlotte Opal",
+    "Violace Putri",
+    "Judy Rodrigues",
+    "Grant Rosoman",
+    "Musnanda Satar",
+    "Su Sin Sheun",
+    "Rukaiyah Rafik",
+    "Sarah Walen",
+    "Kimberly M. Carlson"
+   ],
+   "year": 2024,
+   "venue": "Elementa: Science of the Anthropocene",
+   "status": "已发表",
+   "url": "https://doi.org/10.1525/elementa.2023.00099",
+   "abstract": null
+  },
+  {
+   "title": "How Well Does the Implementation of Corporate Zero-Deforestation Commitments in Indonesia Align with Aims to Halt Deforestation and Include Smallholders?",
+   "authors": [
+    "Adelina Chandra",
+    "Rachael D. Garrett",
+    "Kimberly M. Carlson",
+    "Robert Heilmayr",
+    "Matthieu Stigler",
+    "Jason J. Benedict",
+    "Janina Grabs"
+   ],
+   "year": 2024,
+   "venue": "Environmental Research Letters",
+   "status": "已发表",
+   "url": "https://doi.org/10.1088/1748-9326/ad33d1",
+   "abstract": null
+  },
+  {
+   "title": "Leveraging Remote Sensing for Transparency and Accountability in Amazonian Commodity Supply Chains",
+   "authors": [
+    "Vivian Ribeiro",
+    "Flavia De Souza Mendes",
+    "Chandrakant Singh",
+    "Robert Heilmayr"
+   ],
+   "year": 2024,
+   "venue": "One Earth",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.oneear.2024.10.011",
+   "abstract": null
+  },
+  {
+   "title": "Global Governance through Voluntary Sustainability Standards: Developments, Trends and Challenges",
+   "authors": [
+    "Axel Marx",
+    "Charline Depoorter",
+    "Santiago Fernandez de Cordoba",
+    "Rupal Verma",
+    "Mercedes Araoz",
+    "Graeme Auld",
+    "Janne Bemelmans",
+    "Elizabeth A. Bennett",
+    "Eva Boonaert",
+    "Clara Brandi",
+    "Thomas Dietz",
+    "Eve Fouilleux",
+    "Janina Grabs",
+    "Lars H. Gulbrandsen",
+    "James Harrison",
+    "Robert Heilmayr",
+    "Ariel Hernandez",
+    "Bernard Hoekman",
+    "Siti Rubiah Lambert",
+    "Eric Lambin",
+    "Li Li",
+    "Miet Maertens",
+    "Paulo Mortara Batistic",
+    "Etsuyo Michida",
+    "Junji Nakagawa",
+    "Archna Negi",
+    "Jorge A. Pérez-Pineda",
+    "Stefano Ponte",
+    "Ximena Rueda",
+    "Philip Schleifer",
+    "Vera Thorstensen",
+    "Hamish van der Ven"
+   ],
+   "year": 2024,
+   "venue": "Global Policy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/1758-5899.13401",
+   "abstract": null
+  },
+  {
+   "title": "Impact Evaluation with Nonrepeatable Outcomes: The Case of Forest Conservation",
+   "authors": [
+    "Alberto Garcia",
+    "Robert Heilmayr"
+   ],
+   "year": 2024,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jeem.2024.102971",
+   "abstract": null
+  },
+  {
+   "title": "Spillovers to Manufacturing Plants from Multi-Million Dollar Plantations: Evidence from the Indonesian Palm Oil Boom",
+   "authors": [
+    "Sebastian Kraus",
+    "Robert Heilmayr",
+    "Nicolas Koch"
+   ],
+   "year": 2023,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "https://doi.org/10.1086/727196",
+   "abstract": null
+  },
+  {
+   "title": "Demystifying the numbers behind agriculture-driven tropical deforestation",
+   "authors": [
+    "Florence Pendrill",
+    "Toby Gardner",
+    "Patrick Meyfroidt",
+    "U. Martin Persson",
+    "Justin Adams",
+    "Tasso Azevedo",
+    "Mairon G. Bastos Lima",
+    "Matthias Baumann",
+    "Philip G. Curtis",
+    "Veronique De Sy",
+    "Rachael Garrett",
+    "Javier Godar",
+    "Elizabeth Dow Goldman",
+    "Matthew C. Hansen",
+    "Robert Heilmayr",
+    "Martin Herold",
+    "Tobias Kuemmerle",
+    "Michael J. Lathuillière",
+    "Vivian Ribeiro",
+    "Alexandra Tyukavina",
+    "Mikaela J. Weisse",
+    "Chris West"
+   ],
+   "year": 2022,
+   "venue": "Science",
+   "status": "已发表",
+   "url": "https://doi.org/10.1126/science.abm9267",
+   "abstract": null
+  },
+  {
+   "title": "Addressing indirect sourcing in zero deforestation supply chains",
+   "authors": [
+    "Erasmus K.H.J. zu Ermgassen",
+    "Mairon G. Bastos Lima",
+    "Helen Bellfield",
+    "Adeline Dontenville",
+    "Toby Gardner",
+    "Javier Godar",
+    "Robert Heilmayr",
+    "Rosa A. Indenbaum",
+    "Tiago N.P. dos Reis",
+    "Vivian Ribeiro",
+    "Patrick Meyfroidt"
+   ],
+   "year": 2022,
+   "venue": "Science Advances",
+   "status": "已发表",
+   "url": "https://doi.org/10.1126/sciadv.abn3132",
+   "abstract": null
+  },
+  {
+   "title": "Mapping and monitoring zero-deforestation commitments",
+   "authors": [
+    "Kemen G. Austin",
+    "Robert Heilmayr",
+    "Jason Jon Benedict",
+    "David N. Burns",
+    "Michael Eggen",
+    "Hedley Grantham",
+    "Aida Greenbury",
+    "Jane K. Hill",
+    "Clinton N. Jenkins",
+    "Matthew S. Luskin",
+    "Timer Manurung",
+    "Laura V. Rasmussen",
+    "Grant Rosoman",
+    "Bernardo Rudorff",
+    "Musnanda Satar",
+    "Kimberly M. Carlson"
+   ],
+   "year": 2021,
+   "venue": "BioScience",
+   "status": "已发表",
+   "url": "https://doi.org/10.1093/biosci/biab082",
+   "abstract": null
+  },
+  {
+   "title": "Brazil's Amazon Soy Moratorium reduced deforestation",
+   "authors": [
+    "Robert Heilmayr",
+    "Lisa L. Rausch",
+    "Jacob Munger",
+    "Holly K. Gibbs"
+   ],
+   "year": 2020,
+   "venue": "Nature Food",
+   "status": "已发表",
+   "url": "https://doi.org/10.1038/s43016-020-00194-5",
+   "abstract": null
+  },
+  {
+   "title": "Does Oil Palm Certification Create Trade-Offs between Environment and Development in Indonesia?",
+   "authors": [
+    "Janice Ser Huay Lee",
+    "Daniela A. Miteva",
+    "Kimberly M. Carlson",
+    "Robert Heilmayr",
+    "Omar Saif"
+   ],
+   "year": 2020,
+   "venue": "Environmental Research Letters",
+   "status": "已发表",
+   "url": "https://doi.org/10.1088/1748-9326/abc279",
+   "abstract": null
+  },
+  {
+   "title": "Managing Uncertainty in Carbon Offsets: Insights from California's Standardized Approach",
+   "authors": [
+    "Barbara Haya",
+    "Danny Cullenward",
+    "Aaron L. Strong",
+    "Emily Grubert",
+    "Robert Heilmayr",
+    "Deborah A. Sivas",
+    "Michael Wara"
+   ],
+   "year": 2020,
+   "venue": "Climate Policy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1080/14693062.2020.1781035",
+   "abstract": null
+  },
+  {
+   "title": "Impacts of Chilean Forest Subsidies on Forest Extent, Carbon and Biodiversity",
+   "authors": [
+    "Robert Heilmayr",
+    "Cristian Echeverría",
+    "Eric F. Lambin"
+   ],
+   "year": 2020,
+   "venue": "Nature Sustainability",
+   "status": "已发表",
+   "url": "https://doi.org/10.1038/s41893-020-0547-0",
+   "abstract": null
+  },
+  {
+   "title": "Analogies for a No-Analog World: Tackling Uncertainties in Species Reintroductions",
+   "authors": [
+    "Elizabeth S. Forbes",
+    "Peter S. Alagona",
+    "Andrea J. Adams",
+    "Sarah E. Anderson",
+    "Kevin C. Brown",
+    "Jolie Colby",
+    "Scott D. Cooper",
+    "Sean Denny",
+    "Elizabeth H.T. Hiroyasu",
+    "Robert Heilmayr",
+    "Bruce E. Kendall",
+    "Jennifer A. Martin",
+    "Molly Hardesty-Moore",
+    "Alexis M. Mychajliw",
+    "Brian P. Tyrrell",
+    "Zoë S. Welch"
+   ],
+   "year": 2020,
+   "venue": "Trends in Ecology & Evolution",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.tree.2020.04.005",
+   "abstract": null
+  },
+  {
+   "title": "Deforestation Spillovers from Oil Palm Sustainability Certification",
+   "authors": [
+    "Robert Heilmayr",
+    "Jason Jon Benedict",
+    "Kimberly M. Carlson"
+   ],
+   "year": 2020,
+   "venue": "Environmental Research Letters",
+   "status": "已发表",
+   "url": "https://doi.org/10.1088/1748-9326/ab7f0c",
+   "abstract": null
+  },
+  {
+   "title": "Testing the benefits of conservation set-asides for improved habitat connectivity in tropical agricultural landscapes",
+   "authors": [
+    "Sarah A. Scriven",
+    "Kimberly M. Carlson",
+    "Jenny A. Hodgson",
+    "Colin J. McClean",
+    "Robert Heilmayr",
+    "Jennifer M. Lucey",
+    "Jane K. Hill"
+   ],
+   "year": 2019,
+   "venue": "Journal of Applied Ecology",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/1365-2664.13472",
+   "abstract": null
+  },
+  {
+   "title": "Criteria for Effective Zero-Deforestation Commitments",
+   "authors": [
+    "Rachael D. Garrett",
+    "Sam Levy",
+    "Kimberly M. Carlson",
+    "Toby A. Gardner",
+    "Javier Godar",
+    "Jennifer Clapp",
+    "Peter Dauvergne",
+    "Robert Heilmayr",
+    "Yann le Polain de Waroux",
+    "Ben Ayre",
+    "Robin Barr",
+    "Barbro Døvre",
+    "Holly K. Gibbs",
+    "Simon Hall",
+    "Sarah Lake",
+    "Jeffrey C. Milder",
+    "Lisa L. Rausch",
+    "Rodrigo Rivero",
+    "Ximena Rueda",
+    "Ryan Sarsfield",
+    "Britaldo Soares-Filho",
+    "Nelson Villoria"
+   ],
+   "year": 2019,
+   "venue": "Global Environmental Change",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.gloenvcha.2018.11.003",
+   "abstract": null
+  },
+  {
+   "title": "Navigating Novelty and Risk in Resilience Management",
+   "authors": [
+    "Joan Dudney",
+    "Richard Hobbs",
+    "Robert Heilmayr",
+    "Katherine Suding",
+    "John Battles"
+   ],
+   "year": 2018,
+   "venue": "Trends in Ecology & Evolution",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.tree.2018.08.012",
+   "abstract": null
+  },
+  {
+   "title": "Inequality and the Biosphere",
+   "authors": [
+    "Maike Hamann",
+    "Kevin Berry",
+    "Tomas Chaigneau",
+    "Tracie Curry",
+    "Robert Heilmayr",
+    "Patrik J.G. Henriksson",
+    "Jonas Hentati-Sundberg",
+    "Amir Jina",
+    "Emilie Lindkvist",
+    "Yolanda Lopez-Maldonado",
+    "Emmi Nieminen",
+    "Matías Piaggio",
+    "Jiangxiao Qui",
+    "Juan C. Rocha",
+    "Caroline Schill",
+    "Alon Shepon",
+    "Andrew R. Tilman",
+    "Inge van den Bijgaart",
+    "Tong Wu"
+   ],
+   "year": 2018,
+   "venue": "Annual Review of Environment and Resources",
+   "status": "已发表",
+   "url": "https://doi.org/10.1146/annurev-environ-102017-025949",
+   "abstract": null
+  },
+  {
+   "title": "The Role of Supply-Chain Initiatives in Reducing Deforestation",
+   "authors": [
+    "Eric F. Lambin",
+    "Holly K. Gibbs",
+    "Robert Heilmayr",
+    "Kimberly M. Carlson",
+    "Leonardo Fleck",
+    "Rachael D. Garrett",
+    "Yann le Polain de Waroux",
+    "Constance McDermott",
+    "David McLaughlin",
+    "Peter Newton",
+    "Christoph Nolte",
+    "Charlotte Streck",
+    "Tannis Thorlakson",
+    "Nathalie F. Walker"
+   ],
+   "year": 2018,
+   "venue": "Nature Climate Change",
+   "status": "已发表",
+   "url": "https://doi.org/10.1038/s41558-017-0061-1",
+   "abstract": null
+  },
+  {
+   "title": "Effect of Oil Palm Sustainability Certification on Deforestation and Fire in Indonesia",
+   "authors": [
+    "Kimberly M. Carlson",
+    "Robert Heilmayr",
+    "Holly K. Gibbs",
+    "Praveen Noojipady",
+    "David N. Burns",
+    "Douglas C. Morton",
+    "Nathalie F. Walker",
+    "Gary D. Paoli",
+    "Claire Kremen"
+   ],
+   "year": 2018,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "https://doi.org/10.1073/pnas.1704728114",
+   "abstract": null
+  },
+  {
+   "title": "A plantation dominated forest transition in Chile",
+   "authors": [
+    "Robert Heilmayr",
+    "Cristian Echeverría",
+    "Rodrigo Fuentes",
+    "Eric F. Lambin"
+   ],
+   "year": 2016,
+   "venue": "Applied Geography",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.apgeog.2016.07.014",
+   "abstract": null
+  },
+  {
+   "title": "Land-Use Policies and Corporate Investments in Agriculture in the Gran Chaco and Chiquitano",
+   "authors": [
+    "Yann le Polain de Waroux",
+    "Rachael D. Garrett",
+    "Robert Heilmayr",
+    "Eric F. Lambin"
+   ],
+   "year": 2016,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "https://doi.org/10.1073/pnas.1602646113",
+   "abstract": null
+  },
+  {
+   "title": "Impacts of Nonstate, Market-Driven Governance on Chilean Forests",
+   "authors": [
+    "Robert Heilmayr",
+    "Eric F. Lambin"
+   ],
+   "year": 2016,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "https://doi.org/10.1073/pnas.1600394113",
+   "abstract": null
+  },
+  {
+   "title": "Conservation through Intensification? The Effects of Plantations on Natural Forests",
+   "authors": [
+    "Robert Heilmayr"
+   ],
+   "year": 2014,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.ecolecon.2014.06.008",
+   "abstract": null
+  },
+  {
+   "title": "Effective, efficient or equitable: using allowance allocations to mitigate emissions leakage",
+   "authors": [
+    "Robert Heilmayr",
+    "James Bradbury"
+   ],
+   "year": 2011,
+   "venue": "Climate Policy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1080/14693062.2011.579291",
+   "abstract": null
+  }
+ ]
+}

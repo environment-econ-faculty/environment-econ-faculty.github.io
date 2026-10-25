@@ -1,0 +1,82 @@
+{
+ "slug": "matthew-o-keefe",
+ "name": "Matthew O'Keefe",
+ "sources": [
+  "https://mfokeefe.github.io/cv.pdf",
+  "https://mfokeefe.github.io/"
+ ],
+ "collected": "2026-10-25",
+ "notes": "CV (2026) and homepage agree. SPR paper 'Conditionally Accepted' at AEJ: Policy (marked forthcoming; year 2025 per CV). Years for working papers/R&Rs not stated: set to 2026 (CV date). Skipped research-in-progress items (ethane recovery, offshore shut-in). Byline order for coauthored papers as CV gives (O'Keefe first, then Li and Lu). No abstracts shown.",
+ "papers": [
+  {
+   "title": "Unilateral Market Power in Financial Transmission Rights Auctions",
+   "authors": [
+    "Matthew O'Keefe"
+   ],
+   "year": 2025,
+   "venue": "The Energy Journal",
+   "status": "已发表",
+   "url": "https://doi.org/10.1177/01956574241303737",
+   "abstract": null
+  },
+  {
+   "title": "Index-Based Price Adjustment in US Strategic Petroleum Reserve Drawdowns",
+   "authors": [
+    "Matthew O'Keefe"
+   ],
+   "year": 2025,
+   "venue": "American Economic Journal: Economic Policy",
+   "status": "即将发表",
+   "url": "https://mfokeefe.github.io/research/papers/spr.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Identification and Estimation of Auction Models with Dual Risk-Averse Bidders",
+   "authors": [
+    "Matthew O'Keefe",
+    "Tong Li",
+    "Jingfeng Lu"
+   ],
+   "year": 2026,
+   "venue": "Quantitative Economics",
+   "status": "修改重投",
+   "url": "https://mfokeefe.github.io/research/papers/neuIdentification.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Equilibrium Impacts of Production Subsidies for Nuclear Power",
+   "authors": [
+    "Matthew O'Keefe"
+   ],
+   "year": 2026,
+   "venue": "Energy Economics",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Optimal First- and Second-Price Auctions Under Dual Risk Aversion",
+   "authors": [
+    "Matthew O'Keefe",
+    "Tong Li",
+    "Jingfeng Lu"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://mfokeefe.github.io/research/papers/neuReserves.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Firm Boundaries and Produced Water Reuse in the Marcellus Shale",
+   "authors": [
+    "Matthew O'Keefe"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://mfokeefe.github.io/research/papers/wastewater.pdf",
+   "abstract": null
+  }
+ ]
+}

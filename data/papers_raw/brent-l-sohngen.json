@@ -1,0 +1,1493 @@
+{
+ "slug": "brent-l-sohngen",
+ "name": "Brent L. Sohngen",
+ "sources": [
+  "https://cfaes-contenthub.org.ohio-state.edu/sites/default/files/2026-04/Sohngen_CV_2025.pdf"
+ ],
+ "collected": "2026-10-25",
+ "notes": "Source: CV PDF (labelled 2025, no explicit date; its refereed-article list ends with 2024 items, so 2025-26 papers may be missing). Listed only the 103 'Peer Reviewed Articles' (all published; no working papers/forthcoming section on CV); book chapters, proceedings, reports, extension pubs omitted per prompt. Author names are as written in the CV (initials). #89 is a Geoscientific Model Development Discussions preprint (listed as published per CV). Venue names for 'Journal of Environment and Development Economics' etc. as written.",
+ "papers": [
+  {
+   "title": "A Dynamic Model of Carbon Storage in the United States During Climatic Change",
+   "authors": [
+    "B. Sohngen",
+    "R. Mendelsohn"
+   ],
+   "year": 1997,
+   "venue": "Critical Reviews in Environmental Science and Technology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Consideration of Country and Forestry/Land-Use Characteristics in Choosing Forestry Instruments to Achieve Climate Mitigation Goals",
+   "authors": [
+    "K. Richards",
+    "R. Alig",
+    "J. Kinsman",
+    "M. Palo",
+    "B. Sohngen"
+   ],
+   "year": 1997,
+   "venue": "Critical Reviews in Environmental Science and Technology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Potential for Increasing Carbon Storage in United States Unreserved Timberlands by Reducing Forest Fire Frequency: An Economic and Ecological Analysis",
+   "authors": [
+    "B. Sohngen",
+    "R. Haynes"
+   ],
+   "year": 1997,
+   "venue": "Climatic Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Comparison of Timber Market Models: Static Simulation and Optimal Control Approaches",
+   "authors": [
+    "B. Sohngen",
+    "R. Sedjo"
+   ],
+   "year": 1998,
+   "venue": "Forest Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Measuring Environmental Quality in the Southern Appalachian Mountains",
+   "authors": [
+    "L. Pendleton",
+    "B. Sohngen",
+    "R. Mendelsohn",
+    "T. Holmes"
+   ],
+   "year": 1998,
+   "venue": "Forest Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Predicting CO2 Emissions from Forests During Climate Change: A Comparison of Human and Natural Response Models",
+   "authors": [
+    "B. Sohngen",
+    "R. Mendelsohn",
+    "R. Neilson"
+   ],
+   "year": 1998,
+   "venue": "Ambio",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Valuing the Market Impact of Large Scale Ecological Change: The Effect of Climate Change on US Timber",
+   "authors": [
+    "B. Sohngen",
+    "R. Mendelsohn"
+   ],
+   "year": 1998,
+   "venue": "American Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Forest Management, Conservation, and Global Timber Markets",
+   "authors": [
+    "B. Sohngen",
+    "R. Mendelsohn",
+    "R. Sedjo"
+   ],
+   "year": 1999,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Potential Carbon Flux from Timber Harvests and Management in the Context of a Global Timber Market",
+   "authors": [
+    "B. Sohngen",
+    "R. Sedjo"
+   ],
+   "year": 2000,
+   "venue": "Climatic Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Effect of Site Quality on the Costs of Reducing Soil Erosion with Filter Strips",
+   "authors": [
+    "M. Nakao",
+    "B. Sohngen"
+   ],
+   "year": 2000,
+   "venue": "Journal of Soil and Water Conservation",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Mitigation, Adaptation, and Climate Change: Results from Recent Research on the U.S. Forest Sector",
+   "authors": [
+    "B Sohngen",
+    "R. Alig"
+   ],
+   "year": 2000,
+   "venue": "Environmental Science and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Assessing Socioeconomic Impacts of Climate Change on U.S. Forest, Wood-Product Markets, and Forest Recreation",
+   "authors": [
+    "L. Irland",
+    "D. Adams",
+    "R. Alig",
+    "C.J. Betz",
+    "C. Chen",
+    "M. Hutchins",
+    "B.A. McCarl",
+    "K. Skog",
+    "Brent L. Sohngen"
+   ],
+   "year": 2001,
+   "venue": "Bioscience",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Valuing Water Quality Advisories and Beach Amenities in the Great Lakes",
+   "authors": [
+    "C. Murray",
+    "B. Sohngen",
+    "L. Pendleton"
+   ],
+   "year": 2001,
+   "venue": "Water Resources Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Global Model of Climate Change Impacts on Timber Markets",
+   "authors": [
+    "B. Sohngen",
+    "R. Mendelsohn",
+    "R. Sedjo"
+   ],
+   "year": 2001,
+   "venue": "Journal of Agricultural and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Integrated Forestry Assessments for Climate Change Impacts",
+   "authors": [
+    "M. Lindner",
+    "B. Sohngen",
+    "L. A. Joyce",
+    "D. T. Price",
+    "P. Y. Bernier",
+    "T. Karjalainen"
+   ],
+   "year": 2002,
+   "venue": "Forest Ecology and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Optimal Control Model of Forest Carbon Sequestration",
+   "authors": [
+    "B. Sohngen",
+    "R. Mendelsohn"
+   ],
+   "year": 2003,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Zoning, Development Timing, and Agricultural Land Use at the Suburban Fringe: A Competing Risks Approach",
+   "authors": [
+    "D. Hite",
+    "B. Sohngen",
+    "J. Templeton"
+   ],
+   "year": 2003,
+   "venue": "Agricultural and Resource Economics Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Measuring Leakage from Carbon Projects in Open Economies: A Stop Timber Harvesting Project as a Case Study",
+   "authors": [
+    "B. Sohngen",
+    "S. Brown"
+   ],
+   "year": 2004,
+   "venue": "Canadian Journal of Forest Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "What are the Impacts of Global Warming on U.S. Forests, Regions, and the U.S. Timber Industry?",
+   "authors": [
+    "R. A. Sedjo",
+    "B. Sohngen"
+   ],
+   "year": 2004,
+   "venue": "Penn State Environmental Law Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Value of Agricultural Economics Extension Programming: An Application of Contingent Valuation",
+   "authors": [
+    "B.E. Roe",
+    "T.C. Haab",
+    "B.L. Sohngen"
+   ],
+   "year": 2004,
+   "venue": "Review of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Group Performance Contracts for Voluntary Nonpoint Source Pollution Control: Evidence from Experimental Auctions",
+   "authors": [
+    "M. A. Taylor",
+    "B. L. Sohngen",
+    "A. J. Randall",
+    "H. Pushkarskaya"
+   ],
+   "year": 2004,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Impacts of Climate Change on Forest Product Markets: Implications for North American Producers",
+   "authors": [
+    "B. Sohngen",
+    "R. Sedjo"
+   ],
+   "year": 2005,
+   "venue": "Forestry Chronicle",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Influence of Conversion of Forest Types on Carbon Sequestration and other Ecosystem Services in the South Central United States",
+   "authors": [
+    "B. Sohngen",
+    "S. Brown"
+   ],
+   "year": 2006,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Modeling Multiple-Objective Trips with Choices over Trip Duration and Alternative Sites",
+   "authors": [
+    "C. Yeh",
+    "T. Haab",
+    "B. Sohngen"
+   ],
+   "year": 2006,
+   "venue": "Journal of Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Adaptive Management of the Global Climate Problem: Bridging the Gap between Climate Research and Climate Policy",
+   "authors": [
+    "J. Arvai",
+    "G. Bridge",
+    "N. Dolsak",
+    "R. Franzese",
+    "T. Koontz",
+    "A. Luginbuhl",
+    "P. Robbins",
+    "K. Richards",
+    "K. Korfmacher",
+    "B. Sohngen",
+    "J. Tansey",
+    "A. Thompson"
+   ],
+   "year": 2006,
+   "venue": "Climatic Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economy, Politics and Institutions: From Adaptation to Adaptive Management in Climate Change",
+   "authors": [
+    "A. Thompson",
+    "P. Robbins",
+    "B. Sohngen",
+    "J. Arvai",
+    "T. Koontz"
+   ],
+   "year": 2006,
+   "venue": "Climatic Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Un-Tapped Resources? The Value of Steelhead Angling in Lake Erie Tributaries",
+   "authors": [
+    "D. Kelch",
+    "F. Lichtkoppler",
+    "B. Sohngen",
+    "A. Daigneault"
+   ],
+   "year": 2006,
+   "venue": "Journal of Great Lakes Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Carbon Sequestration in Global Forests Under Different Carbon Price Regimes",
+   "authors": [
+    "B Sohngen",
+    "R. Sedjo"
+   ],
+   "year": 2006,
+   "venue": "Energy Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic Consequences of Consideration of Permanence, Leakage and Additionality for Soil Carbon Sequestration Projects",
+   "authors": [
+    "B. C. Murray",
+    "B. Sohngen",
+    "M. T. Ross"
+   ],
+   "year": 2007,
+   "venue": "Climatic Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Forestry and the carbon market response to stabilize climate",
+   "authors": [
+    "M. Tavoni",
+    "B Sohngen",
+    "V. Bosetti"
+   ],
+   "year": 2007,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economics of Forest Ecosystem Carbon Sinks: A Review",
+   "authors": [
+    "G.C. Van Kooten",
+    "B. Sohngen"
+   ],
+   "year": 2007,
+   "venue": "International Review of Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Exchange Rates and the Competitiveness of the United States Timber Sector in a Global Economy",
+   "authors": [
+    "A. Daigneault",
+    "B. Sohngen",
+    "R. Sedjo"
+   ],
+   "year": 2008,
+   "venue": "Forest Policy and Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Avoided Deforestation as a Greenhouse Gas Mitigation Tool: Economic Issues",
+   "authors": [
+    "B. Sohngen",
+    "R. Beach",
+    "K. Andrasko"
+   ],
+   "year": 2008,
+   "venue": "Journal of Environmental Quality",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Global cost estimates of reducing carbon emissions through avoided deforestation",
+   "authors": [
+    "G. Kindermann",
+    "M. Obersteiner",
+    "B. Sohngen",
+    "J. Sathaye",
+    "K. Andrasko",
+    "E. Rametsteiner",
+    "B. Schlamadinger",
+    "S. Wunder",
+    "R. Beach"
+   ],
+   "year": 2008,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Extending Timber Rotations: Carbon and Cost Implications",
+   "authors": [
+    "B. Sohngen",
+    "S. Brown"
+   ],
+   "year": 2008,
+   "venue": "Climate Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The opportunity cost of land use and the global potential for greenhouse gas mitigation in agriculture and forestry",
+   "authors": [
+    "A. Golub",
+    "T. Hertel",
+    "H-L Lee",
+    "S. Rose",
+    "B. Sohngen"
+   ],
+   "year": 2009,
+   "venue": "Resource and Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Set-Asides for Carbon Sequestration: Implications for Permanence and Leakage",
+   "authors": [
+    "B. Sun",
+    "B. Sohngen"
+   ],
+   "year": 2009,
+   "venue": "Climatic Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The optimal choice of residue management, crop rotations, and cost of carbon sequestration: Empirical results in the Midwest US",
+   "authors": [
+    "S Choi",
+    "B. Sohngen"
+   ],
+   "year": 2010,
+   "venue": "Climatic Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Optimal Forest Management With Carbon Sequestration Credits And Endogenous Fire Risk",
+   "authors": [
+    "A. Daigneault",
+    "M. Miranda",
+    "B. Sohngen"
+   ],
+   "year": 2010,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Global Forest Carbon Sequestration and Climate Policy Design",
+   "authors": [
+    "S. Rose",
+    "B. Sohngen"
+   ],
+   "year": 2011,
+   "venue": "Journal of Environment and Development Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An assessment of the influence of bioenergy and marketed land amenity values on land uses in the Midwestern US",
+   "authors": [
+    "S Choi",
+    "B. Sohngen",
+    "R. Alig"
+   ],
+   "year": 2011,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Climate Change and Future Land Use in the United States: An Economic Approach",
+   "authors": [
+    "D. Haim",
+    "R. J. Alig",
+    "A. J. Plantinga",
+    "B. Sohngen"
+   ],
+   "year": 2011,
+   "venue": "Climate Change Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Total Factor Productivity Change in Agriculture and Emissions from Deforestation",
+   "authors": [
+    "S. Choi",
+    "B. Sohngen",
+    "S. Rose",
+    "T. Hertel",
+    "A. Golub"
+   ],
+   "year": 2011,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Importance of Crop Yield in Calibrating Watershed Water Quality Simulation Tools",
+   "authors": [
+    "S Nair",
+    "KW King",
+    "JD Witter",
+    "BL Sohngen",
+    "NR. Fausey"
+   ],
+   "year": 2011,
+   "venue": "Journal of the American Water Resources Association",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Global climate policy impacts on livestock, land use, livelihoods, and food security",
+   "authors": [
+    "AA Golub",
+    "BB Henderson",
+    "TW Hertel",
+    "PJ Gerber",
+    "SK Rose",
+    "B Sohngen"
+   ],
+   "year": 2012,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic Approach to Assess the Forest Carbon Implications of Biomass Energy",
+   "authors": [
+    "A Daigneault",
+    "B Sohngen",
+    "R Sedjo"
+   ],
+   "year": 2012,
+   "venue": "Environmental Science and Technology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Carbon Sequestration in Forests and Soils",
+   "authors": [
+    "R Sedjo",
+    "B Sohngen"
+   ],
+   "year": 2012,
+   "venue": "Annual Review of Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Response of reservoir atrazine concentrations following regulatory and management changes",
+   "authors": [
+    "KW King",
+    "NR Fausey",
+    "R Dunn",
+    "PC Smiley Jr",
+    "BL Sohngen"
+   ],
+   "year": 2012,
+   "venue": "Journal of Soil and Water Conservation",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Costs of abandoned coal mine reclamation and associated recreation benefits in Ohio",
+   "authors": [
+    "S. K. Mishra",
+    "FJ Hitzhusen",
+    "B Sohngen",
+    "JM Guldmann"
+   ],
+   "year": 2012,
+   "venue": "Journal of Environmental Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Total Factor and Relative Agricultural Productivity and Deforestation",
+   "authors": [
+    "SK Rose",
+    "AA Golub",
+    "B Sohngen"
+   ],
+   "year": 2013,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Wood as a Major Feedstock for Biofuel Production in the United States: Impacts on Forests and International Trade",
+   "authors": [
+    "R.A. Sedjo",
+    "B. Sohngen"
+   ],
+   "year": 2013,
+   "venue": "Journal of Sustainable Forestry",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Transaction costs for carbon sequestration projects in the tropical forest sector",
+   "authors": [
+    "T. R. Pearson",
+    "S Brown",
+    "B Sohngen",
+    "J Henman",
+    "S. Ohrel"
+   ],
+   "year": 2013,
+   "venue": "Mitigation and Adaptation Strategies for Global Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Wood Bioenergy and Land Use: A Challenge to the Searchinger Hypothesis",
+   "authors": [
+    "RA Sedjo",
+    "B Sohngen",
+    "A Riddle"
+   ],
+   "year": 2013,
+   "venue": "Industrial Biotechnology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic effects of bioenergy policy in the United States and Europe: A general equilibrium approach focusing on forest biomass",
+   "authors": [
+    "SA Suttles",
+    "WE Tyner",
+    "G Shively",
+    "RD Sands",
+    "B Sohngen"
+   ],
+   "year": 2014,
+   "venue": "Renewable Energy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Nutrient prices and concentrations in Midwestern agricultural watersheds",
+   "authors": [
+    "B. Sohngen",
+    "K. W. King",
+    "G. Howard",
+    "J. Newton",
+    "D. L. Forster"
+   ],
+   "year": 2015,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Land Use Change, Carbon, And Bioenergy Reconsidered",
+   "authors": [
+    "R. A. Sedjo",
+    "B. Sohngen",
+    "A. Riddle"
+   ],
+   "year": 2015,
+   "venue": "Climate Change Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Global climate change impacts on forests and markets",
+   "authors": [
+    "X Tian",
+    "B Sohngen",
+    "JB Kim",
+    "S Ohrel",
+    "J. Cole"
+   ],
+   "year": 2016,
+   "venue": "Environmental Research Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Global Climate Change and forests",
+   "authors": [
+    "B Sohngen",
+    "X Tian"
+   ],
+   "year": 2016,
+   "venue": "Forest Policy and Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Impacts of a Tax Reform on the U.S. Timber Sector",
+   "authors": [
+    "R. Sedjo",
+    "B. Sohngen"
+   ],
+   "year": 2016,
+   "venue": "Advances in Forestry Letter",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Estimating welfare effects from supply shocks with dynamic factor demand models",
+   "authors": [
+    "A. J. Daigneault",
+    "B. Sohngen",
+    "S. J. Kim"
+   ],
+   "year": 2016,
+   "venue": "Forest Policy and Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Global solutions to regional problems: Collecting global expertise to address the problem of harmful cyanobacterial blooms",
+   "authors": [
+    "G.S. Bullerjahn",
+    "R.M. McKay",
+    "T.W. Davis",
+    "D.B. Baker",
+    "G.L. Boyer",
+    "L.V. D'Anglada",
+    "G.J. Doucette",
+    "J.C. Ho",
+    "E.G. Irwin",
+    "C.L. Kling",
+    "R.M. Kudela",
+    "R. Kurmayer",
+    "A.M. Michalak",
+    "J.D. Ortiz",
+    "T.G. Otten",
+    "H.W. Paerl",
+    "B. Qin",
+    "B.L. Sohngen",
+    "R.P. Stumpf",
+    "P.M. Visser",
+    "S.W. Wilhelm"
+   ],
+   "year": 2016,
+   "venue": "Harmful Algae",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Assessing climate change impacts, benefits of mitigation, and uncertainties on major global forest regions under multiple socioeconomic and emissions scenarios",
+   "authors": [
+    "J. B. Kim",
+    "E. Monier",
+    "B. Sohngen",
+    "G. Pitts",
+    "R. Drapek",
+    "J. McFarland",
+    "S. Ohrel",
+    "J. Cole"
+   ],
+   "year": 2017,
+   "venue": "Environmental Research Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Ecosystem services in the Great Lakes",
+   "authors": [
+    "A.D. Steinman",
+    "B.J. Cardinale",
+    "W.R. Munns Jr.",
+    "M.E. Ogdahl",
+    "J.D. Allan",
+    "T. Angadi",
+    "S. Bartlett",
+    "K. Brauman",
+    "M. Byappanahalli",
+    "M. Doss",
+    "D. Dupont",
+    "A. Johns",
+    "D. Kashian",
+    "F. Lupi",
+    "P. McIntyre",
+    "T. Miller",
+    "M. Moore",
+    "R.L. Muenich",
+    "R. Poudel",
+    "J. Pricer",
+    "B. Provencher",
+    "A. Reat",
+    "J. Read",
+    "S. Renzetti",
+    "B. Sohngen",
+    "E. Washburn"
+   ],
+   "year": 2017,
+   "venue": "Journal of Great Lakes Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Assessing the Role of Group Heterogeneity in Community Forest Concessions in Guatemala's Maya Biosphere Reserve",
+   "authors": [
+    "L. Fortmann",
+    "B. Sohngen",
+    "D. Southgate"
+   ],
+   "year": 2017,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Using forests for climate mitigation: sequester carbon or produce woody biomass?",
+   "authors": [
+    "A. Favero",
+    "R. Mendelsohn",
+    "B. Sohngen"
+   ],
+   "year": 2017,
+   "venue": "Climatic Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Demand for urban tree cover: A two-stage hedonic price analysis in California",
+   "authors": [
+    "Y. Mei",
+    "D. Hite",
+    "B. Sohngen"
+   ],
+   "year": 2017,
+   "venue": "Forest Policy and Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Effects of Weather-Index Insurance: The Case of Smallholder Maize Farmers in Northern Ghana",
+   "authors": [
+    "B. Haruna",
+    "B. Sohngen",
+    "I. Yahaya",
+    "A. N. Wiredu"
+   ],
+   "year": 2017,
+   "venue": "International Journal of Food and Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Estimation of house price differential of urban tree cover: an application of sample selection approach",
+   "authors": [
+    "Y. Mei",
+    "D. Hite",
+    "B. Sohngen"
+   ],
+   "year": 2017,
+   "venue": "Applied Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Valuing urban wetland quality with hedonic price model",
+   "authors": [
+    "Y. Mei",
+    "B. Sohngen",
+    "T. Babb"
+   ],
+   "year": 2018,
+   "venue": "Ecological Indicators",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Cumulative global forest carbon implications of regional bioenergy expansion policies",
+   "authors": [
+    "SJ Kim",
+    "J Baker",
+    "B Sohngen",
+    "M Shell"
+   ],
+   "year": 2018,
+   "venue": "Resource and Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The impact of community forest concessions on income: an analysis of communities in the Maya Biosphere Reserve",
+   "authors": [
+    "C Bocci",
+    "L Fortmann",
+    "B Sohngen",
+    "B Milian"
+   ],
+   "year": 2018,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Can the Global Forest Sector Survive 11°C Warming?",
+   "authors": [
+    "A Favero",
+    "R Mendelsohn",
+    "B Sohngen"
+   ],
+   "year": 2018,
+   "venue": "Agricultural and Resource Economics Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Will US Forests Continue to Be a Carbon Sink?",
+   "authors": [
+    "X Tian",
+    "B Sohngen",
+    "J Baker",
+    "S Ohrel",
+    "A Fawcett"
+   ],
+   "year": 2018,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do US Anglers Care about Harmful Algal Blooms? A Discrete Choice Experiment of Lake Erie Recreational Anglers",
+   "authors": [
+    "W Zhang",
+    "B Sohngen"
+   ],
+   "year": 2018,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Additionality when REDD contracts must be self-enforcing",
+   "authors": [
+    "PC Salas",
+    "BE Roe",
+    "B Sohngen"
+   ],
+   "year": 2018,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Global cost estimates of forest climate mitigation with albedo: a new integrative policy approach",
+   "authors": [
+    "A. Favero",
+    "B. Sohngen",
+    "Y. Huang",
+    "Y. Jin"
+   ],
+   "year": 2018,
+   "venue": "Environmental Research Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The implications of weather, nutrient prices, and other factors on nutrient concentrations in agricultural watersheds",
+   "authors": [
+    "SJ Kim",
+    "B Sohngen",
+    "AG Sam"
+   ],
+   "year": 2019,
+   "venue": "Science of The Total Environment",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Potential complementarity between forest carbon sequestration incentives and biomass energy expansion",
+   "authors": [
+    "J. S. Baker",
+    "C. M. Wade",
+    "B. L. Sohngen",
+    "S. Ohrel",
+    "A. A. Fawcett"
+   ],
+   "year": 2019,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Influence of Parametric Uncertainty on Projections of Forest Land Use, Carbon, and Markets",
+   "authors": [
+    "B. Sohngen",
+    "M. E. Salem",
+    "J. S. Baker",
+    "M. J. Shell",
+    "S. J. Kim"
+   ],
+   "year": 2019,
+   "venue": "Journal of Forest Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Net Carbon Emissions from Historic Land Use and Land Use Change",
+   "authors": [
+    "R. Mendelsohn",
+    "B. Sohngen"
+   ],
+   "year": 2019,
+   "venue": "Journal of Forest Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "State of the Art Methods to Project Forest Carbon Stocks",
+   "authors": [
+    "J. S. Baker",
+    "N. Forsell",
+    "G. Latta",
+    "B. Sohngen",
+    "A. Daigneault"
+   ],
+   "year": 2019,
+   "venue": "Journal of Forest Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Evidence that a national REDD+ program reduces tree cover loss and carbon emissions in a high forest cover, low deforestation country",
+   "authors": [
+    "A. Roopsind",
+    "B. Sohngen",
+    "J. Brandt"
+   ],
+   "year": 2019,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Timber or carbon? Evaluating forest conservation strategies through a discrete choice experiment",
+   "authors": [
+    "C. Bocci",
+    "B. Sohngen",
+    "F. Lupi",
+    "B. Milian"
+   ],
+   "year": 2020,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Forests: Carbon sequestration, biomass energy, or both?",
+   "authors": [
+    "A. Favero",
+    "A. Daigneault",
+    "B. Sohngen"
+   ],
+   "year": 2020,
+   "venue": "Science Advances",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Carbon and market effects of US forest taxation policy",
+   "authors": [
+    "A. J. Daigneault",
+    "B. L. Sohngen",
+    "R. Sedjo"
+   ],
+   "year": 2020,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Climate Change and Forests",
+   "authors": [
+    "B. Sohngen"
+   ],
+   "year": 2020,
+   "venue": "Annual Review of Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The economic costs of planting, preserving, and managing the world's forests to mitigate climate change",
+   "authors": [
+    "K.G. Austin",
+    "J.S. Baker",
+    "B.L. Sohngen",
+    "C.M. Wade",
+    "A. Daigneault",
+    "S.B. Ohrel",
+    "S. Ragnauth",
+    "A. Bean"
+   ],
+   "year": 2020,
+   "venue": "Nature Communications",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Assessing the long-term interactions of climate change and timber markets on forest land and carbon storage",
+   "authors": [
+    "A. Favero",
+    "R. O. Mendelsohn",
+    "B. Sohngen",
+    "B. Stocker"
+   ],
+   "year": 2021,
+   "venue": "Environmental Research Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Estimating global land system impacts of timber plantations using MAgPIE 4.3",
+   "authors": [
+    "A. Mishra",
+    "F. Humpenöder",
+    "J.P. Dietrich",
+    "B.L. Bodirsky",
+    "B. Sohngen",
+    "C.P. Reyer",
+    "H. Lotze-Campen",
+    "A. Popp"
+   ],
+   "year": 2021,
+   "venue": "Geoscientific Model Development Discussions",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Land-based measures to mitigate climate change: Potential and feasibility by country",
+   "authors": [
+    "S. Roe",
+    "C. Streck",
+    "R. Beach",
+    "J. Busch",
+    "M. Chapman",
+    "V. Daioglou",
+    "A. Deppermann",
+    "J. Doelman",
+    "J. Emmet-Booth",
+    "J. Engelmann",
+    "O. Fricko",
+    "C. Frischmann",
+    "J. Funk",
+    "G. Grassi",
+    "B. Griscom",
+    "P. Havlik",
+    "S. Hanssen",
+    "F. Humpenoder",
+    "D. Landholm",
+    "G. Lomax",
+    "J. Lehmann",
+    "L. Mesnildrey",
+    "G.J. Nabuurs",
+    "A. Popp",
+    "C. Rivard",
+    "J. Sanderman",
+    "B. Sohngen",
+    "P. Smith",
+    "E. Stehfest",
+    "D. Woolf",
+    "D. Lawrence"
+   ],
+   "year": 2021,
+   "venue": "Global Change Biology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The time value of carbon storage",
+   "authors": [
+    "Z. Parisa",
+    "E. Marland",
+    "B. Sohngen",
+    "G. Marland",
+    "J. Jenkins"
+   ],
+   "year": 2022,
+   "venue": "Forest Policy and Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An analysis of migrant characteristics in forest-dwelling communities in northern Guatemala",
+   "authors": [
+    "C. Bocci",
+    "B. Sohngen",
+    "B. Finnegan",
+    "B. Milian"
+   ],
+   "year": 2022,
+   "venue": "Forest Policy and Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Costs of forest carbon sequestration in the presence of climate change impacts",
+   "authors": [
+    "A. Golub",
+    "B. Sohngen",
+    "Y. Cai",
+    "J. Kim",
+    "T. Hertel"
+   ],
+   "year": 2022,
+   "venue": "Environmental Research Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Efficiency of forest carbon policies at intensive and extensive margins",
+   "authors": [
+    "R. Li",
+    "B. Sohngen",
+    "X. Tian"
+   ],
+   "year": 2022,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How the future of the global forest sink depends on timber demand, forest management, and carbon policies",
+   "authors": [
+    "A. Daigneault",
+    "J. S. Baker",
+    "J. Guo",
+    "P. Lauri",
+    "A. Favero",
+    "N. Forsell",
+    "C. Johnston",
+    "S. B. Ohrel",
+    "B. Sohngen"
+   ],
+   "year": 2022,
+   "venue": "Global Environmental Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The effect of carbon fertilization on naturally regenerated and planted US forests",
+   "authors": [
+    "E. C. Davis",
+    "B. Sohngen",
+    "D. J. Lewis"
+   ],
+   "year": 2022,
+   "venue": "Nature Communications",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Climate change and timber in Latin America: Will the forestry sector flourish under climate change?",
+   "authors": [
+    "A. Favero",
+    "B. Sohngen",
+    "W. P. Hamilton"
+   ],
+   "year": 2022,
+   "venue": "Forest Policy and Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A system-wide assessment of forest biomass production, markets, and carbon",
+   "authors": [
+    "A. Favero",
+    "A. Daigneault",
+    "B. Sohngen",
+    "J. Baker"
+   ],
+   "year": 2023,
+   "venue": "GCB - Bioenergy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Measuring beachgoer preferences for avoiding harmful algal blooms and bacterial warnings",
+   "authors": [
+    "G. Boudreaux",
+    "F. Lupi",
+    "B. Sohngen",
+    "A. Xu"
+   ],
+   "year": 2023,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic factors influence net carbon emissions of forest bioenergy expansion",
+   "authors": [
+    "A. Favero",
+    "J. Baker",
+    "B. Sohngen",
+    "A. Daigneault"
+   ],
+   "year": 2023,
+   "venue": "Communications Earth & Environment",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Drainage water management: A review of nutrient load reductions and cost effectiveness",
+   "authors": [
+    "J. Frankenberger",
+    "S. K. McMillan",
+    "M. R. Williams",
+    "K. Mazer",
+    "J. Ross",
+    "B. Sohngen"
+   ],
+   "year": 2023,
+   "venue": "Journal of the ASABE",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Reporting carbon fluxes from unmanaged forest",
+   "authors": [
+    "G. J. Nabuurs",
+    "P. Ciais",
+    "G. Grassi",
+    "R. A. Houghton",
+    "B. Sohngen"
+   ],
+   "year": 2023,
+   "venue": "Communications Earth & Environment",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Overlapping extractive land use rights increases deforestation and forest degradation in managed natural production forests",
+   "authors": [
+    "B. Liu",
+    "A. Roopsind",
+    "B. Sohngen"
+   ],
+   "year": 2024,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

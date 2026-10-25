@@ -1,0 +1,411 @@
+{
+ "slug": "matthew-n-reimer",
+ "name": "Matthew N. Reimer",
+ "sources": [
+  "https://arefiles.ucdavis.edu/uploads/pub/2026/01/23/reimer_cv.pdf"
+ ],
+ "collected": "2026-10-25",
+ "notes": "From Jan-2026 CV. Undated working papers and forthcoming EJ paper given year 2026 (CV date); 'conditionally accepted' treated as forthcoming. Initials as written in CV.",
+ "papers": [
+  {
+   "title": "Before the Burn: The Economic Benefits of Fuel-Reduction Treatments in Wildfire-Prone Forests",
+   "authors": [
+    "F. Strabo",
+    "Matthew N. Reimer"
+   ],
+   "year": 2026,
+   "venue": "The Economic Journal",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Managing for Adaptive Capacity in Climate-Ready Fisheries",
+   "authors": [
+    "Matthew N. Reimer",
+    "A. Rogers",
+    "J.N. Sanchirico"
+   ],
+   "year": 2025,
+   "venue": "Marine Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Fisheries Subsidies Reform in China",
+   "authors": [
+    "K. Wang",
+    "Matthew N. Reimer",
+    "J.E. Wilen"
+   ],
+   "year": 2023,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Universal Cash Transfers and Labor Market Outcomes",
+   "authors": [
+    "A. Bibler",
+    "M. Guettabi",
+    "Matthew N. Reimer"
+   ],
+   "year": 2023,
+   "venue": "Journal of Policy Analysis and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Catch More to Catch Less: Estimating Timing Choice as Dynamic Bycatch Avoidance",
+   "authors": [
+    "K. Abe",
+    "C. Anderson",
+    "Matthew N. Reimer"
+   ],
+   "year": 2022,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Structural Behavioral Models for Rights-Based Fisheries",
+   "authors": [
+    "Matthew N. Reimer",
+    "J.K. Abbott",
+    "A.C. Haynie"
+   ],
+   "year": 2022,
+   "venue": "Resource and Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economics of Marine Resources in the Global South--Meeting the Challenge of Agenda 2030",
+   "authors": [
+    "C. Chavez",
+    "H. Eggert",
+    "Matthew N. Reimer"
+   ],
+   "year": 2021,
+   "venue": "Marine Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Contests for Shares of an Uncertain Resource",
+   "authors": [
+    "C. Deck",
+    "L. Howe",
+    "Matthew N. Reimer",
+    "J. Alevy",
+    "K. Borash"
+   ],
+   "year": 2021,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Commercial Fisheries & Local Economies",
+   "authors": [
+    "B. Watson",
+    "Matthew N. Reimer",
+    "M. Guettabi",
+    "A.C. Haynie"
+   ],
+   "year": 2021,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Universal Cash and Crime",
+   "authors": [
+    "B. Watson",
+    "M. Guettabi",
+    "Matthew N. Reimer"
+   ],
+   "year": 2020,
+   "venue": "The Review of Economics and Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Defining the Economic Scope for Ecosystem-Based Fishery Management",
+   "authors": [
+    "K. Kroetz",
+    "Matthew N. Reimer",
+    "J.N. Sanchirico",
+    "D.K. Lew",
+    "J. Huetteman"
+   ],
+   "year": 2019,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Identifying the Potential for Cross-Fishery Spillovers: A Network Analysis of Alaskan Permitting Patterns",
+   "authors": [
+    "E. Addicott",
+    "K. Kroetz",
+    "Matthew N. Reimer",
+    "J.N. Sanchirico",
+    "D.K. Lew",
+    "J. Huetteman"
+   ],
+   "year": 2019,
+   "venue": "Canadian Journal of Fisheries and Aquatic Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Mechanisms Matter for Evaluating the Economic Impacts of Marine Reserves",
+   "authors": [
+    "Matthew N. Reimer",
+    "A. Haynie"
+   ],
+   "year": 2018,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Identifying Cost-Effective Invasive Species Control to Enhance Endangered Species Populations in the Grand Canyon, USA",
+   "authors": [
+    "L.S. Bair",
+    "C.B. Yackulic",
+    "M.R. Springborn",
+    "Matthew N. Reimer",
+    "C.B. Bond",
+    "L.G. Coggins"
+   ],
+   "year": 2018,
+   "venue": "Biological Conservation",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Unintended Consequences of Enforcement in a Cooperative Institution: Experimental Evidence from Tanzanian Fishers",
+   "authors": [
+    "S. MacColl",
+    "P. Onyango",
+    "Matthew N. Reimer",
+    "Y. Stopnitzky"
+   ],
+   "year": 2018,
+   "venue": "Ocean and Coastal Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Fisheries Production: Spatial Choice, Management Institutions, and the Quest for Policy Invariance",
+   "authors": [
+    "Matthew N. Reimer",
+    "J.K. Abbott",
+    "J.E. Wilen"
+   ],
+   "year": 2017,
+   "venue": "Marine Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Empirical Models of Fisheries Production: Conflating Technology with Incentives?",
+   "authors": [
+    "Matthew N. Reimer",
+    "J.K. Abbott",
+    "A.C. Haynie"
+   ],
+   "year": 2017,
+   "venue": "Marine Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Future of Pacific Salmon in the Face of Change: Lessons from One of the Few Remaining Productive Salmon Regions",
+   "authors": [
+    "E. Schoen",
+    "M. Wipfli",
+    "J. Trammel",
+    "D. Rinella",
+    "A. Floyd",
+    "J. Grunblatt",
+    "M. McCarthy",
+    "B. Meyer",
+    "J. Morton",
+    "J. Powell",
+    "A. Prakash",
+    "Matthew N. Reimer",
+    "S. Stuefer",
+    "H. Toniolo",
+    "B. Wells",
+    "F. Witmer"
+   ],
+   "year": 2017,
+   "venue": "Fisheries",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Short-Run Impacts of a Severance Tax Change: Evidence from Alaska",
+   "authors": [
+    "Matthew N. Reimer",
+    "M. Guettabi",
+    "A. Tanaka"
+   ],
+   "year": 2017,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Hidden Flexibilities: Institutions, Incentives, and the Margins of Selectivity in Fishing",
+   "authors": [
+    "J.K. Abbott",
+    "A. Haynie",
+    "Matthew N. Reimer"
+   ],
+   "year": 2015,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Unraveling the Multiple Margins of Rent Generation from Individual Transferable Quotas",
+   "authors": [
+    "Matthew N. Reimer",
+    "J.K. Abbott",
+    "J.E. Wilen"
+   ],
+   "year": 2014,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Alaskan Fishing Community Revenues and the Stabilizing Role of Fishing Portfolios",
+   "authors": [
+    "S.A. Sethi",
+    "Matthew N. Reimer",
+    "G. Knapp"
+   ],
+   "year": 2014,
+   "venue": "Marine Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Regulated Open Access and Regulated Restricted Access Fisheries",
+   "authors": [
+    "Matthew N. Reimer",
+    "J.E. Wilen"
+   ],
+   "year": 2013,
+   "venue": "Encyclopedia of Energy, Resource, and Environmental Economics (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Timing, uncertainty, and opportunity cost: Lessons for ecosystem modification on the Colorado River",
+   "authors": [
+    "P. Donovan",
+    "L.S. Bair",
+    "Matthew N. Reimer",
+    "M.R. Springborn",
+    "C.B. Yackulic"
+   ],
+   "year": 2026,
+   "venue": "Working Paper (R&R at Journal of Environmental Economics and Management)",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Cost-effective Wildfire Mitigation Through Forest Fuel Treatments",
+   "authors": [
+    "F. Strabo",
+    "C. Bryan",
+    "Matthew N. Reimer"
+   ],
+   "year": 2026,
+   "venue": "Working Paper (R&R at Science)",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Internalizing spatial-dynamic externalities: Endemic disease in Chilean aquaculture",
+   "authors": [
+    "T.M. Anderson",
+    "Matthew N. Reimer",
+    "J.N. Sanchirico"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Who Benefits from Buyback Programs? Insights from the U.S. West Coast Groundfish Fishery",
+   "authors": [
+    "F. Strabo",
+    "Matthew N. Reimer",
+    "J.N. Sanchirico"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Role of Fisheries Diversification in Economic Growth and Stability: Evidence from Alaska's Fishing Economies",
+   "authors": [
+    "K. Kim",
+    "Matthew N. Reimer"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Differential Responses of Farmers on Private and Public Lands to Droughts in the Brazilian Amazon",
+   "authors": [
+    "B. Pimenta",
+    "K. Novan",
+    "Matthew N. Reimer"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

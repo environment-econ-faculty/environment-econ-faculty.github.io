@@ -1,0 +1,1582 @@
+{
+ "slug": "paul-j-ferraro",
+ "name": "Paul J. Ferraro",
+ "sources": [
+  "https://www.pauljferraro.com/",
+  "https://www.pauljferraro.com/publications",
+  "https://carey.jhu.edu/sites/default/files/2026-07/Paul%20Ferraro%20CV%202026.pdf"
+ ],
+ "collected": "2026-10-25",
+ "notes": "From CV (June 2026): 40 representative + other refereed scholarly journal articles, plus the 7 working papers that have drafts; homepage used for forthcoming status. Excluded in-progress items without drafts, replies/commentaries, books, reports, op-eds. Co-author names as written in CV (initials); two bylines abbreviated as \"et al.\" in CV. Working-paper year = CV date (2026).",
+ "papers": [
+  {
+   "title": "The Persistence and Heterogeneity of Economic and Environmental Effects from Improved Household Water Efficiency in an Arid Environment",
+   "authors": [
+    "M. Bernedo",
+    "Paul J. Ferraro"
+   ],
+   "year": 2026,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Best Practices for Moving from Correlation to Causation in Ecological Research",
+   "authors": [
+    "H. Correia",
+    "L. Dee",
+    "J. Byrnes",
+    "J. Fieberg",
+    "M-J. Fortin",
+    "C. Glymour",
+    "J. Runge",
+    "B. Shipley",
+    "I. Shpitser",
+    "K. Siegel",
+    "G. Sugihara",
+    "B. von Holle",
+    "Paul J. Ferraro"
+   ],
+   "year": 2026,
+   "venue": "Nature Communications",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do the Effects of Social Nudges Persist? Theory and evidence from 38 natural field experiments",
+   "authors": [
+    "A. Brandon",
+    "Paul J. Ferraro",
+    "J. List",
+    "R. Metcalfe",
+    "M. Price",
+    "F. Rundhammer"
+   ],
+   "year": 2026,
+   "venue": "Review of Economic Studies",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Effect of Compliance Assistance on Regulatory Compliance and Pollution Discharges",
+   "authors": [
+    "Paul J. Ferraro",
+    "J. Shimshack"
+   ],
+   "year": 2026,
+   "venue": "Journal of Policy Analysis and Management",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Beyond Adoption: The persistence of conservation and climate-smart agricultural practices in the United States",
+   "authors": [
+    "Paul J. Ferraro",
+    "H. Correia",
+    "J. Gao",
+    "K. Larson",
+    "K. Messer",
+    "L. Paul",
+    "B. Pratt",
+    "L. Prokopy"
+   ],
+   "year": 2025,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Conservation Impacts and Hidden Actions in a Randomized Trial of a Marine Pay-to-release Program",
+   "authors": [
+    "H. Booth",
+    "T. Pienkowski",
+    "M.S. Ramdlan",
+    "K.B. Neira",
+    "Muhsin",
+    "E.J. Milner-Gulland",
+    "L. Adrianto",
+    "Paul J. Ferraro"
+   ],
+   "year": 2025,
+   "venue": "Science Advances",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Designing Causal Mediation Analyses to Quantify Intermediary Processes in Ecology",
+   "authors": [
+    "H. Correia",
+    "L. Dee",
+    "Paul J. Ferraro"
+   ],
+   "year": 2025,
+   "venue": "Biological Reviews",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Behavioral Biases among Producers: Experimental evidence of anchoring in procurement auctions",
+   "authors": [
+    "Paul J. Ferraro",
+    "K. Messer",
+    "P. Shukla",
+    "C. Weigel"
+   ],
+   "year": 2024,
+   "venue": "Review of Economics and Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Input Efficiency as a Solution to Externalities and Resource Scarcity: A randomized controlled trial",
+   "authors": [
+    "F. Alpízar",
+    "M. Bernedo",
+    "Paul J. Ferraro"
+   ],
+   "year": 2024,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Create a Culture of Experiments in Environmental Programs",
+   "authors": [
+    "Paul J. Ferraro",
+    "T. Cherry",
+    "J. Shogren",
+    "C. Vossler",
+    "T. Cason",
+    "H. Byerly Flint",
+    "J. Hochard",
+    "O. Johansson-Stenman",
+    "P. Martinsson",
+    "J. Murphy",
+    "S. Newbold",
+    "L. Thunstrom",
+    "D. van Soest",
+    "K. van't Veld",
+    "A. Dannenberg",
+    "G. Loewenstein",
+    "L. van Boven"
+   ],
+   "year": 2023,
+   "venue": "Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Clarifying the Effect of Biodiversity on Productivity in Natural Ecosystems with Longitudinal Data and Methods for Causal Inference",
+   "authors": [
+    "L. Dee",
+    "Paul J. Ferraro",
+    "C. Severen",
+    "K. Kimmel",
+    "E.T. Borer",
+    "J. Byrnes",
+    "A. Clark",
+    "Y. Hautier",
+    "A. Hector",
+    "X. Raynaud",
+    "P.B. Reich",
+    "A.J. Wright",
+    "C.A. Arnillas",
+    "K.F. Davies",
+    "A. MacDougall",
+    "A. Mori",
+    "M.D. Smith",
+    "P.B. Adler",
+    "J.D. Bakker",
+    "K. Brauman",
+    "J. Cowles",
+    "K. Komatsu",
+    "J.M.H. Knops",
+    "R.L. McCulley",
+    "J.L. Moore",
+    "J.W. Morgan",
+    "T. Ohlert",
+    "S.A. Power",
+    "L.L. Sullivan",
+    "C. Stevens",
+    "M. Loreau"
+   ],
+   "year": 2023,
+   "venue": "Nature Communications",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Empirical Evidence of Widespread Exaggeration Bias and Selective Reporting in Ecology",
+   "authors": [
+    "K. Kimmel",
+    "M. Avolio",
+    "Paul J. Ferraro"
+   ],
+   "year": 2023,
+   "venue": "Nature Ecology & Evolution",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Unraveling Complex Causal Processes that Affect Sustainability Requires More Integration between Empirical and Modeling Approaches",
+   "authors": [
+    "M. Schlüter",
+    "C. Brelsford",
+    "Paul J. Ferraro",
+    "M. Smith",
+    "K. Orach",
+    "M. Qiu"
+   ],
+   "year": 2023,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Reassessment of the Potential for Loss-framed Incentive Contracts to Increase Productivity: A meta-analysis and real-effort experiment",
+   "authors": [
+    "Paul J. Ferraro",
+    "J.D. Tracy"
+   ],
+   "year": 2022,
+   "venue": "Experimental Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Synthesizing Evidence in Sustainability Science Through Harmonized Experiments: Community monitoring in common pool resources",
+   "authors": [
+    "Paul J. Ferraro",
+    "A. Agrawal"
+   ],
+   "year": 2021,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Reimagining Safe Drinking Water on the Basis of Twenty-first-century Science",
+   "authors": [
+    "Paul J. Ferraro",
+    "C. Prasse"
+   ],
+   "year": 2021,
+   "venue": "Nature Sustainability",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Causal Assumptions and Causal Inference in Ecological Experiments",
+   "authors": [
+    "K. Kimmel",
+    "L. Dee",
+    "M. Avolio",
+    "Paul J. Ferraro"
+   ],
+   "year": 2021,
+   "venue": "Trends in Ecology & Evolution",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Community-based Monitoring to Facilitate Water Management by Local Institutions in Costa Rica",
+   "authors": [
+    "M. Bernedo",
+    "F. Alpízar",
+    "Paul J. Ferraro"
+   ],
+   "year": 2021,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Adoption of Community Monitoring Improves Common Pool Resource Management across Contexts",
+   "authors": [
+    "T. Slough et al."
+   ],
+   "year": 2021,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Conditional Cash Transfers to Alleviate Poverty also Reduced Deforestation in Indonesia",
+   "authors": [
+    "Paul J. Ferraro",
+    "R. Simorangkir"
+   ],
+   "year": 2020,
+   "venue": "Science Advances",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Is there a Replicability Crisis on the Horizon for Environmental and Resource Economics?",
+   "authors": [
+    "Paul J. Ferraro",
+    "P. Shukla"
+   ],
+   "year": 2020,
+   "venue": "Review of Environmental Economics and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Causal Effect of Impervious Cover on Annual Flood Magnitude for the United States",
+   "authors": [
+    "A. Blum",
+    "Paul J. Ferraro",
+    "S. Archfield",
+    "K. Ryberg"
+   ],
+   "year": 2020,
+   "venue": "Geophysical Research Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Effect of Peer Comparisons on Polluters: A randomized field experiment among wastewater dischargers",
+   "authors": [
+    "D. Earnhart",
+    "Paul J. Ferraro"
+   ],
+   "year": 2020,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Impacts of Climate Science and Capacity Building in a Randomized Adaptation Project",
+   "authors": [
+    "F. Alpizar",
+    "M. Bernedo",
+    "Paul J. Ferraro",
+    "B. Meiselman"
+   ],
+   "year": 2019,
+   "venue": "Nature Climate Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Causal Inference in Coupled Natural Human Systems",
+   "authors": [
+    "Paul J. Ferraro",
+    "J. Sanchirico",
+    "M. Smith"
+   ],
+   "year": 2019,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Panel Data Designs and Estimators as Substitutes for Randomized Controlled Trials in the Evaluation of Public Programs",
+   "authors": [
+    "Paul J. Ferraro",
+    "J.J. Miranda"
+   ],
+   "year": 2017,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Estimating the Impacts of Conservation on Ecosystem Services by Integrating Modeling and Evaluation",
+   "authors": [
+    "Paul J. Ferraro",
+    "M. Hanauer",
+    "D. Miteva",
+    "J. Nelson",
+    "S. Pattanayak",
+    "C. Nolte",
+    "K. Sims"
+   ],
+   "year": 2015,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Quantifying Causal Mechanisms to Determine How Protected Areas Affect Poverty through Changes in Ecosystem Services and Infrastructure",
+   "authors": [
+    "Paul J. Ferraro",
+    "M. Hanauer"
+   ],
+   "year": 2014,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Are Voters More Likely to Contribute to Other Public Goods? Evidence from a Large-Scale Randomized Policy Experiment",
+   "authors": [
+    "T. Bolsen",
+    "Paul J. Ferraro",
+    "J.J. Miranda"
+   ],
+   "year": 2014,
+   "venue": "American Journal of Political Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Advances in Measuring the Environmental and Social Impacts of Environmental Programs",
+   "authors": [
+    "Paul J. Ferraro",
+    "M.M. Hanauer"
+   ],
+   "year": 2014,
+   "venue": "Annual Review of Environment and Resources",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Using Non-Pecuniary Strategies to Influence Behavior: evidence from a large-scale field experiment",
+   "authors": [
+    "Paul J. Ferraro",
+    "M. Price"
+   ],
+   "year": 2013,
+   "venue": "Review of Economics and Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Conditions Associated with Protected Area Success in Conservation and Poverty Reduction",
+   "authors": [
+    "Paul J. Ferraro",
+    "M. Hanauer",
+    "K.E. Sims"
+   ],
+   "year": 2011,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Persistence of Treatment Effects with Norm-based Policy Instruments: evidence from a randomized environmental policy experiment",
+   "authors": [
+    "Paul J. Ferraro",
+    "J.J. Miranda",
+    "M. Price"
+   ],
+   "year": 2011,
+   "venue": "American Economic Review: Papers and Proceedings",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Future of Payments for Environmental Services",
+   "authors": [
+    "Paul J. Ferraro"
+   ],
+   "year": 2011,
+   "venue": "Conservation Biology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Protected Areas Reduced Poverty in Costa Rica and Thailand",
+   "authors": [
+    "K.S. Andam",
+    "Paul J. Ferraro",
+    "K.E. Sims",
+    "A. Healy",
+    "M.B. Holland"
+   ],
+   "year": 2010,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Measuring the Effectiveness of Protected Area Networks in Reducing Deforestation",
+   "authors": [
+    "K.S. Andam",
+    "Paul J. Ferraro",
+    "A. Pfaff",
+    "G.A. Sanchez-Azofeifa",
+    "J. Robalino"
+   ],
+   "year": 2008,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Money for Nothing? A call for empirical evaluation of biodiversity conservation investments",
+   "authors": [
+    "Paul J. Ferraro",
+    "S.K. Pattanayak"
+   ],
+   "year": 2006,
+   "venue": "PLoS Biology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Direct Payments for Biodiversity Conservation",
+   "authors": [
+    "Paul J. Ferraro",
+    "A. Kiss"
+   ],
+   "year": 2002,
+   "venue": "Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Global Habitat Protection: Limitations of development interventions and a role for conservation performance payments",
+   "authors": [
+    "Paul J. Ferraro"
+   ],
+   "year": 2001,
+   "venue": "Conservation Biology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Impact of Experiments on Environmental Policy and Natural Resource Policy",
+   "authors": [
+    "C. Vossler",
+    "T. Cason",
+    "J. Murphy",
+    "Paul J. Ferraro",
+    "T. Cherry",
+    "G. Loewenstein",
+    "P. Martinsson",
+    "J. Shogren",
+    "L. van Boven",
+    "D. van Soest"
+   ],
+   "year": 2026,
+   "venue": "Review of Environmental Economics and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Lessons Learned from 10 Years of Embedding Experimentation in Agri-environmental Programs in the United States",
+   "authors": [
+    "Paul J. Ferraro",
+    "K. Messer"
+   ],
+   "year": 2025,
+   "venue": "Conservation Science and Practice",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "RCTs in the Wild: Designing and implementing conservation programs as randomized controlled trials",
+   "authors": [
+    "E. Pynegar",
+    "J.P.G. Jones",
+    "H. Booth",
+    "S. Rakotonarivo",
+    "Paul J. Ferraro"
+   ],
+   "year": 2025,
+   "venue": "Conservation Science and Practice",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Business-as-usual Trends Will Largely Miss 2030 Global Conservation Targets",
+   "authors": [
+    "I. Palomo",
+    "A. González-García",
+    "Paul J. Ferraro",
+    "R. Muradian",
+    "U. Pascual",
+    "M. Arboledas",
+    "J.M. Bullock",
+    "E. Bruley",
+    "E. Gómez-Baggethun",
+    "S. Lavorel"
+   ],
+   "year": 2024,
+   "venue": "Ambio",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "High Discount Rates by Private Actors Undermine Climate Change Adaptation Policies",
+   "authors": [
+    "F. Alpízar",
+    "M. Bernedo",
+    "R. Cremades",
+    "Paul J. Ferraro"
+   ],
+   "year": 2023,
+   "venue": "Climate Risk Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Social Comparisons and Groundwater Use: Evidence from Colorado and Kansas",
+   "authors": [
+    "A. Hrozencik",
+    "J. Suter",
+    "Paul J. Ferraro",
+    "N. Hendricks"
+   ],
+   "year": 2023,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Applying Behavioral Science to Agriculture, Food, And Agri-Environmental Policymaking",
+   "authors": [
+    "P. Shukla",
+    "L. Messer",
+    "Paul J. Ferraro"
+   ],
+   "year": 2023,
+   "venue": "Food Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Informational Nudges in Conservation Auctions: A field experiment with U.S. farmers",
+   "authors": [
+    "S. Wallander",
+    "L. Paul",
+    "Paul J. Ferraro",
+    "K. Messer",
+    "R. Iovanna"
+   ],
+   "year": 2023,
+   "venue": "Food Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Underpowered Studies and Exaggerated Effects: A replication and re-evaluation of the magnitude of anchoring effects",
+   "authors": [
+    "T. Li",
+    "C. Weigel",
+    "Paul J. Ferraro",
+    "K.D. Messer"
+   ],
+   "year": 2025,
+   "venue": "Economic Inquiry",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Perspectives on Stakeholder Participation in the Design of Economic Experiments for Agricultural Policymaking: Pros, Cons, and Twelve Recommendations for Researchers",
+   "authors": [
+    "J. Höhler et al."
+   ],
+   "year": 2023,
+   "venue": "Applied Economic Perspectives and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Lottery Incentives and Resource Management: Evidence from the Agricultural Data Reporting Incentive Program (AgDRIP)",
+   "authors": [
+    "B. Meiselman",
+    "C. Weigel",
+    "Paul J. Ferraro",
+    "M. Masters",
+    "K. Messer",
+    "O. Savchenko",
+    "J. Suter"
+   ],
+   "year": 2022,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Credibility Crisis in Agricultural Economics",
+   "authors": [
+    "Paul J. Ferraro",
+    "P. Shukla"
+   ],
+   "year": 2023,
+   "venue": "Applied Economic Perspectives and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Choice of Message and Messenger to Drive Behavior Change that Averts the Health Impacts of Wildfires: An online randomized controlled experiment",
+   "authors": [
+    "P. Aminpour",
+    "J. Helgeson",
+    "Paul J. Ferraro"
+   ],
+   "year": 2022,
+   "venue": "BMC Public Health",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Story Induces Greater Environmental Contributions than Scientific Information among Political Liberals but not Conservatives",
+   "authors": [
+    "H. Byerly",
+    "Paul J. Ferraro",
+    "T. Li",
+    "K. Messer",
+    "C. Weigel"
+   ],
+   "year": 2021,
+   "venue": "One Earth",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Conservation Outreach that Acknowledges Human Contributions to Climate Change does not Inhibit Action by U.S. farmers: Evidence from a large randomized controlled trial embedded in a federal program on soil health",
+   "authors": [
+    "Paul J. Ferraro",
+    "J. Fooks",
+    "R. Iovanna",
+    "J. Larson",
+    "B. Meiselman",
+    "M. Kecinski",
+    "K. Messer",
+    "M. Wilson"
+   ],
+   "year": 2021,
+   "venue": "PLoS One",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Using a Randomized Controlled Trial to Develop Conservation Strategies on Rented Farmlands",
+   "authors": [
+    "C. Weigel",
+    "S. Harden",
+    "Y. Masuda",
+    "P. Ranjan",
+    "C. Wardropper",
+    "Paul J. Ferraro",
+    "L. Prokopy",
+    "S. Reddy"
+   ],
+   "year": 2021,
+   "venue": "Conservation Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Time and Risk Preferences of Individuals, Married Couples and Unrelated Pairs",
+   "authors": [
+    "M. Bernedo",
+    "F. Alpízar",
+    "Paul J. Ferraro"
+   ],
+   "year": 2021,
+   "venue": "Journal of Behavioral and Experimental Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Private Costs of Carbon Emissions Abatement by Limiting Beef Consumption and Vehicle Use in the United States",
+   "authors": [
+    "B. McFadden",
+    "Paul J. Ferraro",
+    "K. Messer"
+   ],
+   "year": 2022,
+   "venue": "PLoS One",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Paying Americans to Take the Vaccine - Would it help or backfire?",
+   "authors": [
+    "C. Robertson",
+    "D. Scheitrum",
+    "A. Schaefer",
+    "T. Malone",
+    "B. McFadden",
+    "Paul J. Ferraro",
+    "K. Messer"
+   ],
+   "year": 2021,
+   "venue": "Journal of Law and the Biosciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Problem of Feral Hogs and the Challenges of Providing a Weak-link Public Good",
+   "authors": [
+    "S. Ellis",
+    "M. Masters",
+    "K. Messer",
+    "C. Weigel",
+    "Paul J. Ferraro"
+   ],
+   "year": 2021,
+   "venue": "Applied Economic Perspectives and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Environmental Effects of Poverty Programs and the Poverty Effects of Environmental Programs: the missing RCTs",
+   "authors": [
+    "F. Alpizar",
+    "Paul J. Ferraro"
+   ],
+   "year": 2020,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Challenges in Recruiting U.S. Farmers for Policy-Relevant Economic Field Experiments",
+   "authors": [
+    "C. Weigel",
+    "L.A. Paul",
+    "Paul J. Ferraro",
+    "K.D. Messer"
+   ],
+   "year": 2020,
+   "venue": "Applied Economic Perspectives and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Behavioural Effect of Electronic Home Energy Reports: Evidence from a randomised field trial in the United States",
+   "authors": [
+    "M. Henry",
+    "Paul J. Ferraro",
+    "A. Kontoleon"
+   ],
+   "year": 2019,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Field Experiment to Estimate the Effects of Anchoring and Framing on Residents' Willingness to Purchase Water Runoff Management Technologies",
+   "authors": [
+    "T. Li",
+    "J. Fooks",
+    "K. Messer",
+    "Paul J. Ferraro"
+   ],
+   "year": 2019,
+   "venue": "Resource and Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Behavioral and Experimental Agri-environmental Research: Methodological Challenges, Literature Gaps, and Recommendations",
+   "authors": [
+    "L. Palm-Forster",
+    "Paul J. Ferraro",
+    "N. Janusch",
+    "C. Vossler",
+    "K.D. Messer"
+   ],
+   "year": 2019,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Cautionary Tale on Using Panel Data Estimators to Measure Program Impacts",
+   "authors": [
+    "C. Wichman",
+    "Paul J. Ferraro"
+   ],
+   "year": 2017,
+   "venue": "Economics Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Addressing Participant Inattention in Federal Programs: A Field Experiment with the Conservation Reserve Program",
+   "authors": [
+    "S. Wallander",
+    "Paul J. Ferraro",
+    "N. Higgins"
+   ],
+   "year": 2017,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Impacts of Community Forest Management on Human Economic Well-being in Madagascar",
+   "authors": [
+    "R. Rasolofoson",
+    "Paul J. Ferraro",
+    "G. Ruta",
+    "M. Rasamoelina",
+    "J. Jones",
+    "H. Larsen"
+   ],
+   "year": 2016,
+   "venue": "Conservation Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Mainstreaming Impact Evaluation in Nature Conservation",
+   "authors": [
+    "K. Baylis",
+    "J. Honey-Rosés",
+    "J. Borner",
+    "E. Corbera",
+    "Paul J. Ferraro",
+    "A. Pfaff",
+    "P. Davies",
+    "D. de Blas",
+    "R. Lapeyre",
+    "S. Pagiola",
+    "M. Persson",
+    "S. Wunder"
+   ],
+   "year": 2016,
+   "venue": "Conservation Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do Payments Pay Off? Evidence from participation in Costa Rica's PES program",
+   "authors": [
+    "R. Arriagada",
+    "E.O. Sills",
+    "Paul J. Ferraro",
+    "S. Pattanayak"
+   ],
+   "year": 2015,
+   "venue": "PLoS One",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Effectiveness of Community Forest Management at Reducing Deforestation in Madagascar",
+   "authors": [
+    "R. Rasolofoson",
+    "Paul J. Ferraro",
+    "C. Jenkins",
+    "J. Jones"
+   ],
+   "year": 2015,
+   "venue": "Biological Conservation",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Performance of Non-experimental Designs in the Evaluation of Environmental Policy: a design-replication study using a large-scale randomized experiment as a benchmark",
+   "authors": [
+    "Paul J. Ferraro",
+    "J. Miranda"
+   ],
+   "year": 2014,
+   "venue": "Journal of Economic Behavior and Organization",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Persistent Impacts of Norm-based Messaging and their Implications for Water Conservation",
+   "authors": [
+    "M. Bernedo",
+    "Paul J. Ferraro",
+    "M. Price"
+   ],
+   "year": 2014,
+   "venue": "Journal of Consumer Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Heterogeneous treatment effects and mechanisms in information-based environmental policies: Evidence from a large-scale field experiment",
+   "authors": [
+    "Paul J. Ferraro",
+    "J. Miranda"
+   ],
+   "year": 2013,
+   "venue": "Resource and Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "More Strictly Protected Areas are not Necessarily More Protective",
+   "authors": [
+    "Paul J. Ferraro",
+    "M. Hanauer",
+    "D. Miteva",
+    "G. Canavire-Bacarreza",
+    "S. Pattanayak",
+    "K. Sims"
+   ],
+   "year": 2013,
+   "venue": "Environmental Research Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Effects of Protected Area Systems on Ecosystem Restoration: a quasi-experimental design to estimate the impact of Costa Rica's protected area system on forest regrowth",
+   "authors": [
+    "K.S. Andam",
+    "Paul J. Ferraro",
+    "M. Hanauer"
+   ],
+   "year": 2013,
+   "venue": "Conservation Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Forest Figures: Ecosystem services valuation and policy evaluation in developing countries",
+   "authors": [
+    "Paul J. Ferraro",
+    "K. Lawlor",
+    "K. Mullan",
+    "S.K. Pattanayak"
+   ],
+   "year": 2012,
+   "venue": "Review of Environmental Economics and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do Payments for Environmental Services Reduce Deforestation? A farm-level evaluation from Costa Rica",
+   "authors": [
+    "R. Arriagada",
+    "Paul J. Ferraro",
+    "S. Pattanayak",
+    "E. Sills",
+    "S. Cordero"
+   ],
+   "year": 2012,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Evaluation of Biodiversity Policy Instruments: What works and what doesn't?",
+   "authors": [
+    "D. Miteva",
+    "S.K. Pattanayak",
+    "Paul J. Ferraro"
+   ],
+   "year": 2012,
+   "venue": "Oxford Review of Economic Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Today and Tomorrow of Kids: time preferences and educational outcomes of children",
+   "authors": [
+    "M. Castillo",
+    "Paul J. Ferraro",
+    "J. Jordan",
+    "R. Petrie"
+   ],
+   "year": 2011,
+   "venue": "Journal of Public Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Protecting Ecosystems and Alleviating Poverty with Parks and Reserves: 'win-win' or tradeoffs?",
+   "authors": [
+    "Paul J. Ferraro",
+    "M. Hanauer"
+   ],
+   "year": 2011,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Show Me the Money: do payments supply ecosystem services in developing countries?",
+   "authors": [
+    "S.K. Pattanayak",
+    "S. Wunder",
+    "Paul J. Ferraro"
+   ],
+   "year": 2010,
+   "venue": "Review of Environmental Economics and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Source and Significance of Confusion in Public Goods Experiments",
+   "authors": [
+    "Paul J. Ferraro",
+    "C. Vossler"
+   ],
+   "year": 2010,
+   "venue": "B.E. Journal of Economic Analysis & Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Know Thyself: competence and self-awareness",
+   "authors": [
+    "Paul J. Ferraro"
+   ],
+   "year": 2010,
+   "venue": "Atlantic Economic Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Experimental Tests of Ricardian Equivalence with Nondistortionary versus Distortionary Taxes",
+   "authors": [
+    "A. Adji",
+    "J. Alm",
+    "Paul J. Ferraro"
+   ],
+   "year": 2009,
+   "venue": "Economics Bulletin",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Park Location Affects Forest Protection: land characteristics cause differences in park impacts across Costa Rica",
+   "authors": [
+    "A. Pfaff",
+    "J. Robalino",
+    "G.A. Sanchez-Azofeifa",
+    "K.S. Andam",
+    "Paul J. Ferraro"
+   ],
+   "year": 2009,
+   "venue": "B.E. Journal of Economic Analysis & Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Revealed Preference Approach to Estimating Supply Curves for Ecosystem Services: use auctions to set payments for soil erosion control in Indonesia",
+   "authors": [
+    "B.K. Jack",
+    "B. Leimona",
+    "Paul J. Ferraro"
+   ],
+   "year": 2009,
+   "venue": "Conservation Biology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Global Review of Incentive Payments for Sea Turtle Conservation",
+   "authors": [
+    "Paul J. Ferraro",
+    "H. Gjertsen"
+   ],
+   "year": 2009,
+   "venue": "Chelonian Conservation and Biology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Regional Review of Payments for Watershed Services: Sub-Saharan Africa",
+   "authors": [
+    "Paul J. Ferraro"
+   ],
+   "year": 2009,
+   "venue": "Journal of Sustainable Forestry",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Combining Qualitative and Quantitative Methods to Evaluate Participation in Costa Rica's Program of Payments for Environmental Services",
+   "authors": [
+    "R. Arriagada",
+    "E.O. Sills",
+    "S.K. Pattanayak",
+    "Paul J. Ferraro"
+   ],
+   "year": 2009,
+   "venue": "Journal of Sustainable Forestry",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Asymmetric Information and Contract Design for Payments for Environmental Services",
+   "authors": [
+    "Paul J. Ferraro"
+   ],
+   "year": 2008,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Effectiveness of Listing under the U.S. Endangered Species Act: An econometric analysis using matching methods",
+   "authors": [
+    "Paul J. Ferraro",
+    "C. McIntosh",
+    "M. Ospina"
+   ],
+   "year": 2007,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Cultural Diversity, Discrimination and Economic Outcomes: an experimental analysis",
+   "authors": [
+    "Paul J. Ferraro",
+    "R.G. Cummings"
+   ],
+   "year": 2007,
+   "venue": "Economic Inquiry",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Voluntary Development of Environmental Management Systems: Motivations and regulatory implications",
+   "authors": [
+    "T. Uchida",
+    "Paul J. Ferraro"
+   ],
+   "year": 2007,
+   "venue": "Journal of Regulatory Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Stock Market Reactions to Information Disclosure: new evidence from Japan's Pollutant Release and Transfer Register",
+   "authors": [
+    "Paul J. Ferraro",
+    "T. Uchida"
+   ],
+   "year": 2007,
+   "venue": "Environmental Economics and Policy Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Integrating Economic Costs into Conservation Planning",
+   "authors": [
+    "R. Naidoo",
+    "A. Balmford",
+    "Paul J. Ferraro",
+    "S. Polasky",
+    "T. Ricketts",
+    "M. Rouget"
+   ],
+   "year": 2006,
+   "venue": "Trends in Ecology and Evolution",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do Economists Recognize an Opportunity Cost When They See One? A dismal performance from the dismal science",
+   "authors": [
+    "Paul J. Ferraro",
+    "L.O. Taylor"
+   ],
+   "year": 2005,
+   "venue": "B.E. Journal of Economic Analysis & Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Price Premiums for Eco-friendly Commodities: Are 'green' markets the best way to protect endangered ecosystems?",
+   "authors": [
+    "Paul J. Ferraro",
+    "T. Uchida",
+    "J.M. Conrad"
+   ],
+   "year": 2005,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Cost-Effective Conservation When Eco-entrepreneurs have Market Power",
+   "authors": [
+    "Paul J. Ferraro",
+    "R.D. Simpson"
+   ],
+   "year": 2005,
+   "venue": "Environment and Development Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Targeting Conservation Investments in Heterogeneous Landscapes: A distance function approach and application to watershed management",
+   "authors": [
+    "Paul J. Ferraro"
+   ],
+   "year": 2004,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Conservation Contracting in Heterogeneous Landscapes: An application to watershed protection with threshold constraints",
+   "authors": [
+    "Paul J. Ferraro"
+   ],
+   "year": 2003,
+   "venue": "Agricultural and Resource Economics Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Detecting Other-regarding Behavior with Virtual Players",
+   "authors": [
+    "Paul J. Ferraro",
+    "D. Rondeau",
+    "G.L. Poe"
+   ],
+   "year": 2003,
+   "venue": "Journal of Economic Behavior and Organization",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Assigning Priority to Environmental Policy Interventions in a Heterogeneous World",
+   "authors": [
+    "Paul J. Ferraro"
+   ],
+   "year": 2003,
+   "venue": "Journal of Policy Analysis and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Optimizing the Riparian Buffer: Harold Brook in the Skaneateles Lake Watershed, New York",
+   "authors": [
+    "Z. Azzaino",
+    "J. Conrad",
+    "Paul J. Ferraro"
+   ],
+   "year": 2002,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Local Costs of Establishing Protected Areas in Low-income Nations: Ranomafana National Park, Madagascar",
+   "authors": [
+    "Paul J. Ferraro"
+   ],
+   "year": 2002,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Cost-effectiveness of Conservation Performance Payments",
+   "authors": [
+    "Paul J. Ferraro",
+    "R.D. Simpson"
+   ],
+   "year": 2002,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Still Money for Nothing? Two decades of empirical evaluation of conservation investments",
+   "authors": [
+    "A. Caruana",
+    "J. Bull",
+    "Paul J. Ferraro",
+    "H. Wauchope",
+    "A. Christie",
+    "J. Jones"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Seven myths about causal inference in ecology: clarifications and common ground",
+   "authors": [
+    "L. Dee",
+    "Paul J. Ferraro",
+    "K. Siegel",
+    "S. Miller",
+    "J. Byrnes",
+    "H. Correia",
+    "T. McIntosh",
+    "Arif"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Certain Reversals: experiment and theory",
+   "authors": [
+    "P. Feldman",
+    "Paul J. Ferraro"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Exposure-enhanced goods and technology disadoption",
+   "authors": [
+    "F. Alpízar",
+    "M. Bernedo",
+    "Paul J. Ferraro",
+    "B. Meiselman"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Predicting the persistence of conservation practices from publicly available environmental and socioeconomic data",
+   "authors": [
+    "H. Correia",
+    "Paul J. Ferraro"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Nudging organizations: Evidence from two multi-year natural field experiments",
+   "authors": [
+    "Paul J. Ferraro",
+    "C. Weigel",
+    "D. Earnhart",
+    "J. Fan",
+    "K. Messer"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Awareness about behavioral biases and applications of behavioral insights: implications for the behavioral sciences and public policy",
+   "authors": [
+    "Paul J. Ferraro",
+    "P. Shukla",
+    "J.D. Tracy",
+    "K. Messer"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

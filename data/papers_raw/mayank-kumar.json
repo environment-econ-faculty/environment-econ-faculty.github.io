@@ -1,0 +1,57 @@
+{
+ "slug": "mayank-kumar",
+ "name": "Mayank Kumar",
+ "sources": [
+  "http://www.kumarmayank.com",
+  "http://questromapps.bu.edu/faculty/uploadFiles/cvUploadsProfile/FE_Kumar_Mayank_CV.pdf"
+ ],
+ "collected": "2026-10-25",
+ "notes": "Homepage (current) + 2024 CV. Homepage gives no years; years set to 2025 (page date year; Journal of Finance forthcoming, year assumed). Skipped work-in-progress items (Energy Transition and Real Asset Prices; Political Economy of the Energy Transition). Abstracts null (fetch tool only paraphrased them).",
+ "papers": [
+  {
+   "title": "Carbon Emissions and Shareholder Value: Causal Evidence from the U.S. Power Utilities",
+   "authors": [
+    "Mayank Kumar",
+    "Amiyatosh Purnanandam"
+   ],
+   "year": 2025,
+   "venue": "Journal of Finance",
+   "status": "即将发表",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4279945",
+   "abstract": null
+  },
+  {
+   "title": "Private Equity and Creative Destruction: Evidence from the U.S. Power Sector",
+   "authors": [
+    "Mayank Kumar"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5772384",
+   "abstract": null
+  },
+  {
+   "title": "Dirty Assets, Clean Opportunities: Private Equity Ownership of Fossil Fuels and the Energy Transition",
+   "authors": [
+    "Mayank Kumar"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4580631",
+   "abstract": null
+  },
+  {
+   "title": "Effects of Creditor Rights on Bankruptcy Outcomes: Evidence from the Small Business Reorganization Act of 2019",
+   "authors": [
+    "Mayank Kumar"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3994945",
+   "abstract": null
+  }
+ ]
+}

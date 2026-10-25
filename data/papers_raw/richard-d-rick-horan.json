@@ -1,0 +1,1324 @@
+{
+ "slug": "richard-d-rick-horan",
+ "name": "Richard D. (Rick) Horan",
+ "sources": [
+  "https://www.canr.msu.edu/afre/vita - Horan October 2024.docx (fetched via msu-prod.dotcmscloud.com mirror)"
+ ],
+ "collected": "2026-10-25",
+ "notes": "From Oct 2024 CV (docx); canr.msu.edu itself is bot-blocked. 89 journal articles (latest 2023; Choices magazine piece and 2003 AER comment skipped), six original book chapters, the one R&R, and 'other papers submitted or in progress' listed as working papers (year 2024 = CV date; no drafts verified; Tian item is single-authored). Authors as initials per CV. Venue strings auto-parsed. No personal homepage used.",
+ "papers": [
+  {
+   "title": "Endogenous Risk and Habitat Loss from Climate Change:  An Application to Seal Management After the November Rain",
+   "authors": [
+    "R.D. Horan",
+    "C. Sims",
+    "D. Finnoff"
+   ],
+   "year": 2023,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Where, When, What, and Which? Using Characteristics of Migratory Species to Inform Conservation Policy Questions.",
+   "authors": [
+    "H.J. Albers",
+    "K. Kroetz",
+    "C. Sims",
+    "A.W. Ando",
+    "D. Finnoff",
+    "R.D. Horan",
+    "R. Liu",
+    "E. Nelson",
+    "J. Merkle"
+   ],
+   "year": 2023,
+   "venue": "Review of Environmental Economics and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Investing to Both Prevent and Prepare for COVID-XX",
+   "authors": [
+    "K. Berry",
+    "R.D. Horan",
+    "D. Finnoff",
+    "R. Pompa",
+    "P. Daszak"
+   ],
+   "year": 2022,
+   "venue": "EcoHealth",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Song Remains Not the Same:  Correlated Intercept and Slope Uncertainties Matter to Prices vs Quantities",
+   "authors": [
+    "R.D. Horan",
+    "J.S. Shortle"
+   ],
+   "year": 2021,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Chronic Wasting Disease Undermines Efforts to Control the Spread of Brucellosis in the Greater Yellowstone Ecosystem",
+   "authors": [
+    "M. Maloney",
+    "J. Merkle",
+    "D. Aadland",
+    "D. Peck",
+    "R.D. Horan",
+    "K. Monteith",
+    "T. Winslow",
+    "J. Logan",
+    "D. Finnoff; C. Sims",
+    "B. Schumaker"
+   ],
+   "year": 2020,
+   "venue": "Ecological Applications",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "When the Levee Breaks: Can Multi-Pollutant Markets Break the Dam on Point-Nonpoint Market Participation?",
+   "authors": [
+    "C. Reeling",
+    "R.D. Horan",
+    "C. Garnache"
+   ],
+   "year": 2020,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Come on Feel the Noise: Ecological Foundations in Stochastic Bioeconomic Models",
+   "authors": [
+    "C. Sims",
+    "R.D. Horan",
+    "B. Meadows"
+   ],
+   "year": 2018,
+   "venue": "Natural Resource Modeling",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Economic Case for a Pandemic Fund",
+   "authors": [
+    "D. Finnoff",
+    "K. Berry",
+    "C. Allen",
+    "R.D. Horan",
+    "J.F. Shogren",
+    "P. Daszak"
+   ],
+   "year": 2018,
+   "venue": "EcoHealth",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Managing Disease Risks from Trade: Strategic Behavior with Many Choices and Price Effects",
+   "authors": [
+    "P. Chitchumnong",
+    "R.D. Horan"
+   ],
+   "year": 2018,
+   "venue": "EcoHealth",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Managing Wildlife Faced with Pathogen Risks Involving Multi-Stable Outcomes",
+   "authors": [
+    "R.D. Horan",
+    "D. Finnoff",
+    "J.F. Shogren",
+    "K. Berry",
+    "C. Reeling"
+   ],
+   "year": 2018,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Portfolio-Balancing Approach to Natural Capital and Liabilities: Managing Livestock and Wildlife Disease with Cross-Species Transmission",
+   "authors": [
+    "R.D. Horan",
+    "E.P. Fenichel",
+    "D. Finnoff",
+    "C. Reeling"
+   ],
+   "year": 2018,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic Incentives for Managing Filterable Biological Pollution Risks from Trade",
+   "authors": [
+    "C. Reeling",
+    "R.D. Horan"
+   ],
+   "year": 2018,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Efficiency Gains from Integrated Multipollutant Trading",
+   "authors": [
+    "C. Reeling",
+    "C. Garnache",
+    "R.D. Horan"
+   ],
+   "year": 2018,
+   "venue": "Resource and Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Role of Restoration in the Prevention of a Large-Scale Native Species Loss: Case Study of the Emerald Ash Borer",
+   "authors": [
+    "K.C. Berry",
+    "D. Finnoff",
+    "R.D. Horan",
+    "S.M. McDermott"
+   ],
+   "year": 2017,
+   "venue": "Journal of Forest Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Endogenous Risk and Point-Nonpoint Uncertainty Trading Ratios",
+   "authors": [
+    "R.D. Horan",
+    "J.S. Shortle"
+   ],
+   "year": 2017,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Nutrient Pollution: A Wicked Challenge for Economic Instruments",
+   "authors": [
+    "J.S. Shortle",
+    "R.D. Horan"
+   ],
+   "year": 2017,
+   "venue": "Water Economics and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Tinbergen and Tipping points: Could some thresholds be policy-induced?",
+   "authors": [
+    "E.P. Fenichel",
+    "R.D. Horan"
+   ],
+   "year": 2016,
+   "venue": "Journal of Economic Behavior and Organization",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Natural vs Anthropogenic Risk Reduction: Facing Invasion Risks Involving Multi-Stable Outcomes",
+   "authors": [
+    "D. Finnoff",
+    "R.D. Horan",
+    "J.F. Shogren",
+    "C. Reeling",
+    "K. Berry"
+   ],
+   "year": 2016,
+   "venue": "Journal of Economic Behavior and Organization",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Second-Best Pollution Taxes: Revisited and Revised",
+   "authors": [
+    "A. Kampas",
+    "R.D. Horan"
+   ],
+   "year": 2016,
+   "venue": "Environmental Economics and Policy Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "SIS and SIR Epidemic Models under Virtual Dispersal",
+   "authors": [
+    "Bichara",
+    "Y. Kung",
+    "C. Castillo-Chavez",
+    "R.Horan",
+    "C. Perrings"
+   ],
+   "year": 2015,
+   "venue": "Bulletin of Mathematical Biology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Self-Protection, Strategic Interactions, and the Relative Endogeneity of Disease Risks",
+   "authors": [
+    "C. Reeling",
+    "R.D. Horan"
+   ],
+   "year": 2015,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Managing Dynamic Epidemiological Risks through Trade",
+   "authors": [
+    "R.D. Horan",
+    "E.P. Fenichel",
+    "D. Finnoff",
+    "C.W. Wolf"
+   ],
+   "year": 2015,
+   "venue": "Journal of Economic Dynamics and Control",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Managing the Endogenous Risk of Disease Outbreaks with Non-Constant Background Risk",
+   "authors": [
+    "K. Berry",
+    "D. Finnoff",
+    "R.D. Horan",
+    "J.F. Shogren"
+   ],
+   "year": 2015,
+   "venue": "Journal of Economic Dynamics and Control",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Merging Economics and Epidemiology to Improve the Prediction and Management of Infectious Disease",
+   "authors": [
+    "C. Perrings",
+    "C. Castillo-Chavez",
+    "G. Chowell",
+    "P. Daszak",
+    "E. Fenichel",
+    "D. Finnoff",
+    "R.D. Horan",
+    "A.M. Kilpatrick",
+    "A. Kinzig",
+    "N. Kuminoff",
+    "S. Levin",
+    "B. Morin",
+    "K. Smith & M. Springborn."
+   ],
+   "year": 2014,
+   "venue": "EcoHealth",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Interspecies Management and Land Use Strategies to Protect Endangered Species",
+   "authors": [
+    "R.T. Melstrom",
+    "R.D. Horan"
+   ],
+   "year": 2014,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Policy Instruments for Water Quality Protection",
+   "authors": [
+    "J.S. Shortle",
+    "R.D. Horan"
+   ],
+   "year": 2013,
+   "venue": "Annual Review of Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Managing Excessive Predation in a Predator-Endangered Prey Setting",
+   "authors": [
+    "R.T. Melstrom",
+    "R.D. Horan"
+   ],
+   "year": 2013,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Banking on Extinction: Endangered Species and Speculation",
+   "authors": [
+    "C. Mason",
+    "E.H. Bulte",
+    "R.D. Horan"
+   ],
+   "year": 2012,
+   "venue": "Oxford Review of Economic Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Reforming Agricultural Nonpoint Pollution Policy in an Increasingly Budget-Constrained Environment",
+   "authors": [
+    "J.S. Shortle",
+    "M.O. Ribaudo",
+    "R.D. Horan",
+    "D. Blandford"
+   ],
+   "year": 2012,
+   "venue": "Environmental Science & Technology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "No Sympathy for the Devil",
+   "authors": [
+    "R.D. Horan",
+    "R.T. Melstrom"
+   ],
+   "year": 2011,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Jointly-Determined Livestock Disease Dynamics and Decentralized Economic Behaviour",
+   "authors": [
+    "B.M. Gramig",
+    "R.D. Horan"
+   ],
+   "year": 2011,
+   "venue": "Australian Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Wildlife Disease Bioeconomics",
+   "authors": [
+    "R.D. Horan",
+    "E.P. Fenichel",
+    "R.T. Melstrom"
+   ],
+   "year": 2011,
+   "venue": "International Review of Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Intergenerational Transmission of Preferences",
+   "authors": [
+    "E.H. Bulte",
+    "R.D. Horan"
+   ],
+   "year": 2011,
+   "venue": "Economics Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Managing Ecological Thresholds in Coupled Environmental-Human Systems",
+   "authors": [
+    "R.D. Horan",
+    "E.P. Fenichel",
+    "K. Drury",
+    "D.M. Lodge"
+   ],
+   "year": 2011,
+   "venue": "Proceedings of the National Academy of Sciences of the United States of America",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Adaptive Human Behavior in Epidemiological Models",
+   "authors": [
+    "E.P. Fenichel",
+    "C. Castillo-Chavez",
+    "M.G. Ceddia",
+    "G. Chowell-Puente",
+    "P.A. Gonzalez-Parra",
+    "G.J. Hickling",
+    "G. Holloway",
+    "R.D. Horan",
+    "B. Morrin",
+    "C. Perrings",
+    "M. Springborn",
+    "L. Velazquez",
+    "C. Villalobos"
+   ],
+   "year": 2011,
+   "venue": "Proceedings of the National Academy of Sciences of the United States of America",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Joint Determination of Biological Encephalization and Economic Specialization",
+   "authors": [
+    "R.D. Horan",
+    "J.F. Shogren",
+    "E.H. Bulte"
+   ],
+   "year": 2011,
+   "venue": "Resource and Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic and Ecological Rules for Water Quality Trading",
+   "authors": [
+    "R.D. Horan",
+    "J.S. Shortle"
+   ],
+   "year": 2011,
+   "venue": "Journal of the American Water Resources Association",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Economics of Invasive Species Control and Management: The Complex Road Ahead",
+   "authors": [
+    "R.D. Horan",
+    "F. Lupi"
+   ],
+   "year": 2010,
+   "venue": "Resource and Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Indirect Management of Invasive Species through Bio-Controls: A Bioeconomic Model of Salmon and Alewife in Lake Michigan",
+   "authors": [
+    "E.P. Fenichel",
+    "R.D. Horan",
+    "J. Bence"
+   ],
+   "year": 2010,
+   "venue": "Resource and Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Managing Infectious Animal Disease Systems",
+   "authors": [
+    "R.D. Horan",
+    "E.P. Fenichel",
+    "C.A. Wolf",
+    "B.M. Gramig"
+   ],
+   "year": 2010,
+   "venue": "Annual Review of Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Bioeconomic Management of Invasive Vector-Borne Diseases",
+   "authors": [
+    "E.P. Fenichel",
+    "R.D. Horan",
+    "G.J. Hickling"
+   ],
+   "year": 2010,
+   "venue": "Biological Invasions",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Management of Infectious Wildlife Diseases: Bridging Conventional and Bioeconomic Approaches",
+   "authors": [
+    "E.P. Fenichel",
+    "R.D. Horan",
+    "G. Hickling"
+   ],
+   "year": 2010,
+   "venue": "Ecological Applications",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Identities in the Commons: Dynamics of Norms and Social Capital",
+   "authors": [
+    "E.H. Bulte",
+    "R.D. Horan"
+   ],
+   "year": 2010,
+   "venue": "The B.E. Journal of Economic Analysis & Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Livestock Disease Indemnity Design when Moral Hazard is Followed by Adverse Selection",
+   "authors": [
+    "B.M. Gramig",
+    "R.D. Horan",
+    "C.A. Wolf"
+   ],
+   "year": 2009,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Disease and Behavioral Dynamics for Brucellosis Control in Elk and Cattle in the Greater Yellowstone Area",
+   "authors": [
+    "F. Xie",
+    "R.D. Horan"
+   ],
+   "year": 2009,
+   "venue": "Journal of Agricultural and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Coevolution of Human Speech and Trade",
+   "authors": [
+    "R.D. Horan",
+    "E.H. Bulte",
+    "J.F. Shogren"
+   ],
+   "year": 2008,
+   "venue": "Journal of Economic Growth",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Economics of Water Quality Trading",
+   "authors": [
+    "J.S. Shortle",
+    "R.D. Horan"
+   ],
+   "year": 2008,
+   "venue": "International Review of Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Joint Management of Wildlife and Livestock Disease",
+   "authors": [
+    "R.D. Horan",
+    "C.A. Wolf",
+    "E.P. Fenichel",
+    "K.H. Mathews, Jr."
+   ],
+   "year": 2008,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Wildlife Conservation Payments to Address Habitat Fragmentation and Disease Risks",
+   "authors": [
+    "R.D. Horan",
+    "J.F. Shogren",
+    "B. Gramig"
+   ],
+   "year": 2008,
+   "venue": "Environment and Development Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economics and Ecology of Managing Emerging Infectious Animal Diseases",
+   "authors": [
+    "R.D. Horan",
+    "E.P. Fenichel"
+   ],
+   "year": 2007,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Gender-Based Harvesting in Wildlife Disease Management",
+   "authors": [
+    "E.P. Fenichel",
+    "R.D. Horan"
+   ],
+   "year": 2007,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Jointly-Determined Ecological Thresholds and Economic Tradeoffs in Wildlife Disease Management",
+   "authors": [
+    "E.P. Fenichel",
+    "R.D. Horan"
+   ],
+   "year": 2007,
+   "venue": "Natural Resource Modeling",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Targeting Green Payments under a Budget Constraint",
+   "authors": [
+    "R.D. Horan",
+    "R. Claassen"
+   ],
+   "year": 2007,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Water Quality Trading",
+   "authors": [
+    "J.S. Shortle",
+    "R.D. Horan"
+   ],
+   "year": 2006,
+   "venue": "Penn State Environmental Law Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Economics of Pleistocene Megafauna Extinction: Early Humans and the Overkill Hypothesis",
+   "authors": [
+    "E.H. Bulte",
+    "R.D. Horan",
+    "J.F. Shogren"
+   ],
+   "year": 2006,
+   "venue": "Journal of Economic Behavior and Organization",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Spatial Management of Wildlife Disease",
+   "authors": [
+    "R.D. Horan",
+    "C.A. Wolf",
+    "E.P. Fenichel",
+    "K. Mathews, Jr."
+   ],
+   "year": 2005,
+   "venue": "Review of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How Trade Saved Humanity from Biological Exclusion: An Economic Theory of Neanderthal Extinction",
+   "authors": [
+    "R.D. Horan",
+    "E.H. Bulte",
+    "J.F. Shogren"
+   ],
+   "year": 2005,
+   "venue": "Journal of Economic Behavior and Organization",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Economics of Managing Infectious Wildlife Disease",
+   "authors": [
+    "R.D. Horan",
+    "C.A. Wolf"
+   ],
+   "year": 2005,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Value of Information for Water Quality Management",
+   "authors": [
+    "T. Borisova",
+    "J. Shortle",
+    "R.D. Horan",
+    "D. Abler"
+   ],
+   "year": 2005,
+   "venue": "Water Resources Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic Incentives for Controlling Trade-Related Biological Invasions in the Great Lakes",
+   "authors": [
+    "R.D. Horan",
+    "F. Lupi"
+   ],
+   "year": 2005,
+   "venue": "Agricultural and Resource Economics Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "When Two Wrongs Make a Right: Second-Best Point-Nonpoint Trading Ratios",
+   "authors": [
+    "R.D. Horan",
+    "J.S. Shortle"
+   ],
+   "year": 2005,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Tradeable Risk Permits to Prevent Future Introductions of Invasive Alien Species in the Great Lakes",
+   "authors": [
+    "R.D. Horan",
+    "F. Lupi"
+   ],
+   "year": 2005,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Optimal and Open Access Harvesting of Multi-Use Species in a Second-Best World",
+   "authors": [
+    "R.D. Horan",
+    "E.H. Bulte"
+   ],
+   "year": 2004,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Coordination and Design of Point-Nonpoint Trading Programs and Agri-Environmental Policies",
+   "authors": [
+    "R.D. Horan",
+    "J.S. Shortle",
+    "D.G. Abler"
+   ],
+   "year": 2004,
+   "venue": "Agricultural and Resource Economics Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Betting on Extinction: Endangered Species and Speculation",
+   "authors": [
+    "E.H. Bulte",
+    "C. Mason",
+    "R.D. Horan"
+   ],
+   "year": 2003,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Is The Tasmanian Tiger Extinct? A Biological-Economic Re-Evaluation",
+   "authors": [
+    "E.H. Bulte",
+    "R.D. Horan",
+    "J.F. Shogren"
+   ],
+   "year": 2003,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Paleoeconomic Theory of Co-Evolution and Extinction of Domesticable Animals",
+   "authors": [
+    "R.D. Horan",
+    "J.F. Shogren",
+    "E.H. Bulte"
+   ],
+   "year": 2003,
+   "venue": "Scottish Journal of Political Economy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Habitat Conservation, Wildlife Extraction, and Agricultural Expansion",
+   "authors": [
+    "E.H. Bulte",
+    "R.D. Horan"
+   ],
+   "year": 2003,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Biological Pollution Prevention Strategies Under Ignorance: The Case of Invasive Species",
+   "authors": [
+    "R.D. Horan",
+    "C. Perrings",
+    "F. Lupi",
+    "E. Bulte"
+   ],
+   "year": 2002,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Climate Change, Agriculture, and Water Quality in the Chesapeake Bay Region",
+   "authors": [
+    "D.G. Abler",
+    "J.S. Shortle",
+    "J. Carmichael",
+    "R.D. Horan"
+   ],
+   "year": 2002,
+   "venue": "Climatic Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Does Human Population Growth Increase Wildlife Harvests?  An Economic Assessment",
+   "authors": [
+    "E.H. Bulte",
+    "R.D. Horan"
+   ],
+   "year": 2002,
+   "venue": "Journal of Wildlife Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Point-Nonpoint Nutrient Trading in the Susquehanna River Basin",
+   "authors": [
+    "R.D. Horan",
+    "J.S. Shortle",
+    "D.G. Abler"
+   ],
+   "year": 2002,
+   "venue": "Water Resources Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Cost-Effective Point-Nonpoint Trading: An Application to the Susquehanna River Basin",
+   "authors": [
+    "R.D. Horan",
+    "D.G. Abler",
+    "J.S. Shortle",
+    "J. Carmichael"
+   ],
+   "year": 2002,
+   "venue": "Journal of the American Water Resources Association",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Ambient Taxes under m-Dimensional Choice Sets, Heterogeneous Expectations, and Risk-Aversion",
+   "authors": [
+    "R.D. Horan",
+    "J.S. Shortle",
+    "D.G. Abler"
+   ],
+   "year": 2002,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Welfare Sensitivity of Agri-Environmental Instruments",
+   "authors": [
+    "R.D. Horan",
+    "R. Claassen",
+    "E.L. Howe"
+   ],
+   "year": 2001,
+   "venue": "Journal of Agricultural and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Differences in Social and Public Risk Perceptions and Conflicting Impacts on Point/Nonpoint Trading Ratios",
+   "authors": [
+    "R.D. Horan"
+   ],
+   "year": 2001,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Economics of Nonpoint Pollution Control",
+   "authors": [
+    "J.S. Shortle",
+    "R.D. Horan"
+   ],
+   "year": 2001,
+   "venue": "Journal of Economic Surveys",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Uniform and Non-Uniform Second-Best Input Taxes: The Significance of Market Price Effects on Efficiency and Equity",
+   "authors": [
+    "R. Claassen",
+    "R.D. Horan"
+   ],
+   "year": 2001,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Cost-Effective and Stochastic Dominance Approaches to Stochastic Pollution Control",
+   "authors": [
+    "R.D. Horan"
+   ],
+   "year": 2001,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Accounting for the Distributional Impacts of Policy in the Green Accounts",
+   "authors": [
+    "R.D. Horan",
+    "J. Hrubovcak",
+    "J.S. Shortle",
+    "E.H. Bulte"
+   ],
+   "year": 2000,
+   "venue": "Environment and Development Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Green Payments for Nonpoint Pollution Control",
+   "authors": [
+    "R.D. Horan",
+    "J.S. Shortle",
+    "D.G. Abler"
+   ],
+   "year": 1999,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Role of Education in Nonpoint Source Pollution Control Policy",
+   "authors": [
+    "M.O. Ribaudo",
+    "R.D. Horan"
+   ],
+   "year": 1999,
+   "venue": "Review of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Policy Objectives and Economic Incentives for Controlling Agricultural Sources of Nonpoint Pollution",
+   "authors": [
+    "R.D. Horan",
+    "M.O. Ribaudo"
+   ],
+   "year": 1999,
+   "venue": "Journal of the American Water Resources Association",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Renewable Resource Policy when Distributional Impacts Matter",
+   "authors": [
+    "R.D. Horan",
+    "J.S. Shortle",
+    "E.H. Bulte"
+   ],
+   "year": 1999,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Optimal Management of Multiple Renewable Resource Stocks: An Application to Minke Whales",
+   "authors": [
+    "R.D. Horan",
+    "J.S. Shortle"
+   ],
+   "year": 1999,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Ambient Taxes when Polluters Have Multiple Choices",
+   "authors": [
+    "R.D. Horan",
+    "J.S. Shortle",
+    "D.G. Abler"
+   ],
+   "year": 1998,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Research Issues in Nonpoint Pollution Control",
+   "authors": [
+    "J.S. Shortle",
+    "R.D. Horan",
+    "D.G. Abler"
+   ],
+   "year": 1998,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic Control of Invasive Species",
+   "authors": [
+    "D. Finnoff",
+    "J.F. Shogren",
+    "R.D. Horan",
+    "S.M. McDermott",
+    "C. Sims"
+   ],
+   "year": 2013,
+   "venue": "Encyclopedia of Biodiversity (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Dynamic Perspectives on the Control of Animal Disease: Merging Epidemiology and Economics",
+   "authors": [
+    "R.D. Horan",
+    "C.A. Wolf",
+    "E.P. Fenichel"
+   ],
+   "year": 2012,
+   "venue": "Health and Animal Agriculture in Developing Countries (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Conservation Payments to Reduce Wildlife Habitat Fragmentation and Disease Risks",
+   "authors": [
+    "R.D. Horan",
+    "J.F. Shogren",
+    "B.M. Gramig"
+   ],
+   "year": 2008,
+   "venue": "Payment for Environmental Services in Agricultural Landscapes (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Green Payments Policy",
+   "authors": [
+    "S.S. Batie",
+    "R.D. Horan"
+   ],
+   "year": 2001,
+   "venue": "2002 Farm Bill Policy Options and Consequences (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Environmental Instruments for Agriculture",
+   "authors": [
+    "R.D. Horan",
+    "J.S. Shortle"
+   ],
+   "year": 2001,
+   "venue": "Environmental Policies for Agricultural Pollution Control (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Voluntary and Indirect Approaches for Reducing Externalities and Satisfying Multiple Constraints",
+   "authors": [
+    "R.D. Horan",
+    "M.O. Ribaudo",
+    "D.G. Abler"
+   ],
+   "year": 2001,
+   "venue": "Environmental Policies for Agricultural Pollution Control (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Should I Stay or Should I Go? Dynamic Decision Rules that Reflect Rate-of-Return and Stationary Equivalency Tradeoffs",
+   "authors": [
+    "R.D. Horan",
+    "D. Finnoff"
+   ],
+   "year": 2024,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Multipollutant Markets with Multiple Risks and Spillovers",
+   "authors": [
+    "R.D. Horan",
+    "C.J. Reeling"
+   ],
+   "year": 2024,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Retirement Ratios in Second-Best Permit Markets",
+   "authors": [
+    "R.D. Horan",
+    "C. Reeling",
+    "J.S. Shortle"
+   ],
+   "year": 2024,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Economics of Species' Migration when Space is the Thing that Moves: An Application to Wildlife Disease Management",
+   "authors": [
+    "R.D. Horan",
+    "D. Finnoff",
+    "C. Sims"
+   ],
+   "year": 2024,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Managing Multiple Pathogens in Greater Yellowstone Area Elk: The Role of Inter-Dependent, Endogenous Host-Density Thresholds",
+   "authors": [
+    "Z. Tian"
+   ],
+   "year": 2024,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Managing an Infected Wildlife Population Facing Disease Risks from Another Pathogen: An Application to Brucellosis and CWD in Greater Yellowstone Area Elk",
+   "authors": [
+    "R.D. Horan",
+    "D. Finnoff"
+   ],
+   "year": 2024,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Managing a Portfolio of Spatial Wildlife Infection Risks Over a Heterogeneous Land Area: An Application to Elk in the Greater Yellowstone Area",
+   "authors": [
+    "R.D. Horan",
+    "D. Finnoff",
+    "S. Lindley"
+   ],
+   "year": 2024,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

@@ -1,0 +1,125 @@
+{
+ "slug": "james-archsmith",
+ "name": "James Archsmith",
+ "sources": [
+  "https://econjim.com/pdf/CV_James_Archsmith.pdf",
+  "https://econjim.com/research.php"
+ ],
+ "collected": "2026-10-25",
+ "notes": "From CV dated July 23, 2026 and econjim.com/research.php. EV paper: CV says Jan 2021 (Environmental and Energy Policy and the Economy vol. 3; homepage says 2022), 2021 kept per CV. Dam Spillovers is single-authored (homepage); year 2026 = CV date for R&R and 'Adjustment on the Margin' (no draft link; listed on CV as selected working paper). Abstracts on homepage are paraphrased only, so left null.",
+ "papers": [
+  {
+   "title": "A Hedge Fund in Your Garage: Automobile purchases under gasoline price uncertainty",
+   "authors": [
+    "James Archsmith",
+    "Simon Levin"
+   ],
+   "year": 2026,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "https://doi.org/10.1086/740879",
+   "abstract": null
+  },
+  {
+   "title": "Dynamics of Inattention in the (Baseball) Field",
+   "authors": [
+    "James Archsmith",
+    "Anthony Heyes",
+    "Matthew Neidell",
+    "Bhaven Sampat"
+   ],
+   "year": 2025,
+   "venue": "The Economic Journal",
+   "status": "已发表",
+   "url": "https://doi.org/10.1093/ej/ueaf030",
+   "abstract": null
+  },
+  {
+   "title": "Future paths of electric vehicle adoption in the United States: Predictable determinants, obstacles and opportunities",
+   "authors": [
+    "James Archsmith",
+    "Erich Muehlegger",
+    "David Rapson"
+   ],
+   "year": 2021,
+   "venue": "Environmental and Energy Policy and the Economy",
+   "status": "已发表",
+   "url": "https://doi.org/10.3386/w28933",
+   "abstract": null
+  },
+  {
+   "title": "Attribute Substitution in Household Vehicle Portfolios",
+   "authors": [
+    "James Archsmith",
+    "Kenneth Gillingham",
+    "Chris Knittel",
+    "David Rapson"
+   ],
+   "year": 2020,
+   "venue": "The RAND Journal of Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/1756-2171.12353",
+   "abstract": null
+  },
+  {
+   "title": "Air Quality and Error Quantity: Pollution and Performance in a High-skilled, Quality-focused Occupation",
+   "authors": [
+    "James Archsmith",
+    "Anthony Heyes",
+    "Soodeh Saberian"
+   ],
+   "year": 2018,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "https://doi.org/10.1086/698728",
+   "abstract": null
+  },
+  {
+   "title": "From Cradle to Junkyard: Assessing the Life-cycle Greenhouse Gas Benefits of Electric Vehicles",
+   "authors": [
+    "James Archsmith",
+    "Alissa Kendall",
+    "David Rapson"
+   ],
+   "year": 2015,
+   "venue": "Research in Transportation Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.retrec.2015.10.007",
+   "abstract": null
+  },
+  {
+   "title": "Time to First-Time Behavioral Health Disorders Among Children in Foster Care with Asthma",
+   "authors": [
+    "James Archsmith",
+    "Roderick A. Rose"
+   ],
+   "year": 2026,
+   "venue": "Journal of Public Child Welfare",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Dam Spillovers: Direct costs and spillovers from environmental constraints on hydroelectric generation",
+   "authors": [
+    "James Archsmith"
+   ],
+   "year": 2026,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "修改重投",
+   "url": "https://econjim.com/WP1701",
+   "abstract": null
+  },
+  {
+   "title": "Adjustment on the Margin: Evaluating emissions reduction policies in the face of short-run adjustment costs",
+   "authors": [
+    "James Archsmith"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

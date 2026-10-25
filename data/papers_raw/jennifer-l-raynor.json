@@ -1,0 +1,212 @@
+{
+ "slug": "jennifer-l-raynor",
+ "name": "Jennifer L. Raynor",
+ "sources": [
+  "https://jenniferraynor.com/wp-content/uploads/2026/07/raynor-cv-web.pdf",
+  "https://jenniferraynor.com"
+ ],
+ "collected": "2026-10-25",
+ "notes": "CV (updated July 2026); homepage only summarizes 3 projects. Skipped popular press. NBER WP 34377 listed 'In Review' with byline Frank, Missirian, Parker, Raynor; year 2025 assumed. Fish and Fisheries and Conservation Science and Practice 2026 treated as published.",
+ "papers": [
+  {
+   "title": "Satellite-Based Fishing Fleet Tracking: A New Foundation for Fisheries Science and Management",
+   "authors": [
+    "Jennifer Raynor",
+    "Tai Lohrer"
+   ],
+   "year": 2026,
+   "venue": "Fish and Fisheries",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Carbon Finance Initiatives Can Provide Biodiversity Benefits",
+   "authors": [
+    "H.S.S.C. Sagar",
+    "J. Raynor",
+    "F.A. Edwards",
+    "F.J. Sanderson",
+    "S. Jones",
+    "D.W. Yu",
+    "A. Bush",
+    "M.E. Persche",
+    "T. Bodasing",
+    "M.E. Taire",
+    "B. Gottesman",
+    "M.A. Feika",
+    "L. Nyallay",
+    "Z. Buivalová"
+   ],
+   "year": 2026,
+   "venue": "Conservation Science and Practice",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Little-to-No Industrial Fishing Occurs in Fully and Highly Protected Marine Areas",
+   "authors": [
+    "J. Raynor",
+    "S. Orofino",
+    "C. Costello",
+    "G. McDonald",
+    "J. Mayorga",
+    "E. Sala"
+   ],
+   "year": 2025,
+   "venue": "Science",
+   "status": "已发表",
+   "url": "https://doi.org/10.1126/science.adt9009",
+   "abstract": null
+  },
+  {
+   "title": "The Nature of the Beast: Wildlife Valuation from the Iconic to the Ordinary",
+   "authors": [
+    "L. Lewis",
+    "J. Raynor",
+    "L. Richardson"
+   ],
+   "year": 2024,
+   "venue": "Annual Review of Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Global Expansion of Marine Protected Areas and the Redistribution of Fishing Effort",
+   "authors": [
+    "G. McDonald",
+    "J. Bone",
+    "C. Costello",
+    "G. Englander",
+    "J. Raynor"
+   ],
+   "year": 2024,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "https://doi.org/10.1073/pnas.2400592121",
+   "abstract": null
+  },
+  {
+   "title": "Satellite Mapping Reveals Extensive Industrial Activity at Sea",
+   "authors": [
+    "F. Paolo",
+    "D. Kroodsma",
+    "J. Raynor",
+    "T. Hochberg",
+    "P. Davis",
+    "J. Cleary",
+    "L. Marsaglia",
+    "S. Orofino",
+    "C. Thomas",
+    "P. Halpin"
+   ],
+   "year": 2024,
+   "venue": "Nature",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Spillover Benefits from the World's Largest Fully Protected MPA",
+   "authors": [
+    "S. Medoff",
+    "J. Lynham",
+    "J. Raynor"
+   ],
+   "year": 2022,
+   "venue": "Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Wolves Make Roadways Safer, Generating Large Economic Returns to Predator Conservation",
+   "authors": [
+    "J. Raynor",
+    "C. Grainger",
+    "D. Parker"
+   ],
+   "year": 2021,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Reply to 'Catch Rate Composition Affects Assessment of Protected Area Impacts'",
+   "authors": [
+    "J. Lynham",
+    "A. Nikolaev",
+    "J. Raynor",
+    "T. Vilela",
+    "J.C. Villaseñor-Derbez"
+   ],
+   "year": 2021,
+   "venue": "Nature Communications",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Impact of Two of the World's Largest Protected Areas on Longline Fishery Catch Rates",
+   "authors": [
+    "J. Lynham",
+    "A. Nikolaev",
+    "J. Raynor",
+    "T. Vilela",
+    "J.C. Villaseñor-Derbez"
+   ],
+   "year": 2020,
+   "venue": "Nature Communications",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Ensemble Random Forests as a Tool for Modeling Rare Occurrences",
+   "authors": [
+    "Z. Siders",
+    "N. Ducharme-Barth",
+    "F. Carvalho",
+    "D. Kobayashi",
+    "S. Martin",
+    "J. Raynor",
+    "T.T. Jones",
+    "R. Ahrens"
+   ],
+   "year": 2020,
+   "venue": "Endangered Species Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Can Native Species Compete with Valuable Exotics? Valuing Ecological Changes in the Lake Michigan Recreational Fishery",
+   "authors": [
+    "J. Raynor",
+    "D. Phaneuf"
+   ],
+   "year": 2020,
+   "venue": "Journal of Great Lakes Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Option Value of Apex Predators: Evidence from a River Discontinuity",
+   "authors": [
+    "E. Frank",
+    "A. Missirian",
+    "D. Parker",
+    "J. Raynor"
+   ],
+   "year": 2025,
+   "venue": "NBER Working Paper 34377",
+   "status": "工作论文",
+   "url": "https://www.nber.org/papers/w34377",
+   "abstract": null
+  }
+ ]
+}

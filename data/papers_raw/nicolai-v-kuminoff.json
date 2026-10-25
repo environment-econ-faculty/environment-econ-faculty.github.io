@@ -1,0 +1,582 @@
+{
+ "slug": "nicolai-v-kuminoff",
+ "name": "Nicolai V. Kuminoff",
+ "sources": [
+  "https://nickkuminoff.github.io/webpage/cv_kuminoff.pdf"
+ ],
+ "collected": "2026-10-25",
+ "notes": "From CV dated Aug 2026. Included refereed articles, Oxford Handbook chapter and working papers; skipped reports, farm-bill/other chapters, older unpublished WPs. Mandia WP year = CV year (no date). JEEA paper listed as R&R on Kuminoff CV but conditionally accepted per Vreugdenhil CV.",
+ "papers": [
+  {
+   "title": "Environmental Regulation, Residential Sorting, and Pollution Exposure among Senior Americans",
+   "authors": [
+    "Sayahnika Basu",
+    "Jonathan D. Ketcham",
+    "Nicolai V. Kuminoff"
+   ],
+   "year": 2025,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Tax Policy and the Heterogeneous Costs of Homeownership",
+   "authors": [
+    "Kelly C. Bishop",
+    "Jakob Dowling",
+    "Nicolai V. Kuminoff",
+    "Alvin D. Murphy"
+   ],
+   "year": 2025,
+   "venue": "Journal of Urban Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Marginal Cost of Mortality Reduction: Evidence from Housing Markets",
+   "authors": [
+    "Kelly C. Bishop",
+    "Nicolai V. Kuminoff",
+    "Sophie M. Mathes",
+    "Alvin D. Murphy"
+   ],
+   "year": 2024,
+   "venue": "Journal of Urban Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Residential Sorting, Local Environments, and Human Capital",
+   "authors": [
+    "Nicolai V. Kuminoff",
+    "Sophie M. Mathes"
+   ],
+   "year": 2024,
+   "venue": "Regional Science and Urban Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Hazed and Confused: The Effect of Air Pollution on Dementia",
+   "authors": [
+    "Kelly C. Bishop",
+    "Jonathan D. Ketcham",
+    "Nicolai V. Kuminoff"
+   ],
+   "year": 2023,
+   "venue": "Review of Economic Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "National Expenditures on Local Amenities",
+   "authors": [
+    "David Bieri",
+    "Nicolai V. Kuminoff",
+    "Jaren C. Pope"
+   ],
+   "year": 2023,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "New Evidence on Diversity in Environmental and Resource Economics",
+   "authors": [
+    "Nicolai V. Kuminoff",
+    "Katherine E. Ciaramello",
+    "Hanna M. Dooley",
+    "Martin Heintzelman",
+    "Neha Khanna",
+    "Lea-Rachel Kosnik",
+    "Lynne Lewis",
+    "Eric Trimble"
+   ],
+   "year": 2023,
+   "venue": "Review of Environmental Economics and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Time Reallocation and the Cost and Benefit of School Closures During an Epidemic",
+   "authors": [
+    "Jude Bayham",
+    "Gerardo Chowell",
+    "Eli P. Fenichel",
+    "Nicolai V. Kuminoff"
+   ],
+   "year": 2021,
+   "venue": "Frontiers of Economics in China",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Evaluating Consumers' Choices of Medicare Part D Plans",
+   "authors": [
+    "Michael P. Keane",
+    "Jonathan D. Ketcham",
+    "Nicolai V. Kuminoff",
+    "Tim Neal"
+   ],
+   "year": 2021,
+   "venue": "Journal of Econometrics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Analyzing Individual-Level Secondary Data with Instrumental Variables Methods in Useful for Studying the Effects of Air Pollution on Dementia",
+   "authors": [
+    "Kelly C. Bishop",
+    "Sebha Husain-Krautter",
+    "Jonathan D. Ketcham",
+    "Nicolai V. Kuminoff",
+    "Corbett Schimming"
+   ],
+   "year": 2021,
+   "venue": "Journal of Alzheimer's Disease",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Best Practices in Using Hedonic Property Value Models for Welfare Measurement",
+   "authors": [
+    "Kelly C. Bishop",
+    "Nicolai V. Kuminoff",
+    "H. Spencer Banzhaf",
+    "Kevin J. Boyle",
+    "Kathrine von Graevenitz",
+    "Jaren C. Pope",
+    "V. Kerry Smith",
+    "Christopher D. Timmins"
+   ],
+   "year": 2020,
+   "venue": "Review of Environmental Economics and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Estimating the Heterogeneous Welfare Effects of Choice Architecture",
+   "authors": [
+    "Jonathan Ketcham",
+    "Nicolai V. Kuminoff",
+    "Christopher Powers"
+   ],
+   "year": 2019,
+   "venue": "International Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Can Understanding Spatial Equilibria Enhance Benefit Transfers for Environmental Policy Evaluation?",
+   "authors": [
+    "Nicolai V. Kuminoff"
+   ],
+   "year": 2018,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Revisiting the Temperature-Economic Growth Relationship Using Global Subnational Data",
+   "authors": [
+    "Xiaobing Zhao",
+    "Mason Gerety",
+    "Nicolai V. Kuminoff"
+   ],
+   "year": 2018,
+   "venue": "Journal of Environmental Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Choice Inconsistencies among the Elderly: Evidence from Plan Choice in the Medicare Part D Program: Comment",
+   "authors": [
+    "Jonathan Ketcham",
+    "Nicolai V. Kuminoff",
+    "Christopher A. Powers"
+   ],
+   "year": 2016,
+   "venue": "American Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Measured Voluntary Avoidance Behavior During the 2009 A/H1N1 Epidemic",
+   "authors": [
+    "Jude Bayham",
+    "Nicolai V. Kuminoff",
+    "Quentin Gunn",
+    "Eli P. Fenichel"
+   ],
+   "year": 2015,
+   "venue": "Proceedings of the Royal Society B",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Environmental Regulations and the Welfare Effects of Job Layoffs in the United States: A Spatial Approach",
+   "authors": [
+    "Nicolai V. Kuminoff",
+    "Todd Schoellman",
+    "Christopher Timmins"
+   ],
+   "year": 2015,
+   "venue": "Review of Environmental Economics and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Partial Identification of Amenity Demand Functions",
+   "authors": [
+    "Congwen Zhang",
+    "Kevin J. Boyle",
+    "Nicolai V. Kuminoff"
+   ],
+   "year": 2015,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do \"Capitalization Effects\" for Public Goods Reveal the Public's Willingness to Pay?",
+   "authors": [
+    "Nicolai V. Kuminoff",
+    "Jaren C. Pope"
+   ],
+   "year": 2014,
+   "venue": "International Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Merging Economics and Epidemiology to Improve the Prediction and Management of Infections Disease",
+   "authors": [
+    "Charles Perrings",
+    "Carlos Castillo-Chavez",
+    "Gerardo Chowell",
+    "Peter Daszak",
+    "Eli P. Fenichel",
+    "David C. Finnoff",
+    "Richard D. Horan",
+    "A. Marm Kilpatrick",
+    "Ann P. Kinzig",
+    "Nicolai V. Kuminoff",
+    "Simon A. Levin",
+    "Benjamin Morin",
+    "Kathermine F. Smith",
+    "Michael Springborn"
+   ],
+   "year": 2014,
+   "venue": "Ecohealth",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Skip the Trip: Air Travelers' Behavioral Responses to Pandemic Influenza",
+   "authors": [
+    "Eli P. Fenichel",
+    "Nicolai V. Kuminoff",
+    "Gerardo Chowell"
+   ],
+   "year": 2013,
+   "venue": "PLoS ONE",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The New Economics of Equilibrium Sorting and Policy Evaluation Using Housing Markets",
+   "authors": [
+    "Nicolai V. Kuminoff",
+    "V. Kerry Smith",
+    "Christopher Timmins"
+   ],
+   "year": 2013,
+   "venue": "Journal of Economic Literature",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "What Can We Learn from Benefit Transfer Errors? Evidence from 20 Years of Research on Convergent Validity",
+   "authors": [
+    "Sapna Kaul",
+    "Kevin J. Boyle",
+    "Nicolai V. Kuminoff",
+    "Christopher F. Parmeter",
+    "Jaren C. Pope"
+   ],
+   "year": 2013,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Value of Land and Structures during the Great Housing Boom and Bust",
+   "authors": [
+    "Nicolai V. Kuminoff",
+    "Jaren C. Pope"
+   ],
+   "year": 2013,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Equilibrium Sorting Models of Land Use and Residential Choice",
+   "authors": [
+    "H. Allen Klaiber",
+    "Nicolai V. Kuminoff"
+   ],
+   "year": 2013,
+   "venue": "Oxford Handbook of Land Economics (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Novel Approach to Identifying Hedonic Demand Parameters",
+   "authors": [
+    "Nicolai V. Kuminoff",
+    "Jaren C. Pope"
+   ],
+   "year": 2012,
+   "venue": "Economics Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Public Policy and Market Competition: How the Master Settlement Agreement Changed the Cigarette Industry",
+   "authors": [
+    "Federico Ciliberto",
+    "Nicolai V. Kuminoff"
+   ],
+   "year": 2010,
+   "venue": "B.E. Journal of Economic Analysis and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Which Hedonic Models Can We Trust to Recover the Marginal Willingness to Pay for Environmental Amenities?",
+   "authors": [
+    "Nicolai V. Kuminoff",
+    "Christopher F. Parmeter",
+    "Jaren C. Pope"
+   ],
+   "year": 2010,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A New Approach to Computing Hedonic Equilibria and Investigating the Properties of Locational Sorting Models",
+   "authors": [
+    "Nicolai V. Kuminoff",
+    "Abdul Salam Jarrah"
+   ],
+   "year": 2010,
+   "venue": "Journal of Urban Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Why Isn't More U.S. Farmland Organic?",
+   "authors": [
+    "Nicolai V. Kuminoff",
+    "Ada Wossink"
+   ],
+   "year": 2010,
+   "venue": "Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Are Travelers Willing to Pay a Premium to Stay at a \"Green\" Hotel? Evidence from an Internal Meta-Analysis of Hedonic Price Premia",
+   "authors": [
+    "Nicolai V. Kuminoff",
+    "Congwen Zhang",
+    "Jeta Rudi"
+   ],
+   "year": 2010,
+   "venue": "Agricultural and Resource Economics Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Benefit Transfer Challenges",
+   "authors": [
+    "Kevin J. Boyle",
+    "Nicolai V. Kuminoff",
+    "Christopher F. Parmeter",
+    "Jaren C. Pope"
+   ],
+   "year": 2010,
+   "venue": "Annual Review of Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Does a Property-Specific Environmental Health Risk Create a \"Neighborhood\" Housing-Price Stigma? Arsenic in Private Well Water",
+   "authors": [
+    "Kevin J. Boyle",
+    "Nicolai V. Kuminoff",
+    "Congwen Zhang",
+    "Michael Devanney",
+    "Kathleen P. Bell"
+   ],
+   "year": 2010,
+   "venue": "Water Resources Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Evaluation of Policy Options for Expanding Oyster Aquaculture in Virginia",
+   "authors": [
+    "Darrell Bosch",
+    "Nicolai V. Kuminoff",
+    "Kurt Stephenson",
+    "Jaren Pope",
+    "Anna Harris",
+    "Alex Miller"
+   ],
+   "year": 2010,
+   "venue": "Journal of Aquaculture Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Necessary Conditions for Valid Benefit Transfers",
+   "authors": [
+    "Kevin J. Boyle",
+    "Nicolai V. Kuminoff",
+    "Christopher F. Parmeter",
+    "Jaren C. Pope"
+   ],
+   "year": 2009,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Using a Bundled Amenity Model to Estimate the Value of Cropland Open Space and Determine an Optimal Buffer Zone",
+   "authors": [
+    "Nicolai V. Kuminoff"
+   ],
+   "year": 2009,
+   "venue": "Journal of Agricultural and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Decomposing the Structural Identification of Non-Market Values",
+   "authors": [
+    "Nicolai V. Kuminoff"
+   ],
+   "year": 2009,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Decision to Direct Market: An Analysis of Small Fruit and Specialty-Product Markets in Virginia",
+   "authors": [
+    "Joseph Monson",
+    "Denise Mainville",
+    "Nicolai V. Kuminoff"
+   ],
+   "year": 2008,
+   "venue": "Journal of Food Distribution Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Payoff to Public Investments in Pest Management R&D: General Issues and a Case Study Emphasizing Integrated Pest Management",
+   "authors": [
+    "John D. Mullen",
+    "Julian M. Alston",
+    "Daniel A. Sumner",
+    "Marcia T. Kreith",
+    "Nicolai V. Kuminoff"
+   ],
+   "year": 2005,
+   "venue": "Review of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Optimal Second-best Menu Design: Evidence from Residential Electricity Plans",
+   "authors": [
+    "Maria Garcia-Osipenko",
+    "Nicolai V. Kuminoff",
+    "Spencer Perry",
+    "Nicholas Vreugdenhil"
+   ],
+   "year": 2025,
+   "venue": "Journal of the European Economic Association",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Value of Statistical Life for Seniors",
+   "authors": [
+    "Jonathan D. Ketcham",
+    "Nicolai V. Kuminoff",
+    "Nirman Saha"
+   ],
+   "year": 2025,
+   "venue": "American Economic Journal: Economic Policy",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Valuing Noise Pollution: Evidence from Flight Path Changes",
+   "authors": [
+    "Nicolai V. Kuminoff",
+    "Jasdeep Mandia"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}
