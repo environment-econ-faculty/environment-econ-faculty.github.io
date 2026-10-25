@@ -1,0 +1,473 @@
+{
+ "slug": "arthur-a-van-benthem",
+ "name": "Arthur A. van Benthem",
+ "sources": [
+  "https://www.arthurvanbenthem.com/docs/cv.pdf",
+  "http://www.arthurvanbenthem.com",
+  "https://www.arthurvanbenthem.com/research-publication.html",
+  "https://www.arthurvanbenthem.com/research-workingPapers.html"
+ ],
+ "collected": "2026-10-25",
+ "notes": "Primary: CV dated July 30, 2026 (publications 1-31, working papers 32-36); full coauthor names and URLs taken from the homepage publications page. Author order is the CV's. 'A View of the Sustainable Computing Landscape': CV gives 'Lee, Brooks, van Benthem, et al.'; remaining authors placed after him in the homepage's order. Nature Energy title as in CV (homepage shows 'The Effect of Climate Risks on the Interactions between Financial Markets and Energy Companies'). Review of Economic Studies and 'Efficiency of Electricity Prices' (accepted at AEJ: Economic Policy; homepage calls it 'The Efficiency of Dynamic Electricity Prices') are forthcoming. Working-paper years not given; 2026 (CV date) used. Skipped the two Science policy-forum pieces (2018 'Flawed Analyses of U.S. Auto Fuel Economy Standards' and 2026 'Correcting the Logic behind the 2025 Proposed Vehicle Emission Standard Rollback') as short commentary, and 'work in progress' items; kept the AER Comment and AEA P&P. No abstracts.",
+ "papers": [
+  {
+   "title": "An Evaluation of Protected Area Policies in the European Union",
+   "authors": [
+    "Tristan Grupp",
+    "Prakash Mishra",
+    "Mathias Reynaert",
+    "Arthur A. van Benthem"
+   ],
+   "year": 2026,
+   "venue": "The Review of Economic Studies",
+   "status": "即将发表",
+   "url": "https://doi.org/10.1093/restud/rdag080",
+   "abstract": null
+  },
+  {
+   "title": "Firm Ownership and Pollution",
+   "authors": [
+    "Tsz Chun Kwok",
+    "Daniel Spiro",
+    "Arthur A. van Benthem"
+   ],
+   "year": 2026,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jeem.2025.103265",
+   "abstract": null
+  },
+  {
+   "title": "Overlapping Climate Policies",
+   "authors": [
+    "Grischa Perino",
+    "Robert Ritz",
+    "Arthur A. van Benthem"
+   ],
+   "year": 2025,
+   "venue": "The Economic Journal",
+   "status": "已发表",
+   "url": "https://doi.org/10.1093/ej/ueaf021",
+   "abstract": null
+  },
+  {
+   "title": "Designing More Cost-Effective Trading Markets for Renewable Energy",
+   "authors": [
+    "Mike Abito",
+    "Felipe Flores-Golfin",
+    "Arthur A. van Benthem",
+    "Gabrielle Vasey"
+   ],
+   "year": 2025,
+   "venue": "The Energy Journal",
+   "status": "已发表",
+   "url": "https://doi.org/10.1177/01956574251328253",
+   "abstract": null
+  },
+  {
+   "title": "A View of the Sustainable Computing Landscape",
+   "authors": [
+    "Benjamin Lee",
+    "David Brooks",
+    "Arthur A. van Benthem",
+    "Mariam Elgama",
+    "Udit Gupta",
+    "Gage Hills",
+    "Vincent Liu",
+    "Linh Thi Xuan Phan",
+    "Benjamin Pierce",
+    "Christopher Stewart",
+    "Emma Strubell",
+    "Gu-Yeon Wei",
+    "Adam Wierman",
+    "Yuan Yao",
+    "Minlan Yu"
+   ],
+   "year": 2025,
+   "venue": "Patterns",
+   "status": "已发表",
+   "url": "https://www.cell.com/patterns/fulltext/S2666-3899(25)00144-8",
+   "abstract": null
+  },
+  {
+   "title": "The Environmental Impacts of Protected Area Policy",
+   "authors": [
+    "Mathias Reynaert",
+    "Eduardo Souza-Rodrigues",
+    "Arthur A. van Benthem"
+   ],
+   "year": 2024,
+   "venue": "Regional Science and Urban Economics",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/pii/S0166046223001035",
+   "abstract": null
+  },
+  {
+   "title": "Agency Frictions and Procurement: New Evidence from U.S. Electricity Restructuring",
+   "authors": [
+    "Mike Abito",
+    "Jin Soo Han",
+    "Jean-Francois Houde",
+    "Arthur A. van Benthem"
+   ],
+   "year": 2024,
+   "venue": "Journal of Industrial Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/joie.12346",
+   "abstract": null
+  },
+  {
+   "title": "Regulating Untaxable Externalities: Are Vehicle Air Pollution Standards Effective and Efficient?",
+   "authors": [
+    "Mark Jacobsen",
+    "James Sallee",
+    "Joseph Shapiro",
+    "Arthur A. van Benthem"
+   ],
+   "year": 2023,
+   "venue": "Quarterly Journal of Economics",
+   "status": "已发表",
+   "url": "https://academic.oup.com/qje/advance-article-abstract/doi/10.1093/qje/qjad016/7080183",
+   "abstract": null
+  },
+  {
+   "title": "Has Consumer Acceptance of Electric Vehicles Been Increasing? Evidence from Microdata on Every New Vehicle Sale in the United States",
+   "authors": [
+    "Kenneth Gillingham",
+    "Arthur A. van Benthem",
+    "Stephanie Weber",
+    "Mohamed Ali Saafi",
+    "Xin He"
+   ],
+   "year": 2023,
+   "venue": "AEA Papers & Proceedings",
+   "status": "已发表",
+   "url": "https://pubs.aeaweb.org/doi/pdfplus/10.1257/pandp.20231065",
+   "abstract": null
+  },
+  {
+   "title": "How Do Climate Risks Affect the Interactions Between Financial Markets and Energy Companies?",
+   "authors": [
+    "Arthur A. van Benthem",
+    "Ed Crooks",
+    "Stefano Giglio",
+    "Eugenie Schwob",
+    "Johannes Stroebel"
+   ],
+   "year": 2022,
+   "venue": "Nature Energy",
+   "status": "已发表",
+   "url": "https://www.nature.com/articles/s41560-022-01070-1",
+   "abstract": null
+  },
+  {
+   "title": "Formative Experiences and the Price of Gasoline",
+   "authors": [
+    "Chris Severen",
+    "Arthur A. van Benthem"
+   ],
+   "year": 2022,
+   "venue": "American Economic Journal: Applied Economics",
+   "status": "已发表",
+   "url": "https://www.aeaweb.org/articles?id=10.1257/app.20200407",
+   "abstract": null
+  },
+  {
+   "title": "Consumer Myopia in Vehicle Purchases: Evidence from a Natural Experiment",
+   "authors": [
+    "Kenneth Gillingham",
+    "Sebastien Houde",
+    "Arthur A. van Benthem"
+   ],
+   "year": 2021,
+   "venue": "American Economic Journal: Economic Policy",
+   "status": "已发表",
+   "url": "https://www.aeaweb.org/articles?id=10.1257/pol.20200322",
+   "abstract": null
+  },
+  {
+   "title": "When Does Regulation Distort Costs? Lessons from Fuel Procurement in US Electricity Generation: Comment",
+   "authors": [
+    "Jin Soo Han",
+    "Jean-Francois Houde",
+    "Arthur A. van Benthem",
+    "Mike Abito"
+   ],
+   "year": 2021,
+   "venue": "American Economic Review",
+   "status": "已发表",
+   "url": "https://doi.org/10.1257/aer.20200679",
+   "abstract": null
+  },
+  {
+   "title": "What Policies Address Both the Coronavirus Crisis and the Climate Crisis?",
+   "authors": [
+    "Gustav Engstrom",
+    "Johan Gars",
+    "Niko Jaakkola",
+    "Therese Lindahl",
+    "Daniel Spiro",
+    "Arthur A. van Benthem"
+   ],
+   "year": 2020,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "https://link.springer.com/article/10.1007/s10640-020-00451-y",
+   "abstract": null
+  },
+  {
+   "title": "The Use of Regression Statistics to Analyze Imperfect Pricing Policies",
+   "authors": [
+    "Mark Jacobsen",
+    "Christopher Knittel",
+    "James Sallee",
+    "Arthur A. van Benthem"
+   ],
+   "year": 2020,
+   "venue": "Journal of Political Economy",
+   "status": "已发表",
+   "url": "https://www.journals.uchicago.edu/doi/10.1086/705553",
+   "abstract": null
+  },
+  {
+   "title": "Estimating the Costs and Benefits of Fuel Economy Standards",
+   "authors": [
+    "Antonio Bento",
+    "Mark Jacobsen",
+    "Christopher Knittel",
+    "Arthur A. van Benthem"
+   ],
+   "year": 2020,
+   "venue": "Environmental and Energy Policy and the Economy",
+   "status": "已发表",
+   "url": "https://www.journals.uchicago.edu/doi/10.1086/706797",
+   "abstract": null
+  },
+  {
+   "title": "Pass-Through as a Test for Market Power: An Application to Solar Subsidies",
+   "authors": [
+    "Jacquelyn Pless",
+    "Arthur A. van Benthem"
+   ],
+   "year": 2019,
+   "venue": "American Economic Journal: Applied Economics",
+   "status": "已发表",
+   "url": "https://www.aeaweb.org/articles?id=10.1257/app.20170611",
+   "abstract": null
+  },
+  {
+   "title": "Finders, Keepers?",
+   "authors": [
+    "Niko Jaakkola",
+    "Daniel Spiro",
+    "Arthur A. van Benthem"
+   ],
+   "year": 2019,
+   "venue": "Journal of Public Economics",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/pii/S0047272718302056",
+   "abstract": null
+  },
+  {
+   "title": "What Is the Optimal Speed Limit on Freeways?",
+   "authors": [
+    "Arthur A. van Benthem"
+   ],
+   "year": 2015,
+   "venue": "Journal of Public Economics",
+   "status": "已发表",
+   "url": "http://www.sciencedirect.com/science/article/pii/S0047272715000146",
+   "abstract": null
+  },
+  {
+   "title": "Vehicle Scrappage and Gasoline Policy",
+   "authors": [
+    "Mark Jacobsen",
+    "Arthur A. van Benthem"
+   ],
+   "year": 2015,
+   "venue": "American Economic Review",
+   "status": "已发表",
+   "url": "https://www.aeaweb.org/articles.php?doi=10.1257/aer.20130935",
+   "abstract": null
+  },
+  {
+   "title": "Energy Leapfrogging",
+   "authors": [
+    "Arthur A. van Benthem"
+   ],
+   "year": 2015,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "http://www.jstor.org/stable/10.1086/680317",
+   "abstract": null
+  },
+  {
+   "title": "Scale and Transfers in International Emissions Offset Programs",
+   "authors": [
+    "Arthur A. van Benthem",
+    "Suzi Kerr"
+   ],
+   "year": 2013,
+   "venue": "Journal of Public Economics",
+   "status": "已发表",
+   "url": "http://www.sciencedirect.com/science/article/pii/S0047272713001631",
+   "abstract": null
+  },
+  {
+   "title": "Resource Extraction Contracts Under Threat of Expropriation: Theory and Evidence",
+   "authors": [
+    "Johannes Stroebel",
+    "Arthur A. van Benthem"
+   ],
+   "year": 2013,
+   "venue": "The Review of Economics and Statistics",
+   "status": "已发表",
+   "url": "http://www.mitpressjournals.org/doi/abs/10.1162/REST_a_00333",
+   "abstract": null
+  },
+  {
+   "title": "Investment Treaties and Hydrocarbon Taxation in Developing Countries",
+   "authors": [
+    "Johannes Stroebel",
+    "Arthur A. van Benthem"
+   ],
+   "year": 2013,
+   "venue": "Critical Issues in Taxation and Development (MIT Press, book chapter)",
+   "status": "已发表",
+   "url": "http://mitpress.mit.edu/books/critical-issues-taxation-and-development",
+   "abstract": null
+  },
+  {
+   "title": "Unintended Consequences from Nested State & Federal Regulations: The Case of the Pavley Greenhouse-Gas-per-Mile Limits",
+   "authors": [
+    "Lawrence H. Goulder",
+    "Mark Jacobsen",
+    "Arthur A. van Benthem"
+   ],
+   "year": 2012,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "http://www.sciencedirect.com/science/article/pii/S0095069611001021",
+   "abstract": null
+  },
+  {
+   "title": "Do Property Rights Lead to Sustainable Catch Increases?",
+   "authors": [
+    "Josh Sladek Nowlis",
+    "Arthur A. van Benthem"
+   ],
+   "year": 2012,
+   "venue": "Marine Resource Economics",
+   "status": "已发表",
+   "url": "http://www.jstor.org/stable/10.5950/0738-1360-27.1.89",
+   "abstract": null
+  },
+  {
+   "title": "Fuelling Growth: What Drives Energy Demand in Developing Countries?",
+   "authors": [
+    "Arthur A. van Benthem",
+    "Mattia Romani"
+   ],
+   "year": 2009,
+   "venue": "The Energy Journal",
+   "status": "已发表",
+   "url": "http://www.iaee.org/en/publications/ejarticle.aspx?id=2330",
+   "abstract": null
+  },
+  {
+   "title": "Learning-by-Doing and the Optimal Solar Policy in California",
+   "authors": [
+    "Arthur A. van Benthem",
+    "Kenneth Gillingham",
+    "James Sweeney"
+   ],
+   "year": 2008,
+   "venue": "The Energy Journal",
+   "status": "已发表",
+   "url": "http://www.iaee.org/en/publications/ejarticle.aspx?id=2272",
+   "abstract": null
+  },
+  {
+   "title": "An Options Approach to Investment in a Hydrogen Infrastructure",
+   "authors": [
+    "Arthur A. van Benthem",
+    "Gert Jan Kramer",
+    "Roald Ramer"
+   ],
+   "year": 2006,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/pii/S0301421505001382",
+   "abstract": null
+  },
+  {
+   "title": "The Efficiency of Electricity Prices",
+   "authors": [
+    "Andrew J. Hinchberger",
+    "Mark Jacobsen",
+    "Christopher Knittel",
+    "James Sallee",
+    "Arthur A. van Benthem"
+   ],
+   "year": 2026,
+   "venue": "American Economic Journal: Economic Policy",
+   "status": "即将发表",
+   "url": "https://www.arthurvanbenthem.com/docs/DynamicElectricityPrices.pdf",
+   "abstract": null
+  },
+  {
+   "title": "How (Not) to Cancel Carbon in the EU ETS: Germany's Coal Phase-out",
+   "authors": [
+    "Grischa Perino",
+    "Robert Ritz",
+    "Arthur A. van Benthem"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Optimal Local Transit Pricing with Distributional Concerns",
+   "authors": [
+    "Ben Lockwood",
+    "Peter Lugthart",
+    "Arthur A. van Benthem"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "What is the Role of Hybrids in Vehicle Climate Policy?",
+   "authors": [
+    "Kenneth Gillingham",
+    "Arthur A. van Benthem",
+    "Jingyuan Wang",
+    "Stephanie Weber"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Cancelling Carbon in Cap-and-Trade Systems",
+   "authors": [
+    "Grischa Perino",
+    "Robert Ritz",
+    "Arthur A. van Benthem"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

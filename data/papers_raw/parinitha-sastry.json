@@ -1,0 +1,154 @@
+{
+ "slug": "parinitha-sastry",
+ "name": "Parinitha Sastry",
+ "sources": [
+  "https://sites.google.com/view/parisastry/research",
+  "https://psastry89.github.io/website/CV.pdf"
+ ],
+ "collected": "2026-10-25",
+ "notes": "Homepage research page (more recent than the CV; QJE shown as accepted, RFS as published Aug 2026) plus CV (undated, 2026). Homepage was read via a summarizing fetch tool, so co-author ORDER (scholar placed last in that summary) is not verified; the CV lists the scholar first for 'with' papers. Years of working papers are not shown on the page: set to 2026 (approximate; Corporate Intent is NBER w34676). Perspectives on Insurance and Climate Risk: homepage 'in preparation', CV 'prepared to be forthcoming' -> marked forthcoming. CV spells coauthors 'Lehrer'/'Marques-Ibanes'. CV 'work in progress' items with SSRN drafts on the homepage are included as working papers. Media/policy pieces skipped. No abstracts on page.",
+ "papers": [
+  {
+   "title": "When Insurers Exit: Climate Losses, Fragile Insurers, and Mortgage Markets",
+   "authors": [
+    "I. Sen",
+    "A.M. Tenekedijieva",
+    "Parinitha Sastry"
+   ],
+   "year": 2026,
+   "venue": "Quarterly Journal of Economics",
+   "status": "即将发表",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4674279",
+   "abstract": null
+  },
+  {
+   "title": "Who Bears Flood Risk? Evidence from Mortgage Markets in Florida",
+   "authors": [
+    "Parinitha Sastry"
+   ],
+   "year": 2026,
+   "venue": "Review of Financial Studies",
+   "status": "已发表",
+   "url": "https://academic.oup.com/rfs/advance-article-abstract/doi/10.1093/rfs/hhag030/8554103",
+   "abstract": null
+  },
+  {
+   "title": "The Moral Preferences of Investors: Experimental Evidence",
+   "authors": [
+    "J.F. Bonnefon",
+    "A. Landier",
+    "D. Thesmar",
+    "Parinitha Sastry"
+   ],
+   "year": 2025,
+   "venue": "Journal of Financial Economics",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/pii/S0304405X24001788",
+   "abstract": null
+  },
+  {
+   "title": "Perspectives on Insurance and Climate Risk",
+   "authors": [
+    "I. Sen",
+    "Parinitha Sastry"
+   ],
+   "year": 2026,
+   "venue": "Journal of Finance: Insights and Perspectives",
+   "status": "即将发表",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5910822",
+   "abstract": null
+  },
+  {
+   "title": "The Economics of Net Zero Banking",
+   "authors": [
+    "A. Morse",
+    "Parinitha Sastry"
+   ],
+   "year": 2025,
+   "venue": "Annual Review of Financial Economics",
+   "status": "已发表",
+   "url": "https://www.annualreviews.org/content/journals/10.1146/annurev-financial-112923-021641",
+   "abstract": null
+  },
+  {
+   "title": "Business as Usual: Bank Net Zero Targets, Lending and Engagement",
+   "authors": [
+    "E. Verner",
+    "D. Marques-Ibanez",
+    "Parinitha Sastry"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4663933",
+   "abstract": null
+  },
+  {
+   "title": "The Insurance Protection Gap",
+   "authors": [
+    "T. Scharleman",
+    "I. Sen",
+    "A.M. Tenekedijieva",
+    "Parinitha Sastry"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4909444",
+   "abstract": null
+  },
+  {
+   "title": "Insurance Guaranty Funds",
+   "authors": [
+    "B. Abramson",
+    "I. Sen",
+    "A.M. Tenekedijieva",
+    "Parinitha Sastry"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5806662",
+   "abstract": null
+  },
+  {
+   "title": "Financing Investment in Electricity",
+   "authors": [
+    "O. Darmouni",
+    "C. Lehner",
+    "Parinitha Sastry"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6871419",
+   "abstract": null
+  },
+  {
+   "title": "Banks as Stewards",
+   "authors": [
+    "K. Blickle",
+    "A. Morse",
+    "Parinitha Sastry"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://papers.ssrn.com/abstract=6481418",
+   "abstract": null
+  },
+  {
+   "title": "Corporate Intent",
+   "authors": [
+    "A. Landier",
+    "D. Thesmar",
+    "Parinitha Sastry"
+   ],
+   "year": 2026,
+   "venue": "NBER Working Paper",
+   "status": "工作论文",
+   "url": "https://www.nber.org/papers/w34676",
+   "abstract": null
+  }
+ ]
+}

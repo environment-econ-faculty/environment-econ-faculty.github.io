@@ -1,0 +1,255 @@
+{
+ "slug": "lucian-a-taylor",
+ "name": "Lucian A. Taylor",
+ "sources": [
+  "https://sites.google.com/view/lucian-taylor/home",
+  "https://sites.google.com/view/lucian-taylor/research"
+ ],
+ "collected": "2026-10-25",
+ "notes": "Source: Research page of personal site (WebFetch, summarized; author order as in 'Joint with'). The CV on Google Drive was not fetched. Working-paper years are the dates shown on the page (Jun./Sep. 2026). Critical Finance Review paper is listed as forthcoming on the page (year 2021 as listed there). Sole authorship of the two CEO papers inferred from no co-authors listed. No abstracts on page.",
+ "papers": [
+  {
+   "title": "Democratizing Private Markets: Equilibrium Predictions",
+   "authors": [
+    "Lubos Pastor",
+    "Robert F. Stambaugh",
+    "Lucian Taylor"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7350104",
+   "abstract": null
+  },
+  {
+   "title": "Due Diligence and the Allocation of Venture Capital",
+   "authors": [
+    "Jack (Xiaoyong) Fu",
+    "Lucian Taylor"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5014747",
+   "abstract": null
+  },
+  {
+   "title": "Carbon Burden",
+   "authors": [
+    "Lubos Pastor",
+    "Robert F. Stambaugh",
+    "Lucian Taylor"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4998860",
+   "abstract": null
+  },
+  {
+   "title": "Green Tilts",
+   "authors": [
+    "Lubos Pastor",
+    "Robert F. Stambaugh",
+    "Lucian Taylor"
+   ],
+   "year": 2025,
+   "venue": "Journal of Financial Economics",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/pii/S0304405X25001813",
+   "abstract": null
+  },
+  {
+   "title": "Sustainable Investing",
+   "authors": [
+    "Lubos Pastor",
+    "Robert F. Stambaugh",
+    "Lucian Taylor"
+   ],
+   "year": 2025,
+   "venue": "Annual Review of Financial Economics",
+   "status": "已发表",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5045806",
+   "abstract": null
+  },
+  {
+   "title": "Common Ownership and Innovation Efficiency",
+   "authors": [
+    "Xuelin Li",
+    "Tong Liu",
+    "Lucian Taylor"
+   ],
+   "year": 2023,
+   "venue": "Journal of Financial Economics",
+   "status": "已发表",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3479439",
+   "abstract": null
+  },
+  {
+   "title": "Dissecting Green Returns",
+   "authors": [
+    "Lubos Pastor",
+    "Robert F. Stambaugh",
+    "Lucian Taylor"
+   ],
+   "year": 2022,
+   "venue": "Journal of Financial Economics",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/pii/S0304405X22001672",
+   "abstract": null
+  },
+  {
+   "title": "Dissecting Bankruptcy Frictions",
+   "authors": [
+    "Winston Wei Dou",
+    "Wei Wang",
+    "Wenyu Wang",
+    "Lucian Taylor"
+   ],
+   "year": 2021,
+   "venue": "Journal of Financial Economics",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/pii/S0304405X21002841",
+   "abstract": null
+  },
+  {
+   "title": "Diseconomies of Scale in Active Management: Robust Evidence",
+   "authors": [
+    "Lubos Pastor",
+    "Robert F. Stambaugh",
+    "Min Zhu",
+    "Lucian Taylor"
+   ],
+   "year": 2021,
+   "venue": "Critical Finance Review",
+   "status": "即将发表",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3886275",
+   "abstract": null
+  },
+  {
+   "title": "Sustainable Investing in Equilibrium",
+   "authors": [
+    "Lubos Pastor",
+    "Robert F. Stambaugh",
+    "Lucian Taylor"
+   ],
+   "year": 2021,
+   "venue": "Journal of Financial Economics",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/pii/S0304405X20303512",
+   "abstract": null
+  },
+  {
+   "title": "Fund Tradeoffs",
+   "authors": [
+    "Lubos Pastor",
+    "Robert F. Stambaugh",
+    "Lucian Taylor"
+   ],
+   "year": 2020,
+   "venue": "Journal of Financial Economics",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/pii/S0304405X20301720",
+   "abstract": null
+  },
+  {
+   "title": "Inefficiencies and Externalities from Opportunistic Acquirers",
+   "authors": [
+    "Di Li",
+    "Wenyu Wang",
+    "Lucian Taylor"
+   ],
+   "year": 2018,
+   "venue": "Journal of Financial Economics",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/pii/S0304405X18301818",
+   "abstract": null
+  },
+  {
+   "title": "Do Funds Make More When They Trade More?",
+   "authors": [
+    "Lubos Pastor",
+    "Robert F. Stambaugh",
+    "Lucian Taylor"
+   ],
+   "year": 2017,
+   "venue": "Journal of Finance",
+   "status": "已发表",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2524397",
+   "abstract": null
+  },
+  {
+   "title": "Intangible Capital and the Investment-q Relation",
+   "authors": [
+    "Ryan H. Peters",
+    "Lucian Taylor"
+   ],
+   "year": 2017,
+   "venue": "Journal of Financial Economics",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/pii/S0304405X16301969",
+   "abstract": null
+  },
+  {
+   "title": "Scale and Skill in Active Management",
+   "authors": [
+    "Lubos Pastor",
+    "Robert F. Stambaugh",
+    "Lucian Taylor"
+   ],
+   "year": 2015,
+   "venue": "Journal of Financial Economics",
+   "status": "已发表",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2318788",
+   "abstract": null
+  },
+  {
+   "title": "Dynamic Debt Runs and Financial Fragility: Evidence from the 2007 ABCP Crisis",
+   "authors": [
+    "Gustavo Suarez",
+    "Enrique Schroth",
+    "Lucian Taylor"
+   ],
+   "year": 2014,
+   "venue": "Journal of Financial Economics",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/pii/S0304405X14000166",
+   "abstract": null
+  },
+  {
+   "title": "CEO Wage Dynamics: Estimates from a Learning Model",
+   "authors": [
+    "Lucian Taylor"
+   ],
+   "year": 2013,
+   "venue": "Journal of Financial Economics",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/pii/S0304405X12002437",
+   "abstract": null
+  },
+  {
+   "title": "Why are CEOs Rarely Fired? Evidence from Structural Estimation",
+   "authors": [
+    "Lucian Taylor"
+   ],
+   "year": 2010,
+   "venue": "Journal of Finance",
+   "status": "已发表",
+   "url": "https://onlinelibrary.wiley.com/doi/10.1111/j.1540-6261.2010.01610.x/full",
+   "abstract": null
+  },
+  {
+   "title": "Entrepreneurial Learning, the IPO Decision, and the Post-IPO Drop in Profitability",
+   "authors": [
+    "Lubos Pastor",
+    "Pietro Veronesi",
+    "Lucian Taylor"
+   ],
+   "year": 2009,
+   "venue": "Review of Financial Studies",
+   "status": "已发表",
+   "url": "https://academic.oup.com/rfs/article/22/8/3005/1591171",
+   "abstract": null
+  }
+ ]
+}

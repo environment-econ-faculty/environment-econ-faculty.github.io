@@ -1,0 +1,179 @@
+{
+ "slug": "susanna-b-berkouwer",
+ "name": "Susanna B. Berkouwer",
+ "sources": [
+  "http://www.susannaberkouwer.com/",
+  "http://www.susannaberkouwer.com/BerkouwerCV.pdf"
+ ],
+ "collected": "2026-10-25",
+ "notes": "Homepage (summarized by fetch tool; PDF links not retained) plus CV text (parsed locally; CV appears dated 2026). Author orders taken from the CV where homepage and CV differ (e.g. Wolfram-first for the Kenya procurement and 'Distribution of Power' papers). Years: no dates on homepage for accepted/working papers, so 2026 is assumed for accepted/working papers (CV dated 2026); published years from CV. 'Green subsidies' is NBER w35911 (homepage: NBER; CV: Submitted). 'Distribution grid constraints' appears only in the CV (Submitted). Skipped CV 'Other publications' (2023 book chapter, 2019 conference paper, 2014 LGBTQ Policy Journal). No abstracts; no per-paper URLs kept.",
+ "papers": [
+  {
+   "title": "Voltage Quality and Economic Activity",
+   "authors": [
+    "Susanna Berkouwer",
+    "P. Biscaye",
+    "M. Mikdash",
+    "S. Puller",
+    "C. Wolfram"
+   ],
+   "year": 2026,
+   "venue": "Journal of Political Economy: Microeconomics",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Contracting Structures in Public Procurement: Evidence from Donor-Funded Electrification in Kenya",
+   "authors": [
+    "C. Wolfram",
+    "E. Miguel",
+    "E. Hsu",
+    "Susanna Berkouwer"
+   ],
+   "year": 2026,
+   "venue": "Review of Economics and Statistics",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Cost-Effectiveness of Clean Cookstove Carbon Mitigation after Adjusting for Additionality and Impact",
+   "authors": [
+    "Susanna Berkouwer",
+    "J. Dean"
+   ],
+   "year": 2026,
+   "venue": "Climate Change Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Cooking, Health, and Daily Exposure to Pollution Spikes",
+   "authors": [
+    "Susanna Berkouwer",
+    "J. Dean"
+   ],
+   "year": 2026,
+   "venue": "American Economic Journal: Economic Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Money or Power? Choosing Covid-19 Aid in Kenya",
+   "authors": [
+    "Susanna Berkouwer",
+    "P. Biscaye",
+    "E. Hsu",
+    "O. Kim",
+    "K. Lee",
+    "E. Miguel",
+    "C. Wolfram"
+   ],
+   "year": 2023,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Credit, Attention, and Externalities in the Adoption of Energy Efficient Technologies by Low-Income Households",
+   "authors": [
+    "Susanna Berkouwer",
+    "J. Dean"
+   ],
+   "year": 2022,
+   "venue": "American Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Disbursing Emergency Relief through Utilities: Evidence from Ghana",
+   "authors": [
+    "Susanna Berkouwer",
+    "P. Biscaye",
+    "S. Puller",
+    "C. Wolfram"
+   ],
+   "year": 2022,
+   "venue": "Journal of Development Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Electric Heating and the Effects of Temperature on Household Electricity Consumption in South Africa",
+   "authors": [
+    "Susanna Berkouwer"
+   ],
+   "year": 2020,
+   "venue": "Energy Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Distribution of Power: Favoritism, Efficiency, and Equity in Energy Infrastructure",
+   "authors": [
+    "C. Wolfram",
+    "Susanna Berkouwer",
+    "F. Vial",
+    "E. Hsu",
+    "O. Kim",
+    "E. Miguel"
+   ],
+   "year": 2026,
+   "venue": "Journal of the European Economic Association",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Integrity and Unraveling in Carbon Offset Markets",
+   "authors": [
+    "E. Azevedo",
+    "Susanna Berkouwer",
+    "A. van Benthem",
+    "P. Mishra",
+    "A. Russo"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Green Subsidies with Demand Distortions",
+   "authors": [
+    "Susanna Berkouwer",
+    "J. Dean"
+   ],
+   "year": 2026,
+   "venue": "NBER Working Paper",
+   "status": "工作论文",
+   "url": "https://www.nber.org/papers/w35911",
+   "abstract": null
+  },
+  {
+   "title": "Distribution Grid Constraints on Africa's Energy Transition: Customer-Level Evidence from High-Frequency Power-Quality Measurements",
+   "authors": [
+    "Susanna Berkouwer",
+    "M. Bariya",
+    "P. Biscaye",
+    "M. Odero",
+    "N. Klugman",
+    "J. Adkins",
+    "G. Flaspohler"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

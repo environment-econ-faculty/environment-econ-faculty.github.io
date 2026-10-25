@@ -1,0 +1,393 @@
+{
+ "slug": "benjamin-j-keys",
+ "name": "Benjamin J. Keys",
+ "sources": [
+  "https://sites.google.com/view/benkeys/research",
+  "https://faculty.wharton.upenn.edu/wp-content/uploads/2016/11/benkeys_cv-1.pdf",
+  "https://real-estate.wharton.upenn.edu/profile/benkeys/"
+ ],
+ "collected": "2026-10-25",
+ "notes": "Primary source: Keys's Google Sites research page (newest; includes items through Oct 2026), cross-checked with the Wharton CV (dated March 2024, older) and Wharton profile. Author lists follow the source's 'With ...' convention with Keys placed first, so true byline order may differ; coauthor names as written. Titles are the site's published titles where they differ from the CV (e.g. 'Interest Rate Pass-Through...', 'Regional Redistribution Through the U.S. Mortgage Market', 'Unsecured Credit Supply, Credit Cycles, and Regulation'). 'Credit When You Need It' (forthcoming AER) and 'Effects of Emergency Rental Assistance' (forthcoming AEJ: Policy) per site. R&R status taken from 'revision requested' notes. Excluded edited volume, policy briefs, book chapters in 'Other publications', and research in progress. Wharton profile gives only summaries, so abstract left null.",
+ "papers": [
+  {
+   "title": "Credit When You Need It",
+   "authors": [
+    "Benjamin J. Keys",
+    "Benjamin Collier",
+    "Daniel Hartley",
+    "Jing Xian Ng"
+   ],
+   "year": 2024,
+   "venue": "American Economic Review",
+   "status": "即将发表",
+   "url": "https://www.nber.org/papers/w32845",
+   "abstract": null
+  },
+  {
+   "title": "The Effects of Emergency Rental Assistance During the Pandemic: Evidence from Four Cities",
+   "authors": [
+    "Benjamin J. Keys",
+    "Robert Collinson",
+    "Anthony DeFusco",
+    "John Eric Humphries",
+    "David C. Phillips",
+    "Vincent Reina",
+    "Patrick S. Turner",
+    "Winnie van Dijk"
+   ],
+   "year": 2024,
+   "venue": "American Economic Journal: Economic Policy",
+   "status": "即将发表",
+   "url": "https://www.nber.org/system/files/working_papers/w32463/w32463.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Global Capital and Local Assets: House Prices, Quantities, and Elasticities",
+   "authors": [
+    "Benjamin J. Keys",
+    "Caitlin S. Gorback"
+   ],
+   "year": 2026,
+   "venue": "Review of Financial Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Cost of Consumer Collateral: Evidence from Bunching",
+   "authors": [
+    "Benjamin J. Keys",
+    "Benjamin Collier",
+    "Cameron Ellis"
+   ],
+   "year": 2025,
+   "venue": "Econometrica",
+   "status": "已发表",
+   "url": "https://onlinelibrary.wiley.com/doi/full/10.3982/ECTA22303",
+   "abstract": null
+  },
+  {
+   "title": "The Value of Student Debt Relief and the Role of Administrative Barriers: Evidence from the Teacher Loan Forgiveness Program",
+   "authors": [
+    "Benjamin J. Keys",
+    "Brian Jacob",
+    "Damon Jones"
+   ],
+   "year": 2024,
+   "venue": "Journal of Labor Economics",
+   "status": "已发表",
+   "url": "https://www.journals.uchicago.edu/doi/full/10.1086/728468",
+   "abstract": null
+  },
+  {
+   "title": "What Determines Consumer Financial Distress? Place- and Person-Based Factors",
+   "authors": [
+    "Benjamin J. Keys",
+    "Neale Mahoney",
+    "Hanbin Yang"
+   ],
+   "year": 2023,
+   "venue": "Review of Financial Studies",
+   "status": "已发表",
+   "url": "https://academic.oup.com/rfs/article-pdf/36/1/42/48134760/hhac025.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Moral Hazard during the Housing Boom: Evidence from Private Mortgage Insurance",
+   "authors": [
+    "Benjamin J. Keys",
+    "Neil Bhutta"
+   ],
+   "year": 2022,
+   "venue": "Review of Financial Studies",
+   "status": "已发表",
+   "url": "https://academic.oup.com/rfs/article-pdf/35/2/771/42228690/hhab060.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Investment Over the Business Cycle: Insights from College Major Choice",
+   "authors": [
+    "Benjamin J. Keys",
+    "Erica Blom",
+    "Brian C. Cadena"
+   ],
+   "year": 2021,
+   "venue": "Journal of Labor Economics",
+   "status": "已发表",
+   "url": "https://www.journals.uchicago.edu/doi/epdf/10.1086/712611",
+   "abstract": null
+  },
+  {
+   "title": "Refinancing, Monetary Policy, and the Credit Cycle",
+   "authors": [
+    "Benjamin J. Keys",
+    "Gene Amromin",
+    "Neil Bhutta"
+   ],
+   "year": 2020,
+   "venue": "Annual Review of Financial Economics",
+   "status": "已发表",
+   "url": "https://www.annualreviews.org/doi/pdf/10.1146/annurev-financial-012720-120430",
+   "abstract": null
+  },
+  {
+   "title": "Minimum Payments and Debt Paydown in Consumer Credit Cards",
+   "authors": [
+    "Benjamin J. Keys",
+    "Jialan Wang"
+   ],
+   "year": 2019,
+   "venue": "Journal of Financial Economics",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/pii/S0304405X18302721",
+   "abstract": null
+  },
+  {
+   "title": "The Credit Market Consequences of Job Displacement",
+   "authors": [
+    "Benjamin J. Keys"
+   ],
+   "year": 2018,
+   "venue": "Review of Economics and Statistics",
+   "status": "已发表",
+   "url": "https://www.mitpressjournals.org/doi/pdf/10.1162/rest_a_00709",
+   "abstract": null
+  },
+  {
+   "title": "Unsecured Credit Supply, Credit Cycles, and Regulation",
+   "authors": [
+    "Benjamin J. Keys",
+    "Song Han",
+    "Geng Li"
+   ],
+   "year": 2018,
+   "venue": "Review of Financial Studies",
+   "status": "已发表",
+   "url": "https://academic.oup.com/rfs/article/31/3/1184/4563344",
+   "abstract": null
+  },
+  {
+   "title": "Interest Rate Pass-Through: Mortgage Rates, Household Consumption, and Voluntary Deleveraging",
+   "authors": [
+    "Benjamin J. Keys",
+    "Marco Di Maggio",
+    "Amir Kermani",
+    "Tomasz Piskorski",
+    "Rodney Ramcharan",
+    "Amit Seru",
+    "Vincent W. Yao"
+   ],
+   "year": 2017,
+   "venue": "American Economic Review",
+   "status": "已发表",
+   "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20141313",
+   "abstract": null
+  },
+  {
+   "title": "Failure to Refinance",
+   "authors": [
+    "Benjamin J. Keys",
+    "Devin G. Pope",
+    "Jaren C. Pope"
+   ],
+   "year": 2016,
+   "venue": "Journal of Financial Economics",
+   "status": "已发表",
+   "url": "http://www.sciencedirect.com/science/article/pii/S0304405X16301507",
+   "abstract": null
+  },
+  {
+   "title": "Regional Redistribution Through the U.S. Mortgage Market",
+   "authors": [
+    "Benjamin J. Keys",
+    "Erik Hurst",
+    "Amit Seru",
+    "Joseph Vavra"
+   ],
+   "year": 2016,
+   "venue": "American Economic Review",
+   "status": "已发表",
+   "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20151052",
+   "abstract": null
+  },
+  {
+   "title": "Interest Rates and Equity Extraction During the Housing Boom",
+   "authors": [
+    "Benjamin J. Keys",
+    "Neil Bhutta"
+   ],
+   "year": 2016,
+   "venue": "American Economic Review",
+   "status": "已发表",
+   "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20140040",
+   "abstract": null
+  },
+  {
+   "title": "Human Capital and the Lifetime Costs of Impatience",
+   "authors": [
+    "Benjamin J. Keys",
+    "Brian C. Cadena"
+   ],
+   "year": 2015,
+   "venue": "American Economic Journal: Economic Policy",
+   "status": "已发表",
+   "url": "https://www.aeaweb.org/articles.php?doi=10.1257/pol.20130081",
+   "abstract": null
+  },
+  {
+   "title": "Can Self-Control Explain Avoiding Free Money? Evidence from Interest-Free Student Loans",
+   "authors": [
+    "Benjamin J. Keys",
+    "Brian C. Cadena"
+   ],
+   "year": 2013,
+   "venue": "Review of Economics and Statistics",
+   "status": "已发表",
+   "url": "http://www.mitpressjournals.org/doi/pdf/10.1162/REST_a_00321",
+   "abstract": null
+  },
+  {
+   "title": "Lender Screening and the Role of Securitization: Evidence from Prime and Subprime Mortgage Markets",
+   "authors": [
+    "Benjamin J. Keys",
+    "Amit Seru",
+    "Vikrant Vig"
+   ],
+   "year": 2012,
+   "venue": "Review of Financial Studies",
+   "status": "已发表",
+   "url": "http://rfs.oxfordjournals.org/content/25/7/2071.full.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Did Securitization Lead to Lax Screening? Evidence from Subprime Loans",
+   "authors": [
+    "Benjamin J. Keys",
+    "Tanmoy Mukherjee",
+    "Amit Seru",
+    "Vikrant Vig"
+   ],
+   "year": 2010,
+   "venue": "Quarterly Journal of Economics",
+   "status": "已发表",
+   "url": "http://qje.oxfordjournals.org/content/125/1/307.short",
+   "abstract": null
+  },
+  {
+   "title": "Financial Regulation and Securitization: Evidence from Subprime Mortgage Loans",
+   "authors": [
+    "Benjamin J. Keys",
+    "Tanmoy Mukherjee",
+    "Amit Seru",
+    "Vikrant Vig"
+   ],
+   "year": 2009,
+   "venue": "Journal of Monetary Economics",
+   "status": "已发表",
+   "url": "http://www.sciencedirect.com/science/article/pii/S0304393209000592",
+   "abstract": null
+  },
+  {
+   "title": "Has Exposure to Poor Neighborhoods Changed in America? Race, Risk, and Housing Locations in Two Decades",
+   "authors": [
+    "Benjamin J. Keys",
+    "Xavier de Souza Briggs"
+   ],
+   "year": 2009,
+   "venue": "Urban Studies",
+   "status": "已发表",
+   "url": "http://usj.sagepub.com/content/46/2/429.abstract",
+   "abstract": null
+  },
+  {
+   "title": "Does Merit Pay Reward Teachers? Evidence from a Randomized Experiment",
+   "authors": [
+    "Benjamin J. Keys",
+    "Thomas S. Dee"
+   ],
+   "year": 2004,
+   "venue": "Journal of Policy Analysis and Management",
+   "status": "已发表",
+   "url": "http://onlinelibrary.wiley.com/doi/10.1002/pam.20022/abstract",
+   "abstract": null
+  },
+  {
+   "title": "Neglected No More: Mortgage Lending, House Prices, and Sea Level Rise",
+   "authors": [
+    "Benjamin J. Keys",
+    "Philip Mulder"
+   ],
+   "year": 2020,
+   "venue": "Review of Financial Studies",
+   "status": "修改重投",
+   "url": "https://www.dropbox.com/scl/fi/k24ksm9tk6thsu82nafnr/KeysMulderApr2022_NeglectedNoMore.pdf?rlkey=tmqh6z2ku05f68ss29hd756u7&e=1&dl=0",
+   "abstract": null
+  },
+  {
+   "title": "Affordability, Financial Innovation, and The Start of the Housing Boom",
+   "authors": [
+    "Benjamin J. Keys",
+    "Jane K. Dokko",
+    "Lindsay E. Relihan"
+   ],
+   "year": 2019,
+   "venue": "Real Estate Economics",
+   "status": "修改重投",
+   "url": "https://www.chicagofed.org/~/media/publications/working-papers/2019/wp2019-01-pdf.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Pricing Power in the Mortgage Market: Evidence from GSE Fee Waivers",
+   "authors": [
+    "Benjamin J. Keys",
+    "Neil Bhutta",
+    "Adithya Raajkumar"
+   ],
+   "year": 2026,
+   "venue": "NBER Working Paper",
+   "status": "工作论文",
+   "url": "https://www.nber.org/papers/w35907",
+   "abstract": null
+  },
+  {
+   "title": "Pricing Protection: Credit Scores, Disaster Risk, and Home Insurance Affordability",
+   "authors": [
+    "Benjamin J. Keys",
+    "Joshua Blonz",
+    "Mallick Hossain",
+    "Philip Mulder",
+    "Joakim Weill"
+   ],
+   "year": 2026,
+   "venue": "NBER Working Paper",
+   "status": "工作论文",
+   "url": "https://www.nber.org/papers/w34848",
+   "abstract": null
+  },
+  {
+   "title": "Property Insurance and Disaster Risk: New Evidence from Mortgage Escrow Data",
+   "authors": [
+    "Benjamin J. Keys",
+    "Philip Mulder"
+   ],
+   "year": 2025,
+   "venue": "NBER Working Paper",
+   "status": "工作论文",
+   "url": "https://www.nber.org/papers/w32579",
+   "abstract": null
+  },
+  {
+   "title": "Credit Market Consequences of Credit Flag Removals",
+   "authors": [
+    "Benjamin J. Keys",
+    "Will Dobbie",
+    "Neale Mahoney"
+   ],
+   "year": 2017,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "http://real-faculty.wharton.upenn.edu/benkeys/wp-content/uploads/~benkeys/Research_files/Dobbie_Keys_Mahoney_July2017.pdf",
+   "abstract": null
+  }
+ ]
+}

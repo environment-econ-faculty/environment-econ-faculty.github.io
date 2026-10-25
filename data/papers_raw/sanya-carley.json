@@ -1,0 +1,1717 @@
+{
+ "slug": "sanya-carley",
+ "name": "Sanya Carley",
+ "sources": [
+  "https://www.design.upenn.edu/sites/default/files/files/people/Carley_CV_Feb2026.pdf"
+ ],
+ "collected": "2026-10-25",
+ "notes": "Source: CV dated Feb 2026 (PDF text extracted locally and parsed semi-automatically; author names kept as initials+surname as printed, student asterisks removed). Included: all items in 'Peer- or editor-reviewed publications' (incl. some short commentary/perspective pieces in Nature Energy/Joule and textbook/handbook chapters), 2 law-journal articles, and 'Selected works in progress' that are R&R or under review (year set to 2026; 'Under review' items given venue 'Working Paper'). Skipped: books (Power Lines 2025; Energy-based Economic Development 2014), book review, Harvard Business Review 2019 and Issues in Science & Technology 2014 pieces, policy reports/white papers, media, and the 'Work in progress' wind-farm paper. Titles/venues were auto-split; a few venues may carry minor formatting quirks. CV typos kept as written ('Konisky, K.', 'Carleyolsen'). No URLs/abstracts in CV. Conditional acceptance at Nature Reviews Clean Technology marked forthcoming.",
+ "papers": [
+  {
+   "title": "Structural barriers and policy pathways for a just clean energy transition",
+   "authors": [
+    "H. Hoehnke",
+    "M. Wussow",
+    "C. Zanocco",
+    "S. Carley",
+    "D.M. Konisky",
+    "D. Neumann"
+   ],
+   "year": 2026,
+   "venue": "Nature Reviews Clean Technology",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Levers to address energy insecurity in the United States",
+   "authors": [
+    "A. Knasin",
+    "S. Carley",
+    "A. Klass",
+    "D.M. Konisky",
+    "S. Welton"
+   ],
+   "year": 2026,
+   "venue": "Nature Energy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Drivers of low-income solar adoption across place, people, and perceptions",
+   "authors": [
+    "C.C. Montanes",
+    "G. Barbose",
+    "S. Carley",
+    "S. Forrester",
+    "D. Konisky",
+    "T. Memmott",
+    "E. O'Shaughnessy",
+    "M. Yozwiak"
+   ],
+   "year": 2026,
+   "venue": "Scientific Reports",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Understanding energy justice challenges through a regulatory and institutional lens",
+   "authors": [
+    "S. Carley"
+   ],
+   "year": 2026,
+   "venue": "The Energy Journal",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "\"Hydropower communities\" and energy justice: A case-study of the Akosombo Dam in Ghana",
+   "authors": [
+    "S.N. Duamor",
+    "S. Carley"
+   ],
+   "year": 2026,
+   "venue": "Environmental Research: Energy",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Surveying global coal transitions: Variable, plural, and uneven",
+   "authors": [
+    "M.D. Woodworth",
+    "J. Jacquet",
+    "B. Capobianco",
+    "S. Carley",
+    "J. Haggerty",
+    "S. Knuth",
+    "A. Lis",
+    "T. Measham",
+    "K. Rignall"
+   ],
+   "year": 2026,
+   "venue": "Environmental Research: Energy",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Beyond the thermostat: A mixed-methods study of heating decisions and thermal discomfort in subsidized housing",
+   "authors": [
+    "K. Wade",
+    "D. Nock",
+    "D.M. Konisky",
+    "S. Carley",
+    "B. Hellerstein",
+    "A. Knasin"
+   ],
+   "year": 2026,
+   "venue": "Energy Research & Social Science",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Jobs and justice: An evaluation of the durability of the Biden administration's energy and climate agenda under the Trump administration",
+   "authors": [
+    "S. Gadzanku",
+    "M. Ahmed",
+    "S. Carley"
+   ],
+   "year": 2026,
+   "venue": "Publius: The Journal of Federalism",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Evaluating indoor air pollution in urban, low-income, multi-family buildings",
+   "authors": [
+    "D.M. Konisky",
+    "S. Carley",
+    "B. Hellerstein",
+    "A.L. Knasin",
+    "D. Nock",
+    "K. Wade"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Strengthening the pathways between research and policy",
+   "authors": [
+    "S. Carley",
+    "K. Hayes",
+    "E. Michelson"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Energy insecurity among affordable housing residents",
+   "authors": [
+    "B. Hellerstein",
+    "et al."
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Modern electric vehicle and battery manufacturing boom towns and just transitions",
+   "authors": [
+    "S. Carley",
+    "S. Lepley",
+    "C. Lane",
+    "J. Adams",
+    "V. Reina"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Public attitudes and community engagement in large-scale solar siting",
+   "authors": [
+    "S. Gadzanku",
+    "W. Qu",
+    "S.Z. Attari",
+    "P. Bergquist",
+    "S. Carley",
+    "A. Knasin",
+    "D.M. Konisky",
+    "G. Michaud",
+    "J. Silva"
+   ],
+   "year": 2025,
+   "venue": "Environmental Research Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Beyond the cost: Electric vehicle ownership and adoption intent in U.S. households",
+   "authors": [
+    "J. Kim",
+    "J.F. Bozeman III",
+    "S. Carley",
+    "D. Konisky",
+    "D. Nock",
+    "J.J. Michalek",
+    "D. Matisoff"
+   ],
+   "year": 2025,
+   "venue": "Transportation Research Part D: Transport and Environment",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Challenges in sourcing and developing the necessary critical earth minerals to meet ambitious electric vehicle deployment goals",
+   "authors": [
+    "S. Carley"
+   ],
+   "year": 2025,
+   "venue": "Critical minerals supply chains and resiliency in the ASEAN, Vol. 2",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "It is time to modernize energy insecurity policies to account for extreme heat",
+   "authors": [
+    "S. Carley",
+    "D.M. Konisky"
+   ],
+   "year": 2025,
+   "venue": "Joule",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The effect of residential solar on energy insecurity among low- to moderate-income households",
+   "authors": [
+    "M. Yozwiak",
+    "G. Barbose",
+    "S. Carley",
+    "C.C. Montanes",
+    "S. Forrester",
+    "D. Konisky",
+    "T. Memmott",
+    "E. O'Shaughnessy"
+   ],
+   "year": 2025,
+   "venue": "Nature Energy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Modern challenges facing electric vehicle adoption: A review of electric vehicle adoption barriers, supply chain challenges, and equity",
+   "authors": [
+    "H. Alshahapy",
+    "J.F. Bozeman III",
+    "D. Nock",
+    "S. Carley",
+    "D. Matisoff"
+   ],
+   "year": 2025,
+   "venue": "Environmental Research Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Integration of equity into climate-related plans in the U.S.",
+   "authors": [
+    "L. Helmke-Long",
+    "A. Davicino",
+    "S. Carley",
+    "C. Murphy"
+   ],
+   "year": 2025,
+   "venue": "Climate Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The electricity cost burden of durable medical equipment in the United States",
+   "authors": [
+    "S. Carley",
+    "S. Bensal",
+    "P. Kahn",
+    "C. Harak",
+    "D. Konisky",
+    "K. Simon"
+   ],
+   "year": 2024,
+   "venue": "Scientific Reports",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Assessing demographic vulnerability and weather impacts on utility disconnection in California",
+   "authors": [
+    "T. Memmott",
+    "D.M. Konisky",
+    "S. Carley"
+   ],
+   "year": 2024,
+   "venue": "Nature Communications",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Energy justice and equity: Applying a critical perspective to the electrical power grid for a more just transition in the United States. IEEE Power and Energy Magazine. Giang, A., Edwards, M.R., Fletcher, S.M., Gardner-Frolick, R., Gryba, R., Mathias, J., Vernier-Cambron, C., Berglund, E., Carley, S., Erickson, J., Grubert, E., Hadjimichael, A., Hill, J.D., Mayfield, E., Nock, D., Pikok, K., Saari, R., Mateo, C., Lezcano, S., Siddiqi, A., Skerker, J., Tessum, C. 2024. Equity and modeling in sustainability science: examples and opportunities throughout the process",
+   "authors": [
+    "B. Sovacool",
+    "S. Carley",
+    "L. Kiesling",
+    "M. Heleno"
+   ],
+   "year": 2024,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Energy justice beyond the wire: Exploring the multidimensional inequities of the electrical power grid in the United States",
+   "authors": [
+    "B.K. Sovacool",
+    "S. Carley",
+    "L. Kiesling"
+   ],
+   "year": 2024,
+   "venue": "Energy Research & Social Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Utility assistance and pricing structures for energy impoverished households: A review of the literature",
+   "authors": [
+    "J. Adams",
+    "S. Carley",
+    "D. Konisky"
+   ],
+   "year": 2024,
+   "venue": "The Electricity Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Energy Policy (book chapter)",
+   "authors": [
+    "S. Carley"
+   ],
+   "year": 2024,
+   "venue": "Environmental Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Opportunities to advance research on energy insecurity",
+   "authors": [
+    "M. Graff",
+    "S. Carley",
+    "D.M. Konisky",
+    "T. Memmott"
+   ],
+   "year": 2023,
+   "venue": "Nature Energy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Utility disconnection protections and the incidence of energy insecurity in the United States",
+   "authors": [
+    "T. Memmott",
+    "S. Carley",
+    "M. Graff",
+    "D.M. Konisky"
+   ],
+   "year": 2023,
+   "venue": "iScience",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Metrics for decision-making in energy justice",
+   "authors": [
+    "E. Baker",
+    "S. Carley",
+    "S. Castellanos",
+    "D. Nock",
+    "J. Bozeman",
+    "D.M. Konisky",
+    "C. Monyei",
+    "M. Shah",
+    "B. Sovacool"
+   ],
+   "year": 2023,
+   "venue": "Annual Review of Environment and Resources",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "\"I earned the right to build the next American car\": How U.S. auto workers confront the energy transition and the shift to electric vehicles",
+   "authors": [
+    "J. Silva",
+    "S. Carley",
+    "D.M. Konisky"
+   ],
+   "year": 2023,
+   "venue": "Energy Research & Social Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Exploring factors shaping transportation electrification in American cities",
+   "authors": [
+    "D. Ehrnschwender",
+    "S. Siddiki",
+    "S. Carley",
+    "S. Nicholson-Crotty"
+   ],
+   "year": 2023,
+   "venue": "Renewable and Sustainable Energy Transition",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Enabling and centering equity and justice in clean energy transition research",
+   "authors": [
+    "C. C. Montanes",
+    "E. O'Shaughnessy",
+    "D. Bednar",
+    "D. Nock",
+    "S. Carley",
+    "D. Kammen",
+    "D.M. Konisky"
+   ],
+   "year": 2023,
+   "venue": "Joule",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Behavioral and financial coping strategies among energy insecure households",
+   "authors": [
+    "S. Carley",
+    "M. Graff",
+    "D. Konisky",
+    "T. Memmott"
+   ],
+   "year": 2022,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Mapping county-level vulnerability to the energy transition in U.S. fossil fuel communities",
+   "authors": [
+    "D. Raimi",
+    "S. Carley",
+    "D.M. Konisky"
+   ],
+   "year": 2022,
+   "venue": "Scientific Reports",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The persistence of household energy security during the COVID-19 pandemic",
+   "authors": [
+    "D.M. Konisky",
+    "S. Carley",
+    "M. Graff",
+    "T. Memmott"
+   ],
+   "year": 2022,
+   "venue": "Environmental Research Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Specialty Grand Challenge: Energy Transitions, Human Dimensions, and Society",
+   "authors": [
+    "S. Carley"
+   ],
+   "year": 2022,
+   "venue": "Frontiers in Sustainable Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Busting the myths around public investment in clean energy",
+   "authors": [
+    "J. Meckling",
+    "J.E. Aldy",
+    "S. Carley",
+    "D.C. Esty",
+    "M.J. Kotchen",
+    "P.A. Raymond",
+    "B. Tonkonogy",
+    "C. Harper",
+    "G. Sawyer",
+    "J. Sweatman"
+   ],
+   "year": 2022,
+   "venue": "Nature Energy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Municipal government adaptive capacity programs for vulnerable populations during the US energy transition",
+   "authors": [
+    "L. Helmke-Long",
+    "S. Carley",
+    "D. Konisky"
+   ],
+   "year": 2022,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Equity, technological innovation and sustainable behavior in a low-carbon future",
+   "authors": [
+    "B.K. Sovacool",
+    "P. Newell",
+    "S. Carley",
+    "J. Fanzo"
+   ],
+   "year": 2022,
+   "venue": "Nature Human Behaviour",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Energy Policy (book chapter)",
+   "authors": [
+    "S. Carley"
+   ],
+   "year": 2022,
+   "venue": "Environmental Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Building resilience to the energy transition in Indiana",
+   "authors": [
+    "D.M. Konisky",
+    "N. Zirogiannis",
+    "S. Carley"
+   ],
+   "year": 2022,
+   "venue": "Climate Change and Resilience in Indiana and Beyond",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Enabling an equitable energy transition through inclusive research",
+   "authors": [
+    "A.P. Ravikumar",
+    "E. Baker",
+    "A. Bates",
+    "D. Nock",
+    "D. Venkataraman",
+    "T. Johnson",
+    "M. Ash",
+    "S.Z. Attari",
+    "K. Bowie",
+    "S. Carley",
+    "S. Castellanos",
+    "M. Cha",
+    "D.L. Clark",
+    "D. Deane-Ryan",
+    "D. Djokic",
+    "J.C. Ford",
+    "A. Goldstein",
+    "E. Grubert",
+    "L. Hu",
+    "D.M. Kammen",
+    "U. Kosar",
+    "C. Miller",
+    "M. Pastor",
+    "M. Tuominen"
+   ],
+   "year": 2022,
+   "venue": "Nature Energy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Energy insecurity and the urgent need for utility disconnection protections",
+   "authors": [
+    "S.H. Baker",
+    "S. Carley",
+    "D.M. Konisky"
+   ],
+   "year": 2021,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Expanding the scope of just transitions: Towards localized solutions and community-level dynamics",
+   "authors": [
+    "M.D. Bazilian",
+    "S. Carley",
+    "D. Konisky",
+    "H. Zerriffi",
+    "S. Pai",
+    "B. Handler"
+   ],
+   "year": 2021,
+   "venue": "Energy Research & Social Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "What we can learn from the Green New Deal about the importance of equity in national climate policy",
+   "authors": [
+    "D.M. Konisky",
+    "S. Carley"
+   ],
+   "year": 2021,
+   "venue": "Journal of Policy Analysis and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Energy policy reversal during the Trump administration: Examination of its legacy and implications for federalism",
+   "authors": [
+    "M. Yozwiak",
+    "H. Abell",
+    "S. Carley"
+   ],
+   "year": 2021,
+   "venue": "Publius: The Journal of Federalism",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Which households are energy insecure? An empirical analysis of race, housing conditions, and energy burdens in the United States",
+   "authors": [
+    "M. Graff",
+    "S. Carley",
+    "T. Memmott",
+    "D.M. Konisky"
+   ],
+   "year": 2021,
+   "venue": "Energy Research & Social Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Who participates in energy activism? Profiling political engagement in the United States",
+   "authors": [
+    "T. Memmott",
+    "S. Carley",
+    "D. Konisky"
+   ],
+   "year": 2021,
+   "venue": "Energy Research & Social Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Climate change and energy insecurity: A growing need for policy intervention",
+   "authors": [
+    "M. Graff",
+    "D.M. Konisky",
+    "S. Carley",
+    "T. Memmott"
+   ],
+   "year": 2021,
+   "venue": "Environmental Justice",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An analysis of energy justice programs across the United States",
+   "authors": [
+    "S. Carley",
+    "C. Engle",
+    "D.M. Konisky"
+   ],
+   "year": 2021,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Sociodemographic disparities in energy insecurity among low-income households before and during the COVID-19 pandemic",
+   "authors": [
+    "T. Memmott",
+    "S. Carley",
+    "M. Graff",
+    "D.M. Konisky"
+   ],
+   "year": 2021,
+   "venue": "Nature Energy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Electric utility disconnection policy and vulnerable populations",
+   "authors": [
+    "M. Flaherty",
+    "S. Carley",
+    "D.M. Konisky"
+   ],
+   "year": 2020,
+   "venue": "The Electricity Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The justice and equity implications for the clean energy transition",
+   "authors": [
+    "S. Carley",
+    "D. Konisky"
+   ],
+   "year": 2020,
+   "venue": "Nature Energy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A review of barriers in implementing dynamic electricity pricing to achieve cost-causality",
+   "authors": [
+    "R. Beppler",
+    "D. Matisoff",
+    "G. Chan",
+    "S. Carley"
+   ],
+   "year": 2020,
+   "venue": "Environmental Research Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "COVID-19 Assistance Needs to Target Energy Insecurity",
+   "authors": [
+    "M. Graff",
+    "S. Carley"
+   ],
+   "year": 2020,
+   "venue": "Nature Energy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Energy infrastructure, NIMBYism, and public opinion: A systematic literature review of three decades of empirical survey literature",
+   "authors": [
+    "S. Carley",
+    "K. Konisky",
+    "Z. Atiq",
+    "N. Land"
+   ],
+   "year": 2020,
+   "venue": "Environmental Research Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Energy-Economy Econometric Model for Conducting State-Level Energy Policy Analysis",
+   "authors": [
+    "Z. Wendling",
+    "D. Warren",
+    "B. Rubin",
+    "S. Carley",
+    "K. Richards"
+   ],
+   "year": 2020,
+   "venue": "Economic Development Quarterly",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Proximity, NIMBYism, and Public Support for Energy Infrastructure",
+   "authors": [
+    "D. Konisky",
+    "S. Ansolabehere",
+    "S. Carley"
+   ],
+   "year": 2020,
+   "venue": "Public Opinion Quarterly",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Backyard voices: How sense of place shapes views of large-scale energy transmission infrastructure",
+   "authors": [
+    "P. Bergquist",
+    "S. Ansolabehere",
+    "S. Carley",
+    "D. Konisky"
+   ],
+   "year": 2020,
+   "venue": "Energy Research & Social Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Just U.S. Energy Transition",
+   "authors": [
+    "S. Carley",
+    "M. Graff"
+   ],
+   "year": 2020,
+   "venue": "Handbook of U.S. Environmental Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Overcoming the shortcomings of U.S. plug-in electric vehicle policies",
+   "authors": [
+    "S. Carley",
+    "N. Zirogiannis",
+    "D. Duncan",
+    "S. Siddiki",
+    "J. D. Graham"
+   ],
+   "year": 2019,
+   "venue": "Renewable and Sustainable Energy Reviews",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Are all electrons the same? Evaluating support for local transmission lines through a survey experiment",
+   "authors": [
+    "S. Carley",
+    "S. Ansolabehere",
+    "D. Konisky"
+   ],
+   "year": 2019,
+   "venue": "PLoS ONE",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An analysis of the macroeconomic effects of 2017-2025 federal fuel economy and greenhouse gas emissions standards",
+   "authors": [
+    "S. Carley",
+    "N. Zirogiannis",
+    "D. Duncan",
+    "S. Siddiki",
+    "J. D. Graham"
+   ],
+   "year": 2019,
+   "venue": "Journal of Policy Analysis and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Evolution of plug-in electric vehicle demand: Assessing consumer perceptions and intent to purchase over time",
+   "authors": [
+    "S. Carley",
+    "S. Nicholson-Crotty",
+    "S. Siddiki"
+   ],
+   "year": 2019,
+   "venue": "Transportation Research Part D: Transport and Environment",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Why do countries emulate each others' policies? A global study of renewable energy policy diffusion",
+   "authors": [
+    "E. Baldwin",
+    "S. Carley",
+    "S. Nicholson-Crotty"
+   ],
+   "year": 2019,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A review of the environmental policy literature from 2014-2017 with a closer look at the energy justice field",
+   "authors": [
+    "M. Graff",
+    "S. Carley",
+    "M. Pirog"
+   ],
+   "year": 2019,
+   "venue": "Policy Studies Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The effect of CAFE standards on vehicle sales projections: A total cost of ownership approach",
+   "authors": [
+    "N. Zirogiannis",
+    "D. Duncan",
+    "S. Carley",
+    "S. Siddiki",
+    "J. D. Graham"
+   ],
+   "year": 2019,
+   "venue": "Transport Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Cost implications for automakers' compliance with emission standards from Zero Emissions Vehicle mandate",
+   "authors": [
+    "A. Jenn",
+    "S. Hardman",
+    "S. Carley",
+    "N. Zirogiannis",
+    "D. Duncan",
+    "J. D. Graham"
+   ],
+   "year": 2019,
+   "venue": "Environmental Science & Technology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Most Consumers Don't Buy Hybrids: Is Rational Choice a Sufficient Explanation?",
+   "authors": [
+    "D. Duncan",
+    "A. Ku",
+    "A. Julian",
+    "S. Carley",
+    "S. Siddiki",
+    "N. Zirogiannis",
+    "J.D. Graham"
+   ],
+   "year": 2019,
+   "venue": "Journal of Benefit-Cost Analysis",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Willingness-to-pay for sustainable beer",
+   "authors": [
+    "S. Carley",
+    "L. Yahng"
+   ],
+   "year": 2018,
+   "venue": "PLoS ONE",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Role of Public Policy in Technology Diffusion: The case of Plug-in Electric Vehicles",
+   "authors": [
+    "J. Zambrano-Gutierrez",
+    "S. Nicholson-Crotty",
+    "S. Carley",
+    "S. Siddiki"
+   ],
+   "year": 2018,
+   "venue": "Environmental Science & Technology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Moving Beyond Theories of Neighborly Emulation: Energy Policy Information Channels are Plentiful among American States",
+   "authors": [
+    "S. Carley",
+    "S. Nicholson-Crotty"
+   ],
+   "year": 2018,
+   "venue": "Energy Research & Social Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Empirical evaluation of the stringency and design of renewable portfolio standards",
+   "authors": [
+    "S. Carley",
+    "L. Davies",
+    "D. Spence",
+    "N. Zirogiannis"
+   ],
+   "year": 2018,
+   "venue": "Nature Energy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A framework for evaluating geographic disparities in energy transition vulnerability",
+   "authors": [
+    "S. Carley",
+    "T. P. Evans",
+    "M. Graff",
+    "D. M. Konisky"
+   ],
+   "year": 2018,
+   "venue": "Nature Energy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Fuel Economy Standards and the US Economy",
+   "authors": [
+    "N. Zirogiannis",
+    "S. Carley",
+    "D. Duncan",
+    "S. Siddiki",
+    "J. D. Graham"
+   ],
+   "year": 2018,
+   "venue": "Insight into Manufacturing Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Stakeholder perceptions of the United States energy transition: Local-level dynamics and community responses to national politics and policy",
+   "authors": [
+    "M. Graff",
+    "S. Carley",
+    "D. Konisky"
+   ],
+   "year": 2018,
+   "venue": "Energy Research & Social Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Adaptation, culture, and the energy transition in American coal country",
+   "authors": [
+    "S. Carley",
+    "T. P. Evans",
+    "D. M. Konisky"
+   ],
+   "year": 2018,
+   "venue": "Energy Research & Social Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "All electric vehicles are not the same: Predictors of preference for a plug-in hybrid versus a battery-electric vehicle",
+   "authors": [
+    "B. Lane",
+    "S. Carley",
+    "S. Siddiki",
+    "J. Dumortier",
+    "K. Clark-Sutton",
+    "J. D. Graham"
+   ],
+   "year": 2018,
+   "venue": "Transportation Research Part D: Transport and Environment",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Does dynamic federalism yield compatible policies? A study of federal and state vehicle standards",
+   "authors": [
+    "S. Siddiki",
+    "S. Carley",
+    "N. Zirogiannis",
+    "D. Duncan",
+    "J. Graham"
+   ],
+   "year": 2018,
+   "venue": "Policy Design and Practice",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Information exchange and policy adoption decisions in the context of U.S. state energy policy",
+   "authors": [
+    "S. Nicholson-Crotty",
+    "S. Carley"
+   ],
+   "year": 2018,
+   "venue": "State Politics and Policy Quarterly",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Global Expansion of Renewable Energy Generation: An Analysis of Policy Instruments. Environmental and Resource Economics 68(2): 397-440",
+   "authors": [
+    "S. Carley",
+    "E. Baldwin",
+    "L. M. MacLean",
+    "J. N. Brass"
+   ],
+   "year": 2017,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Adoption, Reinvention, and Amendment of Renewable Portfolio Standards in the American States",
+   "authors": [
+    "S. Carley",
+    "S. Nicholson-Crotty",
+    "C. Miller"
+   ],
+   "year": 2017,
+   "venue": "Journal of Public Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Global renewable energy policy: A comparative analysis of countries by economic development status",
+   "authors": [
+    "E. Baldwin",
+    "S. Carley",
+    "J. N. Brass",
+    "L. M. MacLean"
+   ],
+   "year": 2017,
+   "venue": "Journal of Comparative Policy Analysis",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Emerging shadows in national solar policy? Nevada's Net Metering Transition in Context",
+   "authors": [
+    "L. L. Davies",
+    "S. Carley"
+   ],
+   "year": 2017,
+   "venue": "The Electricity Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Assessing the Demand for Electric Vehicles under Future Cost and Technological Scenarios",
+   "authors": [
+    "R. Krause",
+    "B. Lane",
+    "S. Carley",
+    "J. Sperl",
+    "J. Graham"
+   ],
+   "year": 2016,
+   "venue": "International Journal of Sustainable Transportation",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Plug-in electric vehicle readiness: Rating cities in the United States",
+   "authors": [
+    "K. Clark-Sutton",
+    "S. Siddiki",
+    "S. Carley",
+    "C. Wanner",
+    "J. Rupp",
+    "J.D. Graham"
+   ],
+   "year": 2016,
+   "venue": "The Electricity Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Energy programs of the American Recovery and Reinvestment Act of 2009",
+   "authors": [
+    "S. Carley"
+   ],
+   "year": 2016,
+   "venue": "Review of Policy Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The American Recovery and Reinvestment Act of 2009: What have we learned?",
+   "authors": [
+    "S. Carley"
+   ],
+   "year": 2016,
+   "venue": "Review of Policy Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "State regulation of unconventional gas development in the U.S.: An empirical evaluation",
+   "authors": [
+    "N. Zirogiannis",
+    "J. Alcorn",
+    "J. Rupp",
+    "S. Carley",
+    "J. Graham"
+   ],
+   "year": 2016,
+   "venue": "Energy Research & Social Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Effectiveness, Implementation Capacity, and Policy Diffusion: Or, \"Can We Make that Work for Us?\"",
+   "authors": [
+    "S. Nicholson-Crotty",
+    "S. Carley"
+   ],
+   "year": 2016,
+   "venue": "State Politics and Policy Quarterly",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Effect of Community Reinvestment Funds on Local Acceptance of Unconventional Gas Development",
+   "authors": [
+    "N. Paydar",
+    "O. Schenk",
+    "J. Alcorn",
+    "A. Bowers",
+    "S. Carley",
+    "J. Rupp",
+    "J.D. Graham"
+   ],
+   "year": 2015,
+   "venue": "Economics of Energy & Environmental Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Interaction of risks associated with natural gas and renewable based electricity",
+   "authors": [
+    "D. Esposito",
+    "J. Rupp",
+    "S. Carley"
+   ],
+   "year": 2015,
+   "venue": "The Electricity Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Regulating for Innovation and Technology Adoption: The Case of Plug-In Vehicles",
+   "authors": [
+    "S. Siddiki",
+    "J. Dumortier",
+    "C. Curley",
+    "S. Carley",
+    "R. Krause"
+   ],
+   "year": 2015,
+   "venue": "Review of Policy Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Estimating State and Sub-State Economic Effects of a Carbon Dioxide Tax Policy: An Application of a New Multi-Region Energy-Economy Econometric Model",
+   "authors": [
+    "D. Warren",
+    "Z. Wendling",
+    "J. Bower-Bir",
+    "H. Fields",
+    "K. Richards",
+    "S. Carley",
+    "B. Rubin"
+   ],
+   "year": 2015,
+   "venue": "Regional Science, Policy and Practice",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Democracy and the distribution of NGOs promoting renewable energy in Africa",
+   "authors": [
+    "L. MacLean",
+    "J. Brass",
+    "S. Carley",
+    "A. El-Arini",
+    "S. Breen"
+   ],
+   "year": 2015,
+   "venue": "Journal of Development Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Effects of providing total cost of ownership information on consumers' intent to purchase a hybrid or plug-in electric vehicle",
+   "authors": [
+    "J. Dumortier",
+    "S. Siddiki",
+    "S. Carley",
+    "J. Cisney",
+    "R. Krause",
+    "B. Lane",
+    "J. Rupp",
+    "J. Graham"
+   ],
+   "year": 2015,
+   "venue": "Transportation Research Part A: Policy and Practice",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Capacity, Guidance, and the Implementation of the American Recovery and Reinvestment Act",
+   "authors": [
+    "S. Carley",
+    "S. Nicholson-Crotty",
+    "E. Fisher"
+   ],
+   "year": 2015,
+   "venue": "Public Administration Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The American Recovery and Reinvestment Act: Lessons from Energy Program Implementation Efforts. State and Local Government Review 46(2): 140-147. Local Governments.\" Baldwin, E.*, Brass, J., Carley, S., MacLean, L. 2014. Issues of scale in distributed generation electrification for rural development",
+   "authors": [
+    "S. Carley",
+    "M. Hyman"
+   ],
+   "year": 2014,
+   "venue": "State and Local Government Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Predictors of attitudes toward carbon capture and storage using data on world views and CCS-specific attitudes",
+   "authors": [
+    "D. Warren",
+    "S. Carley",
+    "R. Krause",
+    "J. Rupp",
+    "J. Graham"
+   ],
+   "year": 2014,
+   "venue": "Science and Public Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Not Under My Backyard: Geographic proximity and public acceptance of CCS facilities",
+   "authors": [
+    "R. Krause",
+    "S. Carley",
+    "D. Warren",
+    "J. Rupp",
+    "J. Graham"
+   ],
+   "year": 2014,
+   "venue": "Risk Analysis",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Issues of scale in distributed generation electrification for rural development",
+   "authors": [
+    "E. Baldwin",
+    "J. Brass",
+    "S. Carley",
+    "L. MacLean"
+   ],
+   "year": 2014,
+   "venue": "WIREs: Energy and Environment",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "On the importance of strengthening moderate beliefs in climate science to foster support for immediate action",
+   "authors": [
+    "Z. A. Wendling",
+    "S. Z. Attari",
+    "S. Carley",
+    "R. M. Krause",
+    "D. Warren",
+    "J. Rupp",
+    "J. D. Graham"
+   ],
+   "year": 2013,
+   "venue": "Sustainability",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Perception and Reality: Public Knowledge of Plug-in Electric Vehicles",
+   "authors": [
+    "R. Krause",
+    "S. Carley",
+    "B. Lane",
+    "J. Graham"
+   ],
+   "year": 2013,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Government promotion of the electric car: Risk management or industrial policy?",
+   "authors": [
+    "B. Lane",
+    "N. Messer",
+    "D. Hartman",
+    "S. Carley",
+    "R. Krause",
+    "J. Graham"
+   ],
+   "year": 2013,
+   "venue": "European Journal of Risk Regulation",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Intent to purchase a plug-in electric vehicle: A survey of early impressions in large US cites",
+   "authors": [
+    "S. Carley",
+    "R. Krause",
+    "B. Lane",
+    "J. Graham"
+   ],
+   "year": 2013,
+   "venue": "Transportation Research Part D: Transport and Environment",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Power for development: An analysis of on-the-ground experiences of distributed generation in the developing world",
+   "authors": [
+    "J. Brass",
+    "S. Carley",
+    "L. MacLean",
+    "E. Baldwin"
+   ],
+   "year": 2012,
+   "venue": "Annual Review of Environment and Resources",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Innovative US Energy Policy: A review of states' policy experiences",
+   "authors": [
+    "S. Carley",
+    "T. Browne"
+   ],
+   "year": 2012,
+   "venue": "WIREs: Energy and Environment",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Regulatory stringency and policy adoption: Reassessment of renewable portfolio standards",
+   "authors": [
+    "S. Carley",
+    "C. Miller"
+   ],
+   "year": 2012,
+   "venue": "Policy Studies Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Early public impressions of terrestrial CCS in a coal-intensive state",
+   "authors": [
+    "S. Carley",
+    "R. Krause",
+    "D. Warren",
+    "J. Rupp",
+    "J. Graham"
+   ],
+   "year": 2012,
+   "venue": "Environmental Science & Technology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Solar set asides and renewable energy certificates: Early lessons from North Carolina's experience with its Renewable Portfolio Standard",
+   "authors": [
+    "C. Gaul",
+    "S. Carley"
+   ],
+   "year": 2012,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Creating a sustainable U.S. electricity sector: The question of scale",
+   "authors": [
+    "S. Carley",
+    "R. L. Andrews"
+   ],
+   "year": 2012,
+   "venue": "Policy Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Energy demand-side management: New perspectives for a new era",
+   "authors": [
+    "S. Carley"
+   ],
+   "year": 2012,
+   "venue": "Journal of Policy Analysis and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic development and energy: From fad to a sustainable discipline?",
+   "authors": [
+    "S. Carley",
+    "A. Brown",
+    "S. Lawrence"
+   ],
+   "year": 2012,
+   "venue": "Economic Development Quarterly",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "National clean energy standards: Experience from the states",
+   "authors": [
+    "S. Carley"
+   ],
+   "year": 2012,
+   "venue": "Review of Policy Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Innovation in the Auto Industry: The Role of the U.S. Environmental Protection Agency",
+   "authors": [
+    "S. Carley",
+    "N. Messer",
+    "J. Graham"
+   ],
+   "year": 2012,
+   "venue": "Duke Environmental Law and Policy Forum",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Decarbonization of the U.S. electricity sector: Are state energy policy portfolios the solution?",
+   "authors": [
+    "S. Carley"
+   ],
+   "year": 2011,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Normative dimensions of sustainable energy policy",
+   "authors": [
+    "S. Carley"
+   ],
+   "year": 2011,
+   "venue": "Ethics, Policy & Environment",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The era of state energy policy innovation: A review of policy instruments",
+   "authors": [
+    "S. Carley"
+   ],
+   "year": 2011,
+   "venue": "Review of Policy Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Energy-Based Economic Development",
+   "authors": [
+    "S. Carley",
+    "S. Lawrence",
+    "A. Brown",
+    "A. Nourafshan",
+    "E. Benami"
+   ],
+   "year": 2011,
+   "venue": "Renewable and Sustainable Energy Reviews",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Historical analysis of U.S. electricity markets: Reassessing carbon lock-in",
+   "authors": [
+    "S. Carley"
+   ],
+   "year": 2010,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Distributed generation: An empirical analysis of primary motivators",
+   "authors": [
+    "S. Carley"
+   ],
+   "year": 2009,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "State renewable energy electricity policies: An empirical evaluation of effectiveness",
+   "authors": [
+    "S. Carley"
+   ],
+   "year": 2009,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Tangled in the Wires: An Assessment of the Existing U.S. Renewable Energy Legal Framework",
+   "authors": [
+    "S. Carleyolsen"
+   ],
+   "year": 2006,
+   "venue": "Natural Resources Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

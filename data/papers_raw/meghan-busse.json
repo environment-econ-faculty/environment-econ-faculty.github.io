@@ -1,0 +1,204 @@
+{
+ "slug": "meghan-busse",
+ "name": "Meghan Busse",
+ "sources": [
+  "https://www.kellogg.northwestern.edu/academics-research/faculty/busse_meghan/",
+  "https://scholar.google.com/citations?user=tYTTroYAAAAJ (profile linked from her Kellogg page)"
+ ],
+ "collected": "2026-10-25",
+ "notes": "PROBLEM: the Kellogg CV download redirects to a Northwestern VPN-required page and the old 2012/2014 CV URLs are dead, so no CV was readable. The Kellogg faculty page lists no publications. List built from her own Google Scholar profile (the one linked on her Kellogg page; first 51 of possibly more items), keeping journal articles and one working paper; Kellogg teaching cases, duplicates and unpublished manuscripts that became later articles were skipped. Authors as shown by Scholar (initials expanded to full names; order as shown). Venues/years are Scholar's and not CV-verified; the list may miss items beyond the first 51 or recent work without a Scholar entry. Recommend re-checking with the actual CV. No abstracts or URLs.",
+ "papers": [
+  {
+   "title": "Did Cash for Clunkers Deliver? The Consumer Effects of the Car Allowance Rebate System",
+   "authors": [
+    "Meghan R. Busse",
+    "Christopher R. Knittel",
+    "Jorge Silva-Risso",
+    "Florian Zettelmeyer"
+   ],
+   "year": 2022,
+   "venue": "MIT CEEPR Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Repairing the Damage: The Effect of Price Knowledge and Gender on Auto-Repair Price Quotes",
+   "authors": [
+    "Meghan R. Busse",
+    "Ayelet Israeli",
+    "Florian Zettelmeyer"
+   ],
+   "year": 2017,
+   "venue": "Journal of Marketing Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Who Is Exposed to Gas Prices? How Gasoline Prices Affect Automobile Manufacturers and Dealerships",
+   "authors": [
+    "Meghan R. Busse",
+    "Christopher R. Knittel",
+    "Jorge Silva-Risso",
+    "Florian Zettelmeyer"
+   ],
+   "year": 2016,
+   "venue": "Quantitative Marketing and Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Psychological Effect of Weather on Car Purchases",
+   "authors": [
+    "Meghan R. Busse",
+    "Devin G. Pope",
+    "Jaren C. Pope",
+    "Jorge Silva-Risso"
+   ],
+   "year": 2015,
+   "venue": "Quarterly Journal of Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Are Consumers Myopic? Evidence from New and Used Car Purchases",
+   "authors": [
+    "Meghan R. Busse",
+    "Christopher R. Knittel",
+    "Florian Zettelmeyer"
+   ],
+   "year": 2013,
+   "venue": "American Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Estimating the Effect of Salience in Wholesale and Retail Car Markets",
+   "authors": [
+    "Meghan R. Busse",
+    "Nicola Lacetera",
+    "Devin G. Pope",
+    "Jorge Silva-Risso",
+    "Justin R. Sydnor"
+   ],
+   "year": 2013,
+   "venue": "American Economic Review: Papers and Proceedings",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Career Concerns, Inaction and Market Inefficiency: Evidence From Utility Regulation",
+   "authors": [
+    "Severin Borenstein",
+    "Meghan R. Busse",
+    "Ryan Kellogg"
+   ],
+   "year": 2012,
+   "venue": "Journal of Industrial Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "\"One Discriminatory Rent\" or \"Double Jeopardy\": Multicomponent Negotiation for New Car Purchases",
+   "authors": [
+    "Meghan R. Busse",
+    "Jorge M. Silva-Risso"
+   ],
+   "year": 2010,
+   "venue": "American Economic Review: Papers and Proceedings",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "\"The Best Price You'll Ever Get\": The 2005 Employee Discount Pricing Promotions in the U.S. Automobile Industry",
+   "authors": [
+    "Meghan R. Busse",
+    "Duncan I. Simester",
+    "Florian Zettelmeyer"
+   ],
+   "year": 2010,
+   "venue": "Marketing Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Market Effects of Environmental Regulation: Coal, Railroads, and the 1990 Clean Air Act",
+   "authors": [
+    "Meghan R. Busse",
+    "Nathaniel O. Keohane"
+   ],
+   "year": 2008,
+   "venue": "RAND Journal of Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "$1,000 Cash Back: The Pass-Through of Auto Manufacturer Promotions",
+   "authors": [
+    "Meghan R. Busse",
+    "Jorge Silva-Risso",
+    "Florian Zettelmeyer"
+   ],
+   "year": 2006,
+   "venue": "American Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Competition and Price Discrimination in Yellow Pages Advertising",
+   "authors": [
+    "Meghan R. Busse",
+    "Marc Rysman"
+   ],
+   "year": 2005,
+   "venue": "RAND Journal of Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Who Wins the Olympic Games: Economic Resources and Medal Totals",
+   "authors": [
+    "Andrew B. Bernard",
+    "Meghan R. Busse"
+   ],
+   "year": 2004,
+   "venue": "Review of Economics and Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Firm Financial Condition and Airline Price Wars",
+   "authors": [
+    "Meghan R. Busse"
+   ],
+   "year": 2002,
+   "venue": "RAND Journal of Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Multimarket Contact and Price Coordination in the Cellular Telephone Industry",
+   "authors": [
+    "Meghan R. Busse"
+   ],
+   "year": 2000,
+   "venue": "Journal of Economics & Management Strategy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

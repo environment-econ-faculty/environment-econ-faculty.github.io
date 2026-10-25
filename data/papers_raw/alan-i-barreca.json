@@ -1,0 +1,229 @@
+{
+ "slug": "alan-i-barreca",
+ "name": "Alan I. Barreca",
+ "sources": [
+  "https://alanbarreca.com/research",
+  "https://alanbarreca.com/Barreca%20-%20Oct%2025%202024.pdf",
+  "https://www.ioes.ucla.edu/person/alan-barreca/"
+ ],
+ "collected": "2026-10-25",
+ "notes": "Primary list from CV dated Oct 25, 2024 (17 publications, author order as in the CV's table); URLs from homepage 'selected publications' (14) and UCLA IoES page. Neither homepage, CV nor UCLA page lists working papers/R&Rs, and the CV's newest item is 2022, so any post-2022 work is not captured (no newer CV found on the site). Year for 'The impact of high ambient temperatures...' is 2020 per CV (homepage says 2019, online date). Journal of Environmental Economics and Management year 2012 per CV/homepage (UCLA page says 2011). Abstracts not shown on any source.",
+ "papers": [
+  {
+   "title": "High temperatures and electricity disconnections for low-income homes in California",
+   "authors": [
+    "Alan Barreca",
+    "Jisung Park",
+    "Paul Stainier"
+   ],
+   "year": 2022,
+   "venue": "Nature Energy",
+   "status": "已发表",
+   "url": "https://www.nature.com/articles/s41560-022-01134-2",
+   "abstract": null
+  },
+  {
+   "title": "Adaptation to Environmental Change: Agriculture and the Unexpected Incidence of the Acid Rain Program",
+   "authors": [
+    "Nicholas Sanders",
+    "Alan Barreca"
+   ],
+   "year": 2022,
+   "venue": "American Economic Journal: Economic Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Long-run pollution exposure and mortality: Evidence from the Acid Rain Program",
+   "authors": [
+    "Alan Barreca",
+    "Matthew Neidell",
+    "Nicholas Sanders"
+   ],
+   "year": 2021,
+   "venue": "Journal of Public Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Estimating causal effects of particulate matter regulation on mortality",
+   "authors": [
+    "Nicholas Sanders",
+    "Alan Barreca",
+    "Matthew Neidell"
+   ],
+   "year": 2020,
+   "venue": "Epidemiology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The impact of high ambient temperatures on delivery timing and gestational lengths",
+   "authors": [
+    "Alan Barreca",
+    "Jessamyn Schaller"
+   ],
+   "year": 2020,
+   "venue": "Nature Climate Change",
+   "status": "已发表",
+   "url": "https://www.nature.com/articles/s41558-019-0632-4",
+   "abstract": null
+  },
+  {
+   "title": "Maybe Next Month? Temperature Shocks and Dynamic Adjustments in Birth Rates",
+   "authors": [
+    "Alan Barreca",
+    "Melanie Guldi",
+    "Olivier Deschenes"
+   ],
+   "year": 2018,
+   "venue": "Demography",
+   "status": "已发表",
+   "url": "https://link.springer.com/article/10.1007/s13524-018-0690-7",
+   "abstract": null
+  },
+  {
+   "title": "Does Hot Weather Affect Human Fertility?",
+   "authors": [
+    "Alan Barreca"
+   ],
+   "year": 2017,
+   "venue": "IZA World of Labor",
+   "status": "已发表",
+   "url": "https://wol.iza.org/articles/does-hot-weather-affect-human-fertility/long",
+   "abstract": null
+  },
+  {
+   "title": "Adapting to Climate Change: The Remarkable Decline in the U.S. Temperature-Mortality Relationship over the 20th Century",
+   "authors": [
+    "Alan Barreca",
+    "Karen Clay",
+    "Olivier Deschenes",
+    "Michael Greenstone",
+    "Joseph Shapiro"
+   ],
+   "year": 2016,
+   "venue": "Journal of Political Economy",
+   "status": "已发表",
+   "url": "https://www.journals.uchicago.edu/doi/10.1086/684582",
+   "abstract": null
+  },
+  {
+   "title": "Success is Something to Sneeze At: Influenza Mortality in Cities that Participate in the Super Bowl",
+   "authors": [
+    "Charles Stoecker",
+    "Nicholas Sanders",
+    "Alan Barreca"
+   ],
+   "year": 2016,
+   "venue": "American Journal of Health Economics",
+   "status": "已发表",
+   "url": "https://www.journals.uchicago.edu/doi/10.1162/AJHE_a_00036",
+   "abstract": null
+  },
+  {
+   "title": "Heaping-Induced Bias in Regression Discontinuity Designs",
+   "authors": [
+    "Alan Barreca",
+    "Jason Lindo",
+    "Glen Waddell"
+   ],
+   "year": 2016,
+   "venue": "Economic Inquiry",
+   "status": "已发表",
+   "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ecin.12225",
+   "abstract": null
+  },
+  {
+   "title": "Convergence in Adaptation to Climate Change: Evidence from High Temperatures and Mortality, 1900-2004",
+   "authors": [
+    "Alan Barreca",
+    "Karen Clay",
+    "Olivier Deschenes",
+    "Michael Greenstone",
+    "Joseph Shapiro"
+   ],
+   "year": 2015,
+   "venue": "American Economic Review: Papers and Proceedings",
+   "status": "已发表",
+   "url": "https://www.aeaweb.org/articles?id=10.1257/aer.p20151028",
+   "abstract": null
+  },
+  {
+   "title": "A Pint for a Pound? Minimum Drinking Age Laws and Birth Outcomes",
+   "authors": [
+    "Alan Barreca",
+    "Marianne Page"
+   ],
+   "year": 2015,
+   "venue": "Health Economics",
+   "status": "已发表",
+   "url": "https://onlinelibrary.wiley.com/doi/10.1002/hec.3026",
+   "abstract": null
+  },
+  {
+   "title": "Agricultural Policy, Migration, and Malaria in the United States in the 1930s",
+   "authors": [
+    "Alan Barreca",
+    "Price Fishback",
+    "Shawn Kantor"
+   ],
+   "year": 2012,
+   "venue": "Explorations in Economic History",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/abs/pii/S0014498312000198",
+   "abstract": null
+  },
+  {
+   "title": "Absolute Humidity, Temperature, and Influenza Mortality: 30 Years of County-Level Evidence from the United States",
+   "authors": [
+    "Alan Barreca",
+    "Jay Shimshack"
+   ],
+   "year": 2012,
+   "venue": "American Journal of Epidemiology",
+   "status": "已发表",
+   "url": "https://academic.oup.com/aje/article/176/suppl_7/S114/112150",
+   "abstract": null
+  },
+  {
+   "title": "Climate Change, Humidity, and Mortality in the United States",
+   "authors": [
+    "Alan Barreca"
+   ],
+   "year": 2012,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/pii/S0095069611001033",
+   "abstract": null
+  },
+  {
+   "title": "Saving Babies? Revisiting the Effect of Very Low Birth Weight Classification",
+   "authors": [
+    "Alan Barreca",
+    "Melanie Guldi",
+    "Jason Lindo",
+    "Glen Waddell"
+   ],
+   "year": 2011,
+   "venue": "Quarterly Journal of Economics",
+   "status": "已发表",
+   "url": "https://academic.oup.com/qje/article-abstract/126/4/2117/1924019",
+   "abstract": null
+  },
+  {
+   "title": "The Long-Term Economic Impact of In Utero and Postnatal Exposure to Malaria",
+   "authors": [
+    "Alan Barreca"
+   ],
+   "year": 2010,
+   "venue": "Journal of Human Resources",
+   "status": "已发表",
+   "url": "https://jhr.uwpress.org/content/45/4/865",
+   "abstract": null
+  }
+ ]
+}

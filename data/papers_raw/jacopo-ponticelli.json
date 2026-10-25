@@ -1,0 +1,299 @@
+{
+ "slug": "jacopo-ponticelli",
+ "name": "Jacopo Ponticelli",
+ "sources": [
+  "https://jacopoponticelli.com/research.html",
+  "https://jacopoponticelli.com/papers/Ponticelli_CV.pdf"
+ ],
+ "collected": "2026-10-25",
+ "notes": "Homepage research page (primary) cross-checked with CV dated Jan 2026. Author lists follow the source's '(with ...)' convention with Ponticelli listed first, so true byline order may differ; coauthor names kept as written (initials where the page uses initials). Eclipses paper: homepage says 'Accepted' at AEJ: Applied, CV (Jan 2026) says R&R; used homepage (status forthcoming). Working-paper years are not given by the sources; 2026 (CV update year) used as a placeholder. Homepage titles used where CV differs (CV: 'The Labor Effects of Pro-Labor Bias in Bankruptcy: Evidence from Brazil'; CV merges climate-reallocation titles). 'Industrialization without Innovation' coauthors from CV (adds Marti Mestieri vs homepage). Mincerian chapter year 2014 per CV (homepage says 2016). Included non-refereed review/handbook/book-chapter items; excluded 'Bank Adaptation to Climate Risk' (work in progress). No abstracts on page.",
+ "papers": [
+  {
+   "title": "Agricultural Productivity and Structural Transformation: Evidence from Brazil",
+   "authors": [
+    "Jacopo Ponticelli",
+    "Paula Bustos",
+    "Bruno Caprettini"
+   ],
+   "year": 2016,
+   "venue": "American Economic Review",
+   "status": "已发表",
+   "url": "http://dx.doi.org/10.1257/aer.20131061",
+   "abstract": null
+  },
+  {
+   "title": "Court Enforcement, Bank Loans and Firm Investment: Evidence from a Bankruptcy Reform in Brazil",
+   "authors": [
+    "Jacopo Ponticelli",
+    "Leonardo S. Alencar"
+   ],
+   "year": 2016,
+   "venue": "Quarterly Journal of Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1093/qje/qjw015",
+   "abstract": null
+  },
+  {
+   "title": "Credit Allocation under Economic Stimulus: Evidence from China",
+   "authors": [
+    "Jacopo Ponticelli",
+    "Lin William Cong",
+    "Haoyu Gao",
+    "Xiaoguang Yang"
+   ],
+   "year": 2019,
+   "venue": "Review of Financial Studies",
+   "status": "已发表",
+   "url": "https://doi.org/10.1093/rfs/hhz008",
+   "abstract": null
+  },
+  {
+   "title": "Austerity and Anarchy: Budget Cuts and Social Unrest in Europe, 1919-2008",
+   "authors": [
+    "Jacopo Ponticelli",
+    "Joachim Voth"
+   ],
+   "year": 2020,
+   "venue": "Journal of Comparative Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jce.2019.09.007",
+   "abstract": null
+  },
+  {
+   "title": "Capital Accumulation and Structural Transformation",
+   "authors": [
+    "Jacopo Ponticelli",
+    "Paula Bustos",
+    "Gabriel Garber"
+   ],
+   "year": 2020,
+   "venue": "Quarterly Journal of Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1093/qje/qjz044",
+   "abstract": null
+  },
+  {
+   "title": "Going Bankrupt in China",
+   "authors": [
+    "Jacopo Ponticelli",
+    "Bo Li"
+   ],
+   "year": 2022,
+   "venue": "Review of Finance",
+   "status": "已发表",
+   "url": "https://doi.org/10.1093/rof/rfab023",
+   "abstract": null
+  },
+  {
+   "title": "Revealing Corruption: Firm and Worker Level Evidence from Brazil",
+   "authors": [
+    "Jacopo Ponticelli",
+    "E. Colonnelli",
+    "S. Lagaras",
+    "M. Prem",
+    "M. Tsoutsoura"
+   ],
+   "year": 2022,
+   "venue": "Journal of Financial Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jfineco.2021.12.013",
+   "abstract": null
+  },
+  {
+   "title": "The Labor Effects of Judicial Bias in Bankruptcy",
+   "authors": [
+    "Jacopo Ponticelli",
+    "A. Araujo",
+    "R. Ferreira",
+    "S. Lagaras",
+    "Flavio Moraes",
+    "M. Tsoutsoura"
+   ],
+   "year": 2023,
+   "venue": "Journal of Financial Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jfineco.2023.103720",
+   "abstract": null
+  },
+  {
+   "title": "Consumption Smoothing or Consumption Binging? The effects of government-led consumer credit expansion in Brazil",
+   "authors": [
+    "Jacopo Ponticelli",
+    "Gabriel Garber",
+    "Atif Mian",
+    "Amir Sufi"
+   ],
+   "year": 2024,
+   "venue": "Journal of Financial Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jfineco.2024.103834",
+   "abstract": null
+  },
+  {
+   "title": "Language Barriers, Technology Adoption and Productivity: Evidence from Agriculture in India",
+   "authors": [
+    "Jacopo Ponticelli",
+    "Apoorv Gupta",
+    "Andrea Tesei"
+   ],
+   "year": 2026,
+   "venue": "Review of Economics and Statistics",
+   "status": "即将发表",
+   "url": "https://doi.org/10.1162/rest_a_01501",
+   "abstract": null
+  },
+  {
+   "title": "Eclipses and the Memory of Revolutions: Evidence from China",
+   "authors": [
+    "Jacopo Ponticelli",
+    "Meng Miao",
+    "Yi Shao"
+   ],
+   "year": 2026,
+   "venue": "American Economic Journal: Applied Economics",
+   "status": "即将发表",
+   "url": "https://jacopoponticelli.com/papers/Ponticelli_18_ChinaEclipsesRevolution.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Information Frictions and Take-up of Government Credit Programs",
+   "authors": [
+    "Jacopo Ponticelli",
+    "Pulak Ghosh",
+    "Apoorv Gupta",
+    "Andrea Tesei"
+   ],
+   "year": 2026,
+   "venue": "Economic Journal",
+   "status": "修改重投",
+   "url": "https://jacopoponticelli.com/papers/Ponticelli_12_InformationFrictions.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Pricing the Priceless: The Financial Cost of Biodiversity Conservation",
+   "authors": [
+    "Jacopo Ponticelli",
+    "Fukang Chen",
+    "Minhao Chen",
+    "Lin William Cong",
+    "Haoyu Gao"
+   ],
+   "year": 2026,
+   "venue": "Journal of Financial Economics",
+   "status": "修改重投",
+   "url": "https://jacopoponticelli.com/papers/Ponticelli_21_Biodiversity.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Temperature, Adaptation and Local Industry Concentration",
+   "authors": [
+    "Jacopo Ponticelli",
+    "Qiping Xu",
+    "Stefan Zeume"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://jacopoponticelli.com/papers/Ponticelli_15_TemperatureConcentration.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Climate Change and the Spatial Reallocation of Capital",
+   "authors": [
+    "Jacopo Ponticelli",
+    "Christoph Albert",
+    "Paula Bustos",
+    "Martí Mestieri"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://jacopoponticelli.com/papers/Ponticelli_16a_Capital.pdf",
+   "abstract": null
+  },
+  {
+   "title": "The Effects of Climate Change on Labor Reallocation",
+   "authors": [
+    "Jacopo Ponticelli",
+    "Christoph Albert",
+    "Paula Bustos",
+    "Martí Mestieri"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://jacopoponticelli.com/papers/Ponticelli_16b_Labor.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Industrialization without Innovation",
+   "authors": [
+    "Jacopo Ponticelli",
+    "Paula Bustos",
+    "Martí Mestieri",
+    "Joan Monras",
+    "Juanma Castro-Vincenzi"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://jacopoponticelli.com/papers/Ponticelli_17_IndustrializationInnovation.pdf",
+   "abstract": null
+  },
+  {
+   "title": "The International Transmission of Democratic Values: Evidence from the African Diaspora",
+   "authors": [
+    "Jacopo Ponticelli",
+    "Marco Manacorda",
+    "Andrea Tesei"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://jacopoponticelli.com/papers/Ponticelli_20_MigrationGoogle.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Debt and Bankruptcy Resolution in China",
+   "authors": [
+    "Jacopo Ponticelli",
+    "Edith Hotchkiss",
+    "Kose John",
+    "Bo Li",
+    "Wei Wang"
+   ],
+   "year": 2023,
+   "venue": "Annual Review of Financial Economics",
+   "status": "已发表",
+   "url": "https://www.dropbox.com/s/z9pbuov1eetj160/ChinaARFE.pdf?raw1",
+   "abstract": null
+  },
+  {
+   "title": "Household Debt and Recession in Brazil",
+   "authors": [
+    "Jacopo Ponticelli",
+    "Gabriel Garber",
+    "Atif Mian",
+    "Amir Sufi"
+   ],
+   "year": 2019,
+   "venue": "Handbook of U.S. Consumer Economics",
+   "status": "已发表",
+   "url": "https://www.dropbox.com/s/qfit37fr0sc1awf/brazil_hhd_hb.pdf?raw=1",
+   "abstract": null
+  },
+  {
+   "title": "A New Dataset on Mincerian Returns",
+   "authors": [
+    "Jacopo Ponticelli",
+    "Francesco Caselli",
+    "Federico Rossi"
+   ],
+   "year": 2014,
+   "venue": "Technology Differences over Space and Time (Princeton University Press, book chapter)",
+   "status": "已发表",
+   "url": "https://jacopoponticelli.com/papers/Ponticelli_11_MincerianReturns.pdf",
+   "abstract": null
+  }
+ ]
+}

@@ -1,0 +1,345 @@
+{
+ "slug": "r-jisung-park",
+ "name": "R. Jisung Park",
+ "sources": [
+  "https://rjisungpark.com/research/",
+  "https://www.rjisungpark.com",
+  "https://www.russellsage.org/sites/default/files/2024-03/jisung_park_cv_2023.pdf"
+ ],
+ "collected": "2026-10-25",
+ "notes": "Primary source: current homepage research page (read via summarizing fetch; the 2023 CV is outdated and used only to resolve author order/year for older papers). Co-author lists on newer papers come from 'with ...' phrasing, so Park is placed FIRST by convention and true byline order is unverified. Science 2026 paper: homepage says 'with Simon Greenhill, Solomon Hsiang, and co-authors' - author list incomplete. Years of undated working papers (under review / draft on request) set to 2026; 'Will We Adapt?' set to 2017 (dissertation award year); JHR year 2021 per CV (homepage says 2020). 'Under review' papers mapped to working paper (targets: Economic Journal, J. Public Economics Short Papers, PNAS, Env. & Resource Economics). Skipped: book Slow Burn, 2010 book chapter 'Economic Modeling of Climate Change', 'In progress' items, IZA DP 14560 (2023 CV only, not on homepage). 'Draft on request' working papers are included.",
+ "papers": [
+  {
+   "title": "Using Markets to Adapt to Climate Change",
+   "authors": [
+    "R. Jisung Park",
+    "Simon Greenhill",
+    "Solomon Hsiang"
+   ],
+   "year": 2026,
+   "venue": "Science",
+   "status": "已发表",
+   "url": "https://www.science.org/doi/10.1126/science.aea7431",
+   "abstract": null
+  },
+  {
+   "title": "Efficient Curve Fitting with Penalized B-Splines for Oceanographic and Ecological Applications",
+   "authors": [
+    "R. Jisung Park",
+    "Kwan-Young Bak",
+    "Dong-Young Lee",
+    "Ju-Seong Lee",
+    "Hee-Jung Jee",
+    "Ja-Yong Koo",
+    "Jae-Hwan Jhong"
+   ],
+   "year": 2025,
+   "venue": "Scientific Reports",
+   "status": "已发表",
+   "url": "https://www.nature.com/articles/s41598-025-05779-3",
+   "abstract": null
+  },
+  {
+   "title": "Heat Stress and the Labour Force",
+   "authors": [
+    "R. Jisung Park",
+    "Shouro Dasgupta",
+    "Elizabeth Robinson",
+    "Soheil Shayegh",
+    "Francesco Bosello",
+    "Simon Gosling"
+   ],
+   "year": 2024,
+   "venue": "Nature Reviews Earth & Environment",
+   "status": "已发表",
+   "url": "https://www.nature.com/articles/s43017-024-00606-1",
+   "abstract": null
+  },
+  {
+   "title": "Workers and the Green-Energy Transition: Evidence from 300 Million Job Transitions",
+   "authors": [
+    "R. Jisung Park",
+    "Mark Curtis",
+    "Layla O'Kane"
+   ],
+   "year": 2024,
+   "venue": "Environmental and Energy Policy and the Economy",
+   "status": "已发表",
+   "url": "https://www.nber.org/papers/w31539",
+   "abstract": null
+  },
+  {
+   "title": "High Temperatures and Electricity Disconnections for Low-Income Homes in California",
+   "authors": [
+    "Alan Barreca",
+    "R. Jisung Park",
+    "Paul Stainier"
+   ],
+   "year": 2023,
+   "venue": "Nature Energy",
+   "status": "已发表",
+   "url": "https://www.nature.com/articles/s41560-022-01134-2",
+   "abstract": null
+  },
+  {
+   "title": "The Effect of Natural Disasters on Human Capital in the United States",
+   "authors": [
+    "R. Jisung Park",
+    "Isaac Opper",
+    "Lucas Husted"
+   ],
+   "year": 2023,
+   "venue": "Nature Human Behaviour",
+   "status": "已发表",
+   "url": "https://doi.org/10.1038/s41562-023-01610-z",
+   "abstract": null
+  },
+  {
+   "title": "Learning is Inhibited by Heat Exposure, Both Internationally and Within the U.S.",
+   "authors": [
+    "R. Jisung Park",
+    "A. Patrick Behrer",
+    "Joshua Goodman"
+   ],
+   "year": 2021,
+   "venue": "Nature Human Behaviour",
+   "status": "已发表",
+   "url": "https://www.nature.com/articles/s41562-020-00959-9",
+   "abstract": null
+  },
+  {
+   "title": "Heat Has Larger Impacts on Labor in Poorer Areas",
+   "authors": [
+    "A. Patrick Behrer",
+    "R. Jisung Park",
+    "Gernot Wagner",
+    "Colleen Golja",
+    "David Keith"
+   ],
+   "year": 2021,
+   "venue": "Environmental Research Communications",
+   "status": "已发表",
+   "url": "https://iopscience.iop.org/article/10.1088/2515-7620/abffa3/pdf",
+   "abstract": null
+  },
+  {
+   "title": "Heat and Learning",
+   "authors": [
+    "R. Jisung Park",
+    "Joshua Goodman",
+    "Mike Hurwitz",
+    "Jonathan Smith"
+   ],
+   "year": 2020,
+   "venue": "American Economic Journal: Economic Policy",
+   "status": "已发表",
+   "url": "https://www.aeaweb.org/articles?id=10.1257/pol.20180612",
+   "abstract": null
+  },
+  {
+   "title": "Hot Temperature and High Stakes Performance",
+   "authors": [
+    "R. Jisung Park"
+   ],
+   "year": 2021,
+   "venue": "Journal of Human Resources",
+   "status": "已发表",
+   "url": "https://www.dropbox.com/s/wtvoneni5kgok4k/JHR572_03Park_1pp.pdf?dl=0",
+   "abstract": null
+  },
+  {
+   "title": "Households and Heat Stress: Estimating the Distributional Consequences of Climate Change",
+   "authors": [
+    "R. Jisung Park",
+    "Mook Bangalore",
+    "Evan Sandhoefner",
+    "Stephane Hallegatte"
+   ],
+   "year": 2018,
+   "venue": "Environment and Development Economics",
+   "status": "已发表",
+   "url": "https://www.cambridge.org/core/journals/environment-and-development-economics/article/abs/households-and-heat-stress-estimating-the-distributional-consequences-of-climate-change/8F99718D1EB402EEF82EE4C2D7579586",
+   "abstract": null
+  },
+  {
+   "title": "Temperature Stress and the Direct Impact of Climate Change: A Review of an Emerging Literature",
+   "authors": [
+    "Geoffrey Heal",
+    "R. Jisung Park"
+   ],
+   "year": 2016,
+   "venue": "Review of Environmental Economics and Policy",
+   "status": "已发表",
+   "url": "https://www.dropbox.com/s/l2y37jnhfl60vss/heal_park_2016reep_direct_impacts_climate_review.pdf?dl=0",
+   "abstract": null
+  },
+  {
+   "title": "Combining Multiple Climate Policy Instruments: How Not to Do It",
+   "authors": [
+    "Sam Fankhauser",
+    "Cameron Hepburn",
+    "R. Jisung Park"
+   ],
+   "year": 2011,
+   "venue": "Climate Change Economics",
+   "status": "已发表",
+   "url": "https://www.worldscientific.com/doi/abs/10.1142/S2010007810000169",
+   "abstract": null
+  },
+  {
+   "title": "Climate Change and Human Capital",
+   "authors": [
+    "R. Jisung Park",
+    "A. Patrick Behrer",
+    "Y. Zhang"
+   ],
+   "year": 2026,
+   "venue": "Handbook of the Economics of Climate Change",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/chapter/handbook/abs/pii/S305072942600005X",
+   "abstract": null
+  },
+  {
+   "title": "Mandatory Climate Adaptation: Evidence from Firms' Investments in Workplace Heat Safety",
+   "authors": [
+    "R. Jisung Park",
+    "A. Patrick Behrer",
+    "Nora Pankratz"
+   ],
+   "year": 2025,
+   "venue": "Journal of Political Economy: Microeconomics",
+   "status": "修改重投",
+   "url": "https://www.dropbox.com/scl/fi/yydd463qeu1xaqn075p4o/manuscript_behrer_pankratz_park_2025.pdf?rlkey=q5dcg7m4in0rkfnhc39txyl36&dl=0",
+   "abstract": null
+  },
+  {
+   "title": "Local Labor Market Conditions and Adaptation to Climate Change: The Role of Workers' Outside Options",
+   "authors": [
+    "R. Jisung Park",
+    "Paul Stainier",
+    "A. Patrick Behrer",
+    "Nora Pankratz"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://www.dropbox.com/scl/fi/dciy57bic1sxsmf4d7ges/hosh2_paper.pdf?rlkey=10ke2zp6osyrbbnatgesuvc4t&dl=0",
+   "abstract": null
+  },
+  {
+   "title": "Better Outside Options Reduce Workplace Injuries",
+   "authors": [
+    "R. Jisung Park",
+    "Anna Stansbury",
+    "Paul Stainier"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Workplace Heat Burdens the Poor and Young: Quantifying Individual Climate Risk in the US Labor Market",
+   "authors": [
+    "R. Jisung Park",
+    "Paul Stainier",
+    "A. Patrick Behrer"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://www.dropbox.com/scl/fi/y1509krdmydcyto5cbshz/SBP_Manuscript.pdf?rlkey=jp0b3k2vzh7wkv8bnvcp60zwm&dl=0",
+   "abstract": null
+  },
+  {
+   "title": "The Unequal Effect of Extreme Heat on Everyday Mobility",
+   "authors": [
+    "R. Jisung Park",
+    "Husel Husile",
+    "Hwiyoung P. Lee"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Minimum Wages and Workplace Injuries",
+   "authors": [
+    "R. Jisung Park",
+    "Michael Davies",
+    "Anna Stansbury"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Air Pollution and Learning",
+   "authors": [
+    "R. Jisung Park",
+    "A. Patrick Behrer",
+    "Joshua Goodman",
+    "Parker Goyer"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Temperature and Labor Market Outcomes in South Korea",
+   "authors": [
+    "R. Jisung Park",
+    "Hwiyoung P. Lee"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Why Environmental Economics Can't Avoid the Jobs Question",
+   "authors": [
+    "R. Jisung Park",
+    "E. Mark Curtis",
+    "Paul Stainier"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Feeling the Heat: Temperature, Physiology, and the Wealth of Nations",
+   "authors": [
+    "R. Jisung Park",
+    "Geoffrey Heal"
+   ],
+   "year": 2013,
+   "venue": "NBER Working Paper",
+   "status": "工作论文",
+   "url": "https://www.nber.org/papers/w19725",
+   "abstract": null
+  },
+  {
+   "title": "Will We Adapt? Labor and Adaptation to Climate Change",
+   "authors": [
+    "R. Jisung Park",
+    "A. Patrick Behrer"
+   ],
+   "year": 2017,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

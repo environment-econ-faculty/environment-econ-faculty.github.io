@@ -4558,6 +4558,23 @@
 ],
 "remote": []
 },
+"insuranceguarantyfunds": {
+"title": "Insurance Guaranty Funds",
+"authors": [
+"B. Abramson",
+"I. Sen",
+"A.M. Tenekedijieva",
+"Parinitha Sastry"
+],
+"unresolved": [
+"B. Abramson"
+],
+"owners": [
+"ishita-sen",
+"parinitha-sastry"
+],
+"remote": []
+},
 "themutualfundindustrycompetitionandinvestorwelfare": {
 "title": "The Mutual Fund Industry: Competition and Investor Welfare",
 "authors": [
@@ -5259,6 +5276,473 @@
 "Rohini Pande"
 ]
 ]
+},
+"beyondthethermostatamixedmethodsstudyofheatingdecisionsandthermaldiscomfortinsub": {
+"title": "Beyond the thermostat: A mixed-methods study of heating decisions and thermal discomfort in subsidized housing",
+"authors": [
+"K. Wade",
+"D. Nock",
+"D.M. Konisky",
+"S. Carley",
+"B. Hellerstein",
+"A. Knasin"
+],
+"unresolved": [
+"D. Nock",
+"D.M. Konisky",
+"A. Knasin"
+],
+"owners": [
+"sanya-carley"
+],
+"remote": []
+},
+"driversoflowincomesolaradoptionacrossplacepeopleandperceptions": {
+"title": "Drivers of low-income solar adoption across place, people, and perceptions",
+"authors": [
+"C.C. Montanes",
+"G. Barbose",
+"S. Carley",
+"S. Forrester",
+"D. Konisky",
+"T. Memmott",
+"E. O'Shaughnessy",
+"M. Yozwiak"
+],
+"unresolved": [
+"D. Konisky"
+],
+"owners": [
+"sanya-carley"
+],
+"remote": []
+},
+"jobsandjusticeanevaluationofthedurabilityofthebidenadministrationsenergyandclima": {
+"title": "Jobs and justice: An evaluation of the durability of the Biden administration's energy and climate agenda under the Trump administration",
+"authors": [
+"S. Gadzanku",
+"M. Ahmed",
+"S. Carley"
+],
+"unresolved": [
+"M. Ahmed"
+],
+"owners": [
+"sanya-carley"
+],
+"remote": []
+},
+"surveyingglobalcoaltransitionsvariablepluralanduneven": {
+"title": "Surveying global coal transitions: Variable, plural, and uneven",
+"authors": [
+"M.D. Woodworth",
+"J. Jacquet",
+"B. Capobianco",
+"S. Carley",
+"J. Haggerty",
+"S. Knuth",
+"A. Lis",
+"T. Measham",
+"K. Rignall"
+],
+"unresolved": [
+"M.D. Woodworth",
+"J. Jacquet",
+"B. Capobianco",
+"J. Haggerty",
+"S. Knuth",
+"A. Lis",
+"T. Measham",
+"K. Rignall"
+],
+"owners": [
+"sanya-carley"
+],
+"remote": []
+},
+"modernelectricvehicleandbatterymanufacturingboomtownsandjusttransitions": {
+"title": "Modern electric vehicle and battery manufacturing boom towns and just transitions",
+"authors": [
+"S. Carley",
+"S. Lepley",
+"C. Lane",
+"J. Adams",
+"V. Reina"
+],
+"unresolved": [
+"S. Lepley",
+"C. Lane",
+"J. Adams",
+"V. Reina"
+],
+"owners": [
+"sanya-carley"
+],
+"remote": []
+},
+"strengtheningthepathwaysbetweenresearchandpolicy": {
+"title": "Strengthening the pathways between research and policy",
+"authors": [
+"S. Carley",
+"K. Hayes",
+"E. Michelson"
+],
+"unresolved": [
+"K. Hayes",
+"E. Michelson"
+],
+"owners": [
+"sanya-carley"
+],
+"remote": []
+},
+"assessingdemographicvulnerabilityandweatherimpactsonutilitydisconnectionincalifo": {
+"title": "Assessing demographic vulnerability and weather impacts on utility disconnection in California",
+"authors": [
+"T. Memmott",
+"D.M. Konisky",
+"S. Carley"
+],
+"unresolved": [
+"D.M. Konisky"
+],
+"owners": [
+"sanya-carley"
+],
+"remote": []
+},
+"iearnedtherighttobuildthenextamericancarhowusautoworkersconfronttheenergytransit": {
+"title": "I earned the right to build the next American car\": How U.S. auto workers confront the energy transition and the shift to electric vehicles",
+"authors": [
+"J. Silva",
+"S. Carley",
+"D.M. Konisky"
+],
+"unresolved": [
+"D.M. Konisky"
+],
+"owners": [
+"sanya-carley"
+],
+"remote": []
+},
+"enablinganequitableenergytransitionthroughinclusiveresearch": {
+"title": "Enabling an equitable energy transition through inclusive research",
+"authors": [
+"A.P. Ravikumar",
+"E. Baker",
+"A. Bates",
+"D. Nock",
+"D. Venkataraman",
+"T. Johnson",
+"M. Ash",
+"S.Z. Attari",
+"K. Bowie",
+"S. Carley",
+"S. Castellanos",
+"M. Cha",
+"D.L. Clark",
+"D. Deane-Ryan",
+"D. Djokic",
+"J.C. Ford",
+"A. Goldstein",
+"E. Grubert",
+"L. Hu",
+"D.M. Kammen",
+"U. Kosar",
+"C. Miller",
+"M. Pastor",
+"M. Tuominen"
+],
+"unresolved": [
+"D. Venkataraman",
+"T. Johnson",
+"M. Ash",
+"K. Bowie",
+"M. Cha",
+"D.L. Clark",
+"D. Deane-Ryan",
+"J.C. Ford",
+"L. Hu",
+"U. Kosar",
+"M. Tuominen"
+],
+"owners": [
+"sanya-carley"
+],
+"remote": [
+[
+"A. P. Ravikumar",
+"E. Baker",
+"A. Bates",
+"D. Nock",
+"D. Venkataraman",
+"T. Johnson",
+"M. Ash",
+"S. Z. Attari",
+"K. Bowie",
+"S. Carley",
+"S. Castellanos",
+"M. Cha",
+"D. L. Clark",
+"D. Deane-Ryan",
+"D. Djokic",
+"J. C. Ford",
+"A. Goldstein",
+"E. Grubert",
+"L. Hu",
+"D. M. Kammen",
+"U. Kosar",
+"C. Miller",
+"M. Pastor",
+"M. Tuominen"
+]
+]
+},
+"equitytechnologicalinnovationandsustainablebehaviorinalowcarbonfuture": {
+"title": "Equity, technological innovation and sustainable behavior in a low-carbon future",
+"authors": [
+"B.K. Sovacool",
+"P. Newell",
+"S. Carley",
+"J. Fanzo"
+],
+"unresolved": [
+"P. Newell",
+"J. Fanzo"
+],
+"owners": [
+"sanya-carley"
+],
+"remote": []
+},
+"thepersistenceofhouseholdenergysecurityduringthecovid19pandemic": {
+"title": "The persistence of household energy security during the COVID-19 pandemic",
+"authors": [
+"D.M. Konisky",
+"S. Carley",
+"M. Graff",
+"T. Memmott"
+],
+"unresolved": [
+"D.M. Konisky"
+],
+"owners": [
+"sanya-carley"
+],
+"remote": []
+},
+"anenergyeconomyeconometricmodelforconductingstatelevelenergypolicyanalysis": {
+"title": "An Energy-Economy Econometric Model for Conducting State-Level Energy Policy Analysis",
+"authors": [
+"Z. Wendling",
+"D. Warren",
+"B. Rubin",
+"S. Carley",
+"K. Richards"
+],
+"unresolved": [
+"Z. Wendling",
+"D. Warren",
+"B. Rubin",
+"K. Richards"
+],
+"owners": [
+"sanya-carley"
+],
+"remote": []
+},
+"energyinfrastructurenimbyismandpublicopinionasystematicliteraturereviewofthreede": {
+"title": "Energy infrastructure, NIMBYism, and public opinion: A systematic literature review of three decades of empirical survey literature",
+"authors": [
+"S. Carley",
+"K. Konisky",
+"Z. Atiq",
+"N. Land"
+],
+"unresolved": [
+"K. Konisky"
+],
+"owners": [
+"sanya-carley"
+],
+"remote": [
+[
+"Sanya Carley",
+"David M Konisky",
+"Zoya Atiq",
+"Nick Land"
+]
+]
+},
+"thejusticeandequityimplicationsforthecleanenergytransition": {
+"title": "The justice and equity implications for the clean energy transition",
+"authors": [
+"S. Carley",
+"D. Konisky"
+],
+"unresolved": [
+"D. Konisky"
+],
+"owners": [
+"sanya-carley"
+],
+"remote": []
+},
+"areallelectronsthesameevaluatingsupportforlocaltransmissionlinesthroughasurveyex": {
+"title": "Are all electrons the same? Evaluating support for local transmission lines through a survey experiment",
+"authors": [
+"S. Carley",
+"S. Ansolabehere",
+"D. Konisky"
+],
+"unresolved": [
+"D. Konisky"
+],
+"owners": [
+"sanya-carley"
+],
+"remote": []
+},
+"costimplicationsforautomakerscompliancewithemissionstandardsfromzeroemissionsveh": {
+"title": "Cost implications for automakers' compliance with emission standards from Zero Emissions Vehicle mandate",
+"authors": [
+"A. Jenn",
+"S. Hardman",
+"S. Carley",
+"N. Zirogiannis",
+"D. Duncan",
+"J. D. Graham"
+],
+"unresolved": [
+"A. Jenn",
+"S. Hardman"
+],
+"owners": [
+"sanya-carley"
+],
+"remote": []
+},
+"assessingthedemandforelectricvehiclesunderfuturecostandtechnologicalscenarios": {
+"title": "Assessing the Demand for Electric Vehicles under Future Cost and Technological Scenarios",
+"authors": [
+"R. Krause",
+"B. Lane",
+"S. Carley",
+"J. Sperl",
+"J. Graham"
+],
+"unresolved": [
+"J. Sperl"
+],
+"owners": [
+"sanya-carley"
+],
+"remote": []
+},
+"estimatingstateandsubstateeconomiceffectsofacarbondioxidetaxpolicyanapplicationo": {
+"title": "Estimating State and Sub-State Economic Effects of a Carbon Dioxide Tax Policy: An Application of a New Multi-Region Energy-Economy Econometric Model",
+"authors": [
+"D. Warren",
+"Z. Wendling",
+"J. Bower-Bir",
+"H. Fields",
+"K. Richards",
+"S. Carley",
+"B. Rubin"
+],
+"unresolved": [
+"D. Warren",
+"Z. Wendling",
+"J. Bower-Bir",
+"H. Fields",
+"K. Richards",
+"B. Rubin"
+],
+"owners": [
+"sanya-carley"
+],
+"remote": []
+},
+"regulatingforinnovationandtechnologyadoptionthecaseofpluginvehicles": {
+"title": "Regulating for Innovation and Technology Adoption: The Case of Plug-In Vehicles",
+"authors": [
+"S. Siddiki",
+"J. Dumortier",
+"C. Curley",
+"S. Carley",
+"R. Krause"
+],
+"unresolved": [
+"C. Curley"
+],
+"owners": [
+"sanya-carley"
+],
+"remote": []
+},
+"notundermybackyardgeographicproximityandpublicacceptanceofccsfacilities": {
+"title": "Not Under My Backyard: Geographic proximity and public acceptance of CCS facilities",
+"authors": [
+"R. Krause",
+"S. Carley",
+"D. Warren",
+"J. Rupp",
+"J. Graham"
+],
+"unresolved": [
+"D. Warren",
+"J. Rupp"
+],
+"owners": [
+"sanya-carley"
+],
+"remote": []
+},
+"earlypublicimpressionsofterrestrialccsinacoalintensivestate": {
+"title": "Early public impressions of terrestrial CCS in a coal-intensive state",
+"authors": [
+"S. Carley",
+"R. Krause",
+"D. Warren",
+"J. Rupp",
+"J. Graham"
+],
+"unresolved": [
+"D. Warren",
+"J. Rupp"
+],
+"owners": [
+"sanya-carley"
+],
+"remote": []
+},
+"regulatorystringencyandpolicyadoptionreassessmentofrenewableportfoliostandards": {
+"title": "Regulatory stringency and policy adoption: Reassessment of renewable portfolio standards",
+"authors": [
+"S. Carley",
+"C. Miller"
+],
+"unresolved": [
+"C. Miller"
+],
+"owners": [
+"sanya-carley"
+],
+"remote": []
+},
+"tangledinthewiresanassessmentoftheexistingusrenewableenergylegalframework": {
+"title": "Tangled in the Wires: An Assessment of the Existing U.S. Renewable Energy Legal Framework",
+"authors": [
+"S. Carleyolsen"
+],
+"unresolved": [
+"S. Carleyolsen"
+],
+"owners": [
+"sanya-carley"
+],
+"remote": []
 },
 "aquacultureandtheresilienceofglobalfoodsystems": {
 "title": "Aquaculture and the Resilience of Global Food Systems",
@@ -6778,6 +7262,85 @@
 ],
 "owners": [
 "subhrendu-k-pattanayak"
+],
+"remote": []
+},
+"voltagequalityandeconomicactivity": {
+"title": "Voltage Quality and Economic Activity",
+"authors": [
+"Susanna Berkouwer",
+"P. Biscaye",
+"M. Mikdash",
+"S. Puller",
+"C. Wolfram"
+],
+"unresolved": [
+"M. Mikdash"
+],
+"owners": [
+"catherine-d-wolfram",
+"susanna-b-berkouwer"
+],
+"remote": []
+},
+"thedistributionofpowerfavoritismefficiencyandequityinenergyinfrastructure": {
+"title": "The Distribution of Power: Favoritism, Efficiency, and Equity in Energy Infrastructure",
+"authors": [
+"C. Wolfram",
+"Susanna Berkouwer",
+"F. Vial",
+"E. Hsu",
+"O. Kim",
+"E. Miguel"
+],
+"unresolved": [
+"C. Wolfram",
+"F. Vial"
+],
+"owners": [
+"susanna-b-berkouwer"
+],
+"remote": []
+},
+"distributiongridconstraintsonafricasenergytransitioncustomerlevelevidencefromhig": {
+"title": "Distribution Grid Constraints on Africa's Energy Transition: Customer-Level Evidence from High-Frequency Power-Quality Measurements",
+"authors": [
+"Susanna Berkouwer",
+"M. Bariya",
+"P. Biscaye",
+"M. Odero",
+"N. Klugman",
+"J. Adkins",
+"G. Flaspohler"
+],
+"unresolved": [
+"M. Bariya",
+"M. Odero",
+"N. Klugman",
+"J. Adkins",
+"G. Flaspohler"
+],
+"owners": [
+"susanna-b-berkouwer"
+],
+"remote": []
+},
+"integrityandunravelingincarbonoffsetmarkets": {
+"title": "Integrity and Unraveling in Carbon Offset Markets",
+"authors": [
+"E. Azevedo",
+"Susanna Berkouwer",
+"A. van Benthem",
+"P. Mishra",
+"A. Russo"
+],
+"unresolved": [
+"E. Azevedo",
+"P. Mishra",
+"A. Russo"
+],
+"owners": [
+"susanna-b-berkouwer"
 ],
 "remote": []
 },
