@@ -1,0 +1,655 @@
+{
+ "slug": "rob-dellink",
+ "name": "Rob Dellink",
+ "sources": [
+  "https://ideas.repec.org/f/pde459.html",
+  "https://ideas.repec.org/s/oec/envaaa.html (OECD Environment WP series, cross-checked)"
+ ],
+ "collected": "2026-11-06",
+ "notes": "No personal page; compiled from his RePEc profile (pde459; includes his earlier Wageningen/VU-era articles, same person) filtered to items on which he is an author, plus OECD Environment WP 86 from the IDEAS OECD series. Working papers kept only for OECD series (Environment, Economics Department, Trade and Environment); other-institution working papers, FEEM Sustainable Development Papers, conference papers, book and memoranda skipped. Items with a published journal version listed only as the journal version when RePEc titles matched.",
+ "papers": [
+  {
+   "title": "Plan Or React? Analysis Of Adaptation Costs And Benefits Using Integrated Assessment Models",
+   "authors": [
+    "Shardul Agrawala",
+    "Francesco Bosello",
+    "Carlo Carraro",
+    "Kelly De Bruin",
+    "Enrica De Cian",
+    "Rob Dellink",
+    "Elisa Lanzi"
+   ],
+   "year": 2011,
+   "venue": "Climate Change Economics (CCE)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Towards global carbon pricing: Direct and indirect linking of carbon markets",
+   "authors": [
+    "Rob Dellink",
+    "Stéphanie Jamet",
+    "Jean Chateau",
+    "Romain Duval"
+   ],
+   "year": 2014,
+   "venue": "OECD Journal: Economic Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Uncertainty and climate treaties: Does ignorance pay?",
+   "authors": [
+    "Rob Dellink",
+    "Michael Finus"
+   ],
+   "year": 2012,
+   "venue": "Resource and Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Sticks and carrots for the design of international climate agreements with renegotiations",
+   "authors": [
+    "Hans-Peter Weikard",
+    "Rob Dellink"
+   ],
+   "year": 2014,
+   "venue": "Annals of Operations Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Technology spillovers and stability of international climate coalitions",
+   "authors": [
+    "Miyuki Nagashima",
+    "Rob Dellink"
+   ],
+   "year": 2008,
+   "venue": "International Environmental Agreements: Politics, Law and Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Energy biased technical change: A CGE analysis",
+   "authors": [
+    "Vincent M. Otto",
+    "Andreas Loschel",
+    "Rob Dellink"
+   ],
+   "year": 2007,
+   "venue": "Resource and Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Pollution abatement in the Netherlands: A dynamic applied general equilibrium assessment",
+   "authors": [
+    "Rob Dellink",
+    "Ekko van Ierland"
+   ],
+   "year": 2006,
+   "venue": "Journal of Policy Modeling",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Shaping Baseline Scenarios of Economic Activity with CGE Models: Introduction to the Special Issue",
+   "authors": [
+    "Rob Dellink",
+    "Dominique Van der Mensbrugghe",
+    "Bert Saveyn"
+   ],
+   "year": 2020,
+   "venue": "Journal of Global Economic Analysis",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Can better technologies avoid all air pollution damages to the global economy?",
+   "authors": [
+    "François Chantret",
+    "Jean Chateau",
+    "Rob Dellink",
+    "Olivier Durand-Lasserve",
+    "Elisa Lanzi"
+   ],
+   "year": 2020,
+   "venue": "Climatic Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Sectoral and Regional Economic Consequences of Climate Change to 2060",
+   "authors": [
+    "Rob Dellink",
+    "Elisa Lanzi",
+    "Jean Chateau"
+   ],
+   "year": 2019,
+   "venue": "Environmental & Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The sectoral and regional economic consequences of outdoor air pollution to 2060",
+   "authors": [
+    "Elisa Lanzi",
+    "Rob Dellink",
+    "Jean Chateau"
+   ],
+   "year": 2018,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Stability and Effectiveness of Climate Coalitions",
+   "authors": [
+    "Kai Lessmann",
+    "Ulrike Kornek",
+    "Valentina Bosetti",
+    "Rob Dellink",
+    "Johannes Emmerling",
+    "Johan Eyckmans",
+    "Miyuki Nagashima",
+    "Hans-Peter Weikard",
+    "Zili Yang"
+   ],
+   "year": 2015,
+   "venue": "Environmental & Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Global implications of joint fossil fuel subsidy reform and nuclear phase-out: an economic analysis",
+   "authors": [
+    "Bertrand Magné",
+    "Jean Chateau",
+    "Rob Dellink"
+   ],
+   "year": 2014,
+   "venue": "Climatic Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Fatter the Tail, the Fatter the Climate Agreement",
+   "authors": [
+    "Rob Dellink",
+    "Thijs Dekker",
+    "Janina Ketterer"
+   ],
+   "year": 2013,
+   "venue": "Environmental & Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Alternative approaches for levelling carbon prices in a world with fragmented carbon markets",
+   "authors": [
+    "Elisa Lanzi",
+    "Jean Chateau",
+    "Rob Dellink"
+   ],
+   "year": 2012,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Drivers Of Stability Of Climate Coalitions In The Staco Model",
+   "authors": [
+    "Rob Dellink"
+   ],
+   "year": 2011,
+   "venue": "Climate Change Economics (CCE)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "International Climate Agreements Under Induced Technological Change",
+   "authors": [
+    "Miyuki Nagashima",
+    "Hans‐Peter Weikard",
+    "Kelly de Bruin",
+    "Rob Dellink"
+   ],
+   "year": 2011,
+   "venue": "Metroeconomica",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Bio-economic modeling of water quality improvements using a dynamic applied general equilibrium approach",
+   "authors": [
+    "Rob Dellink",
+    "Roy Brouwer",
+    "Vincent Linderhof",
+    "Karin Stone"
+   ],
+   "year": 2011,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Copenhagen Accord/Cancún Agreements Emission Pledges For 2020: Exploring Economic And Environmental Impacts",
+   "authors": [
+    "Rob Dellink",
+    "Gregory Briner",
+    "Christa Clapp"
+   ],
+   "year": 2011,
+   "venue": "Climate Change Economics (CCE)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "AGE assessment of interactions between climate change policy instruments and pre-existing taxes: the case of Ireland",
+   "authors": [
+    "Wiepke Wissema",
+    "Rob Dellink"
+   ],
+   "year": 2010,
+   "venue": "International Journal of Global Environmental Issues",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Renegotiations in the Greenhouse",
+   "authors": [
+    "Hans-Peter Weikard",
+    "Rob Dellink",
+    "Ekko Ierland"
+   ],
+   "year": 2010,
+   "venue": "Environmental & Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Stability of international climate coalitions -- A comparison of transfer schemes",
+   "authors": [
+    "Miyuki Nagashima",
+    "Rob Dellink",
+    "Ekko van Ierland",
+    "Hans-Peter Weikard"
+   ],
+   "year": 2009,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Environmental cost-benefit analysis of alternative timing strategies in greenhouse gas abatement: A data envelopment analysis approach",
+   "authors": [
+    "Timo Kuosmanen",
+    "Neil Bijsterbosch",
+    "Rob Dellink"
+   ],
+   "year": 2009,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Lessons learnt from a participatory integrated assessment of greenhouse gas emission reduction options in firms",
+   "authors": [
+    "Serge Stalpers",
+    "André Amstel",
+    "Rob Dellink",
+    "Ivo Mulder",
+    "Saskia Werners",
+    "Carolien Kroeze"
+   ],
+   "year": 2008,
+   "venue": "Mitigation and Adaptation Strategies for Global Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The stability likelihood of an international climate agreement",
+   "authors": [
+    "Rob Dellink",
+    "Michael Finus",
+    "Niels Olieman"
+   ],
+   "year": 2008,
+   "venue": "Environmental & Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do Abatement Quotas Lead To More Successful Climate Coalitions?",
+   "authors": [
+    "Juan‐Carlos Altamirano‐Cabrera",
+    "Michael Finus",
+    "Rob Dellink"
+   ],
+   "year": 2008,
+   "venue": "Manchester School",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Stability of Climate Coalitions in a Cartel Formation Game",
+   "authors": [
+    "Michael Finus",
+    "Ekko Ierland",
+    "Rob Dellink"
+   ],
+   "year": 2006,
+   "venue": "Economics of Governance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Biomass and multi-product crops for agricultural and energy production--an AGE analysis",
+   "authors": [
+    "Adriana M. Ignaciuk",
+    "Rob Dellink"
+   ],
+   "year": 2006,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Impact of climate policy on the Basque country",
+   "authors": [
+    "Mikel Gonzalez",
+    "Rob Dellink"
+   ],
+   "year": 2006,
+   "venue": "Economia Agraria y Recursos Naturales",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How to attribute market leakage to CDM projects",
+   "authors": [
+    "Frank Vöhringer",
+    "Timo Kuosmanen",
+    "Rob Dellink"
+   ],
+   "year": 2005,
+   "venue": "Climate Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Dynamic modelling of pollution abatement in a CGE framework",
+   "authors": [
+    "Rob Dellink",
+    "Marjan Hofkes",
+    "Ekko van Ierland",
+    "Harmen Verbruggen"
+   ],
+   "year": 2004,
+   "venue": "Economic Modelling",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A measure of sustainable national income for the Netherlands",
+   "authors": [
+    "Reyer Gerlagh",
+    "Rob Dellink",
+    "Marjan Hofkes",
+    "Harmen Verbruggen"
+   ],
+   "year": 2002,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An empirical analysis of dematerialisation:: Application to metal policies in The Netherlands",
+   "authors": [
+    "Rob Dellink",
+    "Patricia P. A. A. H. Kandelaars"
+   ],
+   "year": 2000,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Sustainable economic structures",
+   "authors": [
+    "Rob Dellink",
+    "M. Bennis",
+    "H. Verbruggen"
+   ],
+   "year": 1999,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Public finance resilience in the transition towards carbon neutrality: Modelling policy instruments in a global net-zero emissions",
+   "authors": [
+    "Jean Fouré",
+    "Rob Dellink",
+    "Elisa Lanzi",
+    "Filippo Pavanello"
+   ],
+   "year": 2023,
+   "venue": "OECD Environment Working Papers",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The long-term implications of the COVID-19 pandemic and recovery measures on environmental pressures: A quantitative exploration",
+   "authors": [
+    "Rob Dellink",
+    "Christine Arriola",
+    "Ruben Bibas",
+    "Elisa Lanzi",
+    "Frank van Tongeren"
+   ],
+   "year": 2021,
+   "venue": "OECD Environment Working Papers",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The consequences of a more resource efficient and circular economy for international trade patterns: A modelling assessment",
+   "authors": [
+    "Rob Dellink"
+   ],
+   "year": 2020,
+   "venue": "OECD Environment Working Papers",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic interactions between climate change and outdoor air pollution",
+   "authors": [
+    "Elisa Lanzi",
+    "Rob Dellink"
+   ],
+   "year": 2019,
+   "venue": "OECD Environment Working Papers",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Macroeconomics of the Circular Economy Transition: A Critical Review of Modelling Approaches",
+   "authors": [
+    "Andrew McCarthy",
+    "Rob Dellink",
+    "Ruben Bibas"
+   ],
+   "year": 2018,
+   "venue": "OECD Environment Working Papers",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "International trade consequences of climate change",
+   "authors": [
+    "Rob Dellink",
+    "Hyunjeong Hwang",
+    "Elisa Lanzi",
+    "Jean Chateau"
+   ],
+   "year": 2017,
+   "venue": "OECD Trade and Environment Working Papers",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Overview of the OECD ENV-Linkages Model: Version 3",
+   "authors": [
+    "Jean Chateau",
+    "Rob Dellink",
+    "Elisa Lanzi"
+   ],
+   "year": 2014,
+   "venue": "OECD Environment Working Papers",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Consequences of Climate Change Damages for Economic Growth: A Dynamic Quantitative Assessment",
+   "authors": [
+    "Rob Dellink",
+    "Elisa Lanzi",
+    "Jean Chateau",
+    "Francesco Bosello",
+    "Ramiro Parrado",
+    "Kelly de Bruin"
+   ],
+   "year": 2014,
+   "venue": "OECD Economics Department Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Addressing Competitiveness and Carbon Leakage Impacts Arising from Multiple Carbon Markets: A Modelling Assessment",
+   "authors": [
+    "Elisa Lanzi",
+    "Damian Mullaly",
+    "Jean Chateau",
+    "Rob Dellink"
+   ],
+   "year": 2013,
+   "venue": "OECD Environment Working Papers",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Economic Projection to 2050: The OECD \"ENV-Linkages\" Model Baseline",
+   "authors": [
+    "Jean Chateau",
+    "Cuauhtemoc Rebolledo",
+    "Rob Dellink"
+   ],
+   "year": 2011,
+   "venue": "OECD Environment Working Papers",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Costs, Revenues, and Effectiveness of the Copenhagen Accord Emission Pledges for 2020",
+   "authors": [
+    "Rob Dellink",
+    "Gregory Briner",
+    "Christa Clapp"
+   ],
+   "year": 2010,
+   "venue": "OECD Environment Working Papers",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic Aspects of Adaptation to Climate Change: Integrated Assessment Modelling of Adaptation Costs and Benefits",
+   "authors": [
+    "Kelly de Bruin",
+    "Rob Dellink",
+    "Shardul Agrawala"
+   ],
+   "year": 2009,
+   "venue": "OECD Environment Working Papers",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Economics of Climate Change Mitigation: How to Build the Necessary Global Action in a Cost-Effective Manner",
+   "authors": [
+    "Jean-Marc Burniaux",
+    "Jean Chateau",
+    "Rob Dellink",
+    "Romain Duval",
+    "Stéphanie Jamet"
+   ],
+   "year": 2009,
+   "venue": "OECD Economics Department Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Modelling of distributional impacts of energy subsidy reforms: an illustration with Indonesia",
+   "authors": [
+    "Olivier Durand-Lasserve",
+    "Lorenza Campagnolo",
+    "Jean Chateau",
+    "Rob Dellink"
+   ],
+   "year": 2015,
+   "venue": "OECD Environment Working Paper",
+   "status": "工作论文",
+   "url": "https://ideas.repec.org/p/oec/envaaa/86-en.html",
+   "abstract": "This report develops an analytical framework that assesses the macroeconomic, environmental and distributional consequences of energy subsidy reforms. The framework is applied to the case of Indonesia to study the consequences in this country of a gradual phase out of all energy consumption subsidies between 2012 and 2020. The energy subsidy estimates used as inputs to this modelling analysis are those calculated by the International Energy Agency, using a synthetic indicator known as “price gaps”. The analysis relies on simulations made with an extended version of the OECD’s ENV-Linkages model. The phase out of energy consumption subsidies was simulated under three stylised redistribution schemes: direct payment on a per household basis, support to labour incomes, and subsidies on food products. The modelling results in this report indicate that if Indonesia were to remove its fossil fuel and electricity consumption subsidies, it would record real GDP gains of 0.4% to 0.7% in 2020, according to the redistribution scheme envisaged. The redistribution through direct payment on a per household basis performs best in terms of GDP gains. The aggregate gains for consumers in terms of welfare are higher, ranging from 0.8% to 1.6% in 2020. Both GDP and welfare gains arise from a more efficient allocation of resources across sectors resulting from phasing out energy subsidies. Meanwhile, a redistribution scheme through food subsidies tends to create other inefficiencies. The simulations show that the redistribution scheme ultimately matters in determining the overall distributional performance of the reform. Cash transfers, and to a lesser extent food subsidies, can make the reform more attractive for poorer households and reduce poverty. Mechanisms that compensate households via payments proportional to labour income are, on the contrary, more beneficial to higher income households and increase poverty. This is because households with informal labour earnings, which are not eligible for these payments, are more represented among the poor. The analysis also shows that phasing out energy subsidies is projected to reduce Indonesian CO2 emissions from fuel combustion by 10.8% to 12.6% and GHG emissions by 7.9% to 8.3%, in 2020 in the various scenarios, with respect to the baseline. These emission reductions exclude emissions from deforestation, which are large but highly uncertain and for which the model cannot make reliable projections. Ce rapport élabore un cadre analytique qui évalue les effets macroéconomiques, environnementaux et redistributifs des réformes des subventions énergétiques. Il applique ce cadre au cas de l’Indonésie afin d’étudier les conséquences dans ce pays d’une suppression progressive de toutes les subventions à la consommation d’énergie entre 2012 et 2020. Les estimations des subventions à l’énergie sur lesquelles se base cette analyse par modélisation sont celles calculées par l’Agence internationale de l’énergie, à l’aide d’un indicateur synthétique appelé « différentiel de prix ». L’analyse repose sur des simulations réalisées avec une version enrichie du modèle ENV-Linkages de l’OCDE, modèle dynamique d’équilibre général calculable (EGC) mondial. La suppression des subventions à la consommation d’énergie a été simulée en retenant trois types de dispositifs de redistribution : un paiement direct au niveau des ménages, un soutien aux revenus du travail et des subventions aux produits alimentaires. Les résultats de la modélisation réalisée dans ce rapport indiquent que si l’Indonésie venait à supprimer ses subventions à la consommation des combustibles fossiles et d’électricité, elle enregistrerait des gains de PIB réel de 0.4 % à 0.7 % en 2020, selon le dispositif de redistribution retenu. La redistribution sous forme de paiements directs au niveau des ménages donne les meilleurs résultats en termes de gains de PIB. Le gain global pour les consommateurs en termes de bien-être est plus élevé, allant de 0.8 % à 1.6 % en 2020. Les gains en matière de PIB et de bien-être sont obtenus grâce à une répartition des ressources entre les secteurs de façon plus efficiente à la suite de l’élimination des subventions énergétiques. Dans l’intervalle, un dispositif de redistribution sous forme de subventions alimentaires tend à créer d’autres inefficacités, qui compensent en partie les avantages macroéconomiques de la suppression des subventions à la consommation d’énergie. Les simulations montrent aussi qu’à terme, le dispositif de redistribution joue un rôle en déterminant l’effet redistributif global de la réforme. Les transferts monétaires, et dans une moindre mesure les subventions alimentaires, peuvent rendre la réforme plus profitable pour les ménages pauvres et faire reculer la pauvreté. À l’inverse, les mécanismes qui compensent les ménages à l’aide de paiements proportionnels aux revenus du travail bénéficient davantage aux ménages à revenu élevé et accroissent la pauvreté. En effet, les ménages qui reçoivent des revenus du travail dans le secteur informel et qui ne peuvent prétendre à ces paiements, sont plus nombreux chez les pauvres. L’analyse montre aussi que d’après les prévisions, la suppression des subventions énergétiques en Indonésie devrait réduire les émissions de CO2 dues à la combustion des énergies fossiles de 10.8 % à 12.6 % et les émissions de GES de 7.9 % à 8.3 % en 2020 selon les différents scénarios, par rapport au scénario de référence. Ces réductions d’émissions ne tiennent pas compte des émissions dues à la déforestation, qui sont élevées mais restent très mal connues, et au sujet desquelles le modèle ne peut pas faire de projections fiables."
+  }
+ ]
+}

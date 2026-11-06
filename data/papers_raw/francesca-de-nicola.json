@@ -1,0 +1,329 @@
+{
+ "slug": "francesca-de-nicola",
+ "name": "Francesca de Nicola",
+ "sources": [
+  "https://sites.google.com/site/fradenicola/",
+  "https://thedocs.worldbank.org/en/doc/192981609824254492-0070022021/original/CVdeNicolaFJune20.pdf"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Homepage (more recent, 2026 working papers) and June 2020 CV. Bylines taken as scholar first then coauthors in homepage order (CV uses 'with'); first names given only where known. Working paper versions of published papers omitted; Policy briefs, boxes, CAB Reviews, Regional Economist note, World Bank books/reports skipped. 'Quantitative Economics' paper year 2015 from CV. Chapter year 2014 (preprinted in Fed St. Louis Review 2013). Years for WPS 7967/7953 (2017), WPS 7187 (2015) and the Ethiopia paper (2015) are not stated on the sources and were inferred from World Bank WPS numbering/CV order.",
+ "papers": [
+  {
+   "title": "Comparing the Effectiveness of Low-Carbon Policies: A Technology Diffusion Approach",
+   "authors": [
+    "Francesca de Nicola",
+    "Unnada Chewpreecha",
+    "Aaditya Mattoo",
+    "Hector Pollitt",
+    "Trang Thu Tran"
+   ],
+   "year": 2026,
+   "venue": "World Bank Policy Research Working Paper 11393",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Trade finance use by heterogeneous firms",
+   "authors": [
+    "Francesca de Nicola",
+    "Alexander Ragoussis",
+    "Tim Schmidt-Eisenlohr",
+    "Trang Thu Tran"
+   ],
+   "year": 2026,
+   "venue": "CESifo Working Paper 12524 / World Bank Policy Research Working Paper 11404",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Are robots shifting foreign direct investments?",
+   "authors": [
+    "Francesca de Nicola",
+    "Shawn W. Tan",
+    "A. Tang"
+   ],
+   "year": 2026,
+   "venue": "World Bank Policy Research Working Paper 11362",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Technological Decoupling? The Impact on Innovation of US Restrictions on Chinese Firms",
+   "authors": [
+    "Francesca de Nicola",
+    "Y. Cao",
+    "Aaditya Mattoo",
+    "Jonathan Timmis"
+   ],
+   "year": 2024,
+   "venue": "World Bank Policy Research Working Paper 10950",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Productivity Loss and Misallocation of Resources in Southeast Asia",
+   "authors": [
+    "Francesca de Nicola",
+    "Norman Loayza",
+    "Ha Nguyen"
+   ],
+   "year": 2023,
+   "venue": "Journal of the Asia Pacific Economy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Bank ownership and firm innovation",
+   "authors": [
+    "Francesca de Nicola",
+    "Martin Melecky",
+    "Mariana Iootty"
+   ],
+   "year": 2023,
+   "venue": "World Bank Policy Research Working Paper 10458",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "High-growth firms' contribution to aggregate productivity growth",
+   "authors": [
+    "Francesca de Nicola",
+    "M. Bisztray",
+    "Balázs Muraközy"
+   ],
+   "year": 2022,
+   "venue": "Small Business Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Returns to Innovation in East Asia: The Role of the Business Environment and Firms' Characteristics",
+   "authors": [
+    "Francesca de Nicola",
+    "P. Chen"
+   ],
+   "year": 2022,
+   "venue": "World Bank Policy Research Working Paper 9921",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Financial structure and firm innovation: Cross-country evidence",
+   "authors": [
+    "Francesca de Nicola",
+    "D. Mare",
+    "F. Liriano"
+   ],
+   "year": 2021,
+   "venue": "World Bank Policy Research Working Paper 9670",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Political connections and financial constraints: Evidence from transition countries",
+   "authors": [
+    "Francesca de Nicola",
+    "Maurizio Bussolo",
+    "Ugo Panizza",
+    "Rubiana Varghese"
+   ],
+   "year": 2021,
+   "venue": "European Journal of Political Economy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The financial costs of the United States-China trade tensions: evidence from East Asian stock markets",
+   "authors": [
+    "Francesca de Nicola",
+    "Matthias Kessler",
+    "Ha Nguyen"
+   ],
+   "year": 2020,
+   "venue": "Review of World Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Spillovers from high growth firms: evidence from Hungary",
+   "authors": [
+    "Francesca de Nicola",
+    "Balázs Muraközy",
+    "Shawn W. Tan"
+   ],
+   "year": 2019,
+   "venue": "Small Business Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Ex ante and ex post effects of hybrid index insurance in Bangladesh",
+   "authors": [
+    "Francesca de Nicola",
+    "Ruth Vargas Hill",
+    "Neha Kumar",
+    "Nicholas Magnan",
+    "Simrin Makhija",
+    "David Spielman",
+    "Patrick S. Ward"
+   ],
+   "year": 2019,
+   "venue": "Journal of Development Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "On the allocation of resources in developing East Asia and Pacific",
+   "authors": [
+    "Francesca de Nicola",
+    "V. Kehayova",
+    "Ha Nguyen"
+   ],
+   "year": 2018,
+   "venue": "World Bank Policy Research Working Paper 8634",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Foreign banks and trade: Bridging the information gap?",
+   "authors": [
+    "Francesca de Nicola",
+    "Shawn W. Tan"
+   ],
+   "year": 2017,
+   "venue": "World Bank Policy Research Working Paper 7967",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Firms' export decisions: Demand trumps shocks",
+   "authors": [
+    "Francesca de Nicola",
+    "Shawn W. Tan"
+   ],
+   "year": 2017,
+   "venue": "World Bank Policy Research Working Paper 7953",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Co-movement of major commodity price returns",
+   "authors": [
+    "Francesca de Nicola",
+    "Paolo De Pace",
+    "Manuel A. Hernandez"
+   ],
+   "year": 2016,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The impact of weather insurance on consumption, investment, and welfare",
+   "authors": [
+    "Francesca de Nicola"
+   ],
+   "year": 2015,
+   "venue": "Quantitative Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A chat about insurance: experimental results from rural Bangladesh",
+   "authors": [
+    "Francesca de Nicola",
+    "D. Clarke",
+    "Ruth Vargas Hill",
+    "Neha Kumar",
+    "P. Mehta"
+   ],
+   "year": 2015,
+   "venue": "Applied Economic Perspectives and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Handling the weather: insurance, savings and credit in West Africa",
+   "authors": [
+    "Francesca de Nicola"
+   ],
+   "year": 2015,
+   "venue": "World Bank Policy Research Working Paper 7187",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How accurate is recall data? Evidence from coastal India",
+   "authors": [
+    "Francesca de Nicola",
+    "Xavier Giné"
+   ],
+   "year": 2014,
+   "venue": "Journal of Development Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "International trade, female labor, and entrepreneurship in MENA countries",
+   "authors": [
+    "Francesca de Nicola",
+    "Sara Contessi",
+    "L. Li"
+   ],
+   "year": 2014,
+   "venue": "Middle East and African Countries: Economic and Political Perspectives in the Aftermath of the Arab Spring",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Distortions in farmer prices since the 1950s: South Africa in international perspective",
+   "authors": [
+    "Francesca de Nicola",
+    "Kym Anderson",
+    "E. Jara",
+    "M. Kurzweil",
+    "D. Sandri",
+    "E. Valenzuela"
+   ],
+   "year": 2007,
+   "venue": "Agrekon",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Interplay among credit, weather insurance and savings for farmers in Ethiopia",
+   "authors": [
+    "Francesca de Nicola",
+    "Ruth Vargas Hill"
+   ],
+   "year": 2015,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

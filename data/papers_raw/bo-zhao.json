@@ -1,0 +1,313 @@
+{
+ "slug": "bo-zhao",
+ "name": "Bo Zhao",
+ "sources": [
+  "https://sites.google.com/site/bozhao/home"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Source: personal site only (no abstracts; Boston Fed profile and CV not fetched). Excluded policy briefs, NEPPC research reports, regional briefs, an ebook chapter and unlisted submitted items. Working papers that the site shows later published were dropped (Rainy Day, Walking a Tightrope, Urban Core, Cost Function, Education Aid Formula, Municipal Aid Evaluation, Designing State Aid Formulas, Measuring Disparities, Local-option taxes, 2015 PFR paper). The 2017 \"Transparency in State Debt Disclosure\" WP was treated as the earlier version of the R&R \"Salience and Political Economy of State Debt Reporting\" (same coauthor; title differs, not confirmed). Years for R&R papers taken from the FRB Boston WP year; JFQA item is listed as \"Reject and Resubmit\". \"Designing Formulas for Distributing Reductions in State Aid\" (2011 NEPPC WP) may be the earlier version of \"A More Equitable Approach...\" (PFR 2015) but this was not confirmed, so kept. Coauthor first names filled from memory for Coyne, Bradbury, Blanchard, Yinger, Ondrich, Jackson, Triest; Wang, Sasser, Saas, Luengo-Prado given as surname only because the page gives only surnames.",
+ "papers": [
+  {
+   "title": "How to Design a State Education Aid Formula Using a Regression-based Estimate of the Cost-capacity Gap: The Case of Connecticut, USA",
+   "authors": [
+    "Bo Zhao"
+   ],
+   "year": 2023,
+   "venue": "Journal of Education Finance",
+   "status": "已发表",
+   "url": "https://muse.jhu.edu/pub/34/article/913132",
+   "abstract": null
+  },
+  {
+   "title": "Estimating the Cost Function of Connecticut Public K-12 Education: Implications for Inequity and Inadequacy in School Spending",
+   "authors": [
+    "Bo Zhao"
+   ],
+   "year": 2023,
+   "venue": "Education Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1080/09645292.2022.2077914",
+   "abstract": null
+  },
+  {
+   "title": "From Urban Core to Wealthy Towns: Nonschool Fiscal Disparities across Municipalities",
+   "authors": [
+    "Bo Zhao"
+   ],
+   "year": 2018,
+   "venue": "Public Finance Review",
+   "status": "已发表",
+   "url": "http://pfr.sagepub.com/content/early/2016/06/07/1091142116649736.abstract",
+   "abstract": null
+  },
+  {
+   "title": "Walking a Tightrope: Are U.S. State and Local Governments on A Fiscally Sustainable Path?",
+   "authors": [
+    "Bo Zhao",
+    "Daniel Coyne"
+   ],
+   "year": 2017,
+   "venue": "Public Budgeting & Finance",
+   "status": "已发表",
+   "url": "http://onlinelibrary.wiley.com/doi/10.1111/pbaf.12168/abstract",
+   "abstract": null
+  },
+  {
+   "title": "Saving for a Rainy Day: Estimating the Needed Size of U.S. State Budget Stabilization Funds",
+   "authors": [
+    "Bo Zhao"
+   ],
+   "year": 2016,
+   "venue": "Regional Science and Urban Economics",
+   "status": "已发表",
+   "url": "http://www.sciencedirect.com/science/article/pii/S0166046216301727",
+   "abstract": null
+  },
+  {
+   "title": "Municipal Aid Evaluation and Reform",
+   "authors": [
+    "Bo Zhao"
+   ],
+   "year": 2015,
+   "venue": "Municipal Finance Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A More Equitable Approach to Cutting Intergovernmental Aid",
+   "authors": [
+    "Bo Zhao",
+    "Daniel Coyne"
+   ],
+   "year": 2015,
+   "venue": "Public Finance Review",
+   "status": "已发表",
+   "url": "http://pfr.sagepub.com/content/early/2013/09/11/1091142113499963.abstract",
+   "abstract": null
+  },
+  {
+   "title": "The Fiscal Impact of Local-option Taxes on Municipalities: The Case of Massachusetts",
+   "authors": [
+    "Bo Zhao"
+   ],
+   "year": 2011,
+   "venue": "Municipal Finance Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Designing State Aid Formulas",
+   "authors": [
+    "Bo Zhao",
+    "Katharine Bradbury"
+   ],
+   "year": 2009,
+   "venue": "Journal of Policy Analysis and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Measuring Non-school Fiscal Disparities among Municipalities",
+   "authors": [
+    "Katharine Bradbury",
+    "Bo Zhao"
+   ],
+   "year": 2009,
+   "venue": "National Tax Journal",
+   "status": "已发表",
+   "url": "https://www.ntanet.org/NTJ/62/1/ntj-v62n01p25-56-measuring-non-school-fiscal.html",
+   "abstract": null
+  },
+  {
+   "title": "Do Lenders Discriminate against Minority and Woman Entrepreneurs?",
+   "authors": [
+    "Lloyd Blanchard",
+    "Bo Zhao",
+    "John Yinger"
+   ],
+   "year": 2008,
+   "venue": "Journal of Urban Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Why Do Real Estate Brokers Continue to Discriminate? Evidence from the 2000 Housing Discrimination Study",
+   "authors": [
+    "Bo Zhao",
+    "Jan Ondrich",
+    "John Yinger"
+   ],
+   "year": 2006,
+   "venue": "Journal of Urban Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Does the Number of Houses a Broker Shows Depend on a Homeseeker's Race?",
+   "authors": [
+    "Bo Zhao"
+   ],
+   "year": 2005,
+   "venue": "Journal of Urban Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Impact of a Man-made Disaster on Consumer Credit Outcomes: Evidence from the 2018 Merrimack Valley Natural Gas Explosions",
+   "authors": [
+    "Bo Zhao"
+   ],
+   "year": 2023,
+   "venue": "Journal of Financial and Quantitative Analysis",
+   "status": "修改重投",
+   "url": "https://www.bostonfed.org/publications/research-department-working-paper/2023/the-impact-of-a-man-made-disaster-on-consumer-credit-outcomes.aspx",
+   "abstract": null
+  },
+  {
+   "title": "The Impact of Weather on Local Government Spending",
+   "authors": [
+    "Bo Zhao"
+   ],
+   "year": 2022,
+   "venue": "Regional Science and Urban Economics",
+   "status": "修改重投",
+   "url": "https://www.bostonfed.org/publications/research-department-working-paper/2022/the-impact-of-weather-on-local-government-spending",
+   "abstract": null
+  },
+  {
+   "title": "Salience and Political Economy of State Debt Reporting: Implications for Fiscal Transparency",
+   "authors": [
+    "Bo Zhao",
+    "Wang"
+   ],
+   "year": 2017,
+   "venue": "Public Finance Review",
+   "status": "修改重投",
+   "url": "https://www.bostonfed.org/publications/research-department-working-paper/2017/transparency-in-state-debt-disclosure.aspx",
+   "abstract": null
+  },
+  {
+   "title": "Opting in with the Joneses: What Affects the Timing of Municipal Adoption of a Local-option Meals Tax",
+   "authors": [
+    "Bo Zhao"
+   ],
+   "year": 2021,
+   "venue": "FRB Boston Working Paper",
+   "status": "工作论文",
+   "url": "https://www.bostonfed.org/publications/research-department-working-paper/2021/opting-in-with-the-joneses-what-affects-the-timing-of-municipal-adoption-of-a-local-option-meals-tax.aspx",
+   "abstract": null
+  },
+  {
+   "title": "State Disinvestment in Higher Education: The Impact on Public Research Universities' Patent Applications",
+   "authors": [
+    "Bo Zhao"
+   ],
+   "year": 2019,
+   "venue": "FRB Boston Working Paper",
+   "status": "工作论文",
+   "url": "https://www.bostonfed.org/publications/research-department-working-paper/2019/state-disinvestment-in-higher-education.aspx",
+   "abstract": null
+  },
+  {
+   "title": "Childcare and Women's Employment Outcomes: Evidence from Five New England States",
+   "authors": [
+    "Luengo-Prado",
+    "Bo Zhao"
+   ],
+   "year": 2026,
+   "venue": "FRB Boston Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Disinvesting in the Future? A Comprehensive Examination of the Effects of State Appropriations for Public Higher Education",
+   "authors": [
+    "Bo Zhao"
+   ],
+   "year": 2018,
+   "venue": "FRB Boston Working Paper",
+   "status": "工作论文",
+   "url": "https://www.bostonfed.org/publications/research-department-working-paper/2018/a-comprehensive-examination-of-the-effects-of-state-appropriations-for-public-higher-education.aspx",
+   "abstract": null
+  },
+  {
+   "title": "Does Changing Employers' Access to Criminal Histories Affect Ex-offenders' Recidivism? Evidence from the 2010-2012 Massachusetts CORI Reform",
+   "authors": [
+    "Osborne Jackson",
+    "Bo Zhao"
+   ],
+   "year": 2016,
+   "venue": "FRB Boston Working Paper",
+   "status": "工作论文",
+   "url": "https://www.bostonfed.org/publications/research-department-working-paper/2016/does-changing-employers-access-to-criminal-histories-affect-ex-offenders-recidivism.aspx",
+   "abstract": null
+  },
+  {
+   "title": "The Effect of Changing Employers' Access to Criminal Histories on Ex-offenders' Labor Market Outcomes: Evidence from the 2010-2012 Massachusetts CORI Reform",
+   "authors": [
+    "Osborne Jackson",
+    "Bo Zhao"
+   ],
+   "year": 2016,
+   "venue": "FRB Boston Working Paper",
+   "status": "工作论文",
+   "url": "https://www.bostonfed.org/publications/research-department-working-paper/2016/the-effect-of-changing-employers-access-to-criminal-histories-on-ex-offenders-labor-market-outcomes.aspx",
+   "abstract": null
+  },
+  {
+   "title": "The Role of Economic, Fiscal, and Financial Shocks in the Evolution of Public Sector Pension Funding",
+   "authors": [
+    "Robert K. Triest",
+    "Bo Zhao"
+   ],
+   "year": 2013,
+   "venue": "FRB Boston Working Paper",
+   "status": "工作论文",
+   "url": "https://www.bostonfed.org/publications/research-department-working-paper/2013/the-role-of-economic-fiscal-and-financial-shocks-in-the-evolution-of-public-sector-pension-funding.aspx",
+   "abstract": null
+  },
+  {
+   "title": "Does Springfield Receive Its Fair Share of Municipal Aid? Implications for Aid Formula Reform in Massachusetts",
+   "authors": [
+    "Bo Zhao"
+   ],
+   "year": 2010,
+   "venue": "New England Public Policy Center Working Paper",
+   "status": "工作论文",
+   "url": "https://www.bostonfed.org/publications/new-england-public-policy-center-working-paper/2010/does-springfield-receive-its-fair-share-of-municipal-aid-implications-for-aid-formula-reform-in-massachusetts.aspx",
+   "abstract": null
+  },
+  {
+   "title": "The Lack of Affordable Housing in New England: How Big A Problem? Why Is It Growing? What Are We Doing about It?",
+   "authors": [
+    "Sasser",
+    "Bo Zhao",
+    "Saas"
+   ],
+   "year": 2006,
+   "venue": "New England Public Policy Center Working Paper",
+   "status": "工作论文",
+   "url": "https://www.bostonfed.org/publications/new-england-public-policy-center-working-paper/2006/the-lack-of-affordable-housing-in-new-england-how-big-a-problem-why-is-it-growing-what-are-we-doing-about-it.aspx",
+   "abstract": null
+  },
+  {
+   "title": "Designing Formulas for Distributing Reductions in State Aid",
+   "authors": [
+    "Bo Zhao",
+    "Daniel Coyne"
+   ],
+   "year": 2011,
+   "venue": "New England Public Policy Center Working Paper",
+   "status": "工作论文",
+   "url": "https://www.bostonfed.org/publications/new-england-public-policy-center-working-paper/2011/designing-formulas-for-distributing-reductions-in-state-aid.aspx",
+   "abstract": null
+  }
+ ]
+}

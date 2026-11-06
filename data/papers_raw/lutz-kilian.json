@@ -1,0 +1,1368 @@
+{
+ "slug": "lutz-kilian",
+ "name": "Lutz Kilian",
+ "sources": [
+  "https://sites.google.com/site/lkilian2019/curriculum-vitae",
+  "https://drive.google.com/uc?export=download&id=1Faef952tCNwi-i7_X9mjMyX9QAN8Jj7X",
+  "https://www.dallasfed.org/people/research/economists/plante"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Source: CV dated Sept 4, 2026 (Google Drive PDF linked from homepage); two Dallas WPs (How Times Have Changed; Iran War inflation scenario) taken from Michael Plante's Dallas Fed page since they are not on the CV. CV coauthors given as \"(with ...)\" so authors alphabetical by surname; coauthor first names expanded from the initials on the CV by memory (not all verified). Excluded: comments/discussions, book reviews, policy papers, edited volumes, encyclopedia entries (Palgrave), a corrigendum, the Cambridge textbook (Structural VAR Analysis, with Lutkepohl, 2017). \"The Declining Impact of Geopolitical Oil Supply Disruptions...\" (Sept 2026) likely the revised version of Dallas WP 2403 (Geopolitical Oil Price Risk and Economic Fluctuations); only the CV title kept. Year of Davis-Kilian JAE 2011 volume typo on CV ignored.",
+ "papers": [
+  {
+   "title": "Estimating Macroeconomic News and Surprise Shocks",
+   "authors": [
+    "Lutz Kilian",
+    "Michael D. Plante",
+    "Alexander W. Richter"
+   ],
+   "year": 2026,
+   "venue": "Journal of Applied Econometrics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Impact of the 2022 Oil Embargo and Price Cap on Russian Oil Prices",
+   "authors": [
+    "Lutz Kilian",
+    "David S. Rapson",
+    "Burkhard Schipper"
+   ],
+   "year": 2026,
+   "venue": "The Energy Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Conventional Impulse Response Prior in VAR Models with Sign Restrictions",
+   "authors": [
+    "Atsushi Inoue",
+    "Lutz Kilian"
+   ],
+   "year": 2026,
+   "venue": "Journal of Applied Econometrics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "When Is the Use of Gaussian-inverse Wishart-Haar Priors Appropriate?",
+   "authors": [
+    "Atsushi Inoue",
+    "Lutz Kilian"
+   ],
+   "year": 2026,
+   "venue": "Journal of Political Economy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Macroeconomic Responses to Uncertainty Shocks: The Perils of Recursive Orderings",
+   "authors": [
+    "Lutz Kilian",
+    "Michael D. Plante",
+    "Alexander W. Richter"
+   ],
+   "year": 2025,
+   "venue": "Journal of Applied Econometrics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Impulse Response Diagnostics for Priors on Parameters in Structural Vector Autoregressions",
+   "authors": [
+    "Lutz Kilian"
+   ],
+   "year": 2025,
+   "venue": "Economics Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How to Construct Monthly VAR Proxies Based on Daily Surprises in Futures Markets",
+   "authors": [
+    "Lutz Kilian"
+   ],
+   "year": 2024,
+   "venue": "Journal of Economic Dynamics and Control",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "State-Dependent Local Projections",
+   "authors": [
+    "Sílvia Gonçalves",
+    "Ana María Herrera",
+    "Lutz Kilian",
+    "Elena Pesavento"
+   ],
+   "year": 2024,
+   "venue": "Journal of Econometrics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Heterogeneity in the Pass-Through from Oil to Gasoline Prices: A New Instrument for Estimating the Price Elasticity of Gasoline Demand",
+   "authors": [
+    "Lutz Kilian",
+    "Xiaoqing Zhou"
+   ],
+   "year": 2024,
+   "venue": "Journal of Public Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Broader Perspective on the Inflationary Effects of Energy Price Shocks",
+   "authors": [
+    "Lutz Kilian",
+    "Xiaoqing Zhou"
+   ],
+   "year": 2023,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Quantitative Model of the Oil Tanker Market in the Arabian Gulf",
+   "authors": [
+    "Lutz Kilian",
+    "Nikos Nomikos",
+    "Xiaoqing Zhou"
+   ],
+   "year": 2023,
+   "venue": "The Energy Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Econometrics of Oil Market VAR Models",
+   "authors": [
+    "Lutz Kilian",
+    "Xiaoqing Zhou"
+   ],
+   "year": 2023,
+   "venue": "Advances in Econometrics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Container Trade and the U.S. Recovery",
+   "authors": [
+    "Lutz Kilian",
+    "Nikos Nomikos",
+    "Xiaoqing Zhou"
+   ],
+   "year": 2023,
+   "venue": "International Journal of Central Banking",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Joint Bayesian Inference about Impulse Responses in VAR Models",
+   "authors": [
+    "Atsushi Inoue",
+    "Lutz Kilian"
+   ],
+   "year": 2022,
+   "venue": "Journal of Econometrics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Impact of Rising Oil Prices on US. Inflation and Inflation Expectations in 2020-23",
+   "authors": [
+    "Lutz Kilian",
+    "Xiaoqing Zhou"
+   ],
+   "year": 2022,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Oil Prices, Exchange Rates and Interest Rates",
+   "authors": [
+    "Lutz Kilian",
+    "Xiaoqing Zhou"
+   ],
+   "year": 2022,
+   "venue": "Journal of International Money and Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Oil Prices, Gasoline Prices and Inflation Expectations",
+   "authors": [
+    "Lutz Kilian",
+    "Xiaoqing Zhou"
+   ],
+   "year": 2022,
+   "venue": "Journal of Applied Econometrics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Propagation of Regional Shocks in Housing Markets: Evidence from Oil Price Shocks in Canada",
+   "authors": [
+    "Lutz Kilian",
+    "Xiaoqing Zhou"
+   ],
+   "year": 2022,
+   "venue": "Journal of Money, Credit and Banking",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Facts and Fiction in Oil Market Modeling",
+   "authors": [
+    "Lutz Kilian"
+   ],
+   "year": 2022,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Understanding the Estimation of Oil Demand and Oil Supply Elasticities",
+   "authors": [
+    "Lutz Kilian"
+   ],
+   "year": 2022,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Impulse Response Analysis in Structural Dynamic Models with Nonlinear Regressors",
+   "authors": [
+    "Sílvia Gonçalves",
+    "Ana María Herrera",
+    "Lutz Kilian",
+    "Elena Pesavento"
+   ],
+   "year": 2021,
+   "venue": "Journal of Econometrics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Does Drawing Down the U.S. Strategic Petroleum Reserve Help Stabilize Oil Prices?",
+   "authors": [
+    "Lutz Kilian",
+    "Xiaoqing Zhou"
+   ],
+   "year": 2020,
+   "venue": "Journal of Applied Econometrics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Uniform Validity of Impulse Response Inference in Autoregressions",
+   "authors": [
+    "Atsushi Inoue",
+    "Lutz Kilian"
+   ],
+   "year": 2020,
+   "venue": "Journal of Econometrics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Measuring Global Real Economic Activity: Do Recent Critiques Hold Up to Scrutiny?",
+   "authors": [
+    "Lutz Kilian"
+   ],
+   "year": 2019,
+   "venue": "Economics Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Modeling Fluctuations in the Global Demand for Commodities",
+   "authors": [
+    "Lutz Kilian",
+    "Xiaoqing Zhou"
+   ],
+   "year": 2018,
+   "venue": "Journal of International Money and Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Is the Discretionary Income Effect of Oil Price Shocks a Hoax?",
+   "authors": [
+    "Christiane Baumeister",
+    "Lutz Kilian",
+    "Xiaoqing Zhou"
+   ],
+   "year": 2018,
+   "venue": "The Energy Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Are Product Spreads Useful for Forecasting Oil Prices? An Empirical Evaluation of the Verleger Hypothesis",
+   "authors": [
+    "Christiane Baumeister",
+    "Lutz Kilian",
+    "Xiaoqing Zhou"
+   ],
+   "year": 2018,
+   "venue": "Macroeconomic Dynamics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Role of Oil Price Shocks in Causing U.S. Recessions",
+   "authors": [
+    "Lutz Kilian",
+    "Robert J. Vigfusson"
+   ],
+   "year": 2017,
+   "venue": "Journal of Money, Credit and Banking",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Impact of the Fracking Boom on Arab Oil Producers",
+   "authors": [
+    "Lutz Kilian"
+   ],
+   "year": 2017,
+   "venue": "The Energy Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Lower Oil Prices and the U.S. Economy: Is This Time Different?",
+   "authors": [
+    "Christiane Baumeister",
+    "Lutz Kilian"
+   ],
+   "year": 2016,
+   "venue": "Brookings Papers on Economic Activity",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Inside the Crystal Ball: New Approaches to Predicting the Gasoline Price at the Pump",
+   "authors": [
+    "Christiane Baumeister",
+    "Lutz Kilian",
+    "Thomas K. Lee"
+   ],
+   "year": 2017,
+   "venue": "Journal of Applied Econometrics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Anticipation, Tax Avoidance, and the Price Elasticity of Gasoline Demand",
+   "authors": [
+    "John Coglianese",
+    "Lucas W. Davis",
+    "Lutz Kilian",
+    "James H. Stock"
+   ],
+   "year": 2017,
+   "venue": "Journal of Applied Econometrics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Impulse Response Matching Estimators for DSGE Models",
+   "authors": [
+    "Pablo Guerron-Quintana",
+    "Atsushi Inoue",
+    "Lutz Kilian"
+   ],
+   "year": 2017,
+   "venue": "Journal of Econometrics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Impact of the Shale Oil Revolution on U.S. Oil and Gas Prices",
+   "authors": [
+    "Lutz Kilian"
+   ],
+   "year": 2016,
+   "venue": "Review of Environmental Economics and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Joint Confidence Sets for Structural Impulse Responses",
+   "authors": [
+    "Atsushi Inoue",
+    "Lutz Kilian"
+   ],
+   "year": 2016,
+   "venue": "Journal of Econometrics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Understanding the Decline in the Price of Oil since June 2014",
+   "authors": [
+    "Christiane Baumeister",
+    "Lutz Kilian"
+   ],
+   "year": 2016,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Forty Years of Oil Price Fluctuations: Why the Price of Oil May Still Surprise Us",
+   "authors": [
+    "Christiane Baumeister",
+    "Lutz Kilian"
+   ],
+   "year": 2016,
+   "venue": "Journal of Economic Perspectives",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Forecasting the Real Price of Oil in a Changing World: A Forecast Combination Approach",
+   "authors": [
+    "Christiane Baumeister",
+    "Lutz Kilian"
+   ],
+   "year": 2015,
+   "venue": "Journal of Business and Economic Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do High-Frequency Financial Data Help Forecast Oil Prices? The MIDAS Touch at Work",
+   "authors": [
+    "Christiane Baumeister",
+    "Pierre Guérin",
+    "Lutz Kilian"
+   ],
+   "year": 2015,
+   "venue": "International Journal of Forecasting",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Are there Gains from Pooling Real-Time Oil Price Forecasts?",
+   "authors": [
+    "Christiane Baumeister",
+    "Lutz Kilian",
+    "Thomas K. Lee"
+   ],
+   "year": 2014,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Oil Price Shocks: Causes and Consequences",
+   "authors": [
+    "Lutz Kilian"
+   ],
+   "year": 2014,
+   "venue": "Annual Review of Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do Oil Price Increases Cause Higher Food Prices?",
+   "authors": [
+    "Christiane Baumeister",
+    "Lutz Kilian"
+   ],
+   "year": 2014,
+   "venue": "Economic Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "What Central Bankers Need to Know about Forecasting Oil Prices",
+   "authors": [
+    "Christiane Baumeister",
+    "Lutz Kilian"
+   ],
+   "year": 2014,
+   "venue": "International Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Real-Time Analysis of Oil Price Risks using Forecast Scenarios",
+   "authors": [
+    "Christiane Baumeister",
+    "Lutz Kilian"
+   ],
+   "year": 2014,
+   "venue": "IMF Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Role of Inventories and Speculative Trading in the Global Market for Crude Oil",
+   "authors": [
+    "Lutz Kilian",
+    "Daniel P. Murphy"
+   ],
+   "year": 2014,
+   "venue": "Journal of Applied Econometrics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Quantifying the Speculative Component in the Real Price of Oil: The Role of Global Oil Inventories",
+   "authors": [
+    "Lutz Kilian",
+    "Thomas K. Lee"
+   ],
+   "year": 2014,
+   "venue": "Journal of International Money and Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Inference on Impulse Response Functions in Structural VAR Models",
+   "authors": [
+    "Atsushi Inoue",
+    "Lutz Kilian"
+   ],
+   "year": 2013,
+   "venue": "Journal of Econometrics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Did Unexpectedly Strong Economic Growth Cause the Oil Price Shock of 2003-2008?",
+   "authors": [
+    "Bertrand Hicks",
+    "Lutz Kilian"
+   ],
+   "year": 2013,
+   "venue": "Journal of Forecasting",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Frequentist Inference in Weakly Identified DSGE Models",
+   "authors": [
+    "Pablo Guerron-Quintana",
+    "Atsushi Inoue",
+    "Lutz Kilian"
+   ],
+   "year": 2013,
+   "venue": "Quantitative Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Role of Speculation in Oil Markets: What Have We Learned So Far?",
+   "authors": [
+    "Bassam Fattouh",
+    "Lutz Kilian",
+    "Lavan Mahadeva"
+   ],
+   "year": 2013,
+   "venue": "The Energy Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do Oil Prices Help Forecast U.S. Real GDP? The Role of Nonlinearities and Asymmetries",
+   "authors": [
+    "Lutz Kilian",
+    "Robert J. Vigfusson"
+   ],
+   "year": 2013,
+   "venue": "Journal of Business and Economic Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Monetary Policy Responses to Oil Price Fluctuations",
+   "authors": [
+    "Martin Bodenstein",
+    "Luca Guerrieri",
+    "Lutz Kilian"
+   ],
+   "year": 2012,
+   "venue": "IMF Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Why Agnostic Sign Restrictions Are Not Enough: Understanding the Dynamics of Oil Market VAR Models",
+   "authors": [
+    "Lutz Kilian",
+    "Daniel P. Murphy"
+   ],
+   "year": 2012,
+   "venue": "Journal of the European Economic Association",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Real-Time Forecasts of the Real Price of Oil",
+   "authors": [
+    "Christiane Baumeister",
+    "Lutz Kilian"
+   ],
+   "year": 2012,
+   "venue": "Journal of Business and Economic Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Nonlinearities in the Oil Price-Output Relationship",
+   "authors": [
+    "Lutz Kilian",
+    "Robert J. Vigfusson"
+   ],
+   "year": 2011,
+   "venue": "Macroeconomic Dynamics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Are the Responses of the U.S. Economy Asymmetric in Energy Price Increases and Decreases?",
+   "authors": [
+    "Lutz Kilian",
+    "Robert J. Vigfusson"
+   ],
+   "year": 2011,
+   "venue": "Quantitative Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Estimating the Effect of a Gasoline Tax on Carbon Emissions",
+   "authors": [
+    "Lucas W. Davis",
+    "Lutz Kilian"
+   ],
+   "year": 2011,
+   "venue": "Journal of Applied Econometrics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How Reliable Are Local Projection Estimators of Impulse Responses?",
+   "authors": [
+    "Lutz Kilian",
+    "Yun Jung Kim"
+   ],
+   "year": 2011,
+   "venue": "Review of Economics and Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Does the Fed Respond to Oil Price Shocks?",
+   "authors": [
+    "Lutz Kilian",
+    "Logan T. Lewis"
+   ],
+   "year": 2011,
+   "venue": "The Economic Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do Energy Prices Respond to U.S. Macroeconomic News? A Test of the Hypothesis of Predetermined Energy Prices",
+   "authors": [
+    "Lutz Kilian",
+    "Clara Vega"
+   ],
+   "year": 2011,
+   "venue": "Review of Economics and Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Allocative Cost of Price Ceilings in the U.S. Residential Market for Natural Gas",
+   "authors": [
+    "Lucas W. Davis",
+    "Lutz Kilian"
+   ],
+   "year": 2011,
+   "venue": "Journal of Political Economy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "What Do We Learn from the Price of Crude Oil Futures?",
+   "authors": [
+    "Ron Alquist",
+    "Lutz Kilian"
+   ],
+   "year": 2010,
+   "venue": "Journal of Applied Econometrics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Explaining Fluctuations in U.S. Gasoline Prices: A Joint Model of the Global Crude Oil Market and the U.S. Retail Gasoline Market",
+   "authors": [
+    "Lutz Kilian"
+   ],
+   "year": 2010,
+   "venue": "The Energy Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Impact of Oil Price Shocks on the U.S. Stock Market",
+   "authors": [
+    "Lutz Kilian",
+    "Cheolbeom Park"
+   ],
+   "year": 2009,
+   "venue": "International Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do Actions Speak Louder than Words? Household Expectations of Inflation Based on Micro Consumption Data",
+   "authors": [
+    "Atsushi Inoue",
+    "Lutz Kilian",
+    "F. Burcu Kiraz"
+   ],
+   "year": 2009,
+   "venue": "Journal of Money, Credit and Banking",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How Sensitive are Consumer Expenditures to Retail Energy Prices?",
+   "authors": [
+    "Paul Edelstein",
+    "Lutz Kilian"
+   ],
+   "year": 2009,
+   "venue": "Journal of Monetary Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Not All Oil Price Shocks Are Alike: Disentangling Demand and Supply Shocks in the Crude Oil Market",
+   "authors": [
+    "Lutz Kilian"
+   ],
+   "year": 2009,
+   "venue": "American Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Oil Shocks and External Balances",
+   "authors": [
+    "Lutz Kilian",
+    "Alessandro Rebucci",
+    "Nikola Spatafora"
+   ],
+   "year": 2009,
+   "venue": "Journal of International Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Economic Effects of Energy Price Shocks",
+   "authors": [
+    "Lutz Kilian"
+   ],
+   "year": 2008,
+   "venue": "Journal of Economic Literature",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Central Banker as a Risk Manager: Estimating the Federal Reserve's Preferences under Greenspan",
+   "authors": [
+    "Lutz Kilian",
+    "Simone Manganelli"
+   ],
+   "year": 2008,
+   "venue": "Journal of Money, Credit and Banking",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How Useful is Bagging in Forecasting Economic Time Series? A Case Study of U.S. CPI Inflation",
+   "authors": [
+    "Atsushi Inoue",
+    "Lutz Kilian"
+   ],
+   "year": 2008,
+   "venue": "Journal of the American Statistical Association",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Exogenous Oil Supply Shocks: How Big Are They and How Much Do They Matter for the U.S. Economy?",
+   "authors": [
+    "Lutz Kilian"
+   ],
+   "year": 2008,
+   "venue": "Review of Economics and Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Comparison of the Effects of Exogenous Oil Supply Shocks on Output and Inflation in the G7 Countries",
+   "authors": [
+    "Lutz Kilian"
+   ],
+   "year": 2008,
+   "venue": "Journal of the European Economic Association",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Asymptotic and Bootstrap Inference for AR(∞) Processes with Conditional Heteroskedasticity",
+   "authors": [
+    "Sílvia Gonçalves",
+    "Lutz Kilian"
+   ],
+   "year": 2007,
+   "venue": "Econometric Reviews",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Response of Business Fixed Investment to Energy Price Changes: A Test of some Hypotheses about the Transmission of Energy Price Shocks",
+   "authors": [
+    "Paul Edelstein",
+    "Lutz Kilian"
+   ],
+   "year": 2007,
+   "venue": "The B.E. Journal of Macroeconomics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Quantifying the Risk of Deflation",
+   "authors": [
+    "Lutz Kilian",
+    "Simone Manganelli"
+   ],
+   "year": 2007,
+   "venue": "Journal of Money, Credit and Banking",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "On the Selection of Forecasting Models",
+   "authors": [
+    "Atsushi Inoue",
+    "Lutz Kilian"
+   ],
+   "year": 2006,
+   "venue": "Journal of Econometrics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Practitioner's Guide to Lag Order Selection for VAR Impulse Response Analysis",
+   "authors": [
+    "Ventzislav Ivanov",
+    "Lutz Kilian"
+   ],
+   "year": 2005,
+   "venue": "Studies in Nonlinear Dynamics and Econometrics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Oil and the Macroeconomy since the 1970s",
+   "authors": [
+    "Robert B. Barsky",
+    "Lutz Kilian"
+   ],
+   "year": 2004,
+   "venue": "Journal of Economic Perspectives",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "In-Sample or Out-of-Sample Tests of Predictability: Which One Should We Use?",
+   "authors": [
+    "Atsushi Inoue",
+    "Lutz Kilian"
+   ],
+   "year": 2004,
+   "venue": "Econometric Reviews",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Bootstrapping Autoregressions in the Presence of Conditional Heteroskedasticity of Unknown Form",
+   "authors": [
+    "Sílvia Gonçalves",
+    "Lutz Kilian"
+   ],
+   "year": 2004,
+   "venue": "Journal of Econometrics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Continuity of the Limit Distribution in the Parameter of Interest is not Essential for the Validity of the Bootstrap",
+   "authors": [
+    "Atsushi Inoue",
+    "Lutz Kilian"
+   ],
+   "year": 2003,
+   "venue": "Econometric Theory",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Why Is It so Difficult to Beat the Random Walk Forecast of Exchange Rates?",
+   "authors": [
+    "Lutz Kilian",
+    "Mark P. Taylor"
+   ],
+   "year": 2003,
+   "venue": "Journal of International Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Data-Driven Nonparametric Spectral Density Estimators for Economic Time Series: A Monte Carlo Study",
+   "authors": [
+    "Ivan Birgean",
+    "Lutz Kilian"
+   ],
+   "year": 2002,
+   "venue": "Econometric Reviews",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Unit Roots, Trend Breaks and Transitory Dynamics: A Macroeconomic Perspective",
+   "authors": [
+    "Lutz Kilian",
+    "Lee E. Ohanian"
+   ],
+   "year": 2002,
+   "venue": "Macroeconomic Dynamics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do We Really Know that Oil Caused the Great Stagflation? A Monetary Alternative",
+   "authors": [
+    "Robert B. Barsky",
+    "Lutz Kilian"
+   ],
+   "year": 2002,
+   "venue": "NBER Macroeconomics Annual",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Bootstrapping Smooth Functions of Slope Parameters and Innovation Variances in VAR(∞) Models",
+   "authors": [
+    "Atsushi Inoue",
+    "Lutz Kilian"
+   ],
+   "year": 2002,
+   "venue": "International Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Quantifying the Uncertainty about the Half-Life of Deviations from PPP",
+   "authors": [
+    "Lutz Kilian",
+    "Tao Zha"
+   ],
+   "year": 2002,
+   "venue": "Journal of Applied Econometrics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Bootstrapping Autoregressive Processes with Possible Unit Roots",
+   "authors": [
+    "Atsushi Inoue",
+    "Lutz Kilian"
+   ],
+   "year": 2002,
+   "venue": "Econometrica",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Measuring Predictability: Theory and Macroeconomic Applications",
+   "authors": [
+    "Francis X. Diebold",
+    "Lutz Kilian"
+   ],
+   "year": 2001,
+   "venue": "Journal of Applied Econometrics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Size Distortions of Tests of the Null Hypothesis of Stationarity: Evidence and Implications for the PPP Debate",
+   "authors": [
+    "Mehmet Caner",
+    "Lutz Kilian"
+   ],
+   "year": 2001,
+   "venue": "Journal of International Money and Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Impulse Response Analysis in Vector Autoregressions with Unknown Lag Order",
+   "authors": [
+    "Lutz Kilian"
+   ],
+   "year": 2001,
+   "venue": "Journal of Forecasting",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How Accurate are Confidence Intervals for Impulse Responses in Large VAR Models?",
+   "authors": [
+    "Pao-Li Chang",
+    "Lutz Kilian"
+   ],
+   "year": 2000,
+   "venue": "Economics Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Unit Root Tests are Useful for Selecting Forecasting Models",
+   "authors": [
+    "Francis X. Diebold",
+    "Lutz Kilian"
+   ],
+   "year": 2000,
+   "venue": "Journal of Business and Economic Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Recent Developments in Bootstrapping Time Series",
+   "authors": [
+    "Jeremy Berkowitz",
+    "Lutz Kilian"
+   ],
+   "year": 2000,
+   "venue": "Econometric Reviews",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Residual-Based Tests for Normality in Autoregressions: Asymptotic Theory and Simulation Evidence",
+   "authors": [
+    "Ufuk Demiroglu",
+    "Lutz Kilian"
+   ],
+   "year": 2000,
+   "venue": "Journal of Business and Economic Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "On the Finite-Sample Accuracy of Nonparametric Resampling Algorithms for Economic Time Series",
+   "authors": [
+    "Jeremy Berkowitz",
+    "Ivan Birgean",
+    "Lutz Kilian"
+   ],
+   "year": 1999,
+   "venue": "Advances in Econometrics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Finite-Sample Properties of Percentile and Percentile-t Bootstrap Confidence Intervals for Impulse Responses",
+   "authors": [
+    "Lutz Kilian"
+   ],
+   "year": 1999,
+   "venue": "Review of Economics and Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Exchange Rates and Monetary Fundamentals: What Do We Learn from Long-Horizon Regressions?",
+   "authors": [
+    "Lutz Kilian"
+   ],
+   "year": 1999,
+   "venue": "Journal of Applied Econometrics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Accounting for Lag Order Uncertainty in Autoregressions: The Endogenous Lag Order Bootstrap Algorithm",
+   "authors": [
+    "Lutz Kilian"
+   ],
+   "year": 1998,
+   "venue": "Journal of Time Series Analysis",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Small-Sample Confidence Intervals for Impulse Response Functions",
+   "authors": [
+    "Lutz Kilian"
+   ],
+   "year": 1998,
+   "venue": "Review of Economics and Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Confidence Intervals for Impulse Responses Under Departures from Normality",
+   "authors": [
+    "Lutz Kilian"
+   ],
+   "year": 1998,
+   "venue": "Econometric Reviews",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Effects of Real and Monetary Shocks in a Business Cycle Model with some Sticky Prices",
+   "authors": [
+    "Lutz Kilian",
+    "Lee E. Ohanian",
+    "Alan C. Stockman"
+   ],
+   "year": 1995,
+   "venue": "Journal of Money, Credit and Banking",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Oil Price Shocks and Inflation",
+   "authors": [
+    "Lutz Kilian",
+    "Xiaoqing Zhou"
+   ],
+   "year": 2025,
+   "venue": "Handbook of Inflation",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Forecasting the Price of Oil",
+   "authors": [
+    "Ron Alquist",
+    "Lutz Kilian",
+    "Robert J. Vigfusson"
+   ],
+   "year": 2013,
+   "venue": "Handbook of Economic Forecasting",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Structural Vector Autoregressions",
+   "authors": [
+    "Lutz Kilian"
+   ],
+   "year": 2013,
+   "venue": "Handbook of Research Methods and Applications in Empirical Macroeconomics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Oil Price Shocks, Monetary Policy and Stagflation",
+   "authors": [
+    "Lutz Kilian"
+   ],
+   "year": 2010,
+   "venue": "Inflation in an Era of Relative Price Shocks",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Semiparametric Local Projections",
+   "authors": [
+    "Sílvia Gonçalves",
+    "Ana María Herrera",
+    "Ivan K. Holban",
+    "Lutz Kilian",
+    "Elena Pesavento"
+   ],
+   "year": 2026,
+   "venue": "Journal of Business and Economic Statistics",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "What the Iran War Teaches Us about the Price Elasticity of Oil Supply",
+   "authors": [
+    "Lutz Kilian",
+    "Kunal Patel"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Declining Impact of Geopolitical Oil Supply Disruptions on the U.S. Economy",
+   "authors": [
+    "Lutz Kilian",
+    "Michael D. Plante",
+    "Alexander W. Richter"
+   ],
+   "year": 2026,
+   "venue": "Federal Reserve Bank of Dallas Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How Times Have Changed: The Impact of the 2026 Iran War on the U.S. Economy",
+   "authors": [
+    "Lutz Kilian",
+    "Michael D. Plante",
+    "Alexander W. Richter"
+   ],
+   "year": 2026,
+   "venue": "Federal Reserve Bank of Dallas Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Impact of the 2026 Iran War on U.S. Inflation: A Scenario Analysis",
+   "authors": [
+    "Lutz Kilian",
+    "Michael D. Plante",
+    "Alexander W. Richter",
+    "Xiaoqing Zhou"
+   ],
+   "year": 2026,
+   "venue": "Federal Reserve Bank of Dallas Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

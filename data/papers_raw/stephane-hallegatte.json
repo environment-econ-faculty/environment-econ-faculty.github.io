@@ -1,0 +1,1019 @@
+{
+ "slug": "stephane-hallegatte",
+ "name": "Stéphane Hallegatte",
+ "sources": [
+  "https://ideas.repec.org/f/pha351.html",
+  "https://www.worldbank.org/en/about/people/s/stephane-hallegatte"
+ ],
+ "collected": "2026-11-06",
+ "notes": "No personal site/CV; built from his self-registered RePEc/IDEAS page (journal articles 2007-2026, a chapter, and unpublished World Bank PRWPs/CESifo/IMF/PIIE working papers 2019-2026). The IDEAS page is very long and was read through an extraction: output is a substantial but NOT exhaustive subset - items whose IDEAS author lists are truncated (e.g. 'Hanson et al.', 'Ranger et al.', 'Erman et al.', 'Peng et al.', 'Mapping the climate change challenge') were left out, as were commentaries/editorials (Noy-Managi-Hallegatte editorials, Nature 'Make climate-change assessments more relevant', etc.), books, and pre-2019 PRWPs. Where IDEAS shows only a surname for a coauthor, the surname is entered as-is (several names are surnames only). 'From Poverty to Disaster and Back' and 'Future flood losses', 'Quantification of disaster impacts' bylines are from memory of the published papers and not verified against the page; treat as lower-confidence. WPs later published as articles were dropped by title match (e.g. PRWP 9943, 10014, 10318, 10486, 10971, Monash 2025-08 version of the NCC 2026 paper). PIIE WP24-6 is the later version of PRWP 10367.",
+ "papers": [
+  {
+   "title": "Impacts of global warming on subnational poverty and inequality",
+   "authors": [
+    "Hai-Anh H. Dang",
+    "Stéphane Hallegatte",
+    "Nguyen",
+    "Trong-Anh Trinh"
+   ],
+   "year": 2026,
+   "venue": "Nature Climate Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Optimal Allocation of Abatement Effort Under Political Constraints: The Economic Cost of Delaying Sectoral and Economy-Wide Climate Policies",
+   "authors": [
+    "Nicolas Bauer",
+    "Stéphane Hallegatte",
+    "Florent McIsaac"
+   ],
+   "year": 2025,
+   "venue": "Environmental & Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Does global warming worsen poverty and inequality? An updated review",
+   "authors": [
+    "Hai-Anh H. Dang",
+    "Stéphane Hallegatte",
+    "Trong-Anh Trinh"
+   ],
+   "year": 2024,
+   "venue": "Journal of Economic Surveys",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Measuring Total Carbon Pricing",
+   "authors": [
+    "Agnolucci",
+    "Carolyn Fischer",
+    "Heine",
+    "Montes de Oca Leon",
+    "Pryor",
+    "Patroni",
+    "Stéphane Hallegatte"
+   ],
+   "year": 2024,
+   "venue": "The World Bank Research Observer",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Modeling the macroeconomic consequences of natural disasters: Capital stock, recovery dynamics, and monetary policy",
+   "authors": [
+    "Stéphane Hallegatte",
+    "Charl Jooste",
+    "Florent McIsaac"
+   ],
+   "year": 2024,
+   "venue": "Economic Modelling",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Supply chains create global benefits from improved vaccine accessibility",
+   "authors": [
+    "Wang",
+    "Bjørnstad",
+    "Lei",
+    "Sun",
+    "Huo",
+    "Hao",
+    "Zeng",
+    "Zhu",
+    "Stéphane Hallegatte",
+    "Li",
+    "Guan",
+    "Stenseth"
+   ],
+   "year": 2023,
+   "venue": "Nature Communications",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Ending extreme poverty has a negligible impact on global greenhouse gas emissions",
+   "authors": [
+    "Philip Wollburg",
+    "Stéphane Hallegatte",
+    "Daniel Gerszon Mahler"
+   ],
+   "year": 2023,
+   "venue": "Nature",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Global evidence of rapid urban growth in flood zones since 1985",
+   "authors": [
+    "Jun Rentschler",
+    "Paolo Avner",
+    "Mattia Marconcini",
+    "Rui Su",
+    "Emanuele Strano",
+    "Michalis Vousdoukas",
+    "Stéphane Hallegatte"
+   ],
+   "year": 2023,
+   "venue": "Nature",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Can we live within environmental limits and still reduce poverty? Degrowth or decoupling?",
+   "authors": [
+    "Jason Hickel",
+    "Stéphane Hallegatte"
+   ],
+   "year": 2022,
+   "venue": "Development Policy Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Flood Protection and Land Value Creation - Not all Resilience Investments Are Created Equal",
+   "authors": [
+    "Paolo Avner",
+    "Vincent Viguié",
+    "Bramka Arga Jafino",
+    "Stéphane Hallegatte"
+   ],
+   "year": 2022,
+   "venue": "Economics of Disasters and Climate Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Expanded disaster risk assessment using agent-based modeling: a case study on floods in Sri Lanka",
+   "authors": [
+    "Brian Walsh",
+    "Stéphane Hallegatte"
+   ],
+   "year": 2022,
+   "venue": "Handbook on the Economics of Disasters (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Criticality analysis of a country's transport network via an agent-based supply chain model",
+   "authors": [
+    "Colon",
+    "Stéphane Hallegatte",
+    "Julie Rozenberg"
+   ],
+   "year": 2021,
+   "venue": "Nature Sustainability",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Quantification of disaster impacts through household well-being losses",
+   "authors": [
+    "Maryia Markhvida",
+    "Brian Walsh",
+    "Stéphane Hallegatte",
+    "Jack Baker"
+   ],
+   "year": 2020,
+   "venue": "Nature Sustainability",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Instrument choice and stranded assets in the transition to clean capital",
+   "authors": [
+    "Julie Rozenberg",
+    "Adrien Vogt-Schilb",
+    "Stéphane Hallegatte"
+   ],
+   "year": 2020,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Socio-Economic Impacts of COVID-19 on Household Consumption and Poverty",
+   "authors": [
+    "Moritz Martin",
+    "Maryia Markhvida",
+    "Stéphane Hallegatte",
+    "Brian Walsh"
+   ],
+   "year": 2020,
+   "venue": "Economics of Disasters and Climate Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Measuring Natural Risks in the Philippines: Socioeconomic Resilience and Wellbeing Losses",
+   "authors": [
+    "Brian Walsh",
+    "Stéphane Hallegatte"
+   ],
+   "year": 2020,
+   "venue": "Economics of Disasters and Climate Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "From Poverty to Disaster and Back: a Review of the Literature",
+   "authors": [
+    "Stéphane Hallegatte",
+    "Adrien Vogt-Schilb",
+    "Julie Rozenberg",
+    "Mook Bangalore",
+    "Chloé Beaudet"
+   ],
+   "year": 2020,
+   "venue": "Economics of Disasters and Climate Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Carbon prices across countries",
+   "authors": [
+    "Chris Bataille",
+    "Céline Guivarch",
+    "Stéphane Hallegatte",
+    "Joeri Rogelj",
+    "Henri Waisman"
+   ],
+   "year": 2018,
+   "venue": "Nature Climate Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Households and heat stress: estimating the distributional consequences of climate change",
+   "authors": [
+    "Yeonjoo Park",
+    "Mook Bangalore",
+    "Stéphane Hallegatte",
+    "Evan Sandhoefner"
+   ],
+   "year": 2018,
+   "venue": "Environment and Development Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Disaster risk, climate change, and poverty: assessing the global exposure of poor people to floods and droughts",
+   "authors": [
+    "Hessel C. Winsemius",
+    "Brenden Jongman",
+    "Ted I. E. Veldkamp",
+    "Stéphane Hallegatte",
+    "Mook Bangalore",
+    "Philip J. Ward"
+   ],
+   "year": 2018,
+   "venue": "Environment and Development Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "When starting with the most expensive option makes sense: Optimal timing, cost and sectoral allocation of abatement investment",
+   "authors": [
+    "Adrien Vogt-Schilb",
+    "Guy Meunier",
+    "Stéphane Hallegatte"
+   ],
+   "year": 2018,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Climate policies and nationally determined contributions: reconciling the needed ambition with the political economy",
+   "authors": [
+    "Adrien Vogt-Schilb",
+    "Stéphane Hallegatte"
+   ],
+   "year": 2017,
+   "venue": "WIREs Energy and Environment",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Climate change through a poverty lens",
+   "authors": [
+    "Stéphane Hallegatte",
+    "Julie Rozenberg"
+   ],
+   "year": 2017,
+   "venue": "Nature Climate Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Normative Exploration of the Link Between Development, Economic Growth, and Natural Risk",
+   "authors": [
+    "Stéphane Hallegatte"
+   ],
+   "year": 2017,
+   "venue": "Economics of Disasters and Climate Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Risk Management for Development - Assessing Obstacles and Prioritizing Action",
+   "authors": [
+    "Stéphane Hallegatte",
+    "Jun Rentschler"
+   ],
+   "year": 2015,
+   "venue": "Risk Analysis",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Marginal abatement cost curves and the quality of emission reductions: a case study on Brazil",
+   "authors": [
+    "Adrien Vogt-Schilb",
+    "Stéphane Hallegatte",
+    "Christophe de Gouvello"
+   ],
+   "year": 2015,
+   "venue": "Climate Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Role of Oscillatory Modes in U.S. Business Cycles",
+   "authors": [
+    "Andreas Groth",
+    "Michael Ghil",
+    "Stéphane Hallegatte",
+    "Patrice Dumas"
+   ],
+   "year": 2015,
+   "venue": "OECD Journal of Business Cycle Measurement and Analysis",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Modeling the Role of Inventories and Heterogeneity in the Assessment of the Economic Costs of Natural Disasters",
+   "authors": [
+    "Stéphane Hallegatte"
+   ],
+   "year": 2014,
+   "venue": "Risk Analysis",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Marginal abatement cost curves and the optimal timing of mitigation measures",
+   "authors": [
+    "Adrien Vogt-Schilb",
+    "Stéphane Hallegatte"
+   ],
+   "year": 2014,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Building SSPs for climate policy analysis: a scenario elicitation methodology to map the space of possible future challenges to mitigation and adaptation",
+   "authors": [
+    "Julie Rozenberg",
+    "Céline Guivarch",
+    "Robert Lempert",
+    "Stéphane Hallegatte"
+   ],
+   "year": 2014,
+   "venue": "Climatic Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Future flood losses in major coastal cities",
+   "authors": [
+    "Stéphane Hallegatte",
+    "Colin Green",
+    "Robert J. Nicholls",
+    "Jan Corfee-Morlot"
+   ],
+   "year": 2013,
+   "venue": "Nature Climate Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Funding low-carbon investments in the absence of a carbon tax",
+   "authors": [
+    "Julie Rozenberg",
+    "Stéphane Hallegatte",
+    "Baptiste Perrissin-Fabert",
+    "Jean-Charles Hourcade"
+   ],
+   "year": 2013,
+   "venue": "Climate Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic Growth and Risk Taking: Is it Rational to Suffer from Increasing Disaster Losses?",
+   "authors": [
+    "Stéphane Hallegatte"
+   ],
+   "year": 2013,
+   "venue": "Review of Environment, Energy and Economics (Re3)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Efficiency and Acceptability of Climate Policies: Race Against the Lock-ins",
+   "authors": [
+    "Julie Rozenberg",
+    "Adrien Vogt-Schilb",
+    "Stéphane Hallegatte"
+   ],
+   "year": 2013,
+   "venue": "Review of Environment, Energy and Economics (Re3)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Modélisation de l'effet d'une taxe sur la construction. Le Versement pour Sous-Densité",
+   "authors": [
+    "Paolo Avner",
+    "Vincent Viguié",
+    "Stéphane Hallegatte"
+   ],
+   "year": 2013,
+   "venue": "Revue de l'OFCE",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Firm-network characteristics and economic robustness to natural disasters",
+   "authors": [
+    "Fanny Henriet",
+    "Stéphane Hallegatte",
+    "Lionel Tabourier"
+   ],
+   "year": 2012,
+   "venue": "Journal of Economic Dynamics and Control",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Adaptation to an uncertain climate change: cost benefit analysis and robust decision making for dam dimensioning",
+   "authors": [
+    "Nassopoulos",
+    "Dumas",
+    "Stéphane Hallegatte"
+   ],
+   "year": 2012,
+   "venue": "Climatic Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Trade-offs and synergies in urban climate policies",
+   "authors": [
+    "Vincent Viguié",
+    "Stéphane Hallegatte"
+   ],
+   "year": 2012,
+   "venue": "Nature Climate Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The costs of climate policies in a second-best world with labour market imperfections",
+   "authors": [
+    "Céline Guivarch",
+    "Rémi Crassous",
+    "Olivier Sassi",
+    "Stéphane Hallegatte"
+   ],
+   "year": 2011,
+   "venue": "Climatic Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Existing infrastructure and the 2 C target",
+   "authors": [
+    "Céline Guivarch",
+    "Stéphane Hallegatte"
+   ],
+   "year": 2011,
+   "venue": "Climatic Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The economics of climate change impacts and policy benefits at city scale: a conceptual framework",
+   "authors": [
+    "Stéphane Hallegatte",
+    "Fanny Henriet",
+    "Jan Corfee-Morlot"
+   ],
+   "year": 2011,
+   "venue": "Climatic Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The resilience of the Indian economy to rising oil prices as a validation test for a global energy-environment-economy CGE model",
+   "authors": [
+    "Céline Guivarch",
+    "Stéphane Hallegatte",
+    "Rémi Crassous"
+   ],
+   "year": 2009,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Can natural disasters have positive consequences? Investigating the role of embodied technical change",
+   "authors": [
+    "Stéphane Hallegatte",
+    "Patrice Dumas"
+   ],
+   "year": 2009,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Business cycles, bifurcations and chaos in a neo-classical model with investment dynamics",
+   "authors": [
+    "Stéphane Hallegatte",
+    "Michael Ghil",
+    "Patrice Dumas",
+    "Jean-Charles Hourcade"
+   ],
+   "year": 2008,
+   "venue": "Journal of Economic Behavior & Organization",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Natural disasters impacting a macroeconomic model with endogenous dynamics",
+   "authors": [
+    "Stéphane Hallegatte",
+    "Michael Ghil"
+   ],
+   "year": 2008,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Compact or spread-out cities: Urban planning, taxation, and the vulnerability to transportation shocks",
+   "authors": [
+    "Gusdorf",
+    "Stéphane Hallegatte"
+   ],
+   "year": 2007,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Behaviors and housing inertia are key factors in determining the consequences of a shock in transportation costs",
+   "authors": [
+    "Gusdorf",
+    "Stéphane Hallegatte"
+   ],
+   "year": 2007,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Why economic dynamics matter in assessing climate change damages: illustration on extreme events",
+   "authors": [
+    "Stéphane Hallegatte",
+    "Jean-Charles Hourcade",
+    "Patrice Dumas"
+   ],
+   "year": 2007,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do Current Assessments Underestimate Future Damages From Climate Change?",
+   "authors": [
+    "Stéphane Hallegatte"
+   ],
+   "year": 2007,
+   "venue": "World Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Les impacts économiques futurs du changement climatique sont-ils sous-estimés ?",
+   "authors": [
+    "Stéphane Hallegatte",
+    "Théry"
+   ],
+   "year": 2007,
+   "venue": "Revue d'économie politique",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Poverty Cost of Greenhouse Gas Emissions",
+   "authors": [
+    "Stéphane Hallegatte",
+    "Daniel Gerszon Mahler",
+    "Décerf"
+   ],
+   "year": 2026,
+   "venue": "World Bank Policy Research Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Assessing The Real-World Economic Value of Weather Forecasts under Compounding Extremes: A Decision-Specific Framework",
+   "authors": [
+    "Olivetti",
+    "Messori",
+    "Avner",
+    "Stéphane Hallegatte"
+   ],
+   "year": 2026,
+   "venue": "World Bank Policy Research Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Global Flood Risk in the 2026/27 El Nino: An Empirical Estimate from the Historical Relationship",
+   "authors": [
+    "Stéphane Hallegatte"
+   ],
+   "year": 2026,
+   "venue": "CESifo Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Growth and Debt Sustainability Trade-offs in the Presence of Climate Shocks and Uncertainties",
+   "authors": [
+    "Tercioglu",
+    "Stéphane Hallegatte",
+    "Charl Jooste",
+    "Florent McIsaac"
+   ],
+   "year": 2026,
+   "venue": "CESifo Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Modeling Supply-Chain and Transport Resilience to Climate Risks: Lessons from Four Regions",
+   "authors": [
+    "Colon",
+    "Stéphane Hallegatte"
+   ],
+   "year": 2026,
+   "venue": "CESifo Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Worldwide Job Losses Due to Natural Hazards",
+   "authors": [
+    "Isah",
+    "Jun Rentschler",
+    "Middelanis",
+    "Paolo Avner",
+    "Stéphane Hallegatte"
+   ],
+   "year": 2026,
+   "venue": "World Bank Policy Research Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "One-Fifth of the World's Population Is at High Risk of Climate-Related Hazards",
+   "authors": [
+    "Hill",
+    "Gorgulu",
+    "Brunckhorst",
+    "Nguyen",
+    "Stéphane Hallegatte",
+    "Naikal"
+   ],
+   "year": 2026,
+   "venue": "World Bank Policy Research Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Climate Policies are Path-Dependent: Implications for Policy Sequencing and Feasibility",
+   "authors": [
+    "Mealy",
+    "Michael Ganslmeier",
+    "Stéphane Hallegatte"
+   ],
+   "year": 2025,
+   "venue": "World Bank Policy Research Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Global Socio-economic Resilience to Natural Disasters",
+   "authors": [
+    "Middelanis",
+    "Bramka Arga Jafino",
+    "Hill",
+    "Nguyen",
+    "Stéphane Hallegatte"
+   ],
+   "year": 2025,
+   "venue": "World Bank Policy Research Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Macroeconomic implications of a transition to net zero emissions",
+   "authors": [
+    "Stéphane Hallegatte",
+    "Florent McIsaac",
+    "Hasan Dudu",
+    "Charl Jooste",
+    "Christian Knudsen",
+    "Anne Beck"
+   ],
+   "year": 2024,
+   "venue": "Peterson Institute for International Economics Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How Delayed Learning about Climate Uncertainty Impacts Decarbonization Investment Strategies",
+   "authors": [
+    "Nicolas Bauer",
+    "Florent McIsaac",
+    "Stéphane Hallegatte"
+   ],
+   "year": 2024,
+   "venue": "World Bank Policy Research Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Counting People Exposed to, Vulnerable to, or at High Risk From Climate Shocks: A Methodology",
+   "authors": [
+    "Doan",
+    "Hill",
+    "Stéphane Hallegatte",
+    "Corral Rodas",
+    "Brunckhorst",
+    "Nguyen",
+    "Freije-Rodriguez",
+    "Naikal"
+   ],
+   "year": 2023,
+   "venue": "World Bank Policy Research Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Efficiency and Equity in Urban Flood Management Policies: A Systematic Urban Economics Exploration",
+   "authors": [
+    "Liotta",
+    "Paolo Avner",
+    "Stéphane Hallegatte"
+   ],
+   "year": 2023,
+   "venue": "World Bank Policy Research Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Bank Stress Testing of Physical Risks under Climate Change Macro Scenarios: Typhoon Risks to the Philippines",
+   "authors": [
+    "Stéphane Hallegatte",
+    "Lipinsky",
+    "Morales",
+    "Oura",
+    "Ranger",
+    "Regelink",
+    "Reinders"
+   ],
+   "year": 2022,
+   "venue": "IMF Working Papers",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Floods and Their Impacts on Firms: Evidence from Tanzania",
+   "authors": [
+    "Jun Rentschler",
+    "Kim",
+    "Thies",
+    "De Vries Robbe",
+    "Erman",
+    "Stéphane Hallegatte"
+   ],
+   "year": 2021,
+   "venue": "World Bank Policy Research Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "'Building Back Better' in Practice: A Science-Policy Framework for a Green Economic Recovery after COVID-19",
+   "authors": [
+    "Zachariadis",
+    "Giannakis",
+    "Taliotis",
+    "Karmellos",
+    "Fylaktos",
+    "Howells",
+    "Blyth",
+    "Stéphane Hallegatte"
+   ],
+   "year": 2021,
+   "venue": "World Bank Policy Research Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Revised Estimates of the Impact of Climate Change on Extreme Poverty by 2030",
+   "authors": [
+    "Bramka Arga Jafino",
+    "Brian Walsh",
+    "Julie Rozenberg",
+    "Stéphane Hallegatte"
+   ],
+   "year": 2020,
+   "venue": "World Bank Policy Research Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Resilient Infrastructure for Thriving Firms: A Review of The Evidence",
+   "authors": [
+    "Braese",
+    "Jun Rentschler",
+    "Stéphane Hallegatte"
+   ],
+   "year": 2019,
+   "venue": "World Bank Policy Research Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Well Spent: How Governance Determines the Effectiveness of Infrastructure Investments",
+   "authors": [
+    "Kornejew",
+    "Jun Rentschler",
+    "Stéphane Hallegatte"
+   ],
+   "year": 2019,
+   "venue": "World Bank Policy Research Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Moral Hazard vs. Land Scarcity: Flood Management Policies for the Real World",
+   "authors": [
+    "Paolo Avner",
+    "Stéphane Hallegatte"
+   ],
+   "year": 2019,
+   "venue": "World Bank Policy Research Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Underutilized Potential: The Business Costs of Unreliable Infrastructure in Developing Countries",
+   "authors": [
+    "Jun Rentschler",
+    "Kornejew",
+    "Stéphane Hallegatte",
+    "Braese",
+    "Obolensky"
+   ],
+   "year": 2019,
+   "venue": "World Bank Policy Research Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Infrastructure Disruptions: How Instability Breeds Household Vulnerability",
+   "authors": [
+    "Obolensky",
+    "Erman",
+    "Julie Rozenberg",
+    "Jun Rentschler",
+    "Paolo Avner",
+    "Stéphane Hallegatte"
+   ],
+   "year": 2019,
+   "venue": "World Bank Policy Research Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Strengthening New Infrastructure Assets: A Cost-Benefit Analysis",
+   "authors": [
+    "Stéphane Hallegatte",
+    "Julie Rozenberg",
+    "Jun Rentschler",
+    "Nicolas",
+    "Fox"
+   ],
+   "year": 2019,
+   "venue": "World Bank Policy Research Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Socioeconomic Resilience in Sri Lanka: Natural Disaster Poverty and Wellbeing Impact Assessment",
+   "authors": [
+    "Brian Walsh",
+    "Stéphane Hallegatte"
+   ],
+   "year": 2019,
+   "venue": "World Bank Policy Research Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

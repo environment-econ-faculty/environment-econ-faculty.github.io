@@ -9,10 +9,10 @@ from datetime import date
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = os.path.join(ROOT, "data", "scholars")
 
-RANK = {"Professor": "正教授", "Associate Professor": "副教授", "Assistant Professor": "助理教授"}
+RANK = {"Professor": "正教授", "Associate Professor": "副教授", "Assistant Professor": "助理教授", "Economist": "机构经济学家"}
 APPT = {"primary": "经济系", "joint": "合聘", "secondary/courtesy": "外系挂靠", "own_unit": "本院系"}
 UNIT = {"economics": "经济系", "ag_resource_econ": "农经/资源经济", "public_policy": "公共政策", "business": "商学院",
-        "environment": "环境学院", "other": "其他"}
+        "environment": "环境学院", "institution": "政策机构", "other": "其他"}
 TIER = {"primary_field": "核心领域", "secondary_field": "领域之一", "research_only": "相关研究"}
 SUB = {"energy": "能源", "environmental": "环境", "climate": "气候", "pollution/health": "污染与健康",
        "natural resources": "自然资源", "agricultural": "农业", "land use": "土地利用", "water": "水资源",

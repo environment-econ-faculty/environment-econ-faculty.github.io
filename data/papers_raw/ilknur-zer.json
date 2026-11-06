@@ -1,0 +1,168 @@
+{
+ "slug": "ilknur-zer",
+ "name": "Ilknur Zer",
+ "sources": [
+  "https://www.federalreserve.gov/econres/ilknur-zer.htm"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Source: Fed Board economist profile page (updated Feb 2026; full bylines). Excluded FEDS Notes, SNB-FRB-BIS conference summaries, a Bank of England Quarterly Bulletin article and a UK Government Office for Science report. FEDS/IFDP versions of later-published papers dropped. \"Information Disclosures, Default Risk, and Bank Value\" is a FEDS paper (kept as working paper). A 2022 byline in the Dennis list reads Zer Boudet.",
+ "papers": [
+  {
+   "title": "Climate-Related Financial Stability Risks for the United States: Methods and Applications",
+   "authors": [
+    "Celso Brunetti",
+    "Matteo Crosignani",
+    "Benjamin Dennis",
+    "Gurubala Kotta",
+    "Donald P. Morgan",
+    "Chaehee Shin",
+    "Ilknur Zer"
+   ],
+   "year": 2024,
+   "venue": "Economic Policy Review",
+   "status": "已发表",
+   "url": "https://doi.org/10.59576/epr.30.1.1-37",
+   "abstract": null
+  },
+  {
+   "title": "The Impact of Risk Cycles on Business Cycles: A Historical View",
+   "authors": [
+    "Jon Danielsson",
+    "Marcela Valenzuela",
+    "Ilknur Zer"
+   ],
+   "year": 2023,
+   "venue": "Review of Financial Studies",
+   "status": "已发表",
+   "url": "https://doi.org/10.1093/rfs/hhac091",
+   "abstract": null
+  },
+  {
+   "title": "What Is Certain about Uncertainty?",
+   "authors": [
+    "Danilo Cascaldi-Garcia",
+    "Cisil Sarisoy",
+    "Juan M. Londono",
+    "Bo Sun",
+    "Deepa Datta",
+    "Thiago Ferreira",
+    "Olesya Grishchenko",
+    "Mohammad R. Jahan-Parvar",
+    "Francesca Loria",
+    "Sai Ma",
+    "Marius Rodriguez",
+    "Ilknur Zer",
+    "John Rogers"
+   ],
+   "year": 2023,
+   "venue": "Journal of Economic Literature",
+   "status": "已发表",
+   "url": "https://doi.org/10.1257/jel.20211645",
+   "abstract": null
+  },
+  {
+   "title": "Measuring the Liquidity Profile of Mutual Funds",
+   "authors": [
+    "Sirio Aramonte",
+    "Chiara Scotti",
+    "Ilknur Zer"
+   ],
+   "year": 2020,
+   "venue": "International Journal of Central Banking",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Role of US Monetary Policy in Banking Crises Across the World",
+   "authors": [
+    "C. Bora Durdu",
+    "Alex Martin",
+    "Ilknur Zer"
+   ],
+   "year": 2020,
+   "venue": "IMF Economic Review",
+   "status": "已发表",
+   "url": "https://doi.org/10.1057/s41308-020-00109-1",
+   "abstract": null
+  },
+  {
+   "title": "Learning from History: Volatility and Financial Crises",
+   "authors": [
+    "Jon Danielsson",
+    "Marcela Valenzuela",
+    "Ilknur Zer"
+   ],
+   "year": 2018,
+   "venue": "Review of Financial Studies",
+   "status": "已发表",
+   "url": "https://doi.org/10.1093/rfs/hhy049",
+   "abstract": null
+  },
+  {
+   "title": "Can We Prove a Bank Guilty of Creating Systemic Risk? A Minority Report",
+   "authors": [
+    "Jon Danielsson",
+    "Kevin James",
+    "Marcela Valenzuela",
+    "Ilknur Zer"
+   ],
+   "year": 2016,
+   "venue": "Journal of Money, Credit and Banking",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/jmcb.12318",
+   "abstract": null
+  },
+  {
+   "title": "Model Risk of Risk Models",
+   "authors": [
+    "Jon Danielsson",
+    "Kevin James",
+    "Marcela Valenzuela",
+    "Ilknur Zer"
+   ],
+   "year": 2016,
+   "venue": "Journal of Financial Stability",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jfs.2016.02.002",
+   "abstract": null
+  },
+  {
+   "title": "Information Disclosures, Default Risk, and Bank Value",
+   "authors": [
+    "Ilknur Zer"
+   ],
+   "year": 2015,
+   "venue": "FEDS (Finance and Economics Discussion Series)",
+   "status": "工作论文",
+   "url": "https://doi.org/10.17016/FEDS.2015.104",
+   "abstract": null
+  },
+  {
+   "title": "Relative Liquidity and Future Volatility",
+   "authors": [
+    "Marcela Valenzuela",
+    "Ilknur Zer",
+    "Piotr Fryzlewicz",
+    "Thorsten Rheinlander"
+   ],
+   "year": 2015,
+   "venue": "Journal of Financial Markets",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.finmar.2015.03.001",
+   "abstract": null
+  },
+  {
+   "title": "Competition, Signaling and Non-Walking Through the Book: Effects on Order Choice",
+   "authors": [
+    "Marcela Valenzuela",
+    "Ilknur Zer"
+   ],
+   "year": 2013,
+   "venue": "Journal of Banking & Finance",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jbankfin.2013.04.014",
+   "abstract": null
+  }
+ ]
+}

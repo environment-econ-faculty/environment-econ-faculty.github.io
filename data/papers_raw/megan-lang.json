@@ -1,0 +1,168 @@
+{
+ "slug": "megan-lang",
+ "name": "Megan Lang",
+ "sources": [
+  "https://www.meganlangecon.com/research",
+  "https://www.meganlangecon.com/cv (CV PDF)"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Homepage research page (newest) plus CV PDF (older). Page gives '(with ...)' lists; where 'in that order' is stated for the other authors their order is kept, with Lang placed alphabetically if the others are alphabetical, else first (inferred). Electrifying Africa WP (PRWP 11339) byline Dabalen, Khemani, Lang, Timilsina taken from Timilsina's RePEc page. Working-paper years from World Bank document IDs / page dates (Childcare 2026, Firm-level adaptation 2025, Building Women's Skills 2024 per file name, Cherry Picking undated -> 2026). Flagship-report chapters, policy pieces, work in progress and registry-only 'Scaling Skills' skipped. Shaping Africa's Post-Covid Recovery chapter byline from Kondylis CV.",
+ "papers": [
+  {
+   "title": "Using Price Incentives to Bound Welfare from Pay as You Go Solar Electricity",
+   "authors": [
+    "Megan Lang"
+   ],
+   "year": 2026,
+   "venue": "Journal of Public Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jpubeco.2026.105656",
+   "abstract": null
+  },
+  {
+   "title": "Decentralized Markets for Electricity in Low-Income Countries",
+   "authors": [
+    "Megan Lang"
+   ],
+   "year": 2025,
+   "venue": "Journal of Public Economics",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/pii/S004727272500074X",
+   "abstract": null
+  },
+  {
+   "title": "The Role of Market Frictions in Demand for Prepaid Electricity",
+   "authors": [
+    "Megan Lang"
+   ],
+   "year": 2025,
+   "venue": "Journal of Development Economics",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/pii/S030438782500046X",
+   "abstract": null
+  },
+  {
+   "title": "Firms and Climate Change in Low- and Middle-Income Countries",
+   "authors": [
+    "Ana Goicoechea",
+    "Megan Lang"
+   ],
+   "year": 2025,
+   "venue": "World Bank Research Observer",
+   "status": "已发表",
+   "url": "https://academic.oup.com/wbro/advance-article/doi/10.1093/wbro/lkaf001/8026074",
+   "abstract": null
+  },
+  {
+   "title": "Psychology, Skills, or Cash? Evidence on Marginal Investments",
+   "authors": [
+    "Megan Lang",
+    "Edward Soule",
+    "Catherine Tinsley"
+   ],
+   "year": 2024,
+   "venue": "Economic Development and Cultural Change",
+   "status": "已发表",
+   "url": "https://www.journals.uchicago.edu/doi/10.1086/727787",
+   "abstract": null
+  },
+  {
+   "title": "Sectoral Heterogeneity in the Covid-19 Recovery: Evidence from Rwanda",
+   "authors": [
+    "Kieran Byrne",
+    "Saahil Karpe",
+    "Florence Kondylis",
+    "Megan Lang",
+    "John Loeser"
+   ],
+   "year": 2021,
+   "venue": "Shaping Africa's Post-Covid Recovery (CEPR Vox eBooks, book chapter)",
+   "status": "已发表",
+   "url": "https://cepr.org/publications/books-and-reports/shaping-africas-post-covid-recovery",
+   "abstract": null
+  },
+  {
+   "title": "Childcare for Informal-Sector Workers: Delivery Models, Access, and Welfare",
+   "authors": [
+    "Megan Lang",
+    "Sylvan Herskowitz",
+    "Anna Fiore",
+    "Jacklyn Makaaru",
+    "Francis Mwesigye",
+    "Tracy Nalumansi"
+   ],
+   "year": 2026,
+   "venue": "World Bank Working Paper",
+   "status": "工作论文",
+   "url": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099342209082635880",
+   "abstract": null
+  },
+  {
+   "title": "Financial Inclusion and Electricity Uptake",
+   "authors": [
+    "Megan Lang",
+    "Alpha Ly"
+   ],
+   "year": 2026,
+   "venue": "CESifo Working Paper",
+   "status": "工作论文",
+   "url": "https://www.ifo.de/en/cesifo/publications/2026/working-paper/financial-inclusion-and-electricity-uptake",
+   "abstract": null
+  },
+  {
+   "title": "Firm-Level Climate Change Adaptation: Micro Evidence from 134 Nations",
+   "authors": [
+    "Megan Lang",
+    "Claudia Berg",
+    "Luca Bettarelli",
+    "Davide Furceri",
+    "Michael Ganslmeier",
+    "Arti Grover",
+    "Marc Schiffbauer"
+   ],
+   "year": 2025,
+   "venue": "World Bank Working Paper",
+   "status": "工作论文",
+   "url": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099629503052522688/null",
+   "abstract": null
+  },
+  {
+   "title": "Electrifying Africa's Economic Transformation: What Reforms Should Governments Pursue?",
+   "authors": [
+    "Andrew L. Dabalen",
+    "Stuti Khemani",
+    "Megan Lang",
+    "Govinda R. Timilsina"
+   ],
+   "year": 2026,
+   "venue": "World Bank Policy Research Working Paper",
+   "status": "工作论文",
+   "url": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099306303202617484",
+   "abstract": null
+  },
+  {
+   "title": "Building Women's Skills for Economic Inclusion",
+   "authors": [
+    "Megan Lang",
+    "Julia Seither"
+   ],
+   "year": 2024,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://www.dropbox.com/scl/fi/2btu42qp1hwq7uf69zx0f/EoWE_May24.pdf?rlkey=op6uxohbhq3zits3yq6053fqt&st=ncx4aiqc&dl=1",
+   "abstract": null
+  },
+  {
+   "title": "Cherry Picking",
+   "authors": [
+    "Megan Lang",
+    "Wenfeng Qiu"
+   ],
+   "year": 2026,
+   "venue": "MetaArXiv preprint",
+   "status": "工作论文",
+   "url": "https://osf.io/preprints/metaarxiv/as9zd/",
+   "abstract": null
+  }
+ ]
+}

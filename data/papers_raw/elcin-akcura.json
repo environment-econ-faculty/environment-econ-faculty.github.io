@@ -1,0 +1,68 @@
+{
+ "slug": "elcin-akcura",
+ "name": "Elcin Akcura",
+ "sources": [
+  "https://ideas.repec.org/e/pak120.html",
+  "https://search.worldbank.org/api/v3/wds"
+ ],
+ "collected": "2026-11-06",
+ "notes": "From her self-registered RePEc page, cross-checked against the World Bank documents database (Policy Research Working Paper series). No personal site/CV available; coverage limited to registered items. The 2011 Cambridge and 2013 EBRD working papers are versions of the same paper; only the later EBRD version is kept.",
+ "papers": [
+  {
+   "title": "Global Stock-Take of Fuel Subsidies and Pricing Policies",
+   "authors": [
+    "Elcin Akcura"
+   ],
+   "year": 2025,
+   "venue": "World Bank Policy Research Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Global Assessment of Domestic Petroleum Fuel Prices",
+   "authors": [
+    "Elcin Akcura"
+   ],
+   "year": 2025,
+   "venue": "World Bank Policy Research Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Global Evolution of Power Market Designs",
+   "authors": [
+    "Elcin Akcura",
+    "Emelly Mutambatsere"
+   ],
+   "year": 2024,
+   "venue": "World Bank Policy Research Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Mandatory versus voluntary payment for green electricity",
+   "authors": [
+    "Elcin Akcura"
+   ],
+   "year": 2015,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Information effects on consumer willingness to pay for electricity and water service attributes",
+   "authors": [
+    "Elcin Akcura"
+   ],
+   "year": 2013,
+   "venue": "European Bank for Reconstruction and Development Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

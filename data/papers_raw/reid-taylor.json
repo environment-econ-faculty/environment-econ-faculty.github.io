@@ -1,0 +1,89 @@
+{
+ "slug": "reid-taylor",
+ "name": "Reid Taylor",
+ "sources": [
+  "https://reidlacroixtaylor.weebly.com/uploads/1/2/3/0/123014398/cv_taylor.pdf",
+  "https://reidlacroixtaylor.weebly.com/",
+  "https://www.dallasfed.org/people/research/economists/taylor"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Source: CV (updated Mar 2026), personal site (links to two Dallas WPs) and Dallas Fed profile (5 WPs, coauthors listed without Taylor). Coauthors given as \"(with ...)\" so alphabetical by surname. The R&R at JAERE \"Climate Change and the Regulation of a Crashing Insurance Market\" is the paper titled \"Last Resort Insurance: Wildfires and the Regulation of a Crashing Market\" in the Dallas WP series (WP 2510); CV title used. \"Do Bill Shocks...\" Energy Journal 46(6) taken as 2025 (WP link is the earlier Dallas WP 2405). Years for undated working papers: 2026.",
+ "papers": [
+  {
+   "title": "Do Bill Shocks Induce Energy Efficiency Investments?",
+   "authors": [
+    "Corey Lang",
+    "Kevin Nakolan",
+    "David S. Rapson",
+    "Reid Taylor"
+   ],
+   "year": 2025,
+   "venue": "The Energy Journal",
+   "status": "已发表",
+   "url": "https://www.dallasfed.org/research/papers/2024/wp2405",
+   "abstract": null
+  },
+  {
+   "title": "Processing Power: The Effect of Data Centers on Wholesale Electricity Markets",
+   "authors": [
+    "Owen Kay",
+    "Robert Reaser",
+    "Reid Taylor"
+   ],
+   "year": 2026,
+   "venue": "Federal Reserve Bank of Dallas Working Paper",
+   "status": "工作论文",
+   "url": "https://www.dallasfed.org/research/papers/2026/wp2606",
+   "abstract": null
+  },
+  {
+   "title": "The Effects of Competition in the Retail Gasoline Industry",
+   "authors": [
+    "Erich Muehlegger",
+    "Reid Taylor"
+   ],
+   "year": 2025,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "修改重投",
+   "url": "https://www.dallasfed.org/research/papers/2025/wp2509",
+   "abstract": null
+  },
+  {
+   "title": "Climate Change and the Regulation of a Crashing Insurance Market",
+   "authors": [
+    "Reid Taylor",
+    "Madeline Turland",
+    "Joakim A. Weill"
+   ],
+   "year": 2025,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "修改重投",
+   "url": "https://www.dallasfed.org/research/papers/2025/wp2510",
+   "abstract": null
+  },
+  {
+   "title": "The Interplay between Health Insurance and Auto Insurance: Lessons from the ACA",
+   "authors": [
+    "Andrew Friedson",
+    "Reid Taylor"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Incidence of Fuel-Price Shocks and Tax Holidays: Evidence from the 2026 Oil Shock",
+   "authors": [
+    "Jacob T. Bradt",
+    "Reid Taylor"
+   ],
+   "year": 2026,
+   "venue": "Federal Reserve Bank of Dallas Working Paper",
+   "status": "工作论文",
+   "url": "https://www.dallasfed.org/research/papers/2026/wp2624",
+   "abstract": null
+  }
+ ]
+}

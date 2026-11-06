@@ -1,0 +1,488 @@
+{
+ "slug": "andrea-pescatori",
+ "name": "Andrea Pescatori",
+ "sources": [
+  "https://www.imf.org/en/research/researcher-cv/author/pescatori-andrea",
+  "https://ideas.repec.org/e/ppe165.html",
+  "https://ideas.repec.org/p/imf/imfwpa/ (per-paper IMF WP pages for authors)",
+  "https://api.crossref.org (title lookup for published versions)"
+ ],
+ "collected": "2026-11-06",
+ "notes": "IMF researcher CV (titles) + self-registered RePEc author page + IDEAS IMF WP pages (authors, abstracts). IMF working papers whose Crossref title match is a journal article are listed as the published version. CV says it is not fully up to date; WEO chapters, F&D, Cleveland Fed Economic Commentaries and Departmental Paper skipped. Year of Cleveland Fed 2007 and Roma Tre working papers from RePEc; 'Debt overhang' Cleveland WP 1003 replaced by EER version.",
+ "papers": [
+  {
+   "title": "Lower for Longer: Neutral Rate in the U.S.",
+   "authors": [
+    "Andrea Pescatori",
+    "Jarkko Turunen"
+   ],
+   "year": 2016,
+   "venue": "IMF Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Expansionary Austerity? International Evidence",
+   "authors": [
+    "Jaime Guajardo",
+    "Daniel Leigh",
+    "Andrea Pescatori"
+   ],
+   "year": 2014,
+   "venue": "Journal of the European Economic Association",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Oil and the Great Moderation",
+   "authors": [
+    "Anton Nakov",
+    "Andrea Pescatori"
+   ],
+   "year": 2010,
+   "venue": "Economic Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Monetary Policy Trade-Offs with a Dominant Oil Producer",
+   "authors": [
+    "Anton Nakov",
+    "Andrea Pescatori"
+   ],
+   "year": 2010,
+   "venue": "Journal of Money, Credit and Banking",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Are Debt Crises Adequately Defined?",
+   "authors": [
+    "Andrea Pescatori",
+    "Amadou N. R. Sy"
+   ],
+   "year": 2007,
+   "venue": "IMF Staff Papers",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Debt Overhang in a Business Cycle Model",
+   "authors": [
+    "Filippo Occhino",
+    "Andrea Pescatori"
+   ],
+   "year": 2015,
+   "venue": "European Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Leverage, Investment, and Optimal Monetary Policy",
+   "authors": [
+    "Filippo Occhino",
+    "Andrea Pescatori"
+   ],
+   "year": 2014,
+   "venue": "The B.E. Journal of Macroeconomics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Incomplete Markets and Households' Exposure to Interest Rate and Inflation Risk: Implications for the Monetary Policy Maker",
+   "authors": [
+    "Andrea Pescatori"
+   ],
+   "year": 2007,
+   "venue": "Federal Reserve Bank of Cleveland Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Credit Frictions, Housing Prices and Optimal Monetary Policy Rules",
+   "authors": [
+    "Caterina Mendicino",
+    "Andrea Pescatori"
+   ],
+   "year": 2005,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Power Hungry: How AI Will Drive Energy Demand",
+   "authors": [
+    "Christian Bogmans",
+    "Patricia Gomez-Gonzalez",
+    "Ganchimeg Ganpurev",
+    "Giovanni Melina",
+    "Andrea Pescatori",
+    "Sneha D Thube"
+   ],
+   "year": 2026,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.eneco.2026.109278",
+   "abstract": "The development and deployment of large language models like ChatGPT across the world requires expanding data centers that consume vast amounts of electricity. Using descriptive statistics and a multi-country computable general equilibrium model (IMF-ENV), we examine how AI-driven data center growth affects electricity consumption, electricity prices, and carbon emissions. Our analysis of national accounts reveals AI-producing sectors in the U.S. have grown nearly triple the rate of the private non-farm business sector, with firm-level evidence showing electricity costs for vertically integrated AI companies nearly doubled between 2019-2023. Simulating AI scenarios in the IMF-ENV model based on projected data center power consumption up to 2030, we find the AI boom will cause manageable but varying increases in energy prices and emissions depending on policies and infrastructure constraints. Under scenarios with constrained growth in renewable energy capacity and limited expansion of transmission infrastructure, U.S. electricity prices could increase by 8.6%, while U.S. and global carbon emissions would rise by 5.5% and 1.2% respectively under current policies. Our findings highlight the importance of aligning energy policies with AI development to support this technological revolution, while mitigating environmental impacts."
+  },
+  {
+   "title": "Beyond Energy: Inflationary Effects of Metals Price Shocks in Production Networks",
+   "authors": [
+    "Jorge Alberto Miranda Pinto",
+    "Andrea Pescatori",
+    "Martin Stuermer",
+    "Xueliang Wang"
+   ],
+   "year": 2024,
+   "venue": "IMF Working Paper",
+   "status": "工作论文",
+   "url": "https://ideas.repec.org/p/imf/imfwpa/2024-215.html",
+   "abstract": "We examine the role of metals as economic inputs by using a production network model, calibrated for various countries using input-output (I-O) tables. Empirically, we employ local projections to study how metal shocks influence inflation, testing country-level heterogeneity in the sensitivity to these shocks. Our findings indicate that metals price shocks have significant and persistent effects on core and headline inflation, with particularly pronounced effects on countries that are highly exposed to metals in their production networks. This is in contrasts to oil supply shocks, which predominantly affect headline inflation. A shift of the global economy towards a higher relative metals intensity due to the energy transition could lead to commodity price shocks increasingly influencing core rather than headline inflation. This could make commodity price shocks less visible on impact but more persistent. Central banks should consider this shift when assessing inflation dynamics and risks."
+  },
+  {
+   "title": "How do Economic Growth and Food Inflation Affect Food Insecurity?",
+   "authors": [
+    "Christian Bogmans",
+    "Andrea Pescatori",
+    "Ervin Prifti"
+   ],
+   "year": 2025,
+   "venue": "Macroeconomic Dynamics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1017/s1365100525100369",
+   "abstract": "During the global recession of 2020 food insecurity increased substantially in many countries around the world. Fortunately, the surge in food insecurity quickly came to a halt as the world economy returned to its positive growth path, despite double-digit domestic food inflation in most countries. To shed light on the relative importance of income growth and food inflation in driving food insecurity, we employ a heterogeneous-agent model with income inequality, complemented by novel cross-country data for the period 2001-2021. We use external instruments (changes in commodity terms-of-trade, external economic growth, and harvest shocks) to isolate exogenous variation in domestic income growth and ood inflation. Our findings suggest that income growth is the dominant driver of annual variations in food insecurity, while food price inflation plays a somewhat smaller role, aligning with our model predictions."
+  },
+  {
+   "title": "The Power of Prices: How Fast Do Commodity Markets Adjust to Shocks?",
+   "authors": [
+    "Christian Bogmans",
+    "Andrea Pescatori",
+    "Ivan Petrella",
+    "Ervin Prifti",
+    "Martin Stuermer"
+   ],
+   "year": 2024,
+   "venue": "IMF Working Paper",
+   "status": "工作论文",
+   "url": "https://ideas.repec.org/p/imf/imfwpa/2024-077.html",
+   "abstract": "This paper establishes supply and demand elasticities for a broad set of commodities based on a consistent dataset and identification methodology. We apply granular IV methods to a new cross-country panel dataset of commodity production and consumption from 1960-2021. The results indicate that commodity demand and supply are typically price inelastic. Demand and supply tend to be the most inelastic for minerals, whereas they are most elastic for agricultural commodities. The elasticities of energy commodities fall somewhere in between. Supply and demand become more elastic at longer time horizons for mineral and energy commodities, but not for most agricultural commodities."
+  },
+  {
+   "title": "Can Energy Subsidies Help Slay Inflation?",
+   "authors": [
+    "Christopher J. Erceg",
+    "Marcin Kolasa",
+    "Jesper Lindé",
+    "Andrea Pescatori"
+   ],
+   "year": 2024,
+   "venue": "IMF Working Paper",
+   "status": "工作论文",
+   "url": "https://ideas.repec.org/p/imf/imfwpa/2024-081.html",
+   "abstract": "Many countries have used energy subsidies to cushion the effects of high energy prices on households and firms. After documenting the transmission of oil supply shocks empirically in the United States and the Euro Area, we use a New Keynesian modeling framework to study the conditions under which these policies can curb inflation. We first consider a closed economy model to show that a consumer subsidy may be counterproductive, especially as an inflation-fighting tool, when applied globally or in a segmented market, at least under empirically plausible conditions about wage-setting. We find more scope for energy subsidies to reduce core inflation and stimulate demand if introduced by a small group of countries which collectively do not have much influence on global energy prices. However, the conditions under which consumer energy subsidies reduce inflation are still quite restrictive, and this type of policy may well be counterproductive if the resulting increase in external debt is high enough to trigger sizeable exchange rate depreciation. Such effects are more likely in emerging markets with shallow foreign exchange markets. If the primary goal of using fiscal measures in response to spikes in energy prices is to shield vulnerable households, then targeted transfers are much more efficient as they achieve their goals at lower fiscal cost and transmit less to core inflation."
+  },
+  {
+   "title": "Monetary Policy Transmission through Commodity Prices",
+   "authors": [
+    "Jorge Alberto Miranda Pinto",
+    "Andrea Pescatori",
+    "Ervin Prifti",
+    "Guillermo Verduzco-Bustos"
+   ],
+   "year": 2023,
+   "venue": "IMF Working Paper",
+   "status": "工作论文",
+   "url": "https://ideas.repec.org/p/imf/imfwpa/2023-215.html",
+   "abstract": "Monetary policy influences inflation dynamics by exerting impact on a diverse array of commodity prices. At high frequencies, we show that a 10 basis points increase in US monetary policy rate reduces commodity prices between 0.5% and 2.5%, after 18 to 24 business days. Beyond the dollar appreciation channel, the effects are larger for highly storable and industrial commodities, consistent with the cost of carry and the expected demand channel. We then study the quantitative importance of the commodity-price channel of monetary policy on domestic and international inflation at longer horizons (6-36 months). The results indicate that the response of commodity prices—oil, base metals, and food prices—to monetary policy accounts for 47% of the total effect of US monetary policy on US headline inflation, and 57% of the effect of US monetary policy on other countries’ headline inflation. The commodity price channel on core inflation is smaller and mainly driven by base metal prices. Finally, the commodity-price channel of ECB monetary policy is smaller, and it mainly operates through its effect on energy prices."
+  },
+  {
+   "title": "Not All Energy Transitions Are Alike: Disentangling the Effects of Demand and Supply-Side Policies on Future Oil Prices",
+   "authors": [
+    "Lukas Boer",
+    "Andrea Pescatori",
+    "Martin Stuermer"
+   ],
+   "year": 2023,
+   "venue": "IMF Working Paper",
+   "status": "工作论文",
+   "url": "https://ideas.repec.org/p/imf/imfwpa/2023-160.html",
+   "abstract": "We use structural scenario analysis to show that the climate policy mix—supply-side versus demand-side policies—can lead to different oil price paths with diverging distributional consequences in a netzero emissions scenario. When emission reduction is driven by demand-side policies, prices would decline to around 25 USD per barrel in 2030, benefiting consuming countries. Vice versa, supply-side climate policies aimed at curbing oil production would push up prices to above 130 USD per barrel, benefiting those producing countries that take the political decision to keep on producing. Consequently, it is wrong to assume that oil prices will necessarily decline due to the clean energy transition. As policies are mostly formulated at the country level and hard to predict at the global level, the transition will raise uncertainty about the price outlook."
+  },
+  {
+   "title": "The Impact of Climate Policy on Oil and Gas Investment: Evidence from Firm-Level Data",
+   "authors": [
+    "Christian Bogmans",
+    "Andrea Pescatori",
+    "Ervin Prifti"
+   ],
+   "year": 2024,
+   "venue": "European Economic Review",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.euroecorev.2024.104750",
+   "abstract": "Using a text-based firm-level measure of climate policy exposure, we show that climate policies have led to a global decline of 6.5 percent in investment among publicly traded oil and gas companies between 2015 and 2019, with European companies experiencing the most significant impact. Similarly, climate policy uncertainty has also had a negative impact. Results support the Neoclassical investment model, which predicts a pre-emptive cut in investment in reaction to downward shifts in prospective demand, in contrast with the “green paradox” that predicts an increase in current investment to shift production toward the present."
+  },
+  {
+   "title": "Economic Consequences of Large Extraction Declines: Lessons for the Green Transition",
+   "authors": [
+    "Rudolfs Bems",
+    "Lukas Boehnert",
+    "Andrea Pescatori",
+    "Martin Stuermer"
+   ],
+   "year": 2023,
+   "venue": "IMF Working Paper",
+   "status": "工作论文",
+   "url": "https://ideas.repec.org/p/imf/imfwpa/2023-097.html",
+   "abstract": "Limiting climate change requires a 80 percent reduction in fossil fuel extraction until 2050. What are the macroeconomic consequences for fossil fuel producing countries? We identify 35 episodes of persistent, exogenous declines in extraction based on a new data-set for 13 minerals (oil, gas, coal, metals) and 122 countries since 1950. We use local projections to estimate effects on real output as well as the external and the domestic sectors. Declines in extractive activity lead to persistent negative effects on real GDP and the trade balance. The real exchange rate depreciates but not enough to offset the decline in net exports. Effects on low-income countries are significantly larger than on high-income countries. Results suggest that legacy effects of bad institutions could prevent countries from benefiting from lower resource extraction."
+  },
+  {
+   "title": "OPEC and the Oil Market",
+   "authors": [
+    "Andrea Pescatori",
+    "Yousef F. Nazer"
+   ],
+   "year": 2022,
+   "venue": "IMF Working Paper",
+   "status": "工作论文",
+   "url": "https://ideas.repec.org/p/imf/imfwpa/2022-183.html",
+   "abstract": "This paper studies the historical importance of OPEC for oil price fluctuations. An event-study approach is used to identify the effects of OPEC announcements on oil price fluctuations. Results show that price volatility is higher than typical around OPEC meetings. Also, members' compliance, a proxy for credibility, has strongly fluctuated over time. An ordered multinomial logit framework identifies the main factors that explain OPEC's decisions to cut, maintain, or boost members' oil production and is able to successfully predict OPEC meeting outcomes 66 percent of the time, between 1989 and 2019. Cyclical oil price fluctuations (as opposed to persistent shifts in levels) drive OPEC’s decisions, suggesting that OPEC's objective is to stabilize the oil price rather than countering fundamental shifts in demand and supply. Low OPEC’s market share reduces the probability of a production cut. Finally, the transparency of OPEC's statements has modestly improved between 2002 and 2019."
+  },
+  {
+   "title": "Market Size and Supply Disruptions: Sharing the Pain of a Potential Russian Gas Shut-off to the European Union",
+   "authors": [
+    "Silvia Albrizio",
+    "John C Bluedorn",
+    "Christoffer Koch",
+    "Andrea Pescatori",
+    "Martin Stuermer"
+   ],
+   "year": 2022,
+   "venue": "IMF Working Paper",
+   "status": "工作论文",
+   "url": "https://ideas.repec.org/p/imf/imfwpa/2022-143.html",
+   "abstract": "We assess the supply-side effects on European Union (EU) economic activity if Russian gas imports were to suddenly cease. Unlike other studies, we account for the global scope of the liquefied natural gas (LNG) market. In the absence of frictions, an open-economy, multi-sector general equilibrium model suggests that the adverse economic impact on the EU shrinks five-fold if integration with the global LNG market is considered. While greater integration provides a buffer for the EU through trade, the flip side is that other LNG importers (such as Japan, South Korea, and Pakistan) see adverse effects from higher prices."
+  },
+  {
+   "title": "Energy Transition Metals",
+   "authors": [
+    "Lukas Boer",
+    "Andrea Pescatori",
+    "Martin Stuermer"
+   ],
+   "year": 2021,
+   "venue": "IMF Working Paper",
+   "status": "工作论文",
+   "url": "https://ideas.repec.org/p/imf/imfwpa/2021-243.html",
+   "abstract": "The energy transition requires substantial amounts of metals such as copper, nickel, cobalt and lithium. Are these metals a key bottleneck? We identify metal-specific demand shocks, estimate supply elasticities and pin down the price impact of the energy transition in a structural scenario analysis. Metal prices would reach historical peaks for an unprecedented, sustained period in a net-zero emissions scenario. The total value of metals production would rise more than four-fold for the period 2021 to 2040, rivaling the total value of crude oil production. Metals are a potentially important input into integrated assessments models of climate change."
+  },
+  {
+   "title": "Income Versus Prices: How Does The Business Cycle Affect Food (In)-Security?",
+   "authors": [
+    "Christian Bogmans",
+    "Andrea Pescatori",
+    "Ervin Prifti"
+   ],
+   "year": 2021,
+   "venue": "IMF Working Paper",
+   "status": "工作论文",
+   "url": "https://ideas.repec.org/p/imf/imfwpa/2021-238.html",
+   "abstract": "We study how two aspects of food insecurity - caloric insufficiency and diet composition - are affected by aggregate economic fluctuations. The use of cross-country panel data allows us to adopt a global prospective on the identification of the macroeconomic determinants of food insecurity. Income shocks are the most relevant driver of food insecurity, displaying high elasticities at the early stages of economic development. The role of food price shocks is more limited. Social protection has a direct effect and mitigates the impact of income shocks. Effects are highly heterogeneous across a range of structural characteristics of the economy, highlighting the role of distributional aspects and of food import dependency."
+  },
+  {
+   "title": "Energy, Efficiency Gains and Economic Development: When Will Global Energy Demand Saturate?",
+   "authors": [
+    "Christian Bogmans",
+    "Lama Kiyasseh",
+    "Akito Matsumoto",
+    "Andrea Pescatori"
+   ],
+   "year": 2020,
+   "venue": "IMF Working Paper",
+   "status": "工作论文",
+   "url": "https://ideas.repec.org/p/imf/imfwpa/2020-253.html",
+   "abstract": "Not anytime soon. Using a novel dataset covering 127 countries and spanning two centuries, we find evidence for an energy Kuznets curve, with an initial decline of energy demand at low levels of per capita income followed by stages of acceleration and then saturation at high-income levels. Historical trends in energy efficiency have reduced energy demand, globally, by about 1.2 percent per year and have, thus, helped bring forward a plateau in energy demand for high income countries. At middle incomes energy and income move in lockstep. The decline in the manufacturing share of value added, globally, accounted for about 0.2 percentage points of the energy efficiency gains. At the country level, the decline (rise) of the manufacturing sector has reduced (increased) US (China) energy demand by 4.1 (10.7) percent between 1990 and 2017."
+  },
+  {
+   "title": "Labor Market Informality and the Business Cycle",
+   "authors": [
+    "Frederic Lambert",
+    "Andrea Pescatori",
+    "Frederik G Toscani"
+   ],
+   "year": 2020,
+   "venue": "IMF Working Paper",
+   "status": "工作论文",
+   "url": "https://ideas.repec.org/p/imf/imfwpa/2020-256.html",
+   "abstract": "Labor market informality is a pervasive feature of most developing economies. Motivated by the empirical regularity that the labor informality rate falls with GDP per capita, both at business cycle frequency and in a cross-section of countries, and that the Okun's coefficient falls with the level of labor informality, we build a small open-economy dynamic stochastic general equilibrium model with two sectors, formal and informal, which can replicate these key stylized facts. The model is calibrated to Colombia. The results show that labor market and tax reforms play an important role in changing the informality rate but also caution against over-optimism - with low GDP per capita, informality will always be relatively high as there is insufficient demand for formal goods. Quantitatively we find that higher productivity in the formal sector is key in explaining the difference between Colombia and countries with significantly lower informality. We use the model to study how labor informality and labor market frictions mediate the cyclical response of the economy to shocks, including commodity price shocks which are particularly relevant in Latin America. Informality is shown to play an important role as a shock absorber with the informal-formal margin limiting movements in the employed-unemployed margin."
+  },
+  {
+   "title": "Central Bank Communication and Monetary Policy Surprises in Chile",
+   "authors": [
+    "Andrea Pescatori"
+   ],
+   "year": 2018,
+   "venue": "IMF Working Paper",
+   "status": "工作论文",
+   "url": "https://ideas.repec.org/p/imf/imfwpa/2018-156.html",
+   "abstract": "This paper assesses the quality of the CBC’s communication policy by looking at the predictability and effectiveness of monetary policy communications by the Central Bank of Chile (CBC). To do so, we construct indeces of monetary policy surprises for the three major communication channels of the CBC: the release of policy meetings’ statements, minutes, and monetary policy reports (IPoM). We assess monetary policy predictability and efficacy by looking at the size and time-evolution of monetary policy surprises associated with meeting statements and the impact of the above communication channels on asset markets. We find that, in general, the CBC’s has been effective in its forward guidance through its statements and IPoM. Policy actions are quite predictable, especially post the global financia crisis. The response of equity prices and the exchange rate to monetary policy surprises have the right sign but are not robust. We also find an asymmetric response of equity prices to minutes suggesting that market participants extract information on the status of the economy especially when minutes have a loosening effect. Finally, to look at the macroeconomic impact we find that a 100 bps monetary policy tightening shock implies a decline in economic activity (IMACEC) of about 2 pp. after one year, while the response of inflation is more muted."
+  },
+  {
+   "title": "The Macroeconomic Effects of Trade Tariffs: Revisiting the Lerner Symmetry Result",
+   "authors": [
+    "Jesper Lindé",
+    "Andrea Pescatori"
+   ],
+   "year": 2019,
+   "venue": "Journal of International Money and Finance",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jimonfin.2019.01.019",
+   "abstract": "We study the robustness of the Lerner symmetry result in an open economy New Keynesian model with price rigidities. While the Lerner symmetry result of no real effects of a combined import tariff and export subsidy holds up approximately for a number of alternative assumptions, we obtain quantitatively important long-term deviations under complete international asset markets. Direct pass-through of tariffs and subsidies to prices and slow exchange rate adjustment can also generate significant short-term deviations from Lerner. Finally, we quantify the macroeconomic costs of a trade war and find that they can be substantial, with permanently lower income and trade volumes. However, a fully symmetric retaliation to a unilaterally imposed border adjustment tax can prevent any real or nominal effects."
+  },
+  {
+   "title": "U.S. Dollar Dynamics: How Important Are Policy Divergence and FX Risk Premiums?",
+   "authors": [
+    "Ravi Balakrishnan",
+    "Stefan Laseen",
+    "Andrea Pescatori"
+   ],
+   "year": 2016,
+   "venue": "IMF Working Paper",
+   "status": "工作论文",
+   "url": "https://ideas.repec.org/p/imf/imfwpa/2016-125.html",
+   "abstract": "We investigate the drivers of dynamics of major U.S. FX bilaterals. We first construct a novel measure of FX risk premiums using Consensus exchange rate forecasts. We then use VAR analysis to show that (i) risk premium shocks play a key role in driving dynamics of the major U.S. FX bilaterals; (ii) longer-term interest differentials also matter, especially for the Canadian $ and the Euro; (iii) oil price shocks play a particularly important role for the Canadian $ (an oil exporter); and (iv) risk appetite shocks (e.g., VIX shocks) generally lead to U.S. dollar appreciation. The importance of risk premium and longer-term interest differential shocks fit well with a simple theoretical model and are supported by recent event studies."
+  },
+  {
+   "title": "Credit, Securitization and Monetary Policy: Watch Out for Unintended Consequences",
+   "authors": [
+    "Andrea Pescatori",
+    "Juan Sole"
+   ],
+   "year": 2016,
+   "venue": "IMF Working Paper",
+   "status": "工作论文",
+   "url": "https://ideas.repec.org/p/imf/imfwpa/2016-076.html",
+   "abstract": "We show evidence that interest rate hikes slowdown loan growth but lead intermediation to migrate from banks’ balance sheets to non-banks via increased securitization activity. As such, higher interest rates have the potential for unintended consequences; raising systemic risk rather than lowering it by pushing more intermediation activity to more weakly regulated sectors. In the past, this increased securitization activity was driven primarily byb private-label securitization. On the other hand, the government sponsored entities like Freddie Mac and Fannie Mae appear to react to higher policy rates by cutting back on their securitization activity but expanding loans to the Federal Home Loan Bank system."
+  },
+  {
+   "title": "Financial Stability and Interest-Rate Policy: A Quantitative Assessment of Costs and Benefits",
+   "authors": [
+    "Andrea Pescatori",
+    "Stefan Laseen"
+   ],
+   "year": 2020,
+   "venue": "Canadian Journal of Economics/Revue canadienne d'économique",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/caje.12458",
+   "abstract": "Should monetary policy use its short-term policy rate to stabilize the growth in household credit and housing prices with the aim of promoting financial stability? We ask this question for the case of Canada. We find that to a first approximation, the answer is no— especially when the economy is slowing down."
+  },
+  {
+   "title": "Systemic Risk: A New Trade-off for Monetary Policy?",
+   "authors": [
+    "Stefan Laseen",
+    "Andrea Pescatori",
+    "Jarkko Turunen"
+   ],
+   "year": 2015,
+   "venue": "IMF Working Paper",
+   "status": "工作论文",
+   "url": "https://ideas.repec.org/p/imf/imfwpa/2015-142.html",
+   "abstract": "We introduce time-varying systemic risk in an otherwise standard New-Keynesian model to study whether a simple leaning-against-the-wind policy can reduce systemic risk and improve welfare. We find that an unexpected increase in policy rates reduces output, inflation, and asset prices without fundamentally mitigating financial risks. We also find that while a systematic monetary policy reaction can improve welfare, it is too simplistic: (1) it is highly sensitive to parameters of the model and (2) is detrimental in the presence of falling asset prices. Macroprudential policy, similar to a countercyclical capital requirement, is more robust and leads to higher welfare gains."
+  },
+  {
+   "title": "Lower for Longer: Neutral Rates in the United States",
+   "authors": [
+    "Andrea Pescatori",
+    "Jarkko Turunen"
+   ],
+   "year": 2015,
+   "venue": "IMF Working Paper",
+   "status": "工作论文",
+   "url": "https://ideas.repec.org/p/imf/imfwpa/2015-135.html",
+   "abstract": "We use a semi structural model to estimate neutral rates in the United States. Our Bayesian estimation incorporates prior information on the output gap and potential output (based on a production function approach) and accounts for unconventional monetary policies at the ZLB by using estimates of “shadow” policy rates. We find that our approach provides more plausible results than standard maximum likelihood estimates for the unobserved variables in the model. Results show a significant trend decline in the neutral real rate over time, driven only in part by a decline in potential growth whereas other factors (including excess global savings) matter. Neutral rates likely turned negative during the Global Financial Crisis and are expected to increase only gradually looking forward."
+  },
+  {
+   "title": "Oil Price Volatility and the Role of Speculation",
+   "authors": [
+    "Samya Beidas-Strom",
+    "Andrea Pescatori"
+   ],
+   "year": 2014,
+   "venue": "IMF Working Paper",
+   "status": "工作论文",
+   "url": "https://ideas.repec.org/p/imf/imfwpa/2014-218.html",
+   "abstract": "How much does speculation contribute to oil price volatility? We revisit this contentious question by estimating a sign-restricted structural vector autoregression (SVAR). First, using a simple storage model, we show that revisions to expectations regarding oil market fundamentals and the effect of mispricing in oil derivative markets can be observationally equivalent in a SVAR model of the world oil market à la Kilian and Murphy (2013), since both imply a positive co-movement of oil prices and inventories. Second, we impose additional restrictions on the set of admissible models embodying the assumption that the impact from noise trading shocks in oil derivative markets is temporary. Our additional restrictions effectively put a bound on the contribution of speculation to short-term oil price volatility (lying between 3 and 22 percent). This estimated short-run impact is smaller than that of flow demand shocks but possibly larger than that of flow supply shocks."
+  },
+  {
+   "title": "Debt and Growth: Is There a Magic Threshold?",
+   "authors": [
+    "Andrea Pescatori",
+    "Damiano Sandri",
+    "John Simon"
+   ],
+   "year": 2014,
+   "venue": "IMF Working Paper",
+   "status": "工作论文",
+   "url": "https://ideas.repec.org/p/imf/imfwpa/2014-034.html",
+   "abstract": "Using a novel empirical approach and an extensive dataset developed by the Fiscal Affairs Department of the IMF, we find no evidence of any particular debt threshold above which medium-term growth prospects are dramatically compromised. Furthermore, we find the debt trajectory can be as important as the debt level in understanding future growth prospects, since countries with high but declining debt appear to grow equally as fast as countries with lower debt. Notwithstanding this, we find some evidence that higher debt is associated with a higher degree of output volatility."
+  },
+  {
+   "title": "Competition among Exchanges and Enforcement Policy",
+   "authors": [
+    "Cecilia Caglio",
+    "Andrea Pescatori"
+   ],
+   "year": 2013,
+   "venue": "IMF Working Paper",
+   "status": "工作论文",
+   "url": "https://ideas.repec.org/p/imf/imfwpa/2013-037.html",
+   "abstract": "In this paper, we explore how competition among stock exchanges, operated as self-regulatory organizations (SROs), affects the design of their members' surveillance. We develop a model where two for-profit SROs compete for trading volume, while brokers execute transactions on behalf of the investors and may misreport the true cash flow. The SROs can deter a fraud by announcing an investigation and imposing a monetary penalty.The success of the investigation depends upon both the amount of resources devoted to monitoring and the efficiency of monitoring technologies. We show that when contracts are incomplete and investors do not have perfect information about the monitoring efficiency, competition among exchanges induces a race to the bottom in enforcement policy and a reduction in total welfare, compared to the case of a monopolist SRO."
+  },
+  {
+   "title": "A New Action-Based Dataset of Fiscal Consolidation",
+   "authors": [
+    "Andrea Pescatori",
+    "Daniel Leigh",
+    "Jaime Guajardo",
+    "Pete Devries"
+   ],
+   "year": 2011,
+   "venue": "IMF Working Paper",
+   "status": "工作论文",
+   "url": "https://ideas.repec.org/p/imf/imfwpa/2011-128.html",
+   "abstract": "This paper presents a new dataset of fiscal consolidation for 17 OECD economies during 1978-2009. We focus on discretionary changes in taxes and government spending primarily motivated by a desire to reduce the budget deficit and not by a response to prospective economic conditions. To identify the motivation and budgetary impact of the fiscal policy changes, we examine contemporaneous policy documents, including Budgets, Budget Speeches, central bank reports, Convergence and Stability Programs submitted by the authorities to the European Commission, and IMF and OECD reports. The resulting series can be used to estimate the macroeconomic effects of fiscal consolidation."
+  },
+  {
+   "title": "Search Frictions and the Labor Wedge",
+   "authors": [
+    "Murat Tasci",
+    "Andrea Pescatori"
+   ],
+   "year": 2011,
+   "venue": "IMF Working Paper",
+   "status": "工作论文",
+   "url": "https://ideas.repec.org/p/imf/imfwpa/2011-117.html",
+   "abstract": "This paper shows that labor market search frictions do not explain fluctuations in the labor wedge per se. However, the introduction of extensive and intensive margin clarifies that measuring the MRS in terms of total hours artificially introduces procyclicality in the MRS. When the MRS is correctly measured in terms of hours per worker, the labor wedge obtained is less variable than the one of the competitive model. Finally, we show that it is possible to measure a strongly procyclical labor wedge when the actual data generating process is a search model that allows for movements in both margins."
+  },
+  {
+   "title": "Debt Crises and the Development of International Capital Markets",
+   "authors": [
+    "Amadou N Sy",
+    "Andrea Pescatori"
+   ],
+   "year": 2004,
+   "venue": "IMF Working Paper",
+   "status": "工作论文",
+   "url": "https://ideas.repec.org/p/imf/imfwpa/2004-044.html",
+   "abstract": "Crises on external sovereign debt are typically defined as defaults. Such a definition accurately captures debt-servicing difficulties in the 1980s, a period of numerous defaults on bank loans. However, defining defaults as debt crises is problematic for the 1990s, when sovereign bond markets emerged. In contrast to the 1980s, the 1990s are characterized by significant foreign debt-servicing difficulties but fewer sovereign defaults. In order to capture this evolution of debt markets, we define debt crises as events occurring when either a country defaults or its bond spreads are above a critical threshold. We find that our definition outperforms the default-based definition in capturing debt-servicing difficulties and, consequently, in fitting the post-1994 period. In particular, liquidity indicators are significant in explaining our definition of debt crises, while they do not play any role in explaining defaults after 1994."
+  }
+ ]
+}

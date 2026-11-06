@@ -988,5 +988,203 @@
   "screened": null,
   "url": "",
   "region": "新加坡"
+ },
+ {
+  "name": "Board of Governors of the Federal Reserve System",
+  "zh": "美联储理事会",
+  "short": "Fed Board",
+  "rank": 301,
+  "screened": null,
+  "url": "https://www.federalreserve.gov/econres/theeconomists.htm",
+  "region": "美联储系统"
+ },
+ {
+  "name": "Federal Reserve Bank of New York",
+  "zh": "纽约联储",
+  "short": "NY Fed",
+  "rank": 302,
+  "screened": null,
+  "url": "",
+  "region": "美联储系统"
+ },
+ {
+  "name": "Federal Reserve Bank of Boston",
+  "zh": "波士顿联储",
+  "short": "Boston Fed",
+  "rank": 303,
+  "screened": null,
+  "url": "",
+  "region": "美联储系统"
+ },
+ {
+  "name": "Federal Reserve Bank of Philadelphia",
+  "zh": "费城联储",
+  "short": "Philadelphia Fed",
+  "rank": 304,
+  "screened": null,
+  "url": "",
+  "region": "美联储系统"
+ },
+ {
+  "name": "Federal Reserve Bank of Cleveland",
+  "zh": "克利夫兰联储",
+  "short": "Cleveland Fed",
+  "rank": 305,
+  "screened": null,
+  "url": "",
+  "region": "美联储系统"
+ },
+ {
+  "name": "Federal Reserve Bank of Richmond",
+  "zh": "里士满联储",
+  "short": "Richmond Fed",
+  "rank": 306,
+  "screened": null,
+  "url": "",
+  "region": "美联储系统"
+ },
+ {
+  "name": "Federal Reserve Bank of Atlanta",
+  "zh": "亚特兰大联储",
+  "short": "Atlanta Fed",
+  "rank": 307,
+  "screened": null,
+  "url": "",
+  "region": "美联储系统"
+ },
+ {
+  "name": "Federal Reserve Bank of Chicago",
+  "zh": "芝加哥联储",
+  "short": "Chicago Fed",
+  "rank": 308,
+  "screened": null,
+  "url": "",
+  "region": "美联储系统"
+ },
+ {
+  "name": "Federal Reserve Bank of St. Louis",
+  "zh": "圣路易斯联储",
+  "short": "St. Louis Fed",
+  "rank": 309,
+  "screened": null,
+  "url": "",
+  "region": "美联储系统"
+ },
+ {
+  "name": "Federal Reserve Bank of Minneapolis",
+  "zh": "明尼阿波利斯联储",
+  "short": "Minneapolis Fed",
+  "rank": 310,
+  "screened": null,
+  "url": "",
+  "region": "美联储系统"
+ },
+ {
+  "name": "Federal Reserve Bank of Kansas City",
+  "zh": "堪萨斯城联储",
+  "short": "KC Fed",
+  "rank": 311,
+  "screened": null,
+  "url": "",
+  "region": "美联储系统"
+ },
+ {
+  "name": "Federal Reserve Bank of Dallas",
+  "zh": "达拉斯联储",
+  "short": "Dallas Fed",
+  "rank": 312,
+  "screened": null,
+  "url": "",
+  "region": "美联储系统"
+ },
+ {
+  "name": "Federal Reserve Bank of San Francisco",
+  "zh": "旧金山联储",
+  "short": "SF Fed",
+  "rank": 313,
+  "screened": null,
+  "url": "",
+  "region": "美联储系统"
+ },
+ {
+  "name": "World Bank",
+  "zh": "世界银行",
+  "short": "World Bank",
+  "rank": 401,
+  "screened": null,
+  "url": "",
+  "region": "国际组织"
+ },
+ {
+  "name": "International Finance Corporation",
+  "zh": "国际金融公司",
+  "short": "IFC",
+  "rank": 402,
+  "screened": null,
+  "url": "",
+  "region": "国际组织"
+ },
+ {
+  "name": "International Monetary Fund",
+  "zh": "国际货币基金组织",
+  "short": "IMF",
+  "rank": 403,
+  "screened": null,
+  "url": "",
+  "region": "国际组织"
+ },
+ {
+  "name": "OECD",
+  "zh": "经济合作与发展组织",
+  "short": "OECD",
+  "rank": 404,
+  "screened": null,
+  "url": "",
+  "region": "国际组织"
+ },
+ {
+  "name": "International Energy Agency",
+  "zh": "国际能源署",
+  "short": "IEA",
+  "rank": 405,
+  "screened": null,
+  "url": "",
+  "region": "国际组织"
+ },
+ {
+  "name": "European Central Bank",
+  "zh": "欧洲中央银行",
+  "short": "ECB",
+  "rank": 406,
+  "screened": null,
+  "url": "",
+  "region": "国际组织"
+ },
+ {
+  "name": "Bank for International Settlements",
+  "zh": "国际清算银行",
+  "short": "BIS",
+  "rank": 407,
+  "screened": null,
+  "url": "",
+  "region": "国际组织"
+ },
+ {
+  "name": "Inter-American Development Bank",
+  "zh": "美洲开发银行",
+  "short": "IDB",
+  "rank": 408,
+  "screened": null,
+  "url": "",
+  "region": "国际组织"
+ },
+ {
+  "name": "Asian Development Bank",
+  "zh": "亚洲开发银行",
+  "short": "ADB",
+  "rank": 409,
+  "screened": null,
+  "url": "",
+  "region": "国际组织"
  }
 ]

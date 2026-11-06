@@ -1,0 +1,28 @@
+{
+ "slug": "lena-boneva",
+ "name": "Lena Boneva",
+ "sources": [
+  "https://www.ecb.europa.eu/pub/research/authors/profiles/lena-boneva.en.html"
+ ],
+ "collected": "2026-11-06",
+ "notes": "ECB author profile only. Only the ECB Working Paper counts (ECB Occasional Papers, blog, Economic Bulletin/FSR boxes skipped). Authors alphabetical by surname in absence of a stated byline. ECB Discussion Paper No. 19 is a duplicate series entry. Possibly later published in a journal (not verified), so kept as working paper.",
+ "papers": [
+  {
+   "title": "Financial Markets and Green Innovation",
+   "authors": [
+    "Philippe Aghion",
+    "Lena Boneva",
+    "Johannes Breckenfelder",
+    "Luc Laeven",
+    "Conny Olovsson",
+    "Alexander Popov",
+    "Elena Rancoita"
+   ],
+   "year": 2022,
+   "venue": "ECB Working Paper",
+   "status": "工作论文",
+   "url": "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2686~c5be9e9591.en.pdf",
+   "abstract": null
+  }
+ ]
+}

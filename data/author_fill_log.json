@@ -6591,6 +6591,45 @@
 ],
 "remote": []
 },
+"climateadaptationofinterconnectedinfrastructuresaframeworkforsupportinggovernanc": {
+"title": "Climate adaptation of interconnected infrastructures: a framework for supporting governance",
+"authors": [
+"L. A. Bollinger",
+"C. W. J. Bogmans",
+"E. J. L. Chappin",
+"G. P. J. Dijkema",
+"J. N. Huibregtse",
+"N. Maas",
+"T. Schenk",
+"M. Snelder",
+"P. van Thienen",
+"S. de Wit",
+"B. Wols",
+"L. A. Tavasszy"
+],
+"unresolved": [
+"J. N. Huibregtse"
+],
+"owners": [
+"christian-bogmans"
+],
+"remote": [
+[
+"L. A. Bollinger",
+"C. W. J. Bogmans",
+"E. J. L. Chappin",
+"G. P. J. Dijkema",
+"J. N. Huibregtse",
+"N. Maas",
+"T. Schenk",
+"M. Snelder",
+"P. van Thienen",
+"S. de Wit",
+"B. Wols",
+"L. A. Tavasszy"
+]
+]
+},
 "newdevelopmentintradetheoryandthefoodandbeverageindustry": {
 "title": "New Development in Trade Theory and the Food and Beverage Industry",
 "authors": [
@@ -11200,6 +11239,118 @@
 ],
 "remote": []
 },
+"landscapeefficiencyfrontiersforbiodiversityclimatemitigationandneteconomicvalue": {
+"title": "Landscape Efficiency Frontiers for Biodiversity, Climate Mitigation and Net Economic Value",
+"authors": [
+"S. Polasky",
+"Esha Zaveri",
+"P. Hawthorne",
+"R. Chaplin-Kramer",
+"J. Smith",
+"J. Gerber",
+"S. Mamun",
+"M. Ruckelshaus",
+"Jason Russ",
+"R. Schmitt",
+"A. Vogl",
+"A. Castonguay",
+"J. Douglass",
+"V. Kowal",
+"I. Madden",
+"R. Sharp",
+"B. Sohngen",
+"J. Chang",
+"G. Daily",
+"M. Heger",
+"M. Holden",
+"J. Johnson",
+"L. Mandle",
+"E. Mcdonald-Madden",
+"U. Narain",
+"D. Ray",
+"G. Ruta",
+"P. West",
+"S. Wolny",
+"Richard Damania"
+],
+"unresolved": [
+"P. Hawthorne",
+"R. Chaplin-Kramer",
+"J. Smith",
+"J. Gerber",
+"M. Ruckelshaus",
+"R. Schmitt",
+"A. Vogl",
+"A. Castonguay",
+"J. Douglass",
+"I. Madden",
+"B. Sohngen",
+"G. Daily",
+"L. Mandle",
+"E. Mcdonald-Madden",
+"D. Ray"
+],
+"owners": [
+"esha-zaveri",
+"martin-heger",
+"stephen-polasky",
+"urvashi-narain"
+],
+"remote": [
+[
+"Stephen Polasky"
+]
+]
+},
+"isnaturalcapitalacomplementtohumancapitalevidencefrom46countries": {
+"title": "Is natural capital a complement to human capital? Evidence from 46 countries",
+"authors": [
+"Esha Zaveri",
+"Richard Damania",
+"D. Herrera",
+"H. Kim",
+"L. Viotti",
+"S. Onder",
+"C. Pantoja"
+],
+"unresolved": [
+"D. Herrera"
+],
+"owners": [
+"esha-zaveri",
+"stefanie-onder"
+],
+"remote": [
+[
+"Richard Damania",
+"Luis Diego Herrera Garcia",
+"Hyungju Kim",
+"Leonardo Viotti",
+"Esha Zaveri",
+"Stefanie Onder",
+"Chrissie Pantoja"
+]
+]
+},
+"mappingglobalhotspotsandtrendsofwaterquality19922010adatadrivenapproach": {
+"title": "Mapping global hotspots and trends of water quality (1992-2010): a data driven approach",
+"authors": [
+"Esha Zaveri",
+"Sébastien Desbureaux",
+"F. Mortier",
+"M.T.H. van Vliet",
+"Jason Russ",
+"Aude-Sophie Rodella",
+"Richard Damania"
+],
+"unresolved": [
+"F. Mortier"
+],
+"owners": [
+"esha-zaveri"
+],
+"remote": []
+},
 "aienhancedhandheldecgstoscreenforpriormyocardialinfarctioninruralindia": {
 "title": "AI-Enhanced Handheld ECGs to Screen for Prior Myocardial Infarction in Rural India",
 "authors": [
@@ -11344,6 +11495,22 @@
 ],
 "owners": [
 "felipe-peguero"
+],
+"remote": []
+},
+"financialstructureandfirminnovationcrosscountryevidence": {
+"title": "Financial structure and firm innovation: Cross-country evidence",
+"authors": [
+"Francesca de Nicola",
+"D. Mare",
+"F. Liriano"
+],
+"unresolved": [
+"D. Mare",
+"F. Liriano"
+],
+"owners": [
+"francesca-de-nicola"
 ],
 "remote": []
 },
@@ -12099,11 +12266,11 @@
 "G. Timilsina"
 ],
 "unresolved": [
-"K. Dong",
-"G. Timilsina"
+"K. Dong"
 ],
 "owners": [
-"gal-hochman"
+"gal-hochman",
+"govinda-timilsina"
 ],
 "remote": []
 },
@@ -12933,6 +13100,74 @@
 "F. Ackerman"
 ]
 ]
+},
+"economicimplicationsofreducingcarbonemissionsfromenergyuseandindustrialprocesses": {
+"title": "Economic Implications of Reducing Carbon Emissions from Energy Use and Industrial Processes in Brazil",
+"authors": [
+"Y.-H. Chen",
+"F. Landis",
+"Govinda R. Timilsina"
+],
+"unresolved": [
+"F. Landis"
+],
+"owners": [
+"govinda-timilsina"
+],
+"remote": [
+[
+"Y.-H. Henry Chen",
+"Govinda R. Timilsina"
+]
+]
+},
+"regulatoryinstrumentstocontrolenvironmentalexternalitiesfromthetransportsector": {
+"title": "Regulatory Instruments to Control Environmental Externalities from the Transport Sector",
+"authors": [
+"H. Dulal",
+"Govinda R. Timilsina"
+],
+"unresolved": [
+"H. Dulal"
+],
+"owners": [
+"govinda-timilsina"
+],
+"remote": []
+},
+"co2mitigationpotentialofefficientdemandsidetechnologiesacaseofthailand": {
+"title": "CO2 Mitigation Potential of Efficient Demand-Side Technologies: A Case of Thailand",
+"authors": [
+"Govinda R. Timilsina",
+"R. M. Shrestha",
+"P. Khummongkol",
+"W. K. Biswas",
+"S. Sinbanchongjit"
+],
+"unresolved": [
+"R. M. Shrestha",
+"P. Khummongkol",
+"W. K. Biswas",
+"S. Sinbanchongjit"
+],
+"owners": [
+"govinda-timilsina"
+],
+"remote": []
+},
+"productiveefficiencyofelectricutilitiesinasiaacomparativestudy": {
+"title": "Productive Efficiency of Electric Utilities in Asia: A Comparative Study",
+"authors": [
+"R. M. Shrestha",
+"Govinda R. Timilsina"
+],
+"unresolved": [
+"R. M. Shrestha"
+],
+"owners": [
+"govinda-timilsina"
+],
+"remote": []
 },
 "reversingclimatechangehowcarbonremovalscanresolveclimatechangeandfixtheeconomy": {
 "title": "Reversing Climate Change: How Carbon Removals Can Resolve Climate Change and Fix the Economy",
@@ -21480,6 +21715,7 @@
 "A. Dechezleprtre"
 ],
 "owners": [
+"antoine-dechezlepretre",
 "david-popp",
 "kenneth-gillingham"
 ],
@@ -25610,6 +25846,70 @@
 ],
 "remote": []
 },
+"specializationvsdiversificationresearchstrategyandperformanceineconomics": {
+"title": "Specialization vs. Diversification: Research Strategy and Performance in Economics",
+"authors": [
+"Manu García",
+"H. Dellas",
+"C. Garriga",
+"C. Zimmermann"
+],
+"unresolved": [
+"H. Dellas",
+"C. Zimmermann"
+],
+"owners": [
+"manu-garcia"
+],
+"remote": []
+},
+"theinteractionsofsocialnormsaboutclimatechangescienceinstitutionsandeconomics": {
+"title": "The Interactions of Social Norms about Climate Change: Science, Institutions and Economics",
+"authors": [
+"Manu García",
+"A. Cabrales",
+"D. Ramos-Muñoz",
+"A. Sánchez"
+],
+"unresolved": [
+"D. Ramos-Muñoz"
+],
+"owners": [
+"manu-garcia"
+],
+"remote": [
+[
+"Antonio Cabrales",
+"Manu García",
+"David Ramos Muñoz",
+"Angel Sánchez"
+]
+]
+},
+"aianddigitaltechnologygendergapsinhighereducation": {
+"title": "AI and Digital Technology: Gender Gaps in Higher Education",
+"authors": [
+"Manu García",
+"J. I. Conde-Ruiz",
+"J. J. Ganuza",
+"C. Victoria"
+],
+"unresolved": [
+"J. J. Ganuza",
+"C. Victoria"
+],
+"owners": [
+"manu-garcia"
+],
+"remote": [
+[
+"José Ignacio Conde-Ruiz",
+"Juan José Ganuza Fernandez",
+"Manuel García",
+"Carlos Victoria Lanzón"
+]
+]
+},
 "thecontributionofamajorurbaninfrastructureimprovementprojecttoreducingwaterdefic": {
 "title": "The contribution of a major urban infrastructure improvement project to reducing water deficits in Jordan",
 "authors": [
@@ -28775,9 +29075,11 @@
 ],
 "unresolved": [
 "J. Loeser",
+"M. Jones",
 "D. Stein"
 ],
 "owners": [
+"florence-kondylis",
 "mushfiq-mobarak"
 ],
 "remote": []
@@ -29408,6 +29710,7 @@
 ],
 "owners": [
 "christopher-costello",
+"gabriel-englander",
 "olivier-deschenes"
 ],
 "remote": [
@@ -30311,10 +30614,10 @@
 "J.J. Miranda"
 ],
 "unresolved": [
-"T. Bolsen",
-"J.J. Miranda"
+"T. Bolsen"
 ],
 "owners": [
+"juan-jose-miranda",
 "paul-j-ferraro"
 ],
 "remote": []
@@ -31586,6 +31889,35 @@
 ]
 ]
 },
+"insidethewalledgardensofdigitalplatforms": {
+"title": "Inside the Walled Gardens of Digital Platforms",
+"authors": [
+"J. Greenwood",
+"B. Li",
+"Ricardo Marto"
+],
+"unresolved": [
+"B. Li"
+],
+"owners": [
+"ricardo-marto"
+],
+"remote": []
+},
+"riskycollegeadmissionsandthemisallocationoftalent": {
+"title": "Risky College Admissions and the (Mis)allocation of Talent",
+"authors": [
+"Ricardo Marto",
+"Y. Wittman"
+],
+"unresolved": [
+"Y. Wittman"
+],
+"owners": [
+"ricardo-marto"
+],
+"remote": []
+},
 "shouldistayorshouldigodynamicdecisionrulesthatreflectrateofreturnandstationaryeq": {
 "title": "Should I Stay or Should I Go? Dynamic Decision Rules that Reflect Rate-of-Return and Stationary Equivalency Tradeoffs",
 "authors": [
@@ -32317,6 +32649,28 @@
 "rimjhim-m-aggarwal"
 ],
 "remote": []
+},
+"sustainableeconomicstructures": {
+"title": "Sustainable economic structures",
+"authors": [
+"Rob Dellink",
+"M. Bennis",
+"H. Verbruggen"
+],
+"unresolved": [
+"M. Bennis",
+"H. Verbruggen"
+],
+"owners": [
+"rob-dellink"
+],
+"remote": [
+[
+"R Dellink",
+"M Bennis",
+"H Verbruggen"
+]
+]
 },
 "dotheeffectsofsocialnudgespersisttheoryandevidencefrom38naturalfieldexperimentsi": {
 "title": "Do the Effects of Social Nudges Persist? Theory and Evidence from 38 Natural Field Experiments in Energy Conservation",
@@ -33992,6 +34346,20 @@
 ]
 ]
 },
+"sectoralreallocationlongruntrendsandshortrunfluctuationsofthelast150years": {
+"title": "Sectoral Reallocation: Long-Run Trends and Short-Run Fluctuations of the Last 150 Years",
+"authors": [
+"Romanos Priftis",
+"K. Shakhnov"
+],
+"unresolved": [
+"K. Shakhnov"
+],
+"owners": [
+"romanos-priftis"
+],
+"remote": []
+},
 "differenceindifferenceswithendogenousexternalitiesmodelandapplicationtoclimateec": {
 "title": "Difference-in-Differences with Endogenous Externalities: Model and Application to Climate Econometrics",
 "authors": [
@@ -35642,13 +36010,13 @@
 "J Martinich",
 "K Oremus",
 "J Park",
-"T Phan",
 "W Rafey",
 "M Sarofim",
 "B Simon"
 ],
 "owners": [
-"solomon-hsiang"
+"solomon-hsiang",
+"toan-phan"
 ],
 "remote": []
 },
@@ -36014,66 +36382,6 @@
 "spencer-banzhaf"
 ],
 "remote": []
-},
-"landscapeefficiencyfrontiersforbiodiversityclimatemitigationandneteconomicvalue": {
-"title": "Landscape efficiency frontiers for biodiversity, climate mitigation and net economic value",
-"authors": [
-"S. Polasky",
-"P.L. Hawthorne",
-"R. Chaplin-Kramer",
-"J. Smith",
-"J.S. Gerber",
-"S. Mamun",
-"M. Ruckelshaus",
-"J. Russ",
-"R. Schmitt",
-"A.L. Vogl",
-"A.C. Castonguay",
-"J. Douglass",
-"V. Kowal",
-"I. Madden",
-"R. Sharp",
-"B. Sohngen",
-"J. Chang",
-"G. Daily",
-"M.P. Heger",
-"M. Holden",
-"J. Johnson",
-"Lisa Mandle",
-"E. McDonald-Madden",
-"U. Narain",
-"D. Ray",
-"G. Ruta",
-"P.C. West",
-"S. Wolny",
-"E. Zaveri",
-"R. Damania"
-],
-"unresolved": [
-"R. Chaplin-Kramer",
-"J. Smith",
-"M. Ruckelshaus",
-"J. Russ",
-"R. Schmitt",
-"A.L. Vogl",
-"J. Douglass",
-"I. Madden",
-"B. Sohngen",
-"G. Daily",
-"M.P. Heger",
-"U. Narain",
-"D. Ray",
-"E. Zaveri",
-"R. Damania"
-],
-"owners": [
-"stephen-polasky"
-],
-"remote": [
-[
-"Stephen Polasky"
-]
-]
 },
 "linkingeconomicvaluetradedynamicsandforestlossinglobalprimarywoodproduction": {
 "title": "Linking economic value, trade dynamics and forest loss in global primary wood production",
@@ -39829,6 +40137,33 @@
 ],
 "remote": []
 },
+"rootsofthederivativeoftheriemannzetafunctionandofcharacteristicpolynomials": {
+"title": "Roots of the Derivative of the Riemann-Zeta Function and of Characteristic Polynomials",
+"authors": [
+"E. Dueñez",
+"D. Farmer",
+"S. Froehlich",
+"C. Hughes",
+"F. Mezzadri",
+"Toan Phan"
+],
+"unresolved": [
+"C. Hughes"
+],
+"owners": [
+"toan-phan"
+],
+"remote": [
+[
+"Eduardo Dueñez",
+"David W Farmer",
+"Sara Froehlich",
+"C P Hughes",
+"Francesco Mezzadri",
+"Toan Phan"
+]
+]
+},
 "boostingstudyhabitswithhighfrequencyinformationafieldexperimenttoaiddisadvantage": {
 "title": "Boosting Study Habits with High-Frequency Information: A Field Experiment to Aid Disadvantaged Students",
 "authors": [
@@ -39967,6 +40302,54 @@
 ],
 "owners": [
 "ujjayant-chakravorty"
+],
+"remote": []
+},
+"wherearethegapsinmonitoringforecastingandmanagingairqualityindevelopingcountries": {
+"title": "Where Are the Gaps in Monitoring, Forecasting, and Managing Air Quality in Developing Countries? II Poster",
+"authors": [
+"Falguni Patadia",
+"C. A. Hasenkopf",
+"Jessica Seddon Wallack",
+"Urvashi Narain"
+],
+"unresolved": [
+"C. A. Hasenkopf"
+],
+"owners": [
+"urvashi-narain"
+],
+"remote": []
+},
+"thecoststodevelopingcountriesofadaptingtoclimatechangenewmethodsandestimates": {
+"title": "The Costs to Developing Countries of Adapting to Climate Change. New Methods and Estimates.",
+"authors": [
+"Sérgio Margulis",
+"Urvashi Narain",
+"Paul S. Chinowsky",
+"Laurent Cretegny",
+"Gareth M. Hughes",
+"Paul Kirshen",
+"Anne T. Kuriakose",
+"Glenn-Marine Lange",
+"Gerald Charles Nelson",
+"James E. Neumann",
+"Robert James Nicholls",
+"K. K. Pandy",
+"Jonathan P. Price",
+"Analía Schlosser",
+"Rochelle Schneider",
+"Roger A. Sedjo",
+"Kenneth Marc Strzepek",
+"Rashid Sumaila",
+"Philip J. Ward",
+"David R. Wheeler"
+],
+"unresolved": [
+"K. K. Pandy"
+],
+"owners": [
+"urvashi-narain"
 ],
 "remote": []
 },

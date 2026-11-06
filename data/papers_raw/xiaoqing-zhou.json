@@ -1,0 +1,355 @@
+{
+ "slug": "xiaoqing-zhou",
+ "name": "Xiaoqing Zhou",
+ "sources": [
+  "https://sites.google.com/a/umich.edu/xqzhou/research",
+  "https://drive.google.com/file/d/1CuJ_ZefmwaqmZOPW6KVhK9doKNW_0X54/view (CV, updated Oct 2026)",
+  "https://www.dallasfed.org/research/papers"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Source: homepage research page and CV (Oct 2026). Working papers without a year are dated 2026 (CV date); Dallas Fed WP numbers confirm 2607, 2609, 2604 (2026) and 2535 (2025). 'In the Shadows: Technology Investment and Mortgage Market Dynamics' appears in Dallas Fed index as 'Investing in the Shadows: FinTech Growth and Mortgage Market Dynamics' (WP 2604); homepage title kept. 'Oil Supply Shock Redux?' and 'Multiplier Effects of Federal Disaster-Relief Spending' are 'permanent working papers' (year 2026 only because no date shown). Coauthors initialed as on CV. Policy articles, VoxEU columns, Dallas Fed Economics pieces skipped. Where a source says only '(with ...)', the scholar is listed first, following the source's order (actual byline order not independently verified).",
+ "papers": [
+  {
+   "title": "The Postpandemic U.S. Immigration Surge: New Facts and Inflationary Implications",
+   "authors": [
+    "Xiaoqing Zhou",
+    "A. Cheremukhin",
+    "S. Hur",
+    "R. Mau",
+    "K. Mertens",
+    "Alexander W. Richter"
+   ],
+   "year": 2026,
+   "venue": "NBER Macroeconomics Annual",
+   "status": "即将发表",
+   "url": "https://www.nber.org/papers/w35168",
+   "abstract": null
+  },
+  {
+   "title": "Financial Technology and the Transmission of Monetary Policy: The Role of Social Networks",
+   "authors": [
+    "Xiaoqing Zhou"
+   ],
+   "year": 2025,
+   "venue": "Journal of Political Economy Macroeconomics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How Do Mortgage Rate Resets Affect Consumer Spending and Debt Repayment? Evidence from Canadian Consumers",
+   "authors": [
+    "Xiaoqing Zhou",
+    "Katya Kartashova"
+   ],
+   "year": 2025,
+   "venue": "Journal of Money, Credit and Banking",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Heterogeneity in the Pass-Through from Oil to Gasoline Prices: A New Instrument for Estimating the Price Elasticity of Gasoline Demand",
+   "authors": [
+    "Xiaoqing Zhou",
+    "Lutz Kilian"
+   ],
+   "year": 2024,
+   "venue": "Journal of Public Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Container Trade and the U.S. Recovery",
+   "authors": [
+    "Xiaoqing Zhou",
+    "Lutz Kilian",
+    "Nikos Nomikos"
+   ],
+   "year": 2023,
+   "venue": "International Journal of Central Banking",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Broader Perspective on the Inflationary Effects of Energy Price Shocks",
+   "authors": [
+    "Xiaoqing Zhou",
+    "Lutz Kilian"
+   ],
+   "year": 2023,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Quantitative Model of the Oil Tanker Market in the Arabian Gulf",
+   "authors": [
+    "Xiaoqing Zhou",
+    "Lutz Kilian",
+    "Nikos Nomikos"
+   ],
+   "year": 2023,
+   "venue": "Energy Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Mortgage Borrowing and the Boom-Bust Cycle in Consumption and Residential Investment",
+   "authors": [
+    "Xiaoqing Zhou"
+   ],
+   "year": 2022,
+   "venue": "Review of Economic Dynamics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Propagation of Regional Shocks in Housing Markets: Evidence from Oil Price Shocks in Canada",
+   "authors": [
+    "Xiaoqing Zhou",
+    "Lutz Kilian"
+   ],
+   "year": 2022,
+   "venue": "Journal of Money, Credit and Banking",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Oil Prices, Exchange Rates and Interest Rates",
+   "authors": [
+    "Xiaoqing Zhou",
+    "Lutz Kilian"
+   ],
+   "year": 2022,
+   "venue": "Journal of International Money and Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Oil Prices, Gasoline Prices and Inflation Expectations",
+   "authors": [
+    "Xiaoqing Zhou",
+    "Lutz Kilian"
+   ],
+   "year": 2022,
+   "venue": "Journal of Applied Econometrics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Impact of Rising Oil Prices on U.S. Inflation and Inflation Expectations in 2020-23",
+   "authors": [
+    "Xiaoqing Zhou",
+    "Lutz Kilian"
+   ],
+   "year": 2022,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Quantitative Evaluation of the Housing Provident Fund Program in China",
+   "authors": [
+    "Xiaoqing Zhou"
+   ],
+   "year": 2020,
+   "venue": "China Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Does Drawing Down the U.S. Strategic Petroleum Reserve Help Stabilize Oil Prices?",
+   "authors": [
+    "Xiaoqing Zhou",
+    "Lutz Kilian"
+   ],
+   "year": 2020,
+   "venue": "Journal of Applied Econometrics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Refining the Workhorse Oil Market Model",
+   "authors": [
+    "Xiaoqing Zhou"
+   ],
+   "year": 2020,
+   "venue": "Journal of Applied Econometrics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Modeling Fluctuations in the Global Demand for Commodities",
+   "authors": [
+    "Xiaoqing Zhou",
+    "Lutz Kilian"
+   ],
+   "year": 2018,
+   "venue": "Journal of International Money and Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Is the Discretionary Income Effect of Oil Price Shocks a Hoax?",
+   "authors": [
+    "Xiaoqing Zhou",
+    "Christiane Baumeister",
+    "Lutz Kilian"
+   ],
+   "year": 2018,
+   "venue": "Energy Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Are Product Spreads Useful for Forecasting? An Empirical Evaluation of the Verleger Hypothesis",
+   "authors": [
+    "Xiaoqing Zhou",
+    "Christiane Baumeister",
+    "Lutz Kilian"
+   ],
+   "year": 2018,
+   "venue": "Macroeconomic Dynamics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Oil Price Shocks and Inflation",
+   "authors": [
+    "Xiaoqing Zhou",
+    "Lutz Kilian"
+   ],
+   "year": 2025,
+   "venue": "Research Handbook on Inflation (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Econometrics of Oil Market VAR Models",
+   "authors": [
+    "Xiaoqing Zhou",
+    "Lutz Kilian"
+   ],
+   "year": 2023,
+   "venue": "Advances in Econometrics (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Maritime Chokepoint Disruptions, Trade, and U.S. Inflation",
+   "authors": [
+    "Xiaoqing Zhou",
+    "Ricardo Reyes-Heroles"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Impacts of Unauthorized Immigration on U.S. Labor and Housing Markets: New Evidence from Administrative Microdata",
+   "authors": [
+    "Xiaoqing Zhou",
+    "Daniel J. Wilson"
+   ],
+   "year": 2026,
+   "venue": "Dallas Fed Working Paper",
+   "status": "工作论文",
+   "url": "https://www.dallasfed.org/~/media/documents/research/papers/2026/wp2607.pdf",
+   "abstract": null
+  },
+  {
+   "title": "In the Shadows: Technology Investment and Mortgage Market Dynamics",
+   "authors": [
+    "Xiaoqing Zhou",
+    "Wenli Li"
+   ],
+   "year": 2026,
+   "venue": "Dallas Fed Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Subcontracting in Federal Spending: Micro and Macro Implications",
+   "authors": [
+    "Xiaoqing Zhou",
+    "Geumbi Park",
+    "Sarah Zubairy"
+   ],
+   "year": 2025,
+   "venue": "Dallas Fed Working Paper",
+   "status": "工作论文",
+   "url": "https://www.nber.org/papers/w34686",
+   "abstract": null
+  },
+  {
+   "title": "The Impact of the 2026 Iran War on U.S. Inflation: A Scenario Analysis",
+   "authors": [
+    "Xiaoqing Zhou",
+    "Lutz Kilian",
+    "Michael D. Plante",
+    "Alexander W. Richter"
+   ],
+   "year": 2026,
+   "venue": "Dallas Fed Working Paper",
+   "status": "工作论文",
+   "url": "https://cepr.org/voxeu/columns/quantifying-impact-iran-war-us-inflation",
+   "abstract": null
+  },
+  {
+   "title": "Wealth Inequality and Return Heterogeneity during the COVID-19 Pandemic",
+   "authors": [
+    "Xiaoqing Zhou",
+    "Katya Kartashova"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Oil Supply Shock Redux?",
+   "authors": [
+    "Xiaoqing Zhou",
+    "Lutz Kilian"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Multiplier Effects of Federal Disaster-Relief Spending: Evidence from U.S. States and Households",
+   "authors": [
+    "Xiaoqing Zhou"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

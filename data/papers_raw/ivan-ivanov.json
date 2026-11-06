@@ -1,0 +1,217 @@
+{
+ "slug": "ivan-ivanov",
+ "name": "Ivan Ivanov",
+ "sources": [
+  "https://www.ivantivanov.com/research",
+  "https://www.chicagofed.org/-/media/others/people/cv/cv-ivanov.pdf (Feb 2025)"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Source: homepage research page (newer) merged with CV (Feb 2025). Homepage shows 'Taxes Depress Corporate Borrowing' forthcoming at Review of Economic Studies (CV: R&R) and gives no years for items 1-3; those (City Hall R&R, Taxes forthcoming, Gas/Guns/Governments forthcoming at Journal of Finance) are dated 2026 (collection year). Bank supervision title per homepage ('Bank Supervision, Corporate Credit Supply, and Bank Monitoring'; CV: 'Bank Supervision and Corporate Credit Supply'). 'Humans vs Machines' is a 2020 'permanent working paper' per CV. Non-academic pieces skipped. CV lists scholar first in all 'with' lines; actual byline orders not verified. Where a source says only '(with ...)', the scholar is listed first, following the source's order (actual byline order not independently verified).",
+ "papers": [
+  {
+   "title": "Gas, Guns, and Governments: Financial Costs of Anti-ESG Policies",
+   "authors": [
+    "Ivan Ivanov",
+    "Dan Garrett"
+   ],
+   "year": 2026,
+   "venue": "Journal of Finance",
+   "status": "即将发表",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4123366",
+   "abstract": null
+  },
+  {
+   "title": "Taxes Depress Corporate Borrowing: Evidence from Private Firms",
+   "authors": [
+    "Ivan Ivanov",
+    "Luke Pettit",
+    "Toni Whited"
+   ],
+   "year": 2026,
+   "venue": "Review of Economic Studies",
+   "status": "即将发表",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3694869",
+   "abstract": null
+  },
+  {
+   "title": "Limits of Disclosure Regulation in the Municipal Bond Market",
+   "authors": [
+    "Ivan Ivanov",
+    "Tom Zimmermann",
+    "Nathan Heinrich"
+   ],
+   "year": 2025,
+   "venue": "Management Science",
+   "status": "已发表",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4022819",
+   "abstract": null
+  },
+  {
+   "title": "The 'Privatization' of Municipal Debt",
+   "authors": [
+    "Ivan Ivanov",
+    "Tom Zimmermann"
+   ],
+   "year": 2024,
+   "venue": "Journal of Public Economics",
+   "status": "已发表",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3056079",
+   "abstract": null
+  },
+  {
+   "title": "Banking on Carbon: Corporate Lending and Cap-and-Trade Policy",
+   "authors": [
+    "Ivan Ivanov",
+    "Mathias Kruttli",
+    "Sumudu Watugala"
+   ],
+   "year": 2024,
+   "venue": "Review of Financial Studies",
+   "status": "已发表",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3650447",
+   "abstract": null
+  },
+  {
+   "title": "Bank Supervision, Corporate Credit Supply, and Bank Monitoring",
+   "authors": [
+    "Ivan Ivanov",
+    "James Wang"
+   ],
+   "year": 2024,
+   "venue": "Management Science",
+   "status": "已发表",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2929670",
+   "abstract": null
+  },
+  {
+   "title": "Strategic Responses to Supervisory Coverage: Evidence from a Natural Experiment",
+   "authors": [
+    "Ivan Ivanov",
+    "Ben Ranish",
+    "James Wang"
+   ],
+   "year": 2023,
+   "venue": "Journal of Money, Credit and Banking",
+   "status": "已发表",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2921453",
+   "abstract": null
+  },
+  {
+   "title": "Bank Lending Networks and the Propagation of Natural Disasters",
+   "authors": [
+    "Ivan Ivanov",
+    "Marco Macchiavelli",
+    "João A. C. Santos"
+   ],
+   "year": 2022,
+   "venue": "Financial Management",
+   "status": "已发表",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3541335",
+   "abstract": null
+  },
+  {
+   "title": "GSIB Surcharges and Bank Lending: Evidence from U.S. Corporate Loan Data",
+   "authors": [
+    "Ivan Ivanov",
+    "Giovanni Favara",
+    "Marcelo Rezende"
+   ],
+   "year": 2021,
+   "venue": "Journal of Financial Economics",
+   "status": "已发表",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3676674",
+   "abstract": null
+  },
+  {
+   "title": "Weathering Cash Flow Shocks",
+   "authors": [
+    "Ivan Ivanov",
+    "James Brown",
+    "Matthew Gustafson"
+   ],
+   "year": 2021,
+   "venue": "Journal of Finance",
+   "status": "已发表",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2963444",
+   "abstract": null
+  },
+  {
+   "title": "Bank Monitoring: Evidence from Syndicated Loans",
+   "authors": [
+    "Ivan Ivanov",
+    "Matthew Gustafson",
+    "Ralf Meisenzahl"
+   ],
+   "year": 2021,
+   "venue": "Journal of Financial Economics",
+   "status": "已发表",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2831455",
+   "abstract": null
+  },
+  {
+   "title": "Do Leveraged ETFs Really Amplify Late-day Returns and Volatility?",
+   "authors": [
+    "Ivan Ivanov",
+    "Stephen Lenkey"
+   ],
+   "year": 2018,
+   "venue": "Journal of Financial Markets",
+   "status": "已发表",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2504012",
+   "abstract": null
+  },
+  {
+   "title": "The Transformation of Banking: Tying Loan Interest Rates to Borrowers' CDS Spreads",
+   "authors": [
+    "Ivan Ivanov",
+    "João A. C. Santos",
+    "Thu Vo"
+   ],
+   "year": 2016,
+   "venue": "Journal of Corporate Finance",
+   "status": "已发表",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2316097",
+   "abstract": null
+  },
+  {
+   "title": "Financial Condition and Product Market Cooperation",
+   "authors": [
+    "Ivan Ivanov",
+    "Matthew Gustafson",
+    "John Ritter"
+   ],
+   "year": 2015,
+   "venue": "Journal of Corporate Finance",
+   "status": "已发表",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1787333",
+   "abstract": null
+  },
+  {
+   "title": "City Hall Has Been Hacked! The Financial Costs of Lax Cybersecurity",
+   "authors": [
+    "Ivan Ivanov",
+    "Filippo Curti",
+    "Marco Macchiavelli",
+    "Tom Zimmermann"
+   ],
+   "year": 2026,
+   "venue": "Review of Financial Studies",
+   "status": "修改重投",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4465071",
+   "abstract": null
+  },
+  {
+   "title": "Humans vs Machines: Soft and Hard Information in Corporate Loan Pricing",
+   "authors": [
+    "Ivan Ivanov",
+    "Manuel Adelino",
+    "Michael Smolyansky"
+   ],
+   "year": 2020,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

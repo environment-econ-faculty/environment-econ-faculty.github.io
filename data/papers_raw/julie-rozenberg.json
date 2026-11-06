@@ -1,0 +1,236 @@
+{
+ "slug": "julie-rozenberg",
+ "name": "Julie Rozenberg",
+ "sources": [
+  "https://ideas.repec.org/f/pro600.html",
+  "https://ideas.repec.org/a/spr/jtrsec/v14y2021i3d10.1007_s12198-021-00230-w.html",
+  "https://ideas.repec.org/a/spr/climat/v161y2020i3d10.1007_s10584-019-02409-6.html",
+  "https://ideas.repec.org/a/spr/endesu/v26y2024i3d10.1007_s10668-023-02958-y.html",
+  "https://ideas.repec.org/f/pha351.html"
+ ],
+ "collected": "2026-11-06",
+ "notes": "No personal site/CV. Sources: her RePEc/IDEAS page (which lists only 2010-2014 items) plus IDEAS item pages / Hallegatte's IDEAS list for her later co-authored articles; coverage is therefore incomplete (e.g. other 2015-2025 World Bank work such as the Nature Climate Change 2021 adaptation-scenarios paper, Lifelines/Beyond the Gap books are not entered; books and flagship reports skipped). Criticality-analysis paper: first author's first name not shown on IDEAS (entered as 'Colon'). Working papers that were later published (PRWP 6859, CIRED/FEEM versions of SSP and peak-oil papers) dropped.",
+ "papers": [
+  {
+   "title": "Potential exposure and vulnerability to broader climate-related trade regulations: an illustration for LAC countries",
+   "authors": [
+    "Mariana Conte Grand",
+    "Paulina Schulz-Antipa",
+    "Julie Rozenberg"
+   ],
+   "year": 2024,
+   "venue": "Environment, Development and Sustainability",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Cyber resilience of autonomous mobility systems: cyber-attacks and resilience-enhancing strategies",
+   "authors": [
+    "Bo Zou",
+    "Pooria Choobchian",
+    "Julie Rozenberg"
+   ],
+   "year": 2021,
+   "venue": "Journal of Transportation Security",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Criticality analysis of a country's transport network via an agent-based supply chain model",
+   "authors": [
+    "Colon",
+    "Stéphane Hallegatte",
+    "Julie Rozenberg"
+   ],
+   "year": 2021,
+   "venue": "Nature Sustainability",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Investments under non-stationarity: economic evaluation of adaptation pathways",
+   "authors": [
+    "Marjolijn Haasnoot",
+    "Maaike van Aalst",
+    "Julie Rozenberg",
+    "Kathleen Dominique",
+    "John Matthews",
+    "Laurens M. Bouwer",
+    "Jarl Kind",
+    "N. LeRoy Poff"
+   ],
+   "year": 2020,
+   "venue": "Climatic Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Instrument choice and stranded assets in the transition to clean capital",
+   "authors": [
+    "Julie Rozenberg",
+    "Adrien Vogt-Schilb",
+    "Stéphane Hallegatte"
+   ],
+   "year": 2020,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Climate change through a poverty lens",
+   "authors": [
+    "Stéphane Hallegatte",
+    "Julie Rozenberg"
+   ],
+   "year": 2017,
+   "venue": "Nature Climate Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Building SSPs for climate policy analysis: a scenario elicitation methodology to map the space of possible future challenges to mitigation and adaptation",
+   "authors": [
+    "Julie Rozenberg",
+    "Céline Guivarch",
+    "Robert Lempert",
+    "Stéphane Hallegatte"
+   ],
+   "year": 2014,
+   "venue": "Climatic Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Monetary compensations in climate policy through the lens of a general equilibrium assessment: The case of oil-exporting countries",
+   "authors": [
+    "Henri Waisman",
+    "Julie Rozenberg",
+    "Jean Charles Hourcade"
+   ],
+   "year": 2013,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Funding low-carbon investments in the absence of a carbon tax",
+   "authors": [
+    "Julie Rozenberg",
+    "Stéphane Hallegatte",
+    "Baptiste Perrissin-Fabert",
+    "Jean-Charles Hourcade"
+   ],
+   "year": 2013,
+   "venue": "Climate Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Efficiency and Acceptability of Climate Policies: Race Against the Lock-ins",
+   "authors": [
+    "Julie Rozenberg",
+    "Adrien Vogt-Schilb",
+    "Stéphane Hallegatte"
+   ],
+   "year": 2013,
+   "venue": "Review of Environment, Energy and Economics (Re3)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Peak Oil profiles through the lens of a general equilibrium assessment",
+   "authors": [
+    "Henri Waisman",
+    "Julie Rozenberg",
+    "Olivier Sassi",
+    "Jean-Charles Hourcade"
+   ],
+   "year": 2012,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Venturing into uncharted financial waters: an essay on climate-friendly finance",
+   "authors": [
+    "J. Hourcade",
+    "B. Perrissin Fabert",
+    "Julie Rozenberg"
+   ],
+   "year": 2012,
+   "venue": "International Environmental Agreements: Politics, Law and Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Revised Estimates of the Impact of Climate Change on Extreme Poverty by 2030",
+   "authors": [
+    "Bramka Arga Jafino",
+    "Brian Walsh",
+    "Julie Rozenberg",
+    "Stéphane Hallegatte"
+   ],
+   "year": 2020,
+   "venue": "World Bank Policy Research Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How capital-based instruments facilitate the transition toward a low-carbon economy: a tradeoff between optimality and acceptability",
+   "authors": [
+    "Julie Rozenberg",
+    "Adrien Vogt-Schilb",
+    "Stéphane Hallegatte"
+   ],
+   "year": 2013,
+   "venue": "World Bank Policy Research Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How CO2 Capture and Storage Can Mitigate Carbon Leakage",
+   "authors": [
+    "Philippe Quirion",
+    "Julie Rozenberg",
+    "Olivier Sassi",
+    "Adrien Vogt-Schilb"
+   ],
+   "year": 2011,
+   "venue": "FEEM Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Climate policies as a hedge against the uncertainty on future oil supply",
+   "authors": [
+    "Julie Rozenberg",
+    "Stéphane Hallegatte",
+    "Adrien Vogt-Schilb",
+    "Olivier Sassi",
+    "Céline Guivarch",
+    "Henri Waisman",
+    "Jean Charles Hourcade"
+   ],
+   "year": 2010,
+   "venue": "CIRED Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

@@ -1,0 +1,117 @@
+{
+ "slug": "siddhartha-biswas",
+ "name": "Siddhartha Biswas",
+ "sources": [
+  "https://sites.google.com/view/siddharthabiswas",
+  "https://sites.google.com/view/siddharthabiswas/research",
+  "https://www.philadelphiafed.org/-/media/FRBP/Assets/People/Curricula-Vitae/vita_biswas.pdf"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Source: personal site research page and 2023 CV (CV has \"with\" lists; author order for the 2023 paper from CV: Biswas, Hossain, Zink; for the 2025 Nature Climate Change paper and Model Risk the order is from Amornsiripanitch's page). Hidden Inflation WP year 2026 inferred (no date on page; order from Amornsiripanitch page). Student Loans WP year 2022 inferred from ASSA 2022 presentation. Excluded work in progress (Home Insurance Non-renewals, Behavioral Responses, Labor Market Value of College Networks).",
+ "papers": [
+  {
+   "title": "Mortgage Performance and Insurance Protections after Natural Disasters",
+   "authors": [
+    "Siddhartha Biswas",
+    "Mallick Hossain",
+    "David Zink"
+   ],
+   "year": 2023,
+   "venue": "Journal of Political Economy Microeconomics",
+   "status": "修改重投",
+   "url": "https://www.philadelphiafed.org/consumer-finance/mortgage-markets/california-wildfires-property-damage-and-mortgage-repayment",
+   "abstract": null
+  },
+  {
+   "title": "Model Risk in Physical Risk Models",
+   "authors": [
+    "Natee Amornsiripanitch",
+    "Siddhartha Biswas",
+    "David Wylie"
+   ],
+   "year": 2026,
+   "venue": "FRB Philadelphia Working Paper",
+   "status": "工作论文",
+   "url": "https://www.philadelphiafed.org/consumer-finance/model-risk-in-physical-models",
+   "abstract": null
+  },
+  {
+   "title": "The Hidden Inflation in Homeowners' Insurance",
+   "authors": [
+    "Natee Amornsiripanitch",
+    "Siddhartha Biswas",
+    "Mallick Hossain",
+    "Sinjeong Kim"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Federal Student Loans, College Choice, and Student Welfare",
+   "authors": [
+    "Siddhartha Biswas"
+   ],
+   "year": 2022,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://sid-biswas.github.io/webpage/Papers/Biswas_LoansCollegeChoice.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Measuring Flood Underinsurance in the USA",
+   "authors": [
+    "Natee Amornsiripanitch",
+    "Siddhartha Biswas",
+    "John Orellana-Li",
+    "David Zink"
+   ],
+   "year": 2025,
+   "venue": "Nature Climate Change",
+   "status": "已发表",
+   "url": "https://www.nature.com/articles/s41558-025-02396-w",
+   "abstract": null
+  },
+  {
+   "title": "The COVID-19 Pandemic and Mental Health of First-Year College Students: Examining the Effect of COVID-19 Stressors Using Longitudinal Data",
+   "authors": [
+    "Siddhartha Biswas",
+    "Jane Cooley Fruehwirth",
+    "Krista Perreira"
+   ],
+   "year": 2021,
+   "venue": "PLOS ONE",
+   "status": "已发表",
+   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247999",
+   "abstract": null
+  },
+  {
+   "title": "Bubbly Recessions",
+   "authors": [
+    "Siddhartha Biswas",
+    "Andrew Hanson",
+    "Toan Phan"
+   ],
+   "year": 2020,
+   "venue": "American Economic Journal: Macroeconomics",
+   "status": "已发表",
+   "url": "https://www.aeaweb.org/articles?id=10.1257/mac.20180083",
+   "abstract": null
+  },
+  {
+   "title": "Income Inequality, Tax Policy, and Economic Growth",
+   "authors": [
+    "Siddhartha Biswas",
+    "Indraneel Chakraborty",
+    "Rong Hai"
+   ],
+   "year": 2017,
+   "venue": "Economic Journal",
+   "status": "已发表",
+   "url": "http://onlinelibrary.wiley.com/doi/10.1111/ecoj.12485/abstract",
+   "abstract": null
+  }
+ ]
+}

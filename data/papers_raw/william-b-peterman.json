@@ -1,0 +1,261 @@
+{
+ "slug": "william-b-peterman",
+ "name": "William B. Peterman",
+ "sources": [
+  "https://www.federalreserve.gov/econres/william-b-peterman.htm"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Source: Fed Board economist profile page (last updated Feb 2026), which gives full bylines. Excluded FEDS Notes. Working-paper versions of later-published papers dropped (published version kept). No abstracts on page. \"Systemic Risk of Climate Policy\" is listed only as an FRBSF Working Paper (2019); page does not say whether it was later published.",
+ "papers": [
+  {
+   "title": "Optimal Public Debt with Life Cycle Motives",
+   "authors": [
+    "William B. Peterman",
+    "Erick Sager"
+   ],
+   "year": 2022,
+   "venue": "American Economic Journal: Macroeconomics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1257/mac.20180247",
+   "abstract": null
+  },
+  {
+   "title": "Climate policy transition risk and the macroeconomy",
+   "authors": [
+    "Stephie Fried",
+    "Kevin Novan",
+    "William B. Peterman"
+   ],
+   "year": 2022,
+   "venue": "European Economic Review",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.euroecorev.2022.104174",
+   "abstract": null
+  },
+  {
+   "title": "An evaluation of the Paycheck Protection Program using administrative payroll microdata",
+   "authors": [
+    "David Autor",
+    "David Cho",
+    "Leland D. Crane",
+    "Mita Goldar",
+    "Byron Lutz",
+    "Joshua Montes",
+    "William B. Peterman",
+    "David Ratner",
+    "Daniel Villar",
+    "Ahu Yildirmaz"
+   ],
+   "year": 2022,
+   "venue": "Journal of Public Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jpubeco.2022.104664",
+   "abstract": null
+  },
+  {
+   "title": "The $800 Billion Paycheck Protection Program: Where Did the Money Go and Why Did It Go There?",
+   "authors": [
+    "David Autor",
+    "David Cho",
+    "Leland D. Crane",
+    "Mita Goldar",
+    "Byron Lutz",
+    "Joshua Montes",
+    "William B. Peterman",
+    "David Ratner",
+    "Daniel Villar",
+    "Ahu Yildirmaz"
+   ],
+   "year": 2022,
+   "venue": "Journal of Economic Perspectives",
+   "status": "已发表",
+   "url": "https://doi.org/10.1257/jep.36.2.55",
+   "abstract": null
+  },
+  {
+   "title": "Macroeconomic Implications of Inequality and Income Risk",
+   "authors": [
+    "Aditya Aladangady",
+    "Etienne Gagnon",
+    "Benjamin K. Johannsen",
+    "William B. Peterman"
+   ],
+   "year": 2021,
+   "venue": "FEDS (Finance and Economics Discussion Series)",
+   "status": "工作论文",
+   "url": "https://doi.org/10.17016/FEDS.2021.073",
+   "abstract": null
+  },
+  {
+   "title": "Recycling Carbon Tax Revenue to Maximize Welfare",
+   "authors": [
+    "Stephie Fried",
+    "Kevin Novan",
+    "William B. Peterman"
+   ],
+   "year": 2021,
+   "venue": "FEDS (Finance and Economics Discussion Series)",
+   "status": "工作论文",
+   "url": "https://doi.org/10.17016/FEDS.2021.023",
+   "abstract": null
+  },
+  {
+   "title": "The Macro Effects of Climate Policy Uncertainty",
+   "authors": [
+    "Stephie Fried",
+    "Kevin Novan",
+    "William B. Peterman"
+   ],
+   "year": 2021,
+   "venue": "FEDS (Finance and Economics Discussion Series)",
+   "status": "工作论文",
+   "url": "https://doi.org/10.17016/FEDS.2021.018",
+   "abstract": null
+  },
+  {
+   "title": "A Historical Welfare Analysis of Social Security: Whom Did the Program Benefit?",
+   "authors": [
+    "William B. Peterman",
+    "Kamila Sommer"
+   ],
+   "year": 2019,
+   "venue": "Quantitative Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.3982/QE657",
+   "abstract": null
+  },
+  {
+   "title": "The Systemic Risk of Climate Policy (Preliminary)",
+   "authors": [
+    "Stephie Fried",
+    "Kevin Novan",
+    "William B. Peterman"
+   ],
+   "year": 2019,
+   "venue": "FRBSF Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Taxing Capital? The Importance of How Human Capital is Accumulated",
+   "authors": [
+    "Adam Blandin",
+    "William B. Peterman"
+   ],
+   "year": 2019,
+   "venue": "European Economic Review",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.euroecorev.2019.08.007",
+   "abstract": null
+  },
+  {
+   "title": "The Distributional Effects of a Carbon Tax on Current and Future Generations",
+   "authors": [
+    "Stephie Fried",
+    "Kevin Novan",
+    "William B. Peterman"
+   ],
+   "year": 2018,
+   "venue": "Review of Economic Dynamics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.red.2018.02.001",
+   "abstract": null
+  },
+  {
+   "title": "Fiscal Policy and Aggregate Demand in the USA Before, During and Following the Great Recession",
+   "authors": [
+    "David Cashin",
+    "Jamie Lenney",
+    "Byron Lutz",
+    "William B. Peterman"
+   ],
+   "year": 2018,
+   "venue": "International Tax and Public Finance",
+   "status": "已发表",
+   "url": "https://doi.org/10.1007/s10797-018-9497-0",
+   "abstract": null
+  },
+  {
+   "title": "The Effect of Endogenous Human Capital Accumulation on Optimal Taxation",
+   "authors": [
+    "William B. Peterman"
+   ],
+   "year": 2016,
+   "venue": "Review of Economic Dynamics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.red.2016.04.001",
+   "abstract": null
+  },
+  {
+   "title": "Reconciling Micro and Macro Estimates of the Frisch Labor Supply Elasticity",
+   "authors": [
+    "William B. Peterman"
+   ],
+   "year": 2016,
+   "venue": "Economic Inquiry",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/ecin.12252",
+   "abstract": null
+  },
+  {
+   "title": "Determining the Motives for a Positive Optimal Tax on Capital",
+   "authors": [
+    "William B. Peterman"
+   ],
+   "year": 2013,
+   "venue": "Journal of Economic Dynamics and Control",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jedc.2012.08.004",
+   "abstract": null
+  },
+  {
+   "title": "An Extensive Look at Taxes: How does Endogenous Retirement Affect Optimal Taxation?",
+   "authors": [
+    "William B. Peterman"
+   ],
+   "year": 2012,
+   "venue": "FEDS (Finance and Economics Discussion Series)",
+   "status": "工作论文",
+   "url": "https://doi.org/10.17016/FEDS.2012.28",
+   "abstract": null
+  },
+  {
+   "title": "Decomposing Inflation",
+   "authors": [
+    "Andrew Bauer",
+    "Nicholas Haltom",
+    "William B. Peterman"
+   ],
+   "year": 2004,
+   "venue": "Economic Review (Federal Reserve Bank of Atlanta)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Advocacy vs. Collaboration: Comparing Inclusionary Community Planning Models",
+   "authors": [
+    "William B. Peterman"
+   ],
+   "year": 2004,
+   "venue": "Community Development Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Examining Contributions to Core Consumer Inflation Measures",
+   "authors": [
+    "Andrew Bauer",
+    "Nicholas Haltom",
+    "William B. Peterman"
+   ],
+   "year": 2004,
+   "venue": "Federal Reserve Bank of Atlanta Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

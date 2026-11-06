@@ -1,0 +1,171 @@
+{
+ "slug": "stephie-fried",
+ "name": "Stephie Fried",
+ "sources": [
+  "https://sites.google.com/site/stephiedfried/research",
+  "https://www.frbsf.org/wp-content/uploads/CV-Fried.pdf (Aug 2025)"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Source: homepage research page (newer) merged with CV (Aug 2025). 'A Macro Study of the Unequal Effects of Climate Change' is listed on the homepage under The Economic Journal 2026 while the CV says revision requested; marked 即将发表 since print status unclear. 'Climate Policy and the Long-Run Interest Rate' is AEA Papers and Proceedings 2026 per homepage (CV: working paper). IMF Economic Review paper year 2022 per CV (homepage 2023). Homework in Climate Economics: revision requested at REStat, year 2025 from CV date. FRBSF Economic Letters, FEDS Note, VoxDev and works in progress skipped. Where a source says only '(with ...)', the scholar is listed first, following the source's order (actual byline order not independently verified).",
+ "papers": [
+  {
+   "title": "Climate Policy and the Long-Run Interest Rate: Insights From a Simple Growth Model",
+   "authors": [
+    "Stephie Fried",
+    "Gregory Casey",
+    "William B. Peterman"
+   ],
+   "year": 2026,
+   "venue": "AEA Papers and Proceedings",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Macro Study of the Unequal Effects of Climate Change",
+   "authors": [
+    "Stephie Fried"
+   ],
+   "year": 2026,
+   "venue": "The Economic Journal",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Understanding the Welfare and Inequality Impacts of Carbon Tax Policies",
+   "authors": [
+    "Stephie Fried",
+    "Kevin Novan",
+    "William B. Peterman"
+   ],
+   "year": 2024,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Understanding Climate Damages: Consumption vs. Investment",
+   "authors": [
+    "Gregory Casey",
+    "Stephie Fried",
+    "Matthew Gibson"
+   ],
+   "year": 2024,
+   "venue": "European Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Projecting the Impact of Rising Temperatures: The Role of Macroeconomic Dynamics",
+   "authors": [
+    "Gregory Casey",
+    "Stephie Fried",
+    "Ethan Goode"
+   ],
+   "year": 2022,
+   "venue": "IMF Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Climate Policy Transition Risk and the Macroeconomy",
+   "authors": [
+    "Stephie Fried",
+    "Kevin Novan",
+    "William B. Peterman"
+   ],
+   "year": 2022,
+   "venue": "European Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Electrification and Firm Productivity: A General Equilibrium Approach",
+   "authors": [
+    "Stephie Fried",
+    "David Lagakos"
+   ],
+   "year": 2023,
+   "venue": "American Economic Journal: Macroeconomics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Seawalls and Stilts: A Quantitative Macro Study of Climate Adaptation",
+   "authors": [
+    "Stephie Fried"
+   ],
+   "year": 2022,
+   "venue": "The Review of Economic Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Rural Electrification, Migration and Structural Transformation: Evidence from Ethiopia",
+   "authors": [
+    "Stephie Fried",
+    "David Lagakos"
+   ],
+   "year": 2021,
+   "venue": "Regional Science and Urban Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Distributional Effects of Adopting a Carbon Tax on Current and Future Generations",
+   "authors": [
+    "Stephie Fried",
+    "Kevin Novan",
+    "William B. Peterman"
+   ],
+   "year": 2018,
+   "venue": "Review of Economic Dynamics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Climate Policy and Innovation: A Quantitative Macroeconomic Analysis",
+   "authors": [
+    "Stephie Fried"
+   ],
+   "year": 2018,
+   "venue": "American Economic Journal: Macroeconomics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Stuck in a Corner? Climate Policy in Developing Countries",
+   "authors": [
+    "Stephie Fried"
+   ],
+   "year": 2018,
+   "venue": "Macroeconomic Dynamics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Homework in Climate Economics: Household Production, Environmental Preferences, and Climate Policy",
+   "authors": [
+    "Stephie Fried",
+    "David Lagakos",
+    "Hannah Rhodenhiser"
+   ],
+   "year": 2025,
+   "venue": "Review of Economics and Statistics",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

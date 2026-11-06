@@ -1,0 +1,28 @@
+{
+ "slug": "arno-behrens",
+ "name": "Arno Behrens",
+ "sources": [
+  "https://ideas.repec.org/p/eps/cepswp/12440.html",
+  "https://ideas.repec.org/p/eps/cepswp/13331.html",
+  "https://search.worldbank.org/api/v3/wds",
+  "https://api.crossref.org"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Very thin: no personal site/CV or RePEc author profile found, and his World Bank output (circular-economy diagnostics for Croatia, Poland, Bulgaria, Serbia; CEPS papers) consists of reports/policy papers that were skipped. Only the Ecological Economics article was found via Crossref title lookup (assumed to be the same Arno Behrens, formerly Wuppertal Institute/CEPS; affiliation not verified on the page). Other journal articles may be missing.",
+ "papers": [
+  {
+   "title": "The material basis of the global economy",
+   "authors": [
+    "Arno Behrens",
+    "Stefan Giljum",
+    "Jan Kovanda",
+    "Samuel Niza"
+   ],
+   "year": 2007,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

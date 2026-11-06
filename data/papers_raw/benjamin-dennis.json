@@ -1,0 +1,172 @@
+{
+ "slug": "benjamin-dennis",
+ "name": "Benjamin Dennis",
+ "sources": [
+  "https://www.federalreserve.gov/econres/benjamin-dennis.htm"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Source: Fed Board economist profile page (updated Feb 2026). Excluded FEDS Notes; FEDS versions of later-published papers dropped. Typo \"Prouctivity\" on page corrected. Bylines of the first two entries come from the fetched page summary, not the raw HTML.",
+ "papers": [
+  {
+   "title": "A New Measure of Climate Transition Risk Based on Distance to a Global Emission Factor Frontier",
+   "authors": [
+    "Benjamin N. Dennis",
+    "Talan B. İşcan"
+   ],
+   "year": 2026,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.ecolecon.2025.108742",
+   "abstract": null
+  },
+  {
+   "title": "Spatially Mapping Banks' Commercial & Industrial Loan Exposures: Including an Application to Climate-Related Risks",
+   "authors": [
+    "Benjamin Dennis",
+    "Gurubala Kotta",
+    "Caroline Conley Norris"
+   ],
+   "year": 2025,
+   "venue": "FEDS (Finance and Economics Discussion Series)",
+   "status": "工作论文",
+   "url": "https://doi.org/10.17016/FEDS.2025.006",
+   "abstract": null
+  },
+  {
+   "title": "Climate-Related Financial Stability Risks for the United States: Methods and Applications",
+   "authors": [
+    "Celso Brunetti",
+    "Matteo Crosignani",
+    "Benjamin Dennis",
+    "Gurubala Kotta",
+    "Donald P. Morgan",
+    "Chaehee Shin",
+    "Ilknur Zer"
+   ],
+   "year": 2024,
+   "venue": "Economic Policy Review",
+   "status": "已发表",
+   "url": "https://doi.org/10.59576/epr.30.1.1-37",
+   "abstract": null
+  },
+  {
+   "title": "Climate Change and Financial Policy: A Literature Review",
+   "authors": [
+    "Benjamin N. Dennis"
+   ],
+   "year": 2023,
+   "venue": "International Review of Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1561/101.00000153",
+   "abstract": null
+  },
+  {
+   "title": "Household, Bank, and Insurer Exposure to Miami Hurricanes: a flow-of-risk analysis",
+   "authors": [
+    "Benjamin N. Dennis"
+   ],
+   "year": 2023,
+   "venue": "FEDS (Finance and Economics Discussion Series)",
+   "status": "工作论文",
+   "url": "https://doi.org/10.17016/FEDS.2023.013",
+   "abstract": null
+  },
+  {
+   "title": "Structural Change and Global Trade Flows: Does An Emerging Giant Matter?",
+   "authors": [
+    "Benjamin N. Dennis",
+    "Talan B. İşcan"
+   ],
+   "year": 2020,
+   "venue": "Review of International Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/roie.12486",
+   "abstract": null
+  },
+  {
+   "title": "Agricultural distortions, structural change, and economic growth: A cross-country analysis",
+   "authors": [
+    "Benjamin Dennis",
+    "Talan B. Iscan"
+   ],
+   "year": 2011,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1093/ajae/aar011",
+   "abstract": null
+  },
+  {
+   "title": "Engel versus Baumol: Accounting for U.S. structural change using two centuries of data",
+   "authors": [
+    "Benjamin Dennis",
+    "Talan B. Iscan"
+   ],
+   "year": 2009,
+   "venue": "Explorations in Economic History",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.eeh.2008.11.003",
+   "abstract": null
+  },
+  {
+   "title": "Which exchange rates matter for FDI? Evidence for Japan",
+   "authors": [
+    "Benjamin Dennis",
+    "Christopher Laincz",
+    "Lei Zhu"
+   ],
+   "year": 2008,
+   "venue": "Southern Economic Journal",
+   "status": "已发表",
+   "url": "https://doi.org/10.2307/20112027",
+   "abstract": null
+  },
+  {
+   "title": "Productivity Growth and Agricultural Out-migration in the United States",
+   "authors": [
+    "Benjamin Dennis",
+    "Talan B. Iscan"
+   ],
+   "year": 2007,
+   "venue": "Structural Change and Economic Dynamics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.strueco.2005.11.003",
+   "abstract": null
+  },
+  {
+   "title": "Terms-of-Trade Risk With Partial Labor Mobility",
+   "authors": [
+    "Benjamin Dennis",
+    "Talan B. Iscan"
+   ],
+   "year": 2006,
+   "venue": "Journal of International Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jinteco.2005.06.004",
+   "abstract": null
+  },
+  {
+   "title": "On the terms-of-trade and sectoral reallocations",
+   "authors": [
+    "Benjamin Dennis",
+    "Talan B. Iscan"
+   ],
+   "year": 2005,
+   "venue": "Review of International Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/j.1467-9396.2005.00543.x",
+   "abstract": null
+  },
+  {
+   "title": "Holding Out for a Haircut: Financial Crisis, Moral Hazard and Interest Rate Policy",
+   "authors": [
+    "Benjamin Dennis",
+    "Simon Kandel"
+   ],
+   "year": 2000,
+   "venue": "International Journal of Finance & Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1002/1099-1158(200007)5:3<233::AID-IJFE127>3.0.CO;2-B",
+   "abstract": null
+  }
+ ]
+}

@@ -1,0 +1,483 @@
+{
+ "slug": "giovanni-melina",
+ "name": "Giovanni Melina",
+ "sources": [
+  "https://www.imf.org/external/np/CV/Pdf/723696.pdf"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Source: IMF CV (2025). CV gives bylines only as '(with ...)', so authors are listed alphabetically by surname incl. Melina (true byline order may differ). The CV PDF year column is misaligned in text extraction; journal years were inferred from volume/issue and may be off by one; chapter and WP years from CV column. Applied Economics Letters paper is 'in press' in CV, year set to CV year 2025. Maldives IMF WP is 'forthcoming' (2021 per CV column). Skipped: IMF Staff Climate Notes / Staff Discussion Notes / flagship chapters / country-report boxes with authorship only 'IMF colleagues' (bylines unverifiable).",
+ "papers": [
+  {
+   "title": "Monetary Policy Under Natural Disaster Shocks",
+   "authors": [
+    "Alessandro Cantelmo",
+    "Nikos Fatouros",
+    "Giovanni Melina",
+    "Chris Papageorgiou"
+   ],
+   "year": 2024,
+   "venue": "International Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Euro Area Government Spending Multiplier in Demand- and Supply-Driven Recessions",
+   "authors": [
+    "Mario Di Serio",
+    "Matteo Fragetta",
+    "Emanuel Gasteiger",
+    "Giovanni Melina"
+   ],
+   "year": 2024,
+   "venue": "Oxford Bulletin of Economics and Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Drivers of Large Recessions and Monetary Policy Responses",
+   "authors": [
+    "Giovanni Melina",
+    "Stefania Villa"
+   ],
+   "year": 2023,
+   "venue": "Journal of International Money and Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Macroeconomic Outcomes in Disaster-Prone Countries",
+   "authors": [
+    "Alessandro Cantelmo",
+    "Giovanni Melina",
+    "Chris Papageorgiou"
+   ],
+   "year": 2023,
+   "venue": "Journal of Development Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Sectoral Labor Mobility and Optimal Monetary Policy",
+   "authors": [
+    "Alessandro Cantelmo",
+    "Giovanni Melina"
+   ],
+   "year": 2023,
+   "venue": "Macroeconomic Dynamics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Distributional Effects of Government Spending Shocks in Developing Economies",
+   "authors": [
+    "Davide Furceri",
+    "Jun Ge",
+    "Prakash Loungani",
+    "Giovanni Melina"
+   ],
+   "year": 2022,
+   "venue": "Review of Development Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Building Back Better: How Big Are Green Spending Multipliers?",
+   "authors": [
+    "Nicoletta Batini",
+    "Mario Di Serio",
+    "Matteo Fragetta",
+    "Giovanni Melina",
+    "Anthony Waldron"
+   ],
+   "year": 2022,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Impact of r-g on Euro-Area Government Spending Multipliers",
+   "authors": [
+    "Mario Di Serio",
+    "Matteo Fragetta",
+    "Giovanni Melina"
+   ],
+   "year": 2021,
+   "venue": "Journal of International Money and Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How Loose, How Tight? A Measure of Monetary and Fiscal Stance for the Euro Area",
+   "authors": [
+    "Nicoletta Batini",
+    "Alessandro Cantelmo",
+    "Giovanni Melina",
+    "Stefania Villa"
+   ],
+   "year": 2021,
+   "venue": "Oxford Economic Papers",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Investing in Public Infrastructure; Roads or Schools?",
+   "authors": [
+    "Manoj Atolia",
+    "Bin Grace Li",
+    "Ricardo Marto",
+    "Giovanni Melina"
+   ],
+   "year": 2021,
+   "venue": "Macroeconomic Dynamics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Macroeconomic Impacts of Non-Resource Revenue Mobilization in CEMAC",
+   "authors": [
+    "Giovanni Melina",
+    "Marcos Poplawski-Ribeiro"
+   ],
+   "year": 2025,
+   "venue": "Applied Economics Letters",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Euro-Area Government Spending Multiplier at the Effective Lower Bound",
+   "authors": [
+    "Adalgiso Amendola",
+    "Mario Di Serio",
+    "Matteo Fragetta",
+    "Giovanni Melina"
+   ],
+   "year": 2020,
+   "venue": "European Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Fiscal Buffers, Private Debt and Stagnation: The Good, the Bad and the Ugly",
+   "authors": [
+    "Nicoletta Batini",
+    "Giovanni Melina",
+    "Stefania Villa"
+   ],
+   "year": 2019,
+   "venue": "Journal of Macroeconomics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Optimal Fiscal and Monetary Policy, Debt Crisis and Management",
+   "authors": [
+    "Cristiano Cantore",
+    "Paul Levine",
+    "Giovanni Melina",
+    "Joe Pearlman"
+   ],
+   "year": 2019,
+   "venue": "Macroeconomic Dynamics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Monetary Policy and the Relative Price of Durable Goods",
+   "authors": [
+    "Alessandro Cantelmo",
+    "Giovanni Melina"
+   ],
+   "year": 2018,
+   "venue": "Journal of Economic Dynamics and Control",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Leaning Against Windy Bank Lending",
+   "authors": [
+    "Giovanni Melina",
+    "Stefania Villa"
+   ],
+   "year": 2018,
+   "venue": "Economic Inquiry",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Debt Sustainability, Public Investment and Natural Resources in Developing Countries",
+   "authors": [
+    "Giovanni Melina",
+    "Shu-Chun S. Yang",
+    "Luis-Felipe Zanna"
+   ],
+   "year": 2016,
+   "venue": "Economic Modelling",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Determinants of Sovereign Bond Yield Spreads in the EMU: An Optimal Currency Area Perspective",
+   "authors": [
+    "Mauro Costantini",
+    "Matteo Fragetta",
+    "Giovanni Melina"
+   ],
+   "year": 2014,
+   "venue": "European Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Fiscal Stimulus and Jobless Recovery",
+   "authors": [
+    "Cristiano Cantore",
+    "Paul Levine",
+    "Giovanni Melina"
+   ],
+   "year": 2014,
+   "venue": "The Scandinavian Journal of Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Fiscal Policy and Lending Relationships",
+   "authors": [
+    "Giovanni Melina",
+    "Stefania Villa"
+   ],
+   "year": 2014,
+   "venue": "Economic Inquiry",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Identification of Monetary Policy in SVAR Models: A Data-Oriented Perspective",
+   "authors": [
+    "Matteo Fragetta",
+    "Giovanni Melina"
+   ],
+   "year": 2013,
+   "venue": "Empirical Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Fiscal Stimulus with Deep Habits and Optimal Monetary Policy",
+   "authors": [
+    "Cristiano Cantore",
+    "Paul Levine",
+    "Giovanni Melina",
+    "Bo Yang"
+   ],
+   "year": 2012,
+   "venue": "Economics Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Empirical Investigation of US Fiscal Expenditures and Macroeconomic Outcomes",
+   "authors": [
+    "Yunus Aksoy",
+    "Giovanni Melina"
+   ],
+   "year": 2012,
+   "venue": "Economics Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "US Fiscal Indicators, Inflation and Output",
+   "authors": [
+    "Yunus Aksoy",
+    "Giovanni Melina"
+   ],
+   "year": 2011,
+   "venue": "The North American Journal of Economics and Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Effects of Fiscal Shocks in SVAR Models: A Graphical Modelling Approach",
+   "authors": [
+    "Matteo Fragetta",
+    "Giovanni Melina"
+   ],
+   "year": 2011,
+   "venue": "Scottish Journal of Political Economy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Power Hungry: How AI Will Drive Energy Demand",
+   "authors": [
+    "Christian Bogmans",
+    "Ganchimeg Ganpurev",
+    "Patricia Gomez-Gonzalez",
+    "Giovanni Melina",
+    "Andrea Pescatori",
+    "Sneha Thube"
+   ],
+   "year": 2025,
+   "venue": "IMF Working Papers",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Global Impact of AI: Mind the Gap",
+   "authors": [
+    "Eugenio M Cerutti",
+    "Antonio Garcia Pascual",
+    "Yosuke Kido",
+    "Longji Li",
+    "Giovanni Melina",
+    "Marina Mendes Tavares",
+    "Philippe Wingender"
+   ],
+   "year": 2025,
+   "venue": "IMF Working Papers",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Enhancing Resilience to Climate Change in the Maldives",
+   "authors": [
+    "Giovanni Melina",
+    "Marika Santoro"
+   ],
+   "year": 2021,
+   "venue": "IMF Working Papers",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Some Policy Lessons from Country Applications of the DIG and DIGNAR Models",
+   "authors": [
+    "Daniel Gurara",
+    "Giovanni Melina",
+    "Luis-Felipe Zanna"
+   ],
+   "year": 2019,
+   "venue": "IMF Working Papers",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Policy Trade-Offs in Building Resilience to Natural Disasters: The Case of Saint Lucia",
+   "authors": [
+    "Leo Bonato",
+    "Alessandro Cantelmo",
+    "Giovanni Melina",
+    "Gonzalo Salinas"
+   ],
+   "year": 2019,
+   "venue": "IMF Working Papers",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Non-Renewable Resources, Fiscal Rules and Human Capital",
+   "authors": [
+    "Paul Levine",
+    "Giovanni Melina",
+    "Harun Onder"
+   ],
+   "year": 2016,
+   "venue": "World Bank Policy Research Working Papers",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Successful Austerity in the United States, Europe and Japan",
+   "authors": [
+    "Nicoletta Batini",
+    "Giovanni Callegari",
+    "Giovanni Melina"
+   ],
+   "year": 2012,
+   "venue": "IMF Working Papers",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Macro-Fiscal Gains from Anticorruption Reforms in the Republic of Congo",
+   "authors": [
+    "Giovanni Melina",
+    "Hoda Selim",
+    "Concha Verdugo Yepes"
+   ],
+   "year": 2022,
+   "venue": "Good Governance in Sub-Saharan Africa: Opportunities and Lessons (IMF)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic Fluctuations in Sub-Saharan Africa",
+   "authors": [
+    "Giovanni Melina",
+    "Rafael Portillo"
+   ],
+   "year": 2018,
+   "venue": "Monetary Policy in Sub-Saharan Africa (Oxford University Press)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Natural Resource Wealth and Public Investment Strategy: Implications for Growth and Debt",
+   "authors": [
+    "Giovanni Melina",
+    "Yi Xiong"
+   ],
+   "year": 2014,
+   "venue": "Mozambique Rising: Building a New Tomorrow (IMF)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Public Debt Targeting: An Application to the Caribbean",
+   "authors": [
+    "Alejandro Guerson",
+    "Giovanni Melina"
+   ],
+   "year": 2014,
+   "venue": "Managing Economic Volatility in Latin America (IMF)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

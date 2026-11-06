@@ -1,0 +1,531 @@
+{
+ "slug": "alexander-popov",
+ "name": "Alexander Popov",
+ "sources": [
+  "https://www.alexanderpopov.org/Alex_Popov_CV.pdf",
+  "https://alexanderpopov.org"
+ ],
+ "collected": "2026-11-06",
+ "notes": "CV (PDF, dated 2026). Sole-authored when no coauthor given on the CV. 'Monetary Policy, Bank Capital, and Credit Supply' IJCB 2016 appears with no 'with' line, treated as sole-authored (CV text layout ambiguous). The four items 'Quantitative Easing and Corporate Innovation' (Management Science resubmitted), 'Walking the Talk?', 'Heterogeneous Growth Response...' (to be resubmitted) and 'I (Don't) Owe You' (to be resubmitted JEBO) treated as R&R. Skipped: CV 'in progress' items, discussions, book, ECB working papers not on the CV (e.g. ECB WP 2686). Chapter years from CV; WP/R&R year 2026 = CV year.",
+ "papers": [
+  {
+   "title": "Out with the New, In with the Old? Supranational Bank Supervision and the Composition of Firm Investment",
+   "authors": [
+    "Miguel Ampudia",
+    "Alexander Popov",
+    "Thorsten Beck"
+   ],
+   "year": 2026,
+   "venue": "Journal of International Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Rise of China in Academic Research",
+   "authors": [
+    "Alexander Popov",
+    "Catarina Cozariuc",
+    "Luc Laeven"
+   ],
+   "year": 2026,
+   "venue": "Journal of International Money and Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Putting Countries on the Map? Pastoral Visits of John Paul II and International Trade",
+   "authors": [
+    "Alexander Popov"
+   ],
+   "year": 2025,
+   "venue": "Economic Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Temperatures and Trust: Survey Evidence on the Role of Climate in Shaping Trust in People and Institutions",
+   "authors": [
+    "Alexander Popov",
+    "Karin Hansson"
+   ],
+   "year": 2025,
+   "venue": "Journal of Economic Psychology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Is Religion an Inferior Good? Evidence from Fluctuations in Housing Wealth",
+   "authors": [
+    "Alexander Popov",
+    "Luc Laeven",
+    "Clara Sievert"
+   ],
+   "year": 2024,
+   "venue": "Journal of Economic Behavior & Organization",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Carbon Tax and the Geography of Fossil Lending",
+   "authors": [
+    "Alexander Popov",
+    "Luc Laeven"
+   ],
+   "year": 2023,
+   "venue": "Journal of International Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Credit Shocks, Employment Protection, and Growth: Firm-Level Evidence from Spain",
+   "authors": [
+    "Alexander Popov",
+    "Luc Laeven",
+    "Peter McAdam"
+   ],
+   "year": 2023,
+   "venue": "Journal of Banking & Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Finance and Green Growth",
+   "authors": [
+    "Alexander Popov",
+    "Ralph De Haas"
+   ],
+   "year": 2023,
+   "venue": "Economic Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Unconventional Monetary Policy, Funding Expectations, and Firm Decisions",
+   "authors": [
+    "Alexander Popov",
+    "Annalisa Ferrando",
+    "Gregory F. Udell"
+   ],
+   "year": 2022,
+   "venue": "European Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Division of Spoils in a Booming Industry",
+   "authors": [
+    "Alexander Popov"
+   ],
+   "year": 2022,
+   "venue": "Journal of Economic Behavior & Organization",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Political Cycles in Bank Lending to the Government",
+   "authors": [
+    "Alexander Popov",
+    "Michael Koetter"
+   ],
+   "year": 2021,
+   "venue": "Review of Financial Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Debt Overhang, Global Growth Opportunities, and Investment",
+   "authors": [
+    "Alexander Popov",
+    "Francesca Barbiero",
+    "Marcin Wolski"
+   ],
+   "year": 2020,
+   "venue": "Journal of Banking & Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "On the Link between the Volatility and Skewness of Growth",
+   "authors": [
+    "Alexander Popov",
+    "Geert Bekaert"
+   ],
+   "year": 2019,
+   "venue": "IMF Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Invisible Hand of the Government: Moral Suasion during the Sovereign Debt Crisis",
+   "authors": [
+    "Alexander Popov",
+    "Steven Ongena",
+    "Neeltje Van Horen"
+   ],
+   "year": 2019,
+   "venue": "American Economic Journal: Macroeconomics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Credit Market Competition and the Gender Gap in Labor Force Participation: Evidence from Local Labor Markets",
+   "authors": [
+    "Alexander Popov",
+    "Sonia Zaharia"
+   ],
+   "year": 2019,
+   "venue": "European Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do SMEs Benefit from Unconventional Monetary Policy and How? Micro-Evidence from the Eurozone",
+   "authors": [
+    "Alexander Popov",
+    "Annalisa Ferrando",
+    "Gregory F. Udell"
+   ],
+   "year": 2019,
+   "venue": "Journal of Money, Credit and Banking",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do Credit Shocks Affect Labor Demand? Evidence for Employment and Wages during the Financial Crisis",
+   "authors": [
+    "Alexander Popov",
+    "Jörg Rocholl"
+   ],
+   "year": 2018,
+   "venue": "Journal of Financial Intermediation",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Waking Up from the American Dream: On the Experience of Young Americans during the Housing Boom of the 2000s",
+   "authors": [
+    "Alexander Popov",
+    "Luc Laeven"
+   ],
+   "year": 2017,
+   "venue": "Journal of Money, Credit and Banking",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Sovereign Stress and SMEs' Access to Finance: Evidence from the ECB's SAFE Survey",
+   "authors": [
+    "Alexander Popov",
+    "Annalisa Ferrando",
+    "Gregory F. Udell"
+   ],
+   "year": 2017,
+   "venue": "Journal of Banking & Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Gender Bias and Credit Access",
+   "authors": [
+    "Alexander Popov",
+    "Steven Ongena"
+   ],
+   "year": 2016,
+   "venue": "Journal of Money, Credit and Banking",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Lost Generation? Education Decisions and Employment Outcomes during the Housing Boom-Bust Cycle of the 2000s",
+   "authors": [
+    "Alexander Popov",
+    "Luc Laeven"
+   ],
+   "year": 2016,
+   "venue": "American Economic Review: Papers & Proceedings",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Monetary Policy, Bank Capital, and Credit Supply: A Role for Discouraged and Informally Rejected Firms",
+   "authors": [
+    "Alexander Popov"
+   ],
+   "year": 2016,
+   "venue": "International Journal of Central Banking",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "House Prices, Home Equity Borrowing, and Entrepreneurship",
+   "authors": [
+    "Alexander Popov",
+    "Stefano Corradin"
+   ],
+   "year": 2015,
+   "venue": "Review of Financial Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Financial Development, Sectoral Reallocation, and Volatility: International Evidence",
+   "authors": [
+    "Alexander Popov",
+    "Simone Manganelli"
+   ],
+   "year": 2015,
+   "venue": "Journal of International Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Venture Capital and Industry Structure: Evidence from Local U.S. Markets",
+   "authors": [
+    "Alexander Popov"
+   ],
+   "year": 2014,
+   "venue": "Review of Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Credit Constraints, Equity Market Liberalization, and Growth Rate Asymmetry",
+   "authors": [
+    "Alexander Popov"
+   ],
+   "year": 2014,
+   "venue": "Journal of Development Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Credit Constraints and Investment in Human Capital: Training Evidence from Emerging Markets",
+   "authors": [
+    "Alexander Popov"
+   ],
+   "year": 2014,
+   "venue": "Journal of Financial Intermediation",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Venture Capital and New Business Creation",
+   "authors": [
+    "Alexander Popov",
+    "Peter Roosenboom"
+   ],
+   "year": 2013,
+   "venue": "Journal of Banking & Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Financial Dependence, Global Growth Opportunities, and Growth Revisited",
+   "authors": [
+    "Alexander Popov",
+    "Simone Manganelli"
+   ],
+   "year": 2013,
+   "venue": "Economics Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "'When the Cat's Away the Mice Will Play': Does Regulation at Home Affect Bank Risk Taking Abroad?",
+   "authors": [
+    "Alexander Popov",
+    "Steven Ongena",
+    "Gregory F. Udell"
+   ],
+   "year": 2013,
+   "venue": "Journal of Financial Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Venture Capital and Patented Innovation: Evidence from Europe",
+   "authors": [
+    "Alexander Popov",
+    "Peter Roosenboom"
+   ],
+   "year": 2012,
+   "venue": "Economic Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Cross-Border Banking, Credit Access, and the Financial Crisis",
+   "authors": [
+    "Alexander Popov",
+    "Gregory F. Udell"
+   ],
+   "year": 2012,
+   "venue": "Journal of International Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Interbank Market Integration, Loan Rates, and Firm Leverage",
+   "authors": [
+    "Alexander Popov",
+    "Steven Ongena"
+   ],
+   "year": 2011,
+   "venue": "Journal of Banking & Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Who Needs Credit and Who Gets Credit in Eastern Europe?",
+   "authors": [
+    "Alexander Popov",
+    "Martin Brown",
+    "Steven Ongena",
+    "Pinar Yesin"
+   ],
+   "year": 2011,
+   "venue": "Economic Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Quantitative Easing and Corporate Innovation",
+   "authors": [
+    "Alexander Popov",
+    "Niklas Grimm",
+    "Luc Laeven"
+   ],
+   "year": 2026,
+   "venue": "Management Science (resubmitted)",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Walking the Talk? Green Politicians and Pollution Patterns",
+   "authors": [
+    "Alexander Popov",
+    "Michael Koetter"
+   ],
+   "year": 2026,
+   "venue": "European Economic Review (to be resubmitted)",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Heterogeneous Growth Response to Monetary Policy along the Firm-Size Distribution: A Role for Credit Markets?",
+   "authors": [
+    "Alexander Popov",
+    "Lea Steininger"
+   ],
+   "year": 2026,
+   "venue": "Journal of Financial and Quantitative Analysis (to be resubmitted)",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "I (Don't) Owe You: Sovereign Default and Personal Debt",
+   "authors": [
+    "Alexander Popov",
+    "Dimitris Georgarakos"
+   ],
+   "year": 2026,
+   "venue": "Journal of Economic Behavior & Organization (to be resubmitted)",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Evidence on Finance and Economic Growth",
+   "authors": [
+    "Alexander Popov"
+   ],
+   "year": 2018,
+   "venue": "Handbook of Finance and Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Misallocation of Investment in Europe: The Role of Debt Overhang and Credit Market Distress",
+   "authors": [
+    "Alexander Popov"
+   ],
+   "year": 2018,
+   "venue": "Finance and Investment: The European Case",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Banks' Love Story with Sovereign Debt: Causes, Consequences, and Policy",
+   "authors": [
+    "Alexander Popov"
+   ],
+   "year": 2017,
+   "venue": "The Future of Large Internationally Active Banks",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Financial Markets: Productivity, Procyclicality, and Policy",
+   "authors": [
+    "Alexander Popov",
+    "Frank Smets"
+   ],
+   "year": 2013,
+   "venue": "Financial Innovation: Too Much or Too Little?",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Output Growth Variability: The Role of Financial Markets",
+   "authors": [
+    "Alexander Popov"
+   ],
+   "year": 2013,
+   "venue": "The Role of Central Banks in Financial Stability",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

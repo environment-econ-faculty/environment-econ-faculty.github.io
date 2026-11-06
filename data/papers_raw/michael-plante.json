@@ -1,0 +1,278 @@
+{
+ "slug": "michael-plante",
+ "name": "Michael Plante",
+ "sources": [
+  "https://www.dallasfed.org/people/research/economists/plante",
+  "https://www.dallasfed.org/-/media/Documents/research/economists/plante-cv.pdf",
+  "https://sites.google.com/site/michaelplanteecon/"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Source: Dallas Fed profile page (publication list incl. Dallas Fed WPs) and 2021 CV; personal site content not retrievable (sub-pages). Coauthors shown without Plante, so authors listed alphabetical by surname (true bylines may differ). Two RED papers still \"forthcoming\" on the Dallas page (probably stale). JAE 2026 and 2025 papers added from Kilian CV (Kilian-Plante-Richter). WP 2403 title/year per Dallas page (revised Mar 2026); Kilian CV lists a Sept 2026 version titled \"The Declining Impact of Geopolitical Oil Supply Disruptions on the U.S. Economy\", likely the same paper. Excluded Dallas Fed Economics/Economic Letter/Southwest Economy pieces and survey. Dallas WPs of later-published papers dropped.",
+ "papers": [
+  {
+   "title": "Complementarity and Macroeconomic Uncertainty",
+   "authors": [
+    "Tyler Atkinson",
+    "Michael Plante",
+    "Alexander W. Richter",
+    "Nathaniel A. Throckmorton"
+   ],
+   "year": 2026,
+   "venue": "Review of Economic Dynamics",
+   "status": "即将发表",
+   "url": "https://doi.org/10.1016/j.red.2021.03.003",
+   "abstract": null
+  },
+  {
+   "title": "Resource Booms and the Macroeconomy: The Case of U.S. Shale Oil",
+   "authors": [
+    "Nida Cakir Melek",
+    "Michael Plante",
+    "Mine Yucel"
+   ],
+   "year": 2026,
+   "venue": "Review of Economic Dynamics",
+   "status": "即将发表",
+   "url": "https://doi.org/10.1016/j.red.2020.11.006",
+   "abstract": null
+  },
+  {
+   "title": "Estimating Macroeconomic News and Surprise Shocks",
+   "authors": [
+    "Lutz Kilian",
+    "Michael Plante",
+    "Alexander W. Richter"
+   ],
+   "year": 2026,
+   "venue": "Journal of Applied Econometrics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Macroeconomic Responses to Uncertainty Shocks: The Perils of Recursive Orderings",
+   "authors": [
+    "Lutz Kilian",
+    "Michael Plante",
+    "Alexander W. Richter"
+   ],
+   "year": 2025,
+   "venue": "Journal of Applied Econometrics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Closer to One Great Pool? Evidence from Structural Breaks in Oil Price Differentials",
+   "authors": [
+    "Michael Plante",
+    "Grant Strickler"
+   ],
+   "year": 2021,
+   "venue": "The Energy Journal",
+   "status": "已发表",
+   "url": "https://doi.org/10.5547/01956574.42.2.mpla",
+   "abstract": null
+  },
+  {
+   "title": "OPEC in the News",
+   "authors": [
+    "Michael Plante"
+   ],
+   "year": 2019,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.eneco.2018.12.025",
+   "abstract": null
+  },
+  {
+   "title": "Oil Prices and the Macroeconomy",
+   "authors": [
+    "Lance J. Bachmeier",
+    "Michael Plante"
+   ],
+   "year": 2019,
+   "venue": "Routledge Handbook of Energy Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.4324/9781315459653-4",
+   "abstract": null
+  },
+  {
+   "title": "The Zero Lower Bound and Endogenous Uncertainty",
+   "authors": [
+    "Michael Plante",
+    "Alexander W. Richter",
+    "Nathaniel A. Throckmorton"
+   ],
+   "year": 2018,
+   "venue": "Economic Journal",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/ecoj.12445",
+   "abstract": null
+  },
+  {
+   "title": "Inventory Shocks and the Oil-Ethanol-Grain Price Nexus",
+   "authors": [
+    "Navi Dhaliwal",
+    "Michael Plante"
+   ],
+   "year": 2017,
+   "venue": "Economics Letters",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.econlet.2017.03.036",
+   "abstract": null
+  },
+  {
+   "title": "Fuel Subsidies, the Oil Market, and the World Economy",
+   "authors": [
+    "Nathan S. Balke",
+    "Michael Plante",
+    "Mine Yucel"
+   ],
+   "year": 2016,
+   "venue": "The Energy Journal",
+   "status": "已发表",
+   "url": "https://doi.org/10.5547/01956574.36.SI1.nbal",
+   "abstract": null
+  },
+  {
+   "title": "The Impact of Changing Energy Prices on the Texas Economy",
+   "authors": [
+    "Amy Jordan",
+    "Nicole Lake",
+    "Michael Plante",
+    "Mine K. Yucel"
+   ],
+   "year": 2015,
+   "venue": "Ten-Gallon Economy: Sizing up Economic Growth in Texas",
+   "status": "已发表",
+   "url": "https://doi.org/10.1057/9781137530172_10",
+   "abstract": null
+  },
+  {
+   "title": "How Should Monetary Policy Respond to Changes in the Relative Price of Oil? Considering Supply and Demand Shocks",
+   "authors": [
+    "Michael Plante"
+   ],
+   "year": 2014,
+   "venue": "Journal of Economic Dynamics and Control",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jedc.2014.04.002",
+   "abstract": null
+  },
+  {
+   "title": "The Long-Run Macroeconomic Impacts of Fuel Subsidies",
+   "authors": [
+    "Michael Plante"
+   ],
+   "year": 2014,
+   "venue": "Journal of Development Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jdeveco.2013.11.008",
+   "abstract": null
+  },
+  {
+   "title": "Dynamics of Fiscal Financing in the United States",
+   "authors": [
+    "Eric M. Leeper",
+    "Michael Plante",
+    "Nora Traum"
+   ],
+   "year": 2010,
+   "venue": "Journal of Econometrics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jeconom.2009.11.001",
+   "abstract": null
+  },
+  {
+   "title": "How Times Have Changed: The Impact of the 2026 Iran War on the U.S. Economy",
+   "authors": [
+    "Lutz Kilian",
+    "Michael Plante",
+    "Alexander W. Richter"
+   ],
+   "year": 2026,
+   "venue": "Federal Reserve Bank of Dallas Working Paper",
+   "status": "工作论文",
+   "url": "https://www.dallasfed.org/research/papers/2026/wp2615",
+   "abstract": null
+  },
+  {
+   "title": "The Impact of the 2026 Iran War on U.S. Inflation: A Scenario Analysis",
+   "authors": [
+    "Lutz Kilian",
+    "Michael Plante",
+    "Alexander W. Richter",
+    "Xiaoqing Zhou"
+   ],
+   "year": 2026,
+   "venue": "Federal Reserve Bank of Dallas Working Paper",
+   "status": "工作论文",
+   "url": "https://www.dallasfed.org/research/papers/2026/wp2609",
+   "abstract": null
+  },
+  {
+   "title": "Revisiting the Interest Rate Effects of Federal Debt",
+   "authors": [
+    "Michael Plante",
+    "Alexander W. Richter",
+    "Sarah Zubairy"
+   ],
+   "year": 2025,
+   "venue": "Federal Reserve Bank of Dallas Working Paper",
+   "status": "工作论文",
+   "url": "https://www.dallasfed.org/research/papers/2025/wp2513",
+   "abstract": null
+  },
+  {
+   "title": "Geopolitical Oil Price Risk and Economic Fluctuations",
+   "authors": [
+    "Lutz Kilian",
+    "Michael Plante",
+    "Alexander W. Richter"
+   ],
+   "year": 2026,
+   "venue": "Federal Reserve Bank of Dallas Working Paper",
+   "status": "工作论文",
+   "url": "https://www.dallasfed.org/research/papers/2024/wp2403",
+   "abstract": null
+  },
+  {
+   "title": "Investing in the Batteries and Vehicles of the Future: A View Through the Stock Market",
+   "authors": [
+    "Michael Plante"
+   ],
+   "year": 2024,
+   "venue": "Federal Reserve Bank of Dallas Working Paper",
+   "status": "工作论文",
+   "url": "https://www.dallasfed.org/research/papers/2023/wp2314",
+   "abstract": null
+  },
+  {
+   "title": "Countercyclical Fluctuations in Uncertainty are Endogenous",
+   "authors": [
+    "Joshua Bernstein",
+    "Michael Plante",
+    "Alexander W. Richter",
+    "Nathaniel A. Throckmorton"
+   ],
+   "year": 2021,
+   "venue": "Federal Reserve Bank of Dallas Working Paper",
+   "status": "工作论文",
+   "url": "https://www.dallasfed.org/research/papers/2021/wp2109",
+   "abstract": null
+  },
+  {
+   "title": "Time-varying Oil Price Volatility and Macroeconomic Aggregates",
+   "authors": [
+    "Michael Plante",
+    "Nora Traum"
+   ],
+   "year": 2012,
+   "venue": "Federal Reserve Bank of Dallas Working Paper",
+   "status": "工作论文",
+   "url": "https://www.dallasfed.org/-/media/documents/research/papers/2012/wp1201.pdf",
+   "abstract": null
+  }
+ ]
+}

@@ -1,0 +1,194 @@
+{
+ "slug": "juan-jose-miranda",
+ "name": "Juan Jose Miranda",
+ "sources": [
+  "https://ideas.repec.org/f/pmi780.html",
+  "https://search.worldbank.org/api/v3/wds"
+ ],
+ "collected": "2026-11-06",
+ "notes": "From his self-registered RePEc page and the World Bank documents database. No personal site/CV available. Spanish-language GRADE/Peru working papers and a book chapter in Spanish, plus RFF/IDB working-paper versions of later-published articles, were dropped (only published versions kept).",
+ "papers": [
+  {
+   "title": "Mangroves as Coastal Protection for Local Economic Activities from Hurricanes in the Caribbean",
+   "authors": [
+    "Juan Jose Miranda",
+    "Luigi Butron",
+    "Chrissie Pantoja",
+    "Rashmin Gunasekera"
+   ],
+   "year": 2021,
+   "venue": "World Bank Policy Research Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Understanding the Impact Dynamics of Windstorms on Short-Term Economic Activity from Night Lights in Central America",
+   "authors": [
+    "Juan Jose Miranda",
+    "Oscar A. Ishizawa",
+    "Hongrui Zhang"
+   ],
+   "year": 2020,
+   "venue": "Economics of Disasters and Climate Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Saving Water with a Nudge (or Two): Evidence from Costa Rica on the Effectiveness and Limits of Low-Cost Behavioral Interventions on Water Use",
+   "authors": [
+    "Juan Jose Miranda",
+    "Saugato Datta",
+    "Laura Zoratto"
+   ],
+   "year": 2020,
+   "venue": "The World Bank Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Mangroves protect coastal economic activity from hurricanes",
+   "authors": [
+    "Alejandro del Valle",
+    "Mathilda Eriksson",
+    "Oscar A. Ishizawa",
+    "Juan Jose Miranda"
+   ],
+   "year": 2020,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Weathering Storms: Understanding the Impact of Natural Disasters in Central America",
+   "authors": [
+    "Oscar A. Ishizawa",
+    "Juan Jose Miranda"
+   ],
+   "year": 2019,
+   "venue": "Environmental & Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Fiscal Impact of Natural Resource Windfalls: Evidence from a Peruvian Natural Experiment",
+   "authors": [
+    "Leonardo Corral",
+    "Heath Henderson",
+    "Juan Jose Miranda"
+   ],
+   "year": 2019,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Land values, property rights, and home ownership: Implications for property taxation in Peru",
+   "authors": [
+    "Zackary Hawley",
+    "Juan José Miranda",
+    "W. Charles Sawyer"
+   ],
+   "year": 2018,
+   "venue": "Regional Science and Urban Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Particulate matter and labor supply: The role of caregiving and non-linearities",
+   "authors": [
+    "Fernando M. Aragón",
+    "Juan Jose Miranda",
+    "Paulina Oliva"
+   ],
+   "year": 2017,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Panel Data Designs and Estimators as Substitutes for Randomized Controlled Trials in the Evaluation of Public Programs",
+   "authors": [
+    "Paul J. Ferraro",
+    "Juan José Miranda"
+   ],
+   "year": 2017,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Effects of Protected Areas on Forest Cover Change and Local Communities: Evidence from the Peruvian Amazon",
+   "authors": [
+    "Juan José Miranda",
+    "Leonardo Corral",
+    "Allen Blackman",
+    "Gregory Asner",
+    "Eirivelthon Lima"
+   ],
+   "year": 2016,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The performance of non-experimental designs in the evaluation of environmental programs: A design-replication study using a large-scale randomized experiment as a benchmark",
+   "authors": [
+    "Paul J. Ferraro",
+    "Juan José Miranda"
+   ],
+   "year": 2014,
+   "venue": "Journal of Economic Behavior & Organization",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Are Voters More Likely to Contribute to Other Public Goods? Evidence from a Large‐Scale Randomized Policy Experiment",
+   "authors": [
+    "Toby Bolsen",
+    "Paul J. Ferraro",
+    "Juan Jose Miranda"
+   ],
+   "year": 2014,
+   "venue": "American Journal of Political Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Heterogeneous treatment effects and mechanisms in information-based environmental policies: Evidence from a large-scale field experiment",
+   "authors": [
+    "Paul J. Ferraro",
+    "Juan José Miranda"
+   ],
+   "year": 2013,
+   "venue": "Resource and Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Persistence of Treatment Effects with Norm-Based Policy Instruments: Evidence from a Randomized Environmental Policy Experiment",
+   "authors": [
+    "Paul J. Ferraro",
+    "Juan Jose Miranda",
+    "Michael K. Price"
+   ],
+   "year": 2011,
+   "venue": "American Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

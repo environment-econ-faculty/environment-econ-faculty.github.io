@@ -1,0 +1,451 @@
+{
+ "slug": "elisa-lanzi",
+ "name": "Elisa Lanzi",
+ "sources": [
+  "https://ideas.repec.org/f/pla277.html",
+  "https://ideas.repec.org/s/oec/envaaa.html (OECD Environment WP series)"
+ ],
+ "collected": "2026-11-06",
+ "notes": "No personal page; compiled from her RePEc profile (pla277), filtered to items she authored, plus recent OECD Environment WPs found in the IDEAS OECD series listing (2021-2026). OECD-series working papers only (Environment, Economics Dept, Trade & Environment); other-institution WPs, FEEM series and FEEM 'Sustainable Development Papers' skipped.",
+ "papers": [
+  {
+   "title": "Capturing Key Energy and Emission Trends in CGE models: Assessment of Status and Remaining Challenges",
+   "authors": [
+    "Taran Faehn",
+    "Gabriel Bachner",
+    "Robert Beach",
+    "Jean Chateau",
+    "Shinichiro Fujimori",
+    "Madanmohan Ghosh",
+    "Meriem Hamdi-Cherif",
+    "Elisa Lanzi",
+    "Sergey Paltsev",
+    "Toon Vandyck",
+    "Bruno Cunha",
+    "Rafael Garaffa"
+   ],
+   "year": 2020,
+   "venue": "Journal of Global Economic Analysis",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Plan Or React? Analysis Of Adaptation Costs And Benefits Using Integrated Assessment Models",
+   "authors": [
+    "Shardul Agrawala",
+    "Francesco Bosello",
+    "Carlo Carraro",
+    "Kelly De Bruin",
+    "Enrica De Cian",
+    "Rob Dellink",
+    "Elisa Lanzi"
+   ],
+   "year": 2011,
+   "venue": "Climate Change Economics (CCE)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Characterizing Supply-Side Drivers of Structural Change in the Construction of Economic Baseline Projections",
+   "authors": [
+    "Jean Chateau",
+    "Erwin Corong",
+    "Elisa Lanzi",
+    "Caitlyn Carrico",
+    "Jean Fouré",
+    "David Laborde"
+   ],
+   "year": 2020,
+   "venue": "Journal of Global Economic Analysis",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Sectoral and Regional Economic Consequences of Climate Change to 2060",
+   "authors": [
+    "Rob Dellink",
+    "Elisa Lanzi",
+    "Jean Chateau"
+   ],
+   "year": 2019,
+   "venue": "Environmental & Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The sectoral and regional economic consequences of outdoor air pollution to 2060",
+   "authors": [
+    "Elisa Lanzi",
+    "Rob Dellink",
+    "Jean Chateau"
+   ],
+   "year": 2018,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Seasonal temperature variations and energy demand",
+   "authors": [
+    "Enrica De Cian",
+    "Elisa Lanzi",
+    "Roberto Roson"
+   ],
+   "year": 2013,
+   "venue": "Climatic Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Modeling climate change feedbacks and adaptation responses: recent approaches and shortcomings",
+   "authors": [
+    "Karen Fisher-Vanden",
+    "Ian Sue Wing",
+    "Elisa Lanzi",
+    "David Popp"
+   ],
+   "year": 2013,
+   "venue": "Climatic Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Capital Malleability, Emission Leakage and the Cost of Partial Climate Policies: General Equilibrium Analysis of the European Union Emission Trading System",
+   "authors": [
+    "Elisa Lanzi",
+    "Ian Sue Wing"
+   ],
+   "year": 2013,
+   "venue": "Environmental & Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Alternative approaches for levelling carbon prices in a world with fragmented carbon markets",
+   "authors": [
+    "Elisa Lanzi",
+    "Jean Chateau",
+    "Rob Dellink"
+   ],
+   "year": 2012,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Adapting to Climate Change: Costs, Benefits, and Modelling Approaches",
+   "authors": [
+    "Shardul Agrawala",
+    "Francesco Bosello",
+    "Carlo Carraro",
+    "Enrica de Cian",
+    "Elisa Lanzi"
+   ],
+   "year": 2011,
+   "venue": "International Review of Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Labour market consequences of a transition to a circular economy: A review paper",
+   "authors": [
+    "Frithjof Laubinger",
+    "Elisa Lanzi",
+    "Jean Chateau"
+   ],
+   "year": 2020,
+   "venue": "OECD Environment Working Papers",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic interactions between climate change and outdoor air pollution",
+   "authors": [
+    "Elisa Lanzi",
+    "Rob Dellink"
+   ],
+   "year": 2019,
+   "venue": "OECD Environment Working Papers",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Impacts of Green Growth Policies on Labour Markets and Wage Income Distribution: A General Equilibrium Application to Climate and Energy Policies",
+   "authors": [
+    "Jean Chateau",
+    "Ruben Bibas",
+    "Elisa Lanzi"
+   ],
+   "year": 2018,
+   "venue": "OECD Environment Working Papers",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "International trade consequences of climate change",
+   "authors": [
+    "Rob Dellink",
+    "Hyunjeong Hwang",
+    "Elisa Lanzi",
+    "Jean Chateau"
+   ],
+   "year": 2017,
+   "venue": "OECD Trade and Environment Working Papers",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Approaches and issues in valuing the costs of inaction of air pollution on human health",
+   "authors": [
+    "Anna Alberini",
+    "Andrea Bigano",
+    "Jessica Post",
+    "Elisa Lanzi"
+   ],
+   "year": 2016,
+   "venue": "OECD Environment Working Papers",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Overview of the OECD ENV-Linkages Model: Version 3",
+   "authors": [
+    "Jean Chateau",
+    "Rob Dellink",
+    "Elisa Lanzi"
+   ],
+   "year": 2014,
+   "venue": "OECD Environment Working Papers",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Integrated Assessment of Climate Change Impacts: Conceptual Frameworks, Modelling Approaches and Research Needs",
+   "authors": [
+    "Ian Sue Wing",
+    "Elisa Lanzi"
+   ],
+   "year": 2014,
+   "venue": "OECD Environment Working Papers",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Consequences of Climate Change Damages for Economic Growth: A Dynamic Quantitative Assessment",
+   "authors": [
+    "Rob Dellink",
+    "Elisa Lanzi",
+    "Jean Chateau",
+    "Francesco Bosello",
+    "Ramiro Parrado",
+    "Kelly de Bruin"
+   ],
+   "year": 2014,
+   "venue": "OECD Economics Department Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Addressing Competitiveness and Carbon Leakage Impacts Arising from Multiple Carbon Markets: A Modelling Assessment",
+   "authors": [
+    "Elisa Lanzi",
+    "Damian Mullaly",
+    "Jean Chateau",
+    "Rob Dellink"
+   ],
+   "year": 2013,
+   "venue": "OECD Environment Working Papers",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Monitoring and Evaluation for Adaptation: Lessons from Development Co-operation Agencies",
+   "authors": [
+    "Nicolina Lamhauge",
+    "Elisa Lanzi",
+    "Shardul Agrawala"
+   ],
+   "year": 2012,
+   "venue": "OECD Environment Working Papers",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Determinants of Invention in Electricity Generation Technologies: A Patent Data Analysis",
+   "authors": [
+    "Elisa Lanzi",
+    "Ivan Haščič",
+    "Nick Johnstone"
+   ],
+   "year": 2012,
+   "venue": "OECD Environment Working Papers",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Private Sector Engagement in Adaptation to Climate Change: Approaches to Managing Climate Risks",
+   "authors": [
+    "Shardul Agrawala",
+    "Maëlis Carraro",
+    "Nicholas Kingsmill",
+    "Elisa Lanzi",
+    "Michael Mullan",
+    "Guillaume Prudent-Richard"
+   ],
+   "year": 2011,
+   "venue": "OECD Environment Working Papers",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Scaled-up crediting approaches to deliver climate change mitigation results: Paying for performance?",
+   "authors": [
+    "Lena Wiest",
+    "Klas Wetterberg",
+    "Max Skoczylas",
+    "Elisa Lanzi"
+   ],
+   "year": 2026,
+   "venue": "OECD Environment Working Paper",
+   "status": "工作论文",
+   "url": "https://ideas.repec.org/p/oec/envaaa/276-en.html",
+   "abstract": "Carbon credit markets are flexible tools that can incentivise greenhouse gas mitigation at different scales. Historically, most carbon credits have been generated at the project level, but crediting approaches at larger scales are emerging. These approaches can operate across entire jurisdictions, sectors or policies, placing governments at the centre of the crediting approach. This enables a wider range of mitigation efforts, including government strategies, policies and enforcement. For scaled-up crediting to effectively support climate change mitigation, approaches must be designed and implemented with a high level of integrity. This paper examines key integrity considerations in scaled-up crediting, with a focus on environmental integrity in jurisdictional forest crediting. The analysis highlights that scaled-up crediting can help address certain integrity risks associated with project-based crediting, but considerable methodological and implementation challenges remain. The paper presents strategic considerations for donor governments to help ensure that scaled-up crediting approaches become more effective tools for climate change mitigation."
+  },
+  {
+   "title": "Environmental and economic co-benefits of climate and clean air policies in Korea",
+   "authors": [
+    "Jean Fouré",
+    "Toon Vandyck",
+    "Sarbjit Gill",
+    "Elisa Lanzi"
+   ],
+   "year": 2026,
+   "venue": "OECD Environment Working Paper",
+   "status": "工作论文",
+   "url": "https://ideas.repec.org/p/oec/envaaa/269-en.html",
+   "abstract": "Climate change and air pollution are closely related environmental challenges that share common drivers. Consequently, identifying synergies in policy responses can help governments more effectively tackle these interlinked issues. This paper provides insights on interactions between the two interlinked issues and evaluate the contribution of air quality policies to the net-zero emission transition in Korea. It first explores the landscape of domestic air quality and climate policies. Across four policy scenarios, it subsequently models the integrated environmental and economic benefits of enhanced climate and clean air policy action to 2050."
+  },
+  {
+   "title": "Exploring governments’ efforts to shape carbon credit markets: Possible actions to enhance integrity",
+   "authors": [
+    "Klas Wetterberg",
+    "Elisa Lanzi",
+    "Natali Gómez"
+   ],
+   "year": 2025,
+   "venue": "OECD Environment Working Paper",
+   "status": "工作论文",
+   "url": "https://ideas.repec.org/p/oec/envaaa/263-en.html",
+   "abstract": "Carbon credit markets are a tool that can support greenhouse gas mitigation. However, to effectively support climate action, they must operate with environmental integrity. In the last decade, government influence receded in carbon credit markets, but several governments are now exploring how to increase their engagement with such markets. This paper explores governments’ efforts to shape carbon credit markets, with a focus on opportunities to enhance integrity. The paper highlights that governments can play an important role in enhancing environmental integrity, by promoting carbon credit quality improvements and clarifying the conditions under which credits can be used. For instance, governments could support ambitious quality standards or encourage the responsible use of carbon credits. To enhance integrity, governments can leverage new frameworks, notably provisions under Article 6 of the Paris Agreement. Governments can promote harmonisation to prevent integrity framework differences from negatively impacting carbon credit markets."
+  },
+  {
+   "title": "Fiscal and economic consequences of a net-zero transition in Spain",
+   "authors": [
+    "Álvaro Carbonell Rodríguez",
+    "Jean Fouré",
+    "Elisa Lanzi"
+   ],
+   "year": 2024,
+   "venue": "OECD Environment Working Paper",
+   "status": "工作论文",
+   "url": "https://ideas.repec.org/p/oec/envaaa/250-en.html",
+   "abstract": "To meet the goal of net-zero emissions by 2050, Spain will need to take further climate action in the years ahead. Enhanced policy measures, such as taxes, subsidies and standards, will have implications for the public budget and for the economy. This paper quantifies these implications by comparing two scenarios developed with the ENV-Linkages model: a baseline with current policies, and a net-zero scenario in which more ambitious climate policy measures are implemented to reduce CO2 emissions. The analysis shows that ambitious climate action and economic growth can go hand-in-hand. While the consequences for the public budget will be strongly influenced by the chosen climate policy instruments, the findings illustrate that the changes in net fiscal revenues induced by additional climate policy can be small compared to the overall size of government revenues in 2050."
+  },
+  {
+   "title": "The economic consequences of air pollution policies in Arctic Council countries: A sectoral analysis",
+   "authors": [
+    "Daniel Ostalé Valriberas",
+    "Elisa Lanzi",
+    "Zbigniew Klimont",
+    "Rita Van Dingenen"
+   ],
+   "year": 2023,
+   "venue": "OECD Environment Working Paper",
+   "status": "工作论文",
+   "url": "https://ideas.repec.org/p/oec/envaaa/212-en.html",
+   "abstract": "This report quantifies the environmental, health and economic consequences of policy action on air pollution in Arctic Council countries, with a focus on sectoral differences. The report takes a modelling approach and compares a baseline scenario that reflects current legislation, with a policy scenario in which the best available techniques to reduce emissions are deployed in all emitting sectors. The report highlights that benefits from air quality improvements can be obtained when considering emission reductions throughout the economy, and not just in the sectors that are targeted more often, such as industry and transport. The results presented in the report also highlight the need for country-specific policy strategies that take into account the current levels of policy stringency, the sectoral contributions to air pollution, and the need for sectoral investment in new technologies, which also vary by country."
+  },
+  {
+   "title": "The economic benefits of international co-operation to improve air quality in Northeast Asia: A focus on Japan, Korea and China",
+   "authors": [
+    "Elisa Lanzi",
+    "Enrico Botta",
+    "Grace Alexander",
+    "Daniel Ostalé Valriberas",
+    "Zbigniew Klimont",
+    "Gregor Kiesewetter",
+    "Chris Heyes",
+    "Rita Van Dingenen"
+   ],
+   "year": 2022,
+   "venue": "OECD Environment Working Paper",
+   "status": "工作论文",
+   "url": "https://ideas.repec.org/p/oec/envaaa/197-en.html",
+   "abstract": "Air pollution is a global challenge to people’s health and has severe economic consequences. The region of Northeast Asia is no exception. Across most regions in Japan, and in the entire territories of Korea and China, annual average concentrations of fine particulate matter are above the guideline levels indicated by the World Health Organisation, indicating a risk to health. Policy action to tackle air pollution across the three countries, could prevent air pollution related illnesses and deaths, without affecting economic growth.This report presents projections for the impact of air pollution polices until 2050, with differing levels of regional coordination. Projections for current policies are compared with unilateral policy action, whereby each of the three countries introduce more stringent policies to tackle air pollution; alongside regionally coordinated policy action by all three countries; and policy action on a global level. The report presents the health, agricultural and economic impacts, and identifies considerable benefits from further coordination on air pollution policies, such as with regional and global policy action."
+  },
+  {
+   "title": "Policy scenarios for a transition to a more resource efficient and circular economy",
+   "authors": [
+    "Ruben Bibas",
+    "Jean Chateau",
+    "Elisa Lanzi"
+   ],
+   "year": 2021,
+   "venue": "OECD Environment Working Paper",
+   "status": "工作论文",
+   "url": "https://ideas.repec.org/p/oec/envaaa/169-en.html",
+   "abstract": "Global materials use is expected to grow in the coming decades in the absence of new policies, bearing substantial negative impacts for the environment. This report analyses the mechanisms through which resource efficiency and circular economy policies can achieve a decoupling between economic growth and material use. Using the OECD’s ENV-Linkages model, the report examines the economic and environmental impacts of a global material fiscal reform, which implements taxes on primary metal and mineral resources, and uses the revenue of these taxes to finance subsidies to recycled goods and to secondary metal production."
+  },
+  {
+   "title": "Public finance resilience in the transition towards carbon neutrality: Modelling policy instruments in a global net-zero emissions",
+   "authors": [
+    "Jean Fouré",
+    "Rob Dellink",
+    "Elisa Lanzi",
+    "Filippo Pavanello"
+   ],
+   "year": 2023,
+   "venue": "OECD Environment Working Paper",
+   "status": "工作论文",
+   "url": "https://ideas.repec.org/p/oec/envaaa/214-en.html",
+   "abstract": "This paper presents a detailed economic modelling analysis of public finance in the transition towards carbon neutrality. It outlines results from a Net-Zero Emission Ambition scenario, which reflects the ambition to achieve net-zero carbon dioxide emissions globally by mid-century, using a broad and region-specific policy package that combines various policy instruments: carbon pricing, removal of fossil fuel support, regulations in the power sector, and other policies that stimulate investments by firms and households to reduce and decarbonise energy use. The analysis relies on the OECD global computable general equilibrium ENV-Linkages model. Results show that transitioning towards carbon neutrality is feasible when considering economic and fiscal consequences. The scenario achieves carbon neutrality while maintaining continued economic growth, despite a limited negative impact on global GDP and on public revenues. The fiscal effects reflect a trade-off between instruments that increase public revenues (carbon pricing) or reduce public expenditures (fossil fuel subsidies removal), on the one hand, and more costly instruments (subsidies) and indirect effects (tax base erosion and changes in fiscal and economic structure) on the other hand."
+  },
+  {
+   "title": "The long-term implications of the COVID-19 pandemic and recovery measures on environmental pressures: A quantitative exploration",
+   "authors": [
+    "Rob Dellink",
+    "Christine Arriola",
+    "Ruben Bibas",
+    "Elisa Lanzi",
+    "Frank van Tongeren"
+   ],
+   "year": 2021,
+   "venue": "OECD Environment Working Paper",
+   "status": "工作论文",
+   "url": "https://ideas.repec.org/p/oec/envaaa/176-en.html",
+   "abstract": "This paper analyses the long-term effects of the COVID-19 pandemic and associated government responses on the environment. It uses large-scale modelling to investigate the impact of sectoral and regional shocks to the economy until 2040. These detailed economic impacts are linked to a range of environmental pressures, including greenhouse gas emissions, emissions of air pollutants, the use of raw materials and land use change. The short-term reductions in environmental pressures are significant: in 2020, energy-related greenhouse gas and air pollutant emissions dropped by around 7%. Environmental pressures related to agriculture observed a smaller drop in 2020. The reduction in the use of non-metallic minerals, including construction materials, reached double digits. From 2021, emissions are projected to increase again, gradually getting closer to the pre-COVID baseline projection levels as growth rates recover fully. But there is a long-term – potentially permanent – downward impact on the levels of environmental pressures of 1‑3%."
+  }
+ ]
+}

@@ -16,7 +16,7 @@
   // ---------------------------------------------------------------- lookups ----
   const SCHOOL = new Map(D.schools.map((s) => [s.name, s]));
   const SCHOLAR = new Map(D.scholars.map((s) => [s.id, s]));
-  const RANKS = ["正教授", "副教授", "助理教授"];
+  const RANKS = ["正教授", "副教授", "助理教授", "机构经济学家"];
   const TIERS = ["核心领域", "领域之一", "相关研究"];
   const UNITS = D.unit_types || ["经济系"];
   const TIER_HELP = {
@@ -29,7 +29,7 @@
   const schoolZh = (name) => (SCHOOL.get(name) || {}).zh || "";
   const schoolShort = (name) => (SCHOOL.get(name) || {}).short || name;
   const rkLabel = (m) => (m && m.region && m.region !== "美国") ? m.region : (m && m.rank != null ? "#" + m.rank : "");
-  const REGIONS = ["美国", "中国香港", "新加坡"];
+  const REGIONS = ["美国", "中国香港", "新加坡", "美联储系统", "国际组织"];
   const regionOf = (name) => (SCHOOL.get(name) || {}).region || "美国";
   const editUrl = (id) => `${CONFIG.repoUrl}/edit/main/data/scholars/${encodeURIComponent(id)}.md`;
   const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
@@ -189,11 +189,11 @@
     const schoolsSorted = [...D.schools].filter((s) => s.n && (!S.region || (s.region || "美国") === S.region)).sort((a, b) => a.rank - b.rank || a.name.localeCompare(b.name));
 
     app.innerHTML = `
-      <p class="intro">收录美国 US News 2025 经济学排名前 100 院校（含并列至第 97 名），以及香港 6 所（港大、港中文、港科大、城大、理大、浸会）和新加坡 3 所（NUS、NTU、SMU）大学中，<b>经济系、农经/资源经济系、公共政策学院、商学院与环境学院</b>里研究能源、环境与资源经济学（EEE）的经济学家（助理教授、副教授、正教授），整理其研究方向、教育背景与职业经历，并收录其发表论文与工作论文。点击卡片查看详情。</p>
+      <p class="intro">收录美国 US News 2025 经济学排名前 100 院校（含并列至第 97 名），以及香港 6 所（港大、港中文、港科大、城大、理大、浸会）和新加坡 3 所（NUS、NTU、SMU）大学中，<b>经济系、农经/资源经济系、公共政策学院、商学院与环境学院</b>里研究能源、环境与资源经济学（EEE）的经济学家（助理教授、副教授、正教授），以及<b>美联储系统（理事会与 12 家地区联储）、世界银行、IMF、OECD/IEA、欧洲央行、BIS、美洲开发银行与亚洲开发银行</b>的能源环境方向机构经济学家，整理其研究方向、教育背景与职业经历，并收录其发表论文与工作论文。点击卡片查看详情。</p>
       <section class="stats">
         <div class="stat"><div class="n">${list.length}</div><div class="l">位学者${list.length !== all.length ? `（共 ${all.length}）` : ""}</div>
-          <div class="sub">正教授 ${byRank("正教授")} · 副教授 ${byRank("副教授")} · 助理教授 ${byRank("助理教授")}</div></div>
-        <div class="stat"><div class="n">${nSchools}</div><div class="l">所院校</div><div class="sub">共筛查 ${D.schools.length} 所</div></div>
+          <div class="sub">正教授 ${byRank("正教授")} · 副教授 ${byRank("副教授")} · 助理教授 ${byRank("助理教授")}${byRank("机构经济学家") ? ` · 机构经济学家 ${byRank("机构经济学家")}` : ""}</div></div>
+        <div class="stat"><div class="n">${nSchools}</div><div class="l">所院校/机构</div><div class="sub">共筛查 ${D.schools.length} 家</div></div>
         <div class="stat"><div class="n">${byUnit("经济系")}</div><div class="l">经济系</div>
           <div class="sub">${UNITS.filter((u) => u !== "经济系" && byUnit(u)).map((u) => `${u} ${byUnit(u)}`).join(" · ")}</div></div>
         <div class="stat"><div class="n">${nPapers.toLocaleString()}</div><div class="l">篇论文</div><div class="sub">来自个人主页与 CV</div></div>
@@ -521,7 +521,7 @@
     for (const s of D.scholars) units[s.unit_type || "经济系"] = (units[s.unit_type || "经济系"] || 0) + 1;
 
     app.innerHTML = `
-      <p class="intro">美国院校按 US News 2025 经济学研究生项目排名（前 100，含并列至第 97 名）排列，其后为香港与新加坡院校。点击某一行查看该校学者。</p>
+      <p class="intro">美国院校按 US News 2025 经济学研究生项目排名（前 100，含并列至第 97 名）排列，其后为香港与新加坡院校，以及美联储系统和国际组织。点击某一行查看该校学者。</p>
       <div class="split">
         <section class="tbl-wrap"><table>
           <thead><tr><th>排名</th><th>院校</th><th class="num">学者</th><th class="num">经济系</th><th class="num">其他院系</th><th class="num">核心领域</th><th class="num">论文</th></tr></thead>
@@ -551,14 +551,15 @@
   function renderAbout() {
     app.innerHTML = `<article class="prose">
       <h2>这是什么</h2>
-      <p>本站整理美国、香港与新加坡顶尖院校中研究<b>能源、环境与资源经济学</b>（Energy, Environmental &amp; Resource Economics, EEE）的经济学家，包括研究方向、本科/硕士/博士教育背景、职业经历，以及他们的发表论文与工作论文，方便同学了解领域学者、选择申请方向、寻找合作者。</p>
+      <p>本站整理美国、香港与新加坡顶尖院校，以及美联储、世界银行、IMF 等政策机构中研究<b>能源、环境与资源经济学</b>（Energy, Environmental &amp; Resource Economics, EEE）的经济学家，包括研究方向、本科/硕士/博士教育背景、职业经历，以及他们的发表论文与工作论文，方便同学了解领域学者、选择申请方向、寻找合作者。</p>
 
       <h2>收录范围</h2>
       <ul>
         <li><b>院校</b>：美国 US News 2025 经济学研究生项目排名前 100（含并列至第 97 名；不含无经济学教员的 RAND、Teachers College、UCSF）；香港大学、香港中文大学、香港科技大学、香港城市大学、香港理工大学、香港浸会大学；新加坡国立大学、南洋理工大学、新加坡管理大学。</li>
+        <li><b>政策机构</b>：美联储理事会与 12 家地区联储、世界银行（含 IFC）、国际货币基金组织、OECD 与国际能源署、欧洲央行、国际清算银行、美洲开发银行、亚洲开发银行。</li>
         <li><b>院系</b>：经济系，以及农业/应用/资源经济系（如 Berkeley ARE、Davis ARE、Maryland AREC、Cornell Dyson）、公共政策学院（如 HKS、SIPA、Harris）、商学院（如 Wharton BEPP、Haas）、环境学院（如 Yale School of the Environment、Duke Nicholas）等。</li>
         <li><b>人员</b>：须为经济学家（经济学、农业/资源经济学博士，或以经济学研究为主的公共政策博士），不收录环境科学家、工程师等；农经系仅收录研究涉及环境、能源、资源、气候、水、土地的学者。</li>
-        <li><b>职称</b>：在编（tenure-line）的助理教授、副教授、正教授；不含讲师、教学型教职、研究员、访问学者、博士后和荣休教授。</li>
+        <li><b>职称</b>：在编（tenure-line）的助理教授、副教授、正教授；不含讲师、教学型教职、研究员、访问学者、博士后和荣休教授。政策机构收录有经济学博士、从事研究的在职经济学家（Economist、Senior/Lead Economist、研究部门负责人等），不含研究助理、短期顾问与访问学者。</li>
       </ul>
 
       <h2>领域层级</h2>

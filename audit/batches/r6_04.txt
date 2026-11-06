@@ -1,0 +1,14 @@
+- jun-rentschler | Jun Rentschler | World Bank | (none) | (none) | https://blogs.worldbank.org/en/team/j/jun-rentschler
+- fan-zhang | Fan Zhang | World Bank | (none) | (none) | https://blogs.worldbank.org/en/team/f/fan-zhang
+- urvashi-narain | Urvashi Narain | World Bank | (none) | (none) | https://blogs.worldbank.org/en/team/u/urvashi-narain
+- martin-heger | Martin Heger | World Bank | (none) | (none) | https://blogs.worldbank.org/en/team/m/martin-heger
+- juan-jose-miranda | Juan Jose Miranda | World Bank | (none) | (none) | https://blogs.worldbank.org/en/team/j/juan-jose-miranda
+- arno-behrens | Arno Behrens | World Bank | (none) | (none) | https://blogs.worldbank.org/en/team/a/arno-behrens
+- elcin-akcura | Elcin Akcura | World Bank | (none) | (none) | https://blogs.worldbank.org/en/team/e/elcin-akcura
+- vivien-foster | Vivien Foster | World Bank | (none) | (none) | https://live.worldbank.org/en/experts/v/vivien-foster
+- raffaello-cervigni | Raffaello Cervigni | World Bank | (none) | (none) | https://www.worldbank.org/en/about/people/r/Raffaello-cervigni
+- ian-parry | Ian Parry | International Monetary Fund | (none) | (none) | https://www.imf.org/en/blogs/authors/ian%20parry
+- florence-jaumotte | Florence Jaumotte | International Monetary Fund | (none) | https://www.imf.org/en/research/researcher-cv/author/jaumotte-florence | https://www.imf.org/en/blogs/authors/florence%20jaumotte
+- emanuele-massetti | Emanuele Massetti | International Monetary Fund | https://l3eap.wordpress.com/emanuele-massetti/ | https://iac.gatech.edu/people/personCV/48996ce2-a528-5c90-8e03-7f5573f73d44 | https://cepr.org/about/people/emanuele-massetti
+- christian-bogmans | Christian Bogmans | International Monetary Fund | (none) | https://www.imf.org/en/research/researcher-cv/author/bogmans-christian | https://www.imf.org/en/blogs/authors/christian%20bogmans
+- gregor-schwerhoff | Gregor Schwerhoff | International Monetary Fund | (none) | https://www.imf.org/en/research/researcher-cv/author/schwerhoff-gregor | https://www.imf.org/en/blogs/authors/gregor%20schwerhoff

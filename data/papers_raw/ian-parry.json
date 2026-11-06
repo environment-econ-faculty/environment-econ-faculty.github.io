@@ -1,0 +1,1228 @@
+{
+ "slug": "ian-parry",
+ "name": "Ian Parry",
+ "sources": [
+  "https://ideas.repec.org/f/ppa261.html",
+  "https://api.crossref.org"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Built from his self-registered RePEc page (IMF CV page not retrievable, so items after 2024 may be missing). Very long record: kept all refereed articles/chapters plus IMF/World Bank series papers; dropped old RFF/NBER/CESifo discussion-paper versions with no published version before 2015, comments, a trade-magazine piece, a book review and Nature News & Views-type pieces. Papers later published are listed only as published.",
+ "papers": [
+  {
+   "title": "Changing Climate in Brazil: Key Vulnerabilities and Opportunities",
+   "authors": [
+    "Chen Chen",
+    "Koralai Kirabaeva",
+    "Christina Kolerus",
+    "Ian W.H. Parry",
+    "Nate Vernon-Lin"
+   ],
+   "year": 2024,
+   "venue": "IMF Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Policy Options for Climate Mitigation: Emissions Trading Schemes in Asia-Pacific",
+   "authors": [
+    "Margaux MacDonald",
+    "Ian W.H. Parry"
+   ],
+   "year": 2024,
+   "venue": "IMF Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Fiscal Implications of Global Decarbonization",
+   "authors": [
+    "Simon Black",
+    "Ruud de Mooij",
+    "Vitor Gaspar",
+    "Ian W.H. Parry",
+    "Karlygash Zhunussova"
+   ],
+   "year": 2024,
+   "venue": "IMF Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The IMF-World Bank Climate Policy Assessment Tool (CPAT): A Model to Help Countries Mitigate Climate Change",
+   "authors": [
+    "Simon Black",
+    "Ian W.H. Parry",
+    "Victor Mylonas",
+    "Nate Vernon-Lin",
+    "Karlygash Zhunussova"
+   ],
+   "year": 2023,
+   "venue": "IMF Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Climate Mitigation Policy in Türkiye",
+   "authors": [
+    "Ian W.H. Parry",
+    "Danielle N Minnett",
+    "Karlygash Zhunussova"
+   ],
+   "year": 2023,
+   "venue": "IMF Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "IMF Fossil Fuel Subsidies Data: 2023 Update",
+   "authors": [
+    "Simon Black",
+    "Antung A. Liu",
+    "Ian W.H. Parry",
+    "Nate Vernon-Lin"
+   ],
+   "year": 2023,
+   "venue": "IMF Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Surging Energy Prices in Europe in the Aftermath of the War: How to Support the Vulnerable and Speed up the Transition Away from Fossil Fuels",
+   "authors": [
+    "Anil Ari",
+    "Nicolas Arregui",
+    "Simon Black",
+    "Oya Celasun",
+    "Dora M Iakova",
+    "Aiko Mineshima",
+    "Victor Mylonas",
+    "Ian W.H. Parry",
+    "Iulia Teodoru",
+    "Karlygash Zhunussova"
+   ],
+   "year": 2022,
+   "venue": "IMF Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Framework for Comparing Climate Mitigation Policies Across Countries",
+   "authors": [
+    "Simon Black",
+    "Danielle N Minnett",
+    "Ian W.H. Parry",
+    "James Roaf",
+    "Karlygash Zhunussova"
+   ],
+   "year": 2022,
+   "venue": "IMF Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Border carbon adjustments: rationale, design and impact",
+   "authors": [
+    "Michael Keen",
+    "Ian Parry",
+    "James Roaf"
+   ],
+   "year": 2022,
+   "venue": "Fiscal Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Carbon Levy for International Maritime Fuels",
+   "authors": [
+    "Ian Parry",
+    "Dirk Heine",
+    "Kelley Kizzier",
+    "Tristan Smith"
+   ],
+   "year": 2022,
+   "venue": "Review of Environmental Economics and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Carbon Taxes or Emissions Trading Systems? Instrument Choice and Design",
+   "authors": [
+    "Ian Parry",
+    "Simon Black",
+    "Karlygash Zhunussova"
+   ],
+   "year": 2022,
+   "venue": "IMF Staff Climate Note",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Getting on Track to Net Zero: Accelerating a Global Just Transition in This Decade",
+   "authors": [
+    "Simon Black",
+    "Jean Chateau",
+    "Florence Jaumotte",
+    "Ian Parry",
+    "Gregor Schwerhoff",
+    "Sneha Thube",
+    "Karlygash Zhunussova"
+   ],
+   "year": 2022,
+   "venue": "IMF Staff Climate Note",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Scaling up Climate Mitigation Policy in Germany",
+   "authors": [
+    "Simon Black",
+    "Ruo Chen",
+    "Aiko Mineshima",
+    "Victor Mylonas",
+    "Ian W.H. Parry",
+    "Dinar Prihardini"
+   ],
+   "year": 2021,
+   "venue": "IMF Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Still Not Getting Energy Prices Right: A Global and Country Update of Fossil Fuel Subsidies",
+   "authors": [
+    "Ian W.H. Parry",
+    "Simon Black",
+    "Nate Vernon-Lin"
+   ],
+   "year": 2021,
+   "venue": "IMF Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Implementing the United States’ Domestic and International Climate Mitigation Goals: A Supportive Fiscal Policy Approach",
+   "authors": [
+    "Ian W.H. Parry"
+   ],
+   "year": 2021,
+   "venue": "IMF Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Comprehensive Greenhouse Gas Mitigation Strategy for The Netherlands",
+   "authors": [
+    "Nicoletta Batini",
+    "Simon Black",
+    "Oana Luca",
+    "Ian W.H. Parry"
+   ],
+   "year": 2021,
+   "venue": "IMF Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Comprehensive Climate Mitigation Strategy for Mexico",
+   "authors": [
+    "Simon Black",
+    "Koralai Kirabaeva",
+    "Ian W.H. Parry",
+    "Mehdi Raissi",
+    "Karlygash Zhunussova"
+   ],
+   "year": 2021,
+   "venue": "IMF Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Reconsidering Climate Mitigation Policy in the UK",
+   "authors": [
+    "Nicolas Arregui",
+    "Ian W.H. Parry"
+   ],
+   "year": 2021,
+   "venue": "IMF Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Climate Mitigation Policy in Denmark: A Prototype for Other Countries",
+   "authors": [
+    "Nicoletta Batini",
+    "Ian W.H. Parry",
+    "Philippe Wingender"
+   ],
+   "year": 2021,
+   "venue": "IMF Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Fiscal Policies for Achieving Finland’s Emission Neutrality Target",
+   "authors": [
+    "Ian W.H. Parry",
+    "Philippe Wingender"
+   ],
+   "year": 2021,
+   "venue": "IMF Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Mitigation Policies for the Paris Agreement: An Assessment for G20 Countries",
+   "authors": [
+    "Ian Parry",
+    "Victor Mylonas",
+    "Nate Vernon"
+   ],
+   "year": 2021,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Carbon Pricing: What Role for Border Carbon Adjustments?",
+   "authors": [
+    "Ian Parry",
+    "Peter Dohlman",
+    "Cory Hillier",
+    "Martin Kaufman",
+    "Florian Misch",
+    "James Roaf",
+    "Christophe Waerzeggers",
+    "Kyung Kwak"
+   ],
+   "year": 2021,
+   "venue": "IMF Staff Climate Note",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Evaluating policies to implement the Paris Agreement: a toolkit with application to China",
+   "authors": [
+    "Ian Parry",
+    "Baoping Shang",
+    "Nate Vernon",
+    "Philippe Wingender",
+    "Tarun Narasimhan"
+   ],
+   "year": 2020,
+   "venue": "Handbook on the Economics of Climate Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Increasing carbon pricing in the EU: Evaluating the options",
+   "authors": [
+    "Ian Parry"
+   ],
+   "year": 2020,
+   "venue": "European Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Global Fossil Fuel Subsidies Remain Large: An Update Based on Country-Level Estimates",
+   "authors": [
+    "David Coady",
+    "Ian W.H. Parry",
+    "Nghia-Piotr Le",
+    "Baoping Shang"
+   ],
+   "year": 2019,
+   "venue": "IMF Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Energy Price Reform: Lessons for Policymakers",
+   "authors": [
+    "David Coady",
+    "Ian W H Parry",
+    "Baoping Shang"
+   ],
+   "year": 2018,
+   "venue": "Review of Environmental Economics and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Canada’s Carbon Price Floor",
+   "authors": [
+    "Ian W.H. Parry",
+    "Victor Mylonas"
+   ],
+   "year": 2017,
+   "venue": "National Tax Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Reforming Energy Policy in India: Assessing the Options",
+   "authors": [
+    "Ian W.H. Parry",
+    "Victor Mylonas",
+    "Nate Vernon-Lin"
+   ],
+   "year": 2017,
+   "venue": "IMF Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How Should Shale Gas Extraction Be Taxed?",
+   "authors": [
+    "Philip Daniel",
+    "Alan Krupnick",
+    "Thornton Matheson",
+    "Peter J. Mullins",
+    "Ian W.H. Parry",
+    "Artur Swistak"
+   ],
+   "year": 2017,
+   "venue": "IMF Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How Large Are Global Fossil Fuel Subsidies?",
+   "authors": [
+    "David Coady",
+    "Ian Parry",
+    "Louis Sears",
+    "Baoping Shang"
+   ],
+   "year": 2017,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Reforming the EU Energy Tax Directive: Assessing the Options",
+   "authors": [
+    "Ian Parry",
+    "Herman R. J. Vollebergh"
+   ],
+   "year": 2016,
+   "venue": "CESifo Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "After Paris: Fiscal, Macroeconomic and Financial Implications of Global Climate Change",
+   "authors": [
+    "Mai Farid",
+    "Michael Keen",
+    "Michael G. Papaioannou",
+    "Ian W.H. Parry",
+    "Catherine A Pattillo",
+    "Anna Ter-Martirosyan"
+   ],
+   "year": 2016,
+   "venue": "IMF Staff Discussion Note",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Reflections on the International Coordination of Carbon Pricing",
+   "authors": [
+    "Ian Parry"
+   ],
+   "year": 2016,
+   "venue": "CESifo Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Carbon Tax Burdens on Low-Income Households: A Reason for Delaying Climate Policy?",
+   "authors": [
+    "Ian Parry"
+   ],
+   "year": 2015,
+   "venue": "CESifo Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How Much Carbon Pricing Is In Countries’ Own Interests? The Critical Role Of Co-Benefits",
+   "authors": [
+    "Ian Parry",
+    "Chandara Veung",
+    "Dirk Heine"
+   ],
+   "year": 2015,
+   "venue": "Climate Change Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Designing Fiscal Policy to Address the External Costs of Energy",
+   "authors": [
+    "Ian Parry"
+   ],
+   "year": 2015,
+   "venue": "International Review of Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do alcohol taxes in Europe and the US rightly correct for externalities?",
+   "authors": [
+    "Evan Herrnstadt",
+    "Ian Parry",
+    "Juha Siikamäki"
+   ],
+   "year": 2015,
+   "venue": "International Tax and Public Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Are energy efficiency standards justified?",
+   "authors": [
+    "Ian W.H. Parry",
+    "David Evans",
+    "Wallace E. Oates"
+   ],
+   "year": 2014,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Planes, ships and taxes: charging for international aviation and maritime emissions [Work Stream 2: Paper on potential revenues from international maritime and aviation sector policy measures]",
+   "authors": [
+    "Michael Keen",
+    "Ian Parry",
+    "Jon Strand"
+   ],
+   "year": 2013,
+   "venue": "Economic Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Fiscal instruments for climate finance",
+   "authors": [
+    "Ian Parry"
+   ],
+   "year": 2013,
+   "venue": "Handbook on Energy and Climate Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Demand side instruments to reduce road transportation externalities in the greater Cairo metropolitan area",
+   "authors": [
+    "Ian W.H. Parry",
+    "Govinda R. Timilsina"
+   ],
+   "year": 2012,
+   "venue": "World Bank Policy Research Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Environmental Tax Reform: Principles from Theory and Practice",
+   "authors": [
+    "Ian W.H. Parry",
+    "John Norregaard",
+    "Dirk Heine"
+   ],
+   "year": 2012,
+   "venue": "Annual Review of Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Reforming the tax system to promote environmental objectives: An application to Mauritius",
+   "authors": [
+    "Ian W.H. Parry"
+   ],
+   "year": 2012,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "International fuel tax assessment: an application to Chile",
+   "authors": [
+    "Ian Parry",
+    "Jon Strand"
+   ],
+   "year": 2012,
+   "venue": "Environment and Development Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Automobile Fuel Economy Standards: Impacts, Efficiency, and Alternatives",
+   "authors": [
+    "Soren T. Anderson",
+    "Ian W. H. Parry",
+    "James M. Sallee",
+    "Carolyn Fischer"
+   ],
+   "year": 2011,
+   "venue": "Review of Environmental Economics and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "What are the Costs of Meeting Distributional Objectives for Climate Policy?",
+   "authors": [
+    "Parry Ian W. H.",
+    "Williams Roberton C."
+   ],
+   "year": 2010,
+   "venue": "The B.E. Journal of Economic Analysis & Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Designing Climate Mitigation Policy",
+   "authors": [
+    "Joseph E. Aldy",
+    "Alan J. Krupnick",
+    "Richard G. Newell",
+    "Ian W. H. Parry",
+    "William A. Pizer"
+   ],
+   "year": 2010,
+   "venue": "Journal of Economic Literature",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How should passenger travel in Mexico City be priced?",
+   "authors": [
+    "Ian W.H. Parry",
+    "Govinda R. Timilsina"
+   ],
+   "year": 2010,
+   "venue": "Journal of Urban Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Should new antimalarial drugs be subsidized?",
+   "authors": [
+    "Ramanan Laxminarayan",
+    "Ian W.H. Parry",
+    "David L. Smith",
+    "Eili Y. Klein"
+   ],
+   "year": 2010,
+   "venue": "Journal of Health Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Pricing externalities from passenger transportation in Mexico city",
+   "authors": [
+    "Ian W.H. Parry",
+    "Govinda R. Timilsina"
+   ],
+   "year": 2009,
+   "venue": "World Bank Policy Research Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Alcohol-Leisure Complementarity: Empirical Estimates and Implications for Tax Policy",
+   "authors": [
+    "Sara E. West",
+    "Ian W.H. Parry"
+   ],
+   "year": 2009,
+   "venue": "National Tax Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Pricing Urban Congestion",
+   "authors": [
+    "Ian W.H. Parry"
+   ],
+   "year": 2009,
+   "venue": "Annual Review of Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Should Urban Transit Subsidies Be Reduced?",
+   "authors": [
+    "Ian W. H. Parry",
+    "Kenneth A. Small"
+   ],
+   "year": 2009,
+   "venue": "American Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Fiscal and Externality Rationales for Alcohol Policies",
+   "authors": [
+    "Parry Ian W. H.",
+    "West Sarah E",
+    "Laxminarayan Ramanan"
+   ],
+   "year": 2009,
+   "venue": "The B.E. Journal of Economic Analysis & Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Tax–Based Approach to Slowing Global Climate Change",
+   "authors": [
+    "Joseph E. Aldy",
+    "Eduardo Ley",
+    "Ian Parry"
+   ],
+   "year": 2008,
+   "venue": "National Tax Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Instrument Choice in Environmental Policy",
+   "authors": [
+    "Lawrence H. Goulder",
+    "Ian W. H. Parry"
+   ],
+   "year": 2008,
+   "venue": "Review of Environmental Economics and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How should heavy-duty trucks be taxed?",
+   "authors": [
+    "Ian W.H. Parry"
+   ],
+   "year": 2008,
+   "venue": "Journal of Urban Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Automobile Externalities and Policies",
+   "authors": [
+    "Ian W. H. Parry",
+    "Margaret Walls",
+    "Winston Harrington"
+   ],
+   "year": 2007,
+   "venue": "Journal of Economic Literature",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Are the costs of reducing greenhouse gases from passenger vehicles negative?",
+   "authors": [
+    "Ian W.H. Parry"
+   ],
+   "year": 2007,
+   "venue": "Journal of Urban Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Should Automobile Fuel Economy Standards be Tightened?",
+   "authors": [
+    "Carolyn Fischer",
+    "Winston Harrington",
+    "Ian W.H. Parry"
+   ],
+   "year": 2007,
+   "venue": "The Energy Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Is Pay-as-You-Drive Insurance a Better Way to Reduce Gasoline than Gasoline Taxes?",
+   "authors": [
+    "Ian W. H. Parry"
+   ],
+   "year": 2005,
+   "venue": "American Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Should Fuel Taxes Be Scrapped in Favor of Pay-by-the-Mile Charges?",
+   "authors": [
+    "Ian Parry"
+   ],
+   "year": 2005,
+   "venue": "World Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Does Britain or the United States Have the Right Gasoline Tax?",
+   "authors": [
+    "Ian W. H. Parry",
+    "Kenneth A. Small"
+   ],
+   "year": 2005,
+   "venue": "American Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Fiscal Interactions and the Costs of Controlling Pollution from Electricity",
+   "authors": [
+    "Ian W.H. Parry"
+   ],
+   "year": 2005,
+   "venue": "RAND Journal of Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Comparing the welfare effects of public and private health care subsidies in the United Kingdom",
+   "authors": [
+    "Ian W.H. Parry"
+   ],
+   "year": 2005,
+   "venue": "Journal of Health Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "8. Welfare And Distributional Effects Of Road Pricing Schemes For Metropolitan Washington Dc",
+   "authors": [
+    "Elena Safirova",
+    "Kenneth Gillingham",
+    "Ian Parry",
+    "Peter Nelson",
+    "Winston Harrington",
+    "David Mason"
+   ],
+   "year": 2004,
+   "venue": "Research in Transportation Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Are emissions permits regressive?",
+   "authors": [
+    "Ian W. H. Parry"
+   ],
+   "year": 2004,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Comparing alternative policies to reduce traffic accidents",
+   "authors": [
+    "Ian W. H. Parry"
+   ],
+   "year": 2004,
+   "venue": "Journal of Urban Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Policy Analysis in the Presence of Distorting Taxes",
+   "authors": [
+    "Ian W.H. Parry",
+    "Wallace E. Oates",
+    "Ian W.H. Parry",
+    "Wallace E. Oates"
+   ],
+   "year": 2004,
+   "venue": "Chapters, in: Environmental Policy and Fiscal Federalism, chapter 4, pages 67-77, Edward Elgar Publishing.",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Fiscal Interactions and the Case for Carbon Taxes Over Grandfathered Carbon Permits",
+   "authors": [
+    "Ian W. H. Parry"
+   ],
+   "year": 2003,
+   "venue": "Oxford Review of Economic Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How Large Are the Welfare Gains from Technological Innovation Induced by Environmental Policies?",
+   "authors": [
+    "Ian W H Parry",
+    "William A Pizer",
+    "Carolyn Fischer"
+   ],
+   "year": 2003,
+   "venue": "Journal of Regulatory Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "On the implications of technological innovation for environmental policy",
+   "authors": [
+    "Ian W.H. Parry"
+   ],
+   "year": 2003,
+   "venue": "Environment and Development Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How large are the welfare costs of tax competition?",
+   "authors": [
+    "Ian W. H. Parry"
+   ],
+   "year": 2003,
+   "venue": "Journal of Urban Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Instrument choice for environmental protection when technological innovation is endogenous",
+   "authors": [
+    "Carolyn Fischer",
+    "Ian W. H. Parry",
+    "William A. Pizer"
+   ],
+   "year": 2003,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "On the Costs of Excise Taxes and Income Taxes in the UK",
+   "authors": [
+    "Ian W H Parry"
+   ],
+   "year": 2003,
+   "venue": "International Tax and Public Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Estimating the Welfare Effect of Congestion Taxes: The Critical Importance of Other Distortions within the Transport System",
+   "authors": [
+    "Ian W. H. Parry",
+    "Antonio Bento"
+   ],
+   "year": 2002,
+   "venue": "Journal of Urban Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Early Emission Reduction Programs: An Application to C02 Policy",
+   "authors": [
+    "Ian W.H. Parry",
+    "Michael Toman"
+   ],
+   "year": 2002,
+   "venue": "The Energy Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Comparing the efficiency of alternative policies for reducing traffic congestion",
+   "authors": [
+    "I. W. H. Parry"
+   ],
+   "year": 2002,
+   "venue": "Journal of Public Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Tax Deductions, Environmental Policy, and the \"Double Dividend\" Hypothesis",
+   "authors": [
+    "Ian W.H. Parry",
+    "Antonio M. Bento"
+   ],
+   "year": 2002,
+   "venue": "Environmental Policy Making in Economies with Prior Tax Distortions",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "When Can Carbon Abatement Policies Increase Welfare? The Fundamental Role of Distorted Factor Markets",
+   "authors": [
+    "Ian W.H. Parry",
+    "Roberton C. Williams III",
+    "Lawrence H. Goulder"
+   ],
+   "year": 2002,
+   "venue": "Environmental Policy Making in Economies with Prior Tax Distortions",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Cost-Effectiveness of Alternative Instruments for Environmental Protection in a Second-Best Setting",
+   "authors": [
+    "Lawrence H. Goulder",
+    "Ian W.H. Parry",
+    "Roberton C. Williams III",
+    "Dallas Burtraw"
+   ],
+   "year": 2002,
+   "venue": "Environmental Policy Making in Economies with Prior Tax Distortions",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Revenue-Raising versus Other Approaches to Environmental Protection: The Critical Significance of Preexisting Tax Distortions",
+   "authors": [
+    "Lawrence H. Goulder",
+    "Ian W.H. Parry",
+    "Dallas Burtraw"
+   ],
+   "year": 2002,
+   "venue": "Environmental Policy Making in Economies with Prior Tax Distortions",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Funding transportation spending in metropolitan Washington, DC: the costs of alternative revenue sources",
+   "authors": [
+    "Ian W. H. Parry"
+   ],
+   "year": 2002,
+   "venue": "Journal of Urban Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Tax Deductions and the Marginal Welfare Cost of Taxation",
+   "authors": [
+    "Ian Parry"
+   ],
+   "year": 2002,
+   "venue": "International Tax and Public Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Second-Best Analysis of Environmental Subsidies",
+   "authors": [
+    "Ian W.H. Parry"
+   ],
+   "year": 2002,
+   "venue": "Environmental Policy Making in Economies with Prior Tax Distortions",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Environmental Taxes and Quotas in the Presence of Distorting Taxes in Factor Markets",
+   "authors": [
+    "Ian W.H. Parry"
+   ],
+   "year": 2002,
+   "venue": "Environmental Policy Making in Economies with Prior Tax Distortions",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Pollution Taxes and Revenue Reycling",
+   "authors": [
+    "Ian W.H. Parry"
+   ],
+   "year": 2002,
+   "venue": "Environmental Policy Making in Economies with Prior Tax Distortions",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Revenue Recycling and the Welfare Effects of Road Pricing",
+   "authors": [
+    "Ian W. H. Parry",
+    "Antonio Bento"
+   ],
+   "year": 2001,
+   "venue": "Scandinavian Journal of Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Costs of Restrictive Trade Policies in the Presence of Factor Tax Distortions",
+   "authors": [
+    "Ian Parry"
+   ],
+   "year": 2001,
+   "venue": "International Tax and Public Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Agricultural Policies in the Presence of Distorting Taxes",
+   "authors": [
+    "Ian W.H. Parry"
+   ],
+   "year": 1999,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A second-best evaluation of eight policy instruments to reduce carbon emissions",
+   "authors": [
+    "Ian W. H. Parry",
+    "Roberton C. Williams III"
+   ],
+   "year": 1999,
+   "venue": "Resource and Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Carbon Abatement: Lessons from Second-Best Economics",
+   "authors": [
+    "Ian W.H. Parry"
+   ],
+   "year": 1999,
+   "venue": "Global Environmental Change and Agriculture",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Pollution Regulation and the Efficiency Gains from Technological Innovation",
+   "authors": [
+    "Ian W H Parry"
+   ],
+   "year": 1998,
+   "venue": "Journal of Regulatory Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Public expenditure policy and the environment: A review and synthesis",
+   "authors": [
+    "Sanjeev Gupta",
+    "Kenneth Miranda",
+    "Ian Parry"
+   ],
+   "year": 1995,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Optimal pollution taxes and endogenous technological progress",
+   "authors": [
+    "Ian W. H. Parry"
+   ],
+   "year": 1995,
+   "venue": "Resource and Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Some estimates of the insurance value against climate change from reducing greenhouse gas emissions",
+   "authors": [
+    "Ian W. H. Parry"
+   ],
+   "year": 1993,
+   "venue": "Resource and Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

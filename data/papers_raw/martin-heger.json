@@ -1,0 +1,196 @@
+{
+ "slug": "martin-heger",
+ "name": "Martin Heger",
+ "sources": [
+  "https://openalex.org/A5102849978",
+  "https://openalex.org/A5113291793"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Fallback: homepage/CV unavailable; list from OpenAlex author record(s) affiliated with World Bank (Martin Heger, Martin P. Heger). May include non-economics coauthored work; working papers mostly absent.",
+ "papers": [
+  {
+   "title": "Household cooking in Nepal: An economic analysis",
+   "authors": [
+    "Sunil Malla",
+    "Govinda R. Timilsina",
+    "Martin Heger"
+   ],
+   "year": 2026,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.enpol.2026.115194",
+   "abstract": null
+  },
+  {
+   "title": "Landscape efficiency frontiers for biodiversity, climate mitigation, and net economic value",
+   "authors": [
+    "Stephen Polasky",
+    "Peter L. Hawthorne",
+    "Rebecca Chaplin‐Kramer",
+    "Jeffrey R. Smith",
+    "James Gerber",
+    "Saleh Mamun",
+    "Mary H. Ruckelshaus",
+    "Jason Russ",
+    "Rafael Schmitt",
+    "Adrian L. Vogl",
+    "Adam C. Castonguay",
+    "James A. Douglass",
+    "Virginia A. Kowal",
+    "Ian Madden",
+    "Richard Sharp",
+    "Brent Sohngen",
+    "Jinfeng Chang",
+    "Gretchen C. Daily",
+    "Martin Heger",
+    "Matthew H. Holden",
+    "J J Johnson",
+    "Lisa Mandle",
+    "Eve McDonald‐Madden",
+    "Urvashi Narain",
+    "Deepak K. Ray",
+    "Giovanni Ruta",
+    "Paul C. West",
+    "Stacie A. Wolny",
+    "Esha Dilip Zaveri",
+    "Richard Damania"
+   ],
+   "year": 2026,
+   "venue": "Science",
+   "status": "已发表",
+   "url": "https://doi.org/10.1126/science.aea9058",
+   "abstract": null
+  },
+  {
+   "title": "Economic and policy analysis of cleaner technologies for brick production in Nepal",
+   "authors": [
+    "Govinda R. Timilsina",
+    "Sunil Malla",
+    "Martin P. Heger"
+   ],
+   "year": 2025,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.enpol.2025.114741",
+   "abstract": null
+  },
+  {
+   "title": "Identifying child growth effects of elevated pollution levels during pregnancy",
+   "authors": [
+    "Sam Heft‐Neal",
+    "Martin Heger",
+    "Vaibhav Rathi",
+    "Marshall Burke"
+   ],
+   "year": 2024,
+   "venue": "Environmental Research Letters",
+   "status": "已发表",
+   "url": "https://doi.org/10.1088/1748-9326/ad993b",
+   "abstract": null
+  },
+  {
+   "title": "Economic legacy effects of armed conflict: Insights from the civil war in Aceh, Indonesia",
+   "authors": [
+    "Martin Heger",
+    "Eric Neumayer"
+   ],
+   "year": 2021,
+   "venue": "Conflict Management and Peace Science",
+   "status": "已发表",
+   "url": "https://doi.org/10.1177/0738894221994503",
+   "abstract": null
+  },
+  {
+   "title": "Land and poverty: the role of soil fertility and vegetation quality in poverty reduction",
+   "authors": [
+    "Martin Heger",
+    "Gregor Zens",
+    "Mook Bangalore"
+   ],
+   "year": 2020,
+   "venue": "Environment and Development Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1017/s1355770x20000066",
+   "abstract": null
+  },
+  {
+   "title": "The impact of the Indian Ocean tsunami on Aceh’s long-term economic growth",
+   "authors": [
+    "Martin Heger",
+    "Eric Neumayer"
+   ],
+   "year": 2019,
+   "venue": "Journal of Development Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jdeveco.2019.06.008",
+   "abstract": null
+  },
+  {
+   "title": "Deforestation and economic development: Evidence from national borders",
+   "authors": [
+    "Jesús Crespo Cuaresma",
+    "Martin Heger"
+   ],
+   "year": 2019,
+   "venue": "Land Use Policy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.landusepol.2018.12.039",
+   "abstract": null
+  },
+  {
+   "title": "Does the Environment Matter for Poverty Reduction? The Role of Soil Fertility and Vegetation Vigor in Poverty Reduction",
+   "authors": [
+    "Martin Heger",
+    "Gregor Zens",
+    "Mook Bangalore",
+    "Martin Heger"
+   ],
+   "year": 2018,
+   "venue": "World Bank, Washington, DC eBooks",
+   "status": "工作论文",
+   "url": "https://doi.org/10.1596/1813-9450-8537",
+   "abstract": null
+  },
+  {
+   "title": "FYR Macedonia - Employment and job creation : labor market assessment 2007-2011",
+   "authors": [
+    "Martin Heger",
+    "Carola Grün",
+    "Sara Johansson de Silva",
+    "Johannes Koettl",
+    "Indhira Vanessa Santos"
+   ],
+   "year": 2014,
+   "venue": "",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Analysing the Impact of Natural Hazards in Small Economies",
+   "authors": [
+    "Martin Heger",
+    "Alex Julca",
+    "Oliver Paddison"
+   ],
+   "year": 2008,
+   "venue": "",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Analysing the impact of natural hazards in small economies: The Caribbean case",
+   "authors": [
+    "Martin Heger",
+    "Alex Julca",
+    "Oliver Paddison"
+   ],
+   "year": 2008,
+   "venue": "RePEc: Research Papers in Economics",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

@@ -1,0 +1,510 @@
+{
+ "slug": "marina-mendes-tavares",
+ "name": "Marina Mendes Tavares",
+ "sources": [
+  "https://www.imf.org/en/research/researcher-cv/author/mendes-tavares-marina",
+  "https://ideas.repec.org/p/imf/ (per-paper IMF WP/SDN pages for authors and abstracts)",
+  "https://api.crossref.org (title lookup for published versions and byline order)"
+ ],
+ "collected": "2026-11-06",
+ "notes": "IMF researcher CV (titles only, no coauthors); authors and abstracts from IDEAS pages of the IMF working papers/SDNs; journal bylines from Crossref. Working papers with a journal-article Crossref match are listed only as the published version. No RePEc author profile found. Skipped: the CV's COVID Economics/VoxEU items (WP version kept), blogs.",
+ "papers": [
+  {
+   "title": "Firing costs, misallocation, and aggregate productivity",
+   "authors": [
+    "José-María Da-Rocha",
+    "Diego Restuccia",
+    "Marina Mendes Tavares"
+   ],
+   "year": 2019,
+   "venue": "Journal of Economic Dynamics and Control",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jedc.2018.09.005",
+   "abstract": null
+  },
+  {
+   "title": "Gender and employment in the COVID-19 recession: Cross-Country evidence on “She-Cessions”",
+   "authors": [
+    "John Bluedorn",
+    "Francesca Caselli",
+    "Niels-Jakob Hansen",
+    "Ippei Shibata",
+    "Marina Mendes Tavares"
+   ],
+   "year": 2023,
+   "venue": "Labour Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.labeco.2022.102308",
+   "abstract": null
+  },
+  {
+   "title": "Transitioning to a greener labor market: Cross-country evidence from microdata",
+   "authors": [
+    "John Bluedorn",
+    "Niels-Jakob Hansen",
+    "Diaa Noureldin",
+    "Ippei Shibata",
+    "Marina Mendes Tavares"
+   ],
+   "year": 2023,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.eneco.2023.106836",
+   "abstract": null
+  },
+  {
+   "title": "Policy distortions and aggregate productivity with endogenous establishment-level productivity",
+   "authors": [
+    "José-María Da-Rocha",
+    "Diego Restuccia",
+    "Marina Mendes Tavares"
+   ],
+   "year": 2023,
+   "venue": "European Economic Review",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.euroecorev.2023.104444",
+   "abstract": null
+  },
+  {
+   "title": "Tax Revenues in Low-Income Countries",
+   "authors": [
+    "Adrian Peralta-Alva",
+    "Xuan S Tam",
+    "Xin Tang",
+    "Marina Mendes Tavares"
+   ],
+   "year": 2023,
+   "venue": "The Economic Journal",
+   "status": "已发表",
+   "url": "https://doi.org/10.1093/ej/uead023",
+   "abstract": null
+  },
+  {
+   "title": "Market Power, Financial Constraints, and Monetary Transmission",
+   "authors": [
+    "Romain Duval",
+    "Davide Furceri",
+    "Raphael Lee",
+    "Marina Mendes Tavares"
+   ],
+   "year": 2023,
+   "venue": "AEA Papers and Proceedings",
+   "status": "已发表",
+   "url": "https://doi.org/10.1257/pandp.20231005",
+   "abstract": null
+  },
+  {
+   "title": "Globalization and Inclusive Growth: Can They Go Hand in Hand in Developing Countries?",
+   "authors": [
+    "Rupa Duttagupta",
+    "Sandra Lizarazo Ruiz",
+    "Angelica Martinez Leyva",
+    "Marina Mendes Tavares"
+   ],
+   "year": 2018,
+   "venue": "Getting Globalization Right",
+   "status": "已发表",
+   "url": "https://doi.org/10.1007/978-3-319-97692-1_12",
+   "abstract": null
+  },
+  {
+   "title": "The Welfare Implications of Job Retention Schemes",
+   "authors": [
+    "John C Bluedorn",
+    "Jorge Mondragon",
+    "Ippei Shibata",
+    "Marina Mendes Tavares"
+   ],
+   "year": 2026,
+   "venue": "IMF Working Paper",
+   "status": "工作论文",
+   "url": "https://ideas.repec.org/p/imf/imfwpa/2026-015.html",
+   "abstract": "This paper examines the welfare implications of job retention schemes, where governments subsidize employers to preserve jobs during downturns. Using EU microdata from 2003 to 2018, we show that such schemes are associated with lower job separation rates, especially among lower-productivity workers. We build a search-and-matching model with occupational choice, calibrated to the United Kingdom during the global financial and sovereign debt crises. Simulations show that a retention policy scheme aimed at reducing unemployment by nearly 1 percentage point would have been both welfare-enhancing and cost-effective. Average welfare would have increased by 0.06 percent in consumption-equivalent terms, with low-income workers benefiting more than twice as much as the median worker by avoiding costly job switches and unemployment spells."
+  },
+  {
+   "title": "Structural Reforms in Saudi Arabia Since 2016",
+   "authors": [
+    "David Koll",
+    "Andrea Medici",
+    "Marina Mendes Tavares",
+    "Masashi Saito"
+   ],
+   "year": 2026,
+   "venue": "IMF Working Paper",
+   "status": "工作论文",
+   "url": "https://ideas.repec.org/p/imf/imfwpa/2026-014.html",
+   "abstract": "Since 2016, Saudi Arabia’s Vision 2030 reforms have improved governance, business regulations, capital markets, the labor market, and the external sector, narrowing structural gaps with frontier economies and improving economic performance. This paper summarizes progress, estimates the output impact of the reforms, notes challenges, and highlights future priorities for continued growth and diversification."
+  },
+  {
+   "title": "Bridging Skill Gaps for the Future: New Jobs Creation in the AI Age",
+   "authors": [
+    "Florence Jaumotte",
+    "Jaden Kim",
+    "David Koll",
+    "Elmer Li",
+    "Longji Li",
+    "Giovanni Melina",
+    "Alina Song",
+    "Marina Mendes Tavares"
+   ],
+   "year": 2026,
+   "venue": "IMF Staff Discussion Note",
+   "status": "工作论文",
+   "url": "https://ideas.repec.org/p/imf/imfsdn/2026-001.html",
+   "abstract": "The demand and supply of new skills—especially in IT and AI—are reshaping labor markets, impacting wages and hiring. About one in ten job vacancies in advanced economies demands at least one new skill, often appearing first in the United States. The incidence is about half in emerging economies. These skills boost average wages and employment but deepen polarization, mostly benefitting high- and—through higher consumption of services—low-skilled workers, and potentially contributing to the shrinking of the middle class. Vacancies demanding AI skills post higher wages, but the diffusion of such skills is linked to lower employment in occupations with high exposure and low complementarity with AI, posing challenges for the youth. A Skill Imbalance Index reveals wide cross-country differences. Economies facing strong demand should prioritize education and reskilling, while those facing strong supply should foster firms’ absorption through innovation and access to credit."
+  },
+  {
+   "title": "The Global Impact of AI: Mind the Gap",
+   "authors": [
+    "Eugenio M Cerutti",
+    "Antonio I Garcia Pascual",
+    "Yosuke Kido",
+    "Longji Li",
+    "Giovanni Melina",
+    "Marina Mendes Tavares",
+    "Philippe Wingender"
+   ],
+   "year": 2025,
+   "venue": "IMF Working Paper",
+   "status": "工作论文",
+   "url": "https://ideas.repec.org/p/imf/imfwpa/2025-076.html",
+   "abstract": "This paper examines the uneven global impact of AI, highlighting how its effects will be a function of (i) countries’ sectoral exposure to AI, (ii) their preparedness to integrate these technologies into their economies, and (iii) their access to essential data and technologies. We feed these three aspects into a multi-sector dynamic general equilibrium model of the global economy and show that AI will exacerbate cross-country income inequality, disproportionately benefiting advanced economies. Indeed, the estimated growth impact in advanced economies could be more than double that in low-income countries. While improvements in AI preparedness and access can mitigate these disparities, they are unlikely to fully offset them. Moreover, the AI-driven productivity gains could reduce the traditional role of exchange rate adjustments due to AI’s large impact in the non-tradable sector—a mechanism akin to an inverse Balassa-Samuelson effect."
+  },
+  {
+   "title": "AI Adoption and Inequality",
+   "authors": [
+    "Emma J Rockall",
+    "Marina Mendes Tavares",
+    "Carlo Pizzinelli"
+   ],
+   "year": 2025,
+   "venue": "IMF Working Paper",
+   "status": "工作论文",
+   "url": "https://ideas.repec.org/p/imf/imfwpa/2025-068.html",
+   "abstract": "There are competing narratives about artificial intelligence’s impact on inequality. Some argue AI will exacerbate economic disparities, while others suggest it could reduce inequality by primarily disrupting high-income jobs. Using household microdata and a calibrated task-based model, we show these narratives reflect different channels through which AI affects the economy. Unlike previous waves of automation that increased both wage and wealth inequality, AI could reduce wage inequality through the displacement of high-income workers. However, two factors may counter this effect: these workers’ tasks appear highly complementary with AI, potentially increasing their productivity, and they are better positioned to benefit from higher capital returns. When firms can choose how much AI to adopt, the wealth inequality effect is particularly pronounced, as the potential cost savings from automating high-wage tasks drive significantly higher adoption rates. Models that ignore this adoption decision risk understating the trade-off policymakers face between inequality and efficiency."
+  },
+  {
+   "title": "The Macroeconomic and Welfare Benefits of Building Resilience in Disaster-Prone Developing Countries",
+   "authors": [
+    "Yehenew Endegnanew",
+    "Rafael D Goncalves",
+    "Samuel Mann",
+    "Marina Mendes Tavares",
+    "Harold Zavarce"
+   ],
+   "year": 2026,
+   "venue": "Journal of International Money and Finance",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jimonfin.2026.103658",
+   "abstract": "Natural disasters often have high economic costs, setting back years of investment in developing countries. This paper develops a multi-sector DSGE model to study the macroeconomic and welfare implications of financing resilience-building using different fiscal instruments. The model includes developing countries’ macroeconomic and distributional features, such as a large unproductive rural sector, an incomplete credit market, and an informal sector. The results indicate that investing in resilience capital in a disaster-prone country improves welfare despite its high economic cost, but the financial instrument used to mobilize revenue matters."
+  },
+  {
+   "title": "The Green Future: Labor Market Implications for Men and Women",
+   "authors": [
+    "Naomi-Rose Alexander",
+    "Longji Li",
+    "Jorge Mondragon",
+    "Sahar Priano",
+    "Marina Mendes Tavares"
+   ],
+   "year": 2024,
+   "venue": "IMF Working Paper",
+   "status": "工作论文",
+   "url": "https://ideas.repec.org/p/imf/imfwpa/2024-156.html",
+   "abstract": "This study examines the green transition's effects on labor markets using a task-based framework to identify jobs with tasks that contribute, or with the potential to contribute, to the green transition. Analyzing data from Brazil, Colombia, South Africa, the United Kingdom, and the United States, we find that the proportion of workers in green jobs is similar across AEs and EMs, albeit with distinct occupational patterns: AE green job holders typically have higher education levels, whereas in EMs, they tend to have lower education levels. Despite these disparities, the distribution of green jobs across genders is similar across countries, with men occupying over two-thirds of these positions. Furthermore, green jobs are characterized by a wage premium and a narrower gender pay gap. Our research further studies the implications of AI for the expansion of green employment opportunities. This research advances our understanding of the interplay between green jobs, gender equity, and AI and provides valuable insights for promoting a more inclusive green transition."
+  },
+  {
+   "title": "Exposure to Artificial Intelligence and Occupational Mobility: A Cross-Country Analysis",
+   "authors": [
+    "Mauro Cazzaniga",
+    "Carlo Pizzinelli",
+    "Emma J Rockall",
+    "Marina Mendes Tavares"
+   ],
+   "year": 2025,
+   "venue": "Economía",
+   "status": "已发表",
+   "url": "https://doi.org/10.31389/eco.451",
+   "abstract": "We document historical patterns of workers' transitions across occupations and over the life-cycle for different levels of exposure and complementarity to Artificial Intelligence (AI) in Brazil and the UK. In both countries, college-educated workers frequently move from high-exposure, low-complementarity occupations (those more likely to be negatively affected by AI) to high-exposure, high-complementarity ones (those more likely to be positively affected by AI). This transition is especially common for young college-educated workers and is associated with an increase in average salaries. Young highly educated workers thus represent the demographic group for which AI-driven structural change could most expand opportunities for career progression but also highly disrupt entry into the labor market by removing stepping-stone jobs. These patterns of “upward” labor market transitions for college-educated workers look broadly alike in the UK and Brazil, suggesting that the impact of AI adoption on the highly educated labor force could be similar across advanced economies and emerging markets. Meanwhile, non-college workers in Brazil face markedly higher chances of moving from better-paid high-exposure and low-complementarity occupations to low-exposure ones, suggesting a higher risk of income loss if AI were to reduce labor demand for the former type of jobs."
+  },
+  {
+   "title": "The Impact of Reduced Commuting on Labor Supply and Household Welfare: A Post-Pandemic Analysis",
+   "authors": [
+    "Yi Ji",
+    "Myrto Oikonomou",
+    "Carlo Pizzinelli",
+    "Ippei Shibata",
+    "Marina Mendes Tavares"
+   ],
+   "year": 2024,
+   "venue": "IMF Working Paper",
+   "status": "工作论文",
+   "url": "https://ideas.repec.org/p/imf/imfwpa/2024-094.html",
+   "abstract": "This paper examines the impact of changes in commuting time on welfare and labor supply in the aftermath of the COVID-19 pandemic. Utilizing data from the American Time Use Survey, we observe a shift in commuting time and working hours across occupations with varying ability of telework after the pandemic. We develop a household model of labor supply that accounts for commuting time, and we characterize how changes in commuting time impact individuals' and spouses' labor supply. We calibrate the model to the data. Our findings reveal that the observed post-pandemic decline in commuting time yields significant welfare gains: between 1.5 to 4.5 percent of consumption equivalents for households where at least one spouse experiences reduced commuting."
+  },
+  {
+   "title": "Gen-AI: Artificial Intelligence and the Future of Work",
+   "authors": [
+    "Mauro Cazzaniga",
+    "Florence Jaumotte",
+    "Longji Li",
+    "Giovanni Melina",
+    "Augustus J Panton",
+    "Carlo Pizzinelli",
+    "Emma J Rockall",
+    "Marina Mendes Tavares"
+   ],
+   "year": 2024,
+   "venue": "IMF Staff Discussion Note",
+   "status": "工作论文",
+   "url": "https://ideas.repec.org/p/imf/imfsdn/2024-001.html",
+   "abstract": "Artificial Intelligence (AI) has the potential to reshape the global economy, especially in the realm of labor markets. Advanced economies will experience the benefits and pitfalls of AI sooner than emerging market and developing economies, largely due to their employment structure focused on cognitive-intensive roles. There are some consistent patterns concerning AI exposure, with women and college-educated individuals more exposed but also better poised to reap AI benefits, and older workers potentially less able to adapt to the new technology. Labor income inequality may increase if the complementarity between AI and high-income workers is strong, while capital returns will increase wealth inequality. However, if productivity gains are sufficiently large, income levels could surge for most workers. In this evolving landscape, advanced economies and more developed emerging markets need to focus on upgrading regulatory frameworks and supporting labor reallocation, while safeguarding those adversely affected. Emerging market and developing economies should prioritize developing digital infrastructure and digital skills"
+  },
+  {
+   "title": "Labor Market Exposure to AI: Cross-country Differences and Distributional Implications",
+   "authors": [
+    "Carlo Pizzinelli",
+    "Augustus J Panton",
+    "Marina Mendes Tavares",
+    "Mauro Cazzaniga",
+    "Longji Li"
+   ],
+   "year": 2023,
+   "venue": "IMF Working Paper",
+   "status": "工作论文",
+   "url": "https://ideas.repec.org/p/imf/imfwpa/2023-216.html",
+   "abstract": "This paper examines the impact of Artificial Intelligence (AI) on labor markets in both Advanced Economies (AEs) and Emerging Markets (EMs). We propose an extension to a standard measure of AI exposure, accounting for AI's potential as either a complement or a substitute for labor, where complementarity reflects lower risks of job displacement. We analyze worker-level microdata from 2 AEs (US and UK) and 4 EMs (Brazil, Colombia, India, and South Africa), revealing substantial variations in unadjusted AI exposure across countries. AEs face higher exposure than EMs due to a higher employment share in professional and managerial occupations. However, when accounting for potential complementarity, differences in exposure across countries are more muted. Within countries, common patterns emerge in AEs and EMs. Women and highly educated workers face greater occupational exposure to AI, at both high and low complementarity. Workers in the upper tail of the earnings distribution are more likely to be in occupations with high exposure but also high potential complementarity."
+  },
+  {
+   "title": "Structural Reforms to Accelerate Growth, Ease Policy Trade-offs, and Support the Green Transition in Emerging Market and Developing Economies",
+   "authors": [
+    "Nina Budina",
+    "Christian H Ebeke",
+    "Florence Jaumotte",
+    "Andrea Medici",
+    "Augustus J Panton",
+    "Marina Mendes Tavares",
+    "Bella Yao"
+   ],
+   "year": 2023,
+   "venue": "IMF Staff Discussion Note",
+   "status": "工作论文",
+   "url": "https://ideas.repec.org/p/imf/imfsdn/2023-007.html",
+   "abstract": "In the aftermath of the COVID-19 pandemic, emerging market and developing economies are grappling with economic scarring, social tension, and reduced policy space. Policy actions are already urgently needed to boost growth in the near term and support the ongoing green transition. At the same time, high public debt and persistently high inflation have constrained policy space, posing difficult policy trade-offs. This Staff Discussion Note focuses on emerging market and developing economies and proposes a framework for prioritization, packaging, and sequencing of macrostructural reforms to accelerate growth, alleviate policy trade-offs, and support the green transition. The note shows that prioritizing the removal of the most binding constraints on economic activity, bundling reforms (governance, business deregulation, and external sector reforms), and appropriate sequencing of other reforms (such as labor market and credit sector reforms) can help front-load reform gains. In emerging market and developing economies with large initial structural gaps, the estimated output effects of such a major reform package are sizable—about 4 percent in two years and 8 percent in four years. Achieving higher growth and lower absolute carbon emissions over time requires a well-designed strategy that includes both macrostructural and green reforms."
+  },
+  {
+   "title": "Digitalization During the COVID-19 Crisis: Implications for Productivity and Labor Markets in Advanced Economies",
+   "authors": [
+    "Florence Jaumotte",
+    "Longji Li",
+    "Andrea Medici",
+    "Myrto Oikonomou",
+    "Carlo Pizzinelli",
+    "Ippei Shibata",
+    "Jiaming Soh",
+    "Marina Mendes Tavares"
+   ],
+   "year": 2023,
+   "venue": "IMF Staff Discussion Note",
+   "status": "工作论文",
+   "url": "https://ideas.repec.org/p/imf/imfsdn/2023-003.html",
+   "abstract": "Digitalization induced by the pandemic was seen both as a possible silver-lining from the crisis that could increase longer-term productivity and a risk for further labor market inequality between digital and non-digital workers. The note shows that the pandemic accelerated digitalization and triggered a partial catch-up by less digitalized entities in advanced economies. Higher digitalization levels shielded substantially productivity and hours worked during the crisis. However, the extent to which the pandemic-induced digitalization led to structural change in the economy is less clear. Less digitalized sectors have rebounded more strongly, albeit after stronger declines, and while workers in digital occupations were more shielded from the crisis, there does not appear to be a structural change in the composition of labor demand. Meanwhile, shifts in labor supply are more likely to be permanent, driven by the increase in working from home."
+  },
+  {
+   "title": "Did the COVID-19 Recession Increase the Demand for Digital Occupations in the United States? Evidence from Employment and Vacancies Data",
+   "authors": [
+    "Jiaming Soh",
+    "Myrto Oikonomou",
+    "Carlo Pizzinelli",
+    "Ippei Shibata",
+    "Marina Mendes Tavares"
+   ],
+   "year": 2022,
+   "venue": "IMF Working Paper",
+   "status": "工作论文",
+   "url": "https://ideas.repec.org/p/imf/imfwpa/2022-195.html",
+   "abstract": "This paper investigates whether the COVID-19 recession led to an increase in demand for digital occupations in the United States. Using O*NET to capture the digital content of occupations, we find that regions that were hit harder by the COVID-19 recession experienced a larger increase in the share of digital occupations in both employment and newly-posted vacancies. This result is driven, however, by the smaller decline in demand for digital workers relative to non-digital ones, and not by an absolute increase in the demand for digital workers. While our evidence supports the view that digital workers, particularly those in urban areas and cognitive occupations, were more insulated during this recession, there is little indication of a persistent shift in the demand for digital occupations."
+  },
+  {
+   "title": "The Distributional Impacts of Worker Reallocation: Evidence from Europe",
+   "authors": [
+    "John C Bluedorn",
+    "Francesca Caselli",
+    "Niels-Jakob H Hansen",
+    "Ippei Shibata",
+    "Marina Mendes Tavares"
+   ],
+   "year": 2022,
+   "venue": "IMF Working Paper",
+   "status": "工作论文",
+   "url": "https://ideas.repec.org/p/imf/imfwpa/2022-124.html",
+   "abstract": "Using individual-level data for 30 European countries between 1983 and 2019, we document the extent and earning consequences of workers’ reallocation across occupations and industries and how these outcomes vary with individual-level characteristics, namely (i) education, (ii) gender, and (iii) age. We find that while young workers are more likely to experience earnings gains with on-the-job sectoral and occupational switches, low-skilled workers’ employment transitions are associated with an earnings loss. These differences in earnings gains and losses also mask a high degree of heterogeneity related to trends in routinization. We find that workers, particularly low-skilled and older workers during recessions, experience a severe earning penalty when switching occupations from non-routine to routine occupations."
+  },
+  {
+   "title": "Labor Market Tightness in Advanced Economies",
+   "authors": [
+    "Romain A Duval",
+    "Yi Ji",
+    "Longji Li",
+    "Myrto Oikonomou",
+    "Carlo Pizzinelli",
+    "Ippei Shibata",
+    "Alessandra Sozzi",
+    "Kirsi Silvennoinen",
+    "Marina Mendes Tavares"
+   ],
+   "year": 2022,
+   "venue": "IMF Staff Discussion Note",
+   "status": "工作论文",
+   "url": "https://ideas.repec.org/p/imf/imfsdn/2022-001.html",
+   "abstract": "Two years after the onset of the COVID-19 pandemic, a puzzle has emerged in several advanced economies: unfilled job vacancies have increased sharply even though employment has yet to fully recover. This note sheds light on three contributing factors, namely barriers to returning to work, changing worker preferences away from certain types of jobs, and sectoral and occupational job mismatch. The note also assesses the impact of labor market tightness on wage growth, showing that it has been large for low-pay jobs but milder overall. Bringing disadvantaged groups of workers into the labor force, including by controlling the pandemic itself, would ease labor market pressures while amplifying the recovery and making it more inclusive."
+  },
+  {
+   "title": "Greece's Investment Gap",
+   "authors": [
+    "Shiqing Hua",
+    "Marina Mendes Tavares",
+    "Xin Cindy Xu"
+   ],
+   "year": 2022,
+   "venue": "IMF Working Paper",
+   "status": "工作论文",
+   "url": "https://ideas.repec.org/p/imf/imfwpa/2022-013.html",
+   "abstract": "Greece’s investment rate plunged following the Sovereign Debt Crisis (SDC) and remained one of the lowest in the world in 2019. This paper explores recent investment dynamics and compares them against estimated benchmarks. Our results suggest that Greece has been under-investing since the SDC, with private investment notably lagging behind. The estimated investment gap ranges from 1.6–8 percent of GDP in 2019. Structural impediments have constrained corporate investment, while business cycle and balance sheet developments have held back household investment. Structural reforms are recommended to remove bottlenecks to corporate investment, improve efficiency of public investment, and boost household investment."
+  },
+  {
+   "title": "Epidemics, Gender, and Human Capital in Developing Countries",
+   "authors": [
+    "Stefania Fabrizio",
+    "Diego B. P. Gomes",
+    "Carine Meyimdjui",
+    "Marina Mendes Tavares"
+   ],
+   "year": 2021,
+   "venue": "IMF Working Paper",
+   "status": "工作论文",
+   "url": "https://ideas.repec.org/p/imf/imfwpa/2021-266.html",
+   "abstract": "Epidemics have disrupted lives for centuries with deleterious human capital and economic repercussions. In this paper, we investigate how epidemics episodes have impacted school dropouts in developing countries, considering 623 epidemics episodes across countries from 1970 to 2019. Our estimates show that, on average, epidemics reduce completion rates by about 2.6 and 2.1 percentage points in primary and lower secondary education respectively, with girls more severely affected than boys. Using detailed micro data for Senegal, we also estimate the potential loss of lifelong earnings and find that the potential labor earnings loss from dropping out of primary and secondary school is almost double for girls than for boys."
+  },
+  {
+   "title": "Rising Corporate Market Power: Emerging Policy Issues",
+   "authors": [
+    "Wenjie Chen",
+    "Federico J Diez",
+    "Romain A Duval",
+    "Philipp Engler",
+    "Jiayue Fan",
+    "Chiara Maggi",
+    "Marina Mendes Tavares",
+    "Daniel A Schwarz",
+    "Ippei Shibata",
+    "Carolina Villegas-Sánchez"
+   ],
+   "year": 2021,
+   "venue": "IMF Staff Discussion Note",
+   "status": "工作论文",
+   "url": "https://ideas.repec.org/p/imf/imfsdn/2021-001.html",
+   "abstract": "Corporate market power has risen in recent decades, and new estimates in this note suggest that the likely wave of small and medium-sized enterprise bankruptcies from the ongoing pandemic will further strengthen market concentration. Whether and how policymakers should address this issue is hotly debated. This note provides new evidence on the policy relevance of rising market power and highlights possible implications for the design of competition policy frameworks and macroeconomic policies."
+  },
+  {
+   "title": "COVID-19 She-Cession: The Employment Penalty of Taking Care of Young Children",
+   "authors": [
+    "Stefania Fabrizio",
+    "Marina Mendes Tavares"
+   ],
+   "year": 2021,
+   "venue": "IMF Working Paper",
+   "status": "工作论文",
+   "url": "https://ideas.repec.org/p/imf/imfwpa/2021-058.html",
+   "abstract": "The COVID-19 outbreak and the measures to contain the virus have caused severe disruptions to labor supply and demand worldwide. Understanding who is bearing the burden of the crisis and what drives it is crucial for designing policies going forward. Using the U.S. monthly Current Population Survey data, this paper analyzes differences in employment responses between men and women. The main finding is that less educated women with young children were the most adversely affected during the first nine months of the crisis.The loss of employment of women with young children due to the burden of additional childcare is estimated to account for 45 percent of the increase in the employment gender gap, and to reduce total output by 0.36 percent between April and November 2020."
+  },
+  {
+   "title": "Women in the Labor Force: The Role of Fiscal Policies",
+   "authors": [
+    "Anna Fruttero",
+    "Daniel Gurara",
+    "Lisa L Kolovich",
+    "Vivian Malta",
+    "Marina Mendes Tavares",
+    "Nino Tchelishvili",
+    "Stefania Fabrizio"
+   ],
+   "year": 2020,
+   "venue": "IMF Staff Discussion Note",
+   "status": "工作论文",
+   "url": "https://ideas.repec.org/p/imf/imfsdn/2020-003.html",
+   "abstract": "Despite the increase in female labor force participation over the past three decades, women still do not have the same opportunities as men to participate in economic activities in most countries. The average female labor force participation rate across countries is still 20 percentage points lower than the male rate, and gender gaps in wages and access to education persist. As shown by earlier work, including by the IMF, greater gender equality boosts economic growth and leads to better development and social outcomes. Gender equality is also one of the 17 United Nations Sustainable Development Goals that 193 countries committed to achieve by 2030."
+  },
+  {
+   "title": "A Quantitative Analysis of Female Employment in Senegal",
+   "authors": [
+    "Vivian Malta",
+    "Angelica Martinez",
+    "Marina Mendes Tavares"
+   ],
+   "year": 2019,
+   "venue": "IMF Working Paper",
+   "status": "工作论文",
+   "url": "https://ideas.repec.org/p/imf/imfwpa/2019-241.html",
+   "abstract": "Female-to-male employment in Senegal increased by 14 percentage points between 2006 and 2011. During the same period years of education of the working age population increased 27 percent for females and 13 percent for males, reducing gender gaps in education. In this paper, we quantitatively investigate the impact of this increase in education on female employment in Senegal. To that end, we build an overlapping generations model that captures barriers that women face over their life-cycle. Our main findings are: (i) the improvement in years of education can explain up to 44 percent of the observed increased in female-to-male employment ratio and (ii) the rest can be explained by a decline in the discrimination against women in the labor market."
+  },
+  {
+   "title": "Informality and Gender Gaps Going Hand in Hand",
+   "authors": [
+    "Vivian Malta",
+    "Lisa L Kolovich",
+    "Angelica Martinez",
+    "Marina Mendes Tavares"
+   ],
+   "year": 2019,
+   "venue": "IMF Working Paper",
+   "status": "工作论文",
+   "url": "https://ideas.repec.org/p/imf/imfwpa/2019-112.html",
+   "abstract": "In sub-Saharan Africa women work relatively more in the informal sector than men. Many factors could explain this difference, including women’s lower education levels, legal barriers, social norms and demographic characteristics. Cross-country comparisons indicate strong associations between gender gaps and higher female informality. This paper uses microdata from Senegal to assess the probability of a worker being informal, and our main findings are: (i) in urban areas, being a woman increases this probability by 8.5 percent; (ii) education is usually more relevant for women; (iii) having kids reduces men’s probability of being informal but increases women’s."
+  },
+  {
+   "title": "The Macroeconomic and Distributional Implications of Fiscal Consolidations in Low-income Countries",
+   "authors": [
+    "Adrian Peralta-Alva",
+    "Marina Mendes Tavares",
+    "Xuan S. Tam",
+    "Xin Tang"
+   ],
+   "year": 2018,
+   "venue": "IMF Working Paper",
+   "status": "工作论文",
+   "url": "https://ideas.repec.org/p/imf/imfwpa/2018-146.html",
+   "abstract": "We quantitatively investigate the macroeconomic and distributional impacts of fiscal consolidations in low-income countries (LICs) through value added tax (VAT), personal income tax (PIT), and corporate income tax (CIT). We extend the standard heterogeneous agents incomplete markets model by including multiple sectors and rural-urban distinction to capture salient features of LICs. We find that overall, VAT has the least efficiency costs but is highly regressive, while PIT impacts the economy in the opposite way with CIT staying in between. Cash transfers targeting rural households mitigate the negative distributional impacts of VAT most effectively, while public investment leads to little redistribution."
+  },
+  {
+   "title": "The Distribution of Gains from Globalization",
+   "authors": [
+    "Valentin F. Lang",
+    "Marina Mendes Tavares"
+   ],
+   "year": 2023,
+   "venue": "The Journal of Economic Inequality",
+   "status": "已发表",
+   "url": "https://doi.org/10.1007/s10888-023-09593-7",
+   "abstract": "We study economic globalization as a multidimensional process and investigate its effect on incomes. In a panel of 147 countries during 1970-2014, we apply a new instrumental variable, exploiting globalization’s geographically diffusive character, and find differential gains from globalization both across and within countries: Income gains are substantial for countries at early and medium stages of the globalization process, but the marginal returns diminish as globalization rises, eventually becoming insignificant. Within countries, these gains are concentrated at the top of national income distributions, resulting in rising inequality. We find that domestic policies can mitigate the adverse distributional effects of globalization."
+  },
+  {
+   "title": "Macro-Structural Policies and Income Inequality in Low-Income Developing Countries",
+   "authors": [
+    "Stefania Fabrizio",
+    "Davide Furceri",
+    "Rodrigo Garcia-Verdu",
+    "Grace B Li",
+    "Sandra Valentina Lizarazo",
+    "Marina Mendes Tavares",
+    "Futoshi Narita",
+    "Adrian Peralta-Alva"
+   ],
+   "year": 2017,
+   "venue": "IMF Staff Discussion Note",
+   "status": "工作论文",
+   "url": "https://ideas.repec.org/p/imf/imfsdn/2017-001.html",
+   "abstract": "Despite sustained economic growth and rapid poverty reductions, income inequality remains stubbornly high in many low-income developing countries. This pattern is a concern as high levels of inequality can impair the sustainability of growth and macroeconomic stability, thereby also limiting countries’ ability to reach the Sustainable Development Goals. This underscores the importance of understanding how policies aimed at boosting economic growth affect income inequality. Using empirical and modeling techniques, the note confirms that macro-structural policies aimed at raising growth payoffs in low-income developing countries can have important distributional consequences, with the impact dependent on both the design of reforms and on country-specific economic characteristics. While there is no one-size-fits-all recipe, the note explores how governments can address adverse distributional consequences of reforms by designing reform packages to make pro-growth policies also more inclusive."
+  }
+ ]
+}

@@ -1,0 +1,178 @@
+{
+ "slug": "augustus-panton",
+ "name": "Augustus Panton",
+ "sources": [
+  "https://www.imf.org/en/research/researcher-cv/author/panton-augustus",
+  "https://ideas.repec.org/p/imf/ (IMF WP/SDN pages for bylines)",
+  "https://api.crossref.org (title lookup for published versions and bylines)"
+ ],
+ "collected": "2026-11-06",
+ "notes": "IMF researcher CV (titles only) + IDEAS pages for IMF WP/SDN bylines; Crossref for bylines of other items. Country reports, G-20 notes, WEO chapters skipped. Staff Climate Note kept as working paper per series rule. Brookings paper and OREP article have different titles, both kept. Gender Lens AEA P&P listed as published (Crossref 2025).",
+ "papers": [
+  {
+   "title": "Key Challenges Faced by Fossil Fuel Exporters during the Energy Transition",
+   "authors": [
+    "Diego Mesa Puyo",
+    "Augustus Panton",
+    "Tarun Sridhar",
+    "Martin Stuermer",
+    "Christoph Ungerer",
+    "Alice Tianbo Zhang"
+   ],
+   "year": 2024,
+   "venue": "IMF Staff Climate Note",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Climate Change and Monetary Policy: Dealing with Disruption",
+   "authors": [
+    "Warwick J. McKibbin",
+    "Adele C. Morris",
+    "Augustus Panton",
+    "Peter J. Wilcoxen"
+   ],
+   "year": 2017,
+   "venue": "Brookings Climate and Energy Economics Discussion Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Climate Hysteresis and Monetary Policy",
+   "authors": [
+    "Augustus Panton"
+   ],
+   "year": 2020,
+   "venue": "CAMA Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Twenty-five Years of Inflation Targeting in Australia: Are There Better Alternatives for the Next Twenty-five Years?",
+   "authors": [
+    "Warwick J. McKibbin",
+    "Augustus Panton"
+   ],
+   "year": 2018,
+   "venue": "Reserve Bank of Australia conference volume",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Climate change and monetary policy: issues for policy design and modelling",
+   "authors": [
+    "Warwick J McKibbin",
+    "Adele C Morris",
+    "Peter J Wilcoxen",
+    "Augustus Panton"
+   ],
+   "year": 2020,
+   "venue": "Oxford Review of Economic Policy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1093/oxrep/graa040",
+   "abstract": null
+  },
+  {
+   "title": "A Gender Lens on Labor Market Exposure to AI",
+   "authors": [
+    "Mauro Cazzaniga",
+    "Augustus Panton",
+    "Longji Li",
+    "Carlo Pizzinelli",
+    "Marina M. Tavares"
+   ],
+   "year": 2025,
+   "venue": "AEA Papers and Proceedings",
+   "status": "已发表",
+   "url": "https://doi.org/10.1257/pandp.20251046",
+   "abstract": null
+  },
+  {
+   "title": "Energy security and the green transition",
+   "authors": [
+    "Jaden Kim",
+    "Florence Jaumotte",
+    "Augustus Panton",
+    "Gregor Schwerhoff"
+   ],
+   "year": 2025,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.enpol.2024.114409",
+   "abstract": null
+  },
+  {
+   "title": "Labor Market Exposure to AI: Cross-country Differences and Distributional Implications",
+   "authors": [
+    "Carlo Pizzinelli",
+    "Augustus Panton",
+    "Marina Mendes Tavares",
+    "Mauro Cazzaniga",
+    "Longji Li"
+   ],
+   "year": 2023,
+   "venue": "IMF Working Paper",
+   "status": "工作论文",
+   "url": "https://ideas.repec.org/p/imf/imfwpa/2023-216.html",
+   "abstract": "This paper examines the impact of Artificial Intelligence (AI) on labor markets in both Advanced Economies (AEs) and Emerging Markets (EMs). We propose an extension to a standard measure of AI exposure, accounting for AI's potential as either a complement or a substitute for labor, where complementarity reflects lower risks of job displacement. We analyze worker-level microdata from 2 AEs (US and UK) and 4 EMs (Brazil, Colombia, India, and South Africa), revealing substantial variations in unadjusted AI exposure across countries. AEs face higher exposure than EMs due to a higher employment share in professional and managerial occupations. However, when accounting for potential complementarity, differences in exposure across countries are more muted. Within countries, common patterns emerge in AEs and EMs. Women and highly educated workers face greater occupational exposure to AI, at both high and low complementarity. Workers in the upper tail of the earnings distribution are more likely to be in occupations with high exposure but also high potential complementarity."
+  },
+  {
+   "title": "Structural Reforms to Accelerate Growth, Ease Policy Trade-offs, and Support the Green Transition in Emerging Market and Developing Economies",
+   "authors": [
+    "Nina Budina",
+    "Christian H Ebeke",
+    "Florence Jaumotte",
+    "Andrea Medici",
+    "Augustus Panton",
+    "Marina Mendes Tavares",
+    "Bella Yao"
+   ],
+   "year": 2023,
+   "venue": "IMF Staff Discussion Note",
+   "status": "工作论文",
+   "url": "https://ideas.repec.org/p/imf/imfsdn/2023-007.html",
+   "abstract": "In the aftermath of the COVID-19 pandemic, emerging market and developing economies are grappling with economic scarring, social tension, and reduced policy space. Policy actions are already urgently needed to boost growth in the near term and support the ongoing green transition. At the same time, high public debt and persistently high inflation have constrained policy space, posing difficult policy trade-offs. This Staff Discussion Note focuses on emerging market and developing economies and proposes a framework for prioritization, packaging, and sequencing of macrostructural reforms to accelerate growth, alleviate policy trade-offs, and support the green transition. The note shows that prioritizing the removal of the most binding constraints on economic activity, bundling reforms (governance, business deregulation, and external sector reforms), and appropriate sequencing of other reforms (such as labor market and credit sector reforms) can help front-load reform gains. In emerging market and developing economies with large initial structural gaps, the estimated output effects of such a major reform package are sizable—about 4 percent in two years and 8 percent in four years. Achieving higher growth and lower absolute carbon emissions over time requires a well-designed strategy that includes both macrostructural and green reforms."
+  },
+  {
+   "title": "Gen-AI: Artificial Intelligence and the Future of Work",
+   "authors": [
+    "Mauro Cazzaniga",
+    "Florence Jaumotte",
+    "Longji Li",
+    "Giovanni Melina",
+    "Augustus Panton",
+    "Carlo Pizzinelli",
+    "Emma J Rockall",
+    "Marina Mendes Tavares"
+   ],
+   "year": 2024,
+   "venue": "IMF Staff Discussion Note",
+   "status": "工作论文",
+   "url": "https://ideas.repec.org/p/imf/imfsdn/2024-001.html",
+   "abstract": "Artificial Intelligence (AI) has the potential to reshape the global economy, especially in the realm of labor markets. Advanced economies will experience the benefits and pitfalls of AI sooner than emerging market and developing economies, largely due to their employment structure focused on cognitive-intensive roles. There are some consistent patterns concerning AI exposure, with women and college-educated individuals more exposed but also better poised to reap AI benefits, and older workers potentially less able to adapt to the new technology. Labor income inequality may increase if the complementarity between AI and high-income workers is strong, while capital returns will increase wealth inequality. However, if productivity gains are sufficiently large, income levels could surge for most workers. In this evolving landscape, advanced economies and more developed emerging markets need to focus on upgrading regulatory frameworks and supporting labor reallocation, while safeguarding those adversely affected. Emerging market and developing economies should prioritize developing digital infrastructure and digital skills"
+  },
+  {
+   "title": "Europe’s National-Level Structural Reform Priorities",
+   "authors": [
+    "Nina Budina",
+    "Oyun Erdene Adilbish",
+    "Diego A. Cerdeiro",
+    "Romain A Duval",
+    "Balázs Égert",
+    "Dmitriy Kovtun",
+    "Anh Thi Ngoc Nguyen",
+    "Augustus Panton",
+    "Michelle Tejada"
+   ],
+   "year": 2025,
+   "venue": "IMF Working Paper",
+   "status": "工作论文",
+   "url": "https://ideas.repec.org/p/imf/imfwpa/2025-104.html",
+   "abstract": "Europe has a large and persistent per capita income gap with the United States. Deficiencies in total factor productivity, labor utilization, and capital intensity all play a role. While deeper intra-Europe integration is one key element towards closing these gaps, remaining structural domestic policy gaps with respect to most growth-friendly regulatory settings highlight the scope for complementary policy action at the national level. This paper compiles IMF staff’s structural policy priorities for European countries to lift output over the medium term, reviews key implementation challenges, and discusses complementarities with EU-level efforts. While addressing these domestic reform priorities will require overcoming long-standing political economy and—in some cases—technical obstacles to reform, successful implementation could entail sizeable medium-term gains of around 5, 7 and 9 percent for advanced European, Central Eastern and Southeastern European, and Western Balkan economies, respectively."
+  }
+ ]
+}

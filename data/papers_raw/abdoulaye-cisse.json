@@ -1,0 +1,83 @@
+{
+ "slug": "abdoulaye-cisse",
+ "name": "Abdoulaye Cissé",
+ "sources": [
+  "https://www.acisse.com/research",
+  "https://drive.google.com/file/d/1qAEvh3xzMCqyeM4ZMnwyn_kC2WGbzujU/view"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Homepage research page and CV (CV lists 3 publications, 2 working papers). Page/CV give only '(with ...)' coauthor lists: where the listed coauthors are not alphabetical the listed order is kept with Cisse first; otherwise surname-alphabetical (inferred). Page gives no years for working papers; 2026 (CV/page date, AAEA 2026 award on CV) used. 'Service Quality, Affordability and Electricity Fraud' skipped (draft coming soon). Onion paper title taken from the CV (page title differs). JDE title: page says 'Land Cultivation', CV says 'Land Use'; page version used. People and Nature year 2026 per Englander's page (vol 8(10)); Cisse's page says March 2025 online.",
+ "papers": [
+  {
+   "title": "Irrigation Infrastructure and Satellite-Measured Land Cultivation Impacts: Evidence from the Senegal River Valley",
+   "authors": [
+    "Abdoulaye Cissé",
+    "Alain de Janvry",
+    "Joel Ferguson",
+    "Samba Mbaye",
+    "Marco Gonzalez-Navarro",
+    "Elisabeth Sadoulet",
+    "Mame Mor Anta Syll"
+   ],
+   "year": 2026,
+   "venue": "Journal of Development Economics",
+   "status": "已发表",
+   "url": "https://drive.google.com/file/d/1Gz9bUVVWhzwLpg7Y8PaQC-B8MjXeNzDU/view?usp=sharing",
+   "abstract": null
+  },
+  {
+   "title": "How to Fund Unemployment Insurance with Informality and False Claims: Evidence from Senegal",
+   "authors": [
+    "Abdoulaye Cissé",
+    "Abdoulaye Ndiaye",
+    "Alessandro Dell'Acqua",
+    "Kyle Herkenhoff",
+    "Ahmadou Aly Mbaye"
+   ],
+   "year": 2025,
+   "venue": "Journal of Monetary Economics",
+   "status": "已发表",
+   "url": "https://drive.google.com/file/d/1yRGAvF4PriJO5Drn00WIkDgooiiCL6N7/view?usp=drive_link",
+   "abstract": null
+  },
+  {
+   "title": "Conserving Wildlife through Demand Reduction and Supply Alternatives: Two Experiments in Restaurants in Kinshasa",
+   "authors": [
+    "Abdoulaye Cissé",
+    "Gabriel Englander",
+    "Daniel J. Ingram"
+   ],
+   "year": 2026,
+   "venue": "People and Nature",
+   "status": "已发表",
+   "url": "https://besjournals.onlinelibrary.wiley.com/doi/10.1002/pan3.70023",
+   "abstract": null
+  },
+  {
+   "title": "The Value of Electricity Reliability: Evidence from a Natural Experiment in Senegal",
+   "authors": [
+    "Abdoulaye Cissé"
+   ],
+   "year": 2026,
+   "venue": "American Economic Review",
+   "status": "修改重投",
+   "url": "https://drive.google.com/file/d/1fQPQAw4bACvJITv08UjpcRwKqeS3cXT_/view?usp=sharing",
+   "abstract": null
+  },
+  {
+   "title": "Policy Targeting and Trade-offs in Complex Value Chains: Evidence from Senegal's Domestic Onion Market",
+   "authors": [
+    "Abdoulaye Cissé",
+    "Alain de Janvry",
+    "Elisabeth Sadoulet",
+    "Mame Mor Anta Syll",
+    "Carly Trachtman"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://drive.google.com/file/d/1KTdQzY9G25NZshVDAQbEOgrCWEAyyBhV/view?usp=sharing",
+   "abstract": null
+  }
+ ]
+}

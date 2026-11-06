@@ -1,0 +1,117 @@
+{
+ "slug": "deepa-dhume-datta",
+ "name": "Deepa Dhume Datta",
+ "sources": [
+  "https://www.federalreserve.gov/econres/deepa-dhume-datta.htm"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Fed Board profile lists coauthors without showing Datta's position, so her place in multi-author bylines (JEL, IFDP 1216) is a best guess; two/three-author items put Datta first (also a guess). FEDS Notes and FRBSF Economic Letter skipped; IFDP/FRB WP versions dropped when published.",
+ "papers": [
+  {
+   "title": "Gender Gaps in the Federal Reserve System",
+   "authors": [
+    "Deepa Dhume Datta",
+    "Nitzan Tzur-Ilan"
+   ],
+   "year": 2025,
+   "venue": "Journal of Economic Behavior & Organization",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jebo.2025.107040",
+   "abstract": null
+  },
+  {
+   "title": "Measuring Inclusion: Gender and Coauthorship at the Federal Reserve Board",
+   "authors": [
+    "Deepa Dhume Datta",
+    "Robert J. Vigfusson"
+   ],
+   "year": 2024,
+   "venue": "Finance and Economics Discussion Series (FEDS)",
+   "status": "工作论文",
+   "url": "https://doi.org/10.17016/FEDS.2024.091",
+   "abstract": null
+  },
+  {
+   "title": "What Is Certain about Uncertainty?",
+   "authors": [
+    "Danilo Cascaldi-Garcia",
+    "Cisil Sarisoy",
+    "Juan M. Londono",
+    "Bo Sun",
+    "Deepa Dhume Datta",
+    "Thiago Ferreira",
+    "Olesya Grishchenko",
+    "Mohammad R. Jahan-Parvar",
+    "Francesca Loria",
+    "Sai Ma",
+    "Marius Rodriguez",
+    "Ilknur Zer",
+    "John Rogers"
+   ],
+   "year": 2023,
+   "venue": "Journal of Economic Literature",
+   "status": "已发表",
+   "url": "https://doi.org/10.1257/jel.20211645",
+   "abstract": null
+  },
+  {
+   "title": "Oil, Equities, and the Zero Lower Bound",
+   "authors": [
+    "Deepa Dhume Datta",
+    "Benjamin K. Johannsen",
+    "Hannah Kwon",
+    "Robert J. Vigfusson"
+   ],
+   "year": 2021,
+   "venue": "American Economic Journal: Macroeconomics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1257/mac.20180488",
+   "abstract": null
+  },
+  {
+   "title": "Taxonomy of Global Risk, Uncertainty, and Volatility Measures",
+   "authors": [
+    "Juan M. Londono",
+    "Bo Sun",
+    "Daniel Beltran",
+    "Deepa Dhume Datta",
+    "Thiago Ferreira",
+    "Matteo Iacoviello",
+    "Mohammad R. Jahan-Parvar",
+    "Canlin Li",
+    "Marius Rodriguez",
+    "John Rogers"
+   ],
+   "year": 2017,
+   "venue": "International Finance Discussion Papers (IFDP)",
+   "status": "工作论文",
+   "url": "https://doi.org/10.17016/IFDP.2017.1216",
+   "abstract": null
+  },
+  {
+   "title": "Generating Options-Implied Probability Densities to Understand Oil Market Events",
+   "authors": [
+    "Deepa Dhume Datta",
+    "Juan M. Londono",
+    "Landon J. Ross"
+   ],
+   "year": 2017,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.eneco.2016.01.006",
+   "abstract": null
+  },
+  {
+   "title": "Nonparametric HAC Estimation for Time Series Data with Missing Observations",
+   "authors": [
+    "Deepa Dhume Datta",
+    "Wenxin Du"
+   ],
+   "year": 2012,
+   "venue": "International Finance Discussion Papers (IFDP)",
+   "status": "工作论文",
+   "url": "https://doi.org/10.17016/IFDP.2012.1060",
+   "abstract": null
+  }
+ ]
+}

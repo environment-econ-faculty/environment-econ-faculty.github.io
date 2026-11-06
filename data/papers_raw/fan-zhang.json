@@ -1,0 +1,319 @@
+{
+ "slug": "fan-zhang",
+ "name": "Fan Zhang",
+ "sources": [
+  "https://search.worldbank.org/api/v3/wds",
+  "https://api.crossref.org"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Built from the World Bank documents database (Policy Research Working Paper series; matched on author \"Zhang, Fan\") plus Crossref DOI metadata for published versions, which are listed only as published. No personal site/CV or RePEc author page found; journal articles that never appeared as a PRWP may be missing. Not OpenAlex/Google Scholar.",
+ "papers": [
+  {
+   "title": "Combining remote sensing and cell-phone users’ mobility data to monitor the impact of transportation on NO 2 concentrations in India",
+   "authors": [
+    "Corbett Grainger",
+    "Adam Theising",
+    "Fan Zhang"
+   ],
+   "year": 2026,
+   "venue": "Environmental Research Communications",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Weather, Water, and Work: Climatic Water Variability and Labor Market Outcomes in Sub-Saharan Africa",
+   "authors": [
+    "Amjad Muhammad Khan",
+    "Landry Kuate",
+    "Roland Pongou",
+    "Fan Zhang"
+   ],
+   "year": 2024,
+   "venue": "World Bank Policy Research Working Paper",
+   "status": "工作论文",
+   "url": "http://documents.worldbank.org/curated/en/099001406262413234",
+   "abstract": null
+  },
+  {
+   "title": "Does Africa Need More Roads in the Digital Age? Evidence of Complementarities in Infrastructure",
+   "authors": [
+    "Mathilde Sylvie Maria Lebrand",
+    "Arcady Mongoue",
+    "Roland Pongou",
+    "Fan Zhang"
+   ],
+   "year": 2024,
+   "venue": "World Bank Policy Research Working Paper",
+   "status": "工作论文",
+   "url": "http://documents.worldbank.org/curated/en/099205403212436510",
+   "abstract": null
+  },
+  {
+   "title": "Understanding the challenge of decoupling transport-related CO2 emissions from economic growth in developing countries",
+   "authors": [
+    "Vivien Foster",
+    "Jennifer Uju Dim",
+    "Sebastian Vollmer",
+    "Fan Zhang"
+   ],
+   "year": 2023,
+   "venue": "World Development Sustainability",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Roads, Electricity, and Jobs: Evidence of Infrastructure Complementarity in Sub-Saharan Africa",
+   "authors": [
+    "Mansoureh Abbasi",
+    "Mathilde Sylvie Maria Lebrand",
+    "Arcady Bluette Mongoue",
+    "Roland Pongou",
+    "Fan Zhang"
+   ],
+   "year": 2022,
+   "venue": "World Bank Policy Research Working Paper",
+   "status": "工作论文",
+   "url": "http://documents.worldbank.org/curated/en/970271647884335950",
+   "abstract": null
+  },
+  {
+   "title": "The Role of Government in the Market for Electric Vehicles: Evidence from China",
+   "authors": [
+    "Shanjun Li",
+    "Xianglei Zhu",
+    "Yiding Ma",
+    "Fan Zhang",
+    "Hui Zhou"
+   ],
+   "year": 2022,
+   "venue": "Journal of Policy Analysis and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Global Diffusion of Electric Vehicles: Lessons from the First Decade",
+   "authors": [
+    "Shanjun Li",
+    "Binglin Wang",
+    "Muxi Yang",
+    "Fan Zhang"
+   ],
+   "year": 2021,
+   "venue": "World Bank Policy Research Working Paper",
+   "status": "工作论文",
+   "url": "http://documents.worldbank.org/curated/en/225111639490843204",
+   "abstract": null
+  },
+  {
+   "title": "Transportation and the Environment: A Review of Empirical Literature",
+   "authors": [
+    "Shanjun Li",
+    "Jianwei Xing",
+    "Lin Yang",
+    "Fan Zhang"
+   ],
+   "year": 2020,
+   "venue": "World Bank Policy Research Working Paper",
+   "status": "工作论文",
+   "url": "http://documents.worldbank.org/curated/en/909931601918368631",
+   "abstract": null
+  },
+  {
+   "title": "Electrification and Women's Empowerment: Evidence from Rural India",
+   "authors": [
+    "Hussain A. Samad",
+    "Fan Zhang"
+   ],
+   "year": 2019,
+   "venue": "World Bank Policy Research Working Paper",
+   "status": "工作论文",
+   "url": "http://documents.worldbank.org/curated/en/112131553786901131",
+   "abstract": null
+  },
+  {
+   "title": "The relationship between energy intensity and economic growth: New evidence from a multi-country multi-sectorial dataset",
+   "authors": [
+    "Uwe Deichmann",
+    "Anna Reuter",
+    "Sebastian Vollmer",
+    "Fan Zhang"
+   ],
+   "year": 2019,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Electricity shortages and manufacturing productivity in Pakistan",
+   "authors": [
+    "Corbett A. Grainger",
+    "Fan Zhang"
+   ],
+   "year": 2019,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Electrification and Household Welfare: Evidence from Pakistan",
+   "authors": [
+    "Hussain A. Samad",
+    "Fan Zhang"
+   ],
+   "year": 2018,
+   "venue": "World Bank Policy Research Working Paper",
+   "status": "工作论文",
+   "url": "http://documents.worldbank.org/curated/en/585231536778611429",
+   "abstract": null
+  },
+  {
+   "title": "Does energy efficiency promote economic growth? Evidence from a multicountry and multisectoral panel dataset",
+   "authors": [
+    "Ashish Rajbhandari",
+    "Fan Zhang"
+   ],
+   "year": 2018,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Whose power gets cut? using high-frequency satellite images to measure power supply irregularity",
+   "authors": [
+    "Brian Min",
+    "Zachary O'Keeffe",
+    "Fan Zhang"
+   ],
+   "year": 2017,
+   "venue": "World Bank Policy Research Working Paper",
+   "status": "工作论文",
+   "url": "http://documents.worldbank.org/curated/en/125911498758273922",
+   "abstract": null
+  },
+  {
+   "title": "Heterogeneous effects of rural electrification: evidence from Bangladesh",
+   "authors": [
+    "Hussain A. Samad",
+    "Fan Zhang"
+   ],
+   "year": 2017,
+   "venue": "World Bank Policy Research Working Paper",
+   "status": "工作论文",
+   "url": "http://documents.worldbank.org/curated/en/904491497275742546",
+   "abstract": null
+  },
+  {
+   "title": "Energy prices and international trade: incorporating input-output linkages",
+   "authors": [
+    "H. Ron Chan",
+    "Edward John Matlock Manderson",
+    "Fan Zhang"
+   ],
+   "year": 2017,
+   "venue": "World Bank Policy Research Working Paper",
+   "status": "工作论文",
+   "url": "http://documents.worldbank.org/curated/en/984751496166477456",
+   "abstract": null
+  },
+  {
+   "title": "Benefits of electrification and the role of reliability: evidence from India",
+   "authors": [
+    "Hussain A. Samad",
+    "Fan Zhang"
+   ],
+   "year": 2016,
+   "venue": "World Bank Policy Research Working Paper",
+   "status": "工作论文",
+   "url": "http://documents.worldbank.org/curated/en/980911479147772730",
+   "abstract": null
+  },
+  {
+   "title": "Rate of return regulation and emission permits trading under uncertainty",
+   "authors": [
+    "Fan Zhang",
+    "Tao Huang"
+   ],
+   "year": 2015,
+   "venue": "World Bank Policy Research Working Paper",
+   "status": "工作论文",
+   "url": "http://documents.worldbank.org/curated/en/845301468189854020",
+   "abstract": null
+  },
+  {
+   "title": "How fit are feed-in tariff policies? evidence from the European wind market",
+   "authors": [
+    "Fan Zhang"
+   ],
+   "year": 2013,
+   "venue": "World Bank Policy Research Working Paper",
+   "status": "工作论文",
+   "url": "http://documents.worldbank.org/curated/en/270621468251374183",
+   "abstract": null
+  },
+  {
+   "title": "Firm competitiveness and the European Union emissions trading scheme",
+   "authors": [
+    "Hei Sing (Ron) Chan",
+    "Shanjun Li",
+    "Fan Zhang"
+   ],
+   "year": 2013,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The energy transition of the transition economies: An empirical analysis",
+   "authors": [
+    "Fan Zhang"
+   ],
+   "year": 2013,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Climate change policies and employment in Eastern Europe and Central Asia",
+   "authors": [
+    "Isil Oral Savonitto",
+    "Indhira Vanessa Santos",
+    "Fan Zhang"
+   ],
+   "year": 2012,
+   "venue": "World Bank Policy Research Working Paper",
+   "status": "工作论文",
+   "url": "http://documents.worldbank.org/curated/en/733431468030292356",
+   "abstract": null
+  },
+  {
+   "title": "Distributional impact analysis of the energy price reform in Turkey",
+   "authors": [
+    "Fan Zhang"
+   ],
+   "year": 2011,
+   "venue": "World Bank Policy Research Working Paper",
+   "status": "工作论文",
+   "url": "http://documents.worldbank.org/curated/en/518651468121740434",
+   "abstract": null
+  },
+  {
+   "title": "Does uncertainty matter? A stochastic dynamic analysis of bankable emission permit trading for global climate change policy",
+   "authors": [
+    "Fan Zhang"
+   ],
+   "year": 2007,
+   "venue": "World Bank Policy Research Working Paper",
+   "status": "工作论文",
+   "url": "http://documents.worldbank.org/curated/en/616411468141892391",
+   "abstract": null
+  }
+ ]
+}

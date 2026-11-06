@@ -1,0 +1,1432 @@
+{
+ "slug": "govinda-timilsina",
+ "name": "Govinda R. Timilsina",
+ "sources": [
+  "https://thedocs.worldbank.org/en/doc/f45a18e91ff80aa84657484904c53030-0050022025/original/Timilsina-CV-June-2025.docx",
+  "https://ideas.repec.org/e/pti63.html",
+  "https://sites.google.com/site/govindartimilsina/"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Main source: June-2025 CV (Selected Publications: journal articles and chapters; books/guidebooks skipped) plus his RePEc/IDEAS page (bylines for several items, 2024-26 papers, and recent unpublished World Bank PRWPs; PRWPs that later appeared as journal articles were dropped). The CV gives only '(with ...)' lists with no stated order: bylines taken from IDEAS where available, otherwise inferred (surname-alphabetical when the listed coauthors are alphabetical, else Timilsina first) - treat order as approximate. CV states years for few items; years inferred from volume/DOI where missing (e.g. WBRO urban road externalities listed as 2011). 'Regional Electricity Trade for Hydropower Development in South Asia' and several others list no coauthors in the CV (entered as sole author). The CV 'Energy Demand' handbook chapter and 'Targeted Technology Strategies' chapter have no year -> skipped. CV is 'selected', so list may be incomplete; Energy Policy 2026 'Household cooking in Nepal' added from IDEAS (not in CV).",
+ "papers": [
+  {
+   "title": "Household cooking in Nepal: An economic analysis",
+   "authors": [
+    "Sunil Malla",
+    "Govinda R. Timilsina",
+    "Martin P. Heger"
+   ],
+   "year": 2026,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic and policy analysis of cleaner technologies for brick production in Nepal",
+   "authors": [
+    "Govinda R. Timilsina",
+    "Sunil Malla",
+    "Martin Heger"
+   ],
+   "year": 2025,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Infrastructure Inequality across Indian States: Role of Economic, Social, Institutional, and Political Factors",
+   "authors": [
+    "Govinda R. Timilsina",
+    "Pravakar Sahoo",
+    "Ranjan Kumar Dash"
+   ],
+   "year": 2025,
+   "venue": "Asian Development Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Price-Based Mechanisms for Climate Change Mitigation",
+   "authors": [
+    "Govinda R. Timilsina",
+    "Sunil Malla"
+   ],
+   "year": 2025,
+   "venue": "Journal of Development Perspectives",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How Can a Carbon Tax be Designed to Benefit the Poor? An Investigation for Ethiopia",
+   "authors": [
+    "Govinda R. Timilsina",
+    "Samuel Sebsibie"
+   ],
+   "year": 2025,
+   "venue": "Renewable and Sustainable Energy Reviews",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic Impacts of Meeting China's NDC through Carbon Taxes with Alternative Schemes for Recycling Tax Revenues",
+   "authors": [
+    "Govinda R. Timilsina",
+    "Jun Pang",
+    "Yuanhua Chang"
+   ],
+   "year": 2024,
+   "venue": "Resources, Conservation & Recycling",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Regional Electricity Trade in Latin America Without Expanding Generation Capacities",
+   "authors": [
+    "Govinda R. Timilsina",
+    "Ilka Fabiana Deluque Curiel",
+    "Debabrata Chattopadhyay"
+   ],
+   "year": 2026,
+   "venue": "Economics of Energy & Environmental Policy",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How Can a Carbon Tax Benefit Developing Economies with Informality? A CGE Analysis for Côte d'Ivoire",
+   "authors": [
+    "Govinda R. Timilsina",
+    "Yazid Dissou",
+    "Michael Toman",
+    "Dirk Heine"
+   ],
+   "year": 2024,
+   "venue": "Climate Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Global UN 2030 Agenda: How can Science, Technology and Innovation accelerate the achievement of Sustainable Development Goals for All?",
+   "authors": [
+    "Govinda R. Timilsina",
+    "Ademola A. Adenle",
+    "Hans De Steur",
+    "Caroline Mwongera",
+    "Fay Rola-Rubzen",
+    "Marcia Dutra de Barcellos",
+    "David F. Vivanco",
+    "Cristina Possas",
+    "Robyn Alders",
+    "Marian Chertow",
+    "Simon Poons",
+    "Bob Scholes"
+   ],
+   "year": 2024,
+   "venue": "PLOS Sustainable Transformation",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Subsidy Removal, Regional Trade and CO2 Mitigation in the Electricity Sector in the Middle East and North Africa Region",
+   "authors": [
+    "Govinda R. Timilsina",
+    "Ilka Fabiana Deluque Curiel"
+   ],
+   "year": 2023,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Physical Infrastructure and Economic Growth",
+   "authors": [
+    "Govinda R. Timilsina",
+    "David I. Stern",
+    "Debasish Kumar Das"
+   ],
+   "year": 2024,
+   "venue": "Applied Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do Investments in Clean Technologies Reduce Production Costs? Insights from the Literature",
+   "authors": [
+    "Govinda R. Timilsina",
+    "Sunil Malla"
+   ],
+   "year": 2023,
+   "venue": "Economics of Energy & Environmental Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Factors driving aggregate service sector energy intensities in Asia and Eastern Europe: A LMDI analysis",
+   "authors": [
+    "Govinda R. Timilsina",
+    "Jianda Wang",
+    "Kangyin Dong",
+    "Gal Hochman"
+   ],
+   "year": 2023,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Economics of Deploying Distributed Solar Photovoltaics in Developing Countries: Some Insights from an Analysis for Bangladesh",
+   "authors": [
+    "Govinda R. Timilsina"
+   ],
+   "year": 2022,
+   "venue": "Energy for Sustainable Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How Valuable is the Reliability of Residential Electricity Supply in Low-Income Countries? Evidence from Nepal",
+   "authors": [
+    "Anna Alberini",
+    "Jevgenijs Steinbuks",
+    "Govinda R. Timilsina"
+   ],
+   "year": 2022,
+   "venue": "The Energy Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Carbon Taxes",
+   "authors": [
+    "Govinda R. Timilsina"
+   ],
+   "year": 2022,
+   "venue": "Journal of Economic Literature",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Are Renewable Energy Technologies Cost Competitive for Electricity Generation?",
+   "authors": [
+    "Govinda R. Timilsina"
+   ],
+   "year": 2021,
+   "venue": "Renewable Energy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Macroeconomic Impacts of Power Sector Reforms in China",
+   "authors": [
+    "Govinda R. Timilsina",
+    "Jun Pang",
+    "Xi Yang"
+   ],
+   "year": 2021,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Enhancing the Quality of Climate Policy Analysis in China: Linking Bottom-up and Top-Down Models",
+   "authors": [
+    "Govinda R. Timilsina",
+    "Jun Pang",
+    "Xi Yang"
+   ],
+   "year": 2021,
+   "venue": "Renewable and Sustainable Energy Reviews",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Bus Rapid Transit versus Road Expansion to Alleviate Congestion: A General Equilibrium Comparison",
+   "authors": [
+    "Alex Anas",
+    "Sayan Sarkar",
+    "Govinda R. Timilsina"
+   ],
+   "year": 2021,
+   "venue": "Economics of Transportation",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How would an emissions trading scheme affect provincial economies in China: Insights from a computable general equilibrium model",
+   "authors": [
+    "Jun Pang",
+    "Govinda R. Timilsina"
+   ],
+   "year": 2021,
+   "venue": "Renewable and Sustainable Energy Reviews",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic costs of electricity load shedding in Nepal",
+   "authors": [
+    "Jevgenijs Steinbuks",
+    "Govinda R. Timilsina"
+   ],
+   "year": 2021,
+   "venue": "Renewable and Sustainable Energy Reviews",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Financing Climate Change Adaptation: International Initiatives",
+   "authors": [
+    "Govinda R. Timilsina"
+   ],
+   "year": 2021,
+   "venue": "Sustainability",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Clean Cooking: Why is Adoption Slow Despite Large Health and Environmental Benefits?",
+   "authors": [
+    "Govinda R. Timilsina",
+    "Sunil Malla"
+   ],
+   "year": 2021,
+   "venue": "Economics of Energy & Environmental Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Understanding the economic impact of interacting carbon pricing and renewable energy policy in China",
+   "authors": [
+    "Ying Fan",
+    "Govinda R. Timilsina",
+    "Jie Wu",
+    "Yan Xia"
+   ],
+   "year": 2020,
+   "venue": "Regional Environmental Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economics of energy subsidy reforms in Bangladesh",
+   "authors": [
+    "Sheoli Pargal",
+    "Govinda R. Timilsina"
+   ],
+   "year": 2020,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do Drivers of CO2 Emission Growth Alter Overtime and by the Stage of Economic Development?",
+   "authors": [
+    "Kangyin Dong",
+    "Gal Hochman",
+    "Govinda R. Timilsina"
+   ],
+   "year": 2020,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Macroeconomic and Distributional Impacts of Jatropha-based Biodiesel in Mali",
+   "authors": [
+    "Dorothée Boccanfuso",
+    "Massa Coulibaly",
+    "Luc Savard",
+    "Govinda R. Timilsina"
+   ],
+   "year": 2019,
+   "venue": "Economies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Regional Electricity Trade for Hydropower Development in South Asia",
+   "authors": [
+    "Govinda R. Timilsina"
+   ],
+   "year": 2018,
+   "venue": "International Journal of Water Resources Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Carbon Tax for Achieving China's NDC: Simulations of Some Design Features using a CGE Model",
+   "authors": [
+    "Jing Cao",
+    "Mun Ho",
+    "Govinda R. Timilsina"
+   ],
+   "year": 2018,
+   "venue": "Climate Change Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Carbon Pricing for Climate Change Mitigation",
+   "authors": [
+    "Govinda R. Timilsina"
+   ],
+   "year": 2018,
+   "venue": "CAB Reviews",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Assessment of long-term sustainable end-use energy demand in Romania",
+   "authors": [
+    "Govinda R. Timilsina",
+    "Sunil Malla"
+   ],
+   "year": 2019,
+   "venue": "International Journal of Sustainable Energy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Carbon Pricing and Cross-Border Electricity Trading for Climate Change Mitigation in South Asia",
+   "authors": [
+    "Govinda R. Timilsina",
+    "Michael Toman"
+   ],
+   "year": 2018,
+   "venue": "Economics of Energy & Environmental Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Development of marginal abatement cost curves for the building sector in Armenia and Georgia",
+   "authors": [
+    "Govinda R. Timilsina",
+    "Anna Sikharulidze",
+    "Eduard Karapoghosyan",
+    "Suren Shatvoryan"
+   ],
+   "year": 2017,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Energy Efficiency Barriers in Commercial and Industrial Firms in Ukraine: An Empirical Analysis",
+   "authors": [
+    "Gal Hochman",
+    "Govinda R. Timilsina"
+   ],
+   "year": 2017,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Economics of Greening Romania's Energy Supply System",
+   "authors": [
+    "Erika Jorgensen",
+    "Govinda R. Timilsina"
+   ],
+   "year": 2018,
+   "venue": "Mitigation and Adaptation Strategies for Global Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Quarter Century Effort Yet to Come of Age: A Survey of Electricity Sector Reform in Developing Countries",
+   "authors": [
+    "Tooraj Jamasb",
+    "Rabindra Nepal",
+    "Govinda R. Timilsina"
+   ],
+   "year": 2017,
+   "venue": "The Energy Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Potential Gains from Expanding Regional Electricity Trade in South Asia",
+   "authors": [
+    "Govinda R. Timilsina",
+    "Michael Toman"
+   ],
+   "year": 2016,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Will global convergence of per-capita emissions lead the way to meeting the UNFCCC goal?",
+   "authors": [
+    "Govinda R. Timilsina"
+   ],
+   "year": 2016,
+   "venue": "Carbon Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Filling the Gaps: Policy Supports and Interventions for Scaling up Renewable Energy Development in Small Island Developing States",
+   "authors": [
+    "Kalim Shah",
+    "Govinda R. Timilsina"
+   ],
+   "year": 2016,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Understanding energy efficiency barriers in Ukraine: Insights from a survey of commercial and industrial firms",
+   "authors": [
+    "Govinda R. Timilsina",
+    "Gal Hochman",
+    "Iryna Fedets"
+   ],
+   "year": 2016,
+   "venue": "Energy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Producing biodiesel from soybeans in Zambia: An economic analysis",
+   "authors": [
+    "Dusan Drabik",
+    "Harry de Gorter",
+    "Govinda R. Timilsina"
+   ],
+   "year": 2016,
+   "venue": "Food Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Oil prices and the global economy: A general equilibrium analysis",
+   "authors": [
+    "Govinda R. Timilsina"
+   ],
+   "year": 2015,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The economics of Brazil's ethanol-Sugar markets, mandates, and tax exemptions",
+   "authors": [
+    "Dusan Drabik",
+    "Harry de Gorter",
+    "David R. Just",
+    "Govinda R. Timilsina"
+   ],
+   "year": 2015,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Offsetting the CO2 locked-in by roads: Suburban transit and core densification as antidotes",
+   "authors": [
+    "Alex Anas",
+    "Govinda R. Timilsina"
+   ],
+   "year": 2015,
+   "venue": "Economics of Transportation",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Demand Side Instruments to Reduce Road Transportation Externalities in the Greater Cairo Metropolitan Area",
+   "authors": [
+    "Ian W. H. Parry",
+    "Govinda R. Timilsina"
+   ],
+   "year": 2015,
+   "venue": "International Journal of Sustainable Transportation",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Effect of Biodiesel Policies on World Biodiesel and Oilseed Prices",
+   "authors": [
+    "Dusan Drabik",
+    "Harry de Gorter",
+    "Govinda R. Timilsina"
+   ],
+   "year": 2014,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Quantifying the Causes of the Global Food Commodity Price Crisis",
+   "authors": [
+    "Gal Hochman",
+    "Deepak Rajagopal",
+    "Govinda R. Timilsina",
+    "David Zilberman"
+   ],
+   "year": 2014,
+   "venue": "Biomass & Bioenergy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Effect of Brazilian Policies on Ethanol Market Prices",
+   "authors": [
+    "Govinda R. Timilsina",
+    "Harry de Gorter",
+    "Dusan Drabik",
+    "Erika M. Kliauga"
+   ],
+   "year": 2013,
+   "venue": "Biofuels",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic Implications of Reducing Carbon Emissions from Energy Use and Industrial Processes in Brazil",
+   "authors": [
+    "Y.-H. Chen",
+    "F. Landis",
+    "Govinda R. Timilsina"
+   ],
+   "year": 2013,
+   "venue": "Journal of Environmental Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Global Wind Power Development: Economics and Policies",
+   "authors": [
+    "G. C. van Kooten",
+    "P. A. Narbel",
+    "Govinda R. Timilsina"
+   ],
+   "year": 2013,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Biofuels in the Long-run Global Energy Supply Mix for Transportation",
+   "authors": [
+    "Govinda R. Timilsina"
+   ],
+   "year": 2013,
+   "venue": "Philosophical Transactions of the Royal Society A",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Transaction costs analysis of low-carbon technologies",
+   "authors": [
+    "Govinda R. Timilsina",
+    "L. Mundaca",
+    "M. Mansoz",
+    "L. Neij"
+   ],
+   "year": 2013,
+   "venue": "Climate Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Biofuels and Climate Change Mitigation: A CGE Analysis Incorporating Land-Use Change",
+   "authors": [
+    "Simon Mevel",
+    "Govinda R. Timilsina"
+   ],
+   "year": 2013,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Impact of Biofuels on Commodity Food Prices: Assessment of Findings",
+   "authors": [
+    "Govinda R. Timilsina",
+    "David Zilberman",
+    "Gal Hochman",
+    "Deepak Rajagopal",
+    "Steve Sexton"
+   ],
+   "year": 2013,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economy-wide Impacts of Biofuels in Argentina",
+   "authors": [
+    "Omar O. Chisari",
+    "Carlos A. Romero",
+    "Govinda R. Timilsina"
+   ],
+   "year": 2013,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How Will the EU's Cap on Crop-based Biofuels Impact the Future of Biofuels?",
+   "authors": [
+    "Govinda R. Timilsina"
+   ],
+   "year": 2013,
+   "venue": "Biofuels",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Biofuels Development in China: Technology Options and Policies Needed to Meet the 2020 Target",
+   "authors": [
+    "Govinda R. Timilsina",
+    "Shiyan Chang",
+    "Lili Zhao",
+    "Xiliang Zhang"
+   ],
+   "year": 2012,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Providing Numbers for a Food versus Fuel Debate: An Analysis of a Future Biofuel Production Scenario",
+   "authors": [
+    "Govinda R. Timilsina",
+    "Biswo N. Poudel",
+    "Krishna P. Paudel",
+    "David Zilberman"
+   ],
+   "year": 2012,
+   "venue": "Applied Economic Perspectives and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Biofuels: the food versus fuel debate",
+   "authors": [
+    "Govinda R. Timilsina"
+   ],
+   "year": 2012,
+   "venue": "CAB Reviews",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Impacts of Biofuel Targets on Land-Use Change and Food Supply: A Global CGE Assessment",
+   "authors": [
+    "John Beghin",
+    "Dominique van der Mensbrugghe",
+    "Simon Mevel",
+    "Govinda R. Timilsina"
+   ],
+   "year": 2012,
+   "venue": "Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Solar energy: Markets, economics and policies",
+   "authors": [
+    "L. Kurdgelashvili",
+    "P. A. Narbel",
+    "Govinda R. Timilsina"
+   ],
+   "year": 2012,
+   "venue": "Renewable and Sustainable Energy Reviews",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Oil price, biofuels and food supply",
+   "authors": [
+    "Simon Mevel",
+    "Ashish Shrestha",
+    "Govinda R. Timilsina"
+   ],
+   "year": 2011,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "When Does a Carbon Tax on Fossil Fuels Stimulate Biofuels?",
+   "authors": [
+    "Stefan Csordás",
+    "Simon Mevel",
+    "Govinda R. Timilsina"
+   ],
+   "year": 2011,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Second Generation Biofuels: Economics and Policies",
+   "authors": [
+    "Miguel A. Carriquiry",
+    "Xiaodong Du",
+    "Govinda R. Timilsina"
+   ],
+   "year": 2011,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Status and Barriers of Advanced Biofuel Technologies: A Review",
+   "authors": [
+    "Jay J. Cheng",
+    "Govinda R. Timilsina"
+   ],
+   "year": 2011,
+   "venue": "Renewable Energy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "International Evidence on Aggregate Short-run and Long-run Interfuel Substitution",
+   "authors": [
+    "Apostolos Serletis",
+    "Govinda R. Timilsina",
+    "Olexandr Vasetsky"
+   ],
+   "year": 2011,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How much hope should we have for biofuels?",
+   "authors": [
+    "Ashish Shrestha",
+    "Govinda R. Timilsina"
+   ],
+   "year": 2011,
+   "venue": "Energy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Review of Energy System Models",
+   "authors": [
+    "Subhes Bhattacharyya",
+    "Govinda R. Timilsina"
+   ],
+   "year": 2010,
+   "venue": "International Journal of Energy Sector Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "International Evidence on Sectoral Interfuel Substitution",
+   "authors": [
+    "Apostolos Serletis",
+    "Govinda R. Timilsina",
+    "Olexandr Vasetsky"
+   ],
+   "year": 2010,
+   "venue": "The Energy Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How should passenger travel in Mexico City be priced?",
+   "authors": [
+    "Ian Parry",
+    "Govinda R. Timilsina"
+   ],
+   "year": 2010,
+   "venue": "Journal of Urban Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Interfuel substitution in the United States",
+   "authors": [
+    "Apostolos Serletis",
+    "Govinda R. Timilsina",
+    "Olexandr Vasetsky"
+   ],
+   "year": 2010,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Urban Road Transportation Externalities: Costs and Choice of Policy Instruments",
+   "authors": [
+    "Hari B. Dulal",
+    "Govinda R. Timilsina"
+   ],
+   "year": 2011,
+   "venue": "The World Bank Research Observer",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Modeling Energy Demand of Developing Countries: Are the Specific Features Adequately Captured?",
+   "authors": [
+    "Subhes Bhattacharyya",
+    "Govinda R. Timilsina"
+   ],
+   "year": 2010,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Clean Development Mechanism Potential and Challenges in Sub-Saharan Africa",
+   "authors": [
+    "Govinda R. Timilsina",
+    "Christophe de Gouvello",
+    "Massamba Thioye",
+    "Felix B. Dayo"
+   ],
+   "year": 2010,
+   "venue": "Mitigation and Adaptation Strategies for Global Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Transport Sector CO2 Emissions Growth in Asia: Underlying Factors and Policy Options",
+   "authors": [
+    "Ashish Shrestha",
+    "Govinda R. Timilsina"
+   ],
+   "year": 2009,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Regulatory Instruments to Control Environmental Externalities from the Transport Sector",
+   "authors": [
+    "H. Dulal",
+    "Govinda R. Timilsina"
+   ],
+   "year": 2009,
+   "venue": "European Transport",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Factors Affecting Transport Sector CO2 Emissions Growth in Latin American and Caribbean Countries: An LMDI Decomposition Analysis",
+   "authors": [
+    "Ashish Shrestha",
+    "Govinda R. Timilsina"
+   ],
+   "year": 2009,
+   "venue": "International Journal of Energy Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Carbon tax under the Clean Development Mechanism: A unique approach reducing GHG emissions in developing countries",
+   "authors": [
+    "Govinda R. Timilsina"
+   ],
+   "year": 2009,
+   "venue": "Climate Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A General Equilibrium Analysis of Demand Side Management Programs in the Household Sector under the Clean Development Mechanism of the Kyoto Protocol",
+   "authors": [
+    "Govinda R. Timilsina"
+   ],
+   "year": 2008,
+   "venue": "International Journal of Energy Sector Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Atmospheric Stabilization of CO2 Emissions: Near-term Reductions and Intensity-based Targets",
+   "authors": [
+    "Govinda R. Timilsina"
+   ],
+   "year": 2008,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Effects of Revenue Recycling Schemes in Selecting Tax Instruments for CO2 Emissions Reduction: A CGE Analysis of Thailand",
+   "authors": [
+    "Govinda R. Timilsina"
+   ],
+   "year": 2007,
+   "venue": "Energy Studies Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "General Equilibrium Effects of a Supply-side GHG Mitigation Option under the Clean Development Mechanism",
+   "authors": [
+    "R. M. Shrestha",
+    "Govinda R. Timilsina"
+   ],
+   "year": 2006,
+   "venue": "Journal of Environmental Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Additionality Criterion for Identifying Clean Development Mechanism Projects under the Kyoto Protocol",
+   "authors": [
+    "R. M. Shrestha",
+    "Govinda R. Timilsina"
+   ],
+   "year": 2002,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A General Equilibrium Analysis of Economic and Environmental Effects of Carbon Tax in a Developing Country: Case of Thailand",
+   "authors": [
+    "R. M. Shrestha",
+    "Govinda R. Timilsina"
+   ],
+   "year": 2002,
+   "venue": "Environmental Economics and Policy Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Financing Solar Thermal Technologies under DSM Programs: An Innovative Approach to Promote Renewable Energy",
+   "authors": [
+    "T. Lefevre",
+    "S. Shrestha",
+    "Govinda R. Timilsina"
+   ],
+   "year": 2000,
+   "venue": "International Journal of Energy Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Techno-Economic Databases for Environmental Policy Analysis in Asia: Requirements and Barriers",
+   "authors": [
+    "T. Lefevre",
+    "S. Shrestha",
+    "Govinda R. Timilsina"
+   ],
+   "year": 2000,
+   "venue": "Pollution Atmospherique",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Reducing GHG emissions from the Power Sector in Developing Asian Countries: An AIJ Prospective",
+   "authors": [
+    "T. Lefevre",
+    "Govinda R. Timilsina"
+   ],
+   "year": 1999,
+   "venue": "World Resource Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Divisia Decomposition Analysis of NOx Emission Intensities for the Power Sector in Thailand and South Korea",
+   "authors": [
+    "R. M. Shrestha",
+    "Govinda R. Timilsina"
+   ],
+   "year": 1998,
+   "venue": "Energy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "CO2 Mitigation Potential of Efficient Demand-Side Technologies: A Case of Thailand",
+   "authors": [
+    "Govinda R. Timilsina",
+    "R. M. Shrestha",
+    "P. Khummongkol",
+    "W. K. Biswas",
+    "S. Sinbanchongjit"
+   ],
+   "year": 1998,
+   "venue": "Energy Sources",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Government Policies and Strategies for Developing and Promoting Renewable Energy in Asia: An Overview",
+   "authors": [
+    "T. Lefevre",
+    "Govinda R. Timilsina"
+   ],
+   "year": 1998,
+   "venue": "Renewable Energy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "SO2 Emission Intensities of Power Sector in Asia: Effects of Generation Mix and Fuel Intensities Changes",
+   "authors": [
+    "R. M. Shrestha",
+    "Govinda R. Timilsina"
+   ],
+   "year": 1997,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Factors Affecting Inter-Fuel Substitutions in Energy Demand in Asia",
+   "authors": [
+    "T. Lefevre",
+    "Govinda R. Timilsina"
+   ],
+   "year": 1997,
+   "venue": "ASEAN Energy Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Factors Affecting CO2 Intensities of Power Sector in Asia: A Divisia Decomposition Analysis",
+   "authors": [
+    "R. M. Shrestha",
+    "Govinda R. Timilsina"
+   ],
+   "year": 1996,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Productive Efficiency of Electric Utilities in Asia: A Comparative Study",
+   "authors": [
+    "R. M. Shrestha",
+    "Govinda R. Timilsina"
+   ],
+   "year": 1995,
+   "venue": "Revue de l'Énergie",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economics of Renewable Energy: Cost of Electricity Generation Across Technologies",
+   "authors": [
+    "Kalim Shah",
+    "Govinda R. Timilsina"
+   ],
+   "year": 2021,
+   "venue": "Oxford Research Encyclopedia of Environmental Economics (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Energy Technologies for SDG 7",
+   "authors": [
+    "Kalim Shah",
+    "Govinda R. Timilsina"
+   ],
+   "year": 2021,
+   "venue": "Science, Technology and Innovation for Meeting the SDGs (Oxford University Press) (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Evolution of Solar Energy Technologies and Supporting Policies",
+   "authors": [
+    "Lado Kurdgelashvili",
+    "Govinda R. Timilsina"
+   ],
+   "year": 2017,
+   "venue": "Handbook on Geographies of Technology (Edward Elgar) (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Lost momentum of biofuels: What Went Wrong?",
+   "authors": [
+    "Govinda R. Timilsina"
+   ],
+   "year": 2017,
+   "venue": "Bioenergy and Land Use Change (Wiley) (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Facilitating Low Carbon Investments with Special Reference to China: WBG and Carbon Pricing",
+   "authors": [
+    "Jing Cao",
+    "Mun Ho",
+    "Govinda R. Timilsina"
+   ],
+   "year": 2017,
+   "venue": "Globalization of Low-Carbon Technologies: Impact of Paris Agreement (Springer) (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Transportation Energy Demand in Asia: Status, Trends and Drivers",
+   "authors": [
+    "Ashish Shrestha",
+    "Govinda R. Timilsina"
+   ],
+   "year": 2017,
+   "venue": "Handbook of Energy in Asia (Routledge) (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Economics of Renewable Energy Promotion Policies: A Case of Wind Power in Brazil",
+   "authors": [
+    "Florian Landis",
+    "Govinda R. Timilsina"
+   ],
+   "year": 2016,
+   "venue": "Handbook of Research on Green Economic Development Initiatives and Strategies (IGI Global) (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Macroeconomic and Sectoral Impacts of Climate Change Mitigation in Thailand",
+   "authors": [
+    "Govinda R. Timilsina"
+   ],
+   "year": 2009,
+   "venue": "Evaluating Climate Change and Development (Transaction Publishers) (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Electrifying Africa's Economic Transformation: What Reforms Should Governments Pursue?",
+   "authors": [
+    "Andrew L. Dabalen",
+    "Stuti Khemani",
+    "Megan Lang",
+    "Govinda R. Timilsina"
+   ],
+   "year": 2026,
+   "venue": "World Bank Policy Research Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How Effective Are Emission Trading Systems in Reducing Emissions? Empirical Evidence from the EU, New Zealand, and the Republic of Korea",
+   "authors": [
+    "Ze Song",
+    "Gal Hochman",
+    "Govinda R. Timilsina"
+   ],
+   "year": 2026,
+   "venue": "World Bank Policy Research Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Firm's Preferences for Emissions Reducing Measures and Willingness to Pay for a Carbon Tax in Viet Nam",
+   "authors": [
+    "Govinda R. Timilsina",
+    "Chau Tran",
+    "Gal Hochman"
+   ],
+   "year": 2026,
+   "venue": "World Bank Policy Research Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "What Underlies the Poor Financial Performance of Electric Utilities in Sub-Saharan Africa?",
+   "authors": [
+    "Govinda R. Timilsina"
+   ],
+   "year": 2025,
+   "venue": "World Bank Policy Research Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Effect of Pricing Instruments on CO2 Emissions: Empirical Evidence from Australia",
+   "authors": [
+    "Daniel Christopher Kraynak",
+    "Govinda R. Timilsina",
+    "Anna Alberini"
+   ],
+   "year": 2024,
+   "venue": "World Bank Policy Research Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic and Distributional Impacts of Selected Carbon Pricing Policies for the Arab Republic of Egypt",
+   "authors": [
+    "Govinda R. Timilsina",
+    "Samuel Sebsibie"
+   ],
+   "year": 2024,
+   "venue": "World Bank Policy Research Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Natural Disaster, Infrastructure, and Income Distribution: Empirical Evidence from Global Data",
+   "authors": [
+    "Ze Song",
+    "Gal Hochman",
+    "Govinda R. Timilsina"
+   ],
+   "year": 2023,
+   "venue": "World Bank Policy Research Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Who Should Drive Green Technology Transitions in Developing Countries: State-Owned Enterprises versus Private Firms",
+   "authors": [
+    "Prudence Zowadan Dato",
+    "Frank Krysiak",
+    "Christian Nolde",
+    "Govinda R. Timilsina"
+   ],
+   "year": 2023,
+   "venue": "World Bank Policy Research Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Impact of COVID-19 on Electricity Generation: An Empirical Investigation",
+   "authors": [
+    "Chang Shen",
+    "Anna Alberini",
+    "Govinda R. Timilsina"
+   ],
+   "year": 2022,
+   "venue": "World Bank Policy Research Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Infrastructure, Economic Growth, and Poverty: A Review",
+   "authors": [
+    "Govinda R. Timilsina",
+    "Gal Hochman",
+    "Ze Song"
+   ],
+   "year": 2020,
+   "venue": "World Bank Policy Research Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

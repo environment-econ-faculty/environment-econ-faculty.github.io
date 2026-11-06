@@ -199,7 +199,7 @@ def main():
     out = {
         "generated": datetime.now(tz).strftime("%Y-%m-%d"),
         "schools": schools, "scholars": scholars, "papers": papers,
-        "subfields": SUBFIELDS, "statuses": STATUS, "unit_types": ["经济系", "农经/资源经济", "公共政策", "商学院", "环境学院", "其他"],
+        "subfields": SUBFIELDS, "statuses": STATUS, "unit_types": ["经济系", "农经/资源经济", "公共政策", "商学院", "环境学院", "政策机构", "其他"],
         "paper_cols": ["scholar", "i", "title", "year", "venue", "status", "eee", "has_abs", "authors", "url", "topics"],
         "topics": TOPIC_NAMES,
     }

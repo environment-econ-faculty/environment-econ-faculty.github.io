@@ -1,0 +1,323 @@
+{
+ "slug": "daniel-hartley",
+ "name": "Daniel Hartley",
+ "sources": [
+  "http://www.danielaaronhartley.com/research",
+  "https://www.chicagofed.org/-/media/others/people/cv/cv-hartley-pdf.pdf (Apr 2024)"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Source: homepage research page (primary; current) with CV (Apr 2024) for cross-check. Homepage years used; undated 'The Bronx is Burning' (accepted at Review of Economics and Statistics) dated 2026. 'Credit When You Need It' is conditionally accepted at AER (marked 修改重投). Where a working paper was later published only the published version is kept. Skipped: Chicago Fed Letters, Economic Perspectives, Cleveland Fed commentaries, book review, dataset, work in progress. CV/homepage list the scholar first for 'with' lines; byline order not independently verified. Where a source says only '(with ...)', the scholar is listed first, following the source's order (actual byline order not independently verified).",
+ "papers": [
+  {
+   "title": "The Bronx is Burning: Urban Disinvestment Effects of the Fair Access to Insurance Requirements",
+   "authors": [
+    "Daniel Hartley",
+    "Ingrid Gould Ellen",
+    "Jeffrey Lin",
+    "Wei You"
+   ],
+   "year": 2026,
+   "venue": "Review of Economics and Statistics",
+   "status": "即将发表",
+   "url": "https://direct.mit.edu/rest/article/doi/10.1162/REST.a.1835/137834/The-Bronx-Is-Burning-Urban-Disinvestment-Effects",
+   "abstract": null
+  },
+  {
+   "title": "The Racial Dynamics of U.S. Neighborhoods and Their Housing Prices from 1950 Through 1990",
+   "authors": [
+    "Daniel Hartley",
+    "Jonathan Rose",
+    "Becky Schneirov"
+   ],
+   "year": 2025,
+   "venue": "AEA Papers and Proceedings",
+   "status": "已发表",
+   "url": "https://www.chicagofed.org/publications/working-papers/2024/2024-22",
+   "abstract": null
+  },
+  {
+   "title": "The lasting impact of historical residential security maps on experienced segregation",
+   "authors": [
+    "Daniel Hartley",
+    "Daniel Aaronson",
+    "Joel Kaiyuan Han",
+    "Bhashkar Mazumder"
+   ],
+   "year": 2025,
+   "venue": "Real Estate Economics",
+   "status": "已发表",
+   "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/1540-6229.12513",
+   "abstract": null
+  },
+  {
+   "title": "The Long-run Effects of the 1930s HOLC 'Redlining' Maps on Children",
+   "authors": [
+    "Daniel Hartley",
+    "Daniel Aaronson",
+    "Bhashkar Mazumder",
+    "Martha Stinson"
+   ],
+   "year": 2023,
+   "venue": "Journal of Economic Literature",
+   "status": "已发表",
+   "url": "https://www.aeaweb.org/articles?id=10.1257/jel.20221702",
+   "abstract": null
+  },
+  {
+   "title": "Weathering an Unexpected Financial Shock: The Role of Disaster Assistance on Household Finance and Business Survival",
+   "authors": [
+    "Daniel Hartley",
+    "Justin Gallagher",
+    "Shawn Rohlin"
+   ],
+   "year": 2023,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "https://www.journals.uchicago.edu/doi/10.1086/721654",
+   "abstract": null
+  },
+  {
+   "title": "The Effects of the Great Migration on Urban Renewal",
+   "authors": [
+    "Daniel Hartley",
+    "Ying Shi",
+    "Bhashkar Mazumder",
+    "Aastha Rajan"
+   ],
+   "year": 2022,
+   "venue": "Journal of Public Economics",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/pii/S0047272722000494",
+   "abstract": null
+  },
+  {
+   "title": "The Effects of the 1930s HOLC 'Redlining' Maps",
+   "authors": [
+    "Daniel Hartley",
+    "Daniel Aaronson",
+    "Bhashkar Mazumder"
+   ],
+   "year": 2021,
+   "venue": "American Economic Journal: Economic Policy",
+   "status": "已发表",
+   "url": "https://www.aeaweb.org/articles?id=10.1257/pol.20190414",
+   "abstract": null
+  },
+  {
+   "title": "Neighborhood Effects and Housing Vouchers",
+   "authors": [
+    "Daniel Hartley",
+    "Morris Davis",
+    "Jesse Gregory",
+    "Kegon Tan"
+   ],
+   "year": 2021,
+   "venue": "Quantitative Economics",
+   "status": "已发表",
+   "url": "https://onlinelibrary.wiley.com/doi/full/10.3982/QE1664",
+   "abstract": null
+  },
+  {
+   "title": "The Long-Run Effects of the 1930s HOLC 'Redlining' Maps on Place-Based Measures of Economic Opportunity and Socioeconomic Success",
+   "authors": [
+    "Daniel Hartley",
+    "Daniel Aaronson",
+    "Jacob Faber",
+    "Bhashkar Mazumder",
+    "Patrick Sharkey"
+   ],
+   "year": 2021,
+   "venue": "Regional Science and Urban Economics",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/pii/S0166046220303070",
+   "abstract": null
+  },
+  {
+   "title": "Accounting for Central Neighborhood Change, 1980-2010",
+   "authors": [
+    "Daniel Hartley",
+    "Nate Baum-Snow"
+   ],
+   "year": 2020,
+   "venue": "Journal of Urban Economics",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/pii/S0094119019301056",
+   "abstract": null
+  },
+  {
+   "title": "Household Finance after a Natural Disaster: The Case of Hurricane Katrina",
+   "authors": [
+    "Daniel Hartley",
+    "Justin Gallagher"
+   ],
+   "year": 2017,
+   "venue": "American Economic Journal: Economic Policy",
+   "status": "已发表",
+   "url": "https://www.aeaweb.org/articles?id=10.1257/pol.20140273",
+   "abstract": null
+  },
+  {
+   "title": "Are America's Inner Cities Competitive? Evidence from the 2000s",
+   "authors": [
+    "Daniel Hartley",
+    "Nikhil Kaza",
+    "T. William Lester"
+   ],
+   "year": 2016,
+   "venue": "Economic Development Quarterly",
+   "status": "已发表",
+   "url": "https://journals.sagepub.com/doi/10.1177/0891242416638932",
+   "abstract": null
+  },
+  {
+   "title": "Blowing It Up and Knocking It Down: The Local and City-Wide Effects of Demolishing High Concentration Public Housing on Crime",
+   "authors": [
+    "Daniel Hartley",
+    "Dionissi Aliprantis"
+   ],
+   "year": 2015,
+   "venue": "Journal of Urban Economics",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/pii/S0094119015000364",
+   "abstract": null
+  },
+  {
+   "title": "The Effect of Foreclosures on Nearby Housing Prices: Supply or Dis-amenity?",
+   "authors": [
+    "Daniel Hartley"
+   ],
+   "year": 2014,
+   "venue": "Regional Science and Urban Economics",
+   "status": "已发表",
+   "url": "http://www.sciencedirect.com/science/article/pii/S0166046214000982",
+   "abstract": null
+  },
+  {
+   "title": "The Long Term Employment Impacts of Gentrification in the 1990s",
+   "authors": [
+    "Daniel Hartley",
+    "T. William Lester"
+   ],
+   "year": 2014,
+   "venue": "Regional Science and Urban Economics",
+   "status": "已发表",
+   "url": "http://www.sciencedirect.com/science/article/pii/S0166046214000118",
+   "abstract": null
+  },
+  {
+   "title": "Endogenous Gentrification and Housing Price Dynamics",
+   "authors": [
+    "Daniel Hartley",
+    "Veronica Guerrieri",
+    "Erik Hurst"
+   ],
+   "year": 2013,
+   "venue": "Journal of Public Economics",
+   "status": "已发表",
+   "url": "http://www.sciencedirect.com/science/article/pii/S0047272713000297",
+   "abstract": null
+  },
+  {
+   "title": "Within-city Variation in Urban Decline: The Case of Detroit",
+   "authors": [
+    "Daniel Hartley",
+    "Veronica Guerrieri",
+    "Erik Hurst"
+   ],
+   "year": 2012,
+   "venue": "American Economic Review: Papers and Proceedings",
+   "status": "已发表",
+   "url": "https://www.aeaweb.org/articles.php?doi=10.1257/aer.102.3.120",
+   "abstract": null
+  },
+  {
+   "title": "Measuring Interest Rate Risk in the Life Insurance Sector: The U.S. and the U.K.",
+   "authors": [
+    "Daniel Hartley",
+    "Anna Paulson",
+    "Richard J. Rosen"
+   ],
+   "year": 2016,
+   "venue": "The Economics, Regulation, and Systemic Risk of Insurance Markets (Oxford University Press, book chapter)",
+   "status": "已发表",
+   "url": "https://www.chicagofed.org/publications/working-papers/2016/wp2016-02",
+   "abstract": null
+  },
+  {
+   "title": "The Relationship between City Center Density and Urban Growth or Decline",
+   "authors": [
+    "Daniel Hartley",
+    "Kyle Fee"
+   ],
+   "year": 2013,
+   "venue": "Revitalizing American Cities (University of Pennsylvania Press, book chapter)",
+   "status": "已发表",
+   "url": "https://www.clevelandfed.org/publications/working-paper/2012/wp-1213-the-relationship-between-city-center-density-and-urban-growth-or-decline",
+   "abstract": null
+  },
+  {
+   "title": "Credit When You Need It",
+   "authors": [
+    "Daniel Hartley",
+    "Benjamin Collier",
+    "Benjamin Keys",
+    "Xian Ng"
+   ],
+   "year": 2024,
+   "venue": "American Economic Review",
+   "status": "修改重投",
+   "url": "https://www.chicagofed.org/publications/working-papers/2024/2024-16",
+   "abstract": null
+  },
+  {
+   "title": "Blockbusting and the Challenges Faced by Black Families in Building Wealth through Housing in the Postwar United States",
+   "authors": [
+    "Daniel Hartley",
+    "Jonathan Rose"
+   ],
+   "year": 2023,
+   "venue": "Journal of Political Economy Microeconomics",
+   "status": "修改重投",
+   "url": "https://www.chicagofed.org/publications/working-papers/2023/2023-02",
+   "abstract": null
+  },
+  {
+   "title": "Natural Disasters, Local Bank Market Share, and Economic Recovery",
+   "authors": [
+    "Daniel Hartley",
+    "Justin Gallagher"
+   ],
+   "year": 2024,
+   "venue": "Chicago Fed Working Paper",
+   "status": "工作论文",
+   "url": "https://www.chicagofed.org/publications/working-papers/2024/2024-17",
+   "abstract": null
+  },
+  {
+   "title": "Preferences over the Racial Composition of Neighborhoods: Estimates and Implications",
+   "authors": [
+    "Daniel Hartley",
+    "Morris Davis",
+    "Jesse Gregory"
+   ],
+   "year": 2023,
+   "venue": "Chicago Fed Working Paper",
+   "status": "工作论文",
+   "url": "https://www.chicagofed.org/publications/working-papers/2023/2023-23",
+   "abstract": null
+  },
+  {
+   "title": "The Long-Run Effects of Neighborhood Change on Incumbent Families",
+   "authors": [
+    "Daniel Hartley",
+    "Nate Baum-Snow",
+    "Kwan Ok Lee"
+   ],
+   "year": 2019,
+   "venue": "Chicago Fed Working Paper",
+   "status": "工作论文",
+   "url": "https://www.chicagofed.org/publications/working-papers/2019/2019-02",
+   "abstract": null
+  }
+ ]
+}

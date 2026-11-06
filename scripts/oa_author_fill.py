@@ -13,10 +13,12 @@ import csv
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 RAW = os.path.join(ROOT, "data", "papers_raw")
 KEY = open(os.path.join(os.path.dirname(ROOT), "OpenAlex API key.txt"), encoding="utf-8").read().strip().split()[-1]
-SRC = os.path.join(os.path.dirname(ROOT), "raw3", "round3_new.csv")
+SRC = os.path.join(os.path.dirname(ROOT), os.environ.get("OA_SRC", "raw3/round3_new.csv"))
 ALIAS = {"University of Tennessee, Knoxville": ["University of Tennessee"], "Louisiana State University": ["Louisiana State University"],
          "Virginia Tech": ["Virginia Tech", "Virginia Polytechnic Institute"], "Nanyang Technological University": ["Nanyang Technological University"],
-         "North Carolina State University": ["North Carolina State University"]}
+         "North Carolina State University": ["North Carolina State University"],
+         "World Bank": ["World Bank"], "International Finance Corporation": ["International Finance Corporation", "World Bank"],
+         "European Central Bank": ["European Central Bank"], "International Monetary Fund": ["International Monetary Fund"]}
 
 
 def get(url):

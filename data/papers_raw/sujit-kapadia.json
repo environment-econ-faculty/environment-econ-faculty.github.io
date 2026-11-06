@@ -1,0 +1,132 @@
+{
+ "slug": "sujit-kapadia",
+ "name": "Sujit Kapadia",
+ "sources": [
+  "https://www.ecb.europa.eu/pub/research/authors/profiles/sujit-kapadia.en.html",
+  "https://www.ecb.europa.eu/pub/research/authors/profiles/margherita-giuzio.en.html"
+ ],
+ "collected": "2026-11-06",
+ "notes": "ECB author profile (and Giuzio's profile for the EER/Handbook published versions). Skipped Occasional Papers (372, 227), blog. Bylines for ECB WPs inferred by merging Kapadia and Giuzio profile orders (consistent with both). WP 2614 (Bluwstein et al.) and WP 2278 (Aikman et al.) may have later journal versions not verified, kept as ECB WPs with orders from profile page (scholar position as listed). 'Climate change, catastrophes...' shown as published EER 2026; 'Macroprudential policy...' as 2026 handbook chapter.",
+ "papers": [
+  {
+   "title": "Climate change, catastrophes, insurance and the macroeconomy",
+   "authors": [
+    "Margherita Giuzio",
+    "Linda Rousová",
+    "Sujit Kapadia",
+    "Hradayesh Kumar",
+    "Luisa Mazzotta",
+    "Miles Parker",
+    "Dimitris Zafeiris"
+   ],
+   "year": 2026,
+   "venue": "European Economic Review",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/pii/S0014292125002600",
+   "abstract": null
+  },
+  {
+   "title": "Macroprudential Policy, Monetary Policy and Non-Bank Financial Intermediation",
+   "authors": [
+    "Margherita Giuzio",
+    "Sujit Kapadia",
+    "Christoph Kaufmann",
+    "Manuela Storz",
+    "Christian Weistroffer"
+   ],
+   "year": 2026,
+   "venue": "Research Handbook of Macroprudential Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Sustainability labels vs. reality: how climate-friendly are green and ESG funds?",
+   "authors": [
+    "Dilyara Salakhova",
+    "Margherita Giuzio",
+    "Sujit Kapadia",
+    "Giulio Mazzolini"
+   ],
+   "year": 2025,
+   "venue": "ECB Working Paper",
+   "status": "工作论文",
+   "url": "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3121~47d80e073f.en.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Financing the low-carbon transition in Europe",
+   "authors": [
+    "Olimpia Carradori",
+    "Margherita Giuzio",
+    "Sujit Kapadia",
+    "Dilyara Salakhova",
+    "Katia Vozian"
+   ],
+   "year": 2023,
+   "venue": "ECB Working Paper",
+   "status": "工作论文",
+   "url": "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2813~170abcd3b8.en.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Are ethical and green investment funds more resilient?",
+   "authors": [
+    "Laura-Dona Capotă",
+    "Margherita Giuzio",
+    "Sujit Kapadia",
+    "Dilyara Salakhova"
+   ],
+   "year": 2022,
+   "venue": "ECB Working Paper",
+   "status": "工作论文",
+   "url": "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2747~1b6db3db8d.en.pdf",
+   "abstract": null
+  },
+  {
+   "title": "The low-carbon transition, climate commitments and firm credit risk",
+   "authors": [
+    "Sante Carbone",
+    "Margherita Giuzio",
+    "Sujit Kapadia",
+    "Johannes Sebastian Krämer",
+    "Ken Nyholm",
+    "Katia Vozian"
+   ],
+   "year": 2021,
+   "venue": "ECB Working Paper",
+   "status": "工作论文",
+   "url": "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2631~00a6e0368c.en.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Credit growth, the yield curve and financial crisis prediction: evidence from a machine learning approach",
+   "authors": [
+    "Kristina Bluwstein",
+    "Marcus Buckmann",
+    "Andreas Joseph",
+    "Sujit Kapadia",
+    "Özgür Şimşek"
+   ],
+   "year": 2021,
+   "venue": "ECB Working Paper",
+   "status": "工作论文",
+   "url": "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2614~6974517ac3.en.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Targeting financial stability: macroprudential or monetary policy?",
+   "authors": [
+    "David Aikman",
+    "Julia Giese",
+    "Sujit Kapadia",
+    "Michael McLeay"
+   ],
+   "year": 2019,
+   "venue": "ECB Working Paper",
+   "status": "工作论文",
+   "url": "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2278~a3eb7fea61.en.pdf",
+   "abstract": null
+  }
+ ]
+}

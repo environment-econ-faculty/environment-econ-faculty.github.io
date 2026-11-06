@@ -1,0 +1,552 @@
+{
+ "slug": "florence-jaumotte",
+ "name": "Florence Jaumotte",
+ "sources": [
+  "https://ideas.repec.org/f/pja389.html",
+  "https://www.imf.org/en/research/researcher-cv/author/jaumotte-florence",
+  "https://api.crossref.org"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Built from the IMF researcher CV page (current through 2026) and her self-registered RePEc page. Where a working paper was later published only the published version is kept. IMF WEO chapters, Departmental Paper, Spillover Notes, blogs and F&D pieces skipped. Author lists of the 2025-26 IMF items not on RePEc were taken from the IMF DOI metadata. OECD Economics Department WPs are from her earlier OECD career.",
+ "papers": [
+  {
+   "title": "Shaping Innovation: Can Industrial Policies Boost Patent Applications?",
+   "authors": [
+    "Sandra Baquie",
+    "Yueling Huang",
+    "Florence Jaumotte",
+    "Jaden Kim",
+    "Rafael Machado Parente",
+    "Samuel Pienknagura"
+   ],
+   "year": 2026,
+   "venue": "IMF Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Bridging Skill Gaps for the Future: New Jobs Creation in the AI Age",
+   "authors": [
+    "Florence Jaumotte",
+    "Jaden Kim",
+    "David Koll",
+    "Elmer Li",
+    "Longji Li",
+    "Giovanni Melina",
+    "Alina Song",
+    "Marina Mendes Tavares"
+   ],
+   "year": 2026,
+   "venue": "IMF Staff Discussion Note",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Energy security and the green transition",
+   "authors": [
+    "Jaden Kim",
+    "Florence Jaumotte",
+    "Augustus J. Panton",
+    "Gregor Schwerhoff"
+   ],
+   "year": 2025,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Industrial Policies and Firm Performance: A Nuanced Relationship",
+   "authors": [
+    "Rafael Machado Parente",
+    "Sandra Baquie",
+    "Yueling Huang",
+    "Florence Jaumotte",
+    "Jaden Kim",
+    "Samuel Pienknagura"
+   ],
+   "year": 2025,
+   "venue": "IMF Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Drivers and Macroeconomic Impacts of Low-Carbon Innovation: A Cross-Country Exploration",
+   "authors": [
+    "Zeina Hasna",
+    "Henry Hatton",
+    "Florence Jaumotte",
+    "Jaden Kim",
+    "Kamiar Mohaddes",
+    "Samuel Pienknagura"
+   ],
+   "year": 2025,
+   "venue": "IMF Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Industrial Policies: Handle with Care",
+   "authors": [
+    "Sandra Baquie",
+    "Yueling Huang",
+    "Florence Jaumotte",
+    "Jaden Kim",
+    "Rafael Machado Parente",
+    "Samuel Pienknagura"
+   ],
+   "year": 2025,
+   "venue": "IMF Staff Discussion Note",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do Industrial Policies Increase Trade Competitiveness?",
+   "authors": [
+    "Yueling Huang",
+    "Sandra Baquie",
+    "Florence Jaumotte",
+    "Jaden Kim",
+    "Yucheng Lu",
+    "Rafael Machado Parente",
+    "Samuel Pienknagura"
+   ],
+   "year": 2025,
+   "venue": "IMF Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Gen-AI: Artificial Intelligence and the Future of Work",
+   "authors": [
+    "Mauro Cazzaniga",
+    "Florence Jaumotte",
+    "Longji Li",
+    "Giovanni Melina",
+    "Augustus J Panton",
+    "Carlo Pizzinelli",
+    "Emma J Rockall",
+    "Marina Mendes Tavares"
+   ],
+   "year": 2024,
+   "venue": "IMF Staff Discussion Note",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Green Jobs and the Future of Work for Women and Men",
+   "authors": [
+    "Naomi-Rose Alexander",
+    "Mauro Cazzaniga",
+    "Stefania Fabrizio",
+    "Florence Jaumotte",
+    "Longji Li",
+    "Jorge Mondragon",
+    "Sahar Priano",
+    "Marina Mendes Tavares"
+   ],
+   "year": 2024,
+   "venue": "IMF Staff Discussion Note",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Climate policy options: A comparison of economic performance",
+   "authors": [
+    "Jean Chateau",
+    "Florence Jaumotte",
+    "Gregor Schwerhoff"
+   ],
+   "year": 2024,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Global climate policy with differentiated carbon price floors",
+   "authors": [
+    "Jean Chateau",
+    "Florence Jaumotte",
+    "Gregor Schwerhoff"
+   ],
+   "year": 2024,
+   "venue": "Climate Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Policies to Foster Green FDI: Best Practices for Emerging Market and Developing Economies",
+   "authors": [
+    "Florence Jaumotte",
+    "Jaden Kim",
+    "Samuel Pienknagura",
+    "Gregor Schwerhoff"
+   ],
+   "year": 2024,
+   "venue": "IMF Staff Climate Note",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Structural Reforms to Accelerate Growth, Ease Policy Trade-offs, and Support the Green Transition in Emerging Market and Developing Economies",
+   "authors": [
+    "Nina Budina",
+    "Christian H Ebeke",
+    "Florence Jaumotte",
+    "Andrea Medici",
+    "Augustus J Panton",
+    "Marina Mendes Tavares",
+    "Bella Yao"
+   ],
+   "year": 2023,
+   "venue": "IMF Staff Discussion Note",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Digitalization During the COVID-19 Crisis: Implications for Productivity and Labor Markets in Advanced Economies",
+   "authors": [
+    "Florence Jaumotte",
+    "Longji Li",
+    "Andrea Medici",
+    "Myrto Oikonomou",
+    "Carlo Pizzinelli",
+    "Ippei Shibata",
+    "Jiaming Soh",
+    "Marina Mendes Tavares"
+   ],
+   "year": 2023,
+   "venue": "IMF Staff Discussion Note",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Green Innovation and Diffusion: Policies to Accelerate Them and Expected Impact on Macroeconomic and Firm-Level Performance",
+   "authors": [
+    "Zeina Hasna",
+    "Florence Jaumotte",
+    "Jaden Kim",
+    "Samuel Pienknagura",
+    "Gregor Schwerhoff"
+   ],
+   "year": 2023,
+   "venue": "IMF Staff Discussion Note",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Effect of Tariffs in Global Value Chains",
+   "authors": [
+    "Johannes Eugster",
+    "Florence Jaumotte",
+    "Margaux MacDonald",
+    "Roberto Piazza"
+   ],
+   "year": 2022,
+   "venue": "IMF Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Comprehensive Package of Macroeconomic Policy Measures for Implementing China’s Climate Mitigation Strategy",
+   "authors": [
+    "Jean Chateau",
+    "Wenjie Chen",
+    "Florence Jaumotte",
+    "Karlygash Zhunussova"
+   ],
+   "year": 2022,
+   "venue": "IMF Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "International knowledge spillovers",
+   "authors": [
+    "Johannes Eugster",
+    "Giang Ho",
+    "Florence Jaumotte",
+    "Roberto Piazza"
+   ],
+   "year": 2022,
+   "venue": "Journal of Economic Geography",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Getting on Track to Net Zero: Accelerating a Global Just Transition in This Decade",
+   "authors": [
+    "Simon Black",
+    "Jean Chateau",
+    "Florence Jaumotte",
+    "Ian Parry",
+    "Gregor Schwerhoff",
+    "Sneha Thube",
+    "Karlygash Zhunussova"
+   ],
+   "year": 2022,
+   "venue": "IMF Staff Climate Note",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Mitigating Climate Change: Growth-Friendly Policies to Achieve Net Zero Emissions by 2050",
+   "authors": [
+    "Florence Jaumotte",
+    "Weifeng Liu",
+    "Warwick J. McKibbin"
+   ],
+   "year": 2021,
+   "venue": "IMF Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Are Bilateral Trade Balances Irrelevant?",
+   "authors": [
+    "Margaux MacDonald",
+    "Roberto Piazza",
+    "Johannes Eugster",
+    "Florence Jaumotte"
+   ],
+   "year": 2020,
+   "venue": "IMF Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Inequality: traditional drivers and the role of union power",
+   "authors": [
+    "Florence Jaumotte",
+    "Carolina Osorio Buitron"
+   ],
+   "year": 2020,
+   "venue": "Oxford Economic Papers",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Labor market policies and IMF advice in advanced economies during the Great Recession",
+   "authors": [
+    "Olivier Blanchard",
+    "Florence Jaumotte",
+    "Prakash Loungani"
+   ],
+   "year": 2014,
+   "venue": "IZA Journal of Labor Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Rising Income Inequality: Technology, or Trade and Financial Globalization?",
+   "authors": [
+    "Florence Jaumotte",
+    "Subir Lall",
+    "Chris Papageorgiou"
+   ],
+   "year": 2013,
+   "venue": "IMF Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Determinants of Inflation in the Euro Area: The Role of Labor and Product Market Institutions",
+   "authors": [
+    "Hanan Morsy",
+    "Florence Jaumotte"
+   ],
+   "year": 2012,
+   "venue": "IMF Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Spanish Labor Market in a Cross-Country Perspective",
+   "authors": [
+    "Florence Jaumotte"
+   ],
+   "year": 2011,
+   "venue": "IMF Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Current Account Imbalances in the Southern Euro Area: Causes, Consequences, and Remedies",
+   "authors": [
+    "Florence Jaumotte",
+    "Piyaporn Sodsriwiboon"
+   ],
+   "year": 2011,
+   "venue": "Measuring Italy's External Competitiveness",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How Has The Globalization of Labor Affected the Labor Income Share in Advanced Countries?",
+   "authors": [
+    "Florence Jaumotte",
+    "Irina Tytell"
+   ],
+   "year": 2007,
+   "venue": "IMF Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Maintaining Switzerland's Top Innovation Capacity",
+   "authors": [
+    "Florence Jaumotte"
+   ],
+   "year": 2006,
+   "venue": "OECD Economics Department Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "From Innovation Development to Implementation: Evidence from the Community Innovation Survey",
+   "authors": [
+    "Florence Jaumotte",
+    "Nigel Pain"
+   ],
+   "year": 2005,
+   "venue": "OECD Economics Department Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Overview of Public Policies to Support Innovation",
+   "authors": [
+    "Florence Jaumotte",
+    "Nigel Pain"
+   ],
+   "year": 2005,
+   "venue": "OECD Economics Department Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "From Ideas to Development: The Determinants of R&D and Patenting",
+   "authors": [
+    "Florence Jaumotte",
+    "Nigel Pain"
+   ],
+   "year": 2005,
+   "venue": "OECD Economics Department Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Innovation in the Business Sector",
+   "authors": [
+    "Florence Jaumotte",
+    "Nigel Pain"
+   ],
+   "year": 2005,
+   "venue": "OECD Economics Department Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Coping with Ageing: A Dynamic Approach to Quantify the Impact of Alternative Policy Options on Future Labour Supply in OECD Countries",
+   "authors": [
+    "Jean-Marc Burniaux",
+    "Romain Duval",
+    "Florence Jaumotte"
+   ],
+   "year": 2004,
+   "venue": "OECD Economics Department Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Foreign Direct Investment and Regional Trade Agreements: The Market Size Effect Revisited",
+   "authors": [
+    "Florence Jaumotte"
+   ],
+   "year": 2004,
+   "venue": "IMF Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Labour Force Participation of Women: Empirical Evidence on The Role of Policy and Other Determinants in OECD Countries",
+   "authors": [
+    "Florence Jaumotte"
+   ],
+   "year": 2004,
+   "venue": "OECD Economic Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Role of Inter- and Intra-Industry Trade in Technology Diffusion",
+   "authors": [
+    "Dalia S. Hakura",
+    "Florence Jaumotte"
+   ],
+   "year": 2001,
+   "venue": "Policies to Promote Competitiveness in Manufacturing in Sub-Saharan Africa",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Model of Targeted Exchange Rates",
+   "authors": [
+    "Bernard Delbecque",
+    "Florence Jaumotte"
+   ],
+   "year": 1998,
+   "venue": "Université catholique de Louvain LIDAM Discussion Papers IRES",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Technology Diffusion and Trade: An Empirical Investigation",
+   "authors": [
+    "Florence Jaumotte"
+   ],
+   "year": 1997,
+   "venue": "Université catholique de Louvain LIDAM Discussion Papers IRES",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

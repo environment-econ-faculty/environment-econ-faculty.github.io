@@ -1,0 +1,183 @@
+{
+ "slug": "raffaello-cervigni",
+ "name": "Raffaello Cervigni",
+ "sources": [
+  "https://openalex.org/A5007671479"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Fallback: homepage/CV unavailable; list from OpenAlex author record(s) affiliated with World Bank (Raffaello Cervigni). May include non-economics coauthored work; working papers mostly absent.",
+ "papers": [
+  {
+   "title": "Investing in nature can improve equity and economic returns",
+   "authors": [
+    "Justin A. Johnson",
+    "Uris Lantz C. Baldos",
+    "Erwin Corong",
+    "Thomas W. Hertel",
+    "Stephen Polasky",
+    "Raffaello Cervigni",
+    "Toby Roxburgh",
+    "Giovanni Ruta",
+    "Colette Salemi",
+    "Sumil K Thakrar"
+   ],
+   "year": 2023,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "https://doi.org/10.1073/pnas.2220401120",
+   "abstract": null
+  },
+  {
+   "title": "Resilience of the Eastern African electricity sector to climate driven changes in hydropower generation",
+   "authors": [
+    "Vignesh Sridharan",
+    "Oliver Broad",
+    "Abhishek Shivakumar",
+    "Mark Howells",
+    "Brent B. Boehlert",
+    "David G. Groves",
+    "Holger Rogner",
+    "Constantinos Taliotis",
+    "James E. Neumann",
+    "Kenneth Marc Strzepek",
+    "Robert J. Lempert",
+    "Brian A. Joyce",
+    "Annette Huber‐Lee",
+    "Raffaello Cervigni"
+   ],
+   "year": 2019,
+   "venue": "Nature Communications",
+   "status": "已发表",
+   "url": "https://doi.org/10.1038/s41467-018-08275-7",
+   "abstract": null
+  },
+  {
+   "title": "Managing Climate Change Risks in Africa - A Global Perspective",
+   "authors": [
+    "Ademola A. Adenle",
+    "James D. Ford",
+    "John F. Morton",
+    "Stephen Twomlow",
+    "Keith Alverson",
+    "Andrea Cattaneo",
+    "Raffaello Cervigni",
+    "Pradeep Kurukulasuriya",
+    "Saleemul Huq",
+    "Ariella Helfgott",
+    "Jane Ebinger"
+   ],
+   "year": 2017,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.ecolecon.2017.06.004",
+   "abstract": null
+  },
+  {
+   "title": "Climate Change and Adaptation: The Case of Nigerian Agriculture",
+   "authors": [
+    "Francesco Bosello",
+    "Lorenza Campagnolo",
+    "Raffaello Cervigni",
+    "Fabio Eboli"
+   ],
+   "year": 2017,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1007/s10640-016-0105-4",
+   "abstract": null
+  },
+  {
+   "title": "Accelerating climate-resilient and low-carbon development : second progress report on the implementation of the Africa climate business plan - overview",
+   "authors": [
+    "Raffaello Cervigni",
+    "Tao Gccso Wang"
+   ],
+   "year": 2017,
+   "venue": "",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Impact of climate change on staple food crop production in Nigeria",
+   "authors": [
+    "Valentina Mereu",
+    "Gianluca Carboni",
+    "Andrea Gallo",
+    "Raffaello Cervigni",
+    "Donatella Spano"
+   ],
+   "year": 2015,
+   "venue": "Climatic Change",
+   "status": "已发表",
+   "url": "https://doi.org/10.1007/s10584-015-1428-9",
+   "abstract": null
+  },
+  {
+   "title": "The Cost of Adapting to Climate Change in Ethiopia: Sector-Wise and Macro-Economic Estimates",
+   "authors": [
+    "Sherman Robinson",
+    "Kenneth Marc Strzepek",
+    "Raffaello Cervigni"
+   ],
+   "year": 2013,
+   "venue": "",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Climate projection ensemble as support to water management and irrigation in Nigeria",
+   "authors": [
+    "Monia Santini",
+    "Riccardo Valentini",
+    "Raffaello Cervigni"
+   ],
+   "year": 2013,
+   "venue": "Journal of Water and Climate Change",
+   "status": "已发表",
+   "url": "https://doi.org/10.2166/wcc.2013.039",
+   "abstract": null
+  },
+  {
+   "title": "Environmentally protected areas and local development in the 2000-2006 regional policies",
+   "authors": [
+    "Raffaello Cervigni",
+    "Sabrina Lucatelli",
+    "Aline Pennisi"
+   ],
+   "year": 2008,
+   "venue": "RePEc: Research Papers in Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Size, competition and quality in the italian market for consulting services",
+   "authors": [
+    "Raffaello Cervigni",
+    "Oriana Cuccu",
+    "Raffaele Miniaci"
+   ],
+   "year": 2008,
+   "venue": "Journal of Public Procurement",
+   "status": "已发表",
+   "url": "https://doi.org/10.1108/jopp-08-01-2008-b002",
+   "abstract": null
+  },
+  {
+   "title": "Total economic value of forests in Mexico",
+   "authors": [
+    "William Neil Adger",
+    "Katrina Myrvang Brown",
+    "Raffaello Cervigni",
+    "Dominic Moran"
+   ],
+   "year": 1995,
+   "venue": "AMBIO",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

@@ -1,0 +1,1373 @@
+{
+ "slug": "klaus-deininger",
+ "name": "Klaus Deininger",
+ "sources": [
+  "https://ideas.repec.org/f/pde449.html",
+  "https://www.worldbank.org/en/about/people/k/klaus-deininger"
+ ],
+ "collected": "2026-11-06",
+ "notes": "No personal site/CV; built from his self-registered RePEc/IDEAS page (journal articles, chapters, and working papers not later published as journal articles). IDEAS shows no journal items after 2021 (page appears not to list the latest work), so post-2021 output is missing. Working papers whose article version exists were dropped (matched by title; some retitled versions may remain, e.g. 2016 NREGA short-term effects and 2015 pronatal property rights could have journal versions). Conference-paper, IFPRI/AAEA duplicates, reports, books and pre-2000 WPs skipped. 'AJAE Appendix' entry and the mis-indexed 'Conclusion' chapter entries skipped. Years are IDEAS years (can differ from print year by one).",
+ "papers": [
+  {
+   "title": "Investment impacts of gendered land rights in customary tenure systems: Substantive and methodological insights from Malawi",
+   "authors": [
+    "Klaus Deininger",
+    "Fang Xia",
+    "Talip Kilic",
+    "Heather Moylan"
+   ],
+   "year": 2021,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Sustaining land registration benefits by addressing the challenges of reversion to informality in Rwanda",
+   "authors": [
+    "Daniel Ayalew Ali",
+    "Klaus Deininger",
+    "Godfrey Mahofa",
+    "Rhona Nyakulama"
+   ],
+   "year": 2021,
+   "venue": "Land Use Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Property taxation in India: Issues impacting revenue performance and suggestions for reform",
+   "authors": [
+    "Rajul Awasthi",
+    "Mohan Nagarajan",
+    "Klaus Deininger"
+   ],
+   "year": 2021,
+   "venue": "Land Use Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Using satellite imagery to create tax maps and enhance local revenue collection",
+   "authors": [
+    "Daniel Ayalew Ali",
+    "Klaus Deininger",
+    "Michael Wild"
+   ],
+   "year": 2020,
+   "venue": "Applied Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Personality Traits, Technology Adoption, and Technical Efficiency: Evidence from Smallholder Rice Farms in Ghana",
+   "authors": [
+    "Daniel Ayalew Ali",
+    "Derick Bowen",
+    "Klaus Deininger"
+   ],
+   "year": 2020,
+   "venue": "Journal of Development Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Property rights reform to support China's rural-urban integration: household-level evidence from the Chengdu experiment",
+   "authors": [
+    "Klaus Deininger",
+    "Songqing Jin",
+    "Shouying Liu",
+    "Fang Xia"
+   ],
+   "year": 2020,
+   "venue": "Australian Journal of Agricultural and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Using satellite imagery to assess impacts of soil and water conservation measures: Evidence from Ethiopia's Tana-Beles watershed",
+   "authors": [
+    "Daniel Ayalew Ali",
+    "Klaus Deininger",
+    "Daniel Monchuk"
+   ],
+   "year": 2020,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Women's political leadership and economic empowerment: Evidence from public works in India",
+   "authors": [
+    "Klaus Deininger",
+    "Hari K. Nagarajan",
+    "Sudhir K. Singh"
+   ],
+   "year": 2020,
+   "venue": "Journal of Comparative Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Heterogeneous welfare impacts of National Rural Employment Guarantee Scheme: Evidence from Andhra Pradesh, India",
+   "authors": [
+    "Klaus Deininger",
+    "Yanyan Liu"
+   ],
+   "year": 2019,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Costs and Benefits of Land Fragmentation: Evidence from Rwanda",
+   "authors": [
+    "Daniel Ayalew Ali",
+    "Klaus Deininger",
+    "Loraine Ronchi"
+   ],
+   "year": 2019,
+   "venue": "The World Bank Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Spillover Effects of Tobacco Farms on the Labor Supply, Education, and Health of Children: Evidence from Malawi",
+   "authors": [
+    "Fang Xia",
+    "Klaus Deininger"
+   ],
+   "year": 2019,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Property Rights Reform to Support China's Rural-Urban Integration: Village-Level Evidence from the Chengdu Experiment",
+   "authors": [
+    "Klaus Deininger",
+    "Songqing Jin",
+    "Shouying Liu",
+    "Ting Shao",
+    "Fang Xia"
+   ],
+   "year": 2019,
+   "venue": "Oxford Bulletin of Economics and Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Does Large Farm Establishment Create Benefits for Neighboring Smallholders? Evidence from Ethiopia",
+   "authors": [
+    "Daniel Ali",
+    "Klaus Deininger",
+    "Anthony Harris"
+   ],
+   "year": 2019,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Gendered Incidence and Impacts of Tenure Insecurity on Agricultural Performance in Malawi's Customary Tenure System",
+   "authors": [
+    "Klaus Deininger",
+    "Fang Xia",
+    "Stein Holden"
+   ],
+   "year": 2019,
+   "venue": "Journal of Development Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Inheritance Law Reform, Empowerment, and Human Capital Accumulation: Second-Generation Effects from India",
+   "authors": [
+    "Klaus Deininger",
+    "Songqing Jin",
+    "Hari K. Nagarajan",
+    "Fang Xia"
+   ],
+   "year": 2019,
+   "venue": "Journal of Development Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Assessing the long-term performance of large-scale land transfers: Challenges and opportunities in Malawi's estate sector",
+   "authors": [
+    "Klaus Deininger",
+    "Fang Xia"
+   ],
+   "year": 2018,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Can Labor-Market Imperfections Explain Changes in the Inverse Farm Size-Productivity Relationship? Longitudinal Evidence from Rural India",
+   "authors": [
+    "Klaus Deininger",
+    "Songqing Jin",
+    "Yanyan Liu",
+    "Sudhir K. Singh"
+   ],
+   "year": 2018,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Determinants of Productivity and Structural Change in a Large Commercial Farm Environment: Evidence from Ukraine",
+   "authors": [
+    "Klaus Deininger",
+    "Denys Nizalov",
+    "Sudhir K. Singh"
+   ],
+   "year": 2018,
+   "venue": "The World Bank Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "New Ways to Assess and Enhance Land Registry Sustainability: Evidence from Rwanda",
+   "authors": [
+    "Daniel Ayalew Ali",
+    "Klaus Deininger",
+    "Marguerite Duponchel"
+   ],
+   "year": 2017,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Does Land Fragmentation Increase the Cost of Cultivation? Evidence from India",
+   "authors": [
+    "Klaus Deininger",
+    "Daniel Monchuk",
+    "Hari K. Nagarajan",
+    "Sudhir K. Singh"
+   ],
+   "year": 2017,
+   "venue": "Journal of Development Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Smallholders' land access in Sub-Saharan Africa: A new landscape?",
+   "authors": [
+    "Klaus Deininger",
+    "Sara Savastano",
+    "Fang Xia"
+   ],
+   "year": 2017,
+   "venue": "Food Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Using National Statistics to Increase Transparency of Large Land Acquisition: Evidence from Ethiopia",
+   "authors": [
+    "Daniel Ayalew Ali",
+    "Klaus Deininger",
+    "Anthony Harris"
+   ],
+   "year": 2017,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Quantifying Spillover Effects from Large Land-based Investment: The Case of Mozambique",
+   "authors": [
+    "Klaus Deininger",
+    "Fang Xia"
+   ],
+   "year": 2016,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Small price incentives increase women's access to land titles in Tanzania",
+   "authors": [
+    "Daniel Ayalew Ali",
+    "Matthew Collin",
+    "Klaus Deininger",
+    "Stefan Dercon",
+    "Justin Sandefur",
+    "Andrew Zeitlin"
+   ],
+   "year": 2016,
+   "venue": "Journal of Development Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Investigating the Gender Gap in Agricultural Productivity: Evidence from Uganda",
+   "authors": [
+    "Daniel Ali",
+    "Derick Bowen",
+    "Klaus Deininger",
+    "Marguerite Duponchel"
+   ],
+   "year": 2016,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Is There a Farm Size-Productivity Relationship in African Agriculture? Evidence from Rwanda",
+   "authors": [
+    "Daniel Ayalew Ali",
+    "Klaus Deininger"
+   ],
+   "year": 2015,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Does Female Reservation Affect Long-Term Political Outcomes? Evidence from Rural India",
+   "authors": [
+    "Klaus Deininger",
+    "Songqing Jin",
+    "Hari K. Nagarajan",
+    "Fang Xia"
+   ],
+   "year": 2015,
+   "venue": "Journal of Development Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "What Drives the Global 'Land Rush'?",
+   "authors": [
+    "Rabah Arezki",
+    "Klaus Deininger",
+    "Harris Selod"
+   ],
+   "year": 2015,
+   "venue": "The World Bank Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Credit Constraints and Agricultural Productivity: Evidence from rural Rwanda",
+   "authors": [
+    "Daniel Ayalew Ali",
+    "Klaus Deininger",
+    "Marguerite Duponchel"
+   ],
+   "year": 2014,
+   "venue": "Journal of Development Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Causes and Implications of Credit Rationing in Rural Ethiopia: The Importance of Zonal Variation",
+   "authors": [
+    "Daniel Ayalew Ali",
+    "Klaus Deininger"
+   ],
+   "year": 2014,
+   "venue": "Journal of African Economies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Identifying and addressing land governance constraints to support intensification and land market operation: Evidence from 10 African countries",
+   "authors": [
+    "Klaus Deininger",
+    "Thea Hilhorst",
+    "Vera Songwe"
+   ],
+   "year": 2014,
+   "venue": "Food Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Moving Off the Farm: Land Institutions to Facilitate Structural Transformation and Agricultural Productivity Growth in China",
+   "authors": [
+    "Klaus Deininger",
+    "Songqing Jin",
+    "Fang Xia",
+    "Jikun Huang"
+   ],
+   "year": 2014,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Environmental and gender impacts of land tenure regularization in Africa: Pilot evidence from Rwanda",
+   "authors": [
+    "Daniel Ayalew Ali",
+    "Klaus Deininger",
+    "Markus Goldstein"
+   ],
+   "year": 2014,
+   "venue": "Journal of Development Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Women's Inheritance Rights and Intergenerational Transmission of Resources in India",
+   "authors": [
+    "Klaus Deininger",
+    "Aparajita Goyal",
+    "Hari Nagarajan"
+   ],
+   "year": 2013,
+   "venue": "Journal of Human Resources",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic and Social Impacts of an Innovative Self-Help Group Model in India",
+   "authors": [
+    "Klaus Deininger",
+    "Yanyan Liu"
+   ],
+   "year": 2013,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How Important Are Endogenous Peer Effects In Group Lending? Estimating A Static Game Of Incomplete Information",
+   "authors": [
+    "Shanjun Li",
+    "Yanyan Liu",
+    "Klaus Deininger"
+   ],
+   "year": 2013,
+   "venue": "Journal of Applied Econometrics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Global land investments in the bio-economy: evidence and policy implications",
+   "authors": [
+    "Klaus Deininger"
+   ],
+   "year": 2013,
+   "venue": "Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Productivity effects of land rental market operation in Ethiopia: evidence from a matched tenant-landlord sample",
+   "authors": [
+    "Klaus Deininger",
+    "Daniel Ayalew Ali",
+    "Tekie Alemu"
+   ],
+   "year": 2013,
+   "venue": "Applied Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Does Sharecropping Affect Long-term Investment? Evidence from West Bengal's Tenancy Reforms",
+   "authors": [
+    "Klaus Deininger",
+    "Songqing Jin",
+    "Vandana Yadav"
+   ],
+   "year": 2013,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Wage Discrimination in India's Informal Labor Markets: Exploring the Impact of Caste and Gender",
+   "authors": [
+    "Klaus Deininger",
+    "Songqing Jin",
+    "Hari Nagarajan"
+   ],
+   "year": 2013,
+   "venue": "Review of Development Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Growing Resource Scarcity and Global Farmland Investment",
+   "authors": [
+    "Derek Byerlee",
+    "Klaus Deininger"
+   ],
+   "year": 2013,
+   "venue": "Annual Review of Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Evaluating Program Impacts on Mature Self-help Groups in India",
+   "authors": [
+    "Klaus Deininger",
+    "Yanyan Liu"
+   ],
+   "year": 2013,
+   "venue": "The World Bank Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Going digital: Credit effects of land registry computerization in India",
+   "authors": [
+    "Klaus Deininger",
+    "Aparajita Goyal"
+   ],
+   "year": 2012,
+   "venue": "Journal of Development Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Land Fragmentation, Cropland Abandonment, and Land Market Operation in Albania",
+   "authors": [
+    "Klaus Deininger",
+    "Sara Savastano",
+    "Calogero Carletto"
+   ],
+   "year": 2012,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Rise of Large Farms in Land Abundant Countries: Do They Have a Future?",
+   "authors": [
+    "Klaus Deininger",
+    "Derek Byerlee"
+   ],
+   "year": 2012,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Can diaries help in improving agricultural production statistics? Evidence from Uganda",
+   "authors": [
+    "Klaus Deininger",
+    "Calogero Carletto",
+    "Sara Savastano",
+    "James Muwonge"
+   ],
+   "year": 2012,
+   "venue": "Journal of Development Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Tenure Insecurity, Gender, Low-cost Land Certification and Land Rental Market Participation in Ethiopia",
+   "authors": [
+    "Stein Holden",
+    "Klaus Deininger",
+    "Hosaena Ghebru"
+   ],
+   "year": 2011,
+   "venue": "Journal of Development Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Impacts of Land Certification on Tenure Security, Investment, and Land Market Participation: Evidence from Ethiopia",
+   "authors": [
+    "Klaus Deininger",
+    "Daniel Ayalew Ali",
+    "Tekie Alemu"
+   ],
+   "year": 2011,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "La « course aux terres » : théorie et déterminants empiriques des acquisitions transfrontalières de terres agricoles",
+   "authors": [
+    "Rabah Arezki",
+    "Klaus Deininger",
+    "Harris Selod"
+   ],
+   "year": 2011,
+   "venue": "Économie et Statistique",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Towards sustainable systems of land administration: Recent evidence and challenges for Africa",
+   "authors": [
+    "Klaus Deininger"
+   ],
+   "year": 2010,
+   "venue": "African Journal of Agricultural and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Securing property rights in transition: Lessons from implementation of China's rural land contracting law",
+   "authors": [
+    "Klaus Deininger",
+    "Songqing Jin"
+   ],
+   "year": 2009,
+   "venue": "Journal of Economic Behavior & Organization",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Key Constraints for Rural Non-Farm Activity in Tanzania: Combining Investment Climate and Household Surveys",
+   "authors": [
+    "Songqing Jin",
+    "Klaus Deininger"
+   ],
+   "year": 2009,
+   "venue": "Journal of African Economies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Determinants and Consequences of Land Sales Market Participation: Panel Evidence from India",
+   "authors": [
+    "Klaus Deininger",
+    "Songqing Jin",
+    "Hari K. Nagarajan"
+   ],
+   "year": 2009,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Land rental markets in the process of rural structural transformation: Productivity and equity impacts from China",
+   "authors": [
+    "Songqing Jin",
+    "Klaus Deininger"
+   ],
+   "year": 2009,
+   "venue": "Journal of Comparative Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Land Reforms, Poverty Reduction, and Economic Growth: Evidence from India",
+   "authors": [
+    "Klaus Deininger",
+    "Songqing Jin",
+    "Hari K. Nagarajan"
+   ],
+   "year": 2009,
+   "venue": "Journal of Development Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Efficiency and equity impacts of rural land rental restrictions: Evidence from India",
+   "authors": [
+    "Klaus Deininger",
+    "Songqing Jin",
+    "Hari K. Nagarajan"
+   ],
+   "year": 2008,
+   "venue": "European Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do Overlapping Land Rights Reduce Agricultural Investment? Evidence from Uganda",
+   "authors": [
+    "Klaus Deininger",
+    "Daniel Ayalew Ali"
+   ],
+   "year": 2008,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Legal Knowledge and Economic Development: The Case of Land Rights in Uganda",
+   "authors": [
+    "Klaus Deininger",
+    "Daniel Ayalew Ali",
+    "Takashi Yamano"
+   ],
+   "year": 2008,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Land Sales and Rental Markets in Transition: Evidence from Rural Vietnam",
+   "authors": [
+    "Klaus Deininger",
+    "Songqing Jin"
+   ],
+   "year": 2008,
+   "venue": "Oxford Bulletin of Economics and Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Assessing the Functioning of Land Rental Markets in Ethiopia",
+   "authors": [
+    "Klaus Deininger",
+    "Daniel Ayalew Ali",
+    "Tekie Alemu"
+   ],
+   "year": 2008,
+   "venue": "Economic Development and Cultural Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Rural Land Certification in Ethiopia: Process, Initial Impact, and Implications for Other African Countries",
+   "authors": [
+    "Klaus Deininger",
+    "Daniel Ayalew Ali",
+    "Stein Holden",
+    "Jaap Zevenbergen"
+   ],
+   "year": 2008,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Sri Lanka's Rural Non-Farm Economy: Removing Constraints to Pro-Poor Growth",
+   "authors": [
+    "Klaus Deininger",
+    "Songqing Jin",
+    "Mona Sur"
+   ],
+   "year": 2007,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Impacts of Low-Cost Land Certification on Investment and Productivity",
+   "authors": [
+    "Stein T. Holden",
+    "Klaus Deininger",
+    "Hosaena Ghebru"
+   ],
+   "year": 2007,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Risk coping and starvation in rural China",
+   "authors": [
+    "Klaus Deininger",
+    "Songqing Jin",
+    "Xinhua Yu"
+   ],
+   "year": 2007,
+   "venue": "Applied Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Incidence and impact of land conflict in Uganda",
+   "authors": [
+    "Klaus Deininger",
+    "Raffaella Castagnini"
+   ],
+   "year": 2006,
+   "venue": "Journal of Economic Behavior & Organization",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Tenure security and land-related investment: Evidence from Ethiopia",
+   "authors": [
+    "Klaus Deininger",
+    "Songqing Jin"
+   ],
+   "year": 2006,
+   "venue": "European Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic and Welfare Impact of the Abolition of Health User Fees: Evidence from Uganda",
+   "authors": [
+    "Klaus Deininger",
+    "Paul Mpuga"
+   ],
+   "year": 2005,
+   "venue": "Journal of African Economies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Mechanisms for Land Transfer in Ethiopia: implications for Efficiency, Equity and Non-Farm Development",
+   "authors": [
+    "Klaus Deininger",
+    "Songqing Jin",
+    "Berhanu Adenw",
+    "Gebre-Selassie Samuel"
+   ],
+   "year": 2005,
+   "venue": "Ethiopian Journal of Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The potential of land rental markets in the process of economic development: Evidence from China",
+   "authors": [
+    "Klaus Deininger",
+    "Songqing Jin"
+   ],
+   "year": 2005,
+   "venue": "Journal of Development Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Impact of AIDS on Family Composition, Welfare, and Investment: Evidence from Uganda",
+   "authors": [
+    "Klaus Deininger",
+    "Anja Crommelynck",
+    "Gloria Kempaka"
+   ],
+   "year": 2005,
+   "venue": "Review of Development Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Does Greater Accountability Improve the Quality of Public Service Delivery? Evidence from Uganda",
+   "authors": [
+    "Klaus Deininger",
+    "Paul Mpuga"
+   ],
+   "year": 2005,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic Benefits and Costs of Land Redistribution in Zimbabwe in the Early 1980s",
+   "authors": [
+    "Klaus Deininger",
+    "Hans Hoogeveen",
+    "Bill H. Kinsey"
+   ],
+   "year": 2004,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Investment and equity effects of land regularisation: the case of Nicaragua",
+   "authors": [
+    "Klaus Deininger",
+    "Juan Sebastian Chamorro"
+   ],
+   "year": 2004,
+   "venue": "Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Impact of Property Rights on Households' Investment, Risk Coping, and Policy Preferences: Evidence from China",
+   "authors": [
+    "Klaus Deininger",
+    "Songqing Jin"
+   ],
+   "year": 2003,
+   "venue": "Economic Development and Cultural Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Determinants and Impacts of Rural Land Market Activity: Evidence from Nicaragua",
+   "authors": [
+    "Klaus Deininger",
+    "Eduardo Zegarra",
+    "Isabel Lavadenz"
+   ],
+   "year": 2003,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Land Markets in Developing and Transition Economies: Impact of Liberalization and Implications for Future Reform",
+   "authors": [
+    "Klaus Deininger"
+   ],
+   "year": 2003,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Causes and consequences of civil strife: micro-level evidence from Uganda",
+   "authors": [
+    "Klaus Deininger"
+   ],
+   "year": 2003,
+   "venue": "Oxford Economic Papers",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Does cost of schooling affect enrollment by the poor? Universal primary education in Uganda",
+   "authors": [
+    "Klaus Deininger"
+   ],
+   "year": 2003,
+   "venue": "Economics of Education Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "AIDS-Induced Orphanhood as a Systemic Shock: Magnitude, Impact, and Program Interventions in Africa",
+   "authors": [
+    "Klaus Deininger",
+    "Marito Garcia",
+    "K. Subbarao"
+   ],
+   "year": 2003,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Determinants of Deforestation and the Economics of Protection: An Application to Mexico",
+   "authors": [
+    "Klaus Deininger",
+    "Bart Minten"
+   ],
+   "year": 2002,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Agrarian reforms in Eastern European countries: lessons from international experience",
+   "authors": [
+    "Klaus Deininger"
+   ],
+   "year": 2002,
+   "venue": "Journal of International Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Towards greater food security for India's poor: balancing government intervention and private competition",
+   "authors": [
+    "Dina L. Umali-Deininger",
+    "Klaus W. Deininger"
+   ],
+   "year": 2001,
+   "venue": "Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Rural Nonfarm Employment and Income Diversification in Colombia",
+   "authors": [
+    "Klaus Deininger",
+    "Pedro Olinto"
+   ],
+   "year": 2001,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Making Negotiated Land Reform Work: Initial Experience from Colombia, Brazil and South Africa",
+   "authors": [
+    "Klaus Deininger"
+   ],
+   "year": 1999,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Poverty, Policies, and Deforestation: The Case of Mexico",
+   "authors": [
+    "Klaus W. Deininger",
+    "Bart Minten"
+   ],
+   "year": 1999,
+   "venue": "Economic Development and Cultural Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Evolution of the World Bank's Land Policy: Principles, Experience, and Future Challenges",
+   "authors": [
+    "Klaus Deininger",
+    "Hans Binswanger"
+   ],
+   "year": 1999,
+   "venue": "The World Bank Research Observer",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Does Economic Analysis Improve the Quality of Foreign Assistance?",
+   "authors": [
+    "Klaus Deininger",
+    "Lyn Squire",
+    "Swati Basu"
+   ],
+   "year": 1998,
+   "venue": "The World Bank Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "New ways of looking at old issues: inequality and growth",
+   "authors": [
+    "Klaus Deininger",
+    "Lyn Squire"
+   ],
+   "year": 1998,
+   "venue": "Journal of Development Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Explaining Agricultural and Agrarian Policies in Developing Countries",
+   "authors": [
+    "Hans P. Binswanger",
+    "Klaus Deininger"
+   ],
+   "year": 1997,
+   "venue": "Journal of Economic Literature",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A New Data Set Measuring Income Inequality",
+   "authors": [
+    "Klaus Deininger",
+    "Lyn Squire"
+   ],
+   "year": 1996,
+   "venue": "The World Bank Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Rent Seeking and the Development of Large-Scale Agriculture in Kenya, South Africa, and Zimbabwe",
+   "authors": [
+    "Klaus Deininger",
+    "Hans P. Binswanger"
+   ],
+   "year": 1995,
+   "venue": "Economic Development and Cultural Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Collective agricultural production: A solution for transition economies?",
+   "authors": [
+    "Klaus Deininger"
+   ],
+   "year": 1995,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Agricultural Land Relations in the Developing World",
+   "authors": [
+    "Hans P. Binswanger",
+    "Klaus Deininger",
+    "Gershon Feder"
+   ],
+   "year": 1993,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "South African land policy: The legacy of history and current options",
+   "authors": [
+    "Hans P. Binswanger",
+    "Klaus Deininger"
+   ],
+   "year": 1993,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Global 'Rush' for Land: Does it Provide Opportunities for African Countries?",
+   "authors": [
+    "Klaus Deininger"
+   ],
+   "year": 2013,
+   "venue": "The Industrial Policy Revolution II (Palgrave Macmillan, book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Land Tenure Reforms, Poverty and Natural Resource Management: Conceptual Framework",
+   "authors": [
+    "Stein T. Holden",
+    "Keijiro Otsuka",
+    "Klaus Deininger"
+   ],
+   "year": 2013,
+   "venue": "Land Tenure Reform in Asia and Africa (Palgrave Macmillan, book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Using the Land Governance Assessment Framework to Help Secure Rural Land Rights: Framework and Experience Thus Far",
+   "authors": [
+    "Klaus Deininger",
+    "Thea Hilhorst"
+   ],
+   "year": 2013,
+   "venue": "Land Tenure Reform in Asia and Africa (Palgrave Macmillan, book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Promises and Realities of Community-Based Agricultural Extension",
+   "authors": [
+    "Gershon Feder",
+    "Jock R. Anderson",
+    "Regina Birner",
+    "Klaus Deininger"
+   ],
+   "year": 2010,
+   "venue": "Community, Market and State in Development (Palgrave Macmillan, book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Land institutions and land markets",
+   "authors": [
+    "Klaus Deininger",
+    "Gershon Feder"
+   ],
+   "year": 2001,
+   "venue": "Handbook of Agricultural Economics, vol. 1 (Elsevier, book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Power, distortions, revolt and reform in agricultural land relations",
+   "authors": [
+    "Hans P. Binswanger",
+    "Klaus Deininger",
+    "Gershon Feder"
+   ],
+   "year": 1995,
+   "venue": "Handbook of Development Economics, vol. 3 (Elsevier, book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Using Registry Data to Assess Gender-Differentiated Land and Credit Market Effects of Urban Land Policy Reform: Evidence from Lesotho",
+   "authors": [
+    "Daniel Ayalew Ali",
+    "Klaus W. Deininger"
+   ],
+   "year": 2021,
+   "venue": "World Bank Policy Research Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Using Machine Learning to Assess Yield Impacts of Crop Rotation: Combining Satellite and Statistical Data for Ukraine",
+   "authors": [
+    "Klaus W. Deininger",
+    "Daniel Ayalew Ali",
+    "Nataliia Kussul",
+    "Mykola Lavreniuk",
+    "Oleg Nivievskyi"
+   ],
+   "year": 2020,
+   "venue": "World Bank Policy Research Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Political Reservation and Female Labor Force Participation in Rural India",
+   "authors": [
+    "Klaus W. Deininger",
+    "Songqing Jin",
+    "Hari Krishnan Nagarajan",
+    "Sudhir K. Singh"
+   ],
+   "year": 2020,
+   "venue": "World Bank Policy Research Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Making Secure Land Tenure Count for Global Development Goals and National Policy: Evidence from Zambia",
+   "authors": [
+    "Daniel Ayalew Ali",
+    "Klaus W. Deininger",
+    "Dorothea Huberta Maria Hilhorst",
+    "Frank Kakungu",
+    "Yuanyuan Yi"
+   ],
+   "year": 2019,
+   "venue": "World Bank Policy Research Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Devolution and Collective Action in Forest Management: The Case of China",
+   "authors": [
+    "Yuanyuan Yi",
+    "Jintao Xu",
+    "Gunnar Köhlin",
+    "Klaus Deininger"
+   ],
+   "year": 2020,
+   "venue": "EfD Discussion Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Pronatal property rights over land and fertility outcomes: evidence from a natural experiment in Ethiopia",
+   "authors": [
+    "Daniel Ayalew Ali",
+    "Klaus W. Deininger",
+    "Niels Gerd Kemper"
+   ],
+   "year": 2015,
+   "venue": "World Bank Policy Research Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Short-term effects of India's employment guarantee program on labor markets and agricultural productivity",
+   "authors": [
+    "Klaus W. Deininger",
+    "Hari Krishnan Nagarajan",
+    "Sudhir K. Singh"
+   ],
+   "year": 2016,
+   "venue": "World Bank Policy Research Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

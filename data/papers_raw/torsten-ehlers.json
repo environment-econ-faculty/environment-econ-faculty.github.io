@@ -1,0 +1,144 @@
+{
+ "slug": "torsten-ehlers",
+ "name": "Torsten Ehlers",
+ "sources": [
+  "https://www.bis.org/author/torsten-ehlers"
+ ],
+ "collected": "2026-11-06",
+ "notes": "BIS author page (pages 1 and 3 of 4 read; pages 2 and 4 not read, so some items may be missing). BIS Papers, Bulletins, Quarterly Review articles and videos skipped. Author order: scholar first then page order, except JIE (Aldasoro, Ehlers, Eren) and Palgrave chapter ordered from memory of citations. Global banks dollar funding BIS WP 708 kept only as the JIE 2022 published version.",
+ "papers": [
+  {
+   "title": "Dollar funding and housing markets: the role of non-US global banks",
+   "authors": [
+    "Torsten Ehlers",
+    "Mathias Hoffmann",
+    "Alexander Raabe"
+   ],
+   "year": 2026,
+   "venue": "BIS Working Paper",
+   "status": "工作论文",
+   "url": "https://www.bis.org/publ/work1332.htm",
+   "abstract": null
+  },
+  {
+   "title": "Macroeconomic impact of weather disasters: a global and sectoral analysis",
+   "authors": [
+    "Torsten Ehlers",
+    "Jon Frost",
+    "Carlos Madeira",
+    "Ilhyock Shim"
+   ],
+   "year": 2025,
+   "venue": "BIS Working Paper",
+   "status": "工作论文",
+   "url": "https://www.bis.org/publ/work1292.htm",
+   "abstract": null
+  },
+  {
+   "title": "Sovereign green bonds: a catalyst for sustainable debt market development?",
+   "authors": [
+    "Torsten Ehlers",
+    "Gong Cheng",
+    "Frank Packer",
+    "Yanzhe Xiao"
+   ],
+   "year": 2024,
+   "venue": "BIS Working Paper",
+   "status": "工作论文",
+   "url": "https://www.bis.org/publ/work1198.htm",
+   "abstract": null
+  },
+  {
+   "title": "A Feature, not a Bug. The US Dollar in the European Monetary Union",
+   "authors": [
+    "Torsten Ehlers",
+    "Steffen Murau"
+   ],
+   "year": 2025,
+   "venue": "OBFA-TRANSFORM Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Deconstructing ESG scores: how to invest with your own criteria",
+   "authors": [
+    "Torsten Ehlers",
+    "Eric Jondeau",
+    "Ulrike Elsenhuber",
+    "Anandakumar Jegarasasingam"
+   ],
+   "year": 2023,
+   "venue": "Journal of Asset Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Global banks, dollar funding, and regulation",
+   "authors": [
+    "Iñaki Aldasoro",
+    "Torsten Ehlers",
+    "Egemen Eren"
+   ],
+   "year": 2022,
+   "venue": "Journal of International Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The pricing of carbon risk in syndicated loans: which risks are priced and why?",
+   "authors": [
+    "Torsten Ehlers",
+    "Frank Packer",
+    "Kathrin de Greiff"
+   ],
+   "year": 2022,
+   "venue": "Journal of Banking & Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Mapping shadow banking in China: structure and dynamics",
+   "authors": [
+    "Torsten Ehlers",
+    "Steven Kong",
+    "Feng Zhu"
+   ],
+   "year": 2018,
+   "venue": "BIS Working Paper",
+   "status": "工作论文",
+   "url": "https://www.bis.org/publ/work701.htm",
+   "abstract": null
+  },
+  {
+   "title": "Big techs in finance: on the new nexus between data privacy and competition",
+   "authors": [
+    "Frederic Boissay",
+    "Torsten Ehlers",
+    "Leonardo Gambacorta",
+    "Hyun Song Shin"
+   ],
+   "year": 2021,
+   "venue": "The Palgrave Handbook of Technological Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Infrastructure and corporate bond markets in Asia",
+   "authors": [
+    "Torsten Ehlers",
+    "Eli M Remolona",
+    "Frank Packer"
+   ],
+   "year": 2014,
+   "venue": "Financial flows and infrastructure financing",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

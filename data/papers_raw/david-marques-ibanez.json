@@ -1,0 +1,394 @@
+{
+ "slug": "david-marques-ibanez",
+ "name": "David Marques-Ibanez",
+ "sources": [
+  "https://www.ecb.europa.eu/pub/research/authors/profiles/david-marques-ibanez.en.html",
+  "https://ideas.repec.org/f/pma380.html",
+  "https://api.crossref.org (bylines of published versions)"
+ ],
+ "collected": "2026-11-06",
+ "notes": "ECB author profile (working papers, bylines as listed there) plus RePEc profile pma380 and Crossref for journal versions. ECB working papers with a later journal version (e.g. JEEA 2026 for the 'Whatever it takes' paper, JFSR 2026, FRL 2022, JBF 2022, EFM 2019, JFI 2017, Economic Policy 2011/2013) are listed only as the journal version. Skipped: ECB Research Bulletins, occasional papers, discussion of other paper, proceedings/Palgrave chapter, Richmond Fed brief, pre-2011 ECB WPs. 'Are universal banks better underwriters?' (ECB WP 1287) has no journal version found. Topic is mostly bank finance; only the climate papers are environment-related.",
+ "papers": [
+  {
+   "title": "Bail-in in action",
+   "authors": [
+    "David Marqués-Ibáñez",
+    "Gianluca Santilli",
+    "Giulia Scardozzi"
+   ],
+   "year": 2024,
+   "venue": "Economics Letters",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.econlet.2024.111764",
+   "abstract": null
+  },
+  {
+   "title": "Do banks fuel climate change?",
+   "authors": [
+    "Alessio Reghezza",
+    "Yener Altunbas",
+    "David Marqués-Ibáñez",
+    "Costanza Rodriguez d’Acri",
+    "Martina Spaggiari"
+   ],
+   "year": 2022,
+   "venue": "Journal of Financial Stability",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jfs.2022.101049",
+   "abstract": null
+  },
+  {
+   "title": "Do bank characteristics influence the effect of monetary policy on bank risk?",
+   "authors": [
+    "Yener Altunbas",
+    "Leonardo Gambacorta",
+    "David Marqués-Ibáñez"
+   ],
+   "year": 2012,
+   "venue": "Economics Letters",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.econlet.2012.04.106",
+   "abstract": null
+  },
+  {
+   "title": "Does Monetary Policy Affect Bank Risk?",
+   "authors": [
+    "Yener Altunbas",
+    "Leonardo Gambacorta",
+    "David Marqués-Ibáñez"
+   ],
+   "year": 2014,
+   "venue": "International Journal of Central Banking",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Bank ratings: what determines their quality?",
+   "authors": [
+    "Harald Hau",
+    "Sam Langfield",
+    "David Marqués-Ibáñez"
+   ],
+   "year": 2013,
+   "venue": "Economic Policy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/1468-0327.12009",
+   "abstract": null
+  },
+  {
+   "title": "The bank lending channel: lessons from the crisis",
+   "authors": [
+    "Leonardo Gambacorta",
+    "David Marqués-Ibáñez"
+   ],
+   "year": 2011,
+   "venue": "Economic Policy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/j.1468-0327.2011.00261.x",
+   "abstract": null
+  },
+  {
+   "title": "Efficiency and risk in European banking",
+   "authors": [
+    "Franco Fiordelisi",
+    "David Marqués-Ibáñez",
+    "Phil Molyneux"
+   ],
+   "year": 2011,
+   "venue": "Journal of Banking & Finance",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jbankfin.2010.10.005",
+   "abstract": null
+  },
+  {
+   "title": "Large debt financing: syndicated loans versus corporate bonds",
+   "authors": [
+    "Yener Altunbaş",
+    "Alper Kara",
+    "David Marqués-Ibáñez"
+   ],
+   "year": 2010,
+   "venue": "The European Journal of Finance",
+   "status": "已发表",
+   "url": "https://doi.org/10.1080/13518470903314394",
+   "abstract": null
+  },
+  {
+   "title": "Mergers and acquisitions and bank performance in Europe: The role of strategic similarities",
+   "authors": [
+    "Yener Altunbas",
+    "David Marqués-Ibáñez"
+   ],
+   "year": 2008,
+   "venue": "Journal of Economics and Business",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Impact of Regulatory Changes on Rating Shopping and Rating Catering Behavior in the European Securitization Market",
+   "authors": [
+    "Nodirbek Karimov",
+    "Alper Kara",
+    "Gareth Downing",
+    "David Marqués-Ibáñez"
+   ],
+   "year": 2025,
+   "venue": "Journal of Financial Services Research",
+   "status": "已发表",
+   "url": "https://doi.org/10.1007/s10693-025-00453-1",
+   "abstract": null
+  },
+  {
+   "title": "Bank reputation and securitization quality: European evidence",
+   "authors": [
+    "Solomon Y. Deku",
+    "Alper Kara",
+    "David Marqués-Ibáñez"
+   ],
+   "year": 2022,
+   "venue": "Finance Research Letters",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.frl.2021.102427",
+   "abstract": null
+  },
+  {
+   "title": "Market power and bank systemic risk: Role of securitization and bank capital",
+   "authors": [
+    "Yener Altunbas",
+    "David Marqués-Ibáñez",
+    "Michiel van Leuvensteijn",
+    "Tianshu Zhao"
+   ],
+   "year": 2022,
+   "venue": "Journal of Banking & Finance",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jbankfin.2022.106451",
+   "abstract": null
+  },
+  {
+   "title": "Securitization and credit quality in the European market",
+   "authors": [
+    "Alper Kara",
+    "David Marqués-Ibáñez",
+    "Steven Ongena"
+   ],
+   "year": 2018,
+   "venue": "European Financial Management",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/eufm.12168",
+   "abstract": null
+  },
+  {
+   "title": "Who Borrows from the Lender of Last Resort?",
+   "authors": [
+    "Itamar Drechsler",
+    "Thomas Drechsel",
+    "David Marqués-Ibáñez",
+    "Philipp Schnabl"
+   ],
+   "year": 2016,
+   "venue": "Journal of Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Determinants of syndicated lending in European banks and the impact of the financial crisis",
+   "authors": [
+    "Barry Howcroft",
+    "Alper Kara",
+    "David Marqués-Ibáñez"
+   ],
+   "year": 2014,
+   "venue": "Journal of International Financial Markets, Institutions and Money",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.intfin.2014.07.005",
+   "abstract": null
+  },
+  {
+   "title": "Is bank default risk systematic?",
+   "authors": [
+    "Franco Fiordelisi",
+    "David Marqués-Ibáñez"
+   ],
+   "year": 2013,
+   "venue": "Journal of Banking & Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Securitization, risk-transferring and financial instability: The case of Spain",
+   "authors": [
+    "Santiago Carbó-Valverde",
+    "David Marqués-Ibáñez",
+    "Francisco Rodríguez-Fernández"
+   ],
+   "year": 2012,
+   "venue": "Journal of International Money and Finance",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jimonfin.2011.11.004",
+   "abstract": null
+  },
+  {
+   "title": "Bank risk and monetary policy",
+   "authors": [
+    "Yener Altunbas",
+    "Leonardo Gambacorta",
+    "David Marqués-Ibáñez"
+   ],
+   "year": 2010,
+   "venue": "Journal of Financial Stability",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "As interest rates surge: flighty deposits and lending",
+   "authors": [
+    "Giuseppe Cappelletti",
+    "David Marqués-Ibáñez",
+    "Alessio Reghezza",
+    "Carmelo Salleo"
+   ],
+   "year": 2024,
+   "venue": "ECB Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Business as usual: bank climate commitments, lending, and engagement",
+   "authors": [
+    "Parinitha Sastry",
+    "Emil Verner",
+    "David Marqués-Ibáñez"
+   ],
+   "year": 2024,
+   "venue": "ECB Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The climate and the economy",
+   "authors": [
+    "Johannes Breckenfelder",
+    "Bartosz Maćkowiak",
+    "David Marqués-Ibáñez",
+    "Conny Olovsson",
+    "Alexander Popov",
+    "Davide Porcellacchia",
+    "Glenn Schepens"
+   ],
+   "year": 2023,
+   "venue": "ECB Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Pandemic lending: micro and macro effects of model-based regulation",
+   "authors": [
+    "Franco Fiordelisi",
+    "Giulia Fusi",
+    "Angela Maddaloni",
+    "David Marqués-Ibáñez"
+   ],
+   "year": 2022,
+   "venue": "ECB Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Monetary policy and bank stability: the analytical toolbox reviewed",
+   "authors": [
+    "Ugo Albertazzi",
+    "Francesca Barbiero",
+    "David Marqués-Ibáñez",
+    "Alexander Popov",
+    "Costanza Rodriguez d'Acri",
+    "Thomas Vlassopoulos"
+   ],
+   "year": 2020,
+   "venue": "ECB Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The architecture of supervision",
+   "authors": [
+    "Miguel Ampudia",
+    "Thorsten Beck",
+    "Andreas Beyer",
+    "Jean-Edouard Colliard",
+    "Agnese Leonello",
+    "Angela Maddaloni",
+    "David Marqués-Ibáñez"
+   ],
+   "year": 2019,
+   "venue": "ECB Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Are universal banks better underwriters? Evidence from the last days of the Glass-Steagall Act",
+   "authors": [
+    "Dario Focarelli",
+    "David Marqués-Ibáñez",
+    "Alberto Franco Pozzolo"
+   ],
+   "year": 2011,
+   "venue": "ECB Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Realized Bank Risk during the Great Recession",
+   "authors": [
+    "Yener Altunbas",
+    "Simone Manganelli",
+    "David Marqués-Ibáñez"
+   ],
+   "year": 2017,
+   "venue": "Journal of Financial Intermediation",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Securitization and Lending Standards: Evidence from the European Wholesale Loan Market",
+   "authors": [
+    "Alper Kara",
+    "David Marqués-Ibáñez",
+    "Steven Ongena"
+   ],
+   "year": 2016,
+   "venue": "Journal of Financial Stability",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "What is the Impact of a Major Unconventional Monetary Policy Intervention?",
+   "authors": [
+    "Carlo Alcaraz",
+    "Stijn Claessens",
+    "Gabriel Cuadra",
+    "David Marqués-Ibáñez",
+    "Horacio Sapriza"
+   ],
+   "year": 2026,
+   "venue": "Journal of the European Economic Association",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

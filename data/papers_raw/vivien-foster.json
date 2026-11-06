@@ -1,0 +1,236 @@
+{
+ "slug": "vivien-foster",
+ "name": "Vivien Foster",
+ "sources": [
+  "https://search.worldbank.org/api/v3/wds",
+  "https://api.crossref.org"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Built from the World Bank documents database (Policy Research Working Paper series; matched on author \"Foster, Vivien\") plus Crossref DOI metadata for published versions (listed only as published). AICD country/regional infrastructure diagnostics, flagship reports/chapters and pre-2006 items (incl. Chinese-language translations) skipped. No personal site/CV or RePEc author page found; journal articles that never appeared as a World Bank working paper may be missing.",
+ "papers": [
+  {
+   "title": "The Impact of Infrastructure on Development Outcomes: A Meta-Analysis",
+   "authors": [
+    "Vivien Foster",
+    "Nisan Gorgulu",
+    "Dhruv Jain",
+    "Stéphane Straub",
+    "Maria Vagliasindi"
+   ],
+   "year": 2026,
+   "venue": "The World Bank Research Observer",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Digital Payments and the COVID-19 Shock: The Role of Preexisting Conditions in Banking, Infrastructure, Human Capabilities, and Digital Regulation",
+   "authors": [
+    "Robert J. Cull",
+    "Vivien Foster",
+    "Dean Mitchell Jolliffe",
+    "Daniel Lederman",
+    "Davide Salvatore Mare",
+    "Malarvizhi Veerappan"
+   ],
+   "year": 2023,
+   "venue": "World Bank Policy Research Working Paper",
+   "status": "工作论文",
+   "url": "http://documents.worldbank.org/curated/en/099454311132327828",
+   "abstract": null
+  },
+  {
+   "title": "The Impact of Infrastructure on Development Outcomes: A Qualitative Review of Four Decades of Literature",
+   "authors": [
+    "Vivien Foster",
+    "Nisan Gorgulu",
+    "Stéphane Straub",
+    "Maria Vagliasindi"
+   ],
+   "year": 2023,
+   "venue": "World Bank Policy Research Working Paper",
+   "status": "工作论文",
+   "url": "http://documents.worldbank.org/curated/en/099529203062342252",
+   "abstract": null
+  },
+  {
+   "title": "Understanding the challenge of decoupling transport-related CO2 emissions from economic growth in developing countries",
+   "authors": [
+    "Vivien Foster",
+    "Jennifer Uju Dim",
+    "Sebastian Vollmer",
+    "Fan Zhang"
+   ],
+   "year": 2023,
+   "venue": "World Development Sustainability",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Understanding Public Spending Trends for Infrastructure in Developing Countries",
+   "authors": [
+    "Vivien Foster",
+    "Anshul Rana",
+    "Nisan Gorgulu"
+   ],
+   "year": 2022,
+   "venue": "World Bank Policy Research Working Paper",
+   "status": "工作论文",
+   "url": "http://documents.worldbank.org/curated/en/727991642167519238",
+   "abstract": null
+  },
+  {
+   "title": "Policy choices can help keep 4G and 5G universal broadband affordable",
+   "authors": [
+    "Edward J. Oughton",
+    "Niccolò Comini",
+    "Vivien Foster",
+    "Jim W. Hall"
+   ],
+   "year": 2022,
+   "venue": "Technological Forecasting and Social Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Falling Short: A Global Survey of Electricity Tariff Design",
+   "authors": [
+    "Vivien Foster",
+    "Samantha Helen Witte"
+   ],
+   "year": 2020,
+   "venue": "World Bank Policy Research Working Paper",
+   "status": "工作论文",
+   "url": "http://documents.worldbank.org/curated/en/568181583337584393",
+   "abstract": null
+  },
+  {
+   "title": "Cost Recovery and Financial Viability of the Power Sector in Developing Countries: Insights from 15 Case Studies",
+   "authors": [
+    "Joern Thorsten Huenteler",
+    "Denzel J. Hankinson",
+    "Nicole Rosenthal",
+    "Ani Balabanyan",
+    "Arthur Kochnakyan",
+    "Tu Chi Nguyen",
+    "Anshul Rana",
+    "Vivien Foster"
+   ],
+   "year": 2020,
+   "venue": "World Bank Policy Research Working Paper",
+   "status": "工作论文",
+   "url": "http://documents.worldbank.org/curated/en/970281580414567801",
+   "abstract": null
+  },
+  {
+   "title": "Cost recovery, equity, and efficiency in water tariffs: evidence from African utilities",
+   "authors": [
+    "Sudeshna Ghosh Banerjee",
+    "Vivien Foster",
+    "Heather Skilling",
+    "Quentin T. Wodon",
+    "Yvonne Ying"
+   ],
+   "year": 2010,
+   "venue": "World Bank Policy Research Working Paper",
+   "status": "工作论文",
+   "url": "http://documents.worldbank.org/curated/en/476671468210593814",
+   "abstract": null
+  },
+  {
+   "title": "Paying the price for unreliable power supplies: in-house generation of electricity by firms in Africa",
+   "authors": [
+    "Vivien Foster",
+    "Jevgenijs Steinbuks"
+   ],
+   "year": 2009,
+   "venue": "World Bank Policy Research Working Paper",
+   "status": "工作论文",
+   "url": "http://documents.worldbank.org/curated/en/341551468191961797",
+   "abstract": null
+  },
+  {
+   "title": "Making sense of Africa's infrastructure endowment: a benchmarking approach",
+   "authors": [
+    "Vivien Foster",
+    "Justin Pierce",
+    "Tito Yepes Delgado"
+   ],
+   "year": 2009,
+   "venue": "World Bank Policy Research Working Paper",
+   "status": "工作论文",
+   "url": "http://documents.worldbank.org/curated/en/276771468191932943",
+   "abstract": null
+  },
+  {
+   "title": "Trends in household coverage of modern infrastructure services in Africa",
+   "authors": [
+    "Sudeshna Ghosh Banerjee",
+    "Amadou Diallo",
+    "Vivien Foster",
+    "Quentin T. Wodon"
+   ],
+   "year": 2009,
+   "venue": "World Bank Policy Research Working Paper",
+   "status": "工作论文",
+   "url": "http://documents.worldbank.org/curated/en/650131468212083340",
+   "abstract": null
+  },
+  {
+   "title": "Is low coverage of modern infrastructure services in African cities due to lack of demand or lack of supply?",
+   "authors": [
+    "Sudeshna Ghosh Banerjee",
+    "Amadou Bassirou Diallo",
+    "Vivien Foster",
+    "Quentin T. Wodon"
+   ],
+   "year": 2009,
+   "venue": "World Bank Policy Research Working Paper",
+   "status": "工作论文",
+   "url": "http://documents.worldbank.org/curated/en/171921468010246258",
+   "abstract": null
+  },
+  {
+   "title": "Is cost recovery a feasible objective for water and electricity? The Latin American experience",
+   "authors": [
+    "Vivien Foster",
+    "Tito Yepes Delgado"
+   ],
+   "year": 2006,
+   "venue": "World Bank Policy Research Working Paper",
+   "status": "工作论文",
+   "url": "http://documents.worldbank.org/curated/en/502301468265803400",
+   "abstract": null
+  },
+  {
+   "title": "The impact of privatization on the performance of the infrastructure sector: the case of electricity distribution in Latin American countries",
+   "authors": [
+    "Luis Alberto Andres",
+    "Vivien Foster",
+    "Jose Luis Guasch"
+   ],
+   "year": 2006,
+   "venue": "World Bank Policy Research Working Paper",
+   "status": "工作论文",
+   "url": "http://documents.worldbank.org/curated/en/413111468277136667",
+   "abstract": null
+  },
+  {
+   "title": "The distributional incidence of residential water and electricity subsidies",
+   "authors": [
+    "Roohi Abdullah",
+    "Vivien Foster",
+    "Jonathan D. Halpern",
+    "Kristin Komives",
+    "Quentin T. Wodon"
+   ],
+   "year": 2006,
+   "venue": "World Bank Policy Research Working Paper",
+   "status": "工作论文",
+   "url": "http://documents.worldbank.org/curated/en/635531468153872851",
+   "abstract": null
+  }
+ ]
+}

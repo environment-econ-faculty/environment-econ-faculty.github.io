@@ -1,0 +1,72 @@
+{
+ "slug": "jose-luis-cruz",
+ "name": "Jose-Luis Cruz",
+ "sources": [
+  "https://www.cruzjl.com",
+  "https://www.cruzjl.com/_files/ugd/a5be0d_2affc18301744a6dbbcec61c94e70a8d.pdf"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Source: personal site and CV (CV undated). Coauthors given as \"(with ...)\" so authors listed alphabetically by surname. Working-paper years not given anywhere; 2026 used (collection year). \"Local Carbon Policy\" chapter year 2026 per CV. Work-in-progress items (flood insurance reform, Green Development, Electric Gravity) excluded.",
+ "papers": [
+  {
+   "title": "Local Carbon Policy",
+   "authors": [
+    "Jose-Luis Cruz",
+    "Esteban Rossi-Hansberg"
+   ],
+   "year": 2026,
+   "venue": "Advances in Economics and Econometrics, Twelfth World Congress",
+   "status": "已发表",
+   "url": "https://www.cruzjl.com/_files/ugd/a5be0d_582bb7c54db94a15b92d980b01e0b783.pdf",
+   "abstract": null
+  },
+  {
+   "title": "The Economic Geography of Global Warming",
+   "authors": [
+    "Jose-Luis Cruz",
+    "Esteban Rossi-Hansberg"
+   ],
+   "year": 2024,
+   "venue": "The Review of Economic Studies",
+   "status": "已发表",
+   "url": "https://www.cruzjl.com/_files/ugd/a5be0d_7a103198d1a4498c9884017e5080dfba.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Evaluating the Spatial Consequences of a Climate Tipping Point",
+   "authors": [
+    "Jose-Luis Cruz",
+    "Klaus Desmet",
+    "Esteban Rossi-Hansberg"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://www.cruzjl.com/_files/ugd/a5be0d_234c2de9893b4df3aa51f46b175ffafa.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Closing the Border: The Impact of U.S. Migration and Trade Policy",
+   "authors": [
+    "Jose-Luis Cruz",
+    "Julian di Giovanni"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://www.cruzjl.com/_files/ugd/a5be0d_66cc9fe6475d450aa33d64acfa67839c.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Global Warming and Labor Market Reallocation",
+   "authors": [
+    "Jose-Luis Cruz"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://www.cruzjl.com/_files/ugd/a5be0d_c46c58760a8e4a59a557f95a79eecd0b.pdf",
+   "abstract": null
+  }
+ ]
+}

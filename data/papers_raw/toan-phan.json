@@ -1,0 +1,385 @@
+{
+ "slug": "toan-phan",
+ "name": "Toan Phan",
+ "sources": [
+  "https://www.richmondfed.org/-/media/RichmondFedOrg/research/economists/bios/pdfs/phan_cv.pdf",
+  "https://toanphan.org/"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Source: Jan 2026 CV (homepage lists only section links). Coauthors given as \"(with ...)\" so authors alphabetical by surname (true bylines may differ). Undated working papers given 2026 (CV date year); R&R/forthcoming papers likewise. \"Strategies for Using Markets...\" author list as in CV (initials). Excluded 5th National Climate Assessment chapter, Richmond Fed Economic Briefs/Macro Minute. Abstracts not available.",
+ "papers": [
+  {
+   "title": "Bank Competition and Strategic Adaptation to Climate Change",
+   "authors": [
+    "Dasol Kim",
+    "Luke Olson",
+    "Toan Phan"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Housing Prices Under Rising Seas: A Market-Based Measure of Deep Uncertainty",
+   "authors": [
+    "Mike Barnett",
+    "Jacob Dice",
+    "Toan Phan",
+    "David Rodziewicz",
+    "Constantine Yannelis"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Limited Liability and Disaster Underinsurance",
+   "authors": [
+    "Laura Bakkensen",
+    "John Bailey Jones",
+    "Toan Phan",
+    "Russell Wong"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Financial Conditions and Capital Investment Choices",
+   "authors": [
+    "Òscar Jordà",
+    "Fernanda Nechio",
+    "Toan Phan",
+    "Felipe Schwartzman"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Credit Rationing in Unsecured Debt Markets",
+   "authors": [
+    "V. Filipe Martins-da-Rocha",
+    "Toan Phan",
+    "Yiannis Vailakis"
+   ],
+   "year": 2026,
+   "venue": "Journal of Economic Theory",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Strategies for Using Markets to Adapt to Climate Change",
+   "authors": [
+    "S. Greenhill",
+    "S. Hsiang",
+    "C. Balboni",
+    "L. Barrage",
+    "I. Bolliger",
+    "J. Boomhower",
+    "D. Diaz",
+    "H. Druckenmiller",
+    "T. Garg",
+    "M. Hino",
+    "H. Hong",
+    "C. Kousky",
+    "J. Martinich",
+    "I. Nath",
+    "K. Oremus",
+    "R. J. Park",
+    "T. Phan",
+    "J. Proctor",
+    "W. Rafey",
+    "M. Sarofim",
+    "W. Schlenker",
+    "B. Simon"
+   ],
+   "year": 2026,
+   "venue": "Science",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Leveraging the Disagreement on Climate Change: Theory and Evidence",
+   "authors": [
+    "Laura Bakkensen",
+    "Toan Phan",
+    "Russell Wong"
+   ],
+   "year": 2025,
+   "venue": "Journal of Political Economy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1086/737236",
+   "abstract": null
+  },
+  {
+   "title": "Severe Weather and the Macroeconomy",
+   "authors": [
+    "Hee Soo Kim",
+    "Christian Matthes",
+    "Toan Phan"
+   ],
+   "year": 2025,
+   "venue": "American Economic Journal: Macroeconomics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1257/mac.20220329",
+   "abstract": null
+  },
+  {
+   "title": "Climate information on sea level rise risk influences individuals' migration preferences in Vietnam",
+   "authors": [
+    "Laura Bakkensen",
+    "Quynh Nguyen",
+    "Toan Phan",
+    "Paul Schuler"
+   ],
+   "year": 2025,
+   "venue": "Communications Earth & Environment",
+   "status": "已发表",
+   "url": "https://doi.org/10.1038/s43247-025-02731-1",
+   "abstract": null
+  },
+  {
+   "title": "Climate Risks in Financial Markets",
+   "authors": [
+    "Toan Phan"
+   ],
+   "year": 2026,
+   "venue": "Handbook of the Economics of Climate Change, Vol. 2",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Climate risks in US housing and mortgage markets",
+   "authors": [
+    "Toan Phan"
+   ],
+   "year": 2026,
+   "venue": "Research Handbook of Macroprudential Policy",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Climate Defaults and Financial Adaptation",
+   "authors": [
+    "Toan Phan",
+    "Felipe Schwartzman"
+   ],
+   "year": 2024,
+   "venue": "European Economic Review",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.euroecorev.2024.104866",
+   "abstract": null
+  },
+  {
+   "title": "Long-term Effects of Redlining on Environmental Risk Exposure",
+   "authors": [
+    "Claire Conzelmann",
+    "Jeremy Hoffman",
+    "Toan Phan",
+    "Arianna Salazar-Miranda"
+   ],
+   "year": 2024,
+   "venue": "Nature Cities",
+   "status": "已发表",
+   "url": "https://doi.org/10.1038/s44284-024-00076-y",
+   "abstract": null
+  },
+  {
+   "title": "Race and Environmental Worries",
+   "authors": [
+    "Ranie Lin",
+    "Lala Ma",
+    "Toan Phan"
+   ],
+   "year": 2024,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.3368/le.100.4.112723-0125R",
+   "abstract": null
+  },
+  {
+   "title": "The Transmission of Quasi-Sovereign Default Risk: Evidence from Puerto Rico",
+   "authors": [
+    "Anusha Chari",
+    "Ryan Leary",
+    "Toan Phan"
+   ],
+   "year": 2024,
+   "venue": "IMF Economic Review",
+   "status": "已发表",
+   "url": "https://doi.org/10.1057/s41308-023-00233-8",
+   "abstract": null
+  },
+  {
+   "title": "Bubbly Recessions",
+   "authors": [
+    "Sid Biswas",
+    "Andrew Hanson",
+    "Toan Phan"
+   ],
+   "year": 2020,
+   "venue": "American Economic Journal: Macroeconomics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Temperature and Growth: A Panel Analysis of the United States",
+   "authors": [
+    "Riccardo Colacito",
+    "Bridget Hoffmann",
+    "Toan Phan"
+   ],
+   "year": 2019,
+   "venue": "Journal of Money, Credit and Banking",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Asset Bubbles and Global Imbalances",
+   "authors": [
+    "Daisuke Ikeda",
+    "Toan Phan"
+   ],
+   "year": 2019,
+   "venue": "American Economic Journal: Macroeconomics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Regressive Welfare Effects of Housing Bubbles",
+   "authors": [
+    "Andrew Graczyk",
+    "Toan Phan"
+   ],
+   "year": 2019,
+   "venue": "Macroeconomic Dynamics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Time-Varying Skewness and Real Business Cycles",
+   "authors": [
+    "Lance Kent",
+    "Toan Phan"
+   ],
+   "year": 2019,
+   "venue": "Economic Quarterly (Federal Reserve Bank of Richmond)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Asset Pledgeability and Endogenously Leveraged Bubbles",
+   "authors": [
+    "Julien Bengui",
+    "Toan Phan"
+   ],
+   "year": 2018,
+   "venue": "Journal of Economic Theory",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Bubbles, Wage Rigidity, and Persistent Slumps",
+   "authors": [
+    "Andrew Hanson",
+    "Toan Phan"
+   ],
+   "year": 2017,
+   "venue": "Economics Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Nominal Sovereign Debt",
+   "authors": [
+    "Toan Phan"
+   ],
+   "year": 2017,
+   "venue": "International Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Sovereign Debt Signals",
+   "authors": [
+    "Toan Phan"
+   ],
+   "year": 2017,
+   "venue": "Journal of International Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Model of Sovereign Debt with Private Information",
+   "authors": [
+    "Toan Phan"
+   ],
+   "year": 2017,
+   "venue": "Journal of Economic Dynamics and Control",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Toxic Asset Bubbles",
+   "authors": [
+    "Daisuke Ikeda",
+    "Toan Phan"
+   ],
+   "year": 2016,
+   "venue": "Economic Theory",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Information, Insurance and the Sustainability of Sovereign Debt",
+   "authors": [
+    "Toan Phan"
+   ],
+   "year": 2016,
+   "venue": "Review of Economic Dynamics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Roots of the Derivative of the Riemann-Zeta Function and of Characteristic Polynomials",
+   "authors": [
+    "E. Dueñez",
+    "D. Farmer",
+    "S. Froehlich",
+    "C. Hughes",
+    "F. Mezzadri",
+    "Toan Phan"
+   ],
+   "year": 2010,
+   "venue": "Nonlinearity",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

@@ -1,0 +1,175 @@
+{
+ "slug": "manu-garcia",
+ "name": "Manu García",
+ "sources": [
+  "https://manugarcia.site/publications/",
+  "https://manugarcia.site/research/",
+  "https://manugarcia.site/wp-content/uploads/2025/07/CV_MG_0725.pdf"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Source: homepage publications/research pages (current) plus CV (July 2025). Coauthors with initials as written on the site (García listed first per site/CV order; actual bylines not verified). 'The Determinants of Mortgage Denial' is in the St. Louis Fed Review (house journal) and kept as published. The CV's JMP 'Refinancing Windows and Monetary Policy in Periods of Credit Expansion' is no longer listed on the site and is omitted; 'Algorithms as Shadow Regulation' is St. Louis Fed WP 2026-011 (year 2026 from the DOI); 'Specialization vs. Diversification' is submitted (year 2026 from file path; not stated). Works in progress skipped. 'Does a Soft Board Gender Quotas Policy Work?' appears on the site but not the CV.",
+ "papers": [
+  {
+   "title": "The Determinants of Mortgage Denial",
+   "authors": [
+    "Manu García",
+    "Carlos Garriga"
+   ],
+   "year": 2026,
+   "venue": "Federal Reserve Bank of St. Louis Review",
+   "status": "已发表",
+   "url": "https://doi.org/10.20955/r.2026.05",
+   "abstract": null
+  },
+  {
+   "title": "The Interactions of Social Norms about Climate Change: Science, Institutions and Economics",
+   "authors": [
+    "Manu García",
+    "A. Cabrales",
+    "D. Ramos-Muñoz",
+    "A. Sánchez"
+   ],
+   "year": 2025,
+   "venue": "European Economic Review",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/pii/S0014292125001576",
+   "abstract": null
+  },
+  {
+   "title": "Citation Gender Gaps in Top Economics Journals",
+   "authors": [
+    "Manu García",
+    "J. Ignacio Conde-Ruiz",
+    "Miguel Díaz-Salazar",
+    "Juan-José Ganuza"
+   ],
+   "year": 2025,
+   "venue": "SERIEs - Journal of the Spanish Economic Association",
+   "status": "已发表",
+   "url": "https://link.springer.com/article/10.1007/s13209-025-00322-z",
+   "abstract": null
+  },
+  {
+   "title": "Reforming Dual Labor Markets: 'Real' or 'Contractual' Temporary Rates?",
+   "authors": [
+    "Manu García",
+    "J. I. Conde-Ruiz",
+    "L. Puch",
+    "J. Ruiz"
+   ],
+   "year": 2025,
+   "venue": "LABOUR",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "AI and Digital Technology: Gender Gaps in Higher Education",
+   "authors": [
+    "Manu García",
+    "J. I. Conde-Ruiz",
+    "J. J. Ganuza",
+    "C. Victoria"
+   ],
+   "year": 2024,
+   "venue": "CESifo Economic Studies",
+   "status": "已发表",
+   "url": "https://academic.oup.com/cesifo/advance-article-abstract/doi/10.1093/cesifo/ifae020/7815433",
+   "abstract": null
+  },
+  {
+   "title": "Gender Distribution across Topics in the Top 5 Economics Journals: A Machine Learning Approach",
+   "authors": [
+    "Manu García",
+    "J. I. Conde-Ruiz",
+    "J. J. Ganuza",
+    "L. A. Puch"
+   ],
+   "year": 2022,
+   "venue": "SERIEs - Journal of the Spanish Economic Association",
+   "status": "已发表",
+   "url": "https://ideas.repec.org/p/upf/upfgen/1771.html",
+   "abstract": null
+  },
+  {
+   "title": "Gender Imbalance across Subfields in Economics: When Does It Start?",
+   "authors": [
+    "Manu García",
+    "P. Beneito",
+    "J. E. Boscá",
+    "J. Ferri"
+   ],
+   "year": 2021,
+   "venue": "Journal of Human Capital",
+   "status": "已发表",
+   "url": "https://ideas.repec.org/a/ucp/jhucap/doi10.1086-715581.html",
+   "abstract": null
+  },
+  {
+   "title": "Gender Gap and Multiple Choice Exams in Public Selection Processes",
+   "authors": [
+    "Manu García",
+    "J. I. Conde-Ruiz",
+    "J. J. Ganuza"
+   ],
+   "year": 2020,
+   "venue": "Review of Public Economics (Hacienda Pública Española)",
+   "status": "已发表",
+   "url": "https://ideas.repec.org/a/hpe/journl/y2020v235i4p11-28.html",
+   "abstract": null
+  },
+  {
+   "title": "Does a 'Soft' Board Gender Quotas Policy Work?",
+   "authors": [
+    "Manu García",
+    "J. I. Conde-Ruiz",
+    "M. Yáñez"
+   ],
+   "year": 2020,
+   "venue": "Applied Economic Analysis",
+   "status": "已发表",
+   "url": "https://ideas.repec.org/a/eme/aeapps/aea-09-2019-0029.html",
+   "abstract": null
+  },
+  {
+   "title": "Calendar Effects in Daily Aggregate Employment Creation and Destruction in Spain",
+   "authors": [
+    "Manu García",
+    "J. I. Conde-Ruiz",
+    "L. A. Puch",
+    "J. Ruiz"
+   ],
+   "year": 2019,
+   "venue": "SERIEs - Journal of the Spanish Economic Association",
+   "status": "已发表",
+   "url": "https://ideas.repec.org/a/spr/series/v10y2019i1d10.1007_s13209-019-0187-7.html",
+   "abstract": null
+  },
+  {
+   "title": "Algorithms as Shadow Regulation: Secondary Market Access Overrides Home Buyer Credit Risk",
+   "authors": [
+    "Manu García",
+    "C. Garriga"
+   ],
+   "year": 2026,
+   "venue": "St. Louis Fed Working Paper",
+   "status": "工作论文",
+   "url": "https://doi.org/10.20955/wp.2026.011",
+   "abstract": null
+  },
+  {
+   "title": "Specialization vs. Diversification: Research Strategy and Performance in Economics",
+   "authors": [
+    "Manu García",
+    "H. Dellas",
+    "C. Garriga",
+    "C. Zimmermann"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://manugarcia.site/wp-content/uploads/2026/11/sdi_final_version.pdf",
+   "abstract": null
+  }
+ ]
+}

@@ -1,0 +1,378 @@
+{
+ "slug": "robert-j-vigfusson",
+ "name": "Robert J. Vigfusson",
+ "sources": [
+  "https://ideas.repec.org/e/pvi18.html",
+  "https://www.federalreserve.gov/econres/ifdp/the-role-of-oil-price-shocks-in-causing-us-recessions.htm"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Fed Board profile URL for him returned 404; used his RePEc author page (self-registered) for the full list. Bylines/years from RePEc (published-version year). FEDS/IFDP/NBER/CEPR versions dropped when published; IFDP Notes, FEDS Notes, FRBSF Economic Letters, software, Bank of Canada technical report skipped. 'Maximum likelihood in the frequency domain: a time to build example' (1999 WP) treated as an earlier version of the JME 2003 paper and dropped.",
+ "papers": [
+  {
+   "title": "Measuring Inclusion: Gender and Coauthorship at the Federal Reserve Board",
+   "authors": [
+    "Deepa Dhume Datta",
+    "Robert J. Vigfusson"
+   ],
+   "year": 2024,
+   "venue": "Finance and Economics Discussion Series (FEDS)",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Oil, Equities, and the Zero Lower Bound",
+   "authors": [
+    "Deepa D. Datta",
+    "Benjamin K. Johannsen",
+    "Hannah Kwon",
+    "Robert J. Vigfusson"
+   ],
+   "year": 2021,
+   "venue": "American Economic Journal: Macroeconomics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Evolving Link between Oil Prices and U.S. Consumer Spending",
+   "authors": [
+    "Nida Çakır Melek",
+    "Robert J. Vigfusson"
+   ],
+   "year": 2021,
+   "venue": "Economic Review (Federal Reserve Bank of Kansas City)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Role of Oil Price Shocks in Causing U.S. Recessions",
+   "authors": [
+    "Lutz Kilian",
+    "Robert J. Vigfusson"
+   ],
+   "year": 2017,
+   "venue": "Journal of Money, Credit and Banking",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Learning in the Oil Futures Markets: Evidence and Macroeconomic Implications",
+   "authors": [
+    "Sylvain Leduc",
+    "Kevin Moran",
+    "Robert J. Vigfusson"
+   ],
+   "year": 2023,
+   "venue": "Review of Economics and Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Interest Rates and the Volatility and Correlation of Commodity Prices",
+   "authors": [
+    "Joseph W. Gruber",
+    "Robert J. Vigfusson"
+   ],
+   "year": 2018,
+   "venue": "Macroeconomic Dynamics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Missing Import Price Changes and Low Exchange Rate Pass-Through",
+   "authors": [
+    "Etienne Gagnon",
+    "Benjamin R. Mandel",
+    "Robert J. Vigfusson"
+   ],
+   "year": 2014,
+   "venue": "American Economic Journal: Macroeconomics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do Oil Prices Help Forecast U.S. Real GDP? The Role of Nonlinearities and Asymmetries",
+   "authors": [
+    "Lutz Kilian",
+    "Robert J. Vigfusson"
+   ],
+   "year": 2013,
+   "venue": "Journal of Business & Economic Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Forecasting the Price of Oil",
+   "authors": [
+    "Ron Alquist",
+    "Lutz Kilian",
+    "Robert J. Vigfusson"
+   ],
+   "year": 2013,
+   "venue": "Handbook of Economic Forecasting, Vol. 2 (Elsevier)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Nonlinearities in the Oil Price-Output Relationship",
+   "authors": [
+    "Lutz Kilian",
+    "Robert J. Vigfusson"
+   ],
+   "year": 2011,
+   "venue": "Macroeconomic Dynamics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Are the Responses of the U.S. Economy Asymmetric in Energy Price Increases and Decreases?",
+   "authors": [
+    "Lutz Kilian",
+    "Robert J. Vigfusson"
+   ],
+   "year": 2011,
+   "venue": "Quantitative Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Evaluating the Forecasting Performance of Commodity Futures Prices",
+   "authors": [
+    "Trevor A. Reeve",
+    "Robert J. Vigfusson"
+   ],
+   "year": 2011,
+   "venue": "International Finance Discussion Papers (IFDP)",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Trade Integration, Competition, and the Decline in Exchange-Rate Pass-Through",
+   "authors": [
+    "Christopher J. Gust",
+    "Sylvain Leduc",
+    "Robert J. Vigfusson"
+   ],
+   "year": 2010,
+   "venue": "Journal of Monetary Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Entry Dynamics and the Decline in Exchange-Rate Pass-Through",
+   "authors": [
+    "Christopher J. Gust",
+    "Sylvain Leduc",
+    "Robert J. Vigfusson"
+   ],
+   "year": 2010,
+   "venue": "International Finance Discussion Papers (IFDP)",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Power of Long-Run Structural VARs",
+   "authors": [
+    "Christopher J. Gust",
+    "Robert J. Vigfusson"
+   ],
+   "year": 2009,
+   "venue": "International Finance Discussion Papers (IFDP)",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Exchange Rate Pass-Through to Export Prices: Assessing Cross-Country Evidence",
+   "authors": [
+    "Robert J. Vigfusson",
+    "Nathan Sheets",
+    "Joseph Gagnon"
+   ],
+   "year": 2009,
+   "venue": "Review of International Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How Does the Border Affect Productivity? Evidence from American and Canadian Manufacturing Industries",
+   "authors": [
+    "Robert J. Vigfusson"
+   ],
+   "year": 2008,
+   "venue": "Review of Economics and Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Assessing Structural VARs",
+   "authors": [
+    "Lawrence J. Christiano",
+    "Martin S. Eichenbaum",
+    "Robert J. Vigfusson"
+   ],
+   "year": 2007,
+   "venue": "NBER Macroeconomics Annual 2006",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Alternative Procedures for Estimating Vector Autoregressions Identified with Long-Run Restrictions",
+   "authors": [
+    "Lawrence J. Christiano",
+    "Martin S. Eichenbaum",
+    "Robert J. Vigfusson"
+   ],
+   "year": 2006,
+   "venue": "Journal of the European Economic Association",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Exchange Rate Pass-Through to U.S. Import Prices: Some New Evidence",
+   "authors": [
+    "Jon Faust",
+    "Joseph E. Gagnon",
+    "Mario Marazzi",
+    "Jaime R. Marquez",
+    "Robert F. Martin",
+    "Trevor A. Reeve",
+    "John H. Rogers",
+    "Nathan Sheets",
+    "Robert J. Vigfusson"
+   ],
+   "year": 2005,
+   "venue": "International Finance Discussion Papers (IFDP)",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Delayed Response to a Technology Shock: A Flexible Price Explanation",
+   "authors": [
+    "Robert J. Vigfusson"
+   ],
+   "year": 2004,
+   "venue": "International Finance Discussion Papers (IFDP)",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Response of Hours to a Technology Shock: Evidence Based on Direct Measures of Technology",
+   "authors": [
+    "Lawrence J. Christiano",
+    "Martin S. Eichenbaum",
+    "Robert J. Vigfusson"
+   ],
+   "year": 2004,
+   "venue": "Journal of the European Economic Association",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How Do Canadian Hours Worked Respond to a Technology Shock?",
+   "authors": [
+    "Lawrence J. Christiano",
+    "Martin S. Eichenbaum",
+    "Robert J. Vigfusson"
+   ],
+   "year": 2003,
+   "venue": "International Finance Discussion Papers (IFDP)",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "What Happens after a Technology Shock?",
+   "authors": [
+    "Lawrence J. Christiano",
+    "Martin S. Eichenbaum",
+    "Robert J. Vigfusson"
+   ],
+   "year": 2003,
+   "venue": "NBER Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Maximum Likelihood in the Frequency Domain: The Importance of Time-to-Plan",
+   "authors": [
+    "Lawrence J. Christiano",
+    "Robert J. Vigfusson"
+   ],
+   "year": 2003,
+   "venue": "Journal of Monetary Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Avoiding the Pitfalls: Can Regime-Switching Tests Detect Bubbles?",
+   "authors": [
+    "Simon van Norden",
+    "Robert J. Vigfusson"
+   ],
+   "year": 1998,
+   "venue": "Studies in Nonlinear Dynamics & Econometrics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Switching between Chartists and Fundamentalists: A Markov Regime-Switching Approach",
+   "authors": [
+    "Robert J. Vigfusson"
+   ],
+   "year": 1997,
+   "venue": "International Journal of Finance & Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Analytical Derivatives for Markov Switching Models",
+   "authors": [
+    "Jeff Gable",
+    "Simon van Norden",
+    "Robert J. Vigfusson"
+   ],
+   "year": 1997,
+   "venue": "Computational Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Regime-Switching Models: A Guide to the Bank of Canada Gauss Procedures",
+   "authors": [
+    "Simon van Norden",
+    "Robert J. Vigfusson"
+   ],
+   "year": 1996,
+   "venue": "Bank of Canada Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}
