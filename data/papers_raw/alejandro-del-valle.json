@@ -1,0 +1,101 @@
+{
+ "slug": "alejandro-del-valle",
+ "name": "Alejandro del Valle",
+ "sources": [
+  "https://www.ocf.berkeley.edu/~adv/ (homepage, formerly www.ocf.io/~adv)",
+  "Alejandro-del-Valle-CV-06252025.pdf (CV)"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Homepage and CV agree; CV lists no working papers. Skipped special-issue introduction.",
+ "papers": [
+  {
+   "title": "Droughts worsen air quality and health by shifting power generation",
+   "authors": [
+    "M. Eriksson",
+    "Alejandro del Valle",
+    "A. de la Fuente"
+   ],
+   "year": 2025,
+   "venue": "Nature Communications",
+   "status": "已发表",
+   "url": "https://rdcu.be/enbyM",
+   "abstract": null
+  },
+  {
+   "title": "Saving Lives with Indexed Disaster Funds: Evidence from Mexico",
+   "authors": [
+    "Alejandro del Valle"
+   ],
+   "year": 2024,
+   "venue": "American Economic Journal: Economic Policy",
+   "status": "已发表",
+   "url": "https://www.aeaweb.org/articles?id=10.1257/pol.20220066",
+   "abstract": null
+  },
+  {
+   "title": "Household Financial Decision-Making After Natural Disasters: Evidence from Hurricane Harvey",
+   "authors": [
+    "Alejandro del Valle",
+    "T. Scharlemann",
+    "S. Shore"
+   ],
+   "year": 2024,
+   "venue": "Journal of Financial and Quantitative Analysis",
+   "status": "已发表",
+   "url": "https://doi.org/10.1017/S0022109023000728",
+   "abstract": null
+  },
+  {
+   "title": "The Effects of Public Health Insurance in Labor Markets with Informal Jobs: Evidence from Mexico",
+   "authors": [
+    "Alejandro del Valle"
+   ],
+   "year": 2021,
+   "venue": "Journal of Health Economics",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/abs/pii/S0167629621000394",
+   "abstract": null
+  },
+  {
+   "title": "Rules for Recovery: Impact of Indexed Disaster Funds on Shock Coping in Mexico",
+   "authors": [
+    "Alejandro del Valle",
+    "A. de Janvry",
+    "E. Sadoulet"
+   ],
+   "year": 2020,
+   "venue": "American Economic Journal: Applied Economics",
+   "status": "已发表",
+   "url": "https://www.aeaweb.org/articles?id=10.1257/app.20190002",
+   "abstract": null
+  },
+  {
+   "title": "Mangroves Protect Coastal Economic Activity from Hurricanes",
+   "authors": [
+    "Alejandro del Valle",
+    "M. Eriksson",
+    "O. A. Ishizawa",
+    "J. J. Miranda"
+   ],
+   "year": 2020,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "https://www.pnas.org/content/117/1/265",
+   "abstract": null
+  },
+  {
+   "title": "The Short-Term Economic Impact of Tropical Cyclones: Satellite Evidence from Guangdong Province",
+   "authors": [
+    "Alejandro del Valle",
+    "R. Elliot",
+    "E. Strobl",
+    "M. Tong"
+   ],
+   "year": 2018,
+   "venue": "Economics of Disasters and Climate Change",
+   "status": "已发表",
+   "url": "https://link.springer.com/article/10.1007/s41885-018-0028-3",
+   "abstract": null
+  }
+ ]
+}

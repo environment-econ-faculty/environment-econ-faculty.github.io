@@ -1,0 +1,107 @@
+{
+ "slug": "jonathan-b-scott",
+ "name": "Jonathan B. Scott",
+ "sources": [
+  "https://www.jon-sc.in/research",
+  "https://www.jon-sc.in/cv",
+  "https://drive.google.com/uc?id=1HGDHXqUlsXPO7AauIPkbmnatYE8Aokgi&export=download"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Homepage Research page and CV PDF (Drive) agree. Coauthored items are given only as 'with X', so two-author bylines are ordered alphabetically by surname. Working papers have no year; set to 2026 (CV lists a 2026 paper). One paper is R&R at Journal of Public Economics.",
+ "papers": [
+  {
+   "title": "The High Cost of Low Range: Estimating the Hidden Cost of Range Anxiety in Electric Vehicles",
+   "authors": [
+    "Molin Qin",
+    "Jonathan B. Scott"
+   ],
+   "year": 2026,
+   "venue": "The Journal of Industrial Economics",
+   "status": "已发表",
+   "url": "https://drive.google.com/file/d/1fXu4S2uAAeEf82azPmczHuT8AL2kezcB/view?usp=sharing",
+   "abstract": null
+  },
+  {
+   "title": "Does Subsidized Flood Insurance Alter Location Incentives? Evidence from the National Flood Insurance Program",
+   "authors": [
+    "Abigail Peralta",
+    "Jonathan B. Scott"
+   ],
+   "year": 2024,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "https://drive.google.com/file/d/19HOlq9o_orEL5E4gyLMnKnhOKsBhTwd3/view?usp=sharing",
+   "abstract": null
+  },
+  {
+   "title": "Positive Spillovers from Infrastructure Investment: How Pipeline Expansions Encourage Fuel Switching",
+   "authors": [
+    "Jonathan B. Scott"
+   ],
+   "year": 2023,
+   "venue": "Review of Economics and Statistics",
+   "status": "已发表",
+   "url": "https://drive.google.com/file/d/1hVjkMFbRSJOXEb2pFqBKqmRKGbppYVqJ/view?usp=sharing",
+   "abstract": null
+  },
+  {
+   "title": "Pounds that Save: The Role of Consumer Preferences for Safety in Demand for Large Vehicles",
+   "authors": [
+    "Jonathan B. Scott"
+   ],
+   "year": 2022,
+   "venue": "The Journal of Law & Economics",
+   "status": "已发表",
+   "url": "https://drive.google.com/file/d/1jdcZfVYkk1FsZGqzynDFDzprIfEnyIeB/view?usp=sharing",
+   "abstract": null
+  },
+  {
+   "title": "Do Weight-Neutral Safety Ratings Curb the Vehicle Arms Race? Evidence from Safety Award Criteria Updates",
+   "authors": [
+    "Thao Duong",
+    "Jonathan B. Scott"
+   ],
+   "year": 2026,
+   "venue": "Journal of Public Economics",
+   "status": "修改重投",
+   "url": "https://drive.google.com/file/d/1-5c4ZwvRJfLfI6cRqMI79HZR12tdZae2/view?usp=sharing",
+   "abstract": null
+  },
+  {
+   "title": "The Long Run Costs of Short Run Mispricing: How Dynamic Generation Costs and Local Traffic Patterns Shape the Charging Network",
+   "authors": [
+    "Molin Qin",
+    "Jonathan B. Scott"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://drive.google.com/file/d/1xZO84ff8d7bBp7oLfbB00rGXGiluKM7o/view?usp=sharing",
+   "abstract": null
+  },
+  {
+   "title": "Isolating the Impacts of the Shale Revolution on the US Energy Mix: Evidence from the Natural Gas Pipeline Network",
+   "authors": [
+    "Matthew Butner",
+    "Jonathan B. Scott"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://drive.google.com/file/d/1K3d8YaRq1xspnGLfLR1QC0Mzrvw7PKul/view?usp=sharing",
+   "abstract": null
+  },
+  {
+   "title": "Cognitive Dissonance and the Utilization of Scientific Information: Evidence from COVID-19 Forecasts",
+   "authors": [
+    "Abigail Peralta",
+    "Jonathan B. Scott"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://drive.google.com/file/d/1CpuHFGeRHs6S_hk2CLJ63ZJtNmFhrWGo/view?usp=sharing",
+   "abstract": null
+  }
+ ]
+}

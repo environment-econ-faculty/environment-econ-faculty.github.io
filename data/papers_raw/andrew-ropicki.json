@@ -1,0 +1,615 @@
+{
+ "slug": "andrew-ropicki",
+ "name": "Andrew Ropicki",
+ "sources": [
+  "https://openalex.org/A5090530654"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Fallback: homepage/CV unavailable; list from OpenAlex author record(s) affiliated with University of Florida (Andrew Ropicki). May include non-economics coauthored work; working papers mostly absent.",
+ "papers": [
+  {
+   "title": "Impact of Layperson and Scientific Messaging on Sustainable Beef From Seaweed‐Fed Cattle",
+   "authors": [
+    "Jianhui Liu",
+    "John Lai",
+    "Bachir Kassas",
+    "Andrew Ropicki"
+   ],
+   "year": 2026,
+   "venue": "Applied Economic Perspectives and Policy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1002/aepp.70138",
+   "abstract": null
+  },
+  {
+   "title": "Matching property rights and transboundary ecological processes: The case of Norwegian salmon aquaculture",
+   "authors": [
+    "Adams Ceballos‐Concha",
+    "Frank Asche",
+    "Andrew Ropicki",
+    "Conner Mullally",
+    "Jordan Moor"
+   ],
+   "year": 2025,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/ajae.70028",
+   "abstract": null
+  },
+  {
+   "title": "Effect of Spent Brewer's Yeast Inclusion as a Feed Additive on Nile Tilapia ( Oreochromis niloticus ) Production, Colour and Fillet Proximate Composition",
+   "authors": [
+    "Jonathan K Lee",
+    "Tammy Lee",
+    "Sharon Xin Ying Chuah",
+    "Rose Omidvar",
+    "Andrew Ropicki",
+    "Andrew J. MacIntosh",
+    "Razieh Farzad"
+   ],
+   "year": 2025,
+   "venue": "Aquaculture Fish and Fisheries",
+   "status": "已发表",
+   "url": "https://doi.org/10.1002/aff2.70065",
+   "abstract": null
+  },
+  {
+   "title": "Shaping Consumer Perceptions of Sustainable Practices in Livestock Production Through Effective Communication Design",
+   "authors": [
+    "Jianhui Liu",
+    "Bo Fan",
+    "John Lai",
+    "Bachir Kassas",
+    "Andrew Ropicki"
+   ],
+   "year": 2025,
+   "venue": "Agribusiness",
+   "status": "已发表",
+   "url": "https://doi.org/10.1002/agr.70010",
+   "abstract": null
+  },
+  {
+   "title": "Effect of hop acid inclusion as a feed additive on Nile tilapia, Oreochromis niloticus, production, lysozyme activity, fillet color, and aroma",
+   "authors": [
+    "Jonathan K. Lee",
+    "Razieh Farzad",
+    "Tammy Lee",
+    "Sharon Xin Ying Chuah",
+    "Rose Omidvar",
+    "Charlie Sims",
+    "Boce Zhang",
+    "Andrew Ropicki",
+    "Andrew J. MacIntosh"
+   ],
+   "year": 2025,
+   "venue": "Journal of the World Aquaculture Society",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/jwas.70014",
+   "abstract": null
+  },
+  {
+   "title": "Price Determination of Reef Fish in the Gulf",
+   "authors": [
+    "Jordan Moor",
+    "Andrew Ropicki",
+    "Juan J. Agar",
+    "John Lai",
+    "Frank Asche"
+   ],
+   "year": 2025,
+   "venue": "Marine Resource Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1086/736672",
+   "abstract": null
+  },
+  {
+   "title": "Understanding Metrics for Communicating the Economic Importance of Florida’s Fisheries Part II: Quantifying Market Activity",
+   "authors": [
+    "Robert D. Botta",
+    "Christa D. Court",
+    "Andrew Ropicki",
+    "Edward Vincent Camp"
+   ],
+   "year": 2025,
+   "venue": "EDIS",
+   "status": "已发表",
+   "url": "https://doi.org/10.32473/edis-fa266-2024",
+   "abstract": null
+  },
+  {
+   "title": "The Influence of Output Market Integration on the Value of Natural Resource Rights",
+   "authors": [
+    "Jordan Moor",
+    "Frank Asche",
+    "Andrew Ropicki",
+    "Adams Ceballos‐Concha"
+   ],
+   "year": 2025,
+   "venue": "SSRN Electronic Journal",
+   "status": "工作论文",
+   "url": "https://doi.org/10.2139/ssrn.5183934",
+   "abstract": null
+  },
+  {
+   "title": "Understanding Metrics For Communicating The Economic Importance of Florida's Fisheries Part III: Measuring Economic Value",
+   "authors": [
+    "Andrew Ropicki",
+    "Edward Vincent Camp",
+    "Christa D. Court",
+    "Robert D. Botta"
+   ],
+   "year": 2025,
+   "venue": "EDIS",
+   "status": "已发表",
+   "url": "https://doi.org/10.32473/edis-fa267-2025",
+   "abstract": null
+  },
+  {
+   "title": "Recirculating aquaculture system-based production as a pathway to increase aquaculture in developed countries: The case of United States aquaculture",
+   "authors": [
+    "Andrew Ropicki",
+    "Taryn Garlock",
+    "Razieh Farzad",
+    "Joy E. Hazell"
+   ],
+   "year": 2024,
+   "venue": "Aquaculture Economics & Management",
+   "status": "已发表",
+   "url": "https://doi.org/10.1080/13657305.2024.2330051",
+   "abstract": null
+  },
+  {
+   "title": "Aquaculture supply chains: Insights from mature and emerging industries",
+   "authors": [
+    "Taryn Garlock",
+    "Andrew Ropicki"
+   ],
+   "year": 2024,
+   "venue": "Aquaculture Economics & Management",
+   "status": "已发表",
+   "url": "https://doi.org/10.1080/13657305.2024.2359803",
+   "abstract": null
+  },
+  {
+   "title": "Estimating the benefits to Florida households from avoiding another Gulf oil spill using the contingent valuation method: Internal validity tests with probability‐based and opt‐in samples",
+   "authors": [
+    "John C. Whitehead",
+    "Andrew Ropicki",
+    "John B. Loomis",
+    "Sherry L. Larkin",
+    "Timothy C. Haab",
+    "Sergio Álvarez"
+   ],
+   "year": 2023,
+   "venue": "Applied Economic Perspectives and Policy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1002/aepp.13352",
+   "abstract": null
+  },
+  {
+   "title": "The value of product attributes for farmed oysters: A hedonic price analysis of US restaurant menus",
+   "authors": [
+    "Robert D. Botta",
+    "Taryn Garlock",
+    "Frank Asche",
+    "Edward Vincent Camp",
+    "Andrew Ropicki"
+   ],
+   "year": 2023,
+   "venue": "Journal of the Agricultural and Applied Economics Association",
+   "status": "已发表",
+   "url": "https://doi.org/10.1002/jaa2.58",
+   "abstract": null
+  },
+  {
+   "title": "Support for resource management: The role of information sources and affinitive trust",
+   "authors": [
+    "J. Stuart Carlton",
+    "Andrew Ropicki",
+    "Manoj P. Shivlani"
+   ],
+   "year": 2023,
+   "venue": "Journal of Environmental Management",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jenvman.2023.119150",
+   "abstract": null
+  },
+  {
+   "title": "Pandemic Produce: Impacts of COVID-19 on Florida’s Fruit and Vegetable Industries",
+   "authors": [
+    "Christa D. Court",
+    "David Outerbridge",
+    "Lauri M. Baker",
+    "Laura M. Birou",
+    "Catherine G. Campbell",
+    "Gigi DiGiacomo",
+    "Sebastian Galindo",
+    "John Lai",
+    "Alexandre Magnier",
+    "Michelle Miller",
+    "Gustavo de L. T. Oliveira",
+    "Eyrika Orlando",
+    "Hikaru Hanawa Peterson",
+    "Xiaohui Qiao",
+    "Fritz Roka",
+    "Andrew Ropicki",
+    "Bijeta Bijen Saha",
+    "Andrew W. Stevens",
+    "Li Zhang"
+   ],
+   "year": 2023,
+   "venue": "Journal of Agricultural & Food Industrial Organization",
+   "status": "已发表",
+   "url": "https://doi.org/10.1515/jafio-2022-0025",
+   "abstract": null
+  },
+  {
+   "title": "How ecosystem services are measured and why it matters for Florida",
+   "authors": [
+    "Charles Wallace",
+    "Anna Braswell",
+    "Mysha K. Clarke",
+    "Andrew Ropicki",
+    "Tara Wade",
+    "Frank Asche",
+    "Ashley R. Smyth",
+    "Armando J. Ubeda",
+    "Ed Camp"
+   ],
+   "year": 2023,
+   "venue": "EDIS",
+   "status": "已发表",
+   "url": "https://doi.org/10.32473/edis-fa252-2023",
+   "abstract": null
+  },
+  {
+   "title": "Market opportunities for Florida farmed oysters",
+   "authors": [
+    "Robert D. Botta",
+    "Taryn Garlock",
+    "Edward Vincent Camp",
+    "Andrew Ropicki",
+    "Frank Asche"
+   ],
+   "year": 2023,
+   "venue": "EDIS",
+   "status": "已发表",
+   "url": "https://doi.org/10.32473/edis-fa261-2023",
+   "abstract": null
+  },
+  {
+   "title": "Introduction to Harvest Tags for Marine Recreational Fisheries",
+   "authors": [
+    "Edward Vincent Camp",
+    "Zachary A. Siders",
+    "Andrew Ropicki",
+    "Frank Asche"
+   ],
+   "year": 2023,
+   "venue": "EDIS",
+   "status": "已发表",
+   "url": "https://doi.org/10.32473/edis-fa253-2023",
+   "abstract": null
+  },
+  {
+   "title": "Florida Marine Baitfish Aquaculture - Marketing Opportunities and Challenges (Part 1 of a Marine Baitfish Aquaculture Series)",
+   "authors": [
+    "Marissa Drake",
+    "Andrew Ropicki",
+    "Matthew A. DiMaggio",
+    "Kelly A. Grogan",
+    "Courtney L. Ohs",
+    "Laura G. Tiu",
+    "Edward Vincent Camp",
+    "Jordan Moor"
+   ],
+   "year": 2023,
+   "venue": "EDIS",
+   "status": "已发表",
+   "url": "https://doi.org/10.32473/edis-fa256-2023",
+   "abstract": null
+  },
+  {
+   "title": "Understanding metrics for communicating the economic value of Florida’s fisheries and coastal resources",
+   "authors": [
+    "Edward Vincent Camp",
+    "Christa D. Court",
+    "Andrew Ropicki",
+    "Robert D. Botta"
+   ],
+   "year": 2023,
+   "venue": "EDIS",
+   "status": "已发表",
+   "url": "https://doi.org/10.32473/edis-fa260-2023",
+   "abstract": null
+  },
+  {
+   "title": "Stochastic modeling and financial viability of mollusk aquaculture",
+   "authors": [
+    "Jordan Moor",
+    "Andrew Ropicki",
+    "James L. Anderson",
+    "Frank Asche"
+   ],
+   "year": 2022,
+   "venue": "Aquaculture",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.aquaculture.2022.737963",
+   "abstract": null
+  },
+  {
+   "title": "Clam aquaculture profitability under changing environmental risks",
+   "authors": [
+    "Jordan Moor",
+    "Andrew Ropicki",
+    "Taryn Garlock"
+   ],
+   "year": 2022,
+   "venue": "Aquaculture Economics & Management",
+   "status": "已发表",
+   "url": "https://doi.org/10.1080/13657305.2022.2058113",
+   "abstract": null
+  },
+  {
+   "title": "Impacts of COVID-19 on U.S. Seafood Availability",
+   "authors": [
+    "James L. Anderson",
+    "Frank Asche",
+    "Taryn Garlock",
+    "Shraddha Hegde",
+    "Andrew Ropicki",
+    "Hans‐Martin Straume"
+   ],
+   "year": 2022,
+   "venue": "Journal of Agricultural & Food Industrial Organization",
+   "status": "已发表",
+   "url": "https://doi.org/10.1515/jafio-2022-0017",
+   "abstract": null
+  },
+  {
+   "title": "Artificial Reefs in Florida 101: Effects on Fishers (and Divers))—Part 3 of an Artificial Reef Series",
+   "authors": [
+    "Lisa Chong",
+    "Angela B. Collins",
+    "Holly Abeels",
+    "Anna Braswell",
+    "Ana Zangroniz",
+    "Andrew Ropicki",
+    "Scott Jackson",
+    "Edward Vincent Camp"
+   ],
+   "year": 2022,
+   "venue": "EDIS",
+   "status": "已发表",
+   "url": "https://doi.org/10.32473/edis-fa243-2022",
+   "abstract": null
+  },
+  {
+   "title": "Artificial Reefs in Florida 101 – why are they built? Part 1 of an Artificial Reef series",
+   "authors": [
+    "Lisa Chong",
+    "Angela B. Collins",
+    "Holly Abeels",
+    "Anna Braswell",
+    "Andrew Ropicki",
+    "Scott Jackson",
+    "Ed Camp"
+   ],
+   "year": 2022,
+   "venue": "EDIS",
+   "status": "已发表",
+   "url": "https://doi.org/10.32473/edis-fr450-2022",
+   "abstract": null
+  },
+  {
+   "title": "Artificial Reefs in Florida 101 – effects on fish: Part 2 of an Artificial Reef series",
+   "authors": [
+    "Lisa Chong",
+    "Angela B. Collins",
+    "Holly Abeels",
+    "Anna Braswell",
+    "Ana Zangroniz",
+    "Andrew Ropicki",
+    "Scott Jackson",
+    "Ed Camp"
+   ],
+   "year": 2022,
+   "venue": "EDIS",
+   "status": "已发表",
+   "url": "https://doi.org/10.32473/edis-fa240-2022",
+   "abstract": null
+  },
+  {
+   "title": "Artificial Reefs in Florida 101: Effects on Fisheries--Part 4 of an Artificial Reef series",
+   "authors": [
+    "Lisa Chong",
+    "Angela B. Collins",
+    "Holly Abeels",
+    "Anna Braswell",
+    "Andrew Ropicki",
+    "Edward Vincent Camp"
+   ],
+   "year": 2022,
+   "venue": "EDIS",
+   "status": "已发表",
+   "url": "https://doi.org/10.32473/edis-fa244-2022",
+   "abstract": null
+  },
+  {
+   "title": "An Overview of Retail Sales of Seafood in the USA, 2017–2019",
+   "authors": [
+    "David C. Love",
+    "Frank Asche",
+    "Ruth Young",
+    "Elizabeth M. Nussbaumer",
+    "James L. Anderson",
+    "Robert D. Botta",
+    "Zach Conrad",
+    "Halley E. Froehlich",
+    "Taryn Garlock",
+    "Jessica A. Gephart",
+    "Andrew Ropicki",
+    "Joshua S. Stoll",
+    "Andrew Thorne‐Lyman"
+   ],
+   "year": 2021,
+   "venue": "Reviews in Fisheries Science & Aquaculture",
+   "status": "已发表",
+   "url": "https://doi.org/10.1080/23308249.2021.1946481",
+   "abstract": null
+  },
+  {
+   "title": "Evaluating the regional economic contributions of US aquaculture: Case study of Florida’s shellfish aquaculture industry",
+   "authors": [
+    "Robert D. Botta",
+    "Christa D. Court",
+    "Andrew Ropicki",
+    "Edward Vincent Camp"
+   ],
+   "year": 2021,
+   "venue": "Aquaculture Economics & Management",
+   "status": "已发表",
+   "url": "https://doi.org/10.1080/13657305.2020.1869860",
+   "abstract": null
+  },
+  {
+   "title": "The Economic Benefits Associated with Florida's Artificial Reefs",
+   "authors": [
+    "Andrew Ropicki",
+    "Chuck Adams",
+    "Bill Lindberg",
+    "John Stevely"
+   ],
+   "year": 2021,
+   "venue": "EDIS",
+   "status": "已发表",
+   "url": "https://doi.org/10.32473/edis-fe649-2021",
+   "abstract": null
+  },
+  {
+   "title": "Network analysis of collaboration and information sharing in the management of the Lower Mekong River Basin",
+   "authors": [
+    "Matthew McPherson",
+    "Andrew Ropicki"
+   ],
+   "year": 2020,
+   "venue": "Ocean & Coastal Management",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.ocecoaman.2020.105356",
+   "abstract": null
+  },
+  {
+   "title": "A Global Blue Revolution: Aquaculture Growth Across Regions, Species, and Countries",
+   "authors": [
+    "Taryn Garlock",
+    "Frank Asche",
+    "James L. Anderson",
+    "Trond Bjørndal",
+    "Ganesh Kumar",
+    "Kai Lorenzen",
+    "Andrew Ropicki",
+    "Martin D. Smith",
+    "Ragnar Tveterås"
+   ],
+   "year": 2019,
+   "venue": "Reviews in Fisheries Science & Aquaculture",
+   "status": "已发表",
+   "url": "https://doi.org/10.1080/23308249.2019.1678111",
+   "abstract": null
+  },
+  {
+   "title": "Estimating Lost Recreational Use Values of Visitors to Northwest Florida due to the Deepwater Horizon Oil Spill Using Cancelled Trip Data",
+   "authors": [
+    "John C. Whitehead",
+    "Timothy C. Haab",
+    "Sherry L. Larkin",
+    "John B. Loomis",
+    "Sergio Álvarez",
+    "Andrew Ropicki"
+   ],
+   "year": 2018,
+   "venue": "Marine Resource Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1086/697560",
+   "abstract": null
+  },
+  {
+   "title": "Quota Trading and Technical Efficiency",
+   "authors": [
+    "Sherry L. Larkin",
+    "Andrew Ropicki"
+   ],
+   "year": 2016,
+   "venue": "",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Can Fisher Social Networks be used to Explain IFQ Trading",
+   "authors": [
+    "Andrew Ropicki",
+    "Sherry L. Larkin"
+   ],
+   "year": 2015,
+   "venue": "",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Social Network Analysis of Price Dispersion in Fishing Quota Lease Markets",
+   "authors": [
+    "Andrew Ropicki",
+    "Sherry L. Larkin"
+   ],
+   "year": 2014,
+   "venue": "Marine Resource Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1086/676852",
+   "abstract": null
+  },
+  {
+   "title": "Network Analysis of the Gulf of Mexico Commercial Red Snapper Fishery IFQ Program",
+   "authors": [
+    "Andrew Ropicki",
+    "Ropicki, Andrew J."
+   ],
+   "year": 2013,
+   "venue": "RePEc: Research Papers in Economics",
+   "status": "工作论文",
+   "url": "https://doi.org/10.22004/ag.econ.143091",
+   "abstract": null
+  },
+  {
+   "title": "Salinity tolerance of non-native suckermouth armoured catfish (Loricariidae: Pterygoplichthys) in south-eastern Mexico: implications for invasion and dispersal",
+   "authors": [
+    "Krista A. Capps",
+    "Leo G. Nico",
+    "Manuel Mendoza‐Carranza",
+    "Wendi Arévalo–Frías",
+    "Andrew Ropicki",
+    "Sebastián Heilpern",
+    "Rocío Rodiles‐Hernández"
+   ],
+   "year": 2011,
+   "venue": "Aquatic Conservation Marine and Freshwater Ecosystems",
+   "status": "已发表",
+   "url": "https://doi.org/10.1002/aqc.1210",
+   "abstract": null
+  },
+  {
+   "title": "Seafood Substitution and Mislabeling: WTP for a Locally Caught Grouper Labeling Program in Florida",
+   "authors": [
+    "Andrew Ropicki",
+    "Sherry L. Larkin",
+    "Charles M. Adams"
+   ],
+   "year": 2010,
+   "venue": "Marine Resource Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.5950/0738-1360-25.1.77",
+   "abstract": null
+  }
+ ]
+}

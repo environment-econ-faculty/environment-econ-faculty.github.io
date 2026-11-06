@@ -1,0 +1,112 @@
+{
+ "slug": "minwoo-hyun",
+ "name": "Minwoo Hyun",
+ "sources": [
+  "https://minwoo-hyun.github.io/"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Source: homepage only (no CV link). Homepage lists co-authors without bylines: authors alphabetical by surname. Dates: published years from page; working papers have no year (given 2026). Work-in-progress items with abstracts on the page but no draft links are omitted, except none included.",
+ "papers": [
+  {
+   "title": "Bounds, Benefits, and Bad Air: Net Benefits of Pollution Alerts",
+   "authors": [
+    "Michael Anderson",
+    "Minwoo Hyun",
+    "Jaecheol Lee"
+   ],
+   "year": 2026,
+   "venue": "The Economic Journal",
+   "status": "已发表",
+   "url": "https://doi.org/10.1093/ej/ueag056",
+   "abstract": null
+  },
+  {
+   "title": "Feasibility trade-offs in decarbonisation of power sector with high coal dependence: A case of Korea",
+   "authors": [
+    "Aleh Cherp",
+    "Jiyong Eom",
+    "Minwoo Hyun",
+    "Jessica Jewell",
+    "Youngjae Kim"
+   ],
+   "year": 2023,
+   "venue": "Renewable and Sustainable Energy Transition",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.rset.2023.100050",
+   "abstract": null
+  },
+  {
+   "title": "Increase in household energy consumption due to ambient air pollution",
+   "authors": [
+    "Jiyong Eom",
+    "Minwoo Hyun",
+    "Jaewoong Lee",
+    "Hyoseop Lee"
+   ],
+   "year": 2020,
+   "venue": "Nature Energy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1038/s41560-020-00698-1",
+   "abstract": null
+  },
+  {
+   "title": "Assessing the impact of a demand-resource bidding market on an electricity generation portfolio and the environment",
+   "authors": [
+    "Jiyong Eom",
+    "Minwoo Hyun",
+    "Yeongjae Kim"
+   ],
+   "year": 2020,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.enpol.2020.111918",
+   "abstract": null
+  },
+  {
+   "title": "Trapped or Transferred: Worker Mobility and Labor Market Power in the Energy Transition",
+   "authors": [
+    "Minwoo Hyun"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://drive.google.com/file/d/10FLWdKC6vwJc4I44EVPh5lzPQEgz73ao/view?usp=sharing",
+   "abstract": null
+  },
+  {
+   "title": "Fossil Fuels and Fiscal Federalism: How Intergovernmental Transfers Respond to Local Coal Industry Declines",
+   "authors": [
+    "Minwoo Hyun"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://drive.google.com/file/d/1UI4ZldyKdYyVUsOZ9G-U2DRcpIr-ynel/view?usp=sharing",
+   "abstract": null
+  },
+  {
+   "title": "Industrial Decline Raises Juvenile Antisocial Behavior: Evidence from US Coal Communities",
+   "authors": [
+    "Minwoo Hyun"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://drive.google.com/file/d/1L2MWX9penimVw-88Rv8N-9QC9gtao4PW/view?usp=sharing",
+   "abstract": null
+  },
+  {
+   "title": "Do Environmental Markets Improve Allocative Efficiency? Evidence from U.S. Air Pollution",
+   "authors": [
+    "Minwoo Hyun",
+    "Kyle Meng",
+    "Vincent Thivierge"
+   ],
+   "year": 2026,
+   "venue": "NBER Working Paper",
+   "status": "工作论文",
+   "url": "https://www.nber.org/papers/w34111",
+   "abstract": null
+  }
+ ]
+}

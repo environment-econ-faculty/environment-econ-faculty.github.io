@@ -1,0 +1,665 @@
+{
+ "slug": "pilar-useche",
+ "name": "Pilar Useche",
+ "sources": [
+  "https://openalex.org/A5037854152",
+  "https://openalex.org/A5137185205"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Fallback: homepage/CV unavailable; list from OpenAlex author record(s) affiliated with University of Florida (Pilar Useche, Pilar Useche). May include non-economics coauthored work; working papers mostly absent.",
+ "papers": [
+  {
+   "title": "Sociobioeconomias e Financiamento da Conservação na Amazônia: Análise Executiva da Oficina",
+   "authors": [
+    "Angelica Gouveia Nunes",
+    "Pilar Useche",
+    "Trent Blare",
+    "Cláudio Valladares‐Pádua",
+    "Karen A. Kainer",
+    "Vanessa Luna-Celino",
+    "Jonathan L. Dain",
+    "D. M. G. Mello",
+    "Bette A. Loiselle",
+    "Ana Luisa Violato Espada"
+   ],
+   "year": 2026,
+   "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+   "status": "工作论文",
+   "url": "https://doi.org/10.5281/zenodo.18700962",
+   "abstract": null
+  },
+  {
+   "title": "Sociobioeconomías y Financiamiento de la Conservación en la Amazonía: Análisis Ejecutivo del Taller",
+   "authors": [
+    "Angelica Gouveia Nunes",
+    "Pilar Useche",
+    "Trent Blare",
+    "Cláudio Valladares‐Pádua",
+    "Karen A. Kainer",
+    "Vanessa Luna-Celino",
+    "Jonathan L. Dain",
+    "D. M. G. Mello",
+    "Bette A. Loiselle",
+    "Ana Luisa Violato Espada"
+   ],
+   "year": 2026,
+   "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+   "status": "工作论文",
+   "url": "https://doi.org/10.5281/zenodo.18700826",
+   "abstract": null
+  },
+  {
+   "title": "Sociobioeconomies and Conservation Finance in the Amazon: Workshop Executive Analysis",
+   "authors": [
+    "Angelica Gouveia Nunes",
+    "Pilar Useche",
+    "Trent Blare",
+    "Cláudio Valladares‐Pádua",
+    "Karen A. Kainer",
+    "Vanessa Luna-Celino",
+    "Jonathan L. Dain",
+    "D. M. G. Mello",
+    "Bette A. Loiselle",
+    "Ana Luisa Violato Espada"
+   ],
+   "year": 2026,
+   "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+   "status": "工作论文",
+   "url": "https://doi.org/10.5281/zenodo.18700475",
+   "abstract": null
+  },
+  {
+   "title": "Falling trade barriers and rising crime? Evidence from Colombia",
+   "authors": [
+    "Edgar Marcillo-Yepez",
+    "Pilar Useche",
+    "Conner Mullally",
+    "Jaclyn D. Kropp",
+    "Maira Emy Reimão"
+   ],
+   "year": 2026,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1002/ajae.70070",
+   "abstract": null
+  },
+  {
+   "title": "Transformando Instituições para a próxima geração de líderes na conservação da Amazônia: Análise Executiva da Oficina",
+   "authors": [
+    "Marlene Soriano",
+    "María F. Checa",
+    "Vanessa Luna-Celino",
+    "Karen A. Kainer",
+    "Angelica Gouveia Nunes",
+    "Pilar Useche",
+    "Bette A. Loiselle",
+    "Jon Dain",
+    "Karina Mariaca",
+    "Carolina Simon-Pardo",
+    "Ana Luisa Violato Espada"
+   ],
+   "year": 2026,
+   "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+   "status": "工作论文",
+   "url": "https://doi.org/10.5281/zenodo.20417373",
+   "abstract": null
+  },
+  {
+   "title": "Transformando instituciones para la nueva generación de líderes en conservación de la Amazonía: Análisis Ejecutivo del Taller.",
+   "authors": [
+    "Marlene Soriano",
+    "María F. Checa",
+    "Vanessa Luna-Celino",
+    "Karen A. Kainer",
+    "Angelica Gouveia Nunes",
+    "Pilar Useche",
+    "Bette A. Loiselle",
+    "Jon Dain",
+    "Karina Mariaca",
+    "Carolina Simon-Pardo",
+    "Ana Luiza Espada Violato"
+   ],
+   "year": 2026,
+   "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+   "status": "工作论文",
+   "url": "https://doi.org/10.5281/zenodo.20417138",
+   "abstract": null
+  },
+  {
+   "title": "Reshaping institutions for next generation conservation leaders in the Amazon: Workshop Executive Analysis",
+   "authors": [
+    "Marlene Soriano",
+    "María F. Checa",
+    "Vanessa Luna-Celino",
+    "Karen A. Kainer",
+    "Angelica Gouveia Nunes",
+    "Pilar Useche",
+    "Bette A. Loiselle",
+    "Jon Dain",
+    "Karina Mariaca",
+    "Carolina Simon-Pardo",
+    "Ana Luisa Violato Espada"
+   ],
+   "year": 2026,
+   "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+   "status": "工作论文",
+   "url": "https://doi.org/10.5281/zenodo.20416750",
+   "abstract": null
+  },
+  {
+   "title": "Cash transfers and time use within the household: an analysis of the effect of Familias en Acción",
+   "authors": [
+    "Edgar Marcillo-Yepez",
+    "Maira Emy Reimão",
+    "Conner Mullally",
+    "Pilar Useche"
+   ],
+   "year": 2026,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.worlddev.2026.107507",
+   "abstract": null
+  },
+  {
+   "title": "Collaborative management centered on Indigenous Peoples and local communities: Workshop Executive Analysis",
+   "authors": [
+    "Galo Zapata Ríos",
+    "João Vitor Campos‐Silva",
+    "Johanna Espín",
+    "Karen A. Kainer",
+    "Vanessa Luna-Celino",
+    "Jonatan Dain",
+    "Ana Luiza Violato Espada",
+    "Silvia de Melo Futada",
+    "D. M. G. Mello",
+    "Bette A. Loiselle",
+    "Pilar Useche"
+   ],
+   "year": 2026,
+   "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+   "status": "工作论文",
+   "url": "https://doi.org/10.5281/zenodo.22086038",
+   "abstract": null
+  },
+  {
+   "title": "Gestão Colaborativa focada em povos indígenas e comunidades locais: Análise Executiva da Oficina",
+   "authors": [
+    "Galo Zapata Ríos",
+    "João Vitor Campos‐Silva",
+    "Johanna Espín",
+    "Karen A. Kainer",
+    "Vanessa Luna-Celino",
+    "Jonatan Dain",
+    "Ana Luiza Violato Espada",
+    "Silvia de Melo Futada",
+    "D. M. G. Mello",
+    "Bette A. Loiselle",
+    "Pilar Useche"
+   ],
+   "year": 2026,
+   "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+   "status": "工作论文",
+   "url": "https://doi.org/10.5281/zenodo.22086428",
+   "abstract": null
+  },
+  {
+   "title": "Gestión colaborativa centrada en los pueblos indígenas y las comunidades locales: Análisis Ejecutivo del Taller",
+   "authors": [
+    "Galo Zapata Ríos",
+    "João Vitor Campos‐Silva",
+    "Johanna Espín",
+    "Karen A. Kainer",
+    "Vanessa Luna-Celino",
+    "Jonatan Dain",
+    "Ana Luiza Violato Espada",
+    "Silvia de Melo Futada",
+    "D. M. G. Mello",
+    "Bette A. Loiselle",
+    "Pilar Useche"
+   ],
+   "year": 2026,
+   "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+   "status": "工作论文",
+   "url": "https://doi.org/10.5281/zenodo.22086286",
+   "abstract": null
+  },
+  {
+   "title": "Power of Connections (2025) Report of the workshop 'Sociobioeconomies and Conservation Finance in the Amazon'",
+   "authors": [
+    "Claudio Valladares-Padua",
+    "Trent Blare",
+    "Ana Luiza Violato Espada",
+    "Vanessa Luna",
+    "Karen A. Kainer",
+    "Pilar Useche",
+    "Jonathan Dain",
+    "Bette A. Loiselle",
+    "Adevaldo Dias da Costa",
+    "Andrea Ortiz de Zevallos",
+    "Antonio Loboguerrero",
+    "Carlos Gabriel Gonçalves Koury",
+    "David Solano Cornejo",
+    "Denyse Mello",
+    "Floriana Breyer",
+    "Angelica Gouveia",
+    "Manoel Serrão",
+    "Marcelo Cwener",
+    "Mayra Esseboom",
+    "Natali Silva",
+    "Paulina Espin",
+    "Renato Farias",
+    "Ruth Cayapa",
+    "Suzana Machado Padua",
+    "Vanda Witoto"
+   ],
+   "year": 2025,
+   "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+   "status": "工作论文",
+   "url": "https://doi.org/10.5281/zenodo.18509895",
+   "abstract": null
+  },
+  {
+   "title": "Agricultural commercialization and nutrition; evidence from smallholder coffee farmers",
+   "authors": [
+    "Joanna van Asselt",
+    "Pilar Useche"
+   ],
+   "year": 2022,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.worlddev.2022.106021",
+   "abstract": null
+  },
+  {
+   "title": "Do Conditional Cash Transfers Reinforce the Traditional Gendered Division of Labor?",
+   "authors": [
+    "Edgar Marcillo-Yepez",
+    "Conner Mullally",
+    "Maira Emy Reimão",
+    "Pilar Useche"
+   ],
+   "year": 2022,
+   "venue": "SSRN Electronic Journal",
+   "status": "工作论文",
+   "url": "https://doi.org/10.2139/ssrn.3995733",
+   "abstract": null
+  },
+  {
+   "title": "A Gendered Analysis of Individual-Level Asset Poverty in Ecuador",
+   "authors": [
+    "Boaz Anglade",
+    "Pilar Useche",
+    "Carmen Diana Deere"
+   ],
+   "year": 2021,
+   "venue": "Feminist Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1080/13545701.2021.1995019",
+   "abstract": null
+  },
+  {
+   "title": "[FE1091] Regulations Governing the Usage of Reclaimed Water as an Alternative Water Source for Agricultural Irrigation in Florida",
+   "authors": [
+    "Leticia Braune",
+    "Gülcan Önel",
+    "Tatiana Borisova",
+    "Pilar Useche"
+   ],
+   "year": 2021,
+   "venue": "EDIS",
+   "status": "已发表",
+   "url": "https://doi.org/10.32473/edis-fe1091-2021",
+   "abstract": null
+  },
+  {
+   "title": "Perceptions and Adaptation to Climate Change: the Case of Peruvian Farmers",
+   "authors": [
+    "Pilar Useche",
+    "Boaz Anglade",
+    "Juliana Muriel Osorio",
+    "Jennifer Twyman"
+   ],
+   "year": 2021,
+   "venue": "Journal of Economics and Development Studies",
+   "status": "已发表",
+   "url": "https://doi.org/10.15640/jeds.v9n1a2",
+   "abstract": null
+  },
+  {
+   "title": "Aligning Strategic Objectives with Research and Development Activities in a Soft Commodity Sector: A Technological Plan for Colombian Cocoa Producers",
+   "authors": [
+    "Sebastián Escobar",
+    "Margareth Santander",
+    "Pilar Useche",
+    "Carlos Alberto Contreras Pedraza",
+    "Jader Rodríguez"
+   ],
+   "year": 2020,
+   "venue": "Agriculture",
+   "status": "已发表",
+   "url": "https://doi.org/10.3390/agriculture10050141",
+   "abstract": null
+  },
+  {
+   "title": "The Role of Strategic Uncertainty in Area‐wide Pest Management Decisions of Florida Citrus Growers",
+   "authors": [
+    "Ariel Singerman",
+    "Pilar Useche"
+   ],
+   "year": 2019,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1093/ajae/aaz006",
+   "abstract": null
+  },
+  {
+   "title": "Differences in women’s and men’s conservation of cacao agroforests in coastal Ecuador",
+   "authors": [
+    "Trent D Blare",
+    "Pilar Useche"
+   ],
+   "year": 2019,
+   "venue": "Environmental Conservation",
+   "status": "已发表",
+   "url": "https://doi.org/10.1017/s0376892919000237",
+   "abstract": null
+  },
+  {
+   "title": "“The Role of Strategic Uncertainty in Area‐Wide Pest Management Decisions of Florida Citrus Growers” – Authors' Response to Comment",
+   "authors": [
+    "Ariel Singerman",
+    "Pilar Useche"
+   ],
+   "year": 2019,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1093/ajae/aaz019",
+   "abstract": null
+  },
+  {
+   "title": "The Abbreviated Women’s Empowerment in Agriculture Index (A-WEIA). Project results for “His and Hers, time and income: How intra-household dynamics impact nutrition in agricultural households”.",
+   "authors": [
+    "Juliana Muriel",
+    "Jennifer Twyman",
+    "Pilar Useche",
+    "Diana C Lopera",
+    "Carolina González",
+    "Elise F. Talsma"
+   ],
+   "year": 2019,
+   "venue": "CGSPace A Repository of Agricultural Research Outputs (Consultative Group for International Agricultural Research)",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "El Índice Abreviado de Empoderamiento de Mujeres en Agricultura (A-WEAI): Resultados del proyecto “Él y Ella, tiempo e ingreso: dinámicas intra-hogar e impacto sobre la nutrición de hogares agrícolas”",
+   "authors": [
+    "Juliana Muriel",
+    "Jennifer Twyman",
+    "Pilar Useche",
+    "Diana C Lopera",
+    "González, Carolina",
+    "Elise F. Talsma"
+   ],
+   "year": 2019,
+   "venue": "CGSPace A Repository of Agricultural Research Outputs (Consultative Group for International Agricultural Research)",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Moving toward Sustainable Rice Production in Northwest Dominican Republic",
+   "authors": [
+    "Derek Sindler",
+    "Pilar Useche",
+    "Catherine May Tucker",
+    "Xin Zhao"
+   ],
+   "year": 2018,
+   "venue": "Natural Resources",
+   "status": "已发表",
+   "url": "https://doi.org/10.4236/nr.2018.912029",
+   "abstract": null
+  },
+  {
+   "title": "Epidemic Network Analysis for Mitigation of Invasive Pathogens in Seed Systems: Potato in Ecuador",
+   "authors": [
+    "Christopher Evan Buddenhagen",
+    "John Fredy Hernández Nopsa",
+    "Kelsey F Andersen",
+    "Jorge L Andrade-Piedra",
+    "Gregory A. Forbes",
+    "Peter Kromann",
+    "Sara Thomas‐Sharma",
+    "Pilar Useche",
+    "Karen A. Garrett"
+   ],
+   "year": 2017,
+   "venue": "Phytopathology",
+   "status": "已发表",
+   "url": "https://doi.org/10.1094/phyto-03-17-0108-fi",
+   "abstract": null
+  },
+  {
+   "title": "Is Area‐Wide Pest Management Useful? The Case of Citrus Greening",
+   "authors": [
+    "Ariel Singerman",
+    "Sergio Horacio Lence",
+    "Pilar Useche"
+   ],
+   "year": 2017,
+   "venue": "Applied Economic Perspectives and Policy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1093/aepp/ppx030",
+   "abstract": null
+  },
+  {
+   "title": "Decomposing the Gender Wealth Gap in Ecuador",
+   "authors": [
+    "Boaz Anglade",
+    "Pilar Useche",
+    "Carmen Diana Deere"
+   ],
+   "year": 2017,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.worlddev.2017.02.003",
+   "abstract": null
+  },
+  {
+   "title": "A Framework for Determining the Impact of Value Chain Participation on Smallholder Farm Efficiency",
+   "authors": [
+    "William Barnos Warsanga",
+    "Edward Anthony Evans",
+    "Zhifeng Gao",
+    "Pilar Useche"
+   ],
+   "year": 2017,
+   "venue": "Theoretical Economics Letters",
+   "status": "已发表",
+   "url": "https://doi.org/10.4236/tel.2017.73039",
+   "abstract": null
+  },
+  {
+   "title": "Impact of Citrus Greening on Citrus Operations in Florida",
+   "authors": [
+    "Ariel Singerman",
+    "Pilar Useche"
+   ],
+   "year": 2016,
+   "venue": "EDIS",
+   "status": "已发表",
+   "url": "https://doi.org/10.32473/edis-fe983-2016",
+   "abstract": null
+  },
+  {
+   "title": "Women’s Participation in Agriculture and Gender Productivity Gap: The Case of Coffee Farmers in Southern Colombia and Northern Ecuador",
+   "authors": [
+    "Jorge J. Avila-Santamaria",
+    "Pilar Useche"
+   ],
+   "year": 2016,
+   "venue": "RePEc: Research Papers in Economics",
+   "status": "工作论文",
+   "url": "https://doi.org/10.22004/ag.econ.236156",
+   "abstract": null
+  },
+  {
+   "title": "Gendered Perceptions of Land Ownership and Agricultural Decision-making in Ecuador: Who Are the Farm Managers?",
+   "authors": [
+    "Jennifer Twyman",
+    "Pilar Useche",
+    "Carmen Diana Deere"
+   ],
+   "year": 2015,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.3368/le.91.3.479",
+   "abstract": null
+  },
+  {
+   "title": "Is there a choice? Choice experiment to determine the value men and women place on cacao agroforests in coastal Ecuador",
+   "authors": [
+    "Trent D Blare",
+    "Pilar Useche"
+   ],
+   "year": 2015,
+   "venue": "The International Forestry Review",
+   "status": "已发表",
+   "url": "https://doi.org/10.1505/146554815816002220",
+   "abstract": null
+  },
+  {
+   "title": "The Sustainable Choice: How Gendered Difference in the Importance of Ecological Benefits Affect Production Decisions of Smallholder Cacao Producing Households in Ecuador",
+   "authors": [
+    "Trent D Blare",
+    "Pilar Useche",
+    "Grogan, Kelly A."
+   ],
+   "year": 2014,
+   "venue": "RePEc: Research Papers in Economics",
+   "status": "工作论文",
+   "url": "https://doi.org/10.22004/ag.econ.169782",
+   "abstract": null
+  },
+  {
+   "title": "Traditional vs. modern production systems: Price and nonmarket considerations of cacao producers in Northern Ecuador",
+   "authors": [
+    "Pilar Useche",
+    "Trent D Blare"
+   ],
+   "year": 2013,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.ecolecon.2013.03.010",
+   "abstract": null
+  },
+  {
+   "title": "Differences in Opinions about Surface Water Quality Issues in the Southern United States: Implications for Watershed Planning Process",
+   "authors": [
+    "Tatiana Borisova",
+    "Pilar Useche",
+    "Michael D. Smolen",
+    "Diane E. Boellstorff",
+    "Nicola W. Sochacka",
+    "Jon Calabria",
+    "Damian C. Adams",
+    "Robert L. Mahler",
+    "Jason Evans"
+   ],
+   "year": 2013,
+   "venue": "Natural sciences education",
+   "status": "已发表",
+   "url": "https://doi.org/10.4195/nse.2012.0026",
+   "abstract": null
+  },
+  {
+   "title": "Collective Action in Common Pool Resource Management, Including Heterogeneity of Opportunities and Exit Options",
+   "authors": [
+    "Pilar Useche"
+   ],
+   "year": 2013,
+   "venue": "Natural Resources",
+   "status": "已发表",
+   "url": "https://doi.org/10.4236/nr.2013.48059",
+   "abstract": null
+  },
+  {
+   "title": "The value of a human being: A strategic analysis of Kidnapping Negotiation with Guerilla Groups in Colombia",
+   "authors": [
+    "Pilar Useche"
+   ],
+   "year": 2013,
+   "venue": "International Journal of Physical and Social Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Exploring the effects of extension workshops on household water use behavior",
+   "authors": [
+    "Tatiana Borisova",
+    "Pilar Useche"
+   ],
+   "year": 2013,
+   "venue": "RePEc: Research Papers in Economics",
+   "status": "工作论文",
+   "url": "https://doi.org/10.22004/ag.econ.143792",
+   "abstract": null
+  },
+  {
+   "title": "Early adoption, experience, and farm performance of GM corn seeds",
+   "authors": [
+    "Úrsula Aldana",
+    "Bradford L. Barham",
+    "Jeremy D. Foltz",
+    "Pilar Useche"
+   ],
+   "year": 2012,
+   "venue": "Agricultural Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/j.1574-0862.2012.00616.x",
+   "abstract": null
+  },
+  {
+   "title": "Sequential Adoption of Package Technologies: The Dynamics of Stacked Trait Corn Adoption",
+   "authors": [
+    "Úrsula Aldana",
+    "Jeremy D. Foltz",
+    "Bradford L. Barham",
+    "Pilar Useche"
+   ],
+   "year": 2011,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1093/ajae/aaq112",
+   "abstract": null
+  },
+  {
+   "title": "Integrating Technology Traits and Producer Heterogeneity: A Mixed‐Multinomial Model of Genetically Modified Corn Adoption",
+   "authors": [
+    "Pilar Useche",
+    "Bradford L. Barham",
+    "Jeremy D. Foltz"
+   ],
+   "year": 2009,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/j.1467-8276.2008.01236.x",
+   "abstract": null
+  },
+  {
+   "title": "Technology Adoption in Poorly Specified Environments",
+   "authors": [
+    "Pilar Useche",
+    "Useche, Pilar"
+   ],
+   "year": 2007,
+   "venue": "RePEc: Research Papers in Economics",
+   "status": "工作论文",
+   "url": "https://doi.org/10.22004/ag.econ.9887",
+   "abstract": null
+  }
+ ]
+}

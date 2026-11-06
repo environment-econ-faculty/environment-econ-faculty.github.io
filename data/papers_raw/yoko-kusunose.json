@@ -1,0 +1,173 @@
+{
+ "slug": "yoko-kusunose",
+ "name": "Yoko Kusunose",
+ "sources": [
+  "https://personnel.mgcafe.uky.edu/directory/Kusunose-Yoko"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Only UK profile page used (CV docx on site and Scholars@UK not fetched). Profile lists no working papers. Author orders on the profile were given as 'with ...' after the title (Kusunose position not stated); for Ma et al. 2019 the Ma CV gives Kusunose, Ma, Van Sanford; others alphabetical by surname incl. Kusunose except where Buck 2021 byline known. Review article and conference paper (Precision Agriculture 2013) skipped or flagged: review article 2016 kept, conference paper skipped.",
+ "papers": [
+  {
+   "title": "The market for private food safety certifications: Conceptual framework, review, and future research directions",
+   "authors": [
+    "L. Hu",
+    "Y. Zheng",
+    "T. A. Woods",
+    "Yoko Kusunose",
+    "Steven Buck"
+   ],
+   "year": 2023,
+   "venue": "Applied Economic Perspectives and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Sustaining productivity gains in the face of climate change: A research agenda for US wheat",
+   "authors": [
+    "J. J. Rossi",
+    "D. A. Van Sanford",
+    "P. D. Alderman",
+    "J. A. Anderson",
+    "Y. Chai",
+    "M. K. Gerullis",
+    "S. V. K. Jagadish",
+    "Yoko Kusunose",
+    "P. A. Paul",
+    "J. B. Tack",
+    "B. D. Wright"
+   ],
+   "year": 2023,
+   "venue": "Global Change Biology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Re-visiting traditional trust measurement: using artefactual field experiments to measure trust and predict micro-lending decisions",
+   "authors": [
+    "Steven Buck",
+    "Yoko Kusunose",
+    "J. Alwang"
+   ],
+   "year": 2021,
+   "venue": "Agricultural Finance Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Can Customary Land Tenure Facilitate Agricultural Productivity Growth? Evidence from Burkina Faso",
+   "authors": [
+    "Yoko Kusunose",
+    "V. Thériault",
+    "D. Alia"
+   ],
+   "year": 2020,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The role of liquidity in preventing dis-investment in crop inputs: Evidence from Zambia",
+   "authors": [
+    "Yoko Kusunose",
+    "N. Mason-Wardell",
+    "S. Tembo"
+   ],
+   "year": 2020,
+   "venue": "Journal of African Economies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Does experience with agricultural loans improve farmers' well-being? Evidence from Benin",
+   "authors": [
+    "Yoko Kusunose",
+    "N. S. M. Sagbo"
+   ],
+   "year": 2020,
+   "venue": "Agricultural Finance Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "On the Economic Value of Signals",
+   "authors": [
+    "A. Bagh",
+    "Yoko Kusunose"
+   ],
+   "year": 2020,
+   "venue": "The B.E. Journal of Theoretical Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "User responses to imperfect forecasts: Findings from an experiment with Kentucky wheat farmers",
+   "authors": [
+    "Yoko Kusunose",
+    "Lala Ma",
+    "David Van Sanford"
+   ],
+   "year": 2019,
+   "venue": "Weather, Climate, and Society",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Governing livelihood and land use transitions: The role of customary tenure in southeastern Morocco",
+   "authors": [
+    "Yoko Kusunose",
+    "K. Rignall"
+   ],
+   "year": 2018,
+   "venue": "Land Use Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Imperfect forecasts and decision making in agriculture",
+   "authors": [
+    "Yoko Kusunose",
+    "R. Mahmood"
+   ],
+   "year": 2016,
+   "venue": "Agricultural Systems",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Destination or distraction? Querying the linkage between off-farm work and food crop investments in Kenya",
+   "authors": [
+    "Yoko Kusunose",
+    "M. Smale",
+    "M. K. Mathenge",
+    "D. Alia"
+   ],
+   "year": 2016,
+   "venue": "Journal of African Economies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Coping with drought by adjusting land tenancy contracts: A model and evidence from rural Morocco",
+   "authors": [
+    "Yoko Kusunose",
+    "T. J. Lybbert"
+   ],
+   "year": 2014,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

@@ -1,0 +1,5 @@
+- taryn-dinkelman | Taryn Dinkelman | University of Notre Dame | https://www.taryndinkelman.com/ | https://economics.nd.edu/assets/644672/dinkelman_cv_jan_2026.pdf | https://economics.nd.edu/people/faculty/taryn-dinkelman/
+- bernhard-dalheimer | Bernhard Dalheimer | Purdue University | https://bernharddalheimer.com/ | (none) | https://ag.purdue.edu/api/pi/2021/api/Directory/GetStaffDetail?alias=bdalheim
+- carson-j-reeling | Carson J. Reeling | Purdue University | (none) | https://files.wmich.edu/s3fs-public/curriculum-vitae/reeling-cv.pdf | https://ag.purdue.edu/api/pi/2021/api/Directory/GetStaffDetail?alias=creeling
+- jacob-ricker-gilbert | Jacob Ricker-Gilbert | Purdue University | (none) | https://drive.google.com/file/d/1XJY5ykMWe6WlhJAsStTnz7CQJw9oEhFB/view | https://ag.purdue.edu/api/pi/2021/api/Directory/GetStaffDetail?alias=jrickerg
+- juan-pablo-sesmero | Juan Pablo Sesmero | Purdue University | (none) | https://ag.purdue.edu/department/agecon/_docs/cv/cv_sesmero.pdf | https://ag.purdue.edu/api/pi/2021/api/Directory/GetStaffDetail?alias=jsesmero

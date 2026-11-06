@@ -1,0 +1,438 @@
+{
+ "slug": "eric-bahel",
+ "name": "Eric Bahel",
+ "sources": [
+  "https://sites.google.com/a/vt.edu/eric_bahel/publications",
+  "https://sites.google.com/a/vt.edu/eric_bahel/working-papers",
+  "https://drive.google.com/file/d/0B9XY1ih3sf6AMUZVLURXSF9SY0U/view (CV Sept 2016, only checked, superseded)"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Used homepage Publications and Working Papers pages (current to Oct 2026); CV is from 2016 so not used for lists. Homepage lists coauthors without byline order, so authors alphabetical by surname incl. scholar. Oxford Handbook of the Economy of Cameroon chapters listed forthcoming with no year (2026 assumed). Working Papers carry dates shown on the page. Status R&R not shown on page.",
+ "papers": [
+  {
+   "title": "Preconvex Games",
+   "authors": [
+    "Eric Bahel",
+    "Christian Trudeau",
+    "Haoyu Wang"
+   ],
+   "year": 2026,
+   "venue": "Games and Economic Behavior",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/pii/S0899825625001642",
+   "abstract": null
+  },
+  {
+   "title": "Merge-Proofness and Cost-Solidarity in Shortest Path Games",
+   "authors": [
+    "Eric Bahel",
+    "Maria Gomez-Rua",
+    "Juan Vidal-Puga"
+   ],
+   "year": 2025,
+   "venue": "Social Choice and Welfare",
+   "status": "已发表",
+   "url": "https://link.springer.com/article/10.1007/s00355-024-01574-7",
+   "abstract": null
+  },
+  {
+   "title": "Stable and Weakly Additive Cost Sharing in Shortest Path Problems",
+   "authors": [
+    "Eric Bahel",
+    "Maria Gomez-Rua",
+    "Juan Vidal-Puga"
+   ],
+   "year": 2024,
+   "venue": "Journal of Mathematical Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Matching Markets with Middlemen and Transferable Utility",
+   "authors": [
+    "Ata Atay",
+    "Eric Bahel",
+    "Tamas Solymosi"
+   ],
+   "year": 2023,
+   "venue": "Annals of Operations Research",
+   "status": "已发表",
+   "url": "https://link.springer.com/article/10.1007/s10479-022-05111-6",
+   "abstract": null
+  },
+  {
+   "title": "Communication and Cooperation in Prisoner's Dilemma Games",
+   "authors": [
+    "Eric Bahel",
+    "Sheryl Ball",
+    "Sudipta Sarangi"
+   ],
+   "year": 2022,
+   "venue": "Games and Economic Behavior",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Minimum coloring problems with weakly perfect graphs",
+   "authors": [
+    "Eric Bahel",
+    "Christian Trudeau"
+   ],
+   "year": 2022,
+   "venue": "Review of Economic Design",
+   "status": "已发表",
+   "url": "https://link.springer.com/article/10.1007/s10058-021-00265-4",
+   "abstract": null
+  },
+  {
+   "title": "Hyperadditive Games and Applications to Networks or Matching Problems",
+   "authors": [
+    "Eric Bahel"
+   ],
+   "year": 2021,
+   "venue": "Journal of Economic Theory",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Strategy-proof Choice under Monotonic Additive Preferences",
+   "authors": [
+    "Eric Bahel",
+    "Yves Sprumont"
+   ],
+   "year": 2021,
+   "venue": "Games and Economic Behavior",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Patent Nash Equilibria in Symmetric Strictly Competitive Games",
+   "authors": [
+    "Eric Bahel"
+   ],
+   "year": 2021,
+   "venue": "Economics Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Strategyproof Choice of Social Acts",
+   "authors": [
+    "Eric Bahel",
+    "Yves Sprumont"
+   ],
+   "year": 2020,
+   "venue": "American Economic Review",
+   "status": "已发表",
+   "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20171553",
+   "abstract": null
+  },
+  {
+   "title": "A Cost Sharing Example in which Subsidies Are Necessary for Stability",
+   "authors": [
+    "Eric Bahel",
+    "Christian Trudeau"
+   ],
+   "year": 2019,
+   "venue": "Economics Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Stability and Fairness in the Job Scheduling Problem",
+   "authors": [
+    "Eric Bahel",
+    "Christian Trudeau"
+   ],
+   "year": 2019,
+   "venue": "Games and Economic Behavior",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "On the Properties of the Nucleolus of a Veto Game",
+   "authors": [
+    "Eric Bahel"
+   ],
+   "year": 2019,
+   "venue": "Economic Theory Bulletin",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Cooperation and Subgame Perfect Equilibria in Global Pollution Problems with a Critical Threshold",
+   "authors": [
+    "Eric Bahel"
+   ],
+   "year": 2018,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Consistency Requirements and Pattern Methods in Cost Sharing Problems with Technological Cooperation",
+   "authors": [
+    "Eric Bahel",
+    "Christian Trudeau"
+   ],
+   "year": 2018,
+   "venue": "International Journal of Game Theory",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Stable Cost Sharing in Production Allocation Games",
+   "authors": [
+    "Eric Bahel",
+    "Christian Trudeau"
+   ],
+   "year": 2018,
+   "venue": "Review of Economic Design",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Minimum Incoming Cost Rules for Arborescences",
+   "authors": [
+    "Eric Bahel",
+    "Christian Trudeau"
+   ],
+   "year": 2017,
+   "venue": "Social Choice and Welfare",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "On the Core and Bargaining Set of a Veto Game",
+   "authors": [
+    "Eric Bahel"
+   ],
+   "year": 2016,
+   "venue": "International Journal of Game Theory",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "International Environmental Agreements under Endogenous Uncertainty",
+   "authors": [
+    "Eric Bahel",
+    "Walid Marrouch",
+    "Bruno Nkuiya"
+   ],
+   "year": 2015,
+   "venue": "Journal of Public Economic Theory",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Stable Lexicographic Rules for Shortest Path Games",
+   "authors": [
+    "Eric Bahel",
+    "Christian Trudeau"
+   ],
+   "year": 2014,
+   "venue": "Economics Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Shapley-Shubik Methods in Cost Sharing Problems with Technological Cooperation",
+   "authors": [
+    "Eric Bahel",
+    "Christian Trudeau"
+   ],
+   "year": 2014,
+   "venue": "Social Choice and Welfare",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Cycles with Undistinguished Actions and Extended Rock-Paper-Scissors Games",
+   "authors": [
+    "Eric Bahel",
+    "Hans Haller"
+   ],
+   "year": 2013,
+   "venue": "Economics Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Economics of Oil, Biofuel and Food Commodities",
+   "authors": [
+    "Eric Bahel",
+    "Gerard Gaudet",
+    "Walid Marrouch"
+   ],
+   "year": 2013,
+   "venue": "Resource and Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Discrete Cost Sharing Model with Technological Cooperation",
+   "authors": [
+    "Eric Bahel",
+    "Christian Trudeau"
+   ],
+   "year": 2013,
+   "venue": "International Journal of Game Theory",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Rock-Paper-Scissors and Cycle-Based Games",
+   "authors": [
+    "Eric Bahel"
+   ],
+   "year": 2012,
+   "venue": "Economics Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Optimal Management of Strategic Reserves of Nonrenewable Natural Resources",
+   "authors": [
+    "Eric Bahel"
+   ],
+   "year": 2011,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Implications of the Ranking Axiom for Discrete Cost Sharing Methods",
+   "authors": [
+    "Eric Bahel"
+   ],
+   "year": 2011,
+   "venue": "International Journal of Game Theory",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Analytics of Natural Resource Management",
+   "authors": [
+    "Eric Bahel",
+    "Octave Keutiben",
+    "Didier Tatoutchoup"
+   ],
+   "year": 2026,
+   "venue": "Book chapter in The Oxford Handbook of the Economy of Cameroon (Oxford University Press)",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Testing the Dynamic Efficiency of Extraction of Non-renewable Resources",
+   "authors": [
+    "Eric Bahel",
+    "Octave Keutiben",
+    "Didier Tatoutchoup"
+   ],
+   "year": 2026,
+   "venue": "Book chapter in The Oxford Handbook of the Economy of Cameroon (Oxford University Press)",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Oil Revenue Management: Cameroon's Experience",
+   "authors": [
+    "Eric Bahel",
+    "Octave Keutiben",
+    "Didier Tatoutchoup"
+   ],
+   "year": 2026,
+   "venue": "Book chapter in The Oxford Handbook of the Economy of Cameroon (Oxford University Press)",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Anonymous and Strategy-Proof Social Choice under Uncertainty",
+   "authors": [
+    "Eric Bahel"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Ratios, Symmetry, and Cores of TU Games",
+   "authors": [
+    "Eric Bahel",
+    "Sudipta Sarangi",
+    "Christian Trudeau"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Weak Players, Strong Players, and Signed Network Formation",
+   "authors": [
+    "Eric Bahel",
+    "Sunjin Kim",
+    "Sudipta Sarangi"
+   ],
+   "year": 2022,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Honesty Sometimes Decreases Cooperation in Prisoner's Dilemma Games with Communication",
+   "authors": [
+    "Abdelaziz AlSharawy",
+    "Eric Bahel",
+    "Sheryl Ball",
+    "Sudipta Sarangi"
+   ],
+   "year": 2022,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Strategic Resource Dependence and Adoption of a Substitute under Learning-by-Doing",
+   "authors": [
+    "Eric Bahel",
+    "Ujjayant Chakravorty"
+   ],
+   "year": 2019,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://drive.google.com/file/d/1ev_U7knAR1B0wBdVph_CElPw2FwTrsRh/view?usp=sharing",
+   "abstract": null
+  }
+ ]
+}

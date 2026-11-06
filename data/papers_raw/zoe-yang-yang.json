@@ -1,0 +1,240 @@
+{
+ "slug": "zoe-yang-yang",
+ "name": "Zoe Yang Yang",
+ "sources": [
+  "https://www.bschool.cuhk.edu.hk/wp-content/uploads/Yang-Zoe-Yang_CV-Aug-2026.pdf"
+ ],
+ "collected": "2026-11-06",
+ "notes": "CV updated Aug 10, 2026 (homepage zoeyangyang.weebly.com returned 404 / SSL error). CV states authors are listed by surname (alphabetical); some coauthors appear only as initials on the CV and are kept as written. Working paper years: only NBER w30465 is dated (2022); others given as 2026 (CV date). Skipped Oxford Research Encyclopedia entry, book, government reports, book chapters by others.",
+ "papers": [
+  {
+   "title": "High-Speed Rail and China's Electric Vehicle Adoption Miracle",
+   "authors": [
+    "H. Fang",
+    "M. Li",
+    "L. Wang",
+    "Y. Yang"
+   ],
+   "year": 2026,
+   "venue": "Journal of Public Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Online Consumption and Sustained Air Pollution Exposure: Evidence from a Quasi-experiment in China",
+   "authors": [
+    "S. Agarwal",
+    "L. Wang",
+    "Y. Yang"
+   ],
+   "year": 2026,
+   "venue": "Regional Science and Urban Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Information Provision and Search Frictions: Evidence from the Taxi Industry in Singapore",
+   "authors": [
+    "S. Agarwal",
+    "S. Cheng",
+    "J. Keppo",
+    "L. Wang",
+    "Y. Yang"
+   ],
+   "year": 2025,
+   "venue": "The Review of Economics and Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Competition and Quality: Evidence from the High-Speed Rails and Airlines",
+   "authors": [
+    "H. Fang",
+    "L. Wang",
+    "Y. Yang"
+   ],
+   "year": 2025,
+   "venue": "The Review of Economics and Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Role of Agents in Fraudulent Activities: Evidence from the Housing Market in Beijing",
+   "authors": [
+    "S. Agarwal",
+    "W. Kuang",
+    "L. Wang",
+    "Y. Yang"
+   ],
+   "year": 2024,
+   "venue": "Journal of Urban Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Impact of Transboundary Air Pollution on Service Quality and Consumer Satisfaction",
+   "authors": [
+    "S. Agarwal",
+    "L. Wang",
+    "Y. Yang"
+   ],
+   "year": 2021,
+   "venue": "Journal of Economic Behavior and Organization",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Human Mobility Restrictions and the Spread of the Novel Coronavirus (2019-nCoV) in China",
+   "authors": [
+    "H. Fang",
+    "L. Wang",
+    "Y. Yang"
+   ],
+   "year": 2020,
+   "venue": "Journal of Public Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Political Connections in the Land Market: Evidence from China's State-owned Enterprises",
+   "authors": [
+    "L. Wang",
+    "Y. Yang"
+   ],
+   "year": 2020,
+   "venue": "Real Estate Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Using Purchase Restrictions to Cool Housing Markets: A within-market Analysis",
+   "authors": [
+    "T. Somerville",
+    "L. Wang",
+    "Y. Yang"
+   ],
+   "year": 2020,
+   "venue": "Journal of Urban Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Can Price Regulation Improve Land Use Intensity? Evidence from Industrial Land Market in China",
+   "authors": [
+    "Y. Lin",
+    "Y. Qin",
+    "Y. Yang",
+    "H. Zhu"
+   ],
+   "year": 2020,
+   "venue": "Regional Science and Urban Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Impact of Transboundary Haze Pollution on Household Utilities Consumption",
+   "authors": [
+    "S. Agarwal",
+    "T.F. Sing",
+    "Y. Yang"
+   ],
+   "year": 2020,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Nudges from School Children and Electricity Conservation: Evidence from the 'Project Carbon Zero' Campaign in Singapore",
+   "authors": [
+    "S. Agarwal",
+    "S. Rengarajan",
+    "T.F. Sing",
+    "Y. Yang"
+   ],
+   "year": 2017,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "School Allocation Rules and Housing Prices: A Quasi-experiment with School Relocation Events in Singapore",
+   "authors": [
+    "S. Agarwal",
+    "S. Rengarajan",
+    "T.F. Sing",
+    "Y. Yang"
+   ],
+   "year": 2016,
+   "venue": "Regional Science and Urban Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Housing Wealth and Online Consumer Behavior: Evidence from Xiong'an New Area in China",
+   "authors": [
+    "Hanming Fang",
+    "Long Wang",
+    "Yang Yang"
+   ],
+   "year": 2022,
+   "venue": "NBER Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Tech-driven Comparative Advantage: Evidence from Solar Expansion in China",
+   "authors": [
+    "Hanming Fang",
+    "Ming Li",
+    "Yang Yang"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Matter of Looks: Evidence from Real Estate Agent Appearance on Sales Performance",
+   "authors": [
+    "Tsur Somerville",
+    "Long Wang",
+    "Zhengzheng Xu",
+    "Yang Yang"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Poverty, Health, and Inequality: Evidence from China's Targeted Poverty Alleviation Campaign",
+   "authors": [
+    "Sumit Agarwal",
+    "Jia Liu",
+    "Long Wang",
+    "Yang Yang"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "slug": "mauricio-barbosa-alves",
+ "name": "Maurício Barbosa-Alves",
+ "sources": [
+  "https://mbarbosaalves.github.io/",
+  "https://gattonweb.uky.edu/Vitas/mba525_Vita.pdf"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Homepage + CV (Aug 2026). Working papers undated: 2026 (CV date). Coauthor 'with' lists alphabetical by surname incl. scholar (QJE: Barbosa-Alves, Bianchi, Sosa-Padilla). Abstracts only paraphrased by tool; null.",
+ "papers": [
+  {
+   "title": "International Reserve Management under Rollover Crises",
+   "authors": [
+    "Maurício Barbosa-Alves",
+    "Javier Bianchi",
+    "César Sosa-Padilla"
+   ],
+   "year": 2026,
+   "venue": "Quarterly Journal of Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1093/qje/qjag025",
+   "abstract": null
+  },
+  {
+   "title": "Climate Change, Food Prices, and Inequality",
+   "authors": [
+    "Maurício Barbosa-Alves",
+    "Braulio Britos"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://mbarbosaalves.github.io/assets/drafts/Climate_Change_Food_Prices_and_Inequality.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Climate Change and International Migration",
+   "authors": [
+    "Maurício Barbosa-Alves",
+    "Braulio Britos"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://mbarbosaalves.github.io/assets/drafts/Climate_Change_and_International_Migration.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Bank Capital Structure and Productivity Growth",
+   "authors": [
+    "Luis Araujo",
+    "Maurício Barbosa-Alves",
+    "Vladimir Kuhl Teles"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://mbarbosaalves.github.io/assets/drafts/Bank_Capital_Structure_and_Productivity_Growth.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Dollar Inflation and Sovereign Debt Currency Denomination",
+   "authors": [
+    "Maurício Barbosa-Alves"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://mbarbosaalves.github.io/assets/drafts/Dollar_Inflation_and_Sovereign_s_Debt_Currency_Denomination.pdf",
+   "abstract": null
+  }
+ ]
+}

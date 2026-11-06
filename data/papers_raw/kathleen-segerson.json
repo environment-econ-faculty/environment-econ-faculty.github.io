@@ -1,0 +1,1299 @@
+{
+ "slug": "kathleen-segerson",
+ "name": "Kathleen Segerson",
+ "sources": [
+  "https://econ.media.uconn.edu/wp-content/uploads/sites/681/2015/09/Segerson-cv-August-2024.pdf"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Source: CV (Aug 2024), parsed by script. Included journal articles only (all years); skipped books, book chapters/encyclopedia entries, comments/discussions/introductions, technical reports, and \"other publications\". No working papers listed on CV. Venue strings may be slightly off where CV format varies.",
+ "papers": [
+  {
+   "title": "A Cautious Approach to Subsidies for Environmental Sustainability",
+   "authors": [
+    "Kathleen Segerson",
+    "Stephen Polasky",
+    "Marten Scheffer",
+    "U. Rashid Sumaila",
+    "Juan Camilo Cárdenas",
+    "Karine Nyborg",
+    "Eli P. Fenichel",
+    "John M. Anderies",
+    "Scott Barrett",
+    "Elena M. Bennett",
+    "Stephen R. Carpenter",
+    "Beatrice Crona",
+    "Gretchen Daily",
+    "Aart de Zeeuw",
+    "Joern Fischer",
+    "Carl Folke",
+    "Nils Kautsky",
+    "Claire Kremen",
+    "Simon A. Levin",
+    "Therese Lindahl",
+    "Malin L. Pinsky",
+    "Allesandro Tavoni",
+    "Brian Walker",
+    "Elke U. Weber"
+   ],
+   "year": 2025,
+   "venue": "Science",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Is Environmental Regulation the Answer to Pollution Problems in Urbanizing Economies",
+   "authors": [
+    "Junjie Wu",
+    "Kathleen Segerson",
+    "Chunhua Wang"
+   ],
+   "year": 2023,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Response Diversity as a Sustainability Strategy",
+   "authors": [
+    "Brian Walker",
+    "Anne-Sophie Crépin",
+    "Magnus Nyström",
+    "John M. Anderies",
+    "Erik Andersson",
+    "Thomas Elmqvist",
+    "Cibele Queiroz",
+    "Scott Barrett",
+    "Elena Bennett",
+    "Juan Camilo Cardenas",
+    "Stephen R. Carpenter",
+    "F. Stuart Chapin III",
+    "Aart de Zeeuw",
+    "Joern Fischer",
+    "Carl Folke",
+    "Simon Levin",
+    "Karine Nyborg",
+    "Stephen Polasky",
+    "Kathleen Segerson",
+    "Karen C. Seto",
+    "Marten Scheffer",
+    "Jason F. Shogren",
+    "Alessandro Tavoni",
+    "Jeroen van den Bergh",
+    "Elke U. Weber & Jeffrey R. Vincent"
+   ],
+   "year": 2023,
+   "venue": "Nature Sustainability",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Earth Stewardship: Shaping a Sustainable Future through Interacting Policy and Norm Shifts",
+   "authors": [
+    "F. Stuart III Chapin",
+    "Elke U. Weber",
+    "Elena M. Bennett",
+    "Reinette Biggs",
+    "Jeroen van den Bergh",
+    "W. Neil Adger",
+    "Anne-Sophie Crépin",
+    "Stephen Polasky",
+    "Carl Folke",
+    "Marten Scheffer",
+    "Kathleen Segerson",
+    "John M. Anderies",
+    "Scott Barrett",
+    "Juan-Camilo Cardenas",
+    "Stephen R. Carpenter",
+    "Joern Fischer",
+    "Nils Kautsky",
+    "Simon A. Levin",
+    "Jason F. Shogren",
+    "Brian Walker",
+    "James Wilen",
+    "Aart de Zeeuw"
+   ],
+   "year": 2022,
+   "venue": "Ambio",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Group Incentives for Environmental and Natural Resource Management",
+   "authors": [
+    "Kathleen Segerson"
+   ],
+   "year": 2022,
+   "venue": "Annual Review of Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Role of Experience in Deterring Crime: A Theory of Specific versus General Deterrence",
+   "authors": [
+    "Thomas J. Miceli",
+    "Kathleen Segerson",
+    "Dietrich Earnhart"
+   ],
+   "year": 2022,
+   "venue": "Economic Inquiry",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Contributions of Women at the Intersection of Agricultural Economics and Environmental and Natural Resource Economics",
+   "authors": [
+    "Kathleen Segerson",
+    "Catherine L. Kling",
+    "Nancy Bockstael"
+   ],
+   "year": 2022,
+   "venue": "Applied Economic Perspectives and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Governance in the Face of Extreme Events: Lessons from Evolutionary Processes for Structuring Interventions, and the Need to Go Beyond",
+   "authors": [
+    "Simon A. Levin",
+    "John M. Anderies",
+    "Neil Adger",
+    "Scott Barrett",
+    "Elena M. Bennett",
+    "Juan Cardenas",
+    "Stephen Carpenter",
+    "Anne-Sophie Crepin",
+    "Paul Ehrlich",
+    "Joern Fischer",
+    "Carl Folke",
+    "Nils Kautsky",
+    "Catherine Kling",
+    "Karine Nyborg",
+    "Stephen Polasky",
+    "Marten Scheffer",
+    "Kathleen Segerson",
+    "Jason Shogren",
+    "Jeroen van den Bergh",
+    "Brian Walker",
+    "Elke U. Weber",
+    "James Wilen"
+   ],
+   "year": 2022,
+   "venue": "Ecosystems",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Products Liability with Temptation Bias",
+   "authors": [
+    "Tsvetan Tsvetanov",
+    "Thomas J. Miceli",
+    "Kathleen Segerson"
+   ],
+   "year": 2021,
+   "venue": "Journal of Economic Behavior and Organization",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Assessing Kelo's Legacy: Do Increased Taxes and New Jobs Justify the Use of Eminent Domain?",
+   "authors": [
+    "Thomas J. Miceli",
+    "Kathleen Segerson"
+   ],
+   "year": 2021,
+   "venue": "Journal of Real Estate Finance and Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Urbanization, Migration, and Adaptation to Climate Change",
+   "authors": [
+    "W. Neil Adger",
+    "Anne-Sophie Crepin",
+    "Carl Folke",
+    "Daniel Ospina",
+    "Stuart Chapin III",
+    "Kathleen Segerson",
+    "Karen Seto",
+    "John M. Anderies",
+    "Scott Barrett",
+    "Elena M. Bennett",
+    "Gretchen Daily",
+    "Thomas Elmqvist",
+    "Joern Fischer",
+    "Nils Kautsky",
+    "Simon A. Levin",
+    "Jason F. Shogren",
+    "Jeroen van den Bergh",
+    "Brian Walker",
+    "James Wilen"
+   ],
+   "year": 2020,
+   "venue": "One Earth",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Use of Group Approaches to Environmental and Natural Resource Policy",
+   "authors": [
+    "Matthew Kotchen",
+    "Kathleen Segerson"
+   ],
+   "year": 2020,
+   "venue": "Review of Environmental Economics and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Local Environmental Policy in a Federal System: An Overview",
+   "authors": [
+    "Kathleen Segerson"
+   ],
+   "year": 2020,
+   "venue": "Agricultural and Resource Economics Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Evaluating Voluntary Environmental Programs with Spillover Effects",
+   "authors": [
+    "Rong Zhou",
+    "Xiang Bi",
+    "Kathleen Segerson"
+   ],
+   "year": 2020,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Development of a Payment Regime for Deep Sea Mining Activities in the Area through Stakeholder Participation",
+   "authors": [
+    "Kris Van Nijen",
+    "Steven Van Passel",
+    "Philomène Verlaan",
+    "Michael W. Lodge",
+    "Kathleen Segerson",
+    "Dale Squires"
+   ],
+   "year": 2019,
+   "venue": "International Journal of Marine and Coastal Law",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "On the Use of Group Performance and Rights for Environmental Protection and Resource Management",
+   "authors": [
+    "Matthew J. Kotchen",
+    "Kathleen Segerson"
+   ],
+   "year": 2019,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "On the Role of Theory in Contemporary Environmental and Natural Resource Economics",
+   "authors": [
+    "Kathleen Segerson"
+   ],
+   "year": 2019,
+   "venue": "Review of Environmental Economics and Policy, Winter",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Five Financial Incentives to Revive the Gulf of Mexico Dead Zone and Mississippi Basin Soils",
+   "authors": [
+    "Heather Tallis",
+    "Stephen Polasky",
+    "Jessica Hellmann",
+    "Nathaniel P. Springer",
+    "Rich Biskea",
+    "Dave DeGeusa",
+    "Randal Della",
+    "Michael Doanea",
+    "Lisa Downes",
+    "Josh Goldstein",
+    "Tom Hodgman",
+    "Kris Johnson",
+    "Ian Luby",
+    "Derric Penningtond",
+    "Michael Reuter",
+    "Kathleen Segerson",
+    "Isis Stark",
+    "John Stark",
+    "Carrie Vollmer-Sanders",
+    "Sarah Kate Weaver"
+   ],
+   "year": 2019,
+   "venue": "Journal of Environmental Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Influence of Financial Status on the Safety Performance of Regulated Companies: The Role of Enforcement",
+   "authors": [
+    "Dietrich Earnhart",
+    "Kathleen Segerson"
+   ],
+   "year": 2018,
+   "venue": "Journal of Finance and Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Predicting Land Use/Cover Change in Long Island Sound Watersheds and its Effect on Invasive Species: A Case Study for Glossy Buckthorn",
+   "authors": [
+    "Ruiting Zhai",
+    "Chuanrong Zhang",
+    "Jenica M. Allen",
+    "Weidong Li",
+    "Mark A. Boyer",
+    "Kathleen Segerson",
+    "Kenneth E. Foote"
+   ],
+   "year": 2018,
+   "venue": "Annals of GIS",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Voluntary Pollution Control under Threat of Regulation",
+   "authors": [
+    "Kathleen Segerson"
+   ],
+   "year": 2017,
+   "venue": "International Review of Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Using Eminent Domain to Refinance Underwater Mortgages: A Welfare Analysis",
+   "authors": [
+    "Thomas J. Miceli",
+    "Katherine Pancak",
+    "Kathleen Segerson"
+   ],
+   "year": 2017,
+   "venue": "International Review of Law and Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Biophysical Causality and Environmental Preference Elicitation: Evaluating the Validity of Welfare Analysis over Intermediate Outcomes",
+   "authors": [
+    "Robert J. Johnston",
+    "Eric T. Schultz",
+    "Kathleen Segerson",
+    "Elena Y. Besedin",
+    "Mahesh Ramachandran"
+   ],
+   "year": 2017,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Sharing and Preserving the Resources within the Deep Sea: Challenges for the International Seabed Authority",
+   "authors": [
+    "Michael W. Lodge",
+    "Kathleen Segerson",
+    "Dale Squires"
+   ],
+   "year": 2017,
+   "venue": "The International Journal of Marine and Coastal Law",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Analysis and Prediction of Land Use Changes Related to Invasive Species and Major Driving Forces in the State of Connecticut",
+   "authors": [
+    "Wenjie Wang",
+    "Chuanrong Zhang",
+    "Jenica M. Allen",
+    "Weidong Li",
+    "Mark A. Boyer",
+    "Kathleen Segerson",
+    "John A. Silander"
+   ],
+   "year": 2016,
+   "venue": "Land",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Individual vs. Collective Approaches to Fisheries",
+   "authors": [
+    "Rong Zhou",
+    "Kathleen Segerson"
+   ],
+   "year": 2016,
+   "venue": "Marine Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Products Liability When Consumers Vary in Their Susceptibility to Harm and May Misperceive Risk",
+   "authors": [
+    "Thomas Miceli",
+    "Kathleen Segerson",
+    "Suo Wang"
+   ],
+   "year": 2015,
+   "venue": "Contemporary Economic Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Role of Economics in Interdisciplinary Environmental Policy Debates: Opportunities and Challenges",
+   "authors": [
+    "Kathleen Segerson"
+   ],
+   "year": 2015,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Welfare Effects of Energy Efficiency Standards when Choice Sets Matter",
+   "authors": [
+    "Tsvetan Tsvetanov",
+    "Kathleen Segerson"
+   ],
+   "year": 2014,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "When is Reliance on Voluntary Approaches in Agriculture Likely to be Effective?",
+   "authors": [
+    "Kathleen Segerson"
+   ],
+   "year": 2013,
+   "venue": "Applied Economic Perspectives and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Liability versus Regulation for Dangerous Products When Consumers Vary in their Susceptibility to Harm and May Misperceive Risk",
+   "authors": [
+    "Thomas J. Miceli",
+    "Kathleen Segerson"
+   ],
+   "year": 2013,
+   "venue": "Review of Law and Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Voluntary Approaches to Environmental Protection and Resource Management",
+   "authors": [
+    "Kathleen Segerson"
+   ],
+   "year": 2013,
+   "venue": "Annual Review of Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Re-Evaluating the Role of Energy Efficiency Standards: A Behavioral Economics Approach",
+   "authors": [
+    "Tsvetan Tsvetanov",
+    "Kathleen Segerson"
+   ],
+   "year": 2013,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Stated Preferences for Intermediate versus Final Ecosystem Services: Disentangling Willingness to Pay for Omitted Outcomes",
+   "authors": [
+    "Robert J. Johnston",
+    "Eric T. Schultz",
+    "Kathleen Segerson",
+    "Elena Y. Besedin",
+    "Mahesh Ramachandran"
+   ],
+   "year": 2013,
+   "venue": "Agricultural and Resource Economics Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Holdups and Holdouts: What Do They Have in Common?",
+   "authors": [
+    "Thomas J. Miceli",
+    "Kathleen Segerson"
+   ],
+   "year": 2012,
+   "venue": "Economic Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Land Assembly and the Holdout Problem under Sequential Bargaining",
+   "authors": [
+    "Thomas J. Miceli",
+    "Kathleen Segerson"
+   ],
+   "year": 2012,
+   "venue": "American Law and Economics Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Influence of Financial Status on the Effectiveness of Environmental Enforcement",
+   "authors": [
+    "Dietrich Earnhart",
+    "Kathleen Segerson"
+   ],
+   "year": 2012,
+   "venue": "Journal of Public Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Integrating Ecology and Economics for Restoration: Using Ecological Indicators in Valuation of Ecosystem Services",
+   "authors": [
+    "Eric T. Schultz",
+    "Robert J. Johnston",
+    "Kathleen Segerson",
+    "Elena Y. Besedin"
+   ],
+   "year": 2012,
+   "venue": "Restoration Ecology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Enhancing the Content Validity of Stated Preference Valuation: The Structure and Function of Ecological Indicators",
+   "authors": [
+    "R.J. Johnston",
+    "E.T. Schultz",
+    "Kathleen Segerson",
+    "E.Y. Besedin",
+    "M. Ramachandran"
+   ],
+   "year": 2012,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Turtle Excluder Device Regulation and Shrimp Harvest: The Role of Behavioral and Market Responses",
+   "authors": [
+    "Zinnia Mukherjee",
+    "Kathleen Segerson"
+   ],
+   "year": 2011,
+   "venue": "Marine Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Collective Voluntary Agreements to Eliminate Polluting Products",
+   "authors": [
+    "Rasha Ahmed",
+    "Kathleen Segerson"
+   ],
+   "year": 2011,
+   "venue": "Resource and Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Indices of Biotic Integrity in Stated Preference Valuation of Aquatic Ecosystem Services",
+   "authors": [
+    "R.J. Johnston",
+    "Kathleen Segerson",
+    "E.T. Schultz",
+    "E.Y. Besedin",
+    "M. Ramachandran"
+   ],
+   "year": 2011,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Environmental Economics: How Agricultural Economists Helped Advance the Field",
+   "authors": [
+    "Catherine Kling",
+    "Kathleen Segerson",
+    "Jason Shogren"
+   ],
+   "year": 2010,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Voluntary-Threat Approaches to Reduce Ambient Water Pollution",
+   "authors": [
+    "Jordan Suter",
+    "Kathleen Segerson",
+    "Christian Vossler",
+    "Gregory Poe"
+   ],
+   "year": 2010,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Integrating Ecology and Economics in the Study of Ecosystem Services: Some Lessons Learned",
+   "authors": [
+    "Stephen Polasky",
+    "Kathleen Segerson"
+   ],
+   "year": 2009,
+   "venue": "Annual Review of Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Tax Motivated Takings",
+   "authors": [
+    "Thomas J. Miceli",
+    "Kathleen Segerson",
+    "C.F. Sirmans"
+   ],
+   "year": 2008,
+   "venue": "National Tax Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Voluntary Agreements with Industries: Participation Incentives with Industry-wide Targets",
+   "authors": [
+    "Na Li Dawson",
+    "Kathleen Segerson"
+   ],
+   "year": 2008,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Economics of Eminent Domain: Private Property, Public Use and Just Compensation",
+   "authors": [
+    "Thomas J. Miceli",
+    "Kathleen Segerson"
+   ],
+   "year": 2007,
+   "venue": "Foundations and Trends in Microeconomics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Bargaining Model of Holdouts and Takings",
+   "authors": [
+    "T.J. Miceli",
+    "Kathleen Segerson"
+   ],
+   "year": 2007,
+   "venue": "American Review of Law and Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Punishing the Innocent along with the Guilty: The Economics of Individual versus Group Punishment",
+   "authors": [
+    "T. J. Miceli",
+    "Kathleen Segerson"
+   ],
+   "year": 2007,
+   "venue": "Journal of Legal Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Should Victims of Exposure to a Toxic Substance have an Independent Claim for Medical Monitoring?",
+   "authors": [
+    "T. Miceli",
+    "Kathleen Segerson"
+   ],
+   "year": 2007,
+   "venue": "Research in Law and Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Communication and Incentive Mechanisms Based on Group Performance: An Experimental Study of Nonpoint Pollution Control",
+   "authors": [
+    "C.A. Vossler",
+    "G.L. Poe",
+    "W.D. Schulze",
+    "Kathleen Segerson"
+   ],
+   "year": 2006,
+   "venue": "Economic Inquiry",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Voluntary Approaches to Nonpoint Pollution Control: Inducing First Best Outcomes through the Use of Threats",
+   "authors": [
+    "Kathleen Segerson",
+    "Junjie Wu"
+   ],
+   "year": 2006,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do Exposure Suits Produce a Race to File? An Economic Analysis of a Tort for Risk",
+   "authors": [
+    "T. J. Miceli",
+    "Kathleen Segerson"
+   ],
+   "year": 2005,
+   "venue": "Rand Journal of Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Note on Optimal Care by Wealth-Constrained Injurers",
+   "authors": [
+    "T. Miceli",
+    "Kathleen Segerson"
+   ],
+   "year": 2003,
+   "venue": "International Review of Law and Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Nutrient Pollution: An Economic Perspective",
+   "authors": [
+    "Kathleen Segerson",
+    "D. Walker"
+   ],
+   "year": 2002,
+   "venue": "Estuaries",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Assessing Voluntary Programs to Improve Environmental Quality",
+   "authors": [
+    "A. Alberini",
+    "Kathleen Segerson"
+   ],
+   "year": 2002,
+   "venue": "Environment and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "When Should Providers of Recreational Land be Immune from Liability?",
+   "authors": [
+    "T.J. Miceli",
+    "Kathleen Segerson",
+    "G. Li"
+   ],
+   "year": 2001,
+   "venue": "Journal of Real Estate Finance and Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Agriculture and Climate Change: An Assessment of Increased Climate Variability",
+   "authors": [
+    "B. L. Dixon",
+    "Kathleen Segerson"
+   ],
+   "year": 1999,
+   "venue": "Journal of Agricultural and Applied Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Mandatory versus Voluntary Approaches to Food Safety",
+   "authors": [
+    "Kathleen Segerson"
+   ],
+   "year": 1999,
+   "venue": "Agribusiness",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Threshold Rules for Funding Environmental Mandates",
+   "authors": [
+    "T. J. Miceli",
+    "Kathleen Segerson"
+   ],
+   "year": 1999,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Voluntary Environmental Agreements: Good or Bad News for Environmental Protection?",
+   "authors": [
+    "Kathleen Segerson",
+    "T.J. Miceli"
+   ],
+   "year": 1998,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "On the Role of Fines as an Environmental Enforcement Tool",
+   "authors": [
+    "S. Kadambe",
+    "Kathleen Segerson"
+   ],
+   "year": 1998,
+   "venue": "Journal of Environmental Planning and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Prevention vs. Treatment in the Design of Environmental Policy",
+   "authors": [
+    "J. Barrett",
+    "Kathleen Segerson"
+   ],
+   "year": 1997,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Legal Liability as an Environmental Policy Tool: Some Implications for Land Markets",
+   "authors": [
+    "Kathleen Segerson"
+   ],
+   "year": 1997,
+   "venue": "Journal of Real Estate Finance and Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "On the Use of Aggregate Data to Evaluate Groundwater Protection Policies",
+   "authors": [
+    "J. Wu",
+    "Kathleen Segerson"
+   ],
+   "year": 1995,
+   "venue": "Water Resources Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Government Regulation and Compensation for Takings: Implications for Agriculture",
+   "authors": [
+    "T. J. Miceli",
+    "Kathleen Segerson"
+   ],
+   "year": 1995,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Impact of Policies and Land Characteristics on Potential Groundwater Pollution in Wisconsin",
+   "authors": [
+    "J. Wu",
+    "Kathleen Segerson"
+   ],
+   "year": 1995,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Defining Efficient Care: The Role of Income Distribution",
+   "authors": [
+    "T.J. Miceli",
+    "Kathleen Segerson"
+   ],
+   "year": 1995,
+   "venue": "Journal of Legal Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Note on the Measurement of Capacity Utilization for Revenue- Maximizing Firms",
+   "authors": [
+    "Kathleen Segerson",
+    "D. Squires"
+   ],
+   "year": 1995,
+   "venue": "Bulletin of Economic Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Regulatory Takings: When Should Compensation Be Paid?",
+   "authors": [
+    "T.J. Miceli",
+    "Kathleen Segerson"
+   ],
+   "year": 1994,
+   "venue": "Journal of Legal Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Property Transfers and Environmental Pollution: Incentive Effects of Alternative Policies",
+   "authors": [
+    "Kathleen Segerson"
+   ],
+   "year": 1994,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Cost of Product Liability for Small vs. Large Firms",
+   "authors": [
+    "T.J. Miceli",
+    "Kathleen Segerson",
+    "A.W. Wright"
+   ],
+   "year": 1993,
+   "venue": "Journal of Products and Toxics Liability",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Liability Transfers: An Economic Assessment of Buyer and Lender Liability",
+   "authors": [
+    "Kathleen Segerson"
+   ],
+   "year": 1993,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Capacity Utilization Under Regulatory Constraints",
+   "authors": [
+    "Kathleen Segerson",
+    "D. Squires"
+   ],
+   "year": 1993,
+   "venue": "Review of Economics and Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Structure of Penalties in Environmental Enforcement: An Economic Analysis",
+   "authors": [
+    "Kathleen Segerson",
+    "T. Tietenberg"
+   ],
+   "year": 1992,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Joint Liability in Torts: Marginal and Infra-Marginal Efficiency",
+   "authors": [
+    "T.J. Miceli",
+    "Kathleen Segerson"
+   ],
+   "year": 1991,
+   "venue": "International Review of Law and Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Aggregate Analysis of Site-Specific Pollution Problems: The Case of Groundwater Contamination from Agricultural Chemicals",
+   "authors": [
+    "J.J. Opaluch",
+    "Kathleen Segerson"
+   ],
+   "year": 1991,
+   "venue": "Northeast Journal of Agricultural and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Contingent Fees for Lawyers: The Impact on Litigation and Accident Prevention",
+   "authors": [
+    "T. Miceli",
+    "Kathleen Segerson"
+   ],
+   "year": 1991,
+   "venue": "Journal of Legal Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Profit Function Approach to Measuring Productivity Growth: The Case of U.S. Manufacturing",
+   "authors": [
+    "S.C. Ray",
+    "Kathleen Segerson"
+   ],
+   "year": 1990,
+   "venue": "Journal of Productivity Analysis",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Liability for Groundwater Contamination from Pesticides",
+   "authors": [
+    "Kathleen Segerson"
+   ],
+   "year": 1990,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "On the Measurement of Economic Capacity Utilization for Multi- product Industries",
+   "authors": [
+    "Kathleen Segerson",
+    "D. Squires"
+   ],
+   "year": 1990,
+   "venue": "Journal of Econometrics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Rational Roots of 'Irrational' Behavior:New Theories of Economic Decision Making",
+   "authors": [
+    "J. J. Opaluch",
+    "Kathleen Segerson"
+   ],
+   "year": 1989,
+   "venue": "Northeastern Journal of Agricultural and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "On the Equivalence of Alternative Measures of the Elasticity of Substitution",
+   "authors": [
+    "Kathleen Segerson",
+    "S.C. Ray"
+   ],
+   "year": 1989,
+   "venue": "Bulletin of Economic Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Risk and Incentives in the Financing of Hazardous Waste Cleanup",
+   "authors": [
+    "Kathleen Segerson"
+   ],
+   "year": 1989,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Hicksian Welfare Measures within a Regret Theory Framework",
+   "authors": [
+    "J. J. Opaluch",
+    "Kathleen Segerson"
+   ],
+   "year": 1988,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Uncertainty and Incentives for Non-point Pollution Control",
+   "authors": [
+    "Kathleen Segerson"
+   ],
+   "year": 1988,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Risk-Sharing and Liability in the Control of Stochastic Externalities",
+   "authors": [
+    "Kathleen Segerson"
+   ],
+   "year": 1987,
+   "venue": "Marine Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Stochastic Specification and Estimation of Share Equation Systems",
+   "authors": [
+    "J.P. Chavas",
+    "Kathleen Segerson"
+   ],
+   "year": 1987,
+   "venue": "Journal of Econometrics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Risk-Sharing in the Design of Environmental Policy",
+   "authors": [
+    "Kathleen Segerson"
+   ],
+   "year": 1986,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Singularity and Autoregressive Disturbances in Linear Logit Models",
+   "authors": [
+    "J.P. Chavas",
+    "Kathleen Segerson"
+   ],
+   "year": 1986,
+   "venue": "Journal of Business Economics and Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Ex Ante Consumer Welfare Evaluation in Cost-Benefit Analysis",
+   "authors": [
+    "J.P. Chavas",
+    "R.C. Bishop",
+    "Kathleen Segerson"
+   ],
+   "year": 1986,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Non-Homothetic Two-Stage Decision Model Using AIDS",
+   "authors": [
+    "Kathleen Segerson",
+    "T.D. Mount"
+   ],
+   "year": 1985,
+   "venue": "The Review of Economics and Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Unilateral Transfrontier Pollution: The Role of Economic Inter-dependence",
+   "authors": [
+    "Kathleen Segerson"
+   ],
+   "year": 1985,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Are Green Taxes a Good Way to Help Solve State Budget Deficits?",
+   "authors": [
+    "Rong Zhou",
+    "Kathleen Segerson"
+   ],
+   "year": 2012,
+   "venue": "Sustainability",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

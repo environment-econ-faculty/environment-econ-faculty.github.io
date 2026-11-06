@@ -1,0 +1,878 @@
+{
+ "slug": "david-lewis",
+ "name": "David Lewis",
+ "sources": [
+  "https://agsci.oregonstate.edu/sites/agsci.oregonstate.edu/files/2026/cv_lewis.pdf"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Source: 2026 CV PDF (homepage blogs.oregonstate.edu returned HTTP 403). Authors as on CV in byline order, given with initials. Included refereed articles, book chapters (Oxford Handbook etc.) and the 'Working Papers / Under Review' list (years as on CV). Skipped USFS/technical reports, the 2023 RPA assessment chapter, working paper #03-101, book review.",
+ "papers": [
+  {
+   "title": "How much of the forest sink is passive? Case of the United States",
+   "authors": [
+    "E.C. Davis",
+    "B. Sohngen",
+    "D.J. Lewis"
+   ],
+   "year": 2026,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The impacts of climate-induced insect damage on timberland values in the southeastern US",
+   "authors": [
+    "Y. Wang",
+    "D.J. Lewis"
+   ],
+   "year": 2025,
+   "venue": "Forest Policy and Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Prescribed fires as a climate change adaptation tool",
+   "authors": [
+    "Y. Hashida",
+    "D.J. Lewis",
+    "K. Cummins"
+   ],
+   "year": 2025,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Weather variability risks slow climate adaptation: An empirical analysis of forestry",
+   "authors": [
+    "K.K. Johnson",
+    "D.J. Lewis"
+   ],
+   "year": 2024,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Wildfires and climate change have lowered the economic value of western US forests by altering risk expectations",
+   "authors": [
+    "Y. Wang",
+    "D.J. Lewis"
+   ],
+   "year": 2024,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An empirical analysis of U.S. land-use change under multiple climate change scenarios",
+   "authors": [
+    "C.M. Mihiar",
+    "D.J. Lewis"
+   ],
+   "year": 2023,
+   "venue": "Journal of the Agricultural and Applied Economics Association",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The effect of carbon fertilization on naturally regenerated and planted US forests",
+   "authors": [
+    "E.C. Davis",
+    "B. Sohngen",
+    "D.J. Lewis"
+   ],
+   "year": 2022,
+   "venue": "Nature Communications",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Estimating the value of threatened species abundance dynamics",
+   "authors": [
+    "D.J. Lewis",
+    "D.M. Kling",
+    "S.J. Dundas",
+    "D.K. Lew"
+   ],
+   "year": 2022,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Estimating welfare impacts of climate change using discrete-choice models of land management: An application to western U.S. forestry",
+   "authors": [
+    "Y. Hashida",
+    "D.J. Lewis"
+   ],
+   "year": 2022,
+   "venue": "Resource and Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A major shift in U.S. land development avoids significant losses in forest and agricultural land",
+   "authors": [
+    "D.P. Bigelow",
+    "D.J. Lewis",
+    "C. Mihiar"
+   ],
+   "year": 2022,
+   "venue": "Environmental Research Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Negative traffic externalities and infant health: The role of income heterogeneity and residential sorting",
+   "authors": [
+    "D. Long",
+    "D.J. Lewis",
+    "C. Langpap"
+   ],
+   "year": 2021,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Climate, adaptation, and the value of forestland: A national Ricardian analysis of the United States",
+   "authors": [
+    "C. Mihiar",
+    "D.J. Lewis"
+   ],
+   "year": 2021,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Amenities and skill sorting: A case study of land conservation policy",
+   "authors": [
+    "Y. Chen",
+    "D.J. Lewis",
+    "B. Weber"
+   ],
+   "year": 2021,
+   "venue": "The Annals of Regional Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Anticipating changes in wildlife habitat induced by private forest owners' adaptation to climate change and carbon policy",
+   "authors": [
+    "Y. Hashida",
+    "J. Withey",
+    "D.J. Lewis",
+    "T. Newman",
+    "J. Kline"
+   ],
+   "year": 2020,
+   "venue": "PLOS ONE",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Estimating Option Values and Spillover Damages for Coastal Protection: Evidence from Oregon's Planning Goal 18",
+   "authors": [
+    "S.J. Dundas",
+    "D.J. Lewis"
+   ],
+   "year": 2020,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The non-market benefits of early and partial gains in managing threatened salmon",
+   "authors": [
+    "D.J. Lewis",
+    "S.J. Dundas",
+    "D.M. Kling",
+    "D.K. Lew",
+    "S.D. Hacker"
+   ],
+   "year": 2019,
+   "venue": "PLOS ONE",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Intersection between Climate Adaptation, Mitigation, and Natural Resources: An Empirical Analysis of Forest Management",
+   "authors": [
+    "Y. Hashida",
+    "D.J. Lewis"
+   ],
+   "year": 2019,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Spatial Dynamics of the Economic Impacts of an Aquatic Invasive Species: An Empirical Analysis",
+   "authors": [
+    "K.Y. Zipp",
+    "D.J. Lewis",
+    "B. Provencher",
+    "J. Vander Zanden"
+   ],
+   "year": 2019,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Auction Mechanism for the Optimal Provision of Ecosystem Services under Climate Change",
+   "authors": [
+    "D.J. Lewis",
+    "S. Polasky"
+   ],
+   "year": 2018,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Quasi-Experimental Methods Enable Stronger Inferences from Observational Data in Ecology",
+   "authors": [
+    "V. Butsic",
+    "D.J. Lewis",
+    "V.C. Radeloff",
+    "M. Baumann",
+    "T. Kuemmerle"
+   ],
+   "year": 2017,
+   "venue": "Basic and Applied Ecology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How Does Urbanization Affect Water Withdrawals? Insights from an Econometric-Based Landscape Simulation",
+   "authors": [
+    "D.P. Bigelow",
+    "A.J. Plantinga",
+    "D.J. Lewis",
+    "C. Langpap"
+   ],
+   "year": 2017,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Does the Conservation of Land Reduce Development? An Econometric-Based Landscape Simulation with Land Market Feedbacks",
+   "authors": [
+    "K.Y. Zipp",
+    "D.J. Lewis",
+    "B. Provencher"
+   ],
+   "year": 2017,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Conservation Land Amenities and Regional Economies: A Post-Matching Difference-in-Differences Analysis of the Northwest Forest Plan",
+   "authors": [
+    "Y. Chen",
+    "D.J. Lewis",
+    "B. Weber"
+   ],
+   "year": 2016,
+   "venue": "Journal of Regional Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Estimating the Counterfactual Impact of Conservation Programs on Land Cover Outcomes: The Role of Matching and Panel Regression Techniques",
+   "authors": [
+    "K.J. Jones",
+    "D.J. Lewis"
+   ],
+   "year": 2015,
+   "venue": "PLOS ONE",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Land-Use Patterns and Spatially Dependent Ecosystem Services: Some Microeconomic Foundations",
+   "authors": [
+    "D.J. Lewis",
+    "J. Wu"
+   ],
+   "year": 2015,
+   "venue": "International Review of Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Using an Intervention Framework to Value Salient Ecosystem Services in a Stated Preference Experiment",
+   "authors": [
+    "D.J. Lewis",
+    "B. Provencher",
+    "B. Beardmore"
+   ],
+   "year": 2015,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Scenarios of Future Land Use Change around United States' Protected Areas",
+   "authors": [
+    "S. Martinuzzi",
+    "V.C. Radeloff",
+    "L.N. Joppa",
+    "C.M. Hamilton",
+    "D.P. Helmers",
+    "A.J. Plantinga",
+    "D.J. Lewis"
+   ],
+   "year": 2015,
+   "venue": "Biological Conservation",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Protected Area Effectiveness in European Russia: A Post-Matching Panel Data Analysis",
+   "authors": [
+    "K.J. Wendland",
+    "M. Baumann",
+    "D.J. Lewis",
+    "A. Sieber",
+    "V. Radeloff"
+   ],
+   "year": 2015,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Projected Land-Use Change Impacts on U.S. Ecosystem Services",
+   "authors": [
+    "J. Lawler",
+    "D.J. Lewis",
+    "E. Nelson",
+    "A.J. Plantinga",
+    "S. Polasky",
+    "J. Withey",
+    "D. Helmers",
+    "S. Martinuzzi",
+    "V. Radeloff"
+   ],
+   "year": 2014,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Implementing the Optimal Provision of Ecosystem Services",
+   "authors": [
+    "S. Polasky",
+    "D.J. Lewis",
+    "A.J. Plantinga",
+    "E. Nelson"
+   ],
+   "year": 2014,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Threats and Opportunities for Freshwater Conservation under Future Land Use Change Scenarios in the United States",
+   "authors": [
+    "S. Martinuzzi",
+    "S.R. Januchowski-Hartley",
+    "B.M. Pracheil",
+    "P.R. McIntyre",
+    "A.J. Plantinga",
+    "D.J. Lewis",
+    "V.C. Radeloff"
+   ],
+   "year": 2014,
+   "venue": "Global Change Biology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Effect of Decentralized Governance on Timber Extraction in European Russia",
+   "authors": [
+    "K. Wendland",
+    "D.J. Lewis",
+    "J. Alix-Garcia"
+   ],
+   "year": 2014,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Managing Wild Resources: Institutional Choice and the Recovery of Resource Rent in Southwest China",
+   "authors": [
+    "B.E. Robinson",
+    "B. Provencher",
+    "D.J. Lewis"
+   ],
+   "year": 2013,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Loss of Forest Birds Habitat under Different Land Use Policies as Projected by a Coupled Ecological- Econometric Model",
+   "authors": [
+    "F. Beaudry",
+    "V.C. Radeloff",
+    "A.M. Pigeon",
+    "A.J. Plantinga",
+    "D.J. Lewis",
+    "D. Helmers",
+    "V. Butsic"
+   ],
+   "year": 2013,
+   "venue": "Biological Conservation",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Key Areas for Conserving United States' Biodiversity Likely Threatened by Future Land Use Change",
+   "authors": [
+    "S. Martinuzzi",
+    "V.C. Radeloff",
+    "J.V. Higgins",
+    "D.P. Helmers",
+    "A.J. Plantinga",
+    "D.J. Lewis"
+   ],
+   "year": 2013,
+   "venue": "Ecosphere",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Current and Future Land Use around a Nationwide Protected Area Network",
+   "authors": [
+    "C.M. Hamilton",
+    "S. Martinuzzi",
+    "P.J. Heglund",
+    "D.J. Lewis",
+    "A.J. Plantinga",
+    "W.E. Thogmartin",
+    "V.C. Radeloff",
+    "A.M. Pidgeon"
+   ],
+   "year": 2013,
+   "venue": "PLOS ONE",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Reserve Selection with Land Market Feedbacks",
+   "authors": [
+    "V. Butsic",
+    "D.J. Lewis",
+    "V. Radeloff"
+   ],
+   "year": 2013,
+   "venue": "Journal of Environmental Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Disentangling Preferences and Expectations in Stated Preference Analysis with Respondent Uncertainty: The Case of Invasive Species Prevention",
+   "authors": [
+    "B. Provencher",
+    "D.J. Lewis",
+    "K. Anderson"
+   ],
+   "year": 2012,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic-Based Projections of Future Land-Use under Alternative Economic Policy Scenarios in the Conterminous U.S",
+   "authors": [
+    "V.C. Radeloff",
+    "E. Nelson",
+    "A.J. Plantinga",
+    "D.J. Lewis",
+    "D. Helmers",
+    "J.J. Lawler",
+    "J.C. Withey",
+    "F. Beaudry",
+    "S. Martinuzzi",
+    "V. Butsic",
+    "E. Lonsdorf",
+    "D. White",
+    "S. Polasky"
+   ],
+   "year": 2012,
+   "venue": "Ecological Applications",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Regional-and District-Level Drivers of Timber Harvesting in European Russia after the Collapse of the Soviet Union",
+   "authors": [
+    "K. Wendland",
+    "D.J. Lewis",
+    "J. Alix-Garcia",
+    "M. Ozdogan",
+    "M. Baumann",
+    "V. Radeloff"
+   ],
+   "year": 2011,
+   "venue": "Global Environmental Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Econometric Analysis of Land Development with Endogenous Zoning",
+   "authors": [
+    "V. Butsic",
+    "D.J. Lewis",
+    "L. Ludwig"
+   ],
+   "year": 2011,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Efficiency of Voluntary Incentive Policies for Preventing Biodiversity Loss",
+   "authors": [
+    "D.J. Lewis",
+    "A.J. Plantinga",
+    "E. Nelson",
+    "S. Polasky"
+   ],
+   "year": 2011,
+   "venue": "Resource and Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Are there Spatial Spillovers in the Adoption of Clean Technology? The Case of Organic Dairy Farming",
+   "authors": [
+    "D.J. Lewis",
+    "B.L. Barham",
+    "B. Robinson"
+   ],
+   "year": 2011,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Lakeshore Zoning has Heterogeneous Ecological Effects: An Application of a Coupled Economic-Ecological Model",
+   "authors": [
+    "V. Butsic",
+    "D.J. Lewis",
+    "V.C. Radeloff"
+   ],
+   "year": 2010,
+   "venue": "Ecological Applications",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Economic Framework for Forecasting Land Use and Ecosystem Change",
+   "authors": [
+    "D.J. Lewis"
+   ],
+   "year": 2010,
+   "venue": "Resource and Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Targeting Incentives to Reduce Habitat Fragmentation",
+   "authors": [
+    "D.J. Lewis",
+    "A.J. Plantinga",
+    "J. Wu"
+   ],
+   "year": 2009,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Effects of Aquatic Invasive Species on Property Values: Evidence from a Quasi Experiment",
+   "authors": [
+    "E.J. Horsch",
+    "D.J. Lewis"
+   ],
+   "year": 2009,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Dynamic Effects of Open-Space Conservation Policies on Residential Development Density",
+   "authors": [
+    "D.J. Lewis",
+    "B. Provencher",
+    "V. Butsic"
+   ],
+   "year": 2009,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Spatial Externalities in Agriculture: Empirical Analysis, Statistical Identification, and Policy Implications",
+   "authors": [
+    "D.J. Lewis",
+    "B.L. Barham",
+    "K. Zimmerer"
+   ],
+   "year": 2008,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Efficiency of Incentives to Jointly Increase Carbon Sequestration and Species Conservation on a Landscape",
+   "authors": [
+    "E. Nelson",
+    "S. Polasky",
+    "D.J. Lewis",
+    "A.J. Plantinga",
+    "E. Lonsdorf",
+    "D. White",
+    "D. Bael",
+    "J. Lawler"
+   ],
+   "year": 2008,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Policies for Habitat Fragmentation: Combining Econometrics with GIS-Based Landscape Simulations",
+   "authors": [
+    "D.J. Lewis",
+    "A.J. Plantinga"
+   ],
+   "year": 2007,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Is Forest Fragmentation Driven by the Spatial Configuration of Land Quality? The Case of Western Oregon",
+   "authors": [
+    "R.J. Alig",
+    "D.J. Lewis",
+    "J.J. Swenson"
+   ],
+   "year": 2005,
+   "venue": "Forest Ecology and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Does Public Lands Policy Affect Local Wage Growth?",
+   "authors": [
+    "D.J. Lewis",
+    "G.L. Hunt",
+    "A.J. Plantinga"
+   ],
+   "year": 2003,
+   "venue": "Growth and Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Public Conservation Land and Employment Growth in the Northern Forest Region",
+   "authors": [
+    "D.J. Lewis",
+    "G.L. Hunt",
+    "A.J. Plantinga"
+   ],
+   "year": 2002,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Economics of Wildlife Conservation",
+   "authors": [
+    "D.J. Lewis",
+    "E. Nelson"
+   ],
+   "year": 2014,
+   "venue": "Oxford Handbook of Land Economics (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Landscape Simulations with Econometric-Based Land-Use Models",
+   "authors": [
+    "A.J. Plantinga",
+    "D.J. Lewis"
+   ],
+   "year": 2014,
+   "venue": "Oxford Handbook of Land Economics (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Modeling Grassland Conversion: Challenges of Using Satellite Imagery Data",
+   "authors": [
+    "B.S. Rashford",
+    "S.E. Albeke",
+    "D.J. Lewis"
+   ],
+   "year": 2013,
+   "venue": "American Journal of Agricultural Economics (Papers and Proceedings)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Empirical Methods for Modeling Landscape Change, Ecosystem Services, and Biodiversity",
+   "authors": [
+    "D.J. Lewis",
+    "R.J. Alig"
+   ],
+   "year": 2009,
+   "venue": "Western Economic Forum",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Easements and Conservation Policy in the North Maine Woods",
+   "authors": [
+    "D.J. Lewis"
+   ],
+   "year": 2001,
+   "venue": "Maine Policy Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Examining the effectiveness of non-profit groups' expenditures on species recovery: The case of Pacific salmon and steelhead",
+   "authors": [
+    "Z. Zhao",
+    "C. Langpap",
+    "D.J. Lewis"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Conversions of natural forests to plantations induced by wood pellet expansion",
+   "authors": [
+    "Z. Zhao",
+    "D.J. Lewis"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Estimating weather shock impacts on the economic value of forests: The case of a category 5 hurricane",
+   "authors": [
+    "N. Haque",
+    "D.J. Lewis",
+    "C. Mihiar"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An econometric analysis of wildfire risk on forest management decisions",
+   "authors": [
+    "J.C. White",
+    "D.J. Lewis",
+    "C. Mihiar"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economics of climate change adaptation through land use and management",
+   "authors": [
+    "Y. Hashida",
+    "D.J. Lewis"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

@@ -1,0 +1,584 @@
+{
+ "slug": "theodoros-skevas",
+ "name": "Theodoros Skevas",
+ "sources": [
+  "https://teoskev.wixsite.com/skevastheodoros/publications",
+  "https://5456bb1c-b555-487f-8d5f-3445738e7e62.filesusr.com/ugd/71cfde_08153cc5c3e84f11ba0e7ebe52f15017.docx"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Journal articles from homepage Publications page; 4 additional 2023 articles and 4 'in review' manuscripts from the Complete CV docx (CV appears to date from 2023; no newer items found). In-review manuscripts have no year; set to 2023. Years for Grashuis (Annals of Public and Cooperative Economics) and Taylor/Featherstone (Applied Economics) taken from CV print year 2023 (homepage shows online year 2022). In-review PNAS item coded as working paper.",
+ "papers": [
+  {
+   "title": "Farm impacts of the 2019 Missouri River floods and economic valuation of flood risk reduction",
+   "authors": [
+    "Theodoros Skevas",
+    "R. Massey",
+    "S. L. Hunt"
+   ],
+   "year": 2023,
+   "venue": "Journal of Environmental Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Efficiency of Pesticide Use in Agricultural Production: Evidence from Vietnamese Fruit and Rice Farms",
+   "authors": [
+    "L. Tran",
+    "Theodoros Skevas",
+    "L. McCann"
+   ],
+   "year": 2023,
+   "venue": "Australian Journal of Agricultural and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Technology heterogeneity and sustainability efficiency: empirical evidence from Peruvian rice and coffee production",
+   "authors": [
+    "Theodoros Skevas",
+    "J. C. Martinez Palomares"
+   ],
+   "year": 2023,
+   "venue": "European Journal of Operational Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Evaluating dynamic productivity growth of U.S. farm supply cooperatives",
+   "authors": [
+    "Theodoros Skevas",
+    "J. Grashuis"
+   ],
+   "year": 2023,
+   "venue": "Agribusiness",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Analysing inefficiency in a non-parametric spatial-dynamic by-production framework: A k-nearest neighbour proposal",
+   "authors": [
+    "I. Skevas",
+    "A. Oude Lansink",
+    "Theodoros Skevas"
+   ],
+   "year": 2023,
+   "venue": "Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Farmer adoption and intensity of use of extreme weather adaptation and mitigation strategies: evidence from a sample of Missouri farmers",
+   "authors": [
+    "Theodoros Skevas",
+    "R. Massey",
+    "J. Grashuis"
+   ],
+   "year": 2022,
+   "venue": "Climatic Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "What is the benefit of membership in farm producer organizations? The case of coffee producers in Peru",
+   "authors": [
+    "J. Grashuis",
+    "Theodoros Skevas"
+   ],
+   "year": 2023,
+   "venue": "Annals of Public and Cooperative Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How different types of government payments and the elimination of direct payments affect farm productivity: evidence from Kansas crop farms",
+   "authors": [
+    "Theodoros Skevas",
+    "M. R. Taylor",
+    "A. M. Featherstone"
+   ],
+   "year": 2023,
+   "venue": "Applied Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The role of peer effects on farmers' decision to adopt unmanned aerial vehicles: evidence from Missouri",
+   "authors": [
+    "Theodoros Skevas",
+    "I. Skevas",
+    "N. Kalaitzandonakes"
+   ],
+   "year": 2022,
+   "venue": "Applied Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Consumer preferences for grocery purchasing during the COVID-19 pandemic: a quantile regression approach",
+   "authors": [
+    "M. Segovia",
+    "J. Grashuis",
+    "Theodoros Skevas"
+   ],
+   "year": 2022,
+   "venue": "British Food Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Women's empowerment in agriculture and productivity change: The case of Bangladesh rice farms",
+   "authors": [
+    "M. H. Mobarok",
+    "Theodoros Skevas",
+    "W. Thompson"
+   ],
+   "year": 2021,
+   "venue": "PLoS ONE",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "COVID-19 and Policy Impacts on the Bangladeshi Rice Market and Food Security",
+   "authors": [
+    "M. H. Mobarok",
+    "W. Thompson",
+    "Theodoros Skevas"
+   ],
+   "year": 2021,
+   "venue": "Sustainability",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A generalized true random-effects model with spatially autocorrelated persistent and transient inefficiency",
+   "authors": [
+    "I. Skevas",
+    "Theodoros Skevas"
+   ],
+   "year": 2021,
+   "venue": "European Journal of Operational Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Examining the Relationship between Social Inefficiency and Financial Performance. Evidence from Wisconsin Dairy Farms",
+   "authors": [
+    "Theodoros Skevas",
+    "I. Skevas",
+    "V. E. Cabrera"
+   ],
+   "year": 2021,
+   "venue": "Sustainability",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Farm Profitability as a Driver of Spatial Spillovers: The Case of Somatic Cell Counts on Wisconsin Dairies",
+   "authors": [
+    "Theodoros Skevas",
+    "I. Skevas",
+    "V. E. Cabrera"
+   ],
+   "year": 2021,
+   "venue": "Agricultural and Resource Economics Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Milk Income over Feed Cost Margin, Margin Protection Program, and Farm Finances for a Sample of Wisconsin Dairies in 2000-2017",
+   "authors": [
+    "Theodoros Skevas",
+    "W. Thompson",
+    "S. Brown",
+    "V. E. Cabrera"
+   ],
+   "year": 2021,
+   "venue": "Applied Economic Perspectives and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Measuring farmers' dynamic technical and udder health management inefficiencies: The case of Wisconsin dairy farms",
+   "authors": [
+    "Theodoros Skevas",
+    "V. E. Cabrera"
+   ],
+   "year": 2020,
+   "venue": "Journal of Dairy Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Farmer awareness, perceptions and adoption of unmanned aerial vehicles: evidence from Missouri",
+   "authors": [
+    "Theodoros Skevas",
+    "N. Kalaitzandonakes"
+   ],
+   "year": 2020,
+   "venue": "International Food and Agribusiness Management Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Grocery Shopping Preferences During the COVID-19 Pandemic",
+   "authors": [
+    "J. Grashuis",
+    "Theodoros Skevas",
+    "M. S. Segovia"
+   ],
+   "year": 2020,
+   "venue": "Sustainability",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Technical efficiency and spatial spillovers: Evidence from grain marketing cooperatives in the US Midwest",
+   "authors": [
+    "Theodoros Skevas",
+    "J. Grashuis"
+   ],
+   "year": 2020,
+   "venue": "Agribusiness",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Evaluating alternative policies to reduce pesticide groundwater pollution in Dutch arable farming",
+   "authors": [
+    "Theodoros Skevas"
+   ],
+   "year": 2020,
+   "venue": "Journal of Environmental Planning and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Does Spatial Dependence Affect the Intention to Make Land Available for Bioenergy Crops?",
+   "authors": [
+    "Theodoros Skevas",
+    "I. Skevas",
+    "S. M. Swinton"
+   ],
+   "year": 2018,
+   "venue": "Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Farm capital investment and deviations from the optimal path: The case of Dutch dairy farms",
+   "authors": [
+    "Theodoros Skevas",
+    "F. Wu",
+    "Z. Guan"
+   ],
+   "year": 2018,
+   "venue": "Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Derivation of netput shadow prices under different levels of pest pressure",
+   "authors": [
+    "Theodoros Skevas",
+    "T. Serra"
+   ],
+   "year": 2017,
+   "venue": "Journal of Productivity Analysis",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How willing are landowners to supply land for bioenergy crops in the Northern Great Lakes Region?",
+   "authors": [
+    "S. M. Swinton",
+    "S. Tanner",
+    "B. L. Barham",
+    "D. F. Mooney",
+    "Theodoros Skevas"
+   ],
+   "year": 2017,
+   "venue": "GCB Bioenergy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The role of pest pressure in technical and environmental inefficiency analysis of Dutch arable farms: an event-specific data envelopment approach",
+   "authors": [
+    "Theodoros Skevas",
+    "T. Serra"
+   ],
+   "year": 2016,
+   "venue": "Journal of Productivity Analysis",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic performance and comparative riskiness of different management practices for control of botrytis fruit rot in florida strawberry",
+   "authors": [
+    "Theodoros Skevas",
+    "Z. Guan",
+    "N. A. Peres"
+   ],
+   "year": 2016,
+   "venue": "Crop Protection",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Investment risk in bioenergy crops",
+   "authors": [
+    "Theodoros Skevas",
+    "S. M. Swinton",
+    "S. Tanner",
+    "G. Sanford",
+    "K. D. Thelen"
+   ],
+   "year": 2016,
+   "venue": "GCB Bioenergy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Landowner willingness to supply marginal land for bioenergy production",
+   "authors": [
+    "Theodoros Skevas",
+    "N. J. Hayden",
+    "S. M. Swinton",
+    "F. Lupi"
+   ],
+   "year": 2016,
+   "venue": "Land Use Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Integrating agricultural pest biocontrol into forecasts of energy biomass production",
+   "authors": [
+    "Theodoros Skevas",
+    "S. M. Swinton",
+    "T. D. Meehan",
+    "T. Kim",
+    "C. Gratton",
+    "A. Egbendewe-Mondzozo"
+   ],
+   "year": 2014,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "What type of landowner would supply marginal land for energy crops?",
+   "authors": [
+    "Theodoros Skevas",
+    "S. M. Swinton",
+    "N. Hayden"
+   ],
+   "year": 2014,
+   "venue": "Biomass and Bioenergy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Pesticide use, environmental spillovers and efficiency: A nonparametric risk-adjusted efficiency approach applied to Dutch arable farming",
+   "authors": [
+    "Theodoros Skevas",
+    "S. E. Stefanou",
+    "A. Oude Lansink"
+   ],
+   "year": 2014,
+   "venue": "European Journal of Operational Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Reducing pesticide use and pesticide impact by productivity growth: the case of Dutch arable farming",
+   "authors": [
+    "Theodoros Skevas",
+    "A. Oude Lansink"
+   ],
+   "year": 2014,
+   "venue": "Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do farmers internalize environmental spillovers of pesticides in production?",
+   "authors": [
+    "Theodoros Skevas",
+    "S. E. Stefanou",
+    "A. Oude Lansink"
+   ],
+   "year": 2013,
+   "venue": "Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do European Union farmers reject genetically modified maize? Farmer preferences for genetically modified maize in Greece",
+   "authors": [
+    "Theodoros Skevas",
+    "E. M. Kikulwe",
+    "H. Papadopoulou",
+    "I. Skevas",
+    "J. Wesseler"
+   ],
+   "year": 2013,
+   "venue": "AgBioForum",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Measuring technical efficiency in the presence of pesticide spillovers and production uncertainty: The case of Dutch arable farms",
+   "authors": [
+    "Theodoros Skevas",
+    "A. Oude Lansink",
+    "S. E. Stefanou"
+   ],
+   "year": 2012,
+   "venue": "European Journal of Operational Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Can economic incentives encourage actual reductions in pesticide use and environmental spillovers?",
+   "authors": [
+    "Theodoros Skevas",
+    "S. E. Stefanou",
+    "A. Oude Lansink"
+   ],
+   "year": 2012,
+   "venue": "Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Designing the emerging EU pesticide policy: A literature review",
+   "authors": [
+    "Theodoros Skevas",
+    "S. E. Stefanou",
+    "A. Oude Lansink"
+   ],
+   "year": 2012,
+   "venue": "NJAS - Wageningen Journal of Life Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Coexistence regulations and agriculture production: A case study of five Bt maize producers in Portugal",
+   "authors": [
+    "Theodoros Skevas",
+    "P. Fevereiro",
+    "J. Wesseler"
+   ],
+   "year": 2010,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Coping with ex ante regulations and ex post liability rules for planting Bt-maize - The Portuguese experience",
+   "authors": [
+    "Theodoros Skevas",
+    "P. Fevereiro",
+    "J. Wesseler"
+   ],
+   "year": 2009,
+   "venue": "AgBioForum",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Weather conditions, infrastructure, and U.S. corn and soybean basis spread levels",
+   "authors": [
+    "Theodoros Skevas",
+    "B. Brown",
+    "W. Thompson"
+   ],
+   "year": 2023,
+   "venue": "Agribusiness",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Adoption and intensity of use of personal protective equipment by agricultural pesticide handlers: Empirical evidence from Peruvian agriculture",
+   "authors": [
+    "M. Owusu Ansah",
+    "Theodoros Skevas"
+   ],
+   "year": 2023,
+   "venue": "Journal of Cleaner Production",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Willingness to Pay for Flood Control and Prevention in the Context of the 2019 Missouri River Basin Flood Event",
+   "authors": [
+    "J. Grashuis",
+    "Theodoros Skevas",
+    "S. L. Hunt"
+   ],
+   "year": 2023,
+   "venue": "Environment, Development and Sustainability",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Current pesticide labels are not effectively communicating risks to consumers",
+   "authors": [
+    "H. Hosni",
+    "M. Segovia",
+    "S. Zhao",
+    "M. Palma",
+    "Theodoros Skevas"
+   ],
+   "year": 2023,
+   "venue": "PNAS",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

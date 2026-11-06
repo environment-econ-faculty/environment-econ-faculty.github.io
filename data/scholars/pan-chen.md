@@ -1,0 +1,42 @@
+---
+姓名: Pan Chen
+中文名: 
+学校: University of Massachusetts Amherst
+职称: 助理教授
+头衔: Assistant Professor
+单位: Department of Resource Economics
+单位类型: 农经/资源经济
+聘任类型: 本院系
+领域层级: 核心领域
+研究方向: 环境
+自述领域: Research Areas Environmental and Development Economics Bio
+主页: https://panxchen.github.io/
+院系页面: https://www.umass.edu/resource-economics/about/directory/pan-chen
+本科: Huazhong Agricultural University | 2015 | Economics (with distinction)
+硕士: University of Colorado-Boulder | 2023 | Economics
+硕士: Huazhong University of Science & Technology | 2018 | Economics
+博士: University of Colorado-Boulder | 2026 | Economics
+研究线索: Research areas: Environmental and Development Economics
+数据备注: PhD 2026 per roster; start date not verified.
+信息核对: 2026-11-06
+---
+
+## 论文
+
+<!--
+在下方添加论文，每篇以「### 英文标题」开头，字段可留空或删除。示例：
+
+### Paper Title in English
+- 中文标题：论文中文标题
+- 作者：Author A; Author B
+- 年份：2025
+- 发表：American Economic Review
+- 状态：已发表
+- 链接：https://doi.org/...
+- 关键词：碳税; 电力市场
+- 收录日期：2026-10-10
+
+摘要：在这里粘贴摘要（英文或中文均可，可多段）。
+
+状态可选：已发表 / 即将发表 / 修改重投 / 工作论文
+-->

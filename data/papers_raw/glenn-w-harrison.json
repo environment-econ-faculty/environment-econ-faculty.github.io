@@ -1,0 +1,1718 @@
+{
+ "slug": "glenn-w-harrison",
+ "name": "Glenn W. Harrison",
+ "sources": [
+  "https://www.dropbox.com/scl/fi/yjoey8x44wugpjfd15dwr/Glenn-Harrison-CV.pdf (CV, c.2021)",
+  "https://robinson.gsu.edu/profile/glenn-w-harrison/",
+  "web search result summary of cear.gsu.edu (CEAR working papers 2025-26, titles/authors partial)"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Very long CV (c.2021, ~200 items) parsed by script: kept journal articles/refereed items, skipped book chapters, reviews, editor entries, comments/replies, encyclopedia and reports. CV only says 'with X and Y' so authors are listed alphabetically by surname including Harrison (byline order not confirmed); some accented names ASCII-normalised from garbled PDF text (spot-check). Parsing is automatic: venue/year may be imperfect (year = first year in citation). CV predates 2022; recent works (e.g. JPE 2026, IER 2025, JRI 2025, other CEAR WPs 2025-26) known only from a search snippet without full author lists, so omitted except 6 CEAR WPs whose authors were shown (surnames only for some coauthors). 'Literacy and the Quality of Index Insurance Decisions' and 'Eliciting Beliefs about COVID-19' marked forthcoming per CV (likely published since).",
+ "papers": [
+  {
+   "title": "The Informational Efficiency of Experimental Asset Markets",
+   "authors": [
+    "Daniel Friedman",
+    "Glenn W. Harrison",
+    "Jon Salmon"
+   ],
+   "year": 1984,
+   "venue": "Journal of Political Economy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Monopoly Behavior, Decentralized Regulation, and Contestable Markets: An Experimental Evaluation",
+   "authors": [
+    "Glenn W. Harrison",
+    "Michael McKee"
+   ],
+   "year": 1985,
+   "venue": "The Rand Journal of Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Experimental Test for Risk Aversion",
+   "authors": [
+    "Glenn W. Harrison"
+   ],
+   "year": 1986,
+   "venue": "Economics Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Risk Aversion and Preference Distortion in Deterministic Bargaining Experiments",
+   "authors": [
+    "Glenn W. Harrison"
+   ],
+   "year": 1986,
+   "venue": "Economics Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Risk Aversion and the Nash Solution in Stochastic Bargaining Experiments",
+   "authors": [
+    "Glenn W. Harrison"
+   ],
+   "year": 1987,
+   "venue": "Economics Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Experimental Evaluation of Weakest-Link/Best-Shot Models of Public Goods",
+   "authors": [
+    "Glenn W. Harrison",
+    "Jack Hirshleifer"
+   ],
+   "year": 1989,
+   "venue": "Journal of Political Economy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Search Intensity in Experiments",
+   "authors": [
+    "Glenn W. Harrison",
+    "Peter Morgan"
+   ],
+   "year": 1990,
+   "venue": "The Economic Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Risk Attitudes in First-Price Auction Experiments: A Bayesian Analysis",
+   "authors": [
+    "Glenn W. Harrison"
+   ],
+   "year": 1990,
+   "venue": "The Review of Economics & Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Market Dynamics, Programmed Traders, and Futures Markets: Beginning the Laboratory Search for a Smoking Gun",
+   "authors": [
+    "Glenn W. Harrison"
+   ],
+   "year": 1992,
+   "venue": "The Economic Record",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Convergence to Nonstationary Competitive Equilibria: An Experimental Analysis",
+   "authors": [
+    "Douglas D. Davis",
+    "Glenn W. Harrison",
+    "Arlington W. Williams"
+   ],
+   "year": 1993,
+   "venue": "Journal of Economic Behavior and Organization",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Expected Utility Theory and The Experimentalists",
+   "authors": [
+    "Glenn W. Harrison"
+   ],
+   "year": 1994,
+   "venue": "Empirical Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Expectations and Fairness in a Simple Bargaining Experiment",
+   "authors": [
+    "Glenn W. Harrison",
+    "Kevin McCabe"
+   ],
+   "year": 1996,
+   "venue": "International Journal of Game Theory",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Methods in Experimental Economics: A Review",
+   "authors": [
+    "Maribeth Coller",
+    "Glenn W. Harrison"
+   ],
+   "year": 1997,
+   "venue": "Journal of International and Comparative Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Estimating Individual Discount Rates in Denmark: A Field Experiment",
+   "authors": [
+    "Glenn W. Harrison",
+    "Morten I. Lau",
+    "Melonie B. Williams"
+   ],
+   "year": 2002,
+   "venue": "American Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Experimental Methods and the Elicitation of Values",
+   "authors": [
+    "Glenn W. Harrison",
+    "Ronald Harstad",
+    "Elisabet Rutstrom"
+   ],
+   "year": 2004,
+   "venue": "Experimental Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Field Experiments",
+   "authors": [
+    "Glenn W. Harrison",
+    "John A. List"
+   ],
+   "year": 2004,
+   "venue": "Journal of Economic Literature",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Temporal Stability of Estimates of Risk Aversion",
+   "authors": [
+    "Glenn W. Harrison",
+    "Eric Johnson",
+    "Melayne McInnes",
+    "Elisabet Rutstrom"
+   ],
+   "year": 2005,
+   "venue": "Applied Financial Economics Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Is the Evidence for Hyperbolic Discounting in Humans Just An Experimental Artefact?",
+   "authors": [
+    "Glenn W. Harrison",
+    "Morten Igel Lau"
+   ],
+   "year": 2005,
+   "venue": "Behavioral & Brain Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Elicitation Using Multiple Price List Formats",
+   "authors": [
+    "Steffen Andersen",
+    "Glenn W. Harrison",
+    "Morten Lau",
+    "Elisabet Rutstrom"
+   ],
+   "year": 2006,
+   "venue": "Experimental Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Valuation Using Multiple Price List Formats",
+   "authors": [
+    "Steffen Andersen",
+    "Glenn W. Harrison",
+    "Morten Lau",
+    "Elisabet Rutstrom"
+   ],
+   "year": 2007,
+   "venue": "Applied Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Naturally Occurring Preferences and Exogenous Laboratory Experiments: A Case Study of Risk Aversion",
+   "authors": [
+    "Glenn W. Harrison",
+    "John A. List",
+    "Charles Towe"
+   ],
+   "year": 2007,
+   "venue": "Econometrica",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Estimating Risk Attitudes in Denmark: A Field Experiment",
+   "authors": [
+    "Glenn W. Harrison",
+    "Morten Lau",
+    "Elisabet Rutstrom"
+   ],
+   "year": 2007,
+   "venue": "Scandinavian Journal of Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Lost in State Space: Are Preferences Stable?",
+   "authors": [
+    "Steffen Andersen",
+    "Glenn W. Harrison",
+    "Morten Lau",
+    "Elisabet Rutstrom"
+   ],
+   "year": 2008,
+   "venue": "International Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Naturally Occurring Markets and Exogenous Laboratory Experiments: A Case Study of the Winner's Curse",
+   "authors": [
+    "Glenn W. Harrison",
+    "John A. List"
+   ],
+   "year": 2008,
+   "venue": "The Economic Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Voting Games and Computational Complexity",
+   "authors": [
+    "Glenn W. Harrison",
+    "Tanga McDaniel"
+   ],
+   "year": 2008,
+   "venue": "Oxford Economic Papers",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Eliciting Risk and Time Preferences",
+   "authors": [
+    "Steffen Andersen",
+    "Glenn W. Harrison",
+    "Morten Lau",
+    "Elisabet Rutstrom"
+   ],
+   "year": 2008,
+   "venue": "Econometrica",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Neuroeconomics: A Critical Reconsideration",
+   "authors": [
+    "Glenn W. Harrison"
+   ],
+   "year": 2008,
+   "venue": "Economics & Philosophy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Expected Utility And Prospect Theory: One Wedding and a Decent Funeral",
+   "authors": [
+    "Glenn W. Harrison",
+    "Elisabet Rutstrom"
+   ],
+   "year": 2009,
+   "venue": "Experimental Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Risk Attitudes, Randomization to Treatment, and Self-Selection Into Experiments",
+   "authors": [
+    "Glenn W. Harrison",
+    "Morten Lau",
+    "Elisabet Rutstrom"
+   ],
+   "year": 2009,
+   "venue": "Journal of Economic Behavior and Organization",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Preference Heterogeneity in Experiments: Comparing the Field and Laboratory",
+   "authors": [
+    "Steffen Andersen",
+    "Glenn W. Harrison",
+    "Morten Lau",
+    "Elisabet Rutstrom"
+   ],
+   "year": 2010,
+   "venue": "Journal of Economic Behavior and Organization",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Choice Under Uncertainty: Evidence from Ethiopia, India and Uganda",
+   "authors": [
+    "Glenn W. Harrison",
+    "Steven J. Humphrey",
+    "Arjan Verschoor"
+   ],
+   "year": 2010,
+   "venue": "The Economic Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Behavioral Counter-Revolution",
+   "authors": [
+    "Glenn W. Harrison"
+   ],
+   "year": 2010,
+   "venue": "Journal of Economic Behavior and Organization",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Testing Static Game Theory with Dynamic Experiments: A Case Study of Public Goods",
+   "authors": [
+    "Anabela Botelho",
+    "Glenn W. Harrison",
+    "Ligia M. Costa Pinto",
+    "Elisabet Rutstrom"
+   ],
+   "year": 2009,
+   "venue": "Games and Economic Behavior",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Behavioral Econometrics for Psychologists",
+   "authors": [
+    "Steffen Andersen",
+    "Glenn W. Harrison",
+    "Morten Lau",
+    "Elisabet Rutstrom"
+   ],
+   "year": 2010,
+   "venue": "Journal of Economic Psychology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "What Do Prediction Markets Predict?",
+   "authors": [
+    "John Fountain",
+    "Glenn W. Harrison"
+   ],
+   "year": 2011,
+   "venue": "Applied Economics Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Methodologies of Neuroeconomics",
+   "authors": [
+    "Glenn W. Harrison",
+    "Don Ross"
+   ],
+   "year": 2010,
+   "venue": "Journal of Economic Methodology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Methodological Promise of Experimental Economics",
+   "authors": [
+    "Glenn W. Harrison"
+   ],
+   "year": 2011,
+   "venue": "Journal of Economic Methodology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Are You Risk Averse Over Other People's Money?",
+   "authors": [
+    "Sujoy Chakravarty",
+    "Glenn W. Harrison",
+    "Ernan Haruvy",
+    "Elisabet Rutstrom"
+   ],
+   "year": 2011,
+   "venue": "Southern Economic Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Experimental Methods and the Welfare Evaluation of Policy Lotteries",
+   "authors": [
+    "Glenn W. Harrison"
+   ],
+   "year": 2011,
+   "venue": "European Review of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Randomisation and Its Discontents",
+   "authors": [
+    "Glenn W. Harrison"
+   ],
+   "year": 2011,
+   "venue": "Journal of African Economies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Non-Linear Mixed Logit",
+   "authors": [
+    "Steffen Andersen",
+    "Glenn W. Harrison",
+    "Arne Risa Hole",
+    "Morten Lau",
+    "Elisabet Rutstrom"
+   ],
+   "year": 2012,
+   "venue": "Theory and Decision",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Inferring Beliefs as Subjectively Uncertain Probabilities",
+   "authors": [
+    "Steffen Andersen",
+    "John Fountain",
+    "Glenn W. Harrison",
+    "Arne Risa Hole",
+    "Elisabet Rutstrom"
+   ],
+   "year": 2012,
+   "venue": "Theory and Decision",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Latent Process Heterogeneity in Discounting Behavior",
+   "authors": [
+    "Maribeth Coller",
+    "Glenn W. Harrison",
+    "Elisabet Rutstrom"
+   ],
+   "year": 2012,
+   "venue": "Oxford Economic Papers",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Preferences Over Social Risk",
+   "authors": [
+    "Glenn W. Harrison",
+    "Morten Lau",
+    "Elisabet Rutstrom",
+    "Marcela Tarazona-Gmez"
+   ],
+   "year": 2013,
+   "venue": "Oxford Economic Papers",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Inducing Risk Neutral Preferences with Binary Lotteries: A Reconsideration",
+   "authors": [
+    "Glenn W. Harrison",
+    "Jimmy Martinez-Correa",
+    "J. Todd Swarthout"
+   ],
+   "year": 2013,
+   "venue": "Journal of Economic Behavior and Organization",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Dual Criteria Decisions",
+   "authors": [
+    "Steffen Andersen",
+    "Glenn W. Harrison",
+    "Morten Lau",
+    "Elisabet Rutstrom"
+   ],
+   "year": 2014,
+   "venue": "Journal of Economic Psychology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Discounting Behavior and the Magnitude Effect: Evidence from a Field Experiment in Denmark",
+   "authors": [
+    "Steffen Andersen",
+    "Glenn W. Harrison",
+    "Morten Lau",
+    "Elisabet Rutstrom"
+   ],
+   "year": 2013,
+   "venue": "Economica",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Estimating Subjective Probabilities",
+   "authors": [
+    "Steffen Andersen",
+    "John Fountain",
+    "Glenn W. Harrison",
+    "Elisabet Rutstrom"
+   ],
+   "year": 2014,
+   "venue": "Journal of Risk & Uncertainty",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Field Experiments and Methodological Intolerance",
+   "authors": [
+    "Glenn W. Harrison"
+   ],
+   "year": 2013,
+   "venue": "Journal of Economic Methodology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Eliciting Subjective Probabilities with Binary Lotteries",
+   "authors": [
+    "Glenn W. Harrison",
+    "Jimmy Martinez-Correa",
+    "J. Todd Swarthout"
+   ],
+   "year": 2014,
+   "venue": "Journal of Economic Behavior and Organization",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Impact Evaluation and Welfare Evaluation",
+   "authors": [
+    "Glenn W. Harrison"
+   ],
+   "year": 2014,
+   "venue": "European Journal of Development Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Subjective Bayesian Beliefs",
+   "authors": [
+    "Constantinos Antoniou",
+    "Glenn W. Harrison",
+    "Morten I. Lau",
+    "Daniel Read"
+   ],
+   "year": 2015,
+   "venue": "Journal of Risk & Uncertainty",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Risk and Time Preferences of Entrepreneurs: Evidence from a Danish Field Experiment",
+   "authors": [
+    "Steffen Andersen",
+    "Amalia Di Girolamo",
+    "Glenn W. Harrison",
+    "Morten I. Lau"
+   ],
+   "year": 2014,
+   "venue": "Theory & Decision",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Experimental Payment Protocols and the Bipolar Behaviorist",
+   "authors": [
+    "Glenn W. Harrison",
+    "J. Todd Swarthout"
+   ],
+   "year": 2014,
+   "venue": "Theory & Decision",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Discounting Behavior: A Reconsideration",
+   "authors": [
+    "Steffen Andersen",
+    "Glenn W. Harrison",
+    "Morten Lau",
+    "Elisabet Rutstrom"
+   ],
+   "year": 2014,
+   "venue": "European Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Cautionary Notes on the Use of Field Experiments to Address Policy Issues",
+   "authors": [
+    "Glenn W. Harrison"
+   ],
+   "year": 2014,
+   "venue": "Oxford Review of Economic Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Eliciting Subjective Probability Distributions with Binary Lotteries",
+   "authors": [
+    "Jimmy Martinez- Correa",
+    "Glenn W. Harrison",
+    "J. Todd Swarthout",
+    "Eric Ulm"
+   ],
+   "year": 2015,
+   "venue": "Economics Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Reduction of Compound Lotteries with Objective Probabilities: Theory and Evidence",
+   "authors": [
+    "Glenn W. Harrison",
+    "Jimmy Martinez-Correa",
+    "J. Todd Swarthout"
+   ],
+   "year": 2015,
+   "venue": "Journal of Economic Behavior and Organization 119",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Subjective Belief Distributions and the Characterization of Economic Literacy",
+   "authors": [
+    "Amalia Di Girolamo",
+    "Glenn W. Harrison",
+    "Morten Lau",
+    "J. Todd Swarthout"
+   ],
+   "year": 2015,
+   "venue": "Journal of Behavioral and Experimental Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Evaluating the Expected Welfare Gain of Insurance",
+   "authors": [
+    "Glenn W. Harrison",
+    "Jia Min Ng"
+   ],
+   "year": 2016,
+   "venue": "Journal of Risk & Insurance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Introduction: Symposium on the Methodologies of Behavioral Insurance",
+   "authors": [
+    "Glenn W. Harrison",
+    "Andreas Richter"
+   ],
+   "year": 2016,
+   "venue": "Journal of Risk & Insurance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Psychology of Human Risk Preferences and Vulnerability to Scare-Mongers: Experimental Economic Tools for Hypothesis Formulation and Testing",
+   "authors": [
+    "Glenn W. Harrison",
+    "Don Ross"
+   ],
+   "year": 2016,
+   "venue": "Journal of Cognition and Culture",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Information Characteristics and Errors in Expectations: Experimental Evidence",
+   "authors": [
+    "Constantinos Antoniou",
+    "Glenn W. Harrison",
+    "Morten I. Lau",
+    "Daniel Read"
+   ],
+   "year": 2017,
+   "venue": "Journal of Financial & Quantitative Analysis",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Scoring Rules for Subjective Probability Distributions",
+   "authors": [
+    "Glenn W. Harrison",
+    "Jimmy Martinez-Correa",
+    "J. Todd Swarthout",
+    "Eric Ulm"
+   ],
+   "year": 2017,
+   "venue": "Journal of Economic Behavior and Organization",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Empirical Adequacy of Cumulative Prospect Theory and its Implications for Normative Assessment",
+   "authors": [
+    "Glenn W. Harrison",
+    "Don Ross"
+   ],
+   "year": 2017,
+   "venue": "Journal of Economic Methodology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Small Stakes Risk Aversion in the Laboratory: A Reconsideration",
+   "authors": [
+    "Glenn W. Harrison",
+    "Morten Lau",
+    "Don Ross",
+    "J. Todd Swarthout"
+   ],
+   "year": 2017,
+   "venue": "Economics Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Varieties of Paternalism and the Heterogeneity of Utility Structures",
+   "authors": [
+    "Glenn W. Harrison",
+    "Don Ross"
+   ],
+   "year": 2018,
+   "venue": "Journal of Economic Methodology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Multiattribute Utility Theory, Intertemporal Utility, and Correlation Aversion",
+   "authors": [
+    "Steffen Andersen",
+    "Glenn W. Harrison",
+    "Morten Lau",
+    "Elisabet Rutstrom"
+   ],
+   "year": 2018,
+   "venue": "International Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Asset Integration and Attitudes to Risk: Theory and Evidence",
+   "authors": [
+    "Steffen Andersen",
+    "James Cox",
+    "Glenn W. Harrison",
+    "Morten Lau",
+    "Elisabet Rutstrom",
+    "Vjollca Sadiraj"
+   ],
+   "year": 2018,
+   "venue": "Review of Economics & Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Welfare Effects of Insurance Contract Non-Performance",
+   "authors": [
+    "Glenn W. Harrison",
+    "Jia Min Ng"
+   ],
+   "year": 2018,
+   "venue": "Geneva Risk & Insurance Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Risk Preferences, Time Preferences, and Smoking Behavior",
+   "authors": [
+    "Glenn W. Harrison",
+    "Andre Hofmeyr",
+    "Don Ross",
+    "J. Todd Swarthout"
+   ],
+   "year": 2018,
+   "venue": "Southern Economic Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Eye-Tracking and Economic Theories of Choice Under Risk",
+   "authors": [
+    "Glenn W. Harrison",
+    "J. Todd Swarthout"
+   ],
+   "year": 2019,
+   "venue": "Journal of the Economic Science Association",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Behavioral Insurance and Economic Theory: A Literature Review",
+   "authors": [
+    "Glenn W. Harrison",
+    "Jia Min Ng"
+   ],
+   "year": 2019,
+   "venue": "Risk Management & Insurance Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Are Risks Over Multiple Attributes Traded Off? A Case Study of Aid",
+   "authors": [
+    "Lata Gangadharan",
+    "Glenn W. Harrison",
+    "Anke Leroux"
+   ],
+   "year": 2019,
+   "venue": "Journal of Economic Behavior & Organization",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Behavioral Welfare Economics of Insurance",
+   "authors": [
+    "Glenn W. Harrison"
+   ],
+   "year": 2019,
+   "venue": "Geneva Risk & Insurance Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Risk Attitudes, Sample Selection and Attrition in a Longitudinal Field Experiment",
+   "authors": [
+    "Glenn W. Harrison",
+    "Morten I. Lau",
+    "Hong Il Yoo"
+   ],
+   "year": 2020,
+   "venue": "Review of Economics & Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Field Experiments and Public Policy: Festina Lente",
+   "authors": [
+    "Glenn W. Harrison"
+   ],
+   "year": 2021,
+   "venue": "Behavioral Public Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Literacy and the Quality of Index Insurance Decisions",
+   "authors": [
+    "Glenn W. Harrison",
+    "Karlijn Morsink",
+    "Mark Schneider"
+   ],
+   "year": 2021,
+   "venue": "Geneva Risk & Insurance Review",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "On the Solution of General Equilibrium Models",
+   "authors": [
+    "Glenn W. Harrison",
+    "Larry Kimbell"
+   ],
+   "year": 1986,
+   "venue": "Economic Modelling",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Best Approximate Aggregation of Input-Output Systems",
+   "authors": [
+    "Glenn W. Harrison",
+    "Richard Manning"
+   ],
+   "year": 1987,
+   "venue": "Journal of the American Statistical Association",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Economic Impact of the European Community",
+   "authors": [
+    "Glenn W. Harrison",
+    "Thomas F. Rutherford",
+    "Ian Wooton"
+   ],
+   "year": 1989,
+   "venue": "American Economic Review (Papers & Proceedings)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Trade Wars, Trade Negotiations, and Applied Game Theory",
+   "authors": [
+    "Glenn W. Harrison",
+    "E. E. Rutstrom"
+   ],
+   "year": 1991,
+   "venue": "The Economic Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Sensitivity Analysis of Applied General Equilibrium Models: Completely Randomized Factorial Sampling Designs",
+   "authors": [
+    "Glenn W. Harrison",
+    "H. D. Vinod"
+   ],
+   "year": 1992,
+   "venue": "The Review of Economics & Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How Robust Is Applied General Equilibrium Analysis?",
+   "authors": [
+    "Glenn W. Harrison",
+    "Richard Jones",
+    "Larry Kimbell",
+    "Randall Wigle"
+   ],
+   "year": 1993,
+   "venue": "Journal of Policy Modelling",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Piecemeal Trade Reform in the Partially Liberalized Economy of Turkey",
+   "authors": [
+    "Glenn W. Harrison",
+    "Thomas Rutherford",
+    "David Tarr"
+   ],
+   "year": 1993,
+   "venue": "The World Bank Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Alternative Welfare Decomposition for Customs Unions",
+   "authors": [
+    "Glenn W. Harrison",
+    "Thomas F. Rutherford",
+    "Ian Wooton"
+   ],
+   "year": 1993,
+   "venue": "Canadian Journal of Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Liberalizing Agriculture in the European Community",
+   "authors": [
+    "Glenn W. Harrison",
+    "Thomas F. Rutherford",
+    "Ian Wooton"
+   ],
+   "year": 1995,
+   "venue": "Journal of Policy Modeling",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Increased Competition and Completion of the Market in the European Union: Static and Steady State Effects",
+   "authors": [
+    "Glenn W. Harrison",
+    "Thomas F. Rutherford",
+    "David G. Tarr"
+   ],
+   "year": 1996,
+   "venue": "Journal of Economic Integration",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Quantifying the Uruguay Round",
+   "authors": [
+    "Glenn W. Harrison",
+    "Thomas F. Rutherford",
+    "David G. Tarr"
+   ],
+   "year": 1997,
+   "venue": "Economic Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic Implications for Turkey of a Customs Union With the European Union",
+   "authors": [
+    "Glenn W. Harrison",
+    "Thomas F. Rutherford",
+    "David G. Tarr"
+   ],
+   "year": 1997,
+   "venue": "European Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "xtitiva",
+   "authors": [
+    "Glenn W. Harrison",
+    "Thomas F. Rutherford",
+    "David G. Tarr"
+   ],
+   "year": 1997,
+   "venue": "Cuadernos de Economia",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Croatia's Accession to the World Trade Organization: A Quantitative Evaluation",
+   "authors": [
+    "Davor Galinec",
+    "Glenn W. Harrison",
+    "Jasminka Sohinger"
+   ],
+   "year": 2001,
+   "venue": "Ekonomski Pregled",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Trade Policy Options for Chile: The Importance of Market Access",
+   "authors": [
+    "Glenn W. Harrison",
+    "Thomas F. Rutherford",
+    "David G. Tarr"
+   ],
+   "year": 2002,
+   "venue": "World Bank Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Trade Liberalization, Poverty and Efficient Equity",
+   "authors": [
+    "Glenn W. Harrison",
+    "Thomas F. Rutherford",
+    "David G. Tarr"
+   ],
+   "year": 2003,
+   "venue": "Journal of Development Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Politicas de Comercio Regionais, Multilaterais e Unilaterais do MERCOSUL Para o Crescimento Econmico e a Reduo da Pobreza No Brasil",
+   "authors": [
+    "Antonio Gurgel",
+    "Glenn W. Harrison",
+    "Thomas F. Rutherford",
+    "David G. Tarr"
+   ],
+   "year": 2003,
+   "venue": "Pesquisa e Planejamento Economico",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Rules of Thumb for Evaluating Preferential Trading Arrangements: Evidence from Computable General Equilibrium Assessments",
+   "authors": [
+    "Glenn W. Harrison",
+    "Thomas F. Rutherford",
+    "David G. Tarr"
+   ],
+   "year": 2003,
+   "venue": "Cuadernos de Economia",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Foreign Direct Investment and Transition: Challenges for the Croatian Economy",
+   "authors": [
+    "Glenn W. Harrison",
+    "Jasminka Sohinger"
+   ],
+   "year": 2004,
+   "venue": "Eastern European Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Trade Policy and Poverty Reduction in Brazil",
+   "authors": [
+    "Antonio Gurgel",
+    "Glenn W. Harrison",
+    "Thomas F. Rutherford",
+    "David G. Tarr"
+   ],
+   "year": 2004,
+   "venue": "World Bank Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Valuing Public Goods With The Contingent Valuation Method: A Critique of Kahneman and Knetsch",
+   "authors": [
+    "Glenn W. Harrison"
+   ],
+   "year": 1992,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Environmentally Sensitive Industries and an Emerging Mexico",
+   "authors": [
+    "Glenn W. Harrison"
+   ],
+   "year": 1994,
+   "venue": "North American Journal of Economics and Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Statistical Bias Functions and Informative Hypothetical Surveys",
+   "authors": [
+    "McKinley Blackburn",
+    "Glenn W. Harrison",
+    "Elisabet Rutstrom"
+   ],
+   "year": 1994,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Measurement of Decomposition of Nonuse Values: A Critical Review",
+   "authors": [
+    "Ronald G. Cummings",
+    "Glenn W. Harrison"
+   ],
+   "year": 1995,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Homegrown Values and Hypothetical Surveys: is the Dichotomous Choice Approach Incentive Compatible?",
+   "authors": [
+    "Ronald G. Cummings",
+    "Glenn W. Harrison",
+    "Elisabet Rutstrom"
+   ],
+   "year": 1995,
+   "venue": "American Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Must Contingent Valuation Surveys Cost So Much?",
+   "authors": [
+    "Glenn W. Harrison",
+    "J. Clay Lesley"
+   ],
+   "year": 1996,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Are Hypothetical Referenda Incentive Compatible?",
+   "authors": [
+    "Ronald G. Cummings",
+    "Steven Elliott",
+    "Glenn W. Harrison",
+    "James Murphy"
+   ],
+   "year": 1997,
+   "venue": "Journal of Political Economy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Hypothetical Bias and Willingness to Accept",
+   "authors": [
+    "Peter Frykblom",
+    "Glenn W. Harrison",
+    "James C. Lesley",
+    "Steven Nape"
+   ],
+   "year": 2003,
+   "venue": "Economics Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Multilateral Negotiations Over Climate Change Policy",
+   "authors": [
+    "Glenn W. Harrison",
+    "Ligia M. Costa Pinto"
+   ],
+   "year": 2003,
+   "venue": "Journal of Policy Modeling",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Experimental Evidence on Alternative Environmental Valuation Methods",
+   "authors": [
+    "Glenn W. Harrison"
+   ],
+   "year": 2006,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Risk Perception, Valuation and Policy: Introduction",
+   "authors": [
+    "Shelby Gerking",
+    "Glenn W. Harrison"
+   ],
+   "year": 2006,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Virtual Experiments and Environmental Policy",
+   "authors": [
+    "Stephen M. Fiore",
+    "Glenn W. Harrison",
+    "Charles E. Hughes",
+    "Elisabet Rutstrom"
+   ],
+   "year": 2009,
+   "venue": "Journal of Environmental Economics & Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Climate Change and Risk: A Multidisciplinary Risk Course",
+   "authors": [
+    "Glenn W. Harrison",
+    "Harold Weston"
+   ],
+   "year": 2014,
+   "venue": "Journal of Risk Education",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Predatory Pricing in A Multiple Market Experiment",
+   "authors": [
+    "Glenn W. Harrison"
+   ],
+   "year": 1988,
+   "venue": "Journal of Economic Behavior and Organization",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Was the Ohio Court Well Informed in its Assessment of the Accuracy of the Contingent Valuation Method?",
+   "authors": [
+    "Ronald G. Cummings",
+    "Glenn W. Harrison"
+   ],
+   "year": 1994,
+   "venue": "Natural Resources Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Efficient Equity: Removing Salary Discrimination By Meeting Statistical Legal Constraints at Least Cost",
+   "authors": [
+    "Maribeth Coller",
+    "Glenn W. Harrison",
+    "Thomas F. Rutherford"
+   ],
+   "year": 1996,
+   "venue": "Economics Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Mortgage Lending in Boston: A Reconsideration of the Evidence",
+   "authors": [
+    "Glenn W. Harrison"
+   ],
+   "year": 1998,
+   "venue": "Economic Inquiry",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Time Value and the Expert Witness: Guidance from the Tobacco Litigation",
+   "authors": [
+    "Maribeth Coller",
+    "Glenn W. Harrison"
+   ],
+   "year": 2001,
+   "venue": "Journal of Forensic Accounting",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Evaluating the Tobacco Settlement: Are the Damages Awards Too Much or Not Enough?",
+   "authors": [
+    "Maribeth Coller",
+    "Glenn W. Harrison",
+    "Melayne Morgan McInnes"
+   ],
+   "year": 2002,
+   "venue": "American Journal of Public Health",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Cigarette Smoking and the Cost of Hospital and Physician Care",
+   "authors": [
+    "Alison C. Edwards",
+    "James Feehan",
+    "Glenn W. Harrison",
+    "Jorge Segovia"
+   ],
+   "year": 2003,
+   "venue": "Canadian Public Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Eliciting Subjective Beliefs About Mortality Risk Orderings",
+   "authors": [
+    "Glenn W. Harrison",
+    "Elisabet Rutstrom"
+   ],
+   "year": 2006,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Individual Discount Rates and Smoking: Evidence from a Field Experiment in Denmark",
+   "authors": [
+    "Glenn W. Harrison",
+    "Morten Lau",
+    "Elisabet Rutstrom"
+   ],
+   "year": 2010,
+   "venue": "Journal of Health Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Estimating the Subjective Risks of Driving Simulator Accidents",
+   "authors": [
+    "Vinayak Dixit",
+    "Glenn W. Harrison",
+    "Elisabet Rutstrom"
+   ],
+   "year": 2014,
+   "venue": "Accident Analysis and Prevention",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Behavioral Responses to Surveys About Nicotine Dependence",
+   "authors": [
+    "Glenn W. Harrison"
+   ],
+   "year": 2017,
+   "venue": "Health Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Disordered Gambling Prevalence: Methodological Innovations in a General Danish Population Survey",
+   "authors": [
+    "Glenn W. Harrison",
+    "Lasse J. Jessen",
+    "Morten Lau",
+    "Don Ross"
+   ],
+   "year": 2018,
+   "venue": "Journal of Gambling Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Risk of Gambling Problems in the General Population: A Reconsideration",
+   "authors": [
+    "Glenn W. Harrison",
+    "Morten Lau",
+    "Don Ross"
+   ],
+   "year": 2020,
+   "venue": "Journal of Gambling Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Eliciting Beliefs about COVID-19 Prevalence and Mortality: Epidemiological Models Compared with The Street",
+   "authors": [
+    "Glenn W. Harrison",
+    "Andre Hofmeyr",
+    "Harold Kincaid",
+    "Brian Monroe",
+    "Don Ross",
+    "Mark Schneider",
+    "J. Todd Swarthout"
+   ],
+   "year": 2021,
+   "venue": "Methods",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Stock-Flow Distinction - A Suggested Interpretation",
+   "authors": [
+    "Glenn W. Harrison"
+   ],
+   "year": 1980,
+   "venue": "Journal of Macroeconomics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Nature of the Keynesian Revolution",
+   "authors": [
+    "Glenn W. Harrison"
+   ],
+   "year": 1981,
+   "venue": "Australian Economic Papers",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Old-Age Provision: Past, Present, Future",
+   "authors": [
+    "Hansjrg Albrecher",
+    "Paul Embrechts",
+    "Damir Filipovic",
+    "Glenn W. Harrison",
+    "Pablo Koch",
+    "Stphane Loisel",
+    "Paolo Vanini",
+    "Jol Wagner"
+   ],
+   "year": 2016,
+   "venue": "European Actuarial Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Risk Preferences Around the World",
+   "authors": [
+    "Bland",
+    "Glenn W. Harrison",
+    "Monroe"
+   ],
+   "year": 2026,
+   "venue": "CEAR Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Risk Measures Derived from Risk Preferences",
+   "authors": [
+    "Glenn W. Harrison",
+    "Ariane Lara Bonilla"
+   ],
+   "year": 2026,
+   "venue": "CEAR Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Genetic Mixtures as Models of Risk Preferences",
+   "authors": [
+    "Glenn W. Harrison",
+    "Monroe"
+   ],
+   "year": 2026,
+   "venue": "CEAR Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Mixtures of Risk Preferences with a Bayesian Hierarchical Model",
+   "authors": [
+    "Gao",
+    "Glenn W. Harrison",
+    "Monroe"
+   ],
+   "year": 2025,
+   "venue": "CEAR Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Models of Risk Preferences, Higher-Order Risk Attitudes and the Value of Insurance",
+   "authors": [
+    "Glenn W. Harrison",
+    "Hofmeyr",
+    "Monroe",
+    "Schneider"
+   ],
+   "year": 2026,
+   "venue": "CEAR Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "When Should Demographics Enter the Prior?",
+   "authors": [
+    "Gao",
+    "Glenn W. Harrison"
+   ],
+   "year": 2026,
+   "venue": "CEAR Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

@@ -5,7 +5,8 @@
   "short": "Harvard",
   "rank": 1,
   "screened": 59,
-  "url": "https://www.economics.harvard.edu/faculty"
+  "url": "https://www.economics.harvard.edu/faculty",
+  "region": "美国"
  },
  {
   "name": "Massachusetts Institute of Technology",
@@ -13,7 +14,8 @@
   "short": "MIT",
   "rank": 1,
   "screened": 41,
-  "url": "https://economics.mit.edu/people/faculty"
+  "url": "https://economics.mit.edu/people/faculty",
+  "region": "美国"
  },
  {
   "name": "Stanford University",
@@ -21,7 +23,8 @@
   "short": "Stanford",
   "rank": 1,
   "screened": 67,
-  "url": "https://economics.stanford.edu/people/faculty"
+  "url": "https://economics.stanford.edu/people/faculty",
+  "region": "美国"
  },
  {
   "name": "University of California, Berkeley",
@@ -29,7 +32,8 @@
   "short": "UC Berkeley",
   "rank": 1,
   "screened": 54,
-  "url": "https://econ.berkeley.edu/people/faculty"
+  "url": "https://econ.berkeley.edu/people/faculty",
+  "region": "美国"
  },
  {
   "name": "University of Chicago",
@@ -37,7 +41,8 @@
   "short": "Chicago",
   "rank": 1,
   "screened": 58,
-  "url": "https://economics.uchicago.edu/directory/faculty"
+  "url": "https://economics.uchicago.edu/directory/faculty",
+  "region": "美国"
  },
  {
   "name": "Princeton University",
@@ -45,7 +50,8 @@
   "short": "Princeton",
   "rank": 6,
   "screened": 59,
-  "url": "https://economics.princeton.edu/people/"
+  "url": "https://economics.princeton.edu/people/",
+  "region": "美国"
  },
  {
   "name": "Yale University",
@@ -53,7 +59,8 @@
   "short": "Yale",
   "rank": 6,
   "screened": 54,
-  "url": "https://economics.yale.edu/people-economics/faculty"
+  "url": "https://economics.yale.edu/people-economics/faculty",
+  "region": "美国"
  },
  {
   "name": "Northwestern University",
@@ -61,7 +68,8 @@
   "short": "Northwestern",
   "rank": 8,
   "screened": 38,
-  "url": "https://economics.northwestern.edu/people/faculty/"
+  "url": "https://economics.northwestern.edu/people/faculty/",
+  "region": "美国"
  },
  {
   "name": "Columbia University",
@@ -69,7 +77,8 @@
   "short": "Columbia",
   "rank": 9,
   "screened": 46,
-  "url": "https://econ.columbia.edu/faculty/"
+  "url": "https://econ.columbia.edu/faculty/",
+  "region": "美国"
  },
  {
   "name": "University of Pennsylvania",
@@ -77,7 +86,8 @@
   "short": "Penn",
   "rank": 9,
   "screened": 34,
-  "url": "https://economics.sas.upenn.edu/people/faculty"
+  "url": "https://economics.sas.upenn.edu/people/faculty",
+  "region": "美国"
  },
  {
   "name": "University of California, Los Angeles",
@@ -85,7 +95,8 @@
   "short": "UCLA",
   "rank": 11,
   "screened": 43,
-  "url": "https://economics.ucla.edu/faculty/"
+  "url": "https://economics.ucla.edu/faculty/",
+  "region": "美国"
  },
  {
   "name": "New York University",
@@ -93,7 +104,8 @@
   "short": "NYU",
   "rank": 12,
   "screened": 47,
-  "url": "https://as.nyu.edu/departments/econ/people/faculty.html"
+  "url": "https://as.nyu.edu/departments/econ/people/faculty.html",
+  "region": "美国"
  },
  {
   "name": "University of Michigan",
@@ -101,7 +113,8 @@
   "short": "Michigan",
   "rank": 12,
   "screened": 58,
-  "url": "https://lsa.umich.edu/econ/people/faculty.html"
+  "url": "https://lsa.umich.edu/econ/people/faculty.html",
+  "region": "美国"
  },
  {
   "name": "University of California, San Diego",
@@ -109,7 +122,8 @@
   "short": "UCSD",
   "rank": 14,
   "screened": 39,
-  "url": "https://economics.ucsd.edu/faculty-and-research/faculty-profiles/"
+  "url": "https://economics.ucsd.edu/faculty-and-research/faculty-profiles/",
+  "region": "美国"
  },
  {
   "name": "Brown University",
@@ -117,7 +131,8 @@
   "short": "Brown",
   "rank": 15,
   "screened": 42,
-  "url": "https://economics.brown.edu/people/faculty"
+  "url": "https://economics.brown.edu/people/faculty",
+  "region": "美国"
  },
  {
   "name": "California Institute of Technology",
@@ -125,7 +140,8 @@
   "short": "Caltech",
   "rank": 15,
   "screened": 18,
-  "url": "https://www.hss.caltech.edu/people"
+  "url": "https://www.hss.caltech.edu/people",
+  "region": "美国"
  },
  {
   "name": "Cornell University",
@@ -133,7 +149,8 @@
   "short": "Cornell",
   "rank": 15,
   "screened": 57,
-  "url": "https://economics.cornell.edu/faculty"
+  "url": "https://economics.cornell.edu/faculty",
+  "region": "美国"
  },
  {
   "name": "University of Wisconsin-Madison",
@@ -141,7 +158,8 @@
   "short": "Wisconsin",
   "rank": 15,
   "screened": 49,
-  "url": "https://econ.wisc.edu/people/faculty/"
+  "url": "https://econ.wisc.edu/people/faculty/",
+  "region": "美国"
  },
  {
   "name": "Duke University",
@@ -149,7 +167,8 @@
   "short": "Duke",
   "rank": 19,
   "screened": 68,
-  "url": "https://econ.duke.edu/people/faculty"
+  "url": "https://econ.duke.edu/people/faculty",
+  "region": "美国"
  },
  {
   "name": "University of Minnesota",
@@ -157,7 +176,8 @@
   "short": "Minnesota",
   "rank": 20,
   "screened": 21,
-  "url": "https://cla.umn.edu/economics/people/faculty"
+  "url": "https://cla.umn.edu/economics/people/faculty",
+  "region": "美国"
  },
  {
   "name": "Carnegie Mellon University",
@@ -165,7 +185,8 @@
   "short": "CMU",
   "rank": 21,
   "screened": 21,
-  "url": "https://www.cmu.edu/tepper/faculty-and-research/faculty-by-area/economics.html"
+  "url": "https://www.cmu.edu/tepper/faculty-and-research/faculty-by-area/economics.html",
+  "region": "美国"
  },
  {
   "name": "Johns Hopkins University",
@@ -173,7 +194,8 @@
   "short": "JHU",
   "rank": 21,
   "screened": 36,
-  "url": "https://econ.jhu.edu/people/faculty/"
+  "url": "https://econ.jhu.edu/people/faculty/",
+  "region": "美国"
  },
  {
   "name": "University of Texas at Austin",
@@ -181,7 +203,8 @@
   "short": "UT Austin",
   "rank": 21,
   "screened": 53,
-  "url": "https://liberalarts.utexas.edu/economics/faculty/"
+  "url": "https://liberalarts.utexas.edu/economics/faculty/",
+  "region": "美国"
  },
  {
   "name": "Boston University",
@@ -189,7 +212,8 @@
   "short": "BU",
   "rank": 24,
   "screened": 42,
-  "url": "https://www.bu.edu/econ/people/faculty/"
+  "url": "https://www.bu.edu/econ/people/faculty/",
+  "region": "美国"
  },
  {
   "name": "University of California, Davis",
@@ -197,7 +221,8 @@
   "short": "UC Davis",
   "rank": 24,
   "screened": 31,
-  "url": "https://economics.ucdavis.edu/people/faculty"
+  "url": "https://economics.ucdavis.edu/people/faculty",
+  "region": "美国"
  },
  {
   "name": "University of Maryland, College Park",
@@ -205,7 +230,8 @@
   "short": "Maryland",
   "rank": 24,
   "screened": 41,
-  "url": "https://www.econ.umd.edu/facultystaff/Faculty"
+  "url": "https://www.econ.umd.edu/facultystaff/Faculty",
+  "region": "美国"
  },
  {
   "name": "Pennsylvania State University",
@@ -213,7 +239,8 @@
   "short": "Penn State",
   "rank": 27,
   "screened": 26,
-  "url": "https://econ.la.psu.edu/directory/faculty/"
+  "url": "https://econ.la.psu.edu/directory/faculty/",
+  "region": "美国"
  },
  {
   "name": "University of Rochester",
@@ -221,7 +248,8 @@
   "short": "Rochester",
   "rank": 27,
   "screened": 26,
-  "url": "https://www.sas.rochester.edu/eco/people/faculty/"
+  "url": "https://www.sas.rochester.edu/eco/people/faculty/",
+  "region": "美国"
  },
  {
   "name": "Boston College",
@@ -229,7 +257,8 @@
   "short": "BC",
   "rank": 29,
   "screened": 36,
-  "url": "https://www.bc.edu/bc-web/schools/morrissey/departments/economics/people.html"
+  "url": "https://www.bc.edu/bc-web/schools/morrissey/departments/economics/people.html",
+  "region": "美国"
  },
  {
   "name": "University of Virginia",
@@ -237,7 +266,8 @@
   "short": "UVA",
   "rank": 29,
   "screened": 35,
-  "url": "https://economics.virginia.edu/people/faculty"
+  "url": "https://economics.virginia.edu/people/faculty",
+  "region": "美国"
  },
  {
   "name": "Washington University in St. Louis",
@@ -245,7 +275,8 @@
   "short": "WashU",
   "rank": 29,
   "screened": 23,
-  "url": "https://economics.wustl.edu/people"
+  "url": "https://economics.wustl.edu/people",
+  "region": "美国"
  },
  {
   "name": "Michigan State University",
@@ -253,7 +284,8 @@
   "short": "MSU",
   "rank": 32,
   "screened": null,
-  "url": ""
+  "url": "",
+  "region": "美国"
  },
  {
   "name": "University of Illinois Urbana-Champaign",
@@ -261,7 +293,8 @@
   "short": "UIUC",
   "rank": 32,
   "screened": null,
-  "url": ""
+  "url": "",
+  "region": "美国"
  },
  {
   "name": "University of North Carolina at Chapel Hill",
@@ -269,7 +302,8 @@
   "short": "UNC",
   "rank": 32,
   "screened": null,
-  "url": ""
+  "url": "",
+  "region": "美国"
  },
  {
   "name": "University of Southern California",
@@ -277,7 +311,8 @@
   "short": "USC",
   "rank": 32,
   "screened": null,
-  "url": ""
+  "url": "",
+  "region": "美国"
  },
  {
   "name": "Vanderbilt University",
@@ -285,7 +320,8 @@
   "short": "Vanderbilt",
   "rank": 32,
   "screened": null,
-  "url": ""
+  "url": "",
+  "region": "美国"
  },
  {
   "name": "Arizona State University",
@@ -293,7 +329,8 @@
   "short": "ASU",
   "rank": 37,
   "screened": null,
-  "url": ""
+  "url": "",
+  "region": "美国"
  },
  {
   "name": "Georgetown University",
@@ -301,7 +338,8 @@
   "short": "Georgetown",
   "rank": 37,
   "screened": null,
-  "url": ""
+  "url": "",
+  "region": "美国"
  },
  {
   "name": "Ohio State University",
@@ -309,7 +347,8 @@
   "short": "Ohio State",
   "rank": 37,
   "screened": null,
-  "url": ""
+  "url": "",
+  "region": "美国"
  },
  {
   "name": "University of California, Santa Barbara",
@@ -317,7 +356,8 @@
   "short": "UCSB",
   "rank": 37,
   "screened": null,
-  "url": ""
+  "url": "",
+  "region": "美国"
  },
  {
   "name": "Indiana University Bloomington",
@@ -325,7 +365,8 @@
   "short": "Indiana",
   "rank": 41,
   "screened": null,
-  "url": ""
+  "url": "",
+  "region": "美国"
  },
  {
   "name": "University of Arizona",
@@ -333,7 +374,8 @@
   "short": "Arizona",
   "rank": 41,
   "screened": null,
-  "url": ""
+  "url": "",
+  "region": "美国"
  },
  {
   "name": "University of California, Irvine",
@@ -341,7 +383,8 @@
   "short": "UC Irvine",
   "rank": 41,
   "screened": null,
-  "url": ""
+  "url": "",
+  "region": "美国"
  },
  {
   "name": "University of Pittsburgh",
@@ -349,7 +392,8 @@
   "short": "Pitt",
   "rank": 41,
   "screened": null,
-  "url": ""
+  "url": "",
+  "region": "美国"
  },
  {
   "name": "University of Washington",
@@ -357,7 +401,8 @@
   "short": "UW",
   "rank": 41,
   "screened": null,
-  "url": ""
+  "url": "",
+  "region": "美国"
  },
  {
   "name": "Rice University",
@@ -365,7 +410,8 @@
   "short": "Rice",
   "rank": 46,
   "screened": null,
-  "url": ""
+  "url": "",
+  "region": "美国"
  },
  {
   "name": "Texas A&M University",
@@ -373,7 +419,8 @@
   "short": "Texas A&M",
   "rank": 46,
   "screened": null,
-  "url": ""
+  "url": "",
+  "region": "美国"
  },
  {
   "name": "University of Colorado Boulder",
@@ -381,7 +428,8 @@
   "short": "CU Boulder",
   "rank": 46,
   "screened": null,
-  "url": ""
+  "url": "",
+  "region": "美国"
  },
  {
   "name": "University of Notre Dame",
@@ -389,7 +437,8 @@
   "short": "Notre Dame",
   "rank": 46,
   "screened": null,
-  "url": ""
+  "url": "",
+  "region": "美国"
  },
  {
   "name": "Purdue University",
@@ -397,7 +446,8 @@
   "short": "Purdue",
   "rank": 50,
   "screened": null,
-  "url": ""
+  "url": "",
+  "region": "美国"
  },
  {
   "name": "Rutgers University",
@@ -405,7 +455,8 @@
   "short": "Rutgers",
   "rank": 50,
   "screened": null,
-  "url": ""
+  "url": "",
+  "region": "美国"
  },
  {
   "name": "Emory University",
@@ -413,7 +464,8 @@
   "short": "Emory",
   "rank": 52,
   "screened": null,
-  "url": ""
+  "url": "",
+  "region": "美国"
  },
  {
   "name": "Stony Brook University",
@@ -421,7 +473,8 @@
   "short": "Stony Brook",
   "rank": 53,
   "screened": null,
-  "url": ""
+  "url": "",
+  "region": "美国"
  },
  {
   "name": "Syracuse University",
@@ -429,7 +482,8 @@
   "short": "Syracuse",
   "rank": 53,
   "screened": null,
-  "url": ""
+  "url": "",
+  "region": "美国"
  },
  {
   "name": "University of California, Santa Cruz",
@@ -437,7 +491,8 @@
   "short": "UC Santa Cruz",
   "rank": 53,
   "screened": null,
-  "url": ""
+  "url": "",
+  "region": "美国"
  },
  {
   "name": "University of Georgia",
@@ -445,7 +500,8 @@
   "short": "UGA",
   "rank": 56,
   "screened": null,
-  "url": ""
+  "url": "",
+  "region": "美国"
  },
  {
   "name": "University of Iowa",
@@ -453,7 +509,8 @@
   "short": "Iowa",
   "rank": 56,
   "screened": null,
-  "url": ""
+  "url": "",
+  "region": "美国"
  },
  {
   "name": "University of Oregon",
@@ -461,7 +518,8 @@
   "short": "Oregon",
   "rank": 56,
   "screened": null,
-  "url": ""
+  "url": "",
+  "region": "美国"
  },
  {
   "name": "University of California, Riverside",
@@ -469,7 +527,8 @@
   "short": "UC Riverside",
   "rank": 56,
   "screened": null,
-  "url": ""
+  "url": "",
+  "region": "美国"
  },
  {
   "name": "Southern Methodist University",
@@ -477,6 +536,457 @@
   "short": "SMU",
   "rank": 60,
   "screened": null,
-  "url": ""
+  "url": "",
+  "region": "美国"
+ },
+ {
+  "name": "CUNY Graduate Center",
+  "zh": "纽约市立大学研究生中心",
+  "short": "CUNY GC",
+  "rank": 61,
+  "screened": null,
+  "url": "",
+  "region": "美国"
+ },
+ {
+  "name": "George Washington University",
+  "zh": "乔治华盛顿大学",
+  "short": "GWU",
+  "rank": 61,
+  "screened": null,
+  "url": "",
+  "region": "美国"
+ },
+ {
+  "name": "Georgia Institute of Technology",
+  "zh": "佐治亚理工学院",
+  "short": "Georgia Tech",
+  "rank": 61,
+  "screened": null,
+  "url": "",
+  "region": "美国"
+ },
+ {
+  "name": "Georgia State University",
+  "zh": "佐治亚州立大学",
+  "short": "Georgia State",
+  "rank": 61,
+  "screened": null,
+  "url": "",
+  "region": "美国"
+ },
+ {
+  "name": "Iowa State University",
+  "zh": "爱荷华州立大学",
+  "short": "Iowa State",
+  "rank": 61,
+  "screened": null,
+  "url": "",
+  "region": "美国"
+ },
+ {
+  "name": "North Carolina State University",
+  "zh": "北卡罗来纳州立大学",
+  "short": "NC State",
+  "rank": 61,
+  "screened": null,
+  "url": "",
+  "region": "美国"
+ },
+ {
+  "name": "University of Florida",
+  "zh": "佛罗里达大学",
+  "short": "Florida",
+  "rank": 61,
+  "screened": null,
+  "url": "",
+  "region": "美国"
+ },
+ {
+  "name": "Brandeis University",
+  "zh": "布兰迪斯大学",
+  "short": "Brandeis",
+  "rank": 68,
+  "screened": null,
+  "url": "",
+  "region": "美国"
+ },
+ {
+  "name": "Claremont Graduate University",
+  "zh": "克莱蒙特研究生大学",
+  "short": "CGU",
+  "rank": 68,
+  "screened": null,
+  "url": "",
+  "region": "美国"
+ },
+ {
+  "name": "Tufts University",
+  "zh": "塔夫茨大学",
+  "short": "Tufts",
+  "rank": 68,
+  "screened": null,
+  "url": "",
+  "region": "美国"
+ },
+ {
+  "name": "University of Houston",
+  "zh": "休斯顿大学",
+  "short": "Houston",
+  "rank": 68,
+  "screened": null,
+  "url": "",
+  "region": "美国"
+ },
+ {
+  "name": "Virginia Tech",
+  "zh": "弗吉尼亚理工大学",
+  "short": "Virginia Tech",
+  "rank": 68,
+  "screened": null,
+  "url": "",
+  "region": "美国"
+ },
+ {
+  "name": "Florida State University",
+  "zh": "佛罗里达州立大学",
+  "short": "FSU",
+  "rank": 73,
+  "screened": null,
+  "url": "",
+  "region": "美国"
+ },
+ {
+  "name": "University of Connecticut",
+  "zh": "康涅狄格大学",
+  "short": "UConn",
+  "rank": 73,
+  "screened": null,
+  "url": "",
+  "region": "美国"
+ },
+ {
+  "name": "University of Illinois Chicago",
+  "zh": "伊利诺伊大学芝加哥分校",
+  "short": "UIC",
+  "rank": 73,
+  "screened": null,
+  "url": "",
+  "region": "美国"
+ },
+ {
+  "name": "University of Massachusetts Amherst",
+  "zh": "马萨诸塞大学阿默斯特分校",
+  "short": "UMass Amherst",
+  "rank": 73,
+  "screened": null,
+  "url": "",
+  "region": "美国"
+ },
+ {
+  "name": "Binghamton University",
+  "zh": "宾汉姆顿大学",
+  "short": "Binghamton",
+  "rank": 77,
+  "screened": null,
+  "url": "",
+  "region": "美国"
+ },
+ {
+  "name": "Tulane University",
+  "zh": "杜兰大学",
+  "short": "Tulane",
+  "rank": 77,
+  "screened": null,
+  "url": "",
+  "region": "美国"
+ },
+ {
+  "name": "University of Kentucky",
+  "zh": "肯塔基大学",
+  "short": "Kentucky",
+  "rank": 77,
+  "screened": null,
+  "url": "",
+  "region": "美国"
+ },
+ {
+  "name": "University of Miami",
+  "zh": "迈阿密大学",
+  "short": "Miami",
+  "rank": 77,
+  "screened": null,
+  "url": "",
+  "region": "美国"
+ },
+ {
+  "name": "American University",
+  "zh": "美利坚大学",
+  "short": "American",
+  "rank": 81,
+  "screened": null,
+  "url": "",
+  "region": "美国"
+ },
+ {
+  "name": "Clemson University",
+  "zh": "克莱姆森大学",
+  "short": "Clemson",
+  "rank": 81,
+  "screened": null,
+  "url": "",
+  "region": "美国"
+ },
+ {
+  "name": "George Mason University",
+  "zh": "乔治梅森大学",
+  "short": "George Mason",
+  "rank": 81,
+  "screened": null,
+  "url": "",
+  "region": "美国"
+ },
+ {
+  "name": "Northeastern University",
+  "zh": "东北大学（美国）",
+  "short": "Northeastern",
+  "rank": 81,
+  "screened": null,
+  "url": "",
+  "region": "美国"
+ },
+ {
+  "name": "University at Albany",
+  "zh": "纽约州立大学奥尔巴尼分校",
+  "short": "Albany",
+  "rank": 81,
+  "screened": null,
+  "url": "",
+  "region": "美国"
+ },
+ {
+  "name": "University at Buffalo",
+  "zh": "纽约州立大学布法罗分校",
+  "short": "Buffalo",
+  "rank": 81,
+  "screened": null,
+  "url": "",
+  "region": "美国"
+ },
+ {
+  "name": "University of Alabama",
+  "zh": "阿拉巴马大学",
+  "short": "Alabama",
+  "rank": 81,
+  "screened": null,
+  "url": "",
+  "region": "美国"
+ },
+ {
+  "name": "University of Kansas",
+  "zh": "堪萨斯大学",
+  "short": "Kansas",
+  "rank": 81,
+  "screened": null,
+  "url": "",
+  "region": "美国"
+ },
+ {
+  "name": "University of Tennessee, Knoxville",
+  "zh": "田纳西大学诺克斯维尔分校",
+  "short": "Tennessee",
+  "rank": 81,
+  "screened": null,
+  "url": "",
+  "region": "美国"
+ },
+ {
+  "name": "University of Oklahoma",
+  "zh": "俄克拉荷马大学",
+  "short": "Oklahoma",
+  "rank": 91,
+  "screened": null,
+  "url": "",
+  "region": "美国"
+ },
+ {
+  "name": "University of Missouri",
+  "zh": "密苏里大学",
+  "short": "Missouri",
+  "rank": 91,
+  "screened": null,
+  "url": "",
+  "region": "美国"
+ },
+ {
+  "name": "University of South Carolina",
+  "zh": "南卡罗来纳大学",
+  "short": "South Carolina",
+  "rank": 91,
+  "screened": null,
+  "url": "",
+  "region": "美国"
+ },
+ {
+  "name": "University of Texas at Dallas",
+  "zh": "德克萨斯大学达拉斯分校",
+  "short": "UT Dallas",
+  "rank": 91,
+  "screened": null,
+  "url": "",
+  "region": "美国"
+ },
+ {
+  "name": "University of Utah",
+  "zh": "犹他大学",
+  "short": "Utah",
+  "rank": 91,
+  "screened": null,
+  "url": "",
+  "region": "美国"
+ },
+ {
+  "name": "Washington State University",
+  "zh": "华盛顿州立大学",
+  "short": "Washington State",
+  "rank": 91,
+  "screened": null,
+  "url": "",
+  "region": "美国"
+ },
+ {
+  "name": "Fordham University",
+  "zh": "福特汉姆大学",
+  "short": "Fordham",
+  "rank": 97,
+  "screened": null,
+  "url": "",
+  "region": "美国"
+ },
+ {
+  "name": "Howard University",
+  "zh": "霍华德大学",
+  "short": "Howard",
+  "rank": 97,
+  "screened": null,
+  "url": "",
+  "region": "美国"
+ },
+ {
+  "name": "Louisiana State University",
+  "zh": "路易斯安那州立大学",
+  "short": "LSU",
+  "rank": 97,
+  "screened": null,
+  "url": "",
+  "region": "美国"
+ },
+ {
+  "name": "Oregon State University",
+  "zh": "俄勒冈州立大学",
+  "short": "Oregon State",
+  "rank": 97,
+  "screened": null,
+  "url": "",
+  "region": "美国"
+ },
+ {
+  "name": "University of Delaware",
+  "zh": "特拉华大学",
+  "short": "Delaware",
+  "rank": 97,
+  "screened": null,
+  "url": "",
+  "region": "美国"
+ },
+ {
+  "name": "University of Wisconsin-Milwaukee",
+  "zh": "威斯康星大学密尔沃基分校",
+  "short": "UW-Milwaukee",
+  "rank": 97,
+  "screened": null,
+  "url": "",
+  "region": "美国"
+ },
+ {
+  "name": "University of Hong Kong",
+  "zh": "香港大学",
+  "short": "HKU",
+  "rank": 201,
+  "screened": null,
+  "url": "",
+  "region": "中国香港"
+ },
+ {
+  "name": "Chinese University of Hong Kong",
+  "zh": "香港中文大学",
+  "short": "CUHK",
+  "rank": 202,
+  "screened": null,
+  "url": "",
+  "region": "中国香港"
+ },
+ {
+  "name": "Hong Kong University of Science and Technology",
+  "zh": "香港科技大学",
+  "short": "HKUST",
+  "rank": 203,
+  "screened": null,
+  "url": "",
+  "region": "中国香港"
+ },
+ {
+  "name": "City University of Hong Kong",
+  "zh": "香港城市大学",
+  "short": "CityU",
+  "rank": 204,
+  "screened": null,
+  "url": "",
+  "region": "中国香港"
+ },
+ {
+  "name": "Hong Kong Polytechnic University",
+  "zh": "香港理工大学",
+  "short": "PolyU",
+  "rank": 205,
+  "screened": null,
+  "url": "",
+  "region": "中国香港"
+ },
+ {
+  "name": "Hong Kong Baptist University",
+  "zh": "香港浸会大学",
+  "short": "HKBU",
+  "rank": 206,
+  "screened": null,
+  "url": "",
+  "region": "中国香港"
+ },
+ {
+  "name": "National University of Singapore",
+  "zh": "新加坡国立大学",
+  "short": "NUS",
+  "rank": 211,
+  "screened": null,
+  "url": "",
+  "region": "新加坡"
+ },
+ {
+  "name": "Nanyang Technological University",
+  "zh": "南洋理工大学",
+  "short": "NTU",
+  "rank": 212,
+  "screened": null,
+  "url": "",
+  "region": "新加坡"
+ },
+ {
+  "name": "Singapore Management University",
+  "zh": "新加坡管理大学",
+  "short": "SMU Singapore",
+  "rank": 213,
+  "screened": null,
+  "url": "",
+  "region": "新加坡"
  }
 ]

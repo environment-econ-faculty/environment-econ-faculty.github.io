@@ -1,0 +1,204 @@
+{
+ "slug": "michael-price",
+ "name": "Michael Price",
+ "sources": [
+  "https://culverhouse.ua.edu/people/michael-price/"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Source: Culverhouse profile only (no homepage/CV found; list may be partial). Profile gives coauthors with initials only, no byline order, so authors alphabetical by surname incl. scholar (initials as shown). Two entries marked forthcoming; their year set to 2026. Other entries have only a month/year date, no status stated; treated as published.",
+ "papers": [
+  {
+   "title": "The Human Perils of Scaling Smart Thermostats: Evidence from Field Experiments",
+   "authors": [
+    "A. Brandon",
+    "C. Clapp",
+    "J. List",
+    "R. Metcalfe",
+    "Michael Price"
+   ],
+   "year": 2026,
+   "venue": "American Economic Journal: Economic Policy",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do the Effects of Nudges Persist? Theory and Evidence from 38 Natural Field Experiments",
+   "authors": [
+    "A. Brandon",
+    "P. Ferraro",
+    "J. List",
+    "R. Metcalfe",
+    "Michael Price",
+    "F. Rundhammer"
+   ],
+   "year": 2026,
+   "venue": "Review of Economic Studies",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Chain Restaurant Calorie Posting Laws, Obesity, and Consumer Welfare",
+   "authors": [
+    "C. Courtemanche",
+    "D. Frisvold",
+    "D. Jiminez-Gomez",
+    "M. Ouayogode",
+    "Michael Price"
+   ],
+   "year": 2025,
+   "venue": "Journal of the European Economic Association",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Experimental Test of Fundraising Appeals Targeting Donor and Recipient Benefits",
+   "authors": [
+    "A. James",
+    "J. List",
+    "J. Murphy",
+    "Michael Price"
+   ],
+   "year": 2021,
+   "venue": "Nature Human Behaviour",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Testing for Crowd Out in Social Nudges: Evidence from a Natural Field Experiment in the Market for Electricity",
+   "authors": [
+    "A. Brandon",
+    "J. List",
+    "R. Metcalfe",
+    "Michael Price",
+    "F. Rundhammer"
+   ],
+   "year": 2018,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Public Good Provision in the Presence of Heterogeneous Green Preferences",
+   "authors": [
+    "M. Jacobsen",
+    "J. LaRiviere",
+    "Michael Price"
+   ],
+   "year": 2017,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Using Field Experiments in Environmental and Resource Economics",
+   "authors": [
+    "J. List",
+    "Michael Price"
+   ],
+   "year": 2016,
+   "venue": "Review of Environmental Economics and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Using Field Experiments to Address Environmental Externalities and Resource Scarcity: Major Lessons Learned and New Directions for Future Research",
+   "authors": [
+    "Michael Price"
+   ],
+   "year": 2014,
+   "venue": "Oxford Review of Economic Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Using Non-Pecuniary Strategies to Influence Behavior: Evidence from a Large-Scale Field Experiment",
+   "authors": [
+    "P. Ferraro",
+    "Michael Price"
+   ],
+   "year": 2013,
+   "venue": "Review of Economics and Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Empirical Implementation of Nonparametric First-Price Auction Models",
+   "authors": [
+    "D. Henderson",
+    "J. List",
+    "D. Millimet",
+    "C. Parmeter",
+    "Michael Price"
+   ],
+   "year": 2012,
+   "venue": "Journal of Econometrics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Is a Donor in Hand Better than Two in the Bush? Evidence from a Natural Field Experiment",
+   "authors": [
+    "C. Landry",
+    "A. Lange",
+    "J. List",
+    "Michael Price",
+    "N. Rupp"
+   ],
+   "year": 2010,
+   "venue": "American Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Fundraising Mechanism Inspired by Historical Tontines: Theory and Experimental Evidence",
+   "authors": [
+    "A. Lange",
+    "J. List",
+    "Michael Price"
+   ],
+   "year": 2007,
+   "venue": "Journal of Public Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Towards an Understanding of the Economics of Charity: Evidence from a Field Experiment",
+   "authors": [
+    "C. Landry",
+    "A. Lange",
+    "J. List",
+    "Michael Price",
+    "N. Rupp"
+   ],
+   "year": 2006,
+   "venue": "Quarterly Journal of Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Conspiracies and Secret Price Discounts in the Marketplace: Evidence from the Field",
+   "authors": [
+    "J. List",
+    "Michael Price"
+   ],
+   "year": 2005,
+   "venue": "RAND Journal of Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

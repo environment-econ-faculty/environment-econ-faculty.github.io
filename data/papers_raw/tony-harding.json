@@ -1,0 +1,179 @@
+{
+ "slug": "tony-harding",
+ "name": "Anthony Harding",
+ "sources": [
+  "https://anthonyharding.org",
+  "https://anthonyharding.org/research"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Homepage research page. Page lists 'with' coauthors only and no byline: authors alphabetical by surname incl. Harding (Oliver CV gives Harding first for the 2026 solar rebound paper). Journal versions of Watts and Bots and Foreign Intervention are listed as published, their CESifo WPs not duplicated. Weather-shock JMP undated -> 2026. 'Distribution of Physical Burden of Climate Policy' undated -> 2026. Abstracts on page are shown but fetch tool paraphrased them, so abstract=null. Skipped works in progress.",
+ "papers": [
+  {
+   "title": "A unifying theory of foreign intervention in domestic climate policy",
+   "authors": [
+    "Anthony Harding",
+    "Juan Moreno-Cruz"
+   ],
+   "year": 2026,
+   "venue": "Journal of Economic Behavior & Organization",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/pii/S0167268126000181",
+   "abstract": null
+  },
+  {
+   "title": "Watts and Bots: The Energy Implications of AI Adoption",
+   "authors": [
+    "Anthony Harding",
+    "Juan Moreno-Cruz"
+   ],
+   "year": 2025,
+   "venue": "Environmental Research Letters",
+   "status": "已发表",
+   "url": "https://iopscience.iop.org/article/10.1088/1748-9326/ae0e3b",
+   "abstract": null
+  },
+  {
+   "title": "Distribution of climate damages in convergence-consistent growth projections",
+   "authors": [
+    "Anthony Harding",
+    "Juan Moreno-Cruz",
+    "Martin Quaas",
+    "Wilfried Rickels",
+    "Sjak Smulders"
+   ],
+   "year": 2025,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/pii/S0140988325005328",
+   "abstract": null
+  },
+  {
+   "title": "An Indigenous perspective on climate engineering",
+   "authors": [
+    "Frank Busch",
+    "Anthony Harding",
+    "Joel Krupa"
+   ],
+   "year": 2025,
+   "venue": "Energy Research & Social Science",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/pii/S2214629625001987",
+   "abstract": null
+  },
+  {
+   "title": "Impact of solar geoengineering on temperature-attributable mortality",
+   "authors": [
+    "Anthony Harding",
+    "Gabriel Vecchi",
+    "Wenchang Yang",
+    "David Keith"
+   ],
+   "year": 2024,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2401801121",
+   "abstract": null
+  },
+  {
+   "title": "How may solar geoengineering impact global prospects for climate change mitigation?",
+   "authors": [
+    "Anthony Harding",
+    "Kate Ricke"
+   ],
+   "year": 2023,
+   "venue": "Oxford Review of Economic Policy",
+   "status": "已发表",
+   "url": "https://academic.oup.com/oxrep/article-abstract/39/4/828/7425305",
+   "abstract": null
+  },
+  {
+   "title": "The value of information about solar geoengineering and the two-sided cost of bias",
+   "authors": [
+    "Mariia Belaia",
+    "Anthony Harding",
+    "David Keith"
+   ],
+   "year": 2022,
+   "venue": "Climate Policy",
+   "status": "已发表",
+   "url": "https://www.tandfonline.com/doi/full/10.1080/14693062.2022.2091509",
+   "abstract": null
+  },
+  {
+   "title": "Climate econometric models indicate solar geoengineering would reduce inter-country income inequality",
+   "authors": [
+    "Kate Ricke",
+    "Juan Moreno-Cruz",
+    "Douglas G. MacMartin",
+    "Anthony Harding",
+    "Daniel Heyen"
+   ],
+   "year": 2020,
+   "venue": "Nature Communications",
+   "status": "已发表",
+   "url": "https://www.nature.com/articles/s41467-019-13957-x",
+   "abstract": null
+  },
+  {
+   "title": "Towards Deep De-carbonization: An Energy Service-System Framework",
+   "authors": [
+    "Christopher Blackburn",
+    "Anthony Harding",
+    "Juan Moreno-Cruz"
+   ],
+   "year": 2017,
+   "venue": "Current Sustainable/Renewable Energy Reports",
+   "status": "已发表",
+   "url": "https://link.springer.com/article/10.1007/s40518-017-0088-y",
+   "abstract": null
+  },
+  {
+   "title": "Solar geoengineering economics: From incredible to inevitable and half-way back",
+   "authors": [
+    "Anthony Harding",
+    "Juan Moreno-Cruz"
+   ],
+   "year": 2016,
+   "venue": "Earth's Future",
+   "status": "已发表",
+   "url": "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016EF000462",
+   "abstract": null
+  },
+  {
+   "title": "The Economics of Geoengineering",
+   "authors": [
+    "Anthony Harding",
+    "Juan Moreno-Cruz"
+   ],
+   "year": 2019,
+   "venue": "Managing Global Warming (book chapter)",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/pii/B9780128141045000259",
+   "abstract": null
+  },
+  {
+   "title": "From Micro-level Weather Shocks to Macroeconomic Impacts",
+   "authors": [
+    "Anthony Harding"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Distribution of Physical Burden of Climate Policy",
+   "authors": [
+    "Anthony Harding",
+    "Juan Moreno-Cruz",
+    "Kate Ricke"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

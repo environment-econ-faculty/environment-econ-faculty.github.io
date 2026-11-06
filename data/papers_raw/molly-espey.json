@@ -1,0 +1,124 @@
+{
+ "slug": "molly-espey",
+ "name": "Molly Espey",
+ "sources": [
+  "https://www.clemson.edu/business/about/profiles/mespey"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Source: Clemson profile only (no homepage/CV found). Profile lists coauthors with initials but not byline order, so authors alphabetical by surname incl. scholar; 'E. Espey' coauthor first name unknown. Status inferred as published from volume/pages. Skipped PERC.org online piece.",
+ "papers": [
+  {
+   "title": "Assessing Gains in Team-Based Learning in Microeconomics",
+   "authors": [
+    "Molly Espey",
+    "D. Gorry"
+   ],
+   "year": 2025,
+   "venue": "The Journal of Economic Education",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Federal Land Acquisitions Under the Land and Water Conservation Fund",
+   "authors": [
+    "E. Espey",
+    "Molly Espey"
+   ],
+   "year": 2023,
+   "venue": "Journal of Natural Resources Policy Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Variation in Individual Engagement in Team-Based Learning and Final Exam Scores",
+   "authors": [
+    "Molly Espey"
+   ],
+   "year": 2022,
+   "venue": "International Review of Economics Education",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Gender and Peer Evaluations",
+   "authors": [
+    "Molly Espey"
+   ],
+   "year": 2022,
+   "venue": "The Journal of Economic Education",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Diversity, Effort, and Cooperation in Team Based Learning",
+   "authors": [
+    "Molly Espey"
+   ],
+   "year": 2018,
+   "venue": "The Journal of Economic Education",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Enhancing Critical Thinking in Economics Using Team-Based Learning",
+   "authors": [
+    "Molly Espey"
+   ],
+   "year": 2018,
+   "venue": "Higher Education Research and Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Alignment of Effort: Recruitment into Agricultural and Applied Economics",
+   "authors": [
+    "K. Boys",
+    "Molly Espey"
+   ],
+   "year": 2015,
+   "venue": "Journal of Agricultural and Applied Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Team-Based Learning in Economics: A Pareto Improvement",
+   "authors": [
+    "Molly Espey"
+   ],
+   "year": 2011,
+   "venue": "Team-Based Learning in the Social Sciences and Humanities (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Valuing Teams: What Influences Student Attitudes?",
+   "authors": [
+    "Molly Espey"
+   ],
+   "year": 2010,
+   "venue": "NACTA Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Does Space Matter? Classroom Design and Team-Based Learning",
+   "authors": [
+    "Molly Espey"
+   ],
+   "year": 2008,
+   "venue": "Review of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

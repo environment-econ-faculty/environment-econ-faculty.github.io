@@ -1,0 +1,138 @@
+{
+ "slug": "christopher-malloy",
+ "name": "Christopher Malloy",
+ "sources": [
+  "https://malloyc.github.io/cmalloyecon/cm_cv.pdf",
+  "https://chrismalloyecon.com/"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Sources: CV (July 2026; bylines as printed, Nature Energy author lists abbreviated 'et al' style on CV expanded using homepage) and homepage (abstract text for the refinery draft, not used as a paper). Undated working papers given year 2026. The homepage's 'Energy Transition and Public Finances in Oil Refining Communities' (with Thivierge) is 'draft coming soon' and not on the CV: included as a working paper. The 'Value of Electricity Transmission...' item is work in progress with no draft: omitted.",
+ "papers": [
+  {
+   "title": "The Consequences of Wildfire Liability for Firm Precaution: Evidence from Power Shutoffs in California",
+   "authors": [
+    "Christopher Malloy"
+   ],
+   "year": 2026,
+   "venue": "Journal of Public Economics",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/pii/S0047272725002518",
+   "abstract": null
+  },
+  {
+   "title": "The Impact of North American Winter Weather Regimes on Electricity Load in the Central United States",
+   "authors": [
+    "Oliver T. Millin",
+    "Christopher Malloy",
+    "Jason Furtado"
+   ],
+   "year": 2024,
+   "venue": "npj Climate and Atmospheric Science",
+   "status": "已发表",
+   "url": "https://www.nature.com/articles/s41612-024-00803-1",
+   "abstract": null
+  },
+  {
+   "title": "Causal Effects of Renewable Portfolio Standards on Renewable Investments and Generation: The Role of Heterogeneity and Dynamics",
+   "authors": [
+    "Olivier Deschenes",
+    "Christopher Malloy",
+    "Gavin McDonald"
+   ],
+   "year": 2023,
+   "venue": "Resource and Energy Economics",
+   "status": "已发表",
+   "url": "https://authors.elsevier.com/c/1hkcr3JBKJ4-of",
+   "abstract": null
+  },
+  {
+   "title": "Well setbacks limit California's oil supply with larger health benefits and employment losses than excise and carbon taxes",
+   "authors": [
+    "R. Deshmukh",
+    "P. Weber",
+    "O. Deschenes",
+    "D. Hernandez-Cortes",
+    "T. Kordell",
+    "C. Malloy",
+    "T. Mangin",
+    "M. Meng",
+    "S. Sum",
+    "V. Thivierge",
+    "A. Uppal",
+    "K. Meng"
+   ],
+   "year": 2023,
+   "venue": "Nature Energy",
+   "status": "已发表",
+   "url": "https://www.nature.com/articles/s41560-023-01273-0",
+   "abstract": null
+  },
+  {
+   "title": "Equitable low-carbon transition pathways for California's oil extraction",
+   "authors": [
+    "R. Deshmukh",
+    "P. Weber",
+    "O. Deschenes",
+    "D. Hernandez-Cortes",
+    "T. Kordell",
+    "C. Malloy",
+    "T. Mangin",
+    "M. Meng",
+    "S. Sum",
+    "V. Thivierge",
+    "A. Uppal",
+    "K. Meng"
+   ],
+   "year": 2023,
+   "venue": "Nature Energy",
+   "status": "已发表",
+   "url": "https://www.nature.com/articles/s41560-023-01259-y",
+   "abstract": null
+  },
+  {
+   "title": "Health, labor, and equity in the low carbon transition of California's petroleum refineries",
+   "authors": [
+    "Christopher Malloy",
+    "M. Meng",
+    "D. Hernandez-Cortes",
+    "T. Mangin",
+    "V. Thivierge",
+    "R. Deshmukh",
+    "P. Weber",
+    "O. Deschenes",
+    "D. W. Lea",
+    "K. C. Meng"
+   ],
+   "year": 2026,
+   "venue": "Nature Communications",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Market Dispatch and Emissions in US Electricity Markets: Spatial Reallocation and Operational Efficiency",
+   "authors": [
+    "Christopher Malloy",
+    "Sara Asgari Gouraj",
+    "Qihong Liu"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Energy Transition and Public Finances in Oil Refining Communities",
+   "authors": [
+    "Christopher Malloy",
+    "Vincent Thivierge"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

@@ -1,0 +1,252 @@
+{
+ "slug": "edward-perry",
+ "name": "Edward Perry",
+ "sources": [
+  "https://edwardperry.weebly.com"
+ ],
+ "collected": "2026-11-06",
+ "notes": "From homepage (list matches CV dated 08-16-2026). Byline order as given. Moschini & Perry JIE paper shown 'forthcoming' on homepage but published 2026 (JIE 74(2)) per Moschini's CV: recorded as published. Working papers 'in preparation' listed on page kept as working papers with year 2026 (page date); titleless works in progress omitted. No abstracts on page. Some listed first-author initials/names as on page.",
+ "papers": [
+  {
+   "title": "Innovation, licensing, and competition: Evidence from genetically engineered crops",
+   "authors": [
+    "G. Moschini",
+    "E.D. Perry"
+   ],
+   "year": 2026,
+   "venue": "The Journal of Industrial Economics",
+   "status": "已发表",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4994525",
+   "abstract": null
+  },
+  {
+   "title": "Agricultural innovation for climate change: Limited but positive impacts of commercialized drought-tolerant corn",
+   "authors": [
+    "S. Lee",
+    "G. Moschini",
+    "E.D. Perry"
+   ],
+   "year": 2024,
+   "venue": "Environmental Research Letters",
+   "status": "已发表",
+   "url": "https://doi.org/10.1088/1748-9326/ad8ad5",
+   "abstract": null
+  },
+  {
+   "title": "Premium subsidies and selection in the federal crop insurance program",
+   "authors": [
+    "J. Yu",
+    "E.D. Perry"
+   ],
+   "year": 2024,
+   "venue": "Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/1477-9552.12555",
+   "abstract": null
+  },
+  {
+   "title": "Switching costs in the U.S. seed industry: Technology adoption and welfare impacts",
+   "authors": [
+    "J. Luo",
+    "G. Moschini",
+    "E.D. Perry"
+   ],
+   "year": 2023,
+   "venue": "International Journal of Industrial Organization",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/abs/pii/S0167718723000589",
+   "abstract": null
+  },
+  {
+   "title": "Genetically engineered varieties and applied pesticide toxicity in U.S. maize and soybeans: Heterogeneous and evolving impacts",
+   "authors": [
+    "S. Lee",
+    "G. Moschini",
+    "E.D. Perry"
+   ],
+   "year": 2023,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/abs/pii/S0921800923001362",
+   "abstract": null
+  },
+  {
+   "title": "Uncertainty and learning in a technologically dynamic industry: Seed density in U.S. maize",
+   "authors": [
+    "E.D. Perry",
+    "G. Moschini",
+    "D.A. Hennessy"
+   ],
+   "year": 2022,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "https://www.card.iastate.edu/faculty/profiles/giancarlo_moschini/perry-hennessy-moschini_ajae-2022.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Using insurance data to quantify the multidimensional impacts of climate on yield risk",
+   "authors": [
+    "E.D. Perry",
+    "Jisang Yu",
+    "Jesse Tack"
+   ],
+   "year": 2020,
+   "venue": "Nature Communications",
+   "status": "已发表",
+   "url": "https://www.nature.com/articles/s41467-020-17707-2",
+   "abstract": null
+  },
+  {
+   "title": "Neonicotinoids in U.S. Maize: Insecticide substitution effects and environmental risk",
+   "authors": [
+    "E.D. Perry",
+    "G. Moschini"
+   ],
+   "year": 2020,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "https://www.card.iastate.edu/faculty/profiles/giancarlo_moschini/perry-moschini-jeem-2020.pdf",
+   "abstract": null
+  },
+  {
+   "title": "The on-farm and near-farm effects of wind turbines on agricultural land values",
+   "authors": [
+    "G.S. Sampson",
+    "E.D. Perry",
+    "M.R. Taylor"
+   ],
+   "year": 2020,
+   "venue": "Journal of Agricultural and Resource Economics",
+   "status": "已发表",
+   "url": "https://ageconsearch.umn.edu/record/302463/files/JARE%2C45.3%2CSeptember2020%2C%232%2CSampson%2C410-427w_Supplement.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Valuing product innovation: Genetically engineered varieties in U.S. corn and soybeans",
+   "authors": [
+    "F. Ciliberto",
+    "G. Moschini",
+    "E.D. Perry"
+   ],
+   "year": 2019,
+   "venue": "The RAND Journal of Economics",
+   "status": "已发表",
+   "url": "https://www.card.iastate.edu/faculty/profiles/giancarlo_moschini/Ciliberto-Moschini-Perry_RAND-2019.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Product concentration and usage: Behavioral effects in the glyphosate market",
+   "authors": [
+    "E.D. Perry",
+    "D.A. Hennessy",
+    "G. Moschini"
+   ],
+   "year": 2019,
+   "venue": "Journal of Economic Behavior and Organization",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/pii/S0167268118303561",
+   "abstract": null
+  },
+  {
+   "title": "Peer effects in the diffusion of water saving agricultural technologies",
+   "authors": [
+    "G.S. Sampson",
+    "E.D. Perry"
+   ],
+   "year": 2019,
+   "venue": "Agricultural Economics",
+   "status": "已发表",
+   "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/agec.12518",
+   "abstract": null
+  },
+  {
+   "title": "Examining U.S. grain marketing and farm supply cooperatives' sustainable growth rates",
+   "authors": [
+    "N. Smart",
+    "B. Briggeman",
+    "J. Tack",
+    "E.D. Perry"
+   ],
+   "year": 2019,
+   "venue": "Agribusiness",
+   "status": "已发表",
+   "url": "https://doi.org/10.1002/agr.21609",
+   "abstract": null
+  },
+  {
+   "title": "The role of peer effects in natural resource appropriation - The case of groundwater",
+   "authors": [
+    "G.S. Sampson",
+    "E.D. Perry"
+   ],
+   "year": 2019,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "https://academic.oup.com/ajae/article/101/1/154/5219026",
+   "abstract": null
+  },
+  {
+   "title": "Genetically engineered crops and pesticide use in U.S. maize and soybeans",
+   "authors": [
+    "E.D. Perry",
+    "F. Ciliberto",
+    "D.A. Hennessy",
+    "G. Moschini"
+   ],
+   "year": 2016,
+   "venue": "Science Advances",
+   "status": "已发表",
+   "url": "http://advances.sciencemag.org/content/2/8/e1600850/tab-article-info",
+   "abstract": null
+  },
+  {
+   "title": "Testing for complementarity: Glyphosate tolerant soybeans and conservation tillage",
+   "authors": [
+    "E.D. Perry",
+    "G. Moschini",
+    "D.A. Hennessy"
+   ],
+   "year": 2016,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "https://academic.oup.com/ajae/article/98/3/765/2195952",
+   "abstract": null
+  },
+  {
+   "title": "Quantifying the welfare impacts of crop insurance policy changes: Evidence in U.S. corn",
+   "authors": [
+    "E.D. Perry",
+    "J. Yu"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Is a yield slowdown on the horizon? Assessing the relationship between yield plant population in U.S. corn",
+   "authors": [
+    "E.D. Perry",
+    "A. Tian"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The impact of warmer temperatures on planting dates: Evidence from U.S. corn",
+   "authors": [
+    "J. Green",
+    "E.D. Perry"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

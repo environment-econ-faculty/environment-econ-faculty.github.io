@@ -28,6 +28,9 @@
   const schoolRank = (name) => (SCHOOL.get(name) || {}).rank ?? 999;
   const schoolZh = (name) => (SCHOOL.get(name) || {}).zh || "";
   const schoolShort = (name) => (SCHOOL.get(name) || {}).short || name;
+  const rkLabel = (m) => (m && m.region && m.region !== "美国") ? m.region : (m && m.rank != null ? "#" + m.rank : "");
+  const REGIONS = ["美国", "中国香港", "新加坡"];
+  const regionOf = (name) => (SCHOOL.get(name) || {}).region || "美国";
   const editUrl = (id) => `${CONFIG.repoUrl}/edit/main/data/scholars/${encodeURIComponent(id)}.md`;
   const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
   const link = (url, text) => url ? `<a href="${esc(url)}" target="_blank" rel="noopener">${esc(text)}</a>` : "";
@@ -151,9 +154,10 @@
   }
 
   // ------------------------------------------------------- scholar directory ----
-  const S = { q: "", school: "", rank: "", tier: "", unit: "", subs: new Set(), group: true };
+  const S = { q: "", region: "", school: "", rank: "", tier: "", unit: "", subs: new Set(), group: true };
 
   function scholarMatches(s, ignore) {
+    if (ignore !== "region" && S.region && regionOf(s.school) !== S.region) return false;
     if (ignore !== "school" && S.school && s.school !== S.school) return false;
     if (ignore !== "rank" && S.rank && s.rank !== S.rank) return false;
     if (ignore !== "tier" && S.tier && s.tier !== S.tier) return false;
@@ -169,7 +173,7 @@
   }
 
   function renderScholars(q) {
-    S.q = q.get("q") || ""; S.school = q.get("school") || ""; S.rank = q.get("rank") || "";
+    S.q = q.get("q") || ""; S.region = q.get("region") || ""; S.school = q.get("school") || ""; S.rank = q.get("rank") || "";
     S.tier = q.get("tier") || ""; S.unit = q.get("unit") || ""; S.group = q.get("flat") !== "1";
     S.subs = new Set((q.get("sub") || "").split(",").filter(Boolean));
 
@@ -182,10 +186,10 @@
     const byUnit = (u) => list.filter((s) => s.unit_type === u).length;
     const subCounts = {};
     for (const s of all) if (scholarMatches(s, "subs")) for (const f of s.subfields) subCounts[f] = (subCounts[f] || 0) + 1;
-    const schoolsSorted = [...D.schools].filter((s) => s.n).sort((a, b) => a.rank - b.rank || a.name.localeCompare(b.name));
+    const schoolsSorted = [...D.schools].filter((s) => s.n && (!S.region || (s.region || "美国") === S.region)).sort((a, b) => a.rank - b.rank || a.name.localeCompare(b.name));
 
     app.innerHTML = `
-      <p class="intro">收录美国 US News 2025 经济学排名前 60 院校中，<b>经济系、农经/资源经济系、公共政策学院、商学院与环境学院</b>里研究能源、环境与资源经济学（EEE）的经济学家（助理教授、副教授、正教授），整理其研究方向、教育背景与职业经历，并收录其发表论文与工作论文。点击卡片查看详情。</p>
+      <p class="intro">收录美国 US News 2025 经济学排名前 100 院校（含并列至第 97 名），以及香港 6 所（港大、港中文、港科大、城大、理大、浸会）和新加坡 3 所（NUS、NTU、SMU）大学中，<b>经济系、农经/资源经济系、公共政策学院、商学院与环境学院</b>里研究能源、环境与资源经济学（EEE）的经济学家（助理教授、副教授、正教授），整理其研究方向、教育背景与职业经历，并收录其发表论文与工作论文。点击卡片查看详情。</p>
       <section class="stats">
         <div class="stat"><div class="n">${list.length}</div><div class="l">位学者${list.length !== all.length ? `（共 ${all.length}）` : ""}</div>
           <div class="sub">正教授 ${byRank("正教授")} · 副教授 ${byRank("副教授")} · 助理教授 ${byRank("助理教授")}</div></div>
@@ -197,8 +201,9 @@
       <section class="controls">
         <div class="row">
           <input id="f-q" type="search" placeholder="搜索姓名 / 院校 / 院系 / 毕业学校 / 研究关键词 …" value="${esc(S.q)}" autocomplete="off">
+          <select id="f-region"><option value="">全部地区</option>${REGIONS.map((r) => opt(r, `${r} (${all.filter((s) => regionOf(s.school) === r && scholarMatches(s, "region")).length})`, S.region)).join("")}</select>
           <select id="f-school"><option value="">全部院校</option>${schoolsSorted.map((s) =>
-            opt(s.name, `#${s.rank} ${s.zh}（${s.short}） ${cnt("school", s.name, "school")}`, S.school)).join("")}</select>
+            opt(s.name, `${rkLabel(s)} ${s.zh}（${s.short}） ${cnt("school", s.name, "school")}`, S.school)).join("")}</select>
           <select id="f-unit"><option value="">全部单位类型</option>${UNITS.map((u) => opt(u, `${u} (${cnt("unit_type", u, "unit")})`, S.unit)).join("")}</select>
           <select id="f-rank"><option value="">全部职称</option>${RANKS.map((r) => opt(r, `${r} (${cnt("rank", r, "rank")})`, S.rank)).join("")}</select>
           <select id="f-tier"><option value="">全部层级</option>${TIERS.map((t) => opt(t, `${t} (${cnt("tier", t, "tier")})`, S.tier)).join("")}</select>
@@ -223,15 +228,16 @@
       for (const s of list) { if (!groups.has(s.school)) groups.set(s.school, []); groups.get(s.school).push(s); }
       box.innerHTML = [...groups].map(([sch, xs]) => {
         const m = SCHOOL.get(sch) || {};
-        return `<div class="group-h"><span class="rk">#${m.rank ?? ""}</span><span class="nm">${esc(m.zh || sch)}</span><span class="zh">${esc(sch)}</span><span class="n">${xs.length} 人</span></div>
+        return `<div class="group-h"><span class="rk">${esc(rkLabel(m))}</span><span class="nm">${esc(m.zh || sch)}</span><span class="zh">${esc(sch)}</span><span class="n">${xs.length} 人</span></div>
           <div class="cards">${xs.map(card).join("")}</div>`;
       }).join("");
     } else box.innerHTML = `<div class="cards">${list.map(card).join("")}</div>`;
 
-    const push = () => setQuery("/", { q: S.q, school: S.school, rank: S.rank, tier: S.tier, unit: S.unit,
+    const push = () => setQuery("/", { q: S.q, region: S.region, school: S.school, rank: S.rank, tier: S.tier, unit: S.unit,
       sub: [...S.subs].join(","), flat: !S.group });
     const rerender = () => { push(); renderScholars(route().q); };
     bindSearch("f-q", (v) => { S.q = v; rerender(); });
+    document.getElementById("f-region").onchange = (e) => { S.region = e.target.value; S.school = ""; rerender(); };
     document.getElementById("f-school").onchange = (e) => { S.school = e.target.value; rerender(); };
     document.getElementById("f-unit").onchange = (e) => { S.unit = e.target.value; rerender(); };
     document.getElementById("f-rank").onchange = (e) => { S.rank = e.target.value; rerender(); };
@@ -515,12 +521,12 @@
     for (const s of D.scholars) units[s.unit_type || "经济系"] = (units[s.unit_type || "经济系"] || 0) + 1;
 
     app.innerHTML = `
-      <p class="intro">按 US News 2025 经济学研究生项目排名列出前 60 所院校（含并列）。点击某一行查看该校学者。</p>
+      <p class="intro">美国院校按 US News 2025 经济学研究生项目排名（前 100，含并列至第 97 名）排列，其后为香港与新加坡院校。点击某一行查看该校学者。</p>
       <div class="split">
         <section class="tbl-wrap"><table>
           <thead><tr><th>排名</th><th>院校</th><th class="num">学者</th><th class="num">经济系</th><th class="num">其他院系</th><th class="num">核心领域</th><th class="num">论文</th></tr></thead>
           <tbody>${rows.map((r) => `<tr class="${r.n ? "clk" : ""}" data-school="${esc(r.name)}">
-            <td>#${r.rank}</td>
+            <td>${esc(rkLabel(r))}</td>
             <td><b>${esc(r.zh)}</b> <span class="small">${esc(r.name)}</span>${r.note ? `<div class="small">${esc(r.note)}</div>` : ""}</td>
             <td class="num">${r.n}<span class="bar" style="width:${r.n ? Math.max(4, 60 * r.n / max) : 0}px"></span></td>
             <td class="num">${per(r.name, (s) => (s.unit_type || "经济系") === "经济系")}</td>
@@ -545,11 +551,11 @@
   function renderAbout() {
     app.innerHTML = `<article class="prose">
       <h2>这是什么</h2>
-      <p>本站整理美国顶尖院校中研究<b>能源、环境与资源经济学</b>（Energy, Environmental &amp; Resource Economics, EEE）的经济学家，包括研究方向、本科/硕士/博士教育背景、职业经历，以及他们的发表论文与工作论文，方便同学了解领域学者、选择申请方向、寻找合作者。</p>
+      <p>本站整理美国、香港与新加坡顶尖院校中研究<b>能源、环境与资源经济学</b>（Energy, Environmental &amp; Resource Economics, EEE）的经济学家，包括研究方向、本科/硕士/博士教育背景、职业经历，以及他们的发表论文与工作论文，方便同学了解领域学者、选择申请方向、寻找合作者。</p>
 
       <h2>收录范围</h2>
       <ul>
-        <li><b>院校</b>：US News 2025 经济学研究生项目排名前 60（含并列）。</li>
+        <li><b>院校</b>：美国 US News 2025 经济学研究生项目排名前 100（含并列至第 97 名；不含无经济学教员的 RAND、Teachers College、UCSF）；香港大学、香港中文大学、香港科技大学、香港城市大学、香港理工大学、香港浸会大学；新加坡国立大学、南洋理工大学、新加坡管理大学。</li>
         <li><b>院系</b>：经济系，以及农业/应用/资源经济系（如 Berkeley ARE、Davis ARE、Maryland AREC、Cornell Dyson）、公共政策学院（如 HKS、SIPA、Harris）、商学院（如 Wharton BEPP、Haas）、环境学院（如 Yale School of the Environment、Duke Nicholas）等。</li>
         <li><b>人员</b>：须为经济学家（经济学、农业/资源经济学博士，或以经济学研究为主的公共政策博士），不收录环境科学家、工程师等；农经系仅收录研究涉及环境、能源、资源、气候、水、土地的学者。</li>
         <li><b>职称</b>：在编（tenure-line）的助理教授、副教授、正教授；不含讲师、教学型教职、研究员、访问学者、博士后和荣休教授。</li>

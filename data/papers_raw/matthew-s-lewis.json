@@ -1,0 +1,302 @@
+{
+ "slug": "matthew-s-lewis",
+ "name": "Matthew S. Lewis",
+ "sources": [
+  "https://mslewis.people.clemson.edu/"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Source: homepage (full bylines given). Forthcoming REStat and 'current research' working papers have no year on page; set to 2026 (page date). Two older working papers (Competition and Quality Choice; Market Power in California's Gasoline Market) also dated 2026 for lack of year. Volumes stripped from venues. CV not used.",
+ "papers": [
+  {
+   "title": "Negotiating Coordination: A Study in Retail Gasoline",
+   "authors": [
+    "David P. Byrne",
+    "Nicolas de Roos",
+    "Matthew S. Lewis",
+    "Leslie M. Marx",
+    "Xiaosong Wu"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6338858",
+   "abstract": null
+  },
+  {
+   "title": "New Evidence on How Much Electric Vehicles are Driven",
+   "authors": [
+    "Matthew S. Lewis"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Dynamic Demand in Retail Gasoline Markets",
+   "authors": [
+    "Jack Buckley",
+    "David P. Byrne",
+    "Nicolas de Roos",
+    "Matthew Elias",
+    "Matthew S. Lewis",
+    "Aditya Maitra",
+    "Xiaosong Wu"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How Gasoline Price Elasticity Varies with Income",
+   "authors": [
+    "Jack Buckley",
+    "David P. Byrne",
+    "Nicolas de Roos",
+    "Matthew Elias",
+    "Matthew S. Lewis",
+    "Aditya Maitra",
+    "Xiaosong Wu"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Price Coordination with Asymmetric Information Sharing: Theory and Evidence",
+   "authors": [
+    "David P. Byrne",
+    "Nicolas de Roos",
+    "Matthew S. Lewis",
+    "Leslie M. Marx",
+    "Xiaosong Wu"
+   ],
+   "year": 2026,
+   "venue": "Review of Economics and Statistics",
+   "status": "即将发表",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4923791",
+   "abstract": null
+  },
+  {
+   "title": "Asymmetric Information Sharing in Oligopoly: A Natural Experiment in Retail Gasoline",
+   "authors": [
+    "David P. Byrne",
+    "Nicolas de Roos",
+    "Matthew S. Lewis",
+    "Leslie M. Marx",
+    "Xiaosong Wu"
+   ],
+   "year": 2025,
+   "venue": "Journal of Political Economy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1086/734872",
+   "abstract": null
+  },
+  {
+   "title": "Multimarket Contact and Price Discrimination",
+   "authors": [
+    "Haobin Fan",
+    "Matthew S. Lewis"
+   ],
+   "year": 2024,
+   "venue": "International Journal of Industrial Organization",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.ijindorg.2024.103089",
+   "abstract": null
+  },
+  {
+   "title": "Consumer Search with Learning in the Retail Gasoline Market",
+   "authors": [
+    "Xiaosong Wu",
+    "Matthew S. Lewis",
+    "Frank A. Wolak"
+   ],
+   "year": 2024,
+   "venue": "RAND Journal of Economics",
+   "status": "已发表",
+   "url": "http://dx.doi.org/10.1111/1756-2171.12466",
+   "abstract": null
+  },
+  {
+   "title": "Reference Dependence in the Demand for Gasoline",
+   "authors": [
+    "Laurence Levin",
+    "Matthew S. Lewis",
+    "Frank A. Wolak"
+   ],
+   "year": 2022,
+   "venue": "Journal of Economic Behavior and Organization",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jebo.2022.03.003",
+   "abstract": null
+  },
+  {
+   "title": "Identifying Airline Price Discrimination and the Effect of Competition",
+   "authors": [
+    "Matthew S. Lewis"
+   ],
+   "year": 2021,
+   "venue": "International Journal of Industrial Organization",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.ijindorg.2021.102761",
+   "abstract": null
+  },
+  {
+   "title": "On the Absence of Directional Price Discrimination in the U.S. Airline Industry",
+   "authors": [
+    "Matthew S. Lewis"
+   ],
+   "year": 2020,
+   "venue": "Journal of Industrial Economics",
+   "status": "已发表",
+   "url": "http://dx.doi.org/10.1111/joie.12230",
+   "abstract": null
+  },
+  {
+   "title": "High Frequency Evidence on the Demand for Gasoline",
+   "authors": [
+    "Laurence Levin",
+    "Matthew S. Lewis",
+    "Frank A. Wolak"
+   ],
+   "year": 2017,
+   "venue": "American Economic Journal: Economic Policy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1257/pol.20140093",
+   "abstract": null
+  },
+  {
+   "title": "Hospital Systems and Bargaining Power: Evidence from Out-Of-Market Acquisitions",
+   "authors": [
+    "Matthew S. Lewis",
+    "Kevin E. Pflum"
+   ],
+   "year": 2017,
+   "venue": "RAND Journal of Economics",
+   "status": "已发表",
+   "url": "http://dx.doi.org/10.1111/1756-2171.12186",
+   "abstract": null
+  },
+  {
+   "title": "Diagnosing Hospital System Bargaining Power in Managed Care Networks",
+   "authors": [
+    "Matthew S. Lewis",
+    "Kevin E. Pflum"
+   ],
+   "year": 2015,
+   "venue": "American Economic Journal: Economic Policy",
+   "status": "已发表",
+   "url": "http://pubs.aeaweb.org/doi/pdfplus/10.1257/pol.20130009",
+   "abstract": null
+  },
+  {
+   "title": "Odd Prices at Retail Gasoline Stations: Focal Point Pricing and Tacit Collusion",
+   "authors": [
+    "Matthew S. Lewis"
+   ],
+   "year": 2015,
+   "venue": "Journal of Economics and Management Strategy",
+   "status": "已发表",
+   "url": "http://dx.doi.org/10.1111/jems.12103",
+   "abstract": null
+  },
+  {
+   "title": "Price Leadership and Coordination in Retail Gasoline Markets with Price Cycles",
+   "authors": [
+    "Matthew S. Lewis"
+   ],
+   "year": 2012,
+   "venue": "International Journal of Industrial Organization",
+   "status": "已发表",
+   "url": "http://dx.doi.org/10.1016/j.ijindorg.2011.12.002",
+   "abstract": null
+  },
+  {
+   "title": "When Do Consumers Search?",
+   "authors": [
+    "Matthew S. Lewis",
+    "Howard P. Marvel"
+   ],
+   "year": 2011,
+   "venue": "Journal of Industrial Economics",
+   "status": "已发表",
+   "url": "http://dx.doi.org/10.1111/j.1467-6451.2011.00459.x",
+   "abstract": null
+  },
+  {
+   "title": "The Speed of Gasoline Price Response in Markets with and without Edgeworth Cycles",
+   "authors": [
+    "Matthew Lewis",
+    "Michael Noel"
+   ],
+   "year": 2011,
+   "venue": "Review of Economics and Statistics",
+   "status": "已发表",
+   "url": "http://dx.doi.org/10.1162/REST_a_00176",
+   "abstract": null
+  },
+  {
+   "title": "Asymmetric Price Adjustment and Consumer Search: An Examination of the Retail Gasoline Market",
+   "authors": [
+    "Matthew S. Lewis"
+   ],
+   "year": 2011,
+   "venue": "Journal of Economics and Management Strategy",
+   "status": "已发表",
+   "url": "http://dx.doi.org/10.1111/j.1530-9134.2011.00293.x",
+   "abstract": null
+  },
+  {
+   "title": "Temporary Wholesale Gasoline Price Spikes have Long Lasting Retail Effects: The Aftermath of Hurricane Rita",
+   "authors": [
+    "Matthew S. Lewis"
+   ],
+   "year": 2009,
+   "venue": "Journal of Law and Economics",
+   "status": "已发表",
+   "url": "http://dx.doi.org/10.1086/592056",
+   "abstract": null
+  },
+  {
+   "title": "Price Dispersion and Competition with Differentiated Sellers",
+   "authors": [
+    "Matthew Lewis"
+   ],
+   "year": 2008,
+   "venue": "Journal of Industrial Economics",
+   "status": "已发表",
+   "url": "http://dx.doi.org/10.1111/j.1467-6451.2008.00348.x",
+   "abstract": null
+  },
+  {
+   "title": "Competition and Quality Choice in Hospital Markets",
+   "authors": [
+    "Matthew S. Lewis",
+    "Kevin E. Pflum"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Market Power in California's Gasoline Market",
+   "authors": [
+    "Severin Borenstein",
+    "James Bushnell",
+    "Matthew Lewis"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://haas.berkeley.edu/wp-content/uploads/2019/05/csemwp132.pdf",
+   "abstract": null
+  }
+ ]
+}

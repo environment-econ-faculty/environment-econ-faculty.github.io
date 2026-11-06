@@ -1,0 +1,393 @@
+{
+ "slug": "charles-towe",
+ "name": "Charles Towe",
+ "sources": [
+  "https://are.media.uconn.edu/wp-content/uploads/sites/2327/2025/07/Towe-Charles_cv_2025.pdf",
+  "https://are.uconn.edu/person/charles-towe/"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Source: CV (2025 version, newer than the Towe_cv_2023 link in the batch file, which returned 404). Bylines as on CV. Working-paper years as given on CV. Book chapters included (Oxford/Routledge handbooks, Yale UP). \"Ongoing projects\" without drafts skipped. Status for Dang et al. is \"Submitted\" -> working paper; Groffman et al. is R&R (journal not named).",
+ "papers": [
+  {
+   "title": "Naturally Occurring Preferences and Exogenous Laboratory Experiments -- A Case Study of Risk Aversion",
+   "authors": [
+    "Glenn Harrison",
+    "John List",
+    "Charles Towe"
+   ],
+   "year": 2007,
+   "venue": "Econometrica",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Effects of Moratoria on Residential Development: Evidence from Howard County, MD",
+   "authors": [
+    "Antonio Bento",
+    "Charles Towe",
+    "Jacqueline Geoghegan"
+   ],
+   "year": 2007,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Empirical Examination of the Timing of Land Conversions in the Presence of Farmland Preservation Programs",
+   "authors": [
+    "Charles Towe",
+    "Cindy Nickerson",
+    "Nancy Bockstael"
+   ],
+   "year": 2008,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Credit Constraints: Their Existence, Determinants, and Implications for U.S. Farm and Non-Farm Sole-Proprietors",
+   "authors": [
+    "Brian Briggeman",
+    "Charles Towe",
+    "Mitch Morehart"
+   ],
+   "year": 2009,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Valuation of Subdivision Open Space by Type",
+   "authors": [
+    "Charles Towe"
+   ],
+   "year": 2009,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Hybrid Land Conversion Model Incorporating Multiple End Uses",
+   "authors": [
+    "Nikhil Kaza",
+    "Charles Towe",
+    "Xin Ye"
+   ],
+   "year": 2011,
+   "venue": "Agricultural and Resource Economics Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Contagion Effect of Neighboring Foreclosures",
+   "authors": [
+    "Charles Towe",
+    "Chad Lawley"
+   ],
+   "year": 2013,
+   "venue": "American Economic Journal: Economic Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Vegetable Spirits and Renewable Fuels",
+   "authors": [
+    "Charles Towe",
+    "Constant Tra"
+   ],
+   "year": 2013,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Using Quasi-experimental Methods to Evaluate Land Policies: Application to Maryland's Priority Funding Legislation",
+   "authors": [
+    "Charles Towe",
+    "Rebecca Lewis",
+    "Lori Lynch"
+   ],
+   "year": 2014,
+   "venue": "The Oxford Handbook of Land Economics (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Capitalized Costs of Habitat Conservation Easements",
+   "authors": [
+    "Chad Lawley",
+    "Charles Towe"
+   ],
+   "year": 2014,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Consumer Willingness to Pay for Grass Fed Beef: A Conjoint Survey and Experimental Economics Approach",
+   "authors": [
+    "Aaron Adalja",
+    "Jim Hanson",
+    "Charles Towe",
+    "Elina Tselepidakis"
+   ],
+   "year": 2015,
+   "venue": "Agricultural and Resource Economics Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Information v. Energy Efficiency Incentives: Evidence from Residential Electricity Consumption in Maryland",
+   "authors": [
+    "Anna Alberini",
+    "Charles Towe"
+   ],
+   "year": 2015,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Free Riding, Upsizing, and Energy Efficiency Incentives in Maryland Homes",
+   "authors": [
+    "Anna Alberini",
+    "Will Gans",
+    "Charles Towe"
+   ],
+   "year": 2016,
+   "venue": "The Energy Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Impact of Ethanol plants on Farmland Structure: Evidence from the U.S. June Agricultural Survey",
+   "authors": [
+    "Constant Tra",
+    "Charles Towe"
+   ],
+   "year": 2016,
+   "venue": "Applied Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Exploiting spatial and temporal variations in residential subdivision development to identify urban growth spillovers",
+   "authors": [
+    "Charles Towe",
+    "Allen Klaiber",
+    "Doug Wrenn"
+   ],
+   "year": 2017,
+   "venue": "Land Use Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Habitat Conservation in Agricultural Landscapes",
+   "authors": [
+    "Chad Lawley",
+    "Charles Towe"
+   ],
+   "year": 2018,
+   "venue": "The Routledge Handbook of Agricultural Economics (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Value of School Quality: Evidence from Housing Booms and Busts",
+   "authors": [
+    "Constant Tra",
+    "Charles Towe"
+   ],
+   "year": 2019,
+   "venue": "Journal of Regional Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Evaluating the Effects of River and Stream Restorations: Evidence from Recreational Fishing",
+   "authors": [
+    "Michele Baggio",
+    "Charles Towe",
+    "Daniel Trüssel",
+    "Armin Peter"
+   ],
+   "year": 2020,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Valuation of Urban Restored Streams Using Repeat Sales and Instrumental Variables",
+   "authors": [
+    "Charles Towe",
+    "H. Allen Klaiber",
+    "Joe Maher",
+    "Will Georgic"
+   ],
+   "year": 2021,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Household Willingness to Pay for Stream Restoration on Private and Public Land: Evidence from the Baltimore Metropolitan Region",
+   "authors": [
+    "Andrew Rosenberg",
+    "David Newburn",
+    "Charles Towe"
+   ],
+   "year": 2023,
+   "venue": "Journal of the American Water Resources Association",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Recreational Home Owners' Impact on Agricultural Land Use",
+   "authors": [
+    "Charles Towe",
+    "Zhenshan Chen"
+   ],
+   "year": 2023,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Pricing Coastal Amenities and Flood Hazards",
+   "authors": [
+    "Zhenshan Chen",
+    "Charles Towe"
+   ],
+   "year": 2024,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Challenges Facing Agritourism: How Are Producers Coping?",
+   "authors": [
+    "Cristina Connolly",
+    "Carolanne Cusack",
+    "Anita Morzillo",
+    "Charles Towe"
+   ],
+   "year": 2025,
+   "venue": "Choices",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Heterogeneous Flood Zone Effects on Coastal Housing Prices - Risk Signal and Mandatory Costs",
+   "authors": [
+    "Zhenshan Chen",
+    "Charles Towe",
+    "Xi He"
+   ],
+   "year": 2025,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Science for the Sustainable City",
+   "authors": [
+    "Elena Irwin",
+    "J. Morgan Grove",
+    "Nicholas Irwin",
+    "H. Allen Klaiber",
+    "Charles Towe",
+    "Austin Troy"
+   ],
+   "year": 2019,
+   "venue": "Yale University Press (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Heterogeneity in Public's Preferences for Wind and Solar Farm Development in Northeast US: A Discrete Choice Experiment",
+   "authors": [
+    "Ruirui Dang",
+    "Sachin Badole",
+    "Charles Towe",
+    "Martin Heintzelman"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Sweet Spots for Nitrogen Restoration in a Coastal Watershed",
+   "authors": [
+    "Peter Groffman",
+    "Alexander Reisinger",
+    "Ruoyu Zhang",
+    "Dexter Locke",
+    "Andrew Rosenberg",
+    "David Newburn",
+    "Jonathan Duncan",
+    "Lawrence Band",
+    "J. Morgan Grove",
+    "Andrew Miller",
+    "Charles Towe"
+   ],
+   "year": 2025,
+   "venue": "Working Paper (R&R)",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Sorting over the Dual Risk of Coastal Housing Market - Who Surfs the Tide, Who Bears the Brunt?",
+   "authors": [
+    "Zhenshan Chen",
+    "Charles Towe"
+   ],
+   "year": 2023,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Housing Market Impacts of Noise Pollution: Evidence from a Natural Experiment",
+   "authors": [
+    "Charles Towe",
+    "Michele Baggio",
+    "Zhenshan Chen"
+   ],
+   "year": 2022,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

@@ -1,0 +1,1035 @@
+{
+ "slug": "dale-manning",
+ "name": "Dale Manning",
+ "sources": [
+  "https://baker.utk.edu/wp-content/uploads/2026/04/Dale-Manning-CV_March2026.docx"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Source: CV (March 2026, docx). Bylines as printed in CV; for the 2019 'Complements of the House' entry the CV byline omits Manning's name (recorded as printed). Undated working papers given year 2026 (CV date); IFPRI 2013, NBER 2022, microgrid 2017 from CV. Outreach pieces, conference-proceedings papers (IEEE, Energy Policy Research Conf) and unspecified reports omitted. Science 2026 and 2025 articles are listed without volume info.",
+ "papers": [
+  {
+   "title": "The fiscal impact of biodiversity loss and a pathway for conservation finance",
+   "authors": [
+    "Anya Nakhmurina",
+    "Dale T. Manning",
+    "Eli P. Fenichel"
+   ],
+   "year": 2026,
+   "venue": "Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Abatement subsidies for groundwater conservation",
+   "authors": [
+    "Mani Rouhi Rad",
+    "Jordan Suter",
+    "Dale Manning",
+    "Chris Goemans"
+   ],
+   "year": 2025,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Quantitative comparison of Ad-Valorem Equivalents for non-tariff trade measures: WTO vs. TRAINS",
+   "authors": [
+    "Sionegael Ikeme",
+    "Diane Charlton",
+    "Amanda Countryman",
+    "Dale T. Manning"
+   ],
+   "year": 2025,
+   "venue": "Applied Economics Perspectives and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Inland Flooding in the United States: A Review of Research Related to Risk Management, Economic Behavior, and Data Resources",
+   "authors": [
+    "Diellza Muriqi",
+    "Jude Bayham",
+    "Chris Goemans",
+    "Dale Manning",
+    "Jordan Suter"
+   ],
+   "year": 2025,
+   "venue": "Environmental Research Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "US employment exposure to domestic and foreign tariff changes under NAFTA",
+   "authors": [
+    "Diane Charlton",
+    "Amanda Countryman",
+    "Dale T. Manning",
+    "Sionegael Ikeme"
+   ],
+   "year": 2025,
+   "venue": "Applied Economics Perspectives and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Once Bitten, Twice Shy? Direct and Indirect Effects of Weather Shocks on Fertilizer and Improved Seed Use",
+   "authors": [
+    "Kelvin Mulungu",
+    "Dale T. Manning",
+    "Martina Bozzola"
+   ],
+   "year": 2025,
+   "venue": "Food Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Insurance and Extraction Incentives in a Common Pool Resource: Evidence from Groundwater Use in the High Plains",
+   "authors": [
+    "Matthew Sloggy",
+    "Dale T. Manning",
+    "Chris Goemans",
+    "Roger Claassen"
+   ],
+   "year": 2025,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Farm Production, Marketing, and Children's Nutritional Outcomes in Rural Zambia",
+   "authors": [
+    "Kelvin Mulungu",
+    "Dale T. Manning",
+    "Chiza Kumwenda",
+    "Lukonde Mwelwa",
+    "Lackson Mudenda"
+   ],
+   "year": 2025,
+   "venue": "Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Natural capital and aggregate income growth",
+   "authors": [
+    "Dale T. Manning",
+    "Ed Barbier"
+   ],
+   "year": 2025,
+   "venue": "Environment and Development Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Integrated water management under different water rights institutions and population patterns: Methodology and application",
+   "authors": [
+    "A.A. Gharib",
+    "M. Arabi",
+    "C. Goemans",
+    "D.T. Manning",
+    "A. Maas"
+   ],
+   "year": 2024,
+   "venue": "Water Resources Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Impact of randomly assigned 'pay-as-you-go' liquefied petroleum gas prices on energy use for cooking: Experimental pilot evidence from rural Rwanda",
+   "authors": [
+    "Rebecca Witinok-Huber",
+    "Kayleigh P. Keller",
+    "Egide Abimana",
+    "Cleophas Ahishakiye",
+    "Howard H. Chang",
+    "Christian L'Orange",
+    "Dale T. Manning",
+    "Richard Mori",
+    "Eddy Frank Muhirwa",
+    "Liliane Muhongerwa",
+    "Theoneste Ntakirutimana",
+    "Elisa Puzzolo",
+    "Casey Quinn",
+    "Ghislaine Rosa",
+    "Ky Tanner",
+    "Bonnie N. Young",
+    "Daniel Zimmerle",
+    "Egide Kalisak",
+    "John Volckens",
+    "Maggie L. Clark"
+   ],
+   "year": 2024,
+   "venue": "Energy for Sustainable Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Environmental and Natural Resource Economics and Systemic Racism",
+   "authors": [
+    "Amy W. Ando",
+    "Titus O. Awokuse",
+    "Nathan W. Chan",
+    "Jimena Gonzalez-Ramirez",
+    "Sumeet Gulati",
+    "Matthew G. Interis",
+    "Sarah Jacobson",
+    "Dale Manning",
+    "Samuel Stolper"
+   ],
+   "year": 2024,
+   "venue": "Review of Environmental Economics and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Policy Challenges to Enhance Soil Carbon Sinks: The Dirty Part of Making Contributions to the Paris Agreement by the United States",
+   "authors": [
+    "Stephen Ogle",
+    "Richard T. Conant",
+    "Bart Fischer",
+    "Barbara K. Haya",
+    "Dale T. Manning",
+    "Bruce A. McCarl",
+    "Tamara Jane Zelikova"
+   ],
+   "year": 2023,
+   "venue": "Carbon Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Counterfactual Scenarios Reveal Historical Impact of Cropland Management on Soil Organic Carbon Stocks in the United States",
+   "authors": [
+    "Stephen Ogle",
+    "F. Jay Breidt",
+    "Stephen Del Grosso",
+    "Ram Gurung",
+    "Ernie Marx",
+    "Shannon Spencer",
+    "Stephen Williams",
+    "Dale Manning"
+   ],
+   "year": 2023,
+   "venue": "Scientific Reports",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Impact of Weather Shocks on Food Security: How Effective are Forests as Natural Insurance?",
+   "authors": [
+    "Kelvin Mulungu",
+    "Dale T. Manning"
+   ],
+   "year": 2023,
+   "venue": "Journal of Development Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Optimal R&D investment in the management of invasive species",
+   "authors": [
+    "William Haden Chomphosy",
+    "Dale T. Manning",
+    "Stephan Weiler",
+    "Stephanie Swift"
+   ],
+   "year": 2023,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Assessment of vulnerability to water shortage in semi-arid river basins: The value of demand reduction and storage capacity",
+   "authors": [
+    "Ahmed Gharib",
+    "Joey Blumberg",
+    "Dale T. Manning",
+    "Chris Goemans",
+    "Mazdak Arabi"
+   ],
+   "year": 2023,
+   "venue": "Science of the Total Environment",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Further evidence on social comparison and residential water use",
+   "authors": [
+    "S. Lurbe",
+    "J. Burkhardt",
+    "C. Goemans",
+    "D. Manning",
+    "L. Hans"
+   ],
+   "year": 2022,
+   "venue": "Water Resources and Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Estimation of field-scale irrigation withdrawals in the Ogallala aquifer",
+   "authors": [
+    "Steven Filippelli",
+    "Matthew Sloggy",
+    "Jody Vogeler",
+    "Dale Manning",
+    "Christopher Goemans",
+    "Gabriel Senay"
+   ],
+   "year": 2022,
+   "venue": "Agricultural Water Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Ecosystem Services and Land Rental Markets: Producer Costs of Bat Population Crashes",
+   "authors": [
+    "Dale Manning",
+    "Amy Ando"
+   ],
+   "year": 2022,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Local Effects of Federal Law Enforcement Policies: Evidence from Sanctuary Jurisdictions and Crime",
+   "authors": [
+    "Jesse Burkhardt",
+    "Dale Manning"
+   ],
+   "year": 2022,
+   "venue": "Contemporary Economic Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Changing climate, changing minds? The effects of natural disasters on public perceptions of climate change",
+   "authors": [
+    "Matthew Sloggy",
+    "Jordan Suter",
+    "Mani Rouhi Rad",
+    "Dale T. Manning",
+    "Christopher Goemans"
+   ],
+   "year": 2021,
+   "venue": "Climatic Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Policy Leakage or Policy Benefit? Spatial Spillovers from Conservation Policies in Common Property Resources",
+   "authors": [
+    "Mani Rouhi Rad",
+    "Dale T. Manning",
+    "Jordan F. Suter",
+    "Christopher Goemans"
+   ],
+   "year": 2021,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Impacts of Block-Rate Energy Pricing on Groundwater Demand in Irrigated Agriculture",
+   "authors": [
+    "Aaron Hrozencik",
+    "Dale T. Manning",
+    "Jordan F. Suter",
+    "Christopher Goemans"
+   ],
+   "year": 2022,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Groundwater Depletion, Climate, and the Incremental Value of Groundwater",
+   "authors": [
+    "Jordan Suter",
+    "Mani Rouhi Rad",
+    "Dale Manning",
+    "Chris Goemans",
+    "Matthew Sanderson"
+   ],
+   "year": 2021,
+   "venue": "Resource and Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Academic Stars and Energy Stars, an Assessment of Student Academic Achievement and School Building Energy Efficiency",
+   "authors": [
+    "Jenny Apriesnig",
+    "Dale Manning",
+    "Jordan Suter",
+    "Jeni Cross",
+    "Sheryl Magzamen"
+   ],
+   "year": 2020,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Non-Market Valuation in Integrated Assessment Modeling: The Benefits of Water Right Retirement",
+   "authors": [
+    "Dale T. Manning",
+    "Mani Rouhi Rad",
+    "Jordan Suter",
+    "Chris Goemans",
+    "Zaichen Xiang",
+    "Ryan Baily"
+   ],
+   "year": 2020,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Spatially variable taxation and resource extraction: The impact of state oil taxes on drilling in the US",
+   "authors": [
+    "Jason Brown",
+    "Peter Maniloff",
+    "Dale Manning"
+   ],
+   "year": 2020,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Who Pays for Water Scarcity? Evaluating the Welfare Implications of Water Infrastructure Investments for Cities",
+   "authors": [
+    "Hua Zhong",
+    "Michael Taylor",
+    "Kimberly Rollins",
+    "Dale Manning",
+    "Chris Goemans"
+   ],
+   "year": 2019,
+   "venue": "The Annals of Regional Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Response of Municipal Water Use to Weather across the Contiguous US",
+   "authors": [
+    "Nicole Opalinski",
+    "Aditi Bhaskar",
+    "Dale T. Manning"
+   ],
+   "year": 2019,
+   "venue": "Journal of the American Water Resources Association",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/1752-1688.12801",
+   "abstract": null
+  },
+  {
+   "title": "An Economic and Biophysical Model of Deficit Irrigation",
+   "authors": [
+    "Thomas J. Trout",
+    "Dale T. Manning"
+   ],
+   "year": 2019,
+   "venue": "Agronomy Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Determinants of the marginal willingness to pay for improved domestic water and irrigation in partially electrified Rwandan villages",
+   "authors": [
+    "Simon Meunier",
+    "Dale T. Manning",
+    "Dan Zimmerle",
+    "Loic Queval",
+    "Judith Cherni",
+    "Philippe Dessante"
+   ],
+   "year": 2019,
+   "venue": "International Journal of Sustainable Development and World Ecology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Complements of the House: Estimating Demand-side Linkages between Residential Water and Electricity",
+   "authors": [
+    "Alexander Maas",
+    "Chris Goemans",
+    "Jesse Burkhardt",
+    "Mazdak Arabi"
+   ],
+   "year": 2019,
+   "venue": "Water Resources and Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.wre.2019.02.001",
+   "abstract": null
+  },
+  {
+   "title": "Private Actions and Preferences for Coordinated Groundwater Conservation in Colorado's Republican River Basin",
+   "authors": [
+    "Ryan Shepler",
+    "Jordan Suter",
+    "Dale Manning",
+    "Chris Goemans"
+   ],
+   "year": 2019,
+   "venue": "Journal of the American Water Resources Association",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/1752-1688.12741",
+   "abstract": null
+  },
+  {
+   "title": "Uncertainty, Learning, and Local Opposition to Hydraulic Fracturing",
+   "authors": [
+    "Joshua Hess",
+    "Dale Manning",
+    "Terry Iverson",
+    "Harvey Cutler"
+   ],
+   "year": 2019,
+   "venue": "Resource and Energy Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.reseneeco.2018.11.001",
+   "abstract": null
+  },
+  {
+   "title": "The Role of Well Capacity Constraints in Determining Gains from Groundwater Management",
+   "authors": [
+    "Dale Manning",
+    "Jordan Suter"
+   ],
+   "year": 2019,
+   "venue": "Journal of Agricultural and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Impact of Institutional and Land Use Change on Local Incomes in Chilean Patagonia",
+   "authors": [
+    "A. Patrick Behrer",
+    "Dale T. Manning",
+    "Andrew Seidl"
+   ],
+   "year": 2019,
+   "venue": "Journal of Development Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Assessing the Relative Sustainability of Smallholder Farming Systems in Ethiopian Highlands",
+   "authors": [
+    "Vine Mutyasira",
+    "Dana Hoag",
+    "Dale Manning",
+    "Dustin Pendell"
+   ],
+   "year": 2018,
+   "venue": "Agricultural Systems",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.agsy.2018.08.006",
+   "abstract": null
+  },
+  {
+   "title": "Values and Groundwater Management in the Ogallala Aquifer Region",
+   "authors": [
+    "Stephen Lauer",
+    "Matthew Sanderson",
+    "Dale Manning",
+    "Jordan Suter",
+    "Aaron Hrozencik",
+    "Bridget Guerrero",
+    "Karina Schoengold",
+    "Bill Golden"
+   ],
+   "year": 2018,
+   "venue": "Journal of Soil and Water Conservation",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Is Sustainable Intensification Possible? Evidence from Ethiopia",
+   "authors": [
+    "Vine Mutyasira",
+    "Dana Hoag",
+    "Dustin Pendell",
+    "Dale Manning"
+   ],
+   "year": 2018,
+   "venue": "Sustainability",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "State Severance Tax Competition and the Division of Natural Resource Rents",
+   "authors": [
+    "Peter Maniloff",
+    "Dale T. Manning"
+   ],
+   "year": 2018,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic Viability of Deficit Irrigation in the Western US",
+   "authors": [
+    "Dale T. Manning",
+    "Salvador Lurbe",
+    "Louise H. Comas",
+    "Thomas J. Trout",
+    "Nora Flynn",
+    "Steven J. Fonte"
+   ],
+   "year": 2018,
+   "venue": "Agricultural Water Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Retiring Land to Save Water: Participation in Colorado's Republican River Conservation Reserve Enhancement Program",
+   "authors": [
+    "Randall Monger",
+    "Jordan F. Suter",
+    "Dale T. Manning",
+    "Joel P. Schneekloth"
+   ],
+   "year": 2018,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "General Equilibrium Tragedy of the Commons",
+   "authors": [
+    "Dale T. Manning",
+    "J. Edward Taylor",
+    "James Wilen"
+   ],
+   "year": 2018,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Climate Change and Labor Allocation in Mexico: Evidence from Annual Fluctuations in Weather",
+   "authors": [
+    "Katrina Jessoe",
+    "Dale T. Manning",
+    "J. Edward Taylor"
+   ],
+   "year": 2018,
+   "venue": "Economic Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Heterogeneous Impacts of Groundwater Management Policies in the Republican River Basin of Colorado",
+   "authors": [
+    "Aaron Hrozencik",
+    "Dale T. Manning",
+    "Jordan Suter",
+    "Christopher Goemans",
+    "Ryan Bailey"
+   ],
+   "year": 2017,
+   "venue": "Water Resources Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Mitigating Climate Change in Africa: Barriers to Financing Low-Carbon Development",
+   "authors": [
+    "Adenle Ademola",
+    "Dale T. Manning",
+    "Joseph Arbiol"
+   ],
+   "year": 2017,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Dilemmas, Coordination and Defection: How Uncertain Tipping Points Induce Common Pool Resource Destruction",
+   "authors": [
+    "Alexander S. Maas",
+    "Christopher G. Goemans",
+    "Dale T. Manning",
+    "Stephan Kroll",
+    "Thomas C. Brown"
+   ],
+   "year": 2017,
+   "venue": "Games and Economic Behavior",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Evaluating the Effect of Conservation Motivations on Residential Water Demand",
+   "authors": [
+    "Alexander Maas",
+    "Christopher G. Goemans",
+    "Dale T. Manning",
+    "Stephan Kroll",
+    "Mazdak Arabi",
+    "Mariana Rodriguez-McGoffina"
+   ],
+   "year": 2017,
+   "venue": "Journal of Environmental Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Producer Responses to Surface Water Availability and Implications for Climate Change Adaptation",
+   "authors": [
+    "Dale T. Manning",
+    "Christopher Goemans",
+    "Alexander Maas"
+   ],
+   "year": 2017,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Multidisciplinary Research Framework on School Environment, Occupant Health and Performance",
+   "authors": [
+    "Sheryl Magzamen",
+    "Jennifer Cross",
+    "Jordan Suter",
+    "Adam Mayer",
+    "Stephanie Barr",
+    "Lenora Bohren",
+    "Brian Dunbar",
+    "Joshua Schaeffer",
+    "Dale T. Manning",
+    "Stephen Reynolds"
+   ],
+   "year": 2017,
+   "venue": "Journal of School Health",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Water Storage in a Changing Environment: The Impact of Allocation Institutions on Value",
+   "authors": [
+    "Alexander Maas",
+    "Dale T. Manning",
+    "Christopher Goemans",
+    "Andre Dozier"
+   ],
+   "year": 2017,
+   "venue": "Water Resources Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Consumer Preferences for Fixed versus Variable Quantities of Electricity: Joint Estimation of Contingent Quantity and Valuation Methods",
+   "authors": [
+    "Dale T. Manning",
+    "John B. Loomis"
+   ],
+   "year": 2016,
+   "venue": "Environment and Development Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Are Two Rents better than None? When Monopolies Correct ill-defined Property Rights",
+   "authors": [
+    "Dale T. Manning",
+    "Hirotsugu Uchida"
+   ],
+   "year": 2016,
+   "venue": "Marine Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Agricultural Efficiency and Labor Supply to Common Property Resource Collection: Lessons from rural Mexico",
+   "authors": [
+    "Dale T. Manning",
+    "J. Edward Taylor"
+   ],
+   "year": 2015,
+   "venue": "Journal of Agricultural and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Using Contingent Behavior Analysis to Measure Benefits from Rural Electrification in Developing Countries: An Example from Rwanda",
+   "authors": [
+    "Dale T. Manning",
+    "Peter Means",
+    "Daniel Zimmerle",
+    "Kathleen Galvin",
+    "John Loomis",
+    "Keith Paustian"
+   ],
+   "year": 2015,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Evaluation of the Social and Private Efficiency of Adoption: Anaerobic Digesters and Greenhouse Gas Mitigation",
+   "authors": [
+    "Dale T. Manning",
+    "Joleen C. Hadrich"
+   ],
+   "year": 2015,
+   "venue": "Journal of Environmental Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Migration and Fuel Use in Rural Mexico",
+   "authors": [
+    "Dale T. Manning",
+    "J. Edward Taylor"
+   ],
+   "year": 2014,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Market Integration and Natural Resource Use in Developing Countries: A Linked Agrarian-resource Economy in Northern Honduras",
+   "authors": [
+    "Dale T. Manning",
+    "J. Edward Taylor",
+    "James E. Wilen"
+   ],
+   "year": 2014,
+   "venue": "Environment and Development Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Analysis Reveals Potential Rangeland Impacts if Williamson Act Eliminated",
+   "authors": [
+    "W. Wetzel",
+    "I. Lacher",
+    "D. Swezey",
+    "S. Moffitt",
+    "D. Manning"
+   ],
+   "year": 2012,
+   "venue": "California Agriculture",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Producer Beliefs and Conservation: The Impact of Perceived Water Scarcity on Irrigation Technology Adoption",
+   "authors": [
+    "J. Blumberg",
+    "C. Goemans",
+    "D. Manning"
+   ],
+   "year": 2022,
+   "venue": "NBER Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Private Value for Farmers of Increasing Soil Organic Carbon in Croplands of the United States",
+   "authors": [
+    "Dale Manning",
+    "Mani Rouhi Rad",
+    "Stephen Ogle"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "What's Past is Prologue? The Effect of Prior Losses on Agricultural Risk Management",
+   "authors": [
+    "Cal Bryan",
+    "Matt Sloggy",
+    "Chris Goemans",
+    "Dale Manning"
+   ],
+   "year": 2026,
+   "venue": "Working Paper (AAEA conference paper)",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Unconventional Oil and Gas Development and Student Performance on Standardized Tests",
+   "authors": [
+    "Gal Koss",
+    "Jordan Suter",
+    "Dale Manning"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Natural Insurance and Weak Substitutability: Using Insurance Markets to Value Groundwater Stocks in Kansas",
+   "authors": [
+    "Matt Sloggy",
+    "Dale Manning"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Learning through Experience: The Impact of Technology Reliability on Adoption and Use",
+   "authors": [
+    "Salvador Lurbe",
+    "Jesse Burkhardt",
+    "Dale Manning"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Urban Growth and Rural Welfare: Accounting for Resource Competition and Trade Linkages",
+   "authors": [
+    "Dale Manning"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Evaluating the Local Economywide Impacts of Irrigation Projects",
+   "authors": [
+    "M. Filipski",
+    "D. Manning",
+    "J. Taylor",
+    "X. Diao",
+    "A. Pradesha"
+   ],
+   "year": 2013,
+   "venue": "IFPRI Discussion Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Experimental Approach to Assessing the Influence of Information about Conservation Impacts",
+   "authors": [
+    "Aaron Hrozencik",
+    "Jordan Suter",
+    "Chris Goemans",
+    "Dale Manning"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Optimizing Rural Village Micro Grids to Provide Affordable and Reliable Renewable Electricity in Developing Countries: An Application to Rwanda",
+   "authors": [
+    "Dale Manning",
+    "Daniel Zimmerle",
+    "Sule Amadu"
+   ],
+   "year": 2017,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Carbon Leapfrogging in Less-Developed Countries",
+   "authors": [
+    "Dale Manning"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Assessing the Impacts of Recent Drought on Ecosystem Service-based Sectors, Criminal Activity, and Health Outcomes in Arizona, Colorado, New Mexico, and Utah",
+   "authors": [
+    "Alex Maas",
+    "Chris Goemans",
+    "Jesse Burkhardt",
+    "Dale Manning"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

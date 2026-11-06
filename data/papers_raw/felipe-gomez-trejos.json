@@ -1,0 +1,134 @@
+{
+ "slug": "felipe-gomez-trejos",
+ "name": "Felipe Gómez Trejos",
+ "sources": [
+  "https://www.felipegomeztrejos.com/home",
+  "https://www.felipegomeztrejos.com/research",
+  "https://liberalarts.tulane.edu/sites/default/files/GomezTrejos_May%202023.pdf"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Research page (newer than May-2023 CV). Undated working papers given year 2026 (page date). Capacity-markets paper author order not stated: alphabetical. Work-in-progress items (3, no draft) skipped. IDB paper listed as working paper series. No abstracts shown.",
+ "papers": [
+  {
+   "title": "The Role of Managerial Risk Preferences on Effectiveness of Wind Subsidies",
+   "authors": [
+    "Felipe Gomez-Trejos"
+   ],
+   "year": 2026,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/pii/S0140988326003002",
+   "abstract": null
+  },
+  {
+   "title": "Do Severe Storms Affect Air Quality in High-population Urban Centers? Evidence from Extreme Weather Events in Texas",
+   "authors": [
+    "Felipe Gomez-Trejos",
+    "Jordan Lopez",
+    "Qinzheng Xu"
+   ],
+   "year": 2026,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/pii/S0140988326000708",
+   "abstract": null
+  },
+  {
+   "title": "Dynamic Welfare Implications of Market-based Climate Policy Under Demand Uncertainty",
+   "authors": [
+    "Felipe Gomez-Trejos"
+   ],
+   "year": 2025,
+   "venue": "Journal of Economic Behavior and Organization",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/pii/S0167268125003099",
+   "abstract": null
+  },
+  {
+   "title": "A Note on How Demand Uncertainty Matters for Emissions Regulation in Energy Markets",
+   "authors": [
+    "Felipe Gomez-Trejos"
+   ],
+   "year": 2025,
+   "venue": "Economics Letters",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.econlet.2025.112434",
+   "abstract": null
+  },
+  {
+   "title": "A Note on Energy Sourcing and Federal Tax Credits to Wind Investments",
+   "authors": [
+    "Felipe Gomez-Trejos"
+   ],
+   "year": 2025,
+   "venue": "Economics Letters",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.econlet.2025.112334",
+   "abstract": null
+  },
+  {
+   "title": "Market Power, Industry Concentration and Trade Liberalization: Evidence from Costa Rica",
+   "authors": [
+    "Daniela Córdoba Solano",
+    "Felipe Gomez-Trejos",
+    "Alberto Vindas Quesada"
+   ],
+   "year": 2025,
+   "venue": "Inter-American Development Bank Working Paper",
+   "status": "工作论文",
+   "url": "http://dx.doi.org/10.18235/0013429",
+   "abstract": null
+  },
+  {
+   "title": "Do Procurement Contracts Matter for Cost-effectiveness of Output Subsidies? An Equilibrium Analysis for the Texas Wind Power Industry",
+   "authors": [
+    "Felipe Gomez-Trejos"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://drive.google.com/file/d/1IFtNKLcJTEkg0VGowAcWB3PHOLsCnSsa/view?usp=sharing",
+   "abstract": null
+  },
+  {
+   "title": "Do Capacity Markets Affect Investment Dynamics? Evidence from Generator Entry and Retirements",
+   "authors": [
+    "Gaurav Doshi",
+    "Felipe Gomez-Trejos",
+    "Jordan Lopez"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Cap-and-trade vs. Carbon Taxes: The Role of Transaction Costs and Social Cost of Carbon Uncertainty",
+   "authors": [
+    "Felipe Gomez-Trejos",
+    "Diego Ascarza-Mendoza"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://drive.google.com/file/d/1YO1x9mhxvf-CrdXhafbyvNK1_iw5jvBs/view?usp=sharing",
+   "abstract": null
+  },
+  {
+   "title": "Industry Heterogeneity in Market Power Responses to Import Tax Changes: Evidence from Firm Tax Records",
+   "authors": [
+    "Felipe Gomez-Trejos",
+    "Daniela Cordoba",
+    "Alejandro Gonzalez",
+    "Alberto Vindas",
+    "Maria Zamora"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://drive.google.com/file/d/1EjNRhthuIpkL_io28dr_5nceumu8vvPl/view?usp=drive_link",
+   "abstract": null
+  }
+ ]
+}

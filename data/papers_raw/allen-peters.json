@@ -1,0 +1,47 @@
+{
+ "slug": "allen-peters",
+ "name": "Allen Peters",
+ "sources": [
+  "https://alpeters.github.io/research/",
+  "https://alpeters.github.io/"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Source: homepage research page (CV PDF not fetched). Page lists only working papers/in-progress items with no dates; year set to 2026 (page date; arXiv 2610 id). Abstracts are paraphrases from the page, so left null. \"In progress\" items without a draft or authors, and unlisted/no-draft projects, skipped. 0 published articles.",
+ "papers": [
+  {
+   "title": "Beached Assets? Capital Turnover and Emissions in Shipping",
+   "authors": [
+    "Allen Peters"
+   ],
+   "year": 2026,
+   "venue": "Working Paper (job market paper)",
+   "status": "工作论文",
+   "url": "https://alpeters.github.io/assets/pdf/Peters_JMP.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Modeling Shipping Emissions: Machine Learning, Engineering, and Policy Counterfactuals",
+   "authors": [
+    "Allen Peters",
+    "Hiroyuki Kasahara",
+    "Oliver Xu"
+   ],
+   "year": 2026,
+   "venue": "arXiv Working Paper",
+   "status": "工作论文",
+   "url": "https://arxiv.org/abs/2610.01008",
+   "abstract": null
+  },
+  {
+   "title": "Estimating Time Preferences with Structure: Crop Rotations in Agriculture",
+   "authors": [
+    "Allen Peters"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://alpeters.github.io/assets/pdf/Peters_Estimating_Time_Preferences_with_Structure-WP.pdf",
+   "abstract": null
+  }
+ ]
+}

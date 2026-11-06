@@ -1,0 +1,135 @@
+{
+ "slug": "cuicui-chen",
+ "name": "Cuicui Chen",
+ "sources": [
+  "https://www.cuicuichen.com/research",
+  "https://www.dropbox.com/scl/fi/a3pa6vjq7476aqeic0uzz/Cuicui_Chen_CV.pdf?dl=0"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Sources: homepage research page and CV (Nov 2026). CV uses '(with ...)' so authors are alphabetical by surname incl. scholar (only an approximation of true bylines). Working paper has no year; set to 2026 (CV date). Skipped Belfer policy brief, IEEE conference proceedings and works in progress.",
+ "papers": [
+  {
+   "title": "Colluding Against Environmental Regulation",
+   "authors": [
+    "Jorge Ale-Chilet",
+    "Cuicui Chen",
+    "Jing Li",
+    "Mathias Reynaert"
+   ],
+   "year": 2026,
+   "venue": "Review of Economic Studies",
+   "status": "已发表",
+   "url": "https://www.dropbox.com/scl/fi/5uoa7rkxho02konvlj86v/Automaker_collusion-29-10-2024.pdf?rlkey=oordu4ctos9ggirhuf8mszeh9&dl=0",
+   "abstract": null
+  },
+  {
+   "title": "Identifying Beliefs in Continuous-Action Dynamic Models: An Application to the U.S. SO2 Allowance Market",
+   "authors": [
+    "Cuicui Chen"
+   ],
+   "year": 2025,
+   "venue": "Review of Economics and Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Partial Identification Framework for Dynamic Games",
+   "authors": [
+    "Jose Miguel Abito",
+    "Cuicui Chen"
+   ],
+   "year": 2023,
+   "venue": "International Journal of Industrial Organization",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How Much Can We Identify from Repeated Games?",
+   "authors": [
+    "Jose Miguel Abito",
+    "Cuicui Chen"
+   ],
+   "year": 2021,
+   "venue": "Economics Bulletin",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Acceptance Sampling for Cost-Effective Surveillance of Emerald Ash Borer in Urban Environments",
+   "authors": [
+    "Cuicui Chen",
+    "Robert G. Haight",
+    "Frank H. Koch",
+    "Ning Liu",
+    "Chris J. K. MacQuarrie",
+    "Krista Ryall",
+    "Robert Venette",
+    "Denys Yemshanov"
+   ],
+   "year": 2020,
+   "venue": "Forestry: An International Journal of Forest Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Managing Biological Invasions in Urban Environments with the Acceptance Sampling Approach",
+   "authors": [
+    "Cuicui Chen",
+    "Robert G. Haight",
+    "Frank H. Koch",
+    "Ning Liu",
+    "Christian J. K. MacQuarrie",
+    "Krista Ryall",
+    "Robert Venette",
+    "Denys Yemshanov"
+   ],
+   "year": 2019,
+   "venue": "PLOS ONE",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Optimal Inspection of Imports to Prevent Invasive Pest Introduction",
+   "authors": [
+    "Cuicui Chen",
+    "Rebecca S. Epanchin-Niell",
+    "Robert G. Haight"
+   ],
+   "year": 2018,
+   "venue": "Risk Analysis",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Collective Action in an Asymmetric World",
+   "authors": [
+    "Cuicui Chen",
+    "Richard Zeckhauser"
+   ],
+   "year": 2018,
+   "venue": "Journal of Public Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Charging Infrastructure and the Electrification of Freight",
+   "authors": [
+    "Cuicui Chen",
+    "Chunyu Guo",
+    "Daiqiang Zhang"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

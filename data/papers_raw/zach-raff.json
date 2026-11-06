@@ -1,0 +1,319 @@
+{
+ "slug": "zach-raff",
+ "name": "Zach Raff",
+ "sources": [
+  "https://cals.ncsu.edu/agricultural-and-resource-economics/wp-content/uploads/sites/46/2025/08/Raff_CV_082025-1.pdf",
+  "https://sites.google.com/site/raffzach/"
+ ],
+ "collected": "2026-11-06",
+ "notes": "From CV dated Aug 2025; homepage fetch showed no paper list. CV gives coauthors only as \"(with ...)\" with initials; authors listed alphabetically by surname per convention (true byline order unknown; initials kept as written). Working paper years set to 2025 (CV date). Skipped government report, other publications, works in progress. Unlabeled working papers (no journal) treated as working papers.",
+ "papers": [
+  {
+   "title": "The effect of water pollution regulation on prices: Evidence from Wisconsin's phosphorus rule and sewer utility bills",
+   "authors": [
+    "A. Meyer",
+    "Zach Raff"
+   ],
+   "year": 2024,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Remotely sensed imagery reveals animal feeding operations increase downstream dissolved reactive phosphorus",
+   "authors": [
+    "A. Meyer",
+    "S. Porter",
+    "Zach Raff"
+   ],
+   "year": 2024,
+   "venue": "Journal of the American Water Resources Association",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do political leaders impact economic freedom at the local level? Evidence from close elections",
+   "authors": [
+    "Zach Raff",
+    "A. Swanson",
+    "D. Zanzalari"
+   ],
+   "year": 2024,
+   "venue": "Public Finance Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Identifying the regulator's objective: Does political support matter?",
+   "authors": [
+    "Zach Raff"
+   ],
+   "year": 2023,
+   "venue": "Public Choice",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Political differences in air pollution abatement under the Clean Air Act",
+   "authors": [
+    "A. Meyer",
+    "Zach Raff",
+    "J.M. Walter"
+   ],
+   "year": 2022,
+   "venue": "Journal of Public Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Perennial grassland agriculture restores critical ecosystem functions in the US Upper Midwest",
+   "authors": [
+    "E.G. Booth",
+    "C. Gratton",
+    "R.D. Jackson",
+    "C. Kucharik",
+    "H.C. Mackin",
+    "A. Orfanou",
+    "Zach Raff",
+    "D. Shrestha",
+    "C. Wepking"
+   ],
+   "year": 2022,
+   "venue": "Frontiers in Sustainable Food Systems",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Employment and environmental protection: The role of regulatory stringency",
+   "authors": [
+    "D. Earnhart",
+    "Zach Raff"
+   ],
+   "year": 2022,
+   "venue": "Journal of Environmental Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "CAFOs and surface water quality: Evidence from Wisconsin",
+   "authors": [
+    "A. Meyer",
+    "Zach Raff"
+   ],
+   "year": 2022,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Shifts in precipitation, hydrology, and land use affects phosphorus concentrations and loads in agricultural watershed",
+   "authors": [
+    "S. Apfelbaum",
+    "A. Meyer",
+    "Zach Raff",
+    "D. Waller"
+   ],
+   "year": 2021,
+   "venue": "Journal of Environmental Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Regulatory avoidance and spillover: The effects of environmental regulation on emissions at coal-fired power plants",
+   "authors": [
+    "Zach Raff",
+    "J.M. Walter"
+   ],
+   "year": 2020,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The effect of environmental enforcement on labor: Environmental workers and production workers",
+   "authors": [
+    "D. Earnhart",
+    "Zach Raff"
+   ],
+   "year": 2020,
+   "venue": "Journal of Regulatory Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Evaluating the efficacy of ambient air quality standards at coal-fired power plants",
+   "authors": [
+    "Zach Raff",
+    "J.M. Walter"
+   ],
+   "year": 2020,
+   "venue": "Journal of Agricultural and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The effects of Clean Water Act enforcement on environmental employment",
+   "authors": [
+    "D. Earnhart",
+    "Zach Raff"
+   ],
+   "year": 2019,
+   "venue": "Resource and Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Effect of cooperative enforcement strategies on wastewater management",
+   "authors": [
+    "D. Earnhart",
+    "Zach Raff"
+   ],
+   "year": 2018,
+   "venue": "Economic Inquiry",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "When the regulator goes home: The effectiveness of environmental inspections and enforcement actions",
+   "authors": [
+    "D. Earnhart",
+    "Zach Raff",
+    "J.M. Walter"
+   ],
+   "year": 2025,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A scoping review of (dis-)incentives for animal welfare-improving farming practices",
+   "authors": [
+    "K. Kuruc",
+    "J. McFadden",
+    "S. Pailler",
+    "Zach Raff",
+    "S. Raszap",
+    "T. Wooley"
+   ],
+   "year": 2025,
+   "venue": "Food Policy",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The differential benefits of market-based water pollution control policy",
+   "authors": [
+    "A. Meyer",
+    "Zach Raff",
+    "A. Wardle"
+   ],
+   "year": 2025,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Concentrated animal feeding operations and the environmental justice of public versus private wells",
+   "authors": [
+    "A. Meyer",
+    "Zach Raff"
+   ],
+   "year": 2025,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Chemical manufacturers' use of treatment capital and environmental labor to manage wastewater: Insight from responses to regulatory enforcement",
+   "authors": [
+    "D. Earnhart",
+    "Zach Raff"
+   ],
+   "year": 2025,
+   "venue": "Water Resources and Economics",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How does precision agriculture affect profitability? Evidence from a nationally representative sample of US dairy farms",
+   "authors": [
+    "J. McFadden",
+    "Zach Raff"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Robotic milking's effects on labor",
+   "authors": [
+    "J. McFadden",
+    "Zach Raff"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Environmental monitoring and enforcement at animal feeding operations: The effects on surface water quality",
+   "authors": [
+    "D. Earnhart",
+    "Zach Raff"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Air quality and productivity: The effects of PM concentrations on dairy yield",
+   "authors": [
+    "A. Burlile",
+    "P. Maniloff",
+    "Zach Raff"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Livestock concentration, school absences, and test scores",
+   "authors": [
+    "D. Ginther",
+    "A. Meyer",
+    "Zach Raff"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

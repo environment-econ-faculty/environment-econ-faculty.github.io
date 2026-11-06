@@ -1,0 +1,352 @@
+{
+ "slug": "casey-j-wichman",
+ "name": "Casey J. Wichman",
+ "sources": [
+  "http://caseyjwichman.com/",
+  "wichman_cv_2026.pdf (Dropbox)"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Homepage papers page (with links) cross-checked with 2026 CV. Excludes research-in-progress, commentary, reports. Undated working papers: year from CV/homepage (Aglar items 2026; Chan et al. R&R 2026).",
+ "papers": [
+  {
+   "title": "Winters of discontent",
+   "authors": [
+    "Casey J. Wichman"
+   ],
+   "year": 2026,
+   "venue": "Journal of Public Economics",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/pii/S0047272726000733",
+   "abstract": null
+  },
+  {
+   "title": "The economics of equity and affordability in residential water pricing",
+   "authors": [
+    "Casey J. Wichman"
+   ],
+   "year": 2025,
+   "venue": "Water Economics and Policy",
+   "status": "已发表",
+   "url": "https://www.worldscientific.com/doi/10.1142/S2382624X25300026",
+   "abstract": null
+  },
+  {
+   "title": "Cost misperception and voting for public goods",
+   "authors": [
+    "Corey Lang",
+    "Casey J. Wichman",
+    "Michael Weir",
+    "Shanna Pearson-Merkowitz"
+   ],
+   "year": 2025,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/ajae.12492",
+   "abstract": null
+  },
+  {
+   "title": "Smart thermostats, automation, and time-varying prices",
+   "authors": [
+    "Joshua Blonz",
+    "Karen Palmer",
+    "Casey J. Wichman",
+    "Derek C. Wietelman"
+   ],
+   "year": 2025,
+   "venue": "American Economic Journal: Applied Economics",
+   "status": "已发表",
+   "url": "https://www.aeaweb.org/articles?id=10.1257/app.20210618",
+   "abstract": null
+  },
+  {
+   "title": "Social media influences National Park visitation",
+   "authors": [
+    "Casey J. Wichman"
+   ],
+   "year": 2024,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "https://www.pnas.org/doi/full/10.1073/pnas.2310417121",
+   "abstract": null
+  },
+  {
+   "title": "Preheating prosocial behaviour",
+   "authors": [
+    "Casey J. Wichman",
+    "Nathan W. Chan"
+   ],
+   "year": 2023,
+   "venue": "Economic Journal",
+   "status": "已发表",
+   "url": "https://academic.oup.com/ej/advance-article/doi/10.1093/ej/uead041/7191248",
+   "abstract": null
+  },
+  {
+   "title": "RCTs against the machine: Can ML prediction methods recover experimental treatment effects?",
+   "authors": [
+    "Brian Prest",
+    "Casey J. Wichman",
+    "Karen Palmer"
+   ],
+   "year": 2023,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "https://www.journals.uchicago.edu/doi/10.1086/724518",
+   "abstract": null
+  },
+  {
+   "title": "Notching for free: Do cyclists reveal the opportunity cost of time?",
+   "authors": [
+    "Casey J. Wichman",
+    "Brandon Cunningham"
+   ],
+   "year": 2023,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/pii/S0095069623000359",
+   "abstract": null
+  },
+  {
+   "title": "Water affordability in the United States",
+   "authors": [
+    "Diego Cardoso",
+    "Casey J. Wichman"
+   ],
+   "year": 2022,
+   "venue": "Water Resources Research",
+   "status": "已发表",
+   "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022WR032206",
+   "abstract": null
+  },
+  {
+   "title": "Valuing nonmarket impacts of climate change on recreation: From reduced form to welfare",
+   "authors": [
+    "Nathan W. Chan",
+    "Casey J. Wichman"
+   ],
+   "year": 2022,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "https://link.springer.com/article/10.1007/s10640-021-00624-3",
+   "abstract": null
+  },
+  {
+   "title": "What should we be teaching students about the economics of climate change: Is there a consensus?",
+   "authors": [
+    "Lynne Lewis",
+    "Casey J. Wichman"
+   ],
+   "year": 2021,
+   "venue": "International Review of Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "https://www.nowpublishers.com/article/Details/IRERE-142",
+   "abstract": null
+  },
+  {
+   "title": "Clustered into control: Heterogeneous causal impacts of water infrastructure failure",
+   "authors": [
+    "Brandon Cunningham",
+    "Jacob LaRiviere",
+    "Casey J. Wichman"
+   ],
+   "year": 2021,
+   "venue": "Economic Inquiry",
+   "status": "已发表",
+   "url": "https://onlinelibrary.wiley.com/doi/10.1111/ecin.12975",
+   "abstract": null
+  },
+  {
+   "title": "Climate change and recreation: Evidence from North American cycling",
+   "authors": [
+    "Nathan W. Chan",
+    "Casey J. Wichman"
+   ],
+   "year": 2020,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "https://link.springer.com/article/10.1007%2Fs10640-020-00420-5",
+   "abstract": null
+  },
+  {
+   "title": "Elasticities and the inverse hyperbolic sine transformation",
+   "authors": [
+    "Marc F. Bellemare",
+    "Casey J. Wichman"
+   ],
+   "year": 2020,
+   "venue": "Oxford Bulletin of Economics and Statistics",
+   "status": "已发表",
+   "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/obes.12325",
+   "abstract": null
+  },
+  {
+   "title": "Interpreting nonlinear semi-elasticities in reduced-form climate damage estimation",
+   "authors": [
+    "Casey J. Wichman"
+   ],
+   "year": 2018,
+   "venue": "Climatic Change",
+   "status": "已发表",
+   "url": "https://link.springer.com/article/10.1007/s10584-018-2197-z",
+   "abstract": null
+  },
+  {
+   "title": "Does water scarcity shift the electricity generation mix toward fossil fuels? Empirical evidence from the United States",
+   "authors": [
+    "Jonathan Eyer",
+    "Casey J. Wichman"
+   ],
+   "year": 2018,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/pii/S0095069616305617",
+   "abstract": null
+  },
+  {
+   "title": "Bicycle infrastructure and traffic congestion: Evidence from DC's Capital Bikeshare",
+   "authors": [
+    "Timothy Hamilton",
+    "Casey J. Wichman"
+   ],
+   "year": 2018,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/pii/S0095069616300420",
+   "abstract": null
+  },
+  {
+   "title": "Information provision and consumer behavior: A natural experiment in billing frequency",
+   "authors": [
+    "Casey J. Wichman"
+   ],
+   "year": 2017,
+   "venue": "Journal of Public Economics",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/pii/S0047272717300804",
+   "abstract": null
+  },
+  {
+   "title": "A cautionary tale on using panel data estimators to measure program impacts",
+   "authors": [
+    "Casey J. Wichman",
+    "Paul J. Ferraro"
+   ],
+   "year": 2017,
+   "venue": "Economics Letters",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/pii/S016517651630489X",
+   "abstract": null
+  },
+  {
+   "title": "Incentives, green preferences, and private provision of impure public goods",
+   "authors": [
+    "Casey J. Wichman"
+   ],
+   "year": 2016,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/pii/S0095069616300699",
+   "abstract": null
+  },
+  {
+   "title": "Conservation policies: Who responds to price and who responds to prescription?",
+   "authors": [
+    "Casey J. Wichman",
+    "Laura O. Taylor",
+    "Roger H. von Haefen"
+   ],
+   "year": 2016,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/pii/S0095069616301243",
+   "abstract": null
+  },
+  {
+   "title": "Perceived price in residential water demand: Evidence from a natural experiment",
+   "authors": [
+    "Casey J. Wichman"
+   ],
+   "year": 2014,
+   "venue": "Journal of Economic Behavior & Organization",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/pii/S0167268114000560",
+   "abstract": null
+  },
+  {
+   "title": "The potential and limitations of consumer-facing energy policy",
+   "authors": [
+    "Nathan W. Chan",
+    "Grant Jacobsen",
+    "Dan Kaffine",
+    "Casey J. Wichman"
+   ],
+   "year": 2026,
+   "venue": "Review of Environmental Economics and Policy",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Conservation and distributional consequences of pricing scarce water during droughts",
+   "authors": [
+    "Derek C. Wietelman",
+    "Casey J. Wichman",
+    "Daniel A. Brent"
+   ],
+   "year": 2025,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "修改重投",
+   "url": "https://www.rff.org/publications/working-papers/conservation-and-distributional-consequences-of-pricing-scarce-water-during-droughts/",
+   "abstract": null
+  },
+  {
+   "title": "Do hyperlocal regulations hinder green technology adoption?",
+   "authors": [
+    "Victoria C. Aglar",
+    "Matthew E. Oliver",
+    "Casey J. Wichman"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Decomposing racial gaps in energy expenditures",
+   "authors": [
+    "Mehmet Akif Aglar",
+    "Robert I. Harris",
+    "Casey J. Wichman"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do behavioral nudges interact with prevailing economic incentives? Pairing experimental and quasi-experimental evidence from water consumption",
+   "authors": [
+    "Daniel A. Brent",
+    "Casey J. Wichman"
+   ],
+   "year": 2022,
+   "venue": "Resources for the Future Working Paper",
+   "status": "工作论文",
+   "url": "https://www.rff.org/publications/working-papers/do-behavioral-nudges-interact-with-prevailing-economic-incentives-pairing-experimental-and-quasi-experimental-evidence-from-water-consumption/",
+   "abstract": null
+  },
+  {
+   "title": "Efficiency, equity, and cost-recovery tradeoffs in municipal water pricing",
+   "authors": [
+    "Casey J. Wichman"
+   ],
+   "year": 2026,
+   "venue": "Resources for the Future Working Paper",
+   "status": "工作论文",
+   "url": "https://www.dropbox.com/scl/fi/c6a73y5lt1ou2h6p3clzy/wichman_water_pricing_2026_v1_public.pdf?rlkey=7gkavic8ilfdzyh32cwsi4333&dl=0",
+   "abstract": null
+  }
+ ]
+}

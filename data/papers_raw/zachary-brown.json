@@ -1,0 +1,501 @@
+{
+ "slug": "zachary-brown",
+ "name": "Zachary Brown",
+ "sources": [
+  "https://openalex.org/A5072684725"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Fallback: homepage/CV unavailable; list from OpenAlex author record(s) affiliated with North Carolina State University (Zachary Steven Brown). May include non-economics coauthored work; working papers mostly absent.",
+ "papers": [
+  {
+   "title": "Soil Capital Investment and Optimal Cover Crop Choice",
+   "authors": [
+    "Zachary Steven Brown",
+    "Le Chen",
+    "Chanheung Cho",
+    "Roderick M. Rejesus"
+   ],
+   "year": 2026,
+   "venue": "AgEcon Search (University of Minnesota, USA)",
+   "status": "已发表",
+   "url": "https://doi.org/10.22004/ag.econ.404397",
+   "abstract": null
+  },
+  {
+   "title": "Dynamically optimal cover crop adoption",
+   "authors": [
+    "Le Chen",
+    "Roderick M. Rejesus",
+    "Zachary Steven Brown",
+    "Christopher N. Boyer",
+    "James A. Larson"
+   ],
+   "year": 2025,
+   "venue": "European Review of Agricultural Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1093/erae/jbaf018",
+   "abstract": null
+  },
+  {
+   "title": "Social Learning in Subsidized Pilot Programs for New Technologies: Dynamic Effects on Demand and Cost-Effectiveness",
+   "authors": [
+    "Zachary Steven Brown",
+    "Maxwell Ayindenaba Dalaba",
+    "Rex Aligiria",
+    "Evan R. Coffey",
+    "Michael S. Jones",
+    "Katherine L. Dickinson"
+   ],
+   "year": 2025,
+   "venue": "SSRN Electronic Journal",
+   "status": "工作论文",
+   "url": "https://doi.org/10.2139/ssrn.5177578",
+   "abstract": null
+  },
+  {
+   "title": "Enhancing non-Bt corn refuge based on corn grower and seed dealer surveys",
+   "authors": [
+    "Alexis Alsdorf",
+    "Dominic Reisig",
+    "Zachary Steven Brown",
+    "Greg Ferraro",
+    "Roderick M. Rejesus"
+   ],
+   "year": 2024,
+   "venue": "Journal of Integrated Pest Management",
+   "status": "已发表",
+   "url": "https://doi.org/10.1093/jipm/pmae027",
+   "abstract": null
+  },
+  {
+   "title": "Food for thought: Assessing the consumer welfare impacts of deploying irreversible, landscape-scale biotechnologies",
+   "authors": [
+    "Michael S. Jones",
+    "Zachary Steven Brown"
+   ],
+   "year": 2023,
+   "venue": "Food Policy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.foodpol.2023.102529",
+   "abstract": null
+  },
+  {
+   "title": "Distributional policy impacts, WTP-WTA disparities, and the Kaldor-Hicks tests in benefit-cost analysis",
+   "authors": [
+    "Zachary Steven Brown"
+   ],
+   "year": 2022,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jeem.2022.102654",
+   "abstract": null
+  },
+  {
+   "title": "Biofuels policy and innovation impacts: Evidence from biofuels and agricultural patent indicators",
+   "authors": [
+    "Kelly P. Nelson",
+    "Lee C. Parton",
+    "Zachary Steven Brown"
+   ],
+   "year": 2022,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.enpol.2021.112767",
+   "abstract": null
+  },
+  {
+   "title": "A glimpse into real-world kitchens: Improving our understanding of cookstove usage through in-field photo-observations and improved cooking event detection (CookED) analytics",
+   "authors": [
+    "Evan R. Coffey",
+    "Elise C. Mesenbring",
+    "Maxwell Ayindenaba Dalaba",
+    "Desmond Agao",
+    "Rex Alirigia",
+    "Taylor Begay",
+    "Ali Moro",
+    "Abraham Rexford Oduro",
+    "Zachary Steven Brown",
+    "Katherine L. Dickinson",
+    "Michael Hannigan"
+   ],
+   "year": 2021,
+   "venue": "Development Engineering",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.deveng.2021.100065",
+   "abstract": null
+  },
+  {
+   "title": "Landscape-level feedbacks in the demand for transgenic pesticidal corn in the Philippines",
+   "authors": [
+    "Zachary Steven Brown",
+    "Lawson Connor",
+    "Roderick M. Rejesus",
+    "Jose M. Yorobe"
+   ],
+   "year": 2020,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.ecolecon.2020.106883",
+   "abstract": null
+  },
+  {
+   "title": "Adoption of Cover Crops under Uncertainty: A Real Options Method",
+   "authors": [
+    "Le Chen",
+    "Roderick M. Rejesus",
+    "Zachary Steven Brown",
+    "Christopher M. Boyer",
+    "James A. Larson"
+   ],
+   "year": 2020,
+   "venue": "RePEc: Research Papers in Economics",
+   "status": "工作论文",
+   "url": "https://doi.org/10.22004/ag.econ.304391",
+   "abstract": null
+  },
+  {
+   "title": "Governing evolution: A socioecological comparison of resistance management for insecticidal transgenic Bt crops among four countries",
+   "authors": [
+    "Yves Carrière",
+    "Zachary Steven Brown",
+    "Sharon Joy Downes",
+    "G. T. Gujar",
+    "Graham Epstein",
+    "Celso Omoto",
+    "Nicholas P. Storer",
+    "David Mota‐Sanchez",
+    "Peter Søgaard Jørgensen",
+    "Scott P. Carroll"
+   ],
+   "year": 2019,
+   "venue": "AMBIO",
+   "status": "已发表",
+   "url": "https://doi.org/10.1007/s13280-019-01167-0",
+   "abstract": null
+  },
+  {
+   "title": "Does the U.S. public support using gene drives in agriculture? And what do they want to know?",
+   "authors": [
+    "Michael S. Jones",
+    "Jason Delborne",
+    "Johanna E. Elsensohn",
+    "Paul D. Mitchell",
+    "Zachary Steven Brown"
+   ],
+   "year": 2019,
+   "venue": "Science Advances",
+   "status": "已发表",
+   "url": "https://doi.org/10.1126/sciadv.aau8462",
+   "abstract": null
+  },
+  {
+   "title": "Antibiotic and pesticide susceptibility and the Anthropocene operating space",
+   "authors": [
+    "Living with Resistance project",
+    "Peter Søgaard Jørgensen",
+    "Athena Aktipis",
+    "Zachary Steven Brown",
+    "Yves Carrière",
+    "Sharon Joy Downes",
+    "Robert R. Dunn",
+    "Graham Epstein",
+    "George B. Frisvold",
+    "David J. Hawthorne",
+    "Yrjo Tapio Grohn",
+    "G. T. Gujar",
+    "Dušan Jasovský",
+    "Eili Y. Klein",
+    "Franziska Klein",
+    "Guillaume Lhermie",
+    "David Mota‐Sanchez",
+    "Celso Omoto",
+    "Maja Schlüter‬",
+    "Harvey Morgan Scott",
+    "Didier Wernli",
+    "Scott P. Carroll"
+   ],
+   "year": 2018,
+   "venue": "Nature Sustainability",
+   "status": "已发表",
+   "url": "https://doi.org/10.1038/s41893-018-0164-3",
+   "abstract": null
+  },
+  {
+   "title": "Liquified Petroleum Gas (LPG) Supply and Demand for Cooking in Northern Ghana",
+   "authors": [
+    "Maxwell Ayindenaba Dalaba",
+    "Rex Alirigia",
+    "Elise C. Mesenbring",
+    "Evan R. Coffey",
+    "Zachary Steven Brown",
+    "Michael Hannigan",
+    "Christine Wiedinmyer",
+    "Abraham Rexford Oduro",
+    "Katherine L. Dickinson"
+   ],
+   "year": 2018,
+   "venue": "EcoHealth",
+   "status": "已发表",
+   "url": "https://doi.org/10.1007/s10393-018-1351-4",
+   "abstract": null
+  },
+  {
+   "title": "Voluntary Programs To Encourage Refuges for Pesticide Resistance Management: Lessons from a Quasi‐Experiment",
+   "authors": [
+    "Zachary Steven Brown"
+   ],
+   "year": 2018,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1093/ajae/aay004",
+   "abstract": null
+  },
+  {
+   "title": "Prices, peers, and perceptions (P3): study protocol for improved biomass cookstove project in northern Ghana",
+   "authors": [
+    "Katherine L. Dickinson",
+    "Maxwell Ayindenaba Dalaba",
+    "Zachary Steven Brown",
+    "Rex Alirigia",
+    "Evan R. Coffey",
+    "Elise C. Mesenbring",
+    "Manies Achazanaga",
+    "Desmond Agao",
+    "Ali Moro",
+    "Ernest Kanyomse",
+    "J. Awaregya",
+    "Clifford Amoah Adagenera",
+    "John Bosco A. Aburiya",
+    "Bernard Gubilla",
+    "Abraham Rexford Oduro",
+    "Michael Hannigan"
+   ],
+   "year": 2018,
+   "venue": "BMC Public Health",
+   "status": "已发表",
+   "url": "https://doi.org/10.1186/s12889-018-6116-z",
+   "abstract": null
+  },
+  {
+   "title": "A roadmap for gene drives: using institutional analysis and development to frame research needs and governance in a systems context",
+   "authors": [
+    "Jennifer Kuzma",
+    "Fred L. Gould",
+    "Zachary Steven Brown",
+    "James P. Collins",
+    "Jason Delborne",
+    "Emma Frow",
+    "Kevin M. Esvelt",
+    "David H. Guston",
+    "Caroline M. Leitschuh",
+    "Kenneth A. Oye",
+    "S. Stauffer"
+   ],
+   "year": 2017,
+   "venue": "Journal of Responsible Innovation",
+   "status": "已发表",
+   "url": "https://doi.org/10.1080/23299460.2017.1410344",
+   "abstract": null
+  },
+  {
+   "title": "Economic issues to consider for gene drives",
+   "authors": [
+    "Paul D. Mitchell",
+    "Zachary Steven Brown",
+    "N. McRoberts"
+   ],
+   "year": 2017,
+   "venue": "Journal of Responsible Innovation",
+   "status": "已发表",
+   "url": "https://doi.org/10.1080/23299460.2017.1407914",
+   "abstract": null
+  },
+  {
+   "title": "Spatial Patterns of Market Participation and Resource Extraction: Fuelwood Collection in Northern Uganda",
+   "authors": [
+    "Daniela A. Miteva",
+    "Randall A. Kramer",
+    "Zachary Steven Brown",
+    "Martin D. Smith"
+   ],
+   "year": 2017,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1093/ajae/aax027",
+   "abstract": null
+  },
+  {
+   "title": "Preference Heterogeneity in the Structural Estimation of Efficient Pigovian Incentives for Insecticide Spraying to Reduce Malaria",
+   "authors": [
+    "Zachary Steven Brown",
+    "Randall A. Kramer"
+   ],
+   "year": 2017,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1007/s10640-017-0115-x",
+   "abstract": null
+  },
+  {
+   "title": "Links between urban structure and life satisfaction in a cross-section of OECD metro areas",
+   "authors": [
+    "Zachary Steven Brown",
+    "Walid Oueslati",
+    "Jérôme Silva"
+   ],
+   "year": 2016,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.ecolecon.2016.05.004",
+   "abstract": null
+  },
+  {
+   "title": "Household perceptions and subjective valuations of indoor residual spraying programmes to control malaria in northern Uganda",
+   "authors": [
+    "Zachary Steven Brown",
+    "Randall A. Kramer",
+    "David Ocan",
+    "Christine Oryema"
+   ],
+   "year": 2016,
+   "venue": "Infectious Diseases of Poverty",
+   "status": "已发表",
+   "url": "https://doi.org/10.1186/s40249-016-0190-1",
+   "abstract": null
+  },
+  {
+   "title": "Partially observable latent class analysis (POLCA): An application to serial participation in mosquito control in Madison, WI",
+   "authors": [
+    "Zachary Steven Brown",
+    "Katherine L. Dickinson",
+    "Susan M. Paskewitz"
+   ],
+   "year": 2016,
+   "venue": "RePEc: Research Papers in Economics",
+   "status": "工作论文",
+   "url": "https://doi.org/10.22004/ag.econ.264979",
+   "abstract": null
+  },
+  {
+   "title": "Exploring the Effect of Urban Structure on Individual Well-Being",
+   "authors": [
+    "Zachary Steven Brown",
+    "Walid Oueslati",
+    "Jérôme Silva"
+   ],
+   "year": 2015,
+   "venue": "OECD environment working papers",
+   "status": "工作论文",
+   "url": "https://doi.org/10.1787/5jrp6wcwqq5k-en",
+   "abstract": null
+  },
+  {
+   "title": "A generalized latent class logit model of discontinuous preferences in repeated discrete choice data: an application to mosquito control in Madison, Wisconsin",
+   "authors": [
+    "Zachary Steven Brown",
+    "Katherine L. Dickinson",
+    "Susan M. Paskewitz"
+   ],
+   "year": 2015,
+   "venue": "RePEc: Research Papers in Economics",
+   "status": "工作论文",
+   "url": "https://doi.org/10.22004/ag.econ.205613",
+   "abstract": null
+  },
+  {
+   "title": "Tender instruments",
+   "authors": [
+    "Zachary Steven Brown",
+    "Bastien Alvarez",
+    "Nick Johnstone"
+   ],
+   "year": 2015,
+   "venue": "OECD environment working papers",
+   "status": "工作论文",
+   "url": "https://doi.org/10.1787/5js4k0t30hvc-en",
+   "abstract": null
+  },
+  {
+   "title": "Greening Household Behaviour",
+   "authors": [
+    "Ysé Serret",
+    "Zachary Steven Brown"
+   ],
+   "year": 2014,
+   "venue": "OECD environment working papers",
+   "status": "工作论文",
+   "url": "https://doi.org/10.1787/5jxrcllt1kq5-en",
+   "abstract": null
+  },
+  {
+   "title": "Better the devil you throw: Experience and support for pay-as-you-throw waste charges",
+   "authors": [
+    "Zachary Steven Brown",
+    "Nick Johnstone"
+   ],
+   "year": 2013,
+   "venue": "Environmental Science & Policy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.envsci.2013.11.007",
+   "abstract": null
+  },
+  {
+   "title": "More than the Sum of their Parts: Valuing Environmental Quality by Combining Life Satisfaction Surveys and GIS Data",
+   "authors": [
+    "Jérôme Silva",
+    "Zachary Steven Brown"
+   ],
+   "year": 2013,
+   "venue": "OECD statistics working papers",
+   "status": "工作论文",
+   "url": "https://doi.org/10.1787/5k4840hfpwkb-en",
+   "abstract": null
+  },
+  {
+   "title": "Testing the Effect of Defaults on the Thermostat Settings of OECD Employees",
+   "authors": [
+    "Zachary Steven Brown"
+   ],
+   "year": 2012,
+   "venue": "RePEc: Research Papers in Economics",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "On the (Mis)Use of Wealth as a Proxy for Risk Aversion",
+   "authors": [
+    "Marc F. Bellemare",
+    "Zachary Steven Brown"
+   ],
+   "year": 2010,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1093/ajae/aap006",
+   "abstract": null
+  },
+  {
+   "title": "Fully characterizing the set of time consistent discount functions.",
+   "authors": [
+    "Zachary Steven Brown"
+   ],
+   "year": 2010,
+   "venue": "",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "On the (Mis)Use of Wealth as a Proxy for Risk Aversion (PowerPoint)",
+   "authors": [
+    "Marc F. Bellemare",
+    "Zachary Steven Brown"
+   ],
+   "year": 2009,
+   "venue": "RePEc: Research Papers in Economics",
+   "status": "工作论文",
+   "url": "https://doi.org/10.22004/ag.econ.48913",
+   "abstract": null
+  }
+ ]
+}

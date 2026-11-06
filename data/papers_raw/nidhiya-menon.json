@@ -1,0 +1,660 @@
+{
+ "slug": "nidhiya-menon",
+ "name": "Nidhiya Menon",
+ "sources": [
+  "https://drive.google.com/uc?id=194ufFT36RbKM5aXMKjMhONIYmUZ_hXHW&export=download (CV, June 2026)"
+ ],
+ "collected": "2026-11-06",
+ "notes": "From CV (June 2026) only; homepage not fetched. CV gives only 'with X' so authors listed alphabetically by surname incl. scholar (byline order unknown). Includes refereed articles, invited paper, book chapters, working papers; skipped policy reports and work in progress. Working paper year = month/year given in CV.",
+ "papers": [
+  {
+   "title": "Dutch Disease and the Resource Curse: The Progression of Views from Exchange Rates to Women's Agency and Well-Being",
+   "authors": [
+    "Nidhiya Menon",
+    "Yana Rodgers"
+   ],
+   "year": 2026,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Ocean Salinity, Early-Life Health, and Adaptation",
+   "authors": [
+    "Amanda Guimbeau",
+    "James Ji",
+    "Zi Long",
+    "Nidhiya Menon"
+   ],
+   "year": 2024,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Impact of Early-Life Access to Oral Polio Vaccines on Disability: Evidence from India",
+   "authors": [
+    "Mayanka Ambade",
+    "Nidhiya Menon",
+    "S.V. Subramanian"
+   ],
+   "year": 2024,
+   "venue": "Journal of Population Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Mining and Women's Agency: Evidence on Acceptance of Domestic Violence and Shared Decision-Making in India",
+   "authors": [
+    "Amanda Guimbeau",
+    "James Ji",
+    "Nidhiya Menon",
+    "Yana Rodgers"
+   ],
+   "year": 2023,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Coal Plants, Air Pollution and Anemia: Evidence from India",
+   "authors": [
+    "Gaurav Datt",
+    "Pushkar Maitra",
+    "Nidhiya Menon",
+    "Ranjan Ray"
+   ],
+   "year": 2023,
+   "venue": "Journal of Development Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Income and Views on Minimum Living Standards",
+   "authors": [
+    "David W. Johnston",
+    "Nidhiya Menon"
+   ],
+   "year": 2022,
+   "venue": "Journal of Economic Behavior and Organization",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Impact of Climate Change on Children's Nutritional Status in Coastal Bangladesh",
+   "authors": [
+    "S.M. Manzoor Ahmed Hanifi",
+    "Nidhiya Menon",
+    "Agnes Quisumbing"
+   ],
+   "year": 2022,
+   "venue": "Social Science and Medicine",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Short and Medium-Run Health and Literacy Impacts of the 1918 Spanish Flu Pandemic in Brazil",
+   "authors": [
+    "Amanda Guimbeau",
+    "Nidhiya Menon",
+    "Aldo Musacchio"
+   ],
+   "year": 2022,
+   "venue": "The Economic History Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Echo Effects of Health Shocks: The Intergenerational Consequences of Prenatal and Early-Life Malnutrition during the Great Leap Forward Famine in China",
+   "authors": [
+    "Jinhu Li",
+    "Nidhiya Menon"
+   ],
+   "year": 2022,
+   "venue": "Journal of Development Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Does BMI Predict the Early Spatial Variation and Intensity of Covid-19 in Developing Countries? Evidence from India",
+   "authors": [
+    "Nidhiya Menon"
+   ],
+   "year": 2021,
+   "venue": "Economics and Human Biology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Christianity and Girl Child Health in India",
+   "authors": [
+    "Kathleen McQueeney",
+    "Nidhiya Menon"
+   ],
+   "year": 2020,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Winter's Tale: Season of Birth Impacts on Children in China",
+   "authors": [
+    "Pushkar Maitra",
+    "Nidhiya Menon",
+    "Chau Tran"
+   ],
+   "year": 2020,
+   "venue": "Economic Development and Cultural Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Labor Market Engagement and the Body Mass Index of Working Adults: Evidence from India",
+   "authors": [
+    "Archana Dang",
+    "Pushkar Maitra",
+    "Nidhiya Menon"
+   ],
+   "year": 2019,
+   "venue": "Economics and Human Biology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Spatial Decentralization and Program Evaluation: Theory and an Example",
+   "authors": [
+    "Nidhiya Menon",
+    "Mark Pitt"
+   ],
+   "year": 2019,
+   "venue": "Oxford Bulletin of Economics and Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Child Labor and the Minimum Wage: Evidence from India",
+   "authors": [
+    "Nidhiya Menon",
+    "Yana Rodgers"
+   ],
+   "year": 2018,
+   "venue": "Journal of Comparative Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Impact of the Minimum Wage on Male and Female Employment and Earnings in India",
+   "authors": [
+    "Nidhiya Menon",
+    "Yana Rodgers"
+   ],
+   "year": 2017,
+   "venue": "Asian Development Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Land Reform and Welfare in Vietnam: Why Gender of the Land Rights Holder Matters",
+   "authors": [
+    "Alexis Kennedy",
+    "Nidhiya Menon",
+    "Yana Rodgers"
+   ],
+   "year": 2017,
+   "venue": "Journal of International Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Gender and Technology Use in Developing Countries: Evidence from Firms in Kenya",
+   "authors": [
+    "Nidhiya Menon"
+   ],
+   "year": 2015,
+   "venue": "Journal of Economic Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Religion and Health in Early Childhood: Evidence from South Asia",
+   "authors": [
+    "Elizabeth Brainerd",
+    "Nidhiya Menon"
+   ],
+   "year": 2015,
+   "venue": "Population and Development Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "War and Women's Work: Evidence from the Conflict in Nepal",
+   "authors": [
+    "Nidhiya Menon",
+    "Yana Rodgers"
+   ],
+   "year": 2015,
+   "venue": "Journal of Conflict Resolution",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The \"State\" of Persons with Disabilities in India",
+   "authors": [
+    "Nidhiya Menon",
+    "Susan Parish",
+    "Roderick Rose"
+   ],
+   "year": 2014,
+   "venue": "Journal of Human Development and Capabilities",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Seasonal Effects of Water Quality: The Hidden Costs of the Green Revolution to Infant and Child Health in India",
+   "authors": [
+    "Elizabeth Brainerd",
+    "Nidhiya Menon"
+   ],
+   "year": 2014,
+   "venue": "Journal of Development Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Women's Land Rights and Children's Human Capital in Vietnam",
+   "authors": [
+    "Nidhiya Menon",
+    "Huong Nguyen",
+    "Yana Rodgers"
+   ],
+   "year": 2014,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Technology Use and Firms with Female Principal Owners in Kenya",
+   "authors": [
+    "Nidhiya Menon"
+   ],
+   "year": 2013,
+   "venue": "Journal of African Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Labor Regulations and Job Quality: Evidence from India",
+   "authors": [
+    "Nidhiya Menon",
+    "Yana Rodgers"
+   ],
+   "year": 2013,
+   "venue": "Industrial and Labor Relations Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Impact of the 2008-2009 Twin Economic Crises on the Philippine Labor Market",
+   "authors": [
+    "Nidhiya Menon",
+    "Yana Rodgers"
+   ],
+   "year": 2012,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How Access to Credit Affects Self-Employment: Differences by Gender during India's Rural Banking Reform",
+   "authors": [
+    "Nidhiya Menon",
+    "Yana Rodgers"
+   ],
+   "year": 2011,
+   "venue": "Journal of Development Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Investment Credit and Child Labor",
+   "authors": [
+    "Nidhiya Menon"
+   ],
+   "year": 2010,
+   "venue": "Applied Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Public Programs Pare Poverty: Evidence from Chile",
+   "authors": [
+    "David Glick",
+    "Nidhiya Menon"
+   ],
+   "year": 2009,
+   "venue": "Bulletin of Economic Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "International Trade and the Gender Wage Gap: New Evidence from India's Manufacturing Sector",
+   "authors": [
+    "Nidhiya Menon",
+    "Yana Rodgers"
+   ],
+   "year": 2009,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Rainfall Uncertainty and Occupational Choice in Agricultural Households of Rural Nepal",
+   "authors": [
+    "Nidhiya Menon"
+   ],
+   "year": 2009,
+   "venue": "Journal of Development Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Learning, Diversification, and the Nature of Risk",
+   "authors": [
+    "Nidhiya Menon",
+    "Narayanan Subramanian"
+   ],
+   "year": 2008,
+   "venue": "Economic Theory",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Relationship between Labor Unionization and the Number of Working Children in India",
+   "authors": [
+    "Nidhiya Menon"
+   ],
+   "year": 2007,
+   "venue": "Indian Economic Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Labor Conflicts and Foreign Investments: An Analysis of FDI in India",
+   "authors": [
+    "Nidhiya Menon",
+    "Paroma Sanyal"
+   ],
+   "year": 2007,
+   "venue": "Review of Development Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Inter-dependencies in Micro-Credit Groups: Evidence from Repayment Data",
+   "authors": [
+    "Nidhiya Menon"
+   ],
+   "year": 2007,
+   "venue": "Journal of Developing Areas",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Long Term Benefits of Membership in Microfinance Programs",
+   "authors": [
+    "Nidhiya Menon"
+   ],
+   "year": 2006,
+   "venue": "Journal of International Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Non-Linearities in Returns to Participation in Grameen Bank Programs",
+   "authors": [
+    "Nidhiya Menon"
+   ],
+   "year": 2006,
+   "venue": "Journal of Development Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Labor Disputes and the Economics of Firm Geography: A Study of Domestic Investment in India",
+   "authors": [
+    "Nidhiya Menon",
+    "Paroma Sanyal"
+   ],
+   "year": 2005,
+   "venue": "Economic Development and Cultural Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Portliness amidst Poverty: Evidence from India",
+   "authors": [
+    "Pushkar Maitra",
+    "Nidhiya Menon"
+   ],
+   "year": 2019,
+   "venue": "Arthaniti - Journal of Economic Theory and Practice",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Agricultural Sector and Women's Work in Asia",
+   "authors": [
+    "Nidhiya Menon",
+    "Yana Rodgers",
+    "Nafisa Tanjeem"
+   ],
+   "year": 2024,
+   "venue": "Book chapter in Spatial Spillovers: Viewpoints from Asia (Springer Nature)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Excess Weight in India: Gender Differentials, Location Patterns and Health Consequences",
+   "authors": [
+    "Pushkar Maitra",
+    "Nidhiya Menon"
+   ],
+   "year": 2023,
+   "venue": "Book chapter in India's Social and Economic Transformation in the 21st Century (Routledge)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "International Trade and Women Workers in the Global South",
+   "authors": [
+    "Nidhiya Menon",
+    "Yana Rodgers"
+   ],
+   "year": 2021,
+   "venue": "Book chapter in Routledge Handbook of Feminist Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Geography of Excess Weight in Urban India: Regional Patterns and Labor Market and Dietary Correlates",
+   "authors": [
+    "Archana Dang",
+    "Pushkar Maitra",
+    "Nidhiya Menon"
+   ],
+   "year": 2019,
+   "venue": "Book chapter in Disease, Human Health, and Regional Growth and Development in Asia (Springer)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Women's Labor Market Status and Economic Development",
+   "authors": [
+    "Nidhiya Menon",
+    "Yana Rodgers"
+   ],
+   "year": 2018,
+   "venue": "Book chapter in Oxford Handbook on the Economics of Women",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Credit and Self-Employment",
+   "authors": [
+    "Nidhiya Menon",
+    "Yana Rodgers"
+   ],
+   "year": 2013,
+   "venue": "Book chapter in Handbook of Research on Gender and Economic Life (Edward Elgar)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Gender Inequality in the Labor Market During Economic Transition: Changes in India's Manufacturing Sector",
+   "authors": [
+    "Nidhiya Menon",
+    "Yana Rodgers"
+   ],
+   "year": 2009,
+   "venue": "Book chapter in Labor Markets and Economic Development (Routledge)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Trade Policy Liberalization and Gender Equality in the Labor Market: New Evidence for India",
+   "authors": [
+    "Nidhiya Menon",
+    "Yana Rodgers"
+   ],
+   "year": 2008,
+   "venue": "Rutgers University World Affairs Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Climate Shocks and Non-communicable Diseases Among the Elderly in India",
+   "authors": [
+    "Arpita Khanna",
+    "Minhaj Mahmud",
+    "Nidhiya Menon"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Pensions and Depression: Gender-Disaggregated Evidence From the Elderly Poor in India",
+   "authors": [
+    "Amanda Guimbeau",
+    "Nidhiya Menon"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Violations of the Male Breadwinner Norm and Mental Health",
+   "authors": [
+    "David Johnston",
+    "Rachel Knott",
+    "Nidhiya Menon"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Nature Heals: Mangroves, Mental Health and Cognitive Functions",
+   "authors": [
+    "Amanda Guimbeau",
+    "James Ji",
+    "Nidhiya Menon",
+    "Firman Witoelar"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Company You Keep: The Positive Peer Effects of Early Childhood Education on Learning and Mental Health in Early Adolescence",
+   "authors": [
+    "Yanan Li",
+    "Nidhiya Menon",
+    "Naveen Sunder"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Climate Shocks, Intimate Partner Violence, and the Protective Role of Climate-Resilience Projects",
+   "authors": [
+    "Amanda Guimbeau",
+    "James Ji",
+    "Nidhiya Menon"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

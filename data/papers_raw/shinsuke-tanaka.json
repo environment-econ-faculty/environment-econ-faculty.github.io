@@ -1,0 +1,177 @@
+{
+ "slug": "shinsuke-tanaka",
+ "name": "Shinsuke Tanaka",
+ "sources": [
+  "https://are.uconn.edu/person/shinsuke-tanaka/",
+  "https://sites.google.com/site/tanakashinsuke/research"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Homepage research page (current, lists 2026). Two working papers undated on page: year 2014 inferred from file names/revision note. Handbook chapter counted as published.",
+ "papers": [
+  {
+   "title": "Clouding the mind? Assessing the suicide impacts of solar radiation management in the United States",
+   "authors": [
+    "Shinsuke Tanaka",
+    "Tetsuya Matsubayashi"
+   ],
+   "year": 2026,
+   "venue": "Japanese Economic Review",
+   "status": "即将发表",
+   "url": "https://doi.org/10.1007/s42973-026-00273-5",
+   "abstract": null
+  },
+  {
+   "title": "The Light of Life: The Effects of Sunlight on Suicide",
+   "authors": [
+    "Shinsuke Tanaka",
+    "Tetsuya Matsubayashi"
+   ],
+   "year": 2025,
+   "venue": "Journal of Health Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Challenges to Expanding EV Adoption and Policy Responses",
+   "authors": [
+    "Shinsuke Tanaka",
+    "Christopher R. Knittel"
+   ],
+   "year": 2025,
+   "venue": "Book chapter in The Handbook on Electricity Regulation (Edward Elgar)",
+   "status": "已发表",
+   "url": "https://ceepr.mit.edu/workingpaper/challenges-to-expanding-ev-adoption-and-policy-responses/",
+   "abstract": null
+  },
+  {
+   "title": "Blowin' In The Wind: Long-Term Downwind Exposure to Air Pollution from Power Plants and Adult Mortality",
+   "authors": [
+    "Shinsuke Tanaka"
+   ],
+   "year": 2024,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jeem.2024.103072",
+   "abstract": null
+  },
+  {
+   "title": "Springing Forward and Falling Back on Health: The Effect of Daylight Saving Time on Acute Myocardial Infarction",
+   "authors": [
+    "Shinsuke Tanaka",
+    "Hideto Koizumi"
+   ],
+   "year": 2024,
+   "venue": "Journal of Economic Behavior & Organization",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jebo.2024.106791",
+   "abstract": null
+  },
+  {
+   "title": "North-South Displacement Effects of Environmental Regulation: The Case of Battery Recycling",
+   "authors": [
+    "Shinsuke Tanaka",
+    "Kensuke Teshima",
+    "Eric Verhoogen"
+   ],
+   "year": 2022,
+   "venue": "American Economic Review: Insights",
+   "status": "已发表",
+   "url": "https://doi.org/10.1257/aeri.20210201",
+   "abstract": null
+  },
+  {
+   "title": "Fuel Economy and the Price of Gasoline: Evidence from Fueling Level Micro Data",
+   "authors": [
+    "Shinsuke Tanaka",
+    "Christopher R. Knittel"
+   ],
+   "year": 2021,
+   "venue": "Journal of Public Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "When Tax Incentives Drive Illicit Behavior: The Manipulation of Fuel Economy in the Automobile Industry",
+   "authors": [
+    "Shinsuke Tanaka"
+   ],
+   "year": 2020,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Valuing Nuclear Energy Risk: Evidence from the Impact of the Fukushima Crisis on U.S. House Prices",
+   "authors": [
+    "Shinsuke Tanaka",
+    "Jeffrey Zabel"
+   ],
+   "year": 2018,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Abolishing User Fees, Fertility Choice, and Educational Attainment",
+   "authors": [
+    "Takahiro Ito",
+    "Shinsuke Tanaka"
+   ],
+   "year": 2018,
+   "venue": "Journal of Development Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Environmental Regulations on Air Pollution in China and Their Impact on Infant Mortality",
+   "authors": [
+    "Shinsuke Tanaka"
+   ],
+   "year": 2015,
+   "venue": "Journal of Health Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Does Abolishing User Fees Lead to Improved Health Status? Evidence from Post-Apartheid South Africa",
+   "authors": [
+    "Shinsuke Tanaka"
+   ],
+   "year": 2014,
+   "venue": "American Economic Journal: Economic Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Environmental Regulation and Industrial Performance: Evidence from China",
+   "authors": [
+    "Shinsuke Tanaka",
+    "Gary Jefferson",
+    "Wesley Yin"
+   ],
+   "year": 2014,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Uncovering the Market Price of Bribes: Information, Competition, and Corruption in India",
+   "authors": [
+    "Shinsuke Tanaka"
+   ],
+   "year": 2014,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2327607",
+   "abstract": null
+  }
+ ]
+}

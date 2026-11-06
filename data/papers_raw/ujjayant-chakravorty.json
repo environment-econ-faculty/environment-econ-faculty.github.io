@@ -1,0 +1,783 @@
+{
+ "slug": "ujjayant-chakravorty",
+ "name": "Ujjayant Chakravorty",
+ "sources": [
+  "https://www.dropbox.com/scl/fi/xh8r6o3zgi6upqgbxgpop/UjjayantChakravortyAcademicCV.pdf (CV, latest entries 2023, undated)",
+  "https://sites.google.com/view/chakravorty"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Published list from CV (CV only says 'with X', so authors alphabetical by surname incl. scholar). Homepage lists 4 current working papers (used for those; year 2026 assumed from page/Aug26 file name); 3 other WPs (Roads and Groundwater, Peer Effects, Lighting up the Last Mile) come only from the older CV, year 2025 is a guess. Homepage title 'Career Concerns and Environmental Enforcement in China' is probably the CV's 'Political Ambition and Corporate Environmental Performance: Evidence from the Yangtze River Cleanup'. Skipped reprints, comments, edited volumes, reports, book review.",
+ "papers": [
+  {
+   "title": "The Effect of Forest Access on the Market for Fuelwood in India",
+   "authors": [
+    "Branko Boskovich",
+    "Ujjayant Chakravorty",
+    "Martino Pelli",
+    "Anna Risch"
+   ],
+   "year": 2023,
+   "venue": "Journal of Development Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Firm Innovation under Import Competition from Low Wage Countries",
+   "authors": [
+    "Ujjayant Chakravorty",
+    "Runjuan Liu",
+    "Ruotao Tang"
+   ],
+   "year": 2023,
+   "venue": "The World Economy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Electrification and Development: Empirical Evidence on the Effect of Electricity Provision on Household Welfare",
+   "authors": [
+    "Ujjayant Chakravorty",
+    "Martino Pelli"
+   ],
+   "year": 2023,
+   "venue": "Book chapter (Oxford University Press, essays in honor of Rabindra N Bhattacharya)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Inefficient Water Pricing and Incentives for Conservation",
+   "authors": [
+    "Ujjayant Chakravorty",
+    "Manzoor Dar",
+    "Kyle Emerick"
+   ],
+   "year": 2023,
+   "venue": "American Economic Journal: Applied Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Economics of Cooking Energy Use in Developing Countries",
+   "authors": [
+    "Ujjayant Chakravorty",
+    "Ridhima Gupta",
+    "Martino Pelli"
+   ],
+   "year": 2023,
+   "venue": "Book chapter in Handbook of Labor, Human Resources and Population Economics (Springer Nature)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Comparing Absolute and Relative Renewable Energy Mandates",
+   "authors": [
+    "Jean-Pierre Amigues",
+    "Ujjayant Chakravorty",
+    "Gilles Lafforgue",
+    "Michel Moreaux"
+   ],
+   "year": 2022,
+   "venue": "Annals of Economics and Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Food for Fuel: The Effect of US Energy Policy on Indian Poverty",
+   "authors": [
+    "Ujjayant Chakravorty",
+    "Marie-Helene Hubert",
+    "Beyza Ural Marchand"
+   ],
+   "year": 2019,
+   "venue": "Quantitative Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Long-Run Impact of Biofuels on Food Prices",
+   "authors": [
+    "Ujjayant Chakravorty",
+    "Marie-Helene Hubert",
+    "Michel Moreaux",
+    "Linda Nostbakken"
+   ],
+   "year": 2017,
+   "venue": "Scandinavian Journal of Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Post-Paris Clean Energy Options for China",
+   "authors": [
+    "Ujjayant Chakravorty",
+    "Carolyn Fischer",
+    "Marie-Helene Hubert"
+   ],
+   "year": 2017,
+   "venue": "Book chapter in Energy Transition and the Post-COP21 Agenda (Columbia University Press)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Does the Quality of Electricity Matter? Evidence from Rural India",
+   "authors": [
+    "Ujjayant Chakravorty",
+    "Beyza Ural Marchand",
+    "Martino Pelli"
+   ],
+   "year": 2014,
+   "venue": "Journal of Economic Behavior and Organization",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Economics of Fossil Fuels and Pollution",
+   "authors": [
+    "Ujjayant Chakravorty",
+    "Yazhen Gong"
+   ],
+   "year": 2014,
+   "venue": "Book chapter in Economics of Sustainable Development: Risk, Resources and Policy (Elsevier)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Land Allocation between Food and Energy",
+   "authors": [
+    "Ujjayant Chakravorty",
+    "Marie-Helene Hubert",
+    "Michel Moreaux"
+   ],
+   "year": 2014,
+   "venue": "Frontiers of Economics in China",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Water Allocation under Distribution Losses: A Perspective",
+   "authors": [
+    "Ujjayant Chakravorty",
+    "Yazhen Gong"
+   ],
+   "year": 2014,
+   "venue": "Book chapter in Handbook of Water Economics and Institutions (Routledge)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Economics of Market Power in the Extraction of Nonrenewable Resources",
+   "authors": [
+    "Ujjayant Chakravorty",
+    "Matti Liski"
+   ],
+   "year": 2013,
+   "venue": "Book chapter in The Encyclopedia of Energy, Natural Resource and Environmental Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Oceans and the Energy Market",
+   "authors": [
+    "Ujjayant Chakravorty",
+    "Marie Helene Hubert",
+    "Beyza Ural Marchand"
+   ],
+   "year": 2013,
+   "venue": "Book chapter in The Ocean as a Global Energy System (Eska Publishing)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Resource Use under Climate Stabilization: Can Nuclear Power Provide Clean Energy?",
+   "authors": [
+    "Ujjayant Chakravorty",
+    "Bertrand Magne",
+    "Michel Moreaux"
+   ],
+   "year": 2012,
+   "venue": "Journal of Public Economic Theory",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Cycles in Nonrenewable Resource Prices with Pollution and Learning-By-Doing",
+   "authors": [
+    "Ujjayant Chakravorty",
+    "Andrew Leach",
+    "Michel Moreaux"
+   ],
+   "year": 2012,
+   "venue": "Journal of Economic Dynamics and Control",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Global Impacts of the Biofuel Mandate under a Carbon Tax",
+   "authors": [
+    "Ujjayant Chakravorty",
+    "Marie-Helene Hubert"
+   ],
+   "year": 2012,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Political Influence of Firms in the Tradable and Non-Tradable Sectors: A Cross-Country Analysis",
+   "authors": [
+    "Ujjayant Chakravorty",
+    "Yanjing Chen",
+    "Roderick Rejesus",
+    "Mahmut Yasar"
+   ],
+   "year": 2011,
+   "venue": "Economics and Politics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Will Hotelling Kill the Electric Car?",
+   "authors": [
+    "Ujjayant Chakravorty",
+    "Andrew Leach",
+    "Michel Moreaux"
+   ],
+   "year": 2011,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "State Tax Policy and Oil Production: The Role of the Severance Tax and Credits for Drilling Expenses",
+   "authors": [
+    "Ujjayant Chakravorty",
+    "Shelby Gerking",
+    "Andrew Leach"
+   ],
+   "year": 2010,
+   "venue": "Book chapter in U.S. Energy Tax Policy (Cambridge University Press)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Politique pro-carburant et climatique americaine: impact sur les choix energetiques et bilan carbone",
+   "authors": [
+    "Ujjayant Chakravorty",
+    "Marie Helene Hubert",
+    "Michel Moreaux"
+   ],
+   "year": 2010,
+   "venue": "Revue Economique",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Fuel vs Food",
+   "authors": [
+    "Ujjayant Chakravorty",
+    "Marie Helene Hubert",
+    "Linda Nostbakken"
+   ],
+   "year": 2009,
+   "venue": "Annual Review of Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Water Allocation under Distribution Losses: Comparing Alternative Institutions",
+   "authors": [
+    "Ujjayant Chakravorty",
+    "Eithan Hochman",
+    "Chieko Umetsu",
+    "David Zilberman"
+   ],
+   "year": 2009,
+   "venue": "Journal of Economic Dynamics and Control",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Ordering the Extraction of Polluting Nonrenewable Resources",
+   "authors": [
+    "Ujjayant Chakravorty",
+    "Michel Moreaux",
+    "Mabel Tidball"
+   ],
+   "year": 2008,
+   "venue": "American Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Openness, Lobbying and Provision of Infrastructure",
+   "authors": [
+    "Ujjayant Chakravorty",
+    "Joy Mazumdar"
+   ],
+   "year": 2008,
+   "venue": "Southern Economic Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Dynamic Model of Food and Clean Energy",
+   "authors": [
+    "Ujjayant Chakravorty",
+    "Bertrand Magne",
+    "Michel Moreaux"
+   ],
+   "year": 2008,
+   "venue": "Journal of Economic Dynamics and Control",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Clean Air Regulation and Heterogeneity in US Gasoline Prices",
+   "authors": [
+    "Ujjayant Chakravorty",
+    "Celine Nauges",
+    "Alban Thomas"
+   ],
+   "year": 2008,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Environmental Effects of Intensification of Agriculture",
+   "authors": [
+    "Ujjayant Chakravorty",
+    "Donna Fisher",
+    "Chieko Umetsu"
+   ],
+   "year": 2007,
+   "venue": "Environmental Economics and Policy Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Hotelling Model with a Ceiling on the Stock of Pollution",
+   "authors": [
+    "Ujjayant Chakravorty",
+    "Bertrand Magne",
+    "Michel Moreaux"
+   ],
+   "year": 2006,
+   "venue": "Journal of Economic Dynamics and Control",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Discontinuous Extraction of a Nonrenewable Resource",
+   "authors": [
+    "Ujjayant Chakravorty",
+    "Eric Im",
+    "James Roumasset"
+   ],
+   "year": 2006,
+   "venue": "Economics Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Plafond de Concentration Atmospherique en Carbone et Substitutions Entre Resources Energetiques",
+   "authors": [
+    "Ujjayant Chakravorty",
+    "Bertrand Magne",
+    "Michel Moreaux"
+   ],
+   "year": 2006,
+   "venue": "Annales d'Economie et de Statistique",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Efficiency and Technical Change in the Philippine Rice Sector during the Post-Green Revolution Era",
+   "authors": [
+    "Ujjayant Chakravorty",
+    "Thamana Lekprichakul",
+    "Chieko Umetsu"
+   ],
+   "year": 2006,
+   "venue": "Studies in Regional Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Water Management with Downstream Externalities: The Case of the Ogeechee River Basin",
+   "authors": [
+    "Ujjayant Chakravorty",
+    "Donna Fisher"
+   ],
+   "year": 2006,
+   "venue": "Indian Journal of Environmental Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Specialization and Nonrenewable Resources: Ricardo Meets Ricardo",
+   "authors": [
+    "Ujjayant Chakravorty",
+    "Darrell Krulce",
+    "James Roumasset"
+   ],
+   "year": 2005,
+   "venue": "Journal of Economic Dynamics and Control",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Basinwide Water Management: A Spatial Model",
+   "authors": [
+    "Ujjayant Chakravorty",
+    "Chieko Umetsu"
+   ],
+   "year": 2003,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Protecting Forests Through Farming: A Dynamic Model of Nontimber Forest Extraction",
+   "authors": [
+    "Ujjayant Chakravorty",
+    "Herath Gunatileke"
+   ],
+   "year": 2003,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Endogenous Substitution of Energy Resources: Theory and Application to the Indian Energy Sector",
+   "authors": [
+    "Ujjayant Chakravorty"
+   ],
+   "year": 2003,
+   "venue": "Book chapter in India and Global Climate Change (RFF Press)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Efficiency and Technical Change in the Philippine Rice Sector: A Malmquist Total Factor Productivity Analysis",
+   "authors": [
+    "Ujjayant Chakravorty",
+    "Thamana Lekprichakul",
+    "Chieko Umetsu"
+   ],
+   "year": 2003,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Modeling the Effects of Area Closure and Tax Policies: A Spatial-Temporal Model of the Hawaii Longline Fishery",
+   "authors": [
+    "Ujjayant Chakravorty",
+    "Keiichi Nemoto"
+   ],
+   "year": 2001,
+   "venue": "Marine Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Water Conveyance Costs and Conjunctive Use",
+   "authors": [
+    "Ujjayant Chakravorty",
+    "Chieko Umetsu"
+   ],
+   "year": 2000,
+   "venue": "International Journal of Social Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Domestic Energy Demand in OPEC Countries",
+   "authors": [
+    "Ujjayant Chakravorty",
+    "Fereidun Fesharaki",
+    "Sara Zhou"
+   ],
+   "year": 2000,
+   "venue": "OPEC Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Demand for Ground Transportation Fuel and Pricing Policy in Asian Tigers: A Comparative Study of Korea and Taiwan",
+   "authors": [
+    "Sara Banaszak",
+    "Ujjayant Chakravorty",
+    "PingSun Leung"
+   ],
+   "year": 1999,
+   "venue": "Energy Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Transition from Fossil Fuels to Renewable Energy: Evidence from a Dynamic Simulation Model with Endogenous Resource Substitution",
+   "authors": [
+    "Ujjayant Chakravorty",
+    "KinPing Tse"
+   ],
+   "year": 1999,
+   "venue": "Journal of Quantitative Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Water Conveyance, Return Flows and Technology Choice",
+   "authors": [
+    "Ujjayant Chakravorty",
+    "Chieko Umetsu"
+   ],
+   "year": 1998,
+   "venue": "Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Endogenous Substitution of Energy Resources and Global Warming",
+   "authors": [
+    "Ujjayant Chakravorty",
+    "James Roumasset",
+    "KinPing Tse"
+   ],
+   "year": 1997,
+   "venue": "Journal of Political Economy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Estimating Economic Impacts from Tourism: A Comparison of Computable General Equilibrium and Input-Output Techniques",
+   "authors": [
+    "Ujjayant Chakravorty",
+    "PingSun Leung",
+    "John Yanagida",
+    "Deying Zhou"
+   ],
+   "year": 1996,
+   "venue": "Annals of Tourism Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Spatial Model of Optimal Water Conveyance",
+   "authors": [
+    "Ujjayant Chakravorty",
+    "Eithan Hochman",
+    "David Zilberman"
+   ],
+   "year": 1995,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Technology Adoption and the Economics of Groundwater Extraction",
+   "authors": [
+    "Ujjayant Chakravorty",
+    "Farhed Shah",
+    "David Zilberman"
+   ],
+   "year": 1995,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Heterogeneous Demand and Order of Resource Extraction",
+   "authors": [
+    "Ujjayant Chakravorty",
+    "Darrell Krulce"
+   ],
+   "year": 1994,
+   "venue": "Econometrica",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Integrating Economic Analysis in Irrigation Design and Management",
+   "authors": [
+    "Ujjayant Chakravorty",
+    "James Roumasset"
+   ],
+   "year": 1994,
+   "venue": "Journal of Water Resources Planning and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Efficient Spatial Allocation of Irrigation Water",
+   "authors": [
+    "Ujjayant Chakravorty",
+    "James Roumasset"
+   ],
+   "year": 1991,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Competitive Oil Prices and Scarcity Rents When the Extraction Cost Function is Convex",
+   "authors": [
+    "Ujjayant Chakravorty",
+    "James Roumasset"
+   ],
+   "year": 1990,
+   "venue": "Resource and Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Drilling in the Drought? The Industrial Organization of Groundwater",
+   "authors": [
+    "Ujjayant Chakravorty",
+    "E. Somanathan"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://www.dropbox.com/scl/fi/4begiknuvj0zupo3epo1k/Drilling_in_the_Drought__The_Industrial_Organization_of_Groundwater-Aug26.pdf?rlkey=i81olz84030f7f5p13w4qknnz&dl=1",
+   "abstract": null
+  },
+  {
+   "title": "Electricity and Population Relocation in the Philippines",
+   "authors": [
+    "Ujjayant Chakravorty",
+    "K. Emerick",
+    "I. Eizmendi Larrinaga",
+    "M. Ravago"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Career Concerns and Environmental Enforcement in China",
+   "authors": [
+    "Ujjayant Chakravorty",
+    "Fan Xun",
+    "Bing Zhang"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Targeted Subsidies for Water Conservation in Smallholder Agriculture",
+   "authors": [
+    "Humnath Bhandari",
+    "Ujjayant Chakravorty",
+    "Kyle Emerick",
+    "Muhammad Ashraful Habib"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Roads and Groundwater Depletion",
+   "authors": [
+    "Ujjayant Chakravorty",
+    "Xiangzheng Deng",
+    "Yazhen Gong",
+    "Disha Gupta",
+    "Martino Pelli",
+    "Qian Zhang"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Peer Effects and Misperceptions in Sanitation Use in Rural India",
+   "authors": [
+    "Ujjayant Chakravorty",
+    "Takeshi Fukasawa",
+    "Kazuki Motohashi"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Lighting up the Last Mile: The Benefits and Costs of Extending Electricity to the Rural Poor",
+   "authors": [
+    "Ujjayant Chakravorty",
+    "Kyle Emerick",
+    "Majah Leah-Ravago"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

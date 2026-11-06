@@ -1,0 +1,549 @@
+{
+ "slug": "hongli-feng",
+ "name": "Hongli Feng",
+ "sources": [
+  "https://www.econ.iastate.edu/people/hongli-feng/cv.pdf"
+ ],
+ "collected": "2026-11-06",
+ "notes": "From CV (appears current to about 2021-22; it lists no working papers or R&Rs, and Hennessy's Jan 2025 CV shows later Feng coauthored papers not captured here). Published journal articles only; Choices pieces and proceedings omitted. Authors in CV byline order, initials as written. 'Over-perception about land use changes' is listed as forthcoming in CV; recorded as published (Land Economics 2022 per Hennessy's CV).",
+ "papers": [
+  {
+   "title": "The Time Path and Implementation of Carbon Sequestration",
+   "authors": [
+    "H. Feng",
+    "J. Zhao",
+    "C.L. Kling"
+   ],
+   "year": 2002,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Dynamics of Carbon Sequestration and Alternative Carbon Accounting, with an Application to the Upper Mississippi River Basin",
+   "authors": [
+    "H. Feng"
+   ],
+   "year": 2005,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Conservation Reserve Program in the Presence of Other Conservation Programs: Implications for Water Quality, Program Participation, and Income Transfer",
+   "authors": [
+    "H. Feng",
+    "C.L. Kling",
+    "L.A. Kurkalova",
+    "S. Secchi",
+    "P.W. Gassman"
+   ],
+   "year": 2005,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Consequences of Co-benefits for the Efficient Design of Carbon Sequestration Programs",
+   "authors": [
+    "H. Feng",
+    "C.L. Kling"
+   ],
+   "year": 2005,
+   "venue": "Canadian Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Alternative Intertemporal Permit Trading Regimes with Stochastic Abatement Costs",
+   "authors": [
+    "H. Feng",
+    "J. Zhao"
+   ],
+   "year": 2006,
+   "venue": "Resource and Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Tradeoff of Conservation on Working Land versus Land Retirement",
+   "authors": [
+    "H. Feng",
+    "L.A. Kurkalova",
+    "C.L. Kling",
+    "P.W. Gassman"
+   ],
+   "year": 2006,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Transfers and Environmental Co-benefits of Carbon Sequestration in Agricultural Soils: Retiring Agricultural Land in the Upper Mississippi River Basin",
+   "authors": [
+    "H. Feng",
+    "L.A. Kurkalova",
+    "C.L. Kling",
+    "P.W. Gassman"
+   ],
+   "year": 2007,
+   "venue": "Climatic Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Cost of Cleaner Water: Assessing Agricultural Pollution Reduction at the Watershed Scale",
+   "authors": [
+    "S. Secchi",
+    "P.W. Gassman",
+    "M. Jha",
+    "L.A. Kurkalova",
+    "H. Feng",
+    "T. Campbell",
+    "C.L. Kling"
+   ],
+   "year": 2007,
+   "venue": "Journal of Soil and Water Conservation",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Green Payments and Dual Policy Goals",
+   "authors": [
+    "H. Feng"
+   ],
+   "year": 2007,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "When Should Uncertain Nonpoint Emissions be Penalized in a Trading Program?",
+   "authors": [
+    "D.A. Hennessy",
+    "H. Feng"
+   ],
+   "year": 2008,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Least-Cost Tradeable Risk Permit Scheme for Controlling Risk of Introducing Invasive Alien Species by Shipping",
+   "authors": [
+    "H. Feng",
+    "D.A. Hennessy"
+   ],
+   "year": 2008,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Allocation of Nutrient Load Reduction across a Watershed: Assessing Delivery Coefficients as an Implementation Tool",
+   "authors": [
+    "H. Feng",
+    "M. Jha",
+    "P.W. Gassman"
+   ],
+   "year": 2009,
+   "venue": "Review of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Production and Abatement Distortions under Noisy Green Taxes",
+   "authors": [
+    "H. Feng",
+    "D.A. Hennessy"
+   ],
+   "year": 2009,
+   "venue": "Journal of Public Economic Theory",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Willingness to Pay for Surplus Sugar under the U.S. Sugar-to-Ethanol Program",
+   "authors": [
+    "H. Feng",
+    "C. Hart"
+   ],
+   "year": 2009,
+   "venue": "Contemporary Economic Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Does permit trading minimize cost under an average pollution target?",
+   "authors": [
+    "S. Rabotyagov",
+    "H. Feng"
+   ],
+   "year": 2010,
+   "venue": "Environmental Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Searching for Efficiency: Least Cost Nonpoint Source Pollution Control with Multiple Pollutants, Practices, and Targets",
+   "authors": [
+    "S. Rabotyagov",
+    "T. Campbell",
+    "M. Jha",
+    "P.W. Gassman",
+    "J. Arnold",
+    "L. Kurkalova",
+    "S. Secchi",
+    "H. Feng",
+    "C. Kling"
+   ],
+   "year": 2010,
+   "venue": "Ecological Applications",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Impacts of Ethanol on Planted Acreage in Market Equilibrium",
+   "authors": [
+    "H. Feng",
+    "B. Babcock"
+   ],
+   "year": 2010,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Greenhouse Gas Impacts of Corn-based Ethanol: life cycle analysis versus system wide accounting",
+   "authors": [
+    "H. Feng",
+    "O. Rubin",
+    "B. Babcock"
+   ],
+   "year": 2010,
+   "venue": "Biomass and Bioenergy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Effects of Government Payments on Cropland Acreage, CRP Enrollment, and Grassland Conversion in the Dakotas",
+   "authors": [
+    "H. Feng",
+    "D.A. Hennessy",
+    "R. Miao"
+   ],
+   "year": 2013,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Natural Resource Theory of U.S. Crop Insurance Contract Choice",
+   "authors": [
+    "X. Du",
+    "D.A. Hennessy",
+    "H. Feng"
+   ],
+   "year": 2013,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Sodbusting, Crop Insurance and Sunk Conversion Costs",
+   "authors": [
+    "R. Miao",
+    "D.A. Hennessy",
+    "H. Feng"
+   ],
+   "year": 2014,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Effects of Crop Insurance and Sodsaver on Land Use Change",
+   "authors": [
+    "R. Miao",
+    "D.A. Hennessy",
+    "H. Feng"
+   ],
+   "year": 2016,
+   "venue": "Journal of Agricultural and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Assessing Cost-Effectiveness of the Conservation Reserve Program and its Interaction with Crop Insurance Subsidies",
+   "authors": [
+    "R. Miao",
+    "H. Feng",
+    "D.A. Hennessy",
+    "X. Du"
+   ],
+   "year": 2016,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Land Use Change and Policy in Iowa's Loess Hills",
+   "authors": [
+    "G. Arora",
+    "P. Wolter",
+    "D.A. Hennessy",
+    "H. Feng"
+   ],
+   "year": 2016,
+   "venue": "Sustainable Agriculture Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Crop Insurance Subsidies and the Choice of Insurance Coverage Levels",
+   "authors": [
+    "X. Du",
+    "H. Feng",
+    "D.A. Hennessy"
+   ],
+   "year": 2017,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Agricultural Land Use Change and Grassland Loss in the Eastern Dakotas: A Farm-Level Analysis",
+   "authors": [
+    "M. Wimberly",
+    "L. Janssen",
+    "D. Hennessy",
+    "M. Luri",
+    "N. Chowdhury",
+    "H. Feng"
+   ],
+   "year": 2017,
+   "venue": "Land Use Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Determinants of motives for land use decisions at the margins of the Corn Belt",
+   "authors": [
+    "T. Wang",
+    "M. Luri",
+    "L. Janssen",
+    "D.A. Hennessy",
+    "H. Feng",
+    "M.C. Wimberly",
+    "G. Arora"
+   ],
+   "year": 2017,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Land Resilience and Tail Dependence Among Crop Yield Distributions",
+   "authors": [
+    "X. Du",
+    "D.A. Hennessy",
+    "H. Feng",
+    "G. Arora"
+   ],
+   "year": 2018,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Increasing carbon footprint of grain crop production in the U.S. Western Corn Belt",
+   "authors": [
+    "C. Lu",
+    "Z. Yu",
+    "Hanqin Tian",
+    "D.A. Hennessy",
+    "H. Feng",
+    "M. Al-Kaisi",
+    "Y. Zhou",
+    "T. Sauer",
+    "R. Arritt"
+   ],
+   "year": 2018,
+   "venue": "Environmental Research Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Rationality of weather predictions and insurance purchases: Testing the gambler's and hot hand fallacies",
+   "authors": [
+    "M.K. Doidge",
+    "H. Feng",
+    "D.A. Hennessy"
+   ],
+   "year": 2019,
+   "venue": "Applied Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Evidence of climate change impacts on crop comparative advantage and land use",
+   "authors": [
+    "G. Arora",
+    "H. Feng",
+    "C. Anderson",
+    "D.A. Hennessy"
+   ],
+   "year": 2019,
+   "venue": "Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Recent Events and Participation at the Extensive and Intensive Margins in U.S. Federal Crop Insurance Program",
+   "authors": [
+    "Y. Che",
+    "H. Feng",
+    "D.A. Hennessy"
+   ],
+   "year": 2020,
+   "venue": "The Geneva Papers on Risk and Insurance - Issues and Practice",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Depressed Demand for Crop Insurance Contracts, and a Rationale Based on Third Generation Prospect Theory",
+   "authors": [
+    "H. Feng",
+    "X. Du",
+    "D.A. Hennessy"
+   ],
+   "year": 2020,
+   "venue": "Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Impacts of Tillage Practices on Soil Carbon Stocks in the U.S. Corn Soybean Cropping System During 1998 to 2016",
+   "authors": [
+    "Z. Yu",
+    "C. Lu",
+    "D.A. Hennessy",
+    "H. Feng",
+    "H. Tian"
+   ],
+   "year": 2020,
+   "venue": "Environmental Research Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Challenges for rotational grazing practice: Views from non-adopters across the Great Plains, USA",
+   "authors": [
+    "T. Wang",
+    "H. Jin",
+    "U. Kreuter",
+    "H. Feng",
+    "D.A. Hennessy",
+    "R. Teague",
+    "Y. Che"
+   ],
+   "year": 2020,
+   "venue": "Journal of Environmental Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The role of economic returns in land use change: Evidence from farm-level data in the US Northern Great Plains",
+   "authors": [
+    "M.K. Doidge",
+    "D.A. Hennessy",
+    "H. Feng"
+   ],
+   "year": 2020,
+   "venue": "Journal of Soil and Water Conservation",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The impact of production network economies on spatially-contiguous conservation- Theoretical model with evidence from the U.S. Prairie Pothole Region",
+   "authors": [
+    "G. Arora",
+    "H. Feng",
+    "D.A. Hennessy",
+    "C. Loesch",
+    "S. Kvas"
+   ],
+   "year": 2021,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Over-perception about land use changes: assessing empirical evidence and linkage with decisions and biased beliefs",
+   "authors": [
+    "H. Feng",
+    "T. Wang",
+    "D.A. Hennessy",
+    "G. Arora"
+   ],
+   "year": 2022,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Extreme climate increased crop nitrogen surplus in the United States",
+   "authors": [
+    "J. Zhang",
+    "C. Lu",
+    "H. Feng",
+    "D. Hennessy",
+    "Y. Guan",
+    "M.M. Wright"
+   ],
+   "year": 2021,
+   "venue": "Agricultural and Forest Meteorology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

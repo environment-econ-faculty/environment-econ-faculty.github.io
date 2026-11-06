@@ -1,0 +1,338 @@
+{
+ "slug": "farhed-a-shah",
+ "name": "Farhed A. Shah",
+ "sources": [
+  "https://are.uconn.edu/person/farhed-a-shah/",
+  "https://are.media.uconn.edu/wp-content/uploads/sites/2327/2023/05/Shah-Farhed_CV-2023.pdf"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Source: CV (2023) linked from UConn profile; no personal homepage. CV lists no working papers. Included journal articles and edited-book chapters; skipped books, conference proceedings, reports.",
+ "papers": [
+  {
+   "title": "Taxing the Heat Out of the U.S. Food System",
+   "authors": [
+    "G. Tiboldo",
+    "R. Boehm",
+    "F. Shah",
+    "E. Castellari"
+   ],
+   "year": 2022,
+   "venue": "Food Policy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.foodpol.2022.102266",
+   "abstract": null
+  },
+  {
+   "title": "Economics of Optimal Reservoir Capacity Determination, Sediment Management, and Dam Decommissioning",
+   "authors": [
+    "Y. Niu",
+    "F. Shah"
+   ],
+   "year": 2021,
+   "venue": "Water Resources Research",
+   "status": "已发表",
+   "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020WR028198",
+   "abstract": null
+  },
+  {
+   "title": "Climate Change and Land Use in Southeastern U.S.: Did the 'Dumb Farmer' Get It Wrong?",
+   "authors": [
+    "T. Tsvetanov",
+    "L. Qi",
+    "D. Mukherjee",
+    "F. Shah",
+    "B. Bravo-Ureta"
+   ],
+   "year": 2016,
+   "venue": "Climate Change Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1142/S2010007816500056",
+   "abstract": null
+  },
+  {
+   "title": "Optimal Location of Centralized Biodigesters for Small Dairy Farms: A Case Study from the United States",
+   "authors": [
+    "D. Mukherjee",
+    "D. Cromley",
+    "F. Shah",
+    "B. Bravo-Ureta"
+   ],
+   "year": 2015,
+   "venue": "International Journal of Sustainable Energy Planning and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Upstream Water Resource Management to Address Downstream Pollution Concerns: A Policy Framework with Application to the Nakdong River Basin in South Korea",
+   "authors": [
+    "T. Yoon",
+    "C. Rhodes",
+    "F. Shah"
+   ],
+   "year": 2015,
+   "venue": "Water Resources Research",
+   "status": "已发表",
+   "url": "https://doi.org/10.1002/2013WR014201",
+   "abstract": null
+  },
+  {
+   "title": "The External Impact of Agriculture on Inland Wetlands: A Case Study from Argentina",
+   "authors": [
+    "J. de Prada",
+    "F. Shah",
+    "B. Bravo-Ureta",
+    "A. Degioanni",
+    "J. Cisneros",
+    "A. Cantero"
+   ],
+   "year": 2014,
+   "venue": "European Scientific Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "On the Natural and Economic Difficulties to Fulfilling the Human Right to Water Within a Neoclassical Economics Framework",
+   "authors": [
+    "C. Jeffords",
+    "F. Shah"
+   ],
+   "year": 2013,
+   "venue": "Review of Social Economy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1080/00346764.2012.761753",
+   "abstract": null
+  },
+  {
+   "title": "Optimal Watershed Management for Reservoir Sustainability: An Economic Appraisal",
+   "authors": [
+    "Y. Lee",
+    "T. Yoon",
+    "F. Shah"
+   ],
+   "year": 2013,
+   "venue": "Journal of Water Resources Planning and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Economic Value of Delaying Adaptation to Sea-Level Rise: An Application to Coastal Properties in Connecticut",
+   "authors": [
+    "T. Tsvetanov",
+    "F. Shah"
+   ],
+   "year": 2013,
+   "venue": "Climatic Change",
+   "status": "已发表",
+   "url": "https://doi.org/10.1007/s10584-013-0848-7",
+   "abstract": null
+  },
+  {
+   "title": "Economics of Integrated Watershed Management in the Presence of a Dam",
+   "authors": [
+    "Y. Lee",
+    "T. Yoon",
+    "F. Shah"
+   ],
+   "year": 2011,
+   "venue": "Water Resources Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Enumeration and Valuation of Horses: Methodological Innovations and Results from a Connecticut Study",
+   "authors": [
+    "J. Nadeau",
+    "F. Shah",
+    "A. Chaudhry",
+    "J. Maripani"
+   ],
+   "year": 2006,
+   "venue": "Journal of Extension",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "El costo de la erosión de suelo para los productores agropecuarios en el sur de Córdoba, Argentina",
+   "authors": [
+    "J. de Prada",
+    "B. Bravo-Ureta",
+    "F. Shah"
+   ],
+   "year": 2005,
+   "venue": "Revista Argentina de Economía Agraria",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economics of Reservoir Sedimentation and Sustainable Management of Dams",
+   "authors": [
+    "A. Palmieri",
+    "F. Shah",
+    "A. Dinar"
+   ],
+   "year": 2001,
+   "venue": "Journal of Environmental Management",
+   "status": "已发表",
+   "url": "https://doi.org/10.1006/jema.2000.0392",
+   "abstract": null
+  },
+  {
+   "title": "Control of Stationary and Mobile Source Air Pollution: Reducing Emissions of Hydrocarbons for Ozone Abatement in Connecticut",
+   "authors": [
+    "B. Heninger",
+    "F. Shah"
+   ],
+   "year": 1998,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.2307/3146881",
+   "abstract": null
+  },
+  {
+   "title": "Technology Adoption in the Presence of an Exhaustible Resource: The Case of Groundwater Extraction",
+   "authors": [
+    "F. Shah",
+    "D. Zilberman",
+    "U. Chakravorty"
+   ],
+   "year": 1995,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Optimal Combination of Pollution Prevention and Abatement Policies: The Case of Agricultural Drainage",
+   "authors": [
+    "F. Shah",
+    "D. Zilberman",
+    "E. Lichtenberg"
+   ],
+   "year": 1995,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Amenity Benefits and Public Policy: An Application to the Connecticut Dairy Sector",
+   "authors": [
+    "R. Lopez",
+    "M. Altobello",
+    "F. Shah"
+   ],
+   "year": 1994,
+   "venue": "Journal of Agricultural and Applied Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Amenity Benefits and the Optimal Allocation of Land",
+   "authors": [
+    "R. Lopez",
+    "F. Shah",
+    "M. Altobello"
+   ],
+   "year": 1994,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Changes in Water Allocation Mechanisms for California Agriculture",
+   "authors": [
+    "D. Zilberman",
+    "N. MacDougall",
+    "F. Shah"
+   ],
+   "year": 1994,
+   "venue": "Contemporary Economic Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Water Scarcity or a Water Management Crisis?",
+   "authors": [
+    "D. Zilberman",
+    "A. Schmitz",
+    "A. Dinar",
+    "F. Shah"
+   ],
+   "year": 1993,
+   "venue": "Canadian Journal of Water Resources",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Note on the Optimal Depletion of Exhaustible Resources",
+   "authors": [
+    "F. Shah"
+   ],
+   "year": 1984,
+   "venue": "Review of Economic Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Efficient Management of Water in Agriculture",
+   "authors": [
+    "D. Zilberman",
+    "U. Chakravorty",
+    "F. Shah"
+   ],
+   "year": 1997,
+   "venue": "Book chapter in Decentralization and Coordination of Water Resources Management (Kluwer)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Political Economy of the Transition from Water Rights to Water Markets",
+   "authors": [
+    "F. Shah",
+    "D. Zilberman"
+   ],
+   "year": 1995,
+   "venue": "Book chapter in Water Quantity/Quality Management and Conflict Resolution (Praeger)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Water Rights Doctrines and Technological Adoption",
+   "authors": [
+    "F. Shah",
+    "D. Zilberman",
+    "U. Chakravorty"
+   ],
+   "year": 1993,
+   "venue": "Book chapter in The Economics of Rural Organization (Oxford University Press)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Government Policies to Improve Intertemporal Allocation of Water in Regions with Drainage Problems",
+   "authors": [
+    "F. Shah",
+    "D. Zilberman"
+   ],
+   "year": 1991,
+   "venue": "Book chapter in The Economics and Management of Water and Drainage in Agriculture (Kluwer)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

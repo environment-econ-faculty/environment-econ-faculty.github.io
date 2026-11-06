@@ -1,0 +1,805 @@
+{
+ "slug": "kurt-stephenson",
+ "name": "Kurt Stephenson",
+ "sources": [
+  "https://aaec.vt.edu/content/dam/aaec_vt_edu/faculty-cv/KURTCV_25.pdf (CV, 2025)"
+ ],
+ "collected": "2026-11-06",
+ "notes": "From CV (2025 file) with bylines as given; coauthor names left as initials where CV uses initials. Stephenson is always normalized to 'Kurt Stephenson'. 'Taxonomy of Trading Programs' chapter has no year in CV (2006 assumed); 'Perspectives from Accounting' (2004) and 1990 Conservation Reserve chapter omitted. Skipped Choices magazine note, NRC committee books/reports, conference proceedings, extension bulletins, reports. No working papers listed in CV publications section beyond a 2000s departmental working paper (skipped).",
+ "papers": [
+  {
+   "title": "Exploring the adoption of water quality trading as an alternative stormwater regulatory compliance strategy for land development projects: A case study for Roanoke, Virginia",
+   "authors": [
+    "J. D. Nelson",
+    "M. F. Aguilar",
+    "L. Saby",
+    "Kurt Stephenson",
+    "J. L. Goodall"
+   ],
+   "year": 2024,
+   "venue": "Journal of Environmental Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The role of nutrient credit trading for total maximum daily load compliance by the urban stormwater sector: Evidence from Virginia's Municipal Separate Storm Sewer Systems",
+   "authors": [
+    "W. Ferris",
+    "Kurt Stephenson"
+   ],
+   "year": 2024,
+   "venue": "Journal of the American Water Resources Association",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Confronting our Agricultural Nonpoint Source Incentive Problem",
+   "authors": [
+    "Kurt Stephenson",
+    "L. Shabman",
+    "J. Shortle",
+    "Z. Easton"
+   ],
+   "year": 2022,
+   "venue": "Journal of the American Water Resources Association",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Targeting for nonpoint source pollution reduction: A synthesis of lessons learned, remaining challenges, and emerging opportunities",
+   "authors": [
+    "P.M. Fleming",
+    "Kurt Stephenson",
+    "A.S. Collick",
+    "Z.M. Easton"
+   ],
+   "year": 2022,
+   "venue": "Journal of Environmental Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Treatment of Legacy Nitrogen as a Compliance Option to Meet Chesapeake Bay TMDL Requirements",
+   "authors": [
+    "Kurt Stephenson",
+    "W. Farris",
+    "E. Bock",
+    "Z. Easton"
+   ],
+   "year": 2021,
+   "venue": "Environmental Science and Technology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Opportunities and Challenges for Including Oyster-Mediate Denitrification in Nitrogen Management Plans",
+   "authors": [
+    "J.M. Rose",
+    "J.S. Gosnell",
+    "S. Bricker",
+    "M.J. Brush",
+    "A. Colden",
+    "L. Harris",
+    "E. Karplus",
+    "A. Laferriere",
+    "N.H. Merrill",
+    "T.B. Murphy",
+    "J. Reitsma",
+    "J. Shockley",
+    "Kurt Stephenson",
+    "S. Theuerkauf",
+    "D. Ward",
+    "R.W. Fulweiler"
+   ],
+   "year": 2021,
+   "venue": "Estuaries and Coasts",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Feasibility of Using Woodchip Bioreactors to Treat Legacy Nitrogen to Meet Chesapeake Bay Water Quality Goals",
+   "authors": [
+    "Z. Easton",
+    "E. Bock",
+    "Kurt Stephenson"
+   ],
+   "year": 2019,
+   "venue": "Environmental Science and Technology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Does Ecosystem Valuation Contribute to Ecosystem Decision-making? Evidence from Hydropower Licensing",
+   "authors": [
+    "Kurt Stephenson",
+    "L. Shabman"
+   ],
+   "year": 2019,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Role of In lieu Fee Programs in Wetland/Stream Mitigation Credit Trading: Illustrations from Virginia and Georgia",
+   "authors": [
+    "Kurt Stephenson",
+    "B. Tutko"
+   ],
+   "year": 2018,
+   "venue": "Wetlands",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Where Did all the Agricultural Nonpoint Source Trades Go?: Lessons from Virginia Nutrient Trading Programs",
+   "authors": [
+    "Kurt Stephenson",
+    "L. Shabman"
+   ],
+   "year": 2017,
+   "venue": "Journal of the American Water Resources Association",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Can Water Quality Trading Fix the Agricultural Nonpoint Source Problem?",
+   "authors": [
+    "Kurt Stephenson",
+    "L. Shabman"
+   ],
+   "year": 2017,
+   "venue": "Annual Review of Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Nutrient Biofilters in the Virginia Coastal Plain: Nitrogen Removal, Cost, and Potential Adoption Pathways",
+   "authors": [
+    "G. Deboe",
+    "E. Bock",
+    "Kurt Stephenson",
+    "Z. Easton"
+   ],
+   "year": 2017,
+   "venue": "Journal of Soil and Water Conservation",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Nutrient Assimilation Services for Water Quality Credit Trading Programs: A Comparative Analysis with Nonpoint Source Credits",
+   "authors": [
+    "Kurt Stephenson",
+    "L. Shabman"
+   ],
+   "year": 2017,
+   "venue": "Coastal Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Analysis of Stormwater Utility Incentive Programs in the Chesapeake Bay",
+   "authors": [
+    "G. Gonzalez",
+    "A. Mosley",
+    "Kurt Stephenson"
+   ],
+   "year": 2016,
+   "venue": "Watershed Science Bulletin",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Transactions Costs of Expanding Nutrient Trading to Agricultural Working Lands: A Virginia Case Study",
+   "authors": [
+    "G. Deboe",
+    "Kurt Stephenson"
+   ],
+   "year": 2016,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Subdivision Infrastructure Affecting Stormwater Runoff and Residential Property Values",
+   "authors": [
+    "J. Boatwright",
+    "Kurt Stephenson",
+    "K. Boyle",
+    "S. Nienow"
+   ],
+   "year": 2014,
+   "venue": "Journal of Water Resources Planning and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Effect of Aquacultured Oyster Biodeposition on Sediment N2 Production in the Chesapeake Bay",
+   "authors": [
+    "C. B. Higgins",
+    "C. Tobias",
+    "M. F. Piehler",
+    "A. R Smyth",
+    "R. F. Dame",
+    "Kurt Stephenson",
+    "Bonnie L. Brown"
+   ],
+   "year": 2013,
+   "venue": "Marine Ecology Progress Series",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Rhetoric and Reality of Water Quality Trading and the Potential for Market-like Reform",
+   "authors": [
+    "Kurt Stephenson",
+    "L. Shabman"
+   ],
+   "year": 2011,
+   "venue": "Journal of the American Water Resources Association",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Nutrient bio-assimilative Capacity of Aquacultured Oysters: Quantification of an Ecosystem Service",
+   "authors": [
+    "C.B. Higgins",
+    "Kurt Stephenson",
+    "B.L. Brown"
+   ],
+   "year": 2011,
+   "venue": "Journal of Environmental Quality",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Evaluation of Nutrient Nonpoint Offset Trading in Virginia: A Role for Agricultural Nonpoint Sources?",
+   "authors": [
+    "Kurt Stephenson",
+    "S. Aultman",
+    "T. Metcalfe",
+    "A. Miller"
+   ],
+   "year": 2010,
+   "venue": "Water Resources Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Evaluation of Policy Options for Expanding Oyster Aquaculture in Virginia",
+   "authors": [
+    "D. Bosch",
+    "N. Kuminoff",
+    "Kurt Stephenson",
+    "A. Miller",
+    "J. Pope",
+    "A. Harris"
+   ],
+   "year": 2010,
+   "venue": "Aquaculture Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Effectiveness of Residential Water-Use Restrictions under Varying Levels of Municipal Effort",
+   "authors": [
+    "G. Halich",
+    "Kurt Stephenson"
+   ],
+   "year": 2009,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Bioeconomic Analysis of Management Plans for the Public Grounds of the Rappahannock River",
+   "authors": [
+    "G. Santopietro",
+    "Kurt Stephenson",
+    "V.A. Satyal",
+    "J. Wesson"
+   ],
+   "year": 2009,
+   "venue": "Journal of Shellfish Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Growing Supply of Ecolabeled Seafood: An Economic Perspective",
+   "authors": [
+    "N.V. Kuminoff",
+    "D.J. Bosch",
+    "D. Kauffman",
+    "J.C. Pope",
+    "Kurt Stephenson"
+   ],
+   "year": 2008,
+   "venue": "Sustainable Development Law & Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Farm Returns to Carbon Credit Creation with Intensive Rotational Grazing",
+   "authors": [
+    "D.J. Bosch",
+    "Kurt Stephenson",
+    "G. Groover",
+    "B. Hutchins"
+   ],
+   "year": 2008,
+   "venue": "Journal of Soil and Water Conservation",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Achieving Nutrient Water Quality Goals: Bringing Market-like Principles to Water Quality Management",
+   "authors": [
+    "L. Shabman",
+    "Kurt Stephenson"
+   ],
+   "year": 2007,
+   "venue": "Journal of the American Water Resources Association",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Approaches to TMDL Planning and Implementation and Policy Tools for Implementation to Achieve Water Quality Standards",
+   "authors": [
+    "J.B. Jesiek",
+    "B.L. Benham",
+    "D. Bosch",
+    "Kurt Stephenson"
+   ],
+   "year": 2007,
+   "venue": "CAB Reviews: Perspectives in Agriculture, Veterinary Science, Nutrition and Natural Resources",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Role of Ecosystem Valuation in Environmental Decision Making: Hydropower Relicensing and Dam Removal on the Elwha River",
+   "authors": [
+    "C. Gowan",
+    "Kurt Stephenson",
+    "L. Shabman"
+   ],
+   "year": 2006,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Comparisons of the Educational Value of Distance versus Traditional Classroom Instruction in Introductory Agricultural Economics",
+   "authors": [
+    "Kurt Stephenson",
+    "A. McGuirk",
+    "T. Crouse",
+    "D.W. Reaves"
+   ],
+   "year": 2005,
+   "venue": "Review of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Hydrologic and Fiscal Impacts of Residential Development: A Virginia Case Study",
+   "authors": [
+    "D. Bosch",
+    "V.K. Lohani",
+    "R.L. Dymond",
+    "D.F. Kibler",
+    "Kurt Stephenson"
+   ],
+   "year": 2003,
+   "venue": "Journal of Water Resources Planning and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Trading Programs for Environmental Management: Reflections on the Air and Water Experiences",
+   "authors": [
+    "L. Shabman",
+    "Kurt Stephenson",
+    "W. Shobe"
+   ],
+   "year": 2002,
+   "venue": "Environmental Practice",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Does Sprawl Cost Us All? Isolating the Effects of Residential Settlement Forms on Public Water and Sewer Costs",
+   "authors": [
+    "C. Speir",
+    "Kurt Stephenson"
+   ],
+   "year": 2002,
+   "venue": "Journal of the American Planning Association",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Assessments of the Educational Value of Web-Based Instructional Tools in Introductory Agricultural Economics",
+   "authors": [
+    "Kurt Stephenson",
+    "D.W. Reaves",
+    "A. McGuirk",
+    "H. Deskins"
+   ],
+   "year": 2001,
+   "venue": "Review of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Nonmarket Valuation in Hydropower Relicensing: An Application of a Pattern Modeling Approach",
+   "authors": [
+    "Kurt Stephenson",
+    "L. Shabman"
+   ],
+   "year": 2000,
+   "venue": "Journal of Economic Issues",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Taking Nature into Account: Observations about the Changing Role of Analysis and Negotiation in Hydropower Relicensing",
+   "authors": [
+    "Kurt Stephenson"
+   ],
+   "year": 2000,
+   "venue": "William and Mary Environmental Law and Policy Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Environmental Valuation and Its Economic Critics",
+   "authors": [
+    "L. Shabman",
+    "Kurt Stephenson"
+   ],
+   "year": 2000,
+   "venue": "Journal of Water Resources Planning and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Watershed-based Effluent Allowance Trading: Identifying the Statutory and Regulatory Barriers to Implementation",
+   "authors": [
+    "Kurt Stephenson",
+    "L. Shabman",
+    "L. Geyer"
+   ],
+   "year": 1999,
+   "venue": "The Environmental Lawyer",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Games Students Play: A Classroom Simulation of an Effluent Allowance Trading System",
+   "authors": [
+    "Kurt Stephenson",
+    "M.C. Conway"
+   ],
+   "year": 1998,
+   "venue": "Virginia Economic Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Effluent Allowance Trading: The Nonpoint Source Challenge",
+   "authors": [
+    "Kurt Stephenson",
+    "P. Norris",
+    "L. Shabman"
+   ],
+   "year": 1998,
+   "venue": "Contemporary Economic Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Wetlands Credit Sales as a Strategy for Achieving No Net Loss: The Limitations of Regulatory Conditions",
+   "authors": [
+    "L. Shabman",
+    "Kurt Stephenson",
+    "P. Scodari"
+   ],
+   "year": 1998,
+   "venue": "Wetlands",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Groundwater Management in Nebraska: Governing the Commons through Local Resource Districts",
+   "authors": [
+    "Kurt Stephenson"
+   ],
+   "year": 1996,
+   "venue": "Natural Resources Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Searching for the Correct Benefit Estimate: Empirical Evidence for an Alternative Perspective",
+   "authors": [
+    "L. Shabman",
+    "Kurt Stephenson"
+   ],
+   "year": 1996,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Cost Implications in Achieving Alternative Water Quality Targets",
+   "authors": [
+    "J. Schleich",
+    "D. White",
+    "Kurt Stephenson"
+   ],
+   "year": 1996,
+   "venue": "Water Resources Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Environmental Policy Reform: A Taxonomy of Economists' Perspectives",
+   "authors": [
+    "L. Shabman",
+    "Kurt Stephenson"
+   ],
+   "year": 1996,
+   "venue": "Journal of Agricultural and Applied Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Comparison of Corporate Decision Networks for Nebraska and the United States",
+   "authors": [
+    "Kurt Stephenson",
+    "F.G. Hayden"
+   ],
+   "year": 1995,
+   "venue": "Journal of Economic Issues",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Critique of the Self-Interested Voter Model: The Case of a Local Single Issue Referendum",
+   "authors": [
+    "L. Shabman",
+    "Kurt Stephenson"
+   ],
+   "year": 1994,
+   "venue": "Journal of Economic Issues",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Female Representation in U.S. Centralized Private Sector Planning: The Case of Overlapping Directorships",
+   "authors": [
+    "Kurt Stephenson",
+    "S. Rakow"
+   ],
+   "year": 1993,
+   "venue": "Journal of Economic Issues",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Possibility of Community-Wide Flood Control Benefits: Evidence From Voting Behavior in a Bond Referendum",
+   "authors": [
+    "L. Shabman",
+    "Kurt Stephenson"
+   ],
+   "year": 1992,
+   "venue": "Water Resources Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Overlap of Organizations: Corporate Transorganization and Veblen's Thesis on Higher Education",
+   "authors": [
+    "F.G. Hayden",
+    "Kurt Stephenson"
+   ],
+   "year": 1992,
+   "venue": "Journal of Economic Issues",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Oyster Fishery in Rappahannock River, Chesapeake Bay, USA, East coast",
+   "authors": [
+    "G. Santopietro",
+    "J. Wesson",
+    "Kurt Stephenson"
+   ],
+   "year": 2018,
+   "venue": "Book chapter in Global Change in Marine Systems: Societal and Governing Responses (Routledge)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Nutrient Bioextraction",
+   "authors": [
+    "J. Rose",
+    "S. Becker",
+    "S. Deonarine",
+    "J. Ferreira",
+    "T. Getchis",
+    "J. Grant",
+    "J. Kim",
+    "J. Krumholz",
+    "G. Kraemer",
+    "Kurt Stephenson",
+    "G. Wikfors",
+    "C. Yarish"
+   ],
+   "year": 2015,
+   "venue": "Book chapter in Encyclopedia of Sustainability Science and Technology (Springer)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Market-like Water Quality Trading: Why It Matters, and How to Make it Happen",
+   "authors": [
+    "Leonard Shabman",
+    "Kurt Stephenson"
+   ],
+   "year": 2012,
+   "venue": "Book chapter in Aquanomics: Water Markets and the Environment (Independence Institute)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Purpose and Goal for CADRe",
+   "authors": [
+    "L. Shabman",
+    "Kurt Stephenson"
+   ],
+   "year": 2011,
+   "venue": "Book chapter in Converging Waters (US Government Printing Office)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Executing CADRe: Integration of Models with Negotiation Processes",
+   "authors": [
+    "Kurt Stephenson",
+    "L. Shabman"
+   ],
+   "year": 2011,
+   "venue": "Book chapter in Converging Waters (US Government Printing Office)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Bringing CADRe to Contemporary Water Policy: Some Challenges",
+   "authors": [
+    "Kurt Stephenson",
+    "L. Shabman"
+   ],
+   "year": 2011,
+   "venue": "Book chapter in Converging Waters (US Government Printing Office)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "EcoTaxation",
+   "authors": [
+    "L. Leon Geyer",
+    "Joseph K. Sowers",
+    "Kurt Stephenson"
+   ],
+   "year": 2009,
+   "venue": "Book chapter in Oxford Companion to Climate Change (Oxford University Press)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Trading as a Water Quality Management Tool: Prospects for a Market Alternative",
+   "authors": [
+    "James Boyd",
+    "Leonard Shabman",
+    "Kurt Stephenson"
+   ],
+   "year": 2007,
+   "venue": "Book chapter in Sustainable Watershed Management in Theory and Practice (Elsevier)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Taxonomy of Trading Programs: Concepts and Applications to TMDLs",
+   "authors": [
+    "Kurt Stephenson",
+    "Leonard Shabman",
+    "James Boyd"
+   ],
+   "year": 2006,
+   "venue": "Book chapter in TMDLs: Approaches and Challenges (PennPress)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Institutionalist Approach to Environmental Goal Setting",
+   "authors": [
+    "Kurt Stephenson"
+   ],
+   "year": 2003,
+   "venue": "Book chapter in Institutional Analysis and Economic Policy (Kluwer)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Corporate Networks: A U.S. Case Study",
+   "authors": [
+    "F. Gregory Hayden",
+    "Kurt Stephenson"
+   ],
+   "year": 1993,
+   "venue": "Book chapter in Dynamics of the Firm: Strategies of Pricing and Organization (Edward Elgar)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

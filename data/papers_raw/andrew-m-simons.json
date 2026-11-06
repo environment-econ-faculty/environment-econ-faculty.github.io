@@ -1,0 +1,334 @@
+{
+ "slug": "andrew-m-simons",
+ "name": "Andrew M. Simons",
+ "sources": [
+  "https://www.andrewmsimons.com/wp-content/uploads/2026/08/Simons_Andrew_CV_26Aug26.pdf"
+ ],
+ "collected": "2026-11-06",
+ "notes": "CV updated Aug 2026. Journal articles listed without status: 'revisions submitted' mapped to R&R; 'conditionally accepted' mapped to R&R. Working paper year = CV date (2026). Works in progress and grants skipped.",
+ "papers": [
+  {
+   "title": "Can Social Assistance Reduce Violent Conflict and Civil Unrest? Evidence from a Large-scale Public Works Program in Ethiopia",
+   "authors": [
+    "Kalle Hirvonen",
+    "Elia Axinia Machado",
+    "Andrew M. Simons"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Perceptions, Quality, and Uncertainty in Ghanaian Fertilizer Markets",
+   "authors": [
+    "Seth Asante",
+    "Kwaw S. Andam",
+    "Andrew M. Simons"
+   ],
+   "year": 2026,
+   "venue": "Journal of Development Studies",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Framework to Assess the Potential of Circular Food System Technologies",
+   "authors": [
+    "Clark Halpern",
+    "Katie Kennedy-Freeman",
+    "Christopher Barrett",
+    "Michiel van Dijk",
+    "Daniel Mason-D'Croz",
+    "Andrew M. Simons",
+    "Bart van Veen",
+    "Mario Herrero",
+    "Hannah van Zanten"
+   ],
+   "year": 2024,
+   "venue": "Global Food Security",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Indigenous Bone Fertilizer for Growth and Food Security: A Local Solution to a Global Challenge",
+   "authors": [
+    "Andrew M. Simons",
+    "Milkiyas Ahmed",
+    "Garrick Blalock",
+    "Bourcard Nesin"
+   ],
+   "year": 2023,
+   "venue": "Food Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Effects of Fuel-Efficient Cookstoves on Fuel Use, Particulate Matter, and Cooking Practices: Results from a Randomized Trial in Rural Uganda",
+   "authors": [
+    "Theresa Beltramo",
+    "Garrick Blalock",
+    "Stephen Harrell",
+    "David I. Levine",
+    "Andrew M. Simons"
+   ],
+   "year": 2023,
+   "venue": "Energy Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Plot Size Misperceptions and Soil Health: A New Research Agenda",
+   "authors": [
+    "David M.A. Murphy",
+    "Andrew M. Simons",
+    "Pieter Pypers",
+    "Meklit Chernet",
+    "Dries Roobroeck"
+   ],
+   "year": 2023,
+   "venue": "Soil Security",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Bovine Lead Exposure from Informal Battery Recycling in India",
+   "authors": [
+    "Greg Ferraro",
+    "Bret Ericson",
+    "Andrew M. Simons",
+    "Emily Nash",
+    "Mohammed Kabir"
+   ],
+   "year": 2023,
+   "venue": "Environmental Science and Pollution Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "More Than A Safety Net: Ethiopia's Flagship Public Works Program Increases Tree Cover",
+   "authors": [
+    "Kalle Hirvonen",
+    "Elia Axinia Machado",
+    "Andrew M. Simons",
+    "Vis Taraz"
+   ],
+   "year": 2022,
+   "venue": "Global Environmental Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "What is the Optimal Locus of Control for Social Assistance Programs? Evidence from the Productive Safety Net Programme in Ethiopia",
+   "authors": [
+    "Andrew M. Simons"
+   ],
+   "year": 2022,
+   "venue": "Journal of Development Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Profitability of Climate-Smart Soil Fertility Investment Varies Widely Across sub-Saharan Africa",
+   "authors": [
+    "Ellen McCullough",
+    "Julianne Quinn",
+    "Andrew M. Simons"
+   ],
+   "year": 2022,
+   "venue": "Nature Food",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Promoting Blood Donation through Social Media: Evidence from Brazil, India and the USA",
+   "authors": [
+    "Stephen Harrell",
+    "Andrew M. Simons",
+    "Peter Clasen"
+   ],
+   "year": 2022,
+   "venue": "Social Science & Medicine",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Developing Sustainable Supply Chains: Evidence from Entrepreneurship Training in Ethiopia",
+   "authors": [
+    "Garrick Blalock",
+    "Bourcard Nesin",
+    "Andrew M. Simons"
+   ],
+   "year": 2022,
+   "venue": "Africa Journal of Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Quest for Greener Pastures: Evaluating the Livelihoods Impacts of Providing Vegetation Condition Maps to Pastoralists in Eastern Africa",
+   "authors": [
+    "Elia Axinia Machado",
+    "Helene Purcell",
+    "Andrew M. Simons",
+    "Stephanie Swinehart"
+   ],
+   "year": 2020,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Making Business Statistics Come Alive: Incorporating Field Trial Data from A Cookstove Study into the Classroom",
+   "authors": [
+    "Andrew M. Simons"
+   ],
+   "year": 2020,
+   "venue": "Applied Economics Teaching Resources",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "What Impedes Efficient Adoption of Products? Evidence from Randomized Sales Offers for Fuel-Efficient Cookstoves in Uganda",
+   "authors": [
+    "David I. Levine",
+    "Theresa Beltramo",
+    "Garrick Blalock",
+    "Carolyn Cotterman",
+    "Andrew M. Simons"
+   ],
+   "year": 2018,
+   "venue": "Journal of the European Economic Association",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Sensor Data to Measure Hawthorne Effects in Cookstove Evaluation",
+   "authors": [
+    "Andrew M. Simons",
+    "Theresa Beltramo",
+    "Garrick Blalock",
+    "David I. Levine"
+   ],
+   "year": 2018,
+   "venue": "Data in Brief",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Using Unobtrusive Sensors to Quantify and Minimize Hawthorne Effects: Evidence from Cookstoves",
+   "authors": [
+    "Andrew M. Simons",
+    "Theresa Beltramo",
+    "Garrick Blalock",
+    "David I. Levine"
+   ],
+   "year": 2017,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "What is a Meal?: Comparative Methods of Auditing Carbon Offset Compliance for Fuel-Efficient Cookstoves",
+   "authors": [
+    "Stephen Harrell",
+    "Theresa Beltramo",
+    "Garrick Blalock",
+    "Juliet Kyayesimira",
+    "David I. Levine",
+    "Andrew M. Simons"
+   ],
+   "year": 2016,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Effect of Marketing Messages and Payment Over Time on Willingness to Pay for Fuel-Efficient Cookstoves",
+   "authors": [
+    "Theresa Beltramo",
+    "Garrick Blalock",
+    "David I. Levine",
+    "Andrew M. Simons"
+   ],
+   "year": 2015,
+   "venue": "Journal of Economic Behavior & Organization",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Does Peer Use Influence Adoption of Efficient Cookstoves?: Evidence from a Randomized Controlled Trial in Uganda",
+   "authors": [
+    "Theresa Beltramo",
+    "Garrick Blalock",
+    "David I. Levine",
+    "Andrew M. Simons"
+   ],
+   "year": 2015,
+   "venue": "Journal of Health Communication",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Comparing Methods for Signal Analysis of Temperature Readings from Stove Use Monitors",
+   "authors": [
+    "Andrew M. Simons",
+    "Theresa Beltramo",
+    "Garrick Blalock",
+    "David I. Levine"
+   ],
+   "year": 2014,
+   "venue": "Biomass and Bioenergy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Filling the Phosphorus Fertilizer Gap in Developing Countries",
+   "authors": [
+    "Andrew M. Simons",
+    "Dawit Solomon",
+    "Worku Chibssa",
+    "Garrick Blalock",
+    "Johannes Lehmann"
+   ],
+   "year": 2014,
+   "venue": "Nature Geoscience",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Ecology and Economics of Food Systems: Learning by Doing (and Volunteering)",
+   "authors": [
+    "Andrew M. Simons",
+    "Dawn Fariello",
+    "Aleyna Rodriguez",
+    "Keisha Shay"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

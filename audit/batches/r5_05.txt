@@ -1,0 +1,14 @@
+- michael-ellerbrock | Michael Ellerbrock | Virginia Tech | (none) | https://aaec.vt.edu/content/dam/aaec_vt_edu/faculty-cv/Ellerbrock%20Brief%20CV%209%2012%202025.pdf | https://aaec.vt.edu/people/faculty/ellerbrock-michael.html
+- man-li | Man Li | Virginia Tech | (none) | (none) | https://aaec.vt.edu/people/faculty/li.html
+- wei-zhang | Wei Zhang | Virginia Tech | (none) | https://aaec.vt.edu/content/dam/aaec_vt_edu/faculty-cv/Zhang_CV_0725.pdf | https://aaec.vt.edu/people/faculty/Zhang-Wei.html
+- elinor-benami | Elinor Benami | Virginia Tech | https://www.ebenami.com/ | https://aaec.vt.edu/content/dam/aaec_vt_edu/faculty-cv/cv_Benami_June2025.pdf | https://aaec.vt.edu/people/faculty/benami-elinor.html
+- zhenshan-chen | Zhenshan Chen | Virginia Tech | (none) | (none) | https://aaec.vt.edu/people/faculty/Chen-Zhenshan.html
+- shourish-chakravarty | Shourish Chakravarty | Virginia Tech | (none) | https://aaec.vt.edu/content/dam/aaec_vt_edu/faculty-cv/CV_Chakravarty_Nov24.pdf | https://aaec.vt.edu/people/faculty/chakravarty.html
+- r-mark-isaac | R. Mark Isaac | Florida State University | http://myweb.fsu.edu/misaac/ | (none) | https://cosspp.fsu.edu/economics/faculty/mark-issac/
+- kathleen-segerson | Kathleen Segerson | University of Connecticut | https://econ.uconn.edu/person/kathleen-segerson/ | https://econ.media.uconn.edu/wp-content/uploads/sites/681/2015/09/Segerson-cv-August-2024.pdf | https://econ.uconn.edu/person/kathleen-segerson/
+- paul-hallwood | Paul Hallwood | University of Connecticut | https://econ.uconn.edu/hallwood-2/ | https://econ.media.uconn.edu/wp-content/uploads/sites/681/2015/09/Hallwood-PUBLICATIONS-BY-CATEGORY_2026.pdf | https://econ.uconn.edu/person/paul-hallwood/
+- ling-huang | Ling Huang | University of Connecticut | https://sites.google.com/site/linghuangecon/ | (none) | https://econ.uconn.edu/person/ling-huang/
+- michele-baggio | Michele Baggio | University of Connecticut | https://www.michelebaggio.com/ | (none) | https://econ.uconn.edu/person/michele-baggio/
+- allen-peters | Allen Peters | University of Connecticut | https://alpeters.github.io/ | (none) | https://econ.uconn.edu/person/allen-peters/
+- harim-kim | Harim Kim | University of Connecticut | https://sites.google.com/a/umich.edu/harimkim/ | (none) | https://econ.uconn.edu/person/harim-kim/
+- charles-towe | Charles Towe | University of Connecticut | https://are.uconn.edu/person/charles-towe/ | https://are.uconn.edu/wp-content/uploads/sites/2327/2023/06/Towe_cv_2023.pdf | https://are.uconn.edu/person/charles-towe/

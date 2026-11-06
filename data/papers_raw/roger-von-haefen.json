@@ -1,0 +1,435 @@
+{
+ "slug": "roger-von-haefen",
+ "name": "Roger von Haefen",
+ "sources": [
+  "https://cals.ncsu.edu/agricultural-and-resource-economics/wp-content/uploads/sites/46/2017/07/vita_von_Haefen.pdf (CV revised Oct 2021)",
+  "https://rvhaefen.wordpress.ncsu.edu/publications/"
+ ],
+ "collected": "2026-11-06",
+ "notes": "CV is dated Oct 2021 (homepage lists only 3 publications and an empty working-papers page), so output after 2021 is missing and the four 'forthcoming' items (given year 2021) may since have been published. Some CV items 'et al.' for the 2018 JEEM Deepwater Horizon paper: only English and von Haefen are named in the CV ('and others'; the full byline is not given). Working-paper dates are the month/year printed on the CV (2017-2020). Book review, short proceedings, one encyclopedia chapter and research-in-progress (no drafts) omitted. Venue 'Land Economics' etc as written.",
+ "papers": [
+  {
+   "title": "How Does Congestion Affect the Evaluation of Recreational Gate Fees? An Application to Gulf Coast Beaches",
+   "authors": [
+    "Roger H. von Haefen",
+    "Frank Lupi"
+   ],
+   "year": 2021,
+   "venue": "Land Economics",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Distributional Effects of Entry Fees for Financing Public Beaches",
+   "authors": [
+    "Frank Lupi",
+    "Roger H. von Haefen",
+    "Li Cheng"
+   ],
+   "year": 2021,
+   "venue": "Land Economics",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Air Pollution and Trade: The Case of China",
+   "authors": [
+    "Jin Qin",
+    "Ivan Kandilov",
+    "Roger H. von Haefen"
+   ],
+   "year": 2021,
+   "venue": "Frontiers of Economics in China",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Importance of Data Structure and Non-linearities in Estimating Climate Impacts on Outdoor Recreation",
+   "authors": [
+    "Steven Dundas",
+    "Roger H. von Haefen"
+   ],
+   "year": 2021,
+   "venue": "Natural Hazards",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Best Practices for Implementing Recreation Demand Models",
+   "authors": [
+    "Frank Lupi",
+    "Daniel Phaneuf",
+    "Roger H. von Haefen"
+   ],
+   "year": 2020,
+   "venue": "Review of Environmental Economics and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Effects of Weather on Recreational Fishing Demand and Adaptation: Implications for a Changing Climate",
+   "authors": [
+    "Steven Dundas",
+    "Roger H. von Haefen"
+   ],
+   "year": 2020,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Fixed Costs and Recreation Value",
+   "authors": [
+    "Eric English",
+    "Ted McConnell",
+    "Joseph Herriges",
+    "Frank Lupi",
+    "Roger H. von Haefen"
+   ],
+   "year": 2019,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do Random Coefficient and Alternative Specific Constants Improve Policy Analysis? An Empirical Investigation of Model Fit and Prediction",
+   "authors": [
+    "H. Allen Klaiber",
+    "Roger H. von Haefen"
+   ],
+   "year": 2019,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Estimating the Value of Lost Recreation Days from the Deepwater Horizon Oil Spill",
+   "authors": [
+    "Eric English",
+    "Roger H. von Haefen"
+   ],
+   "year": 2018,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Estimating Mixed Logit Recreation Demand Models with Large Choice Sets",
+   "authors": [
+    "Adam Domanski",
+    "Roger H. von Haefen"
+   ],
+   "year": 2018,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Costs of Endangered Species Protection on Public Land: Evidence from Cape Hatteras National Seashore",
+   "authors": [
+    "Steven Dundas",
+    "Roger H. von Haefen",
+    "Carol Mansfield"
+   ],
+   "year": 2018,
+   "venue": "Marine Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Conservation Policies: Who Responds to Price and Who Responds to Prescription?",
+   "authors": [
+    "Casey Wichman",
+    "Laura Taylor",
+    "Roger H. von Haefen"
+   ],
+   "year": 2016,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Combining Expert Elicitation and Stated Preference Methods to Value Ecosystem Services from Improved Water Quality",
+   "authors": [
+    "George Van Houtven",
+    "Carol Mansfield",
+    "Daniel Phaneuf",
+    "Roger H. von Haefen",
+    "Bryan Milstead",
+    "Melissa Kenney",
+    "Kenneth Reckhow"
+   ],
+   "year": 2014,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Microeconometric Strategies for Dealing with Unobservables and Endogenous Variables in Recreation Demand Models",
+   "authors": [
+    "Klaus Moeltner",
+    "Roger H. von Haefen"
+   ],
+   "year": 2011,
+   "venue": "Annual Review of Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Incomplete Demand Systems, Corner Solutions, and Welfare Measurement",
+   "authors": [
+    "Roger H. von Haefen"
+   ],
+   "year": 2010,
+   "venue": "Agricultural and Resource Economics Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How Do Gasoline Prices Affect Fleet Fuel Economy?",
+   "authors": [
+    "Shanjun Li",
+    "Christopher Timmins",
+    "Roger H. von Haefen"
+   ],
+   "year": 2009,
+   "venue": "American Economic Journal: Economic Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Distributional and Efficiency Impacts of Increased U.S. Gasoline Taxes",
+   "authors": [
+    "Antonio M. Bento",
+    "Lawrence H. Goulder",
+    "Mark R. Jacobsen",
+    "Roger H. von Haefen"
+   ],
+   "year": 2009,
+   "venue": "American Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Latent Consideration Sets and Continuous Demand System Models",
+   "authors": [
+    "Roger H. von Haefen"
+   ],
+   "year": 2008,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Identifying Demand Parameters in the Presence of Unobservables: A Combined Revealed and Stated Preference Approach",
+   "authors": [
+    "Roger H. von Haefen",
+    "Daniel J. Phaneuf"
+   ],
+   "year": 2008,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Empirical Strategies for Incorporating Weak Complementarity into Consumer Demand Models",
+   "authors": [
+    "Roger H. von Haefen"
+   ],
+   "year": 2007,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Serial Non-Participation in Repeated Discrete Choice Models",
+   "authors": [
+    "Roger H. von Haefen",
+    "D. Matthew Massey",
+    "Wiktor Adamowicz"
+   ],
+   "year": 2005,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Estimation and Welfare Analysis with Large Demand Systems",
+   "authors": [
+    "Roger H. von Haefen",
+    "Daniel J. Phaneuf",
+    "George R. Parsons"
+   ],
+   "year": 2004,
+   "venue": "Journal of Business & Economic Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Estimating Preferences for Outdoor Recreation: A Comparison of Continuous and Count Data Demand System Frameworks",
+   "authors": [
+    "Roger H. von Haefen",
+    "Daniel J. Phaneuf"
+   ],
+   "year": 2003,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Note on Estimating Nested CES Preferences of Recreation Demand",
+   "authors": [
+    "Roger H. von Haefen",
+    "Daniel J. Phaneuf"
+   ],
+   "year": 2003,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Incorporating Observed Choice into the Construction of Welfare Measures from Random Utility Models",
+   "authors": [
+    "Roger H. von Haefen"
+   ],
+   "year": 2003,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Complete Characterization of the Linear, Log-Linear, and Semi-Log Incomplete Demand System Models",
+   "authors": [
+    "Roger H. von Haefen"
+   ],
+   "year": 2002,
+   "venue": "Journal of Agricultural and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do Environmental Regulations Increase Construction Costs for Federal Aid Highways? A Statistical Experiment",
+   "authors": [
+    "V. Kerry Smith",
+    "Roger H. von Haefen",
+    "Wei Zhu"
+   ],
+   "year": 1999,
+   "venue": "Journal of Transportation and Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Welfare Measurement and Representative Consumer Theory",
+   "authors": [
+    "V. Kerry Smith",
+    "Roger H. von Haefen"
+   ],
+   "year": 1997,
+   "venue": "Economics Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Estimating the Demand for Quality with Discrete Choice Models (book chapter)",
+   "authors": [
+    "Daniel J. Phaneuf",
+    "Roger H. von Haefen"
+   ],
+   "year": 2009,
+   "venue": "Book chapter (Quantifying Consumer Preferences, Emerald Press)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Continuous Demand System Approaches to Nonmarket Valuation (book chapter)",
+   "authors": [
+    "Roger H. von Haefen",
+    "Daniel J. Phaneuf"
+   ],
+   "year": 2005,
+   "venue": "Book chapter (Applications of Simulation Methods in Environmental and Resource Economics, Springer)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Using Aggregate Counts to Improve Policy Inference from On-Site Samples: An Application to the Peninsula Valdes World Heritage Site in Argentina",
+   "authors": [
+    "Stephanie Stefanski",
+    "Roger H. von Haefen"
+   ],
+   "year": 2020,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Should We Combine Single and Multi-Day Trips in Travel Cost Models?",
+   "authors": [
+    "Eric English",
+    "Kenneth E. McConnell",
+    "Frank Lupi",
+    "Roger H. von Haefen"
+   ],
+   "year": 2019,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "BP Oil Spill Caused Damages to Recreationists Across the United States",
+   "authors": [
+    "Roger H. von Haefen"
+   ],
+   "year": 2017,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Measuring College Tuition Prices",
+   "authors": [
+    "Boris Zhukov",
+    "Roger H. von Haefen"
+   ],
+   "year": 2018,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

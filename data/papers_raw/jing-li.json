@@ -1,0 +1,119 @@
+{
+ "slug": "jing-li",
+ "name": "Jing Li",
+ "sources": [
+  "https://jingli-econ.github.io/",
+  "https://www.mit.edu/~lijing/documents/jingli_cv.pdf (CV July 2024, outdated, superseded by homepage)"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Used homepage (current: published, working papers). Homepage lists coauthors; byline order set as listed on the page for the 2025+ items where shown, otherwise alphabetical by surname incl. scholar (page gives only coauthor lists). JEEM HOV paper year shown as 2027 on page (vol. 141) kept as listed. Compatibility paper: homepage says revisions requested (second round), AER, version Aug 2023. Skipped work in progress.",
+ "papers": [
+  {
+   "title": "Beyond the Early Era of EVs: Evidence from the Staggered Rollout of the HOV Lane Network in California",
+   "authors": [
+    "Eric Avis",
+    "Jing Li",
+    "Katalin Springel"
+   ],
+   "year": 2027,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/pii/S0095069626001348",
+   "abstract": null
+  },
+  {
+   "title": "Political Ideology and U.S. Electric Vehicle Adoption",
+   "authors": [
+    "Lucas Davis",
+    "Jing Li",
+    "Katalin Springel"
+   ],
+   "year": 2026,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "https://www.journals.uchicago.edu/doi/10.1086/742108",
+   "abstract": null
+  },
+  {
+   "title": "Colluding Against Environmental Regulation",
+   "authors": [
+    "Jorge Ale-Chilet",
+    "Cuicui Chen",
+    "Jing Li",
+    "Mathias Reynaert"
+   ],
+   "year": 2026,
+   "venue": "Review of Economic Studies",
+   "status": "已发表",
+   "url": "https://doi.org/10.1093/restud/rdaf024",
+   "abstract": null
+  },
+  {
+   "title": "The Short-run and Long-run Effects of Covid-19 on Energy and the Environment",
+   "authors": [
+    "Kenneth T. Gillingham",
+    "Christopher R. Knittel",
+    "Jing Li",
+    "Marten Ovaere",
+    "Mar Reguant"
+   ],
+   "year": 2020,
+   "venue": "Joule",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.joule.2020.06.010",
+   "abstract": null
+  },
+  {
+   "title": "Cost Pass-Through to Higher Ethanol Blends at the Pump: Evidence from Minnesota Gas Station Data",
+   "authors": [
+    "Jing Li",
+    "James H. Stock"
+   ],
+   "year": 2019,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Compatibility and Investment in the U.S. Electric Vehicle Market",
+   "authors": [
+    "Jing Li"
+   ],
+   "year": 2023,
+   "venue": "American Economic Review",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Planes Overhead: How Airplane Noise Impacts Home Values",
+   "authors": [
+    "Florian Allroggen",
+    "R. John Hansman",
+    "Christopher R. Knittel",
+    "Jing Li",
+    "Xibo Wan",
+    "Juju Wang"
+   ],
+   "year": 2025,
+   "venue": "NBER Working Paper",
+   "status": "工作论文",
+   "url": "https://www.nber.org/papers/w34431",
+   "abstract": null
+  },
+  {
+   "title": "How Incentive Design Shapes Pass-Through: Evidence from the U.S. Electric Vehicle Market",
+   "authors": [
+    "Jing Li",
+    "David Scolari",
+    "Katalin Springel"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

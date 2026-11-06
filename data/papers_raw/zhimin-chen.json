@@ -1,0 +1,89 @@
+{
+ "slug": "zhimin-chen",
+ "name": "Zhimin Chen",
+ "sources": [
+  "https://www.zhiminchen.net/"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Homepage only (no CV). Page lists co-authors after 'with'; author order as on page, Chen first (not confirmed). Statuses not stated except Nature Climate Change (published); others working papers. Years: Real Effects of Carbon Financialization 2024 (award year), others 2026 per awards/page date. Nature Climate Change author order unverified.",
+ "papers": [
+  {
+   "title": "Real Effects of Carbon Financialization",
+   "authors": [
+    "Zhimin Chen"
+   ],
+   "year": 2024,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4829942",
+   "abstract": null
+  },
+  {
+   "title": "Limits To (Machine) Learning",
+   "authors": [
+    "Zhimin Chen",
+    "Bryan Kelly",
+    "Semyon Malamud"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5909844",
+   "abstract": null
+  },
+  {
+   "title": "Environmental-Unfriendly Tax Avoidance",
+   "authors": [
+    "Zhimin Chen",
+    "Martin Jacob",
+    "Xiang Zheng"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6187120",
+   "abstract": null
+  },
+  {
+   "title": "Private Equity and Biodiversity Offset Markets",
+   "authors": [
+    "Zhimin Chen",
+    "Keyu Zang"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://ssrn.com/abstract=6462661",
+   "abstract": null
+  },
+  {
+   "title": "Estimating Synergy Effects of Multiple Treatments in Staggered Adoption Designs",
+   "authors": [
+    "Zhimin Chen",
+    "Rui Dai",
+    "Sadat Reza",
+    "Peiwen Xie"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Ecological Integrity of Avoided Deforestation Projects",
+   "authors": [
+    "Zhimin Chen",
+    "Kelly Ong",
+    "Tao Chen",
+    "Carlos T. Pérez-Brito",
+    "Yiwen Zeng"
+   ],
+   "year": 2026,
+   "venue": "Nature Climate Change",
+   "status": "已发表",
+   "url": "https://doi.org/10.1038/s41558-026-02657-2",
+   "abstract": null
+  }
+ ]
+}

@@ -1,0 +1,467 @@
+{
+ "slug": "michael-ash",
+ "name": "Michael Ash",
+ "sources": [
+  "https://www.umass.edu/economics/about/directory/michael-ash",
+  "https://www.umass.edu/economics/media/165/download (CV Aug 2023)"
+ ],
+ "collected": "2026-11-06",
+ "notes": "CV dated Aug 2023 (homepage people.umass.edu/mash not opened). Some CV bylines are alphabetical by author's note. 'Greenhouse Suppliers 100' venue text is garbled in the CV ('Forthcoming. The Japanese Political Economy') - recorded as given, year 2023. Skipped short non-research pieces (Massachusetts Benchmarks, Rev. Radical Pol. Econ. note, Civilization), the school-segregation and dimensional-analysis items without drafts, and PERI WP duplicates of published papers.",
+ "papers": [
+  {
+   "title": "Greenhouse Suppliers 100: A Ranking of Corporate Producers of Greenhouse Gas Precursors in the USA",
+   "authors": [
+    "Michael Ash",
+    "James K. Boyce",
+    "Richard Puchalsky"
+   ],
+   "year": 2023,
+   "venue": "The Japanese Political Economy",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Enabling an Equitable Energy Transition Through Inclusive Research",
+   "authors": [
+    "A. P. Ravikumar",
+    "E. Baker",
+    "A. Bates",
+    "D. Nock",
+    "D. Venkataraman",
+    "T. Johnson",
+    "M. Ash",
+    "S. Z. Attari",
+    "K. Bowie",
+    "S. Carley",
+    "S. Castellanos",
+    "M. Cha",
+    "D. L. Clark",
+    "D. Deane-Ryan",
+    "D. Djokic",
+    "J. C. Ford",
+    "A. Goldstein",
+    "E. Grubert",
+    "L. Hu",
+    "D. M. Kammen",
+    "U. Kosar",
+    "C. Miller",
+    "M. Pastor",
+    "M. Tuominen"
+   ],
+   "year": 2023,
+   "venue": "Nature Energy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Just decarbonization? Environmental inequality, air quality, and the clean energy transition",
+   "authors": [
+    "Bridget Diana",
+    "Michael Ash",
+    "James K. Boyce"
+   ],
+   "year": 2023,
+   "venue": "Industrial and Corporate Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Environmental justice and carbon pricing: can they be reconciled?",
+   "authors": [
+    "James K. Boyce",
+    "Michael Ash",
+    "Brent Ranalli"
+   ],
+   "year": 2023,
+   "venue": "Global Challenges",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Initially High Correlation between Air Pollution and COVID-19 Mortality Declined to Zero as the Pandemic Progressed: There Is No Evidence for a Causal Link between Air Pollution and COVID-19 Vulnerability",
+   "authors": [
+    "B. M. Taylor",
+    "M. Ash",
+    "L. P. King"
+   ],
+   "year": 2022,
+   "venue": "International Journal of Environmental Research and Public Health",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Assessing the equity and effectiveness of PerformanceStat systems",
+   "authors": [
+    "O. Pasha",
+    "A. Kroll",
+    "M. Ash"
+   ],
+   "year": 2021,
+   "venue": "International Public Management Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Incarceration and mortality in the United States",
+   "authors": [
+    "E. Nosrati",
+    "J. Kang-Brown",
+    "M. Ash",
+    "M. Marmot",
+    "M. McKee",
+    "L. P. King"
+   ],
+   "year": 2021,
+   "venue": "SSM - Population Health",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic decline, incarceration, and mortality from drug use disorders: an observational study of U.S. counties",
+   "authors": [
+    "E. Nosrati",
+    "J. Kang-Brown",
+    "M. Ash",
+    "M. Marmot",
+    "M. McKee",
+    "L. P. King"
+   ],
+   "year": 2019,
+   "venue": "The Lancet Public Health",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Racial disparities in pollution exposure and employment at US industrial facilities",
+   "authors": [
+    "M. Ash",
+    "J. K. Boyce"
+   ],
+   "year": 2018,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The association between income and life expectancy revisited: deindustrialization, incarceration and the widening health gap",
+   "authors": [
+    "E. Nosrati",
+    "M. Ash",
+    "M. Marmot",
+    "M. McKee",
+    "L. P. King"
+   ],
+   "year": 2017,
+   "venue": "International Journal of Epidemiology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Measuring environmental inequality",
+   "authors": [
+    "J. Boyce",
+    "K. Zwickl",
+    "M. Ash"
+   ],
+   "year": 2016,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Regional variation in environmental inequality: Industrial air toxics exposure in U.S. cities",
+   "authors": [
+    "K. Zwickl",
+    "M. Ash",
+    "J. Boyce"
+   ],
+   "year": 2014,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Does High Public Debt Consistently Stifle Economic Growth? A Critique of Reinhart and Rogoff",
+   "authors": [
+    "T. Herndon",
+    "M. Ash",
+    "R. Pollin"
+   ],
+   "year": 2014,
+   "venue": "Cambridge Journal of Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Is Environmental Justice Good for White Folks?",
+   "authors": [
+    "M. Ash",
+    "J. K. Boyce",
+    "G. Chang",
+    "H. Scharber"
+   ],
+   "year": 2013,
+   "venue": "Social Science Quarterly",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Hospital RN job satisfaction and nurse unions",
+   "authors": [
+    "J. A. Seago",
+    "J. Spetz",
+    "M. Ash",
+    "C. Herrera",
+    "D. Keane"
+   ],
+   "year": 2011,
+   "venue": "Journal of Nursing Administration",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The effect of unions on the distribution of wages of hospital-employed registered nurses in the United States",
+   "authors": [
+    "J. Spetz",
+    "M. Ash",
+    "C. Konstantinidis",
+    "C. Herrera"
+   ],
+   "year": 2011,
+   "venue": "Journal of Clinical Nursing",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Measuring Corporate Environmental Justice Performance",
+   "authors": [
+    "M. Ash",
+    "J. Boyce"
+   ],
+   "year": 2010,
+   "venue": "Corporate Social Responsibility and Environmental Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Constructing a quadrilateral inside another one",
+   "authors": [
+    "J. M. Ash",
+    "M. Ash",
+    "P. Ash"
+   ],
+   "year": 2009,
+   "venue": "Mathematical Gazette",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Inequality, race, and mortality in U.S. cities: A political and econometric review of Deaton and Lubotsky",
+   "authors": [
+    "M. Ash",
+    "D. Robinson"
+   ],
+   "year": 2009,
+   "venue": "Social Science & Medicine",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic Parameters of End-of-Life Care: Some policy implications in an era of health care reform",
+   "authors": [
+    "M. Ash",
+    "S. Arons"
+   ],
+   "year": 2009,
+   "venue": "Western New England Law Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An EU sky trust: Can a lower-income country afford climate policy",
+   "authors": [
+    "V. Ferjentsik",
+    "M. Ash"
+   ],
+   "year": 2008,
+   "venue": "Environmental Liability",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Whose Money, Whose Time? A Nonparametric Approach to Modeling Time Spent on Housework in the United States",
+   "authors": [
+    "S. Gupta",
+    "M. Ash"
+   ],
+   "year": 2008,
+   "venue": "Feminist Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Separate and Unequal: The Effect of Unequal Access to Employment-Based Health Insurance on Same-Sex and Different-Sex Couples",
+   "authors": [
+    "M. Ash",
+    "M. V. L. Badgett"
+   ],
+   "year": 2006,
+   "venue": "Contemporary Economic Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Disparities in Asthma Hospitalization in Massachusetts",
+   "authors": [
+    "M. Ash",
+    "S. Brandt"
+   ],
+   "year": 2006,
+   "venue": "American Journal of Public Health",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Effect of Registered Nurses' Unions on Heart Attack Mortality",
+   "authors": [
+    "M. Ash",
+    "J. A. Seago"
+   ],
+   "year": 2004,
+   "venue": "Industrial and Labor Relations Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Who Lives on the Wrong Side of the Environmental Tracks? Evidence from the EPA's Risk Screening Environmental Indicators Model",
+   "authors": [
+    "M. Ash",
+    "T. R. Fetter"
+   ],
+   "year": 2004,
+   "venue": "Social Science Quarterly",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Stock Market Liquidity and Economic Growth: A Critical Appraisal of the Levine/Zervos Model",
+   "authors": [
+    "A. Zhu",
+    "M. Ash",
+    "R. Pollin"
+   ],
+   "year": 2004,
+   "venue": "International Review of Applied Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Registered Nurse Unions and Patient Outcomes",
+   "authors": [
+    "J. A. Seago",
+    "M. Ash"
+   ],
+   "year": 2002,
+   "venue": "Journal of Nursing Administration",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Measuring Shortages of Hospital Nurses: How Do You Know a Hospital with a Nursing Shortage When You See One?",
+   "authors": [
+    "K. Grumbach",
+    "M. Ash",
+    "J. A. Seago",
+    "J. Spetz",
+    "J. Coffman"
+   ],
+   "year": 2001,
+   "venue": "Medical Care Research and Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Hospital registered nurse shortage: Environmental, patient and institutional predictors",
+   "authors": [
+    "J. A. Seago",
+    "M. Ash",
+    "K. Grumbach",
+    "J. Spetz",
+    "J. Coffman"
+   ],
+   "year": 2001,
+   "venue": "Health Services Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Assessing U.S. consumers' carbon footprints reveals outsized impact of the top 1%",
+   "authors": [
+    "J. Starr",
+    "C. Nicolson",
+    "M. Ash",
+    "E. M. Markowitz"
+   ],
+   "year": 2023,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Genetic Diversity and Economic Development: Assessing the Key Findings in Ashraf and Galor (2013)",
+   "authors": [
+    "R. Caraher",
+    "M. Ash"
+   ],
+   "year": 2018,
+   "venue": "UMass Amherst Economics Working Paper 2018-05",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Public Debt and Growth: An Assessment of Key Findings on Causality and Thresholds",
+   "authors": [
+    "M. Ash",
+    "D. Basu",
+    "A. Dube"
+   ],
+   "year": 2017,
+   "venue": "UMass Amherst Economics Working Paper 2017-10 / PERI Working Paper 433",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

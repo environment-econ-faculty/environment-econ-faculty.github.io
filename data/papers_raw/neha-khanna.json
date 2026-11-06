@@ -1,0 +1,308 @@
+{
+ "slug": "neha-khanna",
+ "name": "Neha Khanna",
+ "sources": [
+  "https://bingdev.binghamton.edu/nkhanna/ (403 Forbidden)",
+  "https://www.binghamton.edu/institutes/kaschak-social-justice-institute/docs/clim-chng-cv.pdf",
+  "web search snippet of personal site / RePEc"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Homepage and CV returned 403; used Binghamton Climate Change CV (2022, climate-related subset only) plus one web search result for JAERE papers. List is therefore INCOMPLETE and may omit post-2022 work; years for the two JAERE items from search (2023 for Zhang-Khanna; shutdown paper year unverified, 2025 assumed). Venues for the two 2006 EKC pieces (Note on 'Simple Analytics...', 'Preferences, Income and the Environment') not determinable from source: marked 'Journal article (venue not identified)'. Coauthor bylines taken from CV. Skipped: policy challenge paper, in-progress items without drafts.",
+ "papers": [
+  {
+   "title": "Public Pressure and the Heterogeneous Effects of Voluntary Pollution Abatement",
+   "authors": [
+    "Ruohao Zhang",
+    "Neha Khanna"
+   ],
+   "year": 2023,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Monitoring and Enforcement and Environmental Compliance: Power Plant Emissions During the 2018-19 Federal Government Shutdown",
+   "authors": [
+    "Neha Khanna",
+    "Ruohao Zhang",
+    "Huan Li"
+   ],
+   "year": 2025,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "https://doi.org/10.22004/ag.econ.305182",
+   "abstract": null
+  },
+  {
+   "title": "Environmental Justice and the Multigenerational Persistence of Environmental Exposure",
+   "authors": [
+    "Neha Khanna"
+   ],
+   "year": 2022,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://www.epa.gov/environmental-economics/environmental-justice-and-multigenerational-persistence-environmental",
+   "abstract": null
+  },
+  {
+   "title": "The Environmental Justice of the COVID-19 Pandemic: Evidence from New York State",
+   "authors": [
+    "Ruohao Zhang",
+    "Huan Li",
+    "Neha Khanna"
+   ],
+   "year": 2021,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/34667335/",
+   "abstract": null
+  },
+  {
+   "title": "Local Air Quality Impacts of Shale Gas Development in Pennsylvania",
+   "authors": [
+    "Ruohao Zhang",
+    "Huan Li",
+    "Neha Khanna",
+    "Daniel Sullivan",
+    "Alan Krupnick",
+    "Elaine Hill"
+   ],
+   "year": 2020,
+   "venue": "Journal article (venue not identified)",
+   "status": "已发表",
+   "url": "https://www.rff.org/publications/journal-articles/",
+   "abstract": null
+  },
+  {
+   "title": "High Priority Violations and Intra-firm Pollution Substitution",
+   "authors": [
+    "Binish Rijal",
+    "Neha Khanna"
+   ],
+   "year": 2020,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jeem.2020.102359",
+   "abstract": null
+  },
+  {
+   "title": "Cooking Fuel Choice, Indoor Air Quality and Child Mortality in India",
+   "authors": [
+    "Arnab K. Basu",
+    "Tsenguunjav Byambasuren",
+    "Nancy H. Chau",
+    "Neha Khanna"
+   ],
+   "year": 2020,
+   "venue": "IZA Discussion Paper",
+   "status": "工作论文",
+   "url": "https://www.iza.org/publications/dp/13295/cooking-fuel-choice-indoor-air-quality-and-child-mortality-in-india",
+   "abstract": null
+  },
+  {
+   "title": "Hybrids and Household Behavior: Implications for Miles Traveled and Gasoline Consumption",
+   "authors": [
+    "Neha Khanna",
+    "Shanxia Sun",
+    "Michael S. Delgado"
+   ],
+   "year": 2019,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://doi.org/10.22004/ag.econ.258502",
+   "abstract": null
+  },
+  {
+   "title": "Good News for Environmental Self Regulation? Finding the Right Link",
+   "authors": [
+    "Neha Khanna",
+    "Yanbing Wang",
+    "Michael S. Delgado",
+    "Vicki Bogan"
+   ],
+   "year": 2019,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jeem.2019.01.009",
+   "abstract": null
+  },
+  {
+   "title": "The Value of Environmental Status Signaling",
+   "authors": [
+    "Neha Khanna",
+    "Michael Delgado",
+    "Jessica Harriger"
+   ],
+   "year": 2015,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.ecolecon.2014.12.021",
+   "abstract": null
+  },
+  {
+   "title": "Voluntary Pollution Abatement and Regulation",
+   "authors": [
+    "Neha Khanna",
+    "Michael S. Delgado"
+   ],
+   "year": 2015,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://doi.org/10.22004/ag.econ.200993",
+   "abstract": null
+  },
+  {
+   "title": "Output, Emissions and Technology: Some Thoughts",
+   "authors": [
+    "Neha Khanna"
+   ],
+   "year": 2013,
+   "venue": "Economics Letters",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.econlet.2012.11.007",
+   "abstract": null
+  },
+  {
+   "title": "Is Voluntary Pollution Abatement in the Absence of a Carrot or Stick Effective? Evidence from Facility Participation in the EPA's 33/50 Program",
+   "authors": [
+    "Martina Vidovic",
+    "Neha Khanna"
+   ],
+   "year": 2012,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "https://link.springer.com/article/10.1007/s10640-011-9533-3",
+   "abstract": null
+  },
+  {
+   "title": "Total Factor Productivity and the Environmental Kuznets Curve: A Comment and Some Intuition",
+   "authors": [
+    "Neha Khanna",
+    "Florenz Plassmann"
+   ],
+   "year": 2007,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.ecolecon.2006.09.020",
+   "abstract": null
+  },
+  {
+   "title": "Can Voluntary Pollution Prevention Programs Fulfill Their Promises? Evidence from the 33/50 Program",
+   "authors": [
+    "Martina Vidovic",
+    "Neha Khanna"
+   ],
+   "year": 2007,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jeem.2006.10.001",
+   "abstract": null
+  },
+  {
+   "title": "A Note on the 'Simple Analytics of the Environmental Kuznets Curve'",
+   "authors": [
+    "Neha Khanna",
+    "Florenz Plassmann"
+   ],
+   "year": 2006,
+   "venue": "Journal article (venue not identified)",
+   "status": "已发表",
+   "url": "https://www.jstor.org/stable/44379236",
+   "abstract": null
+  },
+  {
+   "title": "Household Income and Pollution: Implications for the Debate About the Environmental Kuznets Curve Hypothesis",
+   "authors": [
+    "Neha Khanna",
+    "Florenz Plassmann"
+   ],
+   "year": 2006,
+   "venue": "The Journal of Environment & Development",
+   "status": "已发表",
+   "url": "https://doi.org/10.1177/1070496505285466",
+   "abstract": null
+  },
+  {
+   "title": "Preferences, Income and the Environment: Understanding the Environmental Kuznets Curve Hypothesis",
+   "authors": [
+    "Neha Khanna",
+    "Florenz Plassmann"
+   ],
+   "year": 2006,
+   "venue": "Journal article (venue not identified)",
+   "status": "已发表",
+   "url": "https://www.jstor.org/stable/3697754",
+   "abstract": null
+  },
+  {
+   "title": "The Demand for Environmental Quality and the Environmental Kuznets Curve Hypothesis",
+   "authors": [
+    "Neha Khanna",
+    "Florenz Plassmann"
+   ],
+   "year": 2004,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.ecolecon.2004.06.005",
+   "abstract": null
+  },
+  {
+   "title": "The Income Elasticity of Non-Point Source Air Pollutants: Revisiting the Environmental Kuznets Curve",
+   "authors": [
+    "Neha Khanna"
+   ],
+   "year": 2002,
+   "venue": "Economics Letters",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/S0165-1765(02)00153-2",
+   "abstract": null
+  },
+  {
+   "title": "On the Economics of Non-Renewable Resources",
+   "authors": [
+    "Neha Khanna"
+   ],
+   "year": 2001,
+   "venue": "Encyclopedia of Life Support Systems (EOLSS)",
+   "status": "已发表",
+   "url": "http://www.eolss.net/ebooks/sample%20chapters/c13/e6-29-03-01.pdf",
+   "abstract": null
+  },
+  {
+   "title": "World Oil: The Growing Case for International Oil Policy",
+   "authors": [
+    "Neha Khanna",
+    "Duane Chapman"
+   ],
+   "year": 2000,
+   "venue": "Contemporary Economic Policy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/j.1465-7287.2000.tb00001.x",
+   "abstract": null
+  },
+  {
+   "title": "Measuring Environmental Quality: An Index of Pollution",
+   "authors": [
+    "Neha Khanna"
+   ],
+   "year": 2000,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/S0921-8009(00)00197-X",
+   "abstract": null
+  },
+  {
+   "title": "Pollution Leakage as an Indirect Effect of Voluntary Pollution Abatement",
+   "authors": [
+    "Binish Rijal",
+    "Neha Khanna"
+   ],
+   "year": 2022,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

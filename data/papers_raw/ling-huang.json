@@ -1,0 +1,193 @@
+{
+ "slug": "ling-huang",
+ "name": "Ling Huang",
+ "sources": [
+  "https://sites.google.com/site/linghuangecon/research",
+  "https://econ.media.uconn.edu/wp-content/uploads/sites/681/2015/09/Segerson-cv-August-2024.pdf"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Source: personal research page (appears to be an older, not recently updated site). CV not available. The page gives \"With X\" only, so co-authors are listed alphabetically by surname and names are as written (initials); the page shows no year for two items (MRE 2018 year taken from Segerson CV byline; \"How Regional Policies...\" R&R set to 2019, the latest dated item). Skipped UNEP report, book chapters, and work-in-progress items without drafts; kept the 2016 Sorting-by-Regulation draft that has a link.",
+ "papers": [
+  {
+   "title": "The Dynamic Efficiency Costs of Common Property Resource Exploitation",
+   "authors": [
+    "Ling Huang",
+    "M. D. Smith"
+   ],
+   "year": 2014,
+   "venue": "American Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Measuring Welfare Losses from Hypoxia: the Case of North Carolina Brown Shrimp",
+   "authors": [
+    "J. K. Craig",
+    "Ling Huang",
+    "L. A. B. Nichols",
+    "M. D. Smith"
+   ],
+   "year": 2012,
+   "venue": "Marine Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Quantifying the Economic Effects of Hypoxia on a Fishery for Brown Shrimp (Farfantepenaeus aztecus)",
+   "authors": [
+    "J. K. Craig",
+    "Ling Huang",
+    "M. D. Smith"
+   ],
+   "year": 2010,
+   "venue": "Marine and Coastal Fisheries",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Management of an Annual Fishery in the Presence of Ecological Stress: The Case of Shrimp and Hypoxia",
+   "authors": [
+    "Ling Huang",
+    "M. D. Smith"
+   ],
+   "year": 2011,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Benefits of Rebuilding Global Marine Fisheries Outweigh Costs",
+   "authors": [
+    "W. Cheung",
+    "A. Dyck",
+    "K. Gueye",
+    "Ling Huang",
+    "V. Lam",
+    "D. Pauly",
+    "T. Srinivasan",
+    "U. R. Sumaila",
+    "W. Swartz",
+    "R. Watson",
+    "D. Zeller"
+   ],
+   "year": 2012,
+   "venue": "PLOS ONE",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Managing Bluefin Tuna in the Mediterranean Sea",
+   "authors": [
+    "Ling Huang",
+    "U. R. Sumaila"
+   ],
+   "year": 2012,
+   "venue": "Marine Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Impact of the Deepwater Horizon Well Blowout on the Economics of US Gulf Fisheries",
+   "authors": [
+    "A. M. Cisneros-Montemayor",
+    "A. Dyck",
+    "Ling Huang",
+    "J. Jacquet",
+    "K. Kleisner",
+    "V. Lam",
+    "A. McCrea-Strub",
+    "D. Pauly",
+    "U. R. Sumaila",
+    "W. Swartz",
+    "R. Watson",
+    "D. Zeller"
+   ],
+   "year": 2012,
+   "venue": "Canadian Journal of Fisheries and Aquatic Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Media, Protest Diffusion, and Authoritarian Resilience",
+   "authors": [
+    "S. Boranbay",
+    "Ling Huang",
+    "H. Huang"
+   ],
+   "year": 2016,
+   "venue": "Political Science Research and Methods",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Have U.S. Power Plants Become Less Technically Efficient? The Impact of Carbon Emission Regulation",
+   "authors": [
+    "Ling Huang",
+    "Yishu Zhou"
+   ],
+   "year": 2016,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Impact of Collective Rights-based Fisheries Management: Evidence from New England Groundfish Fishery",
+   "authors": [
+    "Ling Huang",
+    "Subhash Ray",
+    "Kathleen Segerson",
+    "John Walden"
+   ],
+   "year": 2018,
+   "venue": "Marine Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Carbon Prices and Fuel Switching: A Quasi-experiment in Electricity Markets",
+   "authors": [
+    "Ling Huang",
+    "Yishu Zhou"
+   ],
+   "year": 2019,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How Regional Policies Reduce Carbon Emissions in Electricity Markets: Fuel Switching or Emission Leakage",
+   "authors": [
+    "Ling Huang",
+    "Yishu Zhou"
+   ],
+   "year": 2019,
+   "venue": "Working Paper (R&R)",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Sorting by Regulation and Racial Segregation",
+   "authors": [
+    "Ling Huang",
+    "S. L. Ross"
+   ],
+   "year": 2016,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

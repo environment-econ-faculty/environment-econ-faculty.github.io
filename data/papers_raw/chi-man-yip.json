@@ -1,0 +1,112 @@
+{
+ "slug": "chi-man-yip",
+ "name": "Chi Man Yip",
+ "sources": [
+  "http://www.chimanyip.com",
+  "https://www.polyu.edu.hk/af/-/media/department/af/people/acad_staff/prof-chi-man-yip/af_yip-chi-man_cv_20250919.pdf"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Homepage (current) plus CV dated Sept 2025. Homepage groups three papers as R&R without naming journals; year 2026 (page date). Bylines alphabetical by surname where sources say only 'with'. 'Constrained to Innovate' and 'Carbon Pricing and Labor Market Slack' appear to be retitled versions of CV titles but this is not certain. Homepage fetch gave no abstracts.",
+ "papers": [
+  {
+   "title": "Environmental Regulatory Spillovers in Conglomerates: Quasi-Experimental Evidence on Subsidiary Leverage in China",
+   "authors": [
+    "Feng Wei",
+    "Huixuan Xie",
+    "Chi Man Yip"
+   ],
+   "year": 2026,
+   "venue": "Finance Research Letters",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/pii/S1544612325023578",
+   "abstract": null
+  },
+  {
+   "title": "The Ins and Outs of Employment: Labor Market Adjustments to Carbon Taxes",
+   "authors": [
+    "Feng Wei",
+    "Chi Man Yip"
+   ],
+   "year": 2025,
+   "venue": "European Economic Review",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/pii/S0014292125001783",
+   "abstract": null
+  },
+  {
+   "title": "On the Ambiguity of Job Search",
+   "authors": [
+    "Ying Tung Chan",
+    "Chi Man Yip"
+   ],
+   "year": 2023,
+   "venue": "Economic Inquiry",
+   "status": "已发表",
+   "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ecin.13150",
+   "abstract": null
+  },
+  {
+   "title": "On the Labor Market Consequences of Environmental Taxes",
+   "authors": [
+    "Chi Man Yip"
+   ],
+   "year": 2018,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/pii/S009506961730551X",
+   "abstract": null
+  },
+  {
+   "title": "Gender-Oriented Statistical Discrimination Theory: Empirical Evidence from the Hong Kong Labor Market",
+   "authors": [
+    "Raymond Sin-Kwok Wong",
+    "Chi Man Yip"
+   ],
+   "year": 2014,
+   "venue": "Research in Social Stratification and Mobility",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/pii/S0276562414000067",
+   "abstract": null
+  },
+  {
+   "title": "Constrained to Innovate: Financing Frictions and the Real Effects of Carbon Pricing",
+   "authors": [
+    "Ying Tung Chan",
+    "Chenhao Guo",
+    "Feng Wei",
+    "Chi Man Yip"
+   ],
+   "year": 2026,
+   "venue": "Working Paper (R&R, journal not named)",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "When Porter Goes Broke: Environmental Regulation, Productivity, and Financial Constraint",
+   "authors": [
+    "Yuting Feng",
+    "Longzhou Wang",
+    "Feng Wei",
+    "Chi Man Yip"
+   ],
+   "year": 2026,
+   "venue": "Working Paper (R&R, journal not named)",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Carbon Pricing and Labor Market Slack: Evidence from the Part-Time Margin",
+   "authors": [
+    "Feng Wei",
+    "Chi Man Yip"
+   ],
+   "year": 2026,
+   "venue": "Working Paper (R&R, journal not named)",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

@@ -1,0 +1,5 @@
+- michael-s-delgado | Michael S. Delgado | Purdue University | https://web.ics.purdue.edu/~delgado2/ | https://web.ics.purdue.edu/~delgado2/CV_2017.pdf | https://ag.purdue.edu/api/pi/2021/api/Directory/GetStaffDetail?alias=delgado2
+- mo-zhou | Mo Zhou | Purdue University | (none) | https://ag.purdue.edu/department/fnr/_docs/cv/zhoucv.pdf | https://ag.purdue.edu/api/pi/2021/api/Directory/GetStaffDetail?alias=zhou914
+- timothy-n-cason | Timothy N. Cason | Purdue University | https://sites.google.com/view/tim-cason | https://web.ics.purdue.edu/~cason/CasonCV.pdf | https://business.purdue.edu/faculty/home.php?username=cason
+- edmund-m-tavernier | Edmund M. Tavernier | Rutgers University | (none) | (none) | https://fare.rutgers.edu/faculty/edmund-tavernier
+- hilary-sigman | Hilary Sigman | Rutgers University | https://sites.rutgers.edu/hilary-sigman/ | https://sites.rutgers.edu/hilary-sigman/wp-content/uploads/sites/1571/2026/09/cv_sigman.pdf | https://economics.rutgers.edu/people/faculty/people/86-faculty/200-sigman-hilary

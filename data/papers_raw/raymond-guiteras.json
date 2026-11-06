@@ -1,0 +1,221 @@
+{
+ "slug": "raymond-guiteras",
+ "name": "Raymond Guiteras",
+ "sources": [
+  "https://drive.google.com/uc?export=download&id=11L6mDkkz2TFejUKrfkD91bap0sZ40NWC (CV, Sept 2026)",
+  "https://sites.google.com/view/rpguiter/"
+ ],
+ "collected": "2026-11-06",
+ "notes": "From CV dated Sept 2026. CV gives coauthors as \"(with ...)\" with initials; listed alphabetically by surname per convention, so true byline order may differ (esp. the AJTMH paper). Skipped Lancet Commission report/editorial, eClinicalMedicine commentary and BMC consensus statement (not research articles). Working paper years from CV dates. Homepage abstracts only in a separate CV PDF (not fetched).",
+ "papers": [
+  {
+   "title": "To Use Financial Incentives or Not? Insights from Experiments in Encouraging Sanitation Investments in Four Countries",
+   "authors": [
+    "S. Gautam",
+    "M. Gechter",
+    "Raymond Guiteras",
+    "A.M. Mobarak"
+   ],
+   "year": 2025,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Social and Financial Incentives for Overcoming a Collective Action Problem",
+   "authors": [
+    "M.M. Bakhtiar",
+    "Raymond Guiteras",
+    "J. Levinsohn",
+    "A.M. Mobarak"
+   ],
+   "year": 2023,
+   "venue": "Journal of Development Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "statacons: An SCons-based build tool for Stata",
+   "authors": [
+    "Raymond Guiteras",
+    "A. Kim",
+    "B. Quistorff",
+    "C. Shumway"
+   ],
+   "year": 2023,
+   "venue": "Stata Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Eliciting and Utilizing Willingness to Pay: Evidence from Field Trials in Northern Ghana",
+   "authors": [
+    "J. Berry",
+    "G. Fischer",
+    "Raymond Guiteras"
+   ],
+   "year": 2020,
+   "venue": "Journal of Political Economy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Poultry ownership associated with increased risk of child diarrhea: Evidence from Uganda",
+   "authors": [
+    "A. Dioguardi",
+    "G. Dowd",
+    "A. Ercumen",
+    "Raymond Guiteras",
+    "A. Harris",
+    "C. Prottas"
+   ],
+   "year": 2020,
+   "venue": "American Journal of Tropical Medicine and Hygiene",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Productivity in Piece-Rate Labor Markets: Evidence from Rural Malawi",
+   "authors": [
+    "Raymond Guiteras",
+    "B.K. Jack"
+   ],
+   "year": 2018,
+   "venue": "Journal of Development Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Microcredit and Willingness to Pay for Environmental Quality: Evidence from a Randomized-Controlled Trial of Finance for Sanitation in Rural Cambodia",
+   "authors": [
+    "A. BenYishay",
+    "A. Fraker",
+    "Raymond Guiteras",
+    "G. Palloni",
+    "N.B. Shah",
+    "S. Shirrell",
+    "P. Wang"
+   ],
+   "year": 2017,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Pursuit of Balance in Sequential Randomized Trials",
+   "authors": [
+    "Raymond Guiteras",
+    "D.I. Levine",
+    "T. Polley"
+   ],
+   "year": 2016,
+   "venue": "Development Engineering",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Disgust, Shame and Soapy Water: Tests of Novel Interventions to Promote Safe Water and Hygiene",
+   "authors": [
+    "Raymond Guiteras",
+    "K. Khatun-e-Jannat",
+    "D.I. Levine",
+    "S. Luby",
+    "T. Polley",
+    "L. Unicomb"
+   ],
+   "year": 2016,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Encouraging Sanitation Investment in the Developing World: A Cluster-Randomized Trial",
+   "authors": [
+    "Raymond Guiteras",
+    "J. Levinsohn",
+    "A.M. Mobarak"
+   ],
+   "year": 2015,
+   "venue": "Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Satellites, Self-reports, and Submersion: Exposure to Floods in Bangladesh",
+   "authors": [
+    "Raymond Guiteras",
+    "A. Jina",
+    "A.M. Mobarak"
+   ],
+   "year": 2015,
+   "venue": "American Economic Review: Papers and Proceedings",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Scalable Targeting of Social Protection: When Do Algorithms Out-Perform Surveys and Community Knowledge?",
+   "authors": [
+    "E. Aiken",
+    "A. Ashraf",
+    "J. Blumenstock",
+    "Raymond Guiteras",
+    "A.M. Mobarak"
+   ],
+   "year": 2025,
+   "venue": "CEnREP Working Paper 25-001",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Demand Estimation with Strategic Complementarities: Sanitation in Bangladesh",
+   "authors": [
+    "Raymond Guiteras",
+    "J. Levinsohn",
+    "A.M. Mobarak"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Does Development Aid Undermine Political Accountability? Leader and Constituent Responses to a Large-Scale Intervention",
+   "authors": [
+    "Raymond Guiteras",
+    "A.M. Mobarak"
+   ],
+   "year": 2019,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Routine Disasters: Floods, Human Capital and Adaptation in Bangladesh",
+   "authors": [
+    "Raymond Guiteras",
+    "A. Jina",
+    "A.M. Mobarak",
+    "L. Shakya"
+   ],
+   "year": 2015,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

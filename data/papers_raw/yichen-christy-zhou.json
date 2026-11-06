@@ -1,0 +1,123 @@
+{
+ "slug": "yichen-christy-zhou",
+ "name": "Yichen Christy Zhou",
+ "sources": [
+  "https://zhouyc.com/research/",
+  "https://zhouyc.com/wp-content/uploads/2026/09/yczhou_cv_20260925.pdf"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Sources: research page and CV (Sept 2026). Both only say '(with ...)' so authors listed alphabetically by surname incl. scholar. Skipped work in progress and popular/policy writing. Dormant 2016 job-market paper kept as working paper.",
+ "papers": [
+  {
+   "title": "Charged Up? Impacts of Green Energy Transition on Local Labor Markets",
+   "authors": [
+    "Hei-Sing Ron Chan",
+    "Yichen Christy Zhou"
+   ],
+   "year": 2026,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "修改重投",
+   "url": "https://ssrn.com/abstract=5954499",
+   "abstract": null
+  },
+  {
+   "title": "When Do Climate Provisions and Industrial Policy Goals Align? An Analysis of the US EV Market",
+   "authors": [
+    "Joshua Linn",
+    "Yongjoon Park",
+    "Yichen Christy Zhou"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Just a Minute",
+   "authors": [
+    "Tom Lam",
+    "Yichen Christy Zhou"
+   ],
+   "year": 2023,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://ssrn.com/abstract=4368634",
+   "abstract": null
+  },
+  {
+   "title": "Knowledge Capital, Technology Adoption, and Environmental Policies: Evidence from the US Automobile Industry",
+   "authors": [
+    "Yichen Christy Zhou"
+   ],
+   "year": 2016,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://zhouyc.com/wp-content/uploads/2015/04/yczhou_jmp.pdf",
+   "abstract": null
+  },
+  {
+   "title": "The Effect of Adopting NextGen Air Transportation System (NextGen) on Air Travel Performance",
+   "authors": [
+    "Jessica Chu",
+    "Yichen Christy Zhou"
+   ],
+   "year": 2023,
+   "venue": "Regional Science and Urban Economics",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/pii/S0166046223000534",
+   "abstract": null
+  },
+  {
+   "title": "How Much Do Consumers Value Fuel Economy and Performance? Evidence from Technology Adoption",
+   "authors": [
+    "Benjamin Leard",
+    "Joshua Linn",
+    "Yichen Christy Zhou"
+   ],
+   "year": 2023,
+   "venue": "The Review of Economics and Statistics",
+   "status": "已发表",
+   "url": "https://direct.mit.edu/rest/article/105/1/158/100976/How-Much-Do-Consumers-Value-Fuel-Economy-and",
+   "abstract": null
+  },
+  {
+   "title": "Regulatory Spillover and Climate Co-benefit: Evidence from New Source Review Lawsuits",
+   "authors": [
+    "Hei-Sing Ron Chan",
+    "Yichen Christy Zhou"
+   ],
+   "year": 2021,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jeem.2021.102545",
+   "abstract": null
+  },
+  {
+   "title": "The Effects of Fuel Prices and Vehicle Sales on Fuel-Saving Technology Adoption in Passenger Vehicles",
+   "authors": [
+    "Thomas Klier",
+    "Joshua Linn",
+    "Yichen Christy Zhou"
+   ],
+   "year": 2020,
+   "venue": "Journal of Economics & Management Strategy",
+   "status": "已发表",
+   "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/jems.12384",
+   "abstract": null
+  },
+  {
+   "title": "The Effect of Fuel Price Changes on Fleet Demand for New Vehicle Fuel Economy",
+   "authors": [
+    "Benjamin Leard",
+    "Virginia McConnell",
+    "Yichen Christy Zhou"
+   ],
+   "year": 2019,
+   "venue": "The Journal of Industrial Economics",
+   "status": "已发表",
+   "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/joie.12198",
+   "abstract": null
+  }
+ ]
+}

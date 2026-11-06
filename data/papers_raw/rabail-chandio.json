@@ -1,0 +1,166 @@
+{
+ "slug": "rabail-chandio",
+ "name": "Rabail Chandio",
+ "sources": [
+  "https://rabailchandio.com/research/publications/",
+  "https://rabailchandio.com/research/working_papers/",
+  "https://www.econ.iastate.edu/people/rabail-chandio/cv.pdf"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Publications from homepage + CV (CV newer: includes 2026 items and R&R statuses; homepage working-paper list gives no years). Working-paper years set to 2026 (CV date). 'Hedging or Holding Back? Inflation Expectations and Farmland Values' (CV; R&R at Agricultural Finance Review) is the same project as homepage 'Inflation Expectations and Land Values' (listed under review). Works-in-progress without a draft omitted except the wind-turbine paper, which was a selected paper at 2026 AAEA/MEA meetings. Homepage abstracts were paraphrased only, so abstract left null. Report/policy-brief section not read.",
+ "papers": [
+  {
+   "title": "Similarities in the US Department of Agriculture international baseline projections",
+   "authors": [
+    "Rabail Chandio",
+    "A.L. Katchova"
+   ],
+   "year": 2024,
+   "venue": "Journal of the Agricultural and Applied Economics Association",
+   "status": "已发表",
+   "url": "https://doi.org/10.1002/jaa2.129",
+   "abstract": null
+  },
+  {
+   "title": "Government Payments and Farm Debt Utilization During the Pandemic",
+   "authors": [
+    "Rabail Chandio",
+    "A.L. Katchova",
+    "D. Subedi",
+    "A.K. Giri"
+   ],
+   "year": 2025,
+   "venue": "Agricultural Finance Review",
+   "status": "已发表",
+   "url": "https://doi.org/10.1108/AFR-09-2023-0127",
+   "abstract": null
+  },
+  {
+   "title": "Did the Indian Green Revolution Change the Farm Size-Productivity Relationship?",
+   "authors": [
+    "Rabail Chandio",
+    "L.E.M. Bevis"
+   ],
+   "year": 2025,
+   "venue": "Applied Economic Perspectives and Policy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1002/aepp.70045",
+   "abstract": null
+  },
+  {
+   "title": "Returns, Risks, and Legacies: Understanding Farmland as an Investment Asset",
+   "authors": [
+    "Rabail Chandio",
+    "K. Dentzmen",
+    "C. Strawhacker",
+    "S. Smith"
+   ],
+   "year": 2026,
+   "venue": "Journal of the ASFMRA",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Teaching Farm and Rural Property Appraisal at America's Colleges: Synthesis and Reflections",
+   "authors": [
+    "Rabail Chandio",
+    "M. Taylor",
+    "C. Thomas",
+    "W. Zhang"
+   ],
+   "year": 2026,
+   "venue": "Journal of the ASFMRA",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Hedging or Holding Back? Inflation Expectations and Farmland Values",
+   "authors": [
+    "B. Yoch",
+    "Rabail Chandio"
+   ],
+   "year": 2026,
+   "venue": "Agricultural Finance Review",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How Crop Forecast Similarity, Government Policies, and Macroeconomic Conditions Affect WASDE Forecast Accuracy",
+   "authors": [
+    "S. Zhining",
+    "Rabail Chandio",
+    "A.L. Katchova"
+   ],
+   "year": 2026,
+   "venue": "Agribusiness",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Ownership Restrictions and Farmland Values",
+   "authors": [
+    "Rabail Chandio",
+    "C. Fiechter",
+    "A. Shew",
+    "C. Tester"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Tweeting Inflation: Real-Time Expectations from Social Media Insights",
+   "authors": [
+    "A. Yasin",
+    "Rabail Chandio"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Measuring Consolidation in Livestock Farms with the Share-Weighted Size Index",
+   "authors": [
+    "Rabail Chandio",
+    "K. Lacy"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Conflicts and Conservation in the Amazon",
+   "authors": [
+    "Rabail Chandio"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Dynamic and Heterogeneous Effects of Wind Turbines on Agricultural Land Values",
+   "authors": [
+    "J. Moon",
+    "Rabail Chandio",
+    "H. Feng"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

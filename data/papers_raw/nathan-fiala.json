@@ -1,0 +1,257 @@
+{
+ "slug": "nathan-fiala",
+ "name": "Nathan Fiala",
+ "sources": [
+  "https://nathanfiala.com/research/",
+  "https://are.media.uconn.edu/wp-content/uploads/sites/2327/2018/01/CVFiala.pdf"
+ ],
+ "collected": "2026-11-06",
+ "notes": "CV (content dated about 2020) and homepage research page; 'forthcoming' items are as of that vintage and some are likely published since. Working paper years = 2020 (CV date). Skipped work in progress, policy briefs, non-refereed. Homepage had an expired certificate (fetched with curl -k).",
+ "papers": [
+  {
+   "title": "The long-term impacts of grants on poverty: 9-year evidence from Uganda's Youth Opportunities Program",
+   "authors": [
+    "Christopher Blattman",
+    "Nathan Fiala",
+    "Sebastian Martinez"
+   ],
+   "year": 2020,
+   "venue": "American Economic Review: Insights",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The supply chain for seed in Uganda: Where does it all go wrong?",
+   "authors": [
+    "Nathan Fiala",
+    "Alicia Barriga"
+   ],
+   "year": 2020,
+   "venue": "World Development",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Be wary of those who ask: A randomized experiment on the size and determinants of enumerator effects",
+   "authors": [
+    "Nathan Fiala",
+    "Michele di Maio"
+   ],
+   "year": 2020,
+   "venue": "World Bank Economic Review",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "What do we know about the impact of microfinance? The problems of power and precision",
+   "authors": [
+    "Nathan Fiala",
+    "Mahesh Dahal"
+   ],
+   "year": 2020,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do anti-poverty programs sway voters? Experimental evidence from Uganda",
+   "authors": [
+    "Chris Blattman",
+    "Mathilde Emeriau",
+    "Nathan Fiala"
+   ],
+   "year": 2018,
+   "venue": "Review of Economics and Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Trusting Former Rebels: An Experimental Approach to Understanding Reintegration after Civil War",
+   "authors": [
+    "Nathan Fiala",
+    "Ian Levely",
+    "Michal Bauer"
+   ],
+   "year": 2018,
+   "venue": "Economic Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Financial Education and Savings Behavior: Evidence from a Randomized Experiment among Low Income Clients of Branchless Banking in India",
+   "authors": [
+    "Nathan Fiala",
+    "Margherita Calderone",
+    "Santadarshan Sadhu",
+    "Leopold Sarr"
+   ],
+   "year": 2018,
+   "venue": "Economic Development and Cultural Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Returns to microcredit, cash grants and training for male and female microentrepreneurs in Uganda",
+   "authors": [
+    "Nathan Fiala"
+   ],
+   "year": 2018,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Impact of Agri-Business Skills Training in Zimbabwe: An Evaluation of the Training for Rural Economic Empowerment (TREE) Programme",
+   "authors": [
+    "Nathan Fiala",
+    "Michée Lachaud",
+    "Boris Bravo-Ureta",
+    "Susana P. Gonzalez"
+   ],
+   "year": 2018,
+   "venue": "Journal of Development Effectiveness",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Unitary or Non-Cooperative Intra-Household Model? Evidence from Couples in Uganda",
+   "authors": [
+    "Nathan Fiala",
+    "Xi He"
+   ],
+   "year": 2017,
+   "venue": "World Bank Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Skills in the Marketplace: Testing Individual Bargaining Ability in a Field Based Experiment",
+   "authors": [
+    "Nathan Fiala"
+   ],
+   "year": 2015,
+   "venue": "Journal of Economic Behavior and Organization",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Economic Consequences of Forced Displacement",
+   "authors": [
+    "Nathan Fiala"
+   ],
+   "year": 2015,
+   "venue": "Journal of Development Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Generating Skilled Self-Employment in Developing Countries: Experimental Evidence from Uganda",
+   "authors": [
+    "Christopher Blattman",
+    "Nathan Fiala",
+    "Sebastian Martinez"
+   ],
+   "year": 2014,
+   "venue": "Quarterly Journal of Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Measuring Sustainability: Why the Ecological Footprint is Bad Economics and Bad Environmental Science",
+   "authors": [
+    "Nathan Fiala"
+   ],
+   "year": 2008,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Meeting the Demand: An Estimation of Potential Future Greenhouse Gas Emissions from Meat Production",
+   "authors": [
+    "Nathan Fiala"
+   ],
+   "year": 2008,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Social accountability and service delivery: Evidence from a large-scale experiment in Uganda",
+   "authors": [
+    "Nathan Fiala",
+    "Patrick Premand"
+   ],
+   "year": 2020,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Are the extreme poor more trusting? Social capital within a homeless community",
+   "authors": [
+    "Nathan Fiala",
+    "Thomas P. Krumel Jr",
+    "Leticia Riva"
+   ],
+   "year": 2020,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Wheels of Change: The Impact of Bicycles on Female Education and Empowerment in Zambia",
+   "authors": [
+    "Nathan Fiala",
+    "Ana García Hernández",
+    "Nishith Prakash",
+    "Kritika Narula"
+   ],
+   "year": 2020,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Business is tough, but family is worse: The role of family constraints on microenterprise development in Uganda",
+   "authors": [
+    "Nathan Fiala"
+   ],
+   "year": 2020,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do non-profit organizations learn? Evidence from a random sample of NGOs in Uganda",
+   "authors": [
+    "Nathan Fiala",
+    "Leticia Riva"
+   ],
+   "year": 2020,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

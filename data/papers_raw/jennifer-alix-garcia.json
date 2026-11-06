@@ -1,0 +1,713 @@
+{
+ "slug": "jennifer-alix-garcia",
+ "name": "Jennifer Alix-García",
+ "sources": [
+  "https://jalix-garcia.github.io/files/Alix-Garcia-CV.pdf"
+ ],
+ "collected": "2026-11-06",
+ "notes": "CV updated June 22, 2026. Skipped Political Economist newsletter piece, reports, VDM book. World Bank Policy Research WP 8707 kept as working paper. Co-author 'Alix-Calder' in the JEEM Uganda paper appears as written in CV (likely a typo). Work-in-progress: first two are R&R, third has no status (working paper), years 2026 per CV.",
+ "papers": [
+  {
+   "title": "Social equity in land conservation",
+   "authors": [
+    "Katharine Sims",
+    "Jennifer Alix-García"
+   ],
+   "year": 2026,
+   "venue": "Annual Review of Resource Economics",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Emerging design principles for environmental, economic, and equity successes in land conservation",
+   "authors": [
+    "Katharine Sims",
+    "Jennifer Alix-García"
+   ],
+   "year": 2026,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Tradeoffs and synergies for agriculture and environmental outcomes in the tropics",
+   "authors": [
+    "Jennifer Alix-García",
+    "Juliano Assunção",
+    "Teevrat Garg",
+    "Prakash Mishra",
+    "Fanny Moffette"
+   ],
+   "year": 2026,
+   "venue": "Review of Environmental Economics and Policy",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Scaling up forest conservation on private land: Causal evidence from Brazil",
+   "authors": [
+    "Robert Toto",
+    "Jennifer Alix-García",
+    "Katharine Sims",
+    "Bruno Coutinho",
+    "Carlos Muñoz Brenes",
+    "Ludmila Pugliese",
+    "Alex Mendes"
+   ],
+   "year": 2025,
+   "venue": "Nature Communications",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Land Tenure Security and Deforestation: Experimental Evidence from Uganda",
+   "authors": [
+    "Sarah Walker",
+    "Jennifer Alix-García",
+    "Anne Bartlett",
+    "Alix-Calder"
+   ],
+   "year": 2025,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The unintended consequences of production bans: the case of the 2018 logging moratorium",
+   "authors": [
+    "Anne Bartlett",
+    "Jennifer Alix-García",
+    "Alejandro Abarca",
+    "Sarah Walker",
+    "Jamon Van Den Hoek",
+    "Paulo Murillo-Sandoval",
+    "Hannah K Friedrich"
+   ],
+   "year": 2024,
+   "venue": "Environmental Research Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Agricultural Subsidies: Cutting into Forest Conservation?",
+   "authors": [
+    "Fanny Moffette",
+    "Jennifer Alix-García"
+   ],
+   "year": 2024,
+   "venue": "Environment and Development Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Overlapping land rights and deforestation in Uganda: 20 years of evidence",
+   "authors": [
+    "Sarah Walker",
+    "Jennifer Alix-García",
+    "Ann Bartlett",
+    "Jamon Van Den Hoek",
+    "Hannah Friedrich",
+    "Paulo Murrillo-Sandoval",
+    "Rosemary Isoto"
+   ],
+   "year": 2023,
+   "venue": "Global Environmental Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Remotely Incorrect? Accounting for Nonclassical Measurement Error in Satellite Data on Deforestation",
+   "authors": [
+    "Jennifer Alix-García",
+    "Daniel Millimet"
+   ],
+   "year": 2023,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Country of Women? Repercussions of the War of the Triple Alliance in Paraguay",
+   "authors": [
+    "Jennifer Alix-García",
+    "Laura Schechter",
+    "Felipe Valencia Caicedo",
+    "Jessica Zhu"
+   ],
+   "year": 2022,
+   "venue": "Journal of Economic Behavior and Organization",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Levers for alleviating poverty in forests",
+   "authors": [
+    "Reem Hajjar",
+    "Peter Newton",
+    "Markus Ihalainen",
+    "Arun Agrawal",
+    "Jennifer Alix-García",
+    "Sara Castle",
+    "James Erbaugh",
+    "Monica Gabay",
+    "Karl Hughes",
+    "Samuel Mawutor",
+    "Pablo Pacheco",
+    "George Schoneveld",
+    "Joleen Timko"
+   ],
+   "year": 2021,
+   "venue": "Forest Policy and Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Better to be direct? Testing the accuracy and cost-savings of community leader surveys for poverty targeting",
+   "authors": [
+    "Jennifer Alix-García",
+    "Katharine R.E. Sims",
+    "Laura Costica"
+   ],
+   "year": 2021,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Impact of Near Real-Time Deforestation Alerts Across the Tropics",
+   "authors": [
+    "Fanny Moffette",
+    "Jennifer Alix-García",
+    "Katherine Shea",
+    "Amy Hudson Pickens"
+   ],
+   "year": 2021,
+   "venue": "Nature Climate Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Locational Fundamentals, Trade, and the Changing Urban Landscape of Mexico",
+   "authors": [
+    "Jennifer Alix-García",
+    "Emily Sellars"
+   ],
+   "year": 2020,
+   "venue": "Journal of Urban Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Using referenda to improve targeting and decrease costs of conditional cash transfers",
+   "authors": [
+    "Jennifer Alix-García",
+    "Katharine R.E. Sims",
+    "Daniel J. Phaneuf"
+   ],
+   "year": 2019,
+   "venue": "Journal of Public Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Assessing the direct and spillover effects of shocks to refugee remittances",
+   "authors": [
+    "Jennifer Alix-García",
+    "Anne Bartlett",
+    "Sarah Walker"
+   ],
+   "year": 2019,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Can Environmental Cash Transfers Reduce Deforestation and Improve Social Outcomes? A Regression Discontinuity Analysis of Mexico's National Program (2011-2014)",
+   "authors": [
+    "Jennifer Alix-García",
+    "Katharine Sims",
+    "Victor Hugo Orozco-Olvera",
+    "Laura Costica",
+    "Jorge David Fernandez Medina",
+    "Sofia Romo Monroy",
+    "Stefano Pagiola"
+   ],
+   "year": 2019,
+   "venue": "World Bank Policy Research Working Paper 8707",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Tariffs and Trees: The effects of the Austro-Hungarian customs union on specialization and land use change",
+   "authors": [
+    "Jennifer Alix-García",
+    "Sarah Walker",
+    "Volker Radeloff",
+    "Jacek Kozak"
+   ],
+   "year": 2018,
+   "venue": "Journal of Economic History",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Labor Scarcity, Land Tenure, and Historical Legacy: Evidence from Mexico",
+   "authors": [
+    "Emily Sellars",
+    "Jennifer Alix-García"
+   ],
+   "year": 2018,
+   "venue": "Journal of Development Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Payments for environmental services supported social capital while increasing land management",
+   "authors": [
+    "Jennifer Alix-García",
+    "Katharine R.E. Sims",
+    "Victor H. Orozco-Olvera",
+    "Laura E. Costica",
+    "Jorge David Fernandez Medina",
+    "Sofia Romo Monroy"
+   ],
+   "year": 2018,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do refugee camps help or hurt hosts? The case of Kakuma",
+   "authors": [
+    "Jennifer Alix-García",
+    "Anne Bartlett",
+    "Sarah Walker",
+    "Harun Onder",
+    "Apurva Sanghi"
+   ],
+   "year": 2018,
+   "venue": "Journal of Development Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Avoided deforestation linked to environmental registration in the Brazilian Amazon",
+   "authors": [
+    "Jennifer Alix-García",
+    "Lisa Rausch",
+    "Jessica L'Roe",
+    "Holly Gibbs",
+    "Jacob Munger"
+   ],
+   "year": 2017,
+   "venue": "Conservation Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Forest conservation effects of Brazil's zero deforestation agreements undermined by leakage",
+   "authors": [
+    "Jennifer Alix-García",
+    "Holly Gibbs"
+   ],
+   "year": 2017,
+   "venue": "Global Environmental Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Parks vs. PES: Evaluating Direct and Incentive-Based Land Conservation in Mexico",
+   "authors": [
+    "Katharine R.E. Sims",
+    "Jennifer Alix-García"
+   ],
+   "year": 2017,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Drivers of forest cover change in Eastern Europe and European Russia, 1985-2012",
+   "authors": [
+    "Jennifer Alix-García",
+    "Catalina Munteanu",
+    "Na Zhao",
+    "Peter Potapov",
+    "Alexander Prishchepov",
+    "Volker Radeloff",
+    "Alexander Krylov",
+    "Eugenia Bragina"
+   ],
+   "year": 2016,
+   "venue": "Land Use Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Playing favorites: Tax incentives and urban growth in China, 1978-2010",
+   "authors": [
+    "Jennifer Alix-García",
+    "Annemarie Schneider",
+    "Na Zhao"
+   ],
+   "year": 2016,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Only One Tree from Each Seed? Environmental effectiveness and poverty alleviation in programs of payments for ecosystem services",
+   "authors": [
+    "Jennifer Alix-García",
+    "Katharine R.E. Sims",
+    "Patricia Yañez-Pagans"
+   ],
+   "year": 2015,
+   "venue": "American Economic Journal: Economic Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Occupations under fire: The labor market in a complex emergency",
+   "authors": [
+    "Jennifer Alix-García",
+    "Anne Bartlett"
+   ],
+   "year": 2015,
+   "venue": "Oxford Economic Papers",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Improving Environmental and Social Targeting through Adaptive Management in Mexico's Payments for Hydrological Services Program",
+   "authors": [
+    "Jennifer Alix-García",
+    "Katharine Sims",
+    "Elizabeth Shapiro-Garza",
+    "Leah Fine",
+    "Volker Radeloff",
+    "Glen Aronson",
+    "Selene Castillo",
+    "Carlos Ramirez-Reyes",
+    "Patricia Yanez-Pagans"
+   ],
+   "year": 2014,
+   "venue": "Conservation Biology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Payment for Ecosystem Services from Forests",
+   "authors": [
+    "Jennifer Alix-García",
+    "Henrik Wolff"
+   ],
+   "year": 2014,
+   "venue": "Annual Review of Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Inequality, Community Participation, and the Allocation of Collective Profits",
+   "authors": [
+    "Jennifer Alix-García",
+    "Benjamin Harris"
+   ],
+   "year": 2014,
+   "venue": "Economics & Politics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Effect of Decentralized Governance on Timber Extraction in European Russia",
+   "authors": [
+    "Jennifer Alix-García",
+    "Kelly Wendland",
+    "David Lewis"
+   ],
+   "year": 2013,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Ecological Footprint of Poverty Alleviation: Evidence from Mexico's Oportunidades program",
+   "authors": [
+    "Jennifer Alix-García",
+    "Craig McIntosh",
+    "Katharine Sims",
+    "Jerrod Welch"
+   ],
+   "year": 2013,
+   "venue": "Review of Economics and Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Landscape of Conflict: IDPs, aid, and land use change in Darfur",
+   "authors": [
+    "Jennifer Alix-García",
+    "Anne Bartlett",
+    "David Saah"
+   ],
+   "year": 2013,
+   "venue": "Journal of Economic Geography",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Forest Conservation and Slippage: Evidence from Mexico's National Payments for Ecosystem Services Program",
+   "authors": [
+    "Jennifer Alix-García",
+    "Elizabeth Shapiro",
+    "Katharine Sims"
+   ],
+   "year": 2012,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Prices, land tenure institutions, and geography: A Matching Analysis of Farmland Abandonment in Post-Socialist Eastern Europe",
+   "authors": [
+    "Jennifer Alix-García",
+    "Tobias Kuemmerle",
+    "Volker Radeloff"
+   ],
+   "year": 2012,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Displaced Populations, Humanitarian Assistance, and Hosts: a framework for analyzing impacts on semi-urban households",
+   "authors": [
+    "Jennifer Alix-García",
+    "Anne Bartlett",
+    "David Saah"
+   ],
+   "year": 2012,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Regional- and district-level drivers of timber harvesting in European Russia after the collapse of the Soviet Union",
+   "authors": [
+    "Jennifer Alix-García",
+    "Kelly Wendland",
+    "David Lewis",
+    "Mutlu Ozdogan",
+    "Mathias Baumann",
+    "Volker Radeloff"
+   ],
+   "year": 2011,
+   "venue": "Global Environmental Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Lessons about parks and poverty from a decade of forest loss and economic growth around Kibale National Park, Uganda",
+   "authors": [
+    "Lisa Naughton-Treves",
+    "Jennifer Alix-García",
+    "Colin Chapman"
+   ],
+   "year": 2011,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Effect of Refugee Inflows on Host Country Populations: Evidence from Tanzania",
+   "authors": [
+    "Jennifer Alix-García",
+    "David Saah"
+   ],
+   "year": 2010,
+   "venue": "World Bank Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Exploration of the Positive Effect of Inequality on Common Property Forest",
+   "authors": [
+    "Jennifer Alix-García"
+   ],
+   "year": 2008,
+   "venue": "Journal of Development Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The role of deforestation risk and calibrated compensation in designing payments for environmental services",
+   "authors": [
+    "Jennifer Alix-García",
+    "Alain de Janvry",
+    "Elisabeth Sadoulet"
+   ],
+   "year": 2008,
+   "venue": "Environment and Development Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Spatial Analysis of Common Property Deforestation",
+   "authors": [
+    "Jennifer Alix-García"
+   ],
+   "year": 2007,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Tale of Two Communities: Explaining Deforestation in Mexico",
+   "authors": [
+    "Jennifer Alix-García",
+    "Alain de Janvry",
+    "Elisabeth Sadoulet"
+   ],
+   "year": 2005,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Increasing Role of Agribusiness in Agricultural Economics",
+   "authors": [
+    "Amir Heiman",
+    "John Miranowski",
+    "David Zilberman",
+    "Jennifer Alix-García"
+   ],
+   "year": 2001,
+   "venue": "Journal of Agribusiness",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Growing Awareness: Evaluating the Impact of Environmental Education on Attitudes, Knowledge, and Behavior",
+   "authors": [
+    "Jennifer Alix-García",
+    "Christopher Knittel"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Designing forest conservation payments for in settings with a variety of land tenure systems",
+   "authors": [
+    "Jennifer Alix-García",
+    "Anne Bartlett",
+    "Sarah Walker",
+    "Rosemary Isoto"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Payments for ecosystem services under regulation: Evidence from Brazil's Reflorestar Program",
+   "authors": [
+    "Jennifer Alix-García",
+    "Alipio Ferreira",
+    "Katharine Sims"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Role of Risk in Targeting Payments for Environmental Services",
+   "authors": [
+    "Jennifer Alix-García",
+    "Alain de Janvry",
+    "Elisabeth Sadoulet"
+   ],
+   "year": 2009,
+   "venue": "Avoided Deforestation (Routledge)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Lessons Learned from Mexico's Payment for Environmental Services Program",
+   "authors": [
+    "Jennifer Alix-García",
+    "Alain de Janvry",
+    "Elisabeth Sadoulet",
+    "Juan Manuel Torres"
+   ],
+   "year": 2008,
+   "venue": "Managing Environmental Services in Agricultural Landscapes (Springer)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Industrial Organizations Considerations in the Management of Pesticide Resistance",
+   "authors": [
+    "Jennifer Alix-García",
+    "David Zilberman"
+   ],
+   "year": 2003,
+   "venue": "Battling Resistance to Antibiotics and Pesticides: an economic approach (Resources for the Future)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

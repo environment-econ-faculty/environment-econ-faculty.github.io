@@ -1,0 +1,381 @@
+{
+ "slug": "david-l-kelly",
+ "name": "David L. Kelly",
+ "sources": [
+  "http://moya.bus.miami.edu/~dkelly/",
+  "https://people.miami.edu/_assets-profiles/acad-bus/pdf/mhbs-economics/kelly-cv.pdf"
+ ],
+ "collected": "2026-11-06",
+ "notes": "CV (PDF) used; homepage not separately fetched. Bylines as on CV. Skipped: book reviews, Nature 2014 comment, Science 2016 multi-author policy forum, conference proceedings/IIASA report. Working paper years as stated on CV; NBER 28442 forthcoming at JAERE (2024).",
+ "papers": [
+  {
+   "title": "Solar Geoengineering, Learning, and Optimal Experimentation",
+   "authors": [
+    "David L. Kelly",
+    "Garth Heutel",
+    "Juan B. Moreno-Cruz",
+    "Soheil Shayegh"
+   ],
+   "year": 2024,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "即将发表",
+   "url": "https://www.nber.org/papers/w28442",
+   "abstract": null
+  },
+  {
+   "title": "Adaptation Infrastructure and its Effects on Property Values in the Face of Climate Impacts",
+   "authors": [
+    "David L. Kelly",
+    "Renato Molina"
+   ],
+   "year": 2023,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Markets versus Mechanisms",
+   "authors": [
+    "Raphael Boleslavsky",
+    "Christopher Hennessy",
+    "David L. Kelly"
+   ],
+   "year": 2022,
+   "venue": "Review of Financial Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Understanding the Improbable: A Survey of Fat Tails in Environmental Economics",
+   "authors": [
+    "Marc N. Conte",
+    "David L. Kelly"
+   ],
+   "year": 2021,
+   "venue": "Annual Review of Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Imperfect Storm: Fat-Tailed Hurricane Damages, Insurance, and Climate Policy",
+   "authors": [
+    "Marc N. Conte",
+    "David L. Kelly"
+   ],
+   "year": 2018,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Probabilistic Stabilization Targets",
+   "authors": [
+    "Luke Fitzpatrick",
+    "David L. Kelly"
+   ],
+   "year": 2017,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Selloffs, Bailouts, and Feedback: Can Asset Markets Inform Policy",
+   "authors": [
+    "Raphael Boleslavsky",
+    "David L. Kelly",
+    "Curtis R. Taylor"
+   ],
+   "year": 2017,
+   "venue": "Journal of Economic Theory",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Incidence and Environmental Effects of Distortionary Subsidies",
+   "authors": [
+    "G. Heutel",
+    "David L. Kelly"
+   ],
+   "year": 2016,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Learning and Climate Feedbacks: Optimal Climate Insurance and Fat Tails",
+   "authors": [
+    "David L. Kelly",
+    "Zhuo Tan"
+   ],
+   "year": 2015,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Dynamic Regulation Without Payments: The Importance of Timing",
+   "authors": [
+    "R. Boleslavsky",
+    "David L. Kelly"
+   ],
+   "year": 2014,
+   "venue": "Journal of Public Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Optimal Second Best Taxation of Addictive Goods",
+   "authors": [
+    "L. Bossi",
+    "Pere Gomis-Porqueras",
+    "David L. Kelly"
+   ],
+   "year": 2014,
+   "venue": "The B.E. Journal of Macroeconomics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Trade and the Environment With Pre-existing Subsidies: A Dynamic General Equilibrium Analysis",
+   "authors": [
+    "C. Bajona",
+    "David L. Kelly"
+   ],
+   "year": 2012,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Evolution of Subjective Hurricane Risk Perceptions: A Bayesian Approach",
+   "authors": [
+    "David L. Kelly",
+    "David Letson",
+    "Forrest Nelson",
+    "David Nolan",
+    "Daniel Solís"
+   ],
+   "year": 2012,
+   "venue": "Journal of Economic Behavior and Organization",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic Growth and the Environment: Theory and Facts",
+   "authors": [
+    "Sherry Bartz",
+    "David L. Kelly"
+   ],
+   "year": 2008,
+   "venue": "Resource and Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Liquidity and Liquidation",
+   "authors": [
+    "David L. Kelly",
+    "Stephen F. LeRoy"
+   ],
+   "year": 2007,
+   "venue": "Economic Theory",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Price and Quantity Regulation in General Equilibrium",
+   "authors": [
+    "David L. Kelly"
+   ],
+   "year": 2005,
+   "venue": "Journal of Economic Theory",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Adjustment Costs from Environmental Change",
+   "authors": [
+    "David L. Kelly",
+    "Charles D. Kolstad",
+    "Glenn T. Mitchell"
+   ],
+   "year": 2005,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Liquidity and Fire Sales",
+   "authors": [
+    "David L. Kelly",
+    "Stephen F. LeRoy"
+   ],
+   "year": 2005,
+   "venue": "Models and Monetary Policy: Research in the Tradition of Dale Henderson, Richard Porter, and Peter Tinsley (Federal Reserve Board)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Private Information and High Frequency Stochastic Volatility",
+   "authors": [
+    "David L. Kelly",
+    "Douglas G. Steigerwald"
+   ],
+   "year": 2004,
+   "venue": "Studies in Nonlinear Dynamics and Econometrics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "On Environmental Kuznets Curves Arising From Stock Externalities",
+   "authors": [
+    "David L. Kelly"
+   ],
+   "year": 2003,
+   "venue": "Journal of Economic Dynamics and Control",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Solving Infinite Horizon Growth Models With an Environmental Sector",
+   "authors": [
+    "David L. Kelly",
+    "Charles D. Kolstad"
+   ],
+   "year": 2001,
+   "venue": "Computational Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Malthus and Climate: Betting on a Stable Population",
+   "authors": [
+    "David L. Kelly",
+    "Charles D. Kolstad"
+   ],
+   "year": 2001,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Stability of Functional Rational Expectations Equilibria",
+   "authors": [
+    "David L. Kelly",
+    "Jamsheed Shorish"
+   ],
+   "year": 2000,
+   "venue": "Journal of Economic Theory",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Bayesian Learning, Pollution, and Growth",
+   "authors": [
+    "David L. Kelly",
+    "Charles D. Kolstad"
+   ],
+   "year": 1999,
+   "venue": "Journal of Economic Dynamics and Control",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Integrated Assessment Models for Climate Change Control",
+   "authors": [
+    "David L. Kelly",
+    "Charles D. Kolstad"
+   ],
+   "year": 1999,
+   "venue": "International Yearbook of Environmental and Resource Economics 1999/2000 (Edward Elgar)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Endogenous Strategic Business Cycles",
+   "authors": [
+    "Aditya Goenka",
+    "David L. Kelly",
+    "Stephen E. Spear"
+   ],
+   "year": 1998,
+   "venue": "Journal of Economic Theory",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Pigouvian Taxes and Technology Adoption Under Imperfect Competition",
+   "authors": [
+    "Effrosyni Diamantoudi",
+    "Eleftherios Filippiadis",
+    "David L. Kelly"
+   ],
+   "year": 2020,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Subsidies to Industry and the Environment",
+   "authors": [
+    "David L. Kelly"
+   ],
+   "year": 2009,
+   "venue": "NBER Working Paper",
+   "status": "工作论文",
+   "url": "https://www.nber.org/papers/w14999",
+   "abstract": null
+  },
+  {
+   "title": "Unit Roots in the Climate: Is the Recent Warming Due to Persistent Shocks?",
+   "authors": [
+    "David L. Kelly"
+   ],
+   "year": 2000,
+   "venue": "University of Miami Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Learning About Climate Sensitivity From the Instrumental Temperature Record",
+   "authors": [
+    "Natalia G. Andronova",
+    "David L. Kelly",
+    "Charles D. Kolstad",
+    "Michael Schlesinger"
+   ],
+   "year": 1998,
+   "venue": "University of Miami Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

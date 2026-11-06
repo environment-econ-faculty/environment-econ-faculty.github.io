@@ -1,0 +1,36 @@
+{
+ "slug": "akshar-saxena",
+ "name": "Akshar Saxena",
+ "sources": [
+  "https://dr.ntu.edu.sg/cris/rp/rp00735 (HTTP 405)",
+  "web search results (SSRN)"
+ ],
+ "collected": "2026-11-06",
+ "notes": "No accessible homepage/CV; NTU profile blocked. Only two SSRN working papers with verified authors included (year 2025 from SSRN dates). Published papers (J. Econ. Ageing 2018, Soc Sci Med 2023, Nature Food 2025, etc.) omitted because author lists unverified. INCOMPLETE.",
+ "papers": [
+  {
+   "title": "Optimal Tax Mix for Health System Financing: Evidence from Global Tax Reforms and Health Expenditure Patterns",
+   "authors": [
+    "Ko Hsu Peh",
+    "Akshar Saxena"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5321024",
+   "abstract": null
+  },
+  {
+   "title": "Bank Access and Women's Intra-Household Power: Evidence from India's Underbanked Districts",
+   "authors": [
+    "Shivali Sharma",
+    "Akshar Saxena"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5318812",
+   "abstract": null
+  }
+ ]
+}

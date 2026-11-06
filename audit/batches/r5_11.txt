@@ -1,0 +1,14 @@
+- marc-n-conte | Marc N. Conte | Fordham University | https://marcnconte.ace.fordham.edu/ | https://marcnconte.ace.fordham.edu/wp-content/uploads/2022/07/conte_cv_0722.pdf | https://www.fordham.edu/academics/departments/economics/faculty/marc-n-conte/
+- andrew-m-simons | Andrew M. Simons | Fordham University | https://www.andrewmsimons.com | https://www.andrewmsimons.com/wp-content/uploads/2026/08/Simons_Andrew_CV_26Aug26.pdf | https://www.fordham.edu/academics/departments/economics/faculty/andrew-simons/
+- mika-kato | Mika Kato | Howard University | http://www.mika-kato.com/ | https://profiles.howard.edu/sites/profiles.howard.edu/files/2026-03/cv.pdf | https://profiles.howard.edu/mika-kato
+- jerrod-penn | Jerrod Penn | Louisiana State University | (none) | (none) | https://www.lsu.edu/agriculture/agecon/people/bio/jerrod-penn.php
+- rex-h-caffey | Rex H. Caffey | Louisiana State University | (none) | (none) | https://www.lsu.edu/agriculture/agecon/people/bio/rex-caffey.php
+- jinggang-guo | Jinggang Guo | Louisiana State University | (none) | (none) | https://www.lsu.edu/agriculture/agecon/people/bio/jinggang-guo.php
+- jiameng-zheng | Jiameng Zheng | Louisiana State University | https://jiamengzheng.com/ | https://jiamengzheng.com/assets/files/CV_Jiameng_Zheng_October_2026.pdf | (none)
+- jennifer-alix-garcia | Jennifer Alix-Garcia | Oregon State University | https://jalix-garcia.github.io | https://jalix-garcia.github.io/files/Alix-Garcia-CV.pdf | https://appliedecon.oregonstate.edu/directory/people/jennifer-alix-garcia
+- daniel-bigelow | Daniel Bigelow | Oregon State University | (none) | (none) | https://appliedecon.oregonstate.edu/directory/people/daniel-bigelow
+- yong-chen | Yong Chen | Oregon State University | (none) | (none) | https://appliedecon.oregonstate.edu/directory/people/yong-chen
+- penny-diebel | Penny Diebel | Oregon State University | (none) | (none) | https://appliedecon.oregonstate.edu/directory/people/penny-diebel
+- steven-dundas | Steven Dundas | Oregon State University | http://www.stevenjdundas.com | http://sites.science.oregonstate.edu/~dundas/DundasCV.pdf | https://appliedecon.oregonstate.edu/directory/people/steven-dundas
+- jacob-gellman | Jacob Gellman | Oregon State University | https://jacobgellman.com | https://jacobgellman.github.io/files/gellman_cv.pdf | https://appliedecon.oregonstate.edu/directory/people/jacob-gellman
+- william-jaeger | William Jaeger | Oregon State University | (none) | (none) | https://appliedecon.oregonstate.edu/directory/people/william-jaeger

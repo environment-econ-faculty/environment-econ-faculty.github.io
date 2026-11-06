@@ -1,0 +1,175 @@
+{
+ "slug": "martin-mattsson",
+ "name": "Martin Mattsson",
+ "sources": [
+  "https://www.martin-mattsson.com/research",
+  "https://www.dropbox.com/scl/fi/tqrfgtv10usg0wm7aq6pu/Martin-Mattsson-CV.pdf (2026 CV)"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Homepage research page (current) and CV agree. Bylines alphabetical by surname where sources say only 'with'. Years: forthcoming items dated by CV/page (2026) except JDE (page says forthcoming Jan 2027 -> 2027). 'Residential Air Purifiers and the Value of Clean Air' is coded 工作论文; the registered-report version 'Adoption, Use, and Effects of Air Purifiers in Households' is accepted in principle at JDE. Skipped the Management Science reproducibility collaboration paper (collaboration member) and work in progress. Abstracts verbatim from homepage.",
+ "papers": [
+  {
+   "title": "Information Systems, Service Delivery, and Corruption: Evidence from the Bangladesh Civil Service",
+   "authors": [
+    "Martin Mattsson"
+   ],
+   "year": 2025,
+   "venue": "American Economic Journal: Applied Economics",
+   "status": "已发表",
+   "url": "https://www.aeaweb.org/articles?id=10.1257/app.20230672",
+   "abstract": "Corruption and slow public service delivery are common problems in low- and middle-income countries. Can better management information systems improve delivery speed? Does improving the delivery speed reduce corruption? In a large-scale experiment with the Bangladesh Civil Service, I send monthly scorecards measuring delays in service delivery to government officials and their supervisors. The scorecards increase on-time service delivery by 11% but do not reduce bribes. Instead, the scorecards increase bribes for high-performing bureaucrats. A model where bureaucrats' reputational concerns constrain bribes can explain the results. When positive performance feedback improves bureaucrats' reputations, the constraint is relaxed, and bribes increase."
+  },
+  {
+   "title": "When Does Corruption Cause Red Tape? Bribe Discrimination Under Asymmetric Information",
+   "authors": [
+    "Martin Mattsson"
+   ],
+   "year": 2025,
+   "venue": "Journal of Public Economics",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/pii/S0047272725001811",
+   "abstract": "Under what circumstances does corruption cause inefficiencies, and when are bribes merely transfers? I propose a modified monopoly price discrimination model that shows under what circumstances corruption leads to an inefficiently high administrative burden in government-firm interactions. The model highlights the importance of the information the bureaucrat has regarding the firms’ willingness to pay (WTP) to avoid administrative burden and the bureaucrat’s decision to gather this information. The government-firm interaction will have a Pareto efficient level of administrative burden with perfect price (i.e., bribe) discrimination if the bureaucrat decides to investigate the firm and learn its WTP. If the cost of investigation is too high, the government official instead uses red tape to extract more bribes from firms with higher WTP, causing inefficiently high levels of administrative burden. I show that the model’s predictions are consistent with data from 186,277 government-firm interactions from 18 years of the Enterprise Survey covering 158 countries. I find that corruption leads to increased administrative burden when government officials have less information about the firm’s WTP and that the effect is larger for firms with a low WTP. This has several policy implications for how to reduce administrative burden and where to focus anti-corruption efforts."
+  },
+  {
+   "title": "The Effects of Social Movements: Evidence from #MeToo",
+   "authors": [
+    "Ro'ee Levy",
+    "Martin Mattsson"
+   ],
+   "year": 2026,
+   "venue": "Review of Economics and Statistics",
+   "status": "即将发表",
+   "url": "https://doi.org/10.1162/REST.a.1830",
+   "abstract": "Social movements are associated with large societal changes, but evidence of their causal effects is limited. We study the effect of the MeToo movement on an important personal decision—reporting a sex crime to the police. Victims often do not report sex crimes due to the personal costs involved, but the reporting of sex crimes can have positive externalities and therefore, improve social welfare. Using a difference-in-differences strategy comparing sex crimes and non-sex crimes before and after the MeToo movement started, we find that the movement increased the number of sex crimes reported by approximately 10% and that the effect persisted until the end of our data, 15-27 months after the movement started. The result is confirmed using a triple-difference strategy comparing countries with strong and weak MeToo movements. Using detailed US data, we show that the MeToo movement not only increased reporting but also increased arrests for sexual assaults; and that in contrast to a common criticism of the movement, the effects are similar across racial and socioeconomic groups. Based on additional survey and crime data, we find that the increased reporting reflects a higher propensity to report sex crimes rather than an increase in the incidence of sex crimes. Our results demonstrate that social movements can rapidly and persistently change high-stakes decisions."
+  },
+  {
+   "title": "Formalizing Dispute Resolution: Effects of Village Courts in Bangladesh",
+   "authors": [
+    "Martin Mattsson",
+    "Ahmed Mushfiq Mobarak"
+   ],
+   "year": 2026,
+   "venue": "The Economic Journal",
+   "status": "已发表",
+   "url": "https://doi.org/10.1093/ej/ueag087",
+   "abstract": "Disagreements over business deals, land boundaries, and loan non-repayments are common impediments to economic transactions. To resolve such disputes, people in low-income countries are often forced to choose between costly and slow formal courts, or informal Dispute Resolution Mechanisms (DRMs) that lack state-sanctioned enforcement powers. Can a decentralized judicial institution run by locally elected officials increase access to justice by combining the best aspects of formal and informal dispute resolution? Can such an institution decrease the burden on higher-level courts and increase investment and growth? We evaluate the effects of the government introducing Village Courts (VCs) in rural Bangladesh using a large-scale randomized controlled trial. The introduction of VCs more than doubled the share of disputes resolved in state-sanctioned courts, but the ubiquitous informal institution called shalish remains the most commonly used DRM. There is some substitution from shalish to VC, but the district court congestion, economic activities, and social dynamics remain unaffected. The elected leaders in charge of implementing VCs are also involved in settling shalish cases, and the potential of VCs is limited by the constraints on their time. Without further investment in state capacity, the VC cannot supplant the even more decentralized shalish system."
+  },
+  {
+   "title": "Public Sector Salaries and the Quality of Governance: Evidence from Frontline Bureaucrats in India",
+   "authors": [
+    "Siddharth George",
+    "Martin Mattsson"
+   ],
+   "year": 2026,
+   "venue": "American Economic Journal: Applied Economics",
+   "status": "即将发表",
+   "url": "https://www.aeaweb.org/articles?id=10.1257/app.20250259",
+   "abstract": "Salaries are the largest expenditure item for most governments. We examine the effects of increasing bureaucrats' pay, by analyzing a policy change in Telangana, India, where one group of frontline bureaucrats received a 91% pay increase while another group of bureaucrats performing the same job did not. Using a difference-in-differences design, we show that, on average, higher salaries (i) had no impact on performance, (ii) did not affect corrupt or dishonest behavior, (iii) reduced quit rates by 2.4 percentage points (16%) after 2 years but did not affect the average quality of bureaucrats remaining in service. Higher salaries marginally increased effort among bureaucrats who were unhappy about their pay. Expert forecasters incorrectly predicted that higher salaries would improve both performance and retention of high-quality bureaucrats."
+  },
+  {
+   "title": "The Effects of Education on Corruption: Evidence from Vietnam's University Expansion",
+   "authors": [
+    "Edmund Malesky",
+    "Martin Mattsson",
+    "Khoa Vu",
+    "Liaoliang Zhang"
+   ],
+   "year": 2026,
+   "venue": "Journal of Public Economics",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/abs/pii/S0047272726001994",
+   "abstract": "Education and corruption are negatively correlated at the cross-national level, but little is known about the causal relationship between the two. We combine data on Vietnam's expansion of universities in 40 new districts with detailed survey data on experiences of corruption from over 170,000 respondents in 320 districts across 12 years. Using an age cohort difference-in-differences approach, we show that cohorts exposed to the university expansion are  65% more likely to have a university degree. However, this increase neither translates into a lower propensity to pay bribes nor an increased propensity to denounce corrupt officials. Instead, we find that education increases the propensity to pay bribes at the individual level. The mechanism for this increase that is most consistent with our data is that education raises household income and higher income leads to more bribe payments."
+  },
+  {
+   "title": "The Effect of Disaster Relief on Climate Adaptation: Evidence from Floods in Pakistan",
+   "authors": [
+    "Muhammad Bin Khalid",
+    "Martin Mattsson"
+   ],
+   "year": 2027,
+   "venue": "Journal of Development Economics",
+   "status": "即将发表",
+   "url": "https://www.sciencedirect.com/science/article/abs/pii/S0304387826001781",
+   "abstract": "Extreme weather events are expected to increase with climate change. Government relief programs are designed to ameliorate the negative consequences, but moral hazard models suggest they also reduce adaptation, such as migrating from disaster-prone areas. Using difference-in-differences, we study the long-term effects of cash relief on migration after the 2010 Pakistan floods. Combining survey and population data, we show that cash transfers have two countervailing effects. As expected, they reduce migration through a moral hazard effect and by facilitating in-situ adaptation. However, they also increase migration by providing liquidity. In practice, these effects cancel each other out in flooded areas."
+  },
+  {
+   "title": "Residential Air Purifiers and the Value of Clean Air",
+   "authors": [
+    "Ashfaqul Chowdhury",
+    "Teevrat Garg",
+    "Maulik Jagnani",
+    "Martin Mattsson"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://papers.ssrn.com/abstract=5284948",
+   "abstract": "Estimating the value of clean air is essential for optimal environmental regulation, yet standard defensive expenditure approaches are fragile. Estimates are highly sensitive to assumptions about household use of defensive technologies, and survey data on usage is unreliable. Moreover, counterintuitively, lower assumed usage yields higher estimates. To address this fragility, we develop a revealed-preference approach that estimates the flow value of clean air using high-frequency data on residential air purifier usage in Dhaka, Bangladesh. By leveraging randomized variation in the marginal cost of operation, we recover the household's trade-off between money and clean air without relying on purchase decisions or stated intentions. We find that the marginal willingness to pay (MWTP) for clean air is very low, with a much tighter range than previous estimates that rely on usage assumptions. This low valuation is not driven by traditional market frictions like liquidity constraints or misperceptions about pollution severity and technology effectiveness, strengthening the case for centralized interventions that reduce exposure without requiring continuous household effort."
+  },
+  {
+   "title": "Targeted Disruptions: Internet Shutdowns in India",
+   "authors": [
+    "Aarushi Kalra",
+    "Ro'ee Levy",
+    "Martin Mattsson"
+   ],
+   "year": 2026,
+   "venue": "Nature Human Behaviour",
+   "status": "修改重投",
+   "url": "",
+   "abstract": "The internet, once hailed as a global space for free expression, is increasingly being restricted through government-imposed shutdowns. Despite the internet’s critical role in facilitating business operations, providing access to social protection, and coordinating protest, little is known about when, where, and why these shutdowns occur. We leverage a novel, high-resolution dataset to systematically document the extent and targeting of shutdown in India, the country with the most frequent internet shutdowns. We present five main findings. First, internet shutdowns are common and impacted more than 44% of India’s population in 2018-2022. Second, while shutdowns occur often, they are highly targeted. An average shutdown in our sample period and states lasts only 2 days and affects 4 districts. Third, we find that shutdowns exacerbate inequalities as they are disproportionately concentrated in poorer areas and in areas with larger Muslim populations. Fourth, shutdowns are more likely to occur immediately following both peaceful protests and violent riots. Fifth, on days when there were large scale protests against the national government, shutdowns are substantially more widespread in states that are politically aligned with the national government."
+  },
+  {
+   "title": "Why Do Governments Overpromise and Underdeliver? Evidence from India's National Clean Air Programme",
+   "authors": [
+    "Archana Dhinakar Bala",
+    "Martin Mattsson",
+    "Sangita Vyas"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://papers.ssrn.com/abstract=4959010",
+   "abstract": "What are the political consequences of setting ambitious policy targets, but then failing to meet them? We study this question in the context of India's National Clean Air Programme (NCAP), a flagship policy designed to cut air pollution by 40% in 131 cities and address a crisis that causes 1.2 million deaths annually. Using multiple difference-in-differences approaches, we demonstrate that the program had no effect on air pollution. In a survey experiment with residents of NCAP cities, we show that informing citizens about NCAP boosted their approval of the government’s air pollution policy. Surprisingly, this effect persisted even when respondents were told the program had no impact --- revealing a clear political benefit from the ambitious announcement, and minimal cost for the implementation failure. This incentive structure is consistent with the lack of political commitment to implementing NCAP, which we document, and is a likely explanation for the program's failure."
+  },
+  {
+   "title": "Reelection Incentives and Corruption: Revisiting the Evidence with LLM-Classified Audit Reports",
+   "authors": [
+    "Ricardo Dahis",
+    "Martin Mattsson",
+    "Nathalia Sales"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://www.ricardodahis.com/papers/Dahis,%20Mattsson,%20Sales%20-%20Reelection%20Incentives%20and%20Corruption.pdf",
+   "abstract": "Reliable data on corruption are notoriously difficult to obtain. In this paper, we extend and reanalyze corruption data from Brazilian municipalities. We extend the data by employing a Large Language Model (LLM) to systematically classify 2,197 corruption audit reports. We first show that correlations between the LLM-generated corruption measures and manually coded assessments are comparable to correlations among the manual datasets themselves, highlighting both the relative reliability of the LLM classification and the inherent subjectivity involved in quantifying corruption from textual sources. Using this expanded corruption dataset, we revisit key findings in the literature about the impact of reelection incentives on corruption. Our results support previous findings in the literature that reelection incentives reduce corruption, although the result is only statistically significant for one out of three measures of corruption. Furthermore, we document significant heterogeneity in the effect over time and investigate several explanations for these empirical patterns, including changing composition of politicians and increasing probability of legal penalties."
+  },
+  {
+   "title": "Is Altruism Futile? Altruistic Career Choices in General Equilibrium",
+   "authors": [
+    "Martin Mattsson"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://papers.ssrn.com/abstract=6609938",
+   "abstract": "When choosing a career, it is common to care not just about income, but also about contributing to a better world. This paper studies the implications of such altruistic preferences in general equilibrium. I propose a model where firms differ in the negative externalities they generate and some altruistic workers internalize these externalities when choosing where to work. A futility result emerges: when altruistic workers are in the minority, their decision to avoid high-externality firms has zero effect on outcomes. Every altruist who leaves a high-externality firm is replaced by a non-altruistic worker. I then show that three realistic features break this futility. First, with many firms, altruists can overcome futility by concentrating in a single clean firm; this reduces the externality and improves social welfare. Second, a non-profit sector provides an alternative channel: altruists can work at for-profit firms and donate to the non-profit, which produces a positive externality. Third, when workers differ in how well they match with different employers, altruists who leave a high-externality firm are no longer perfectly replaced, so their departure reduces the externality. A unifying \"no free lunch\" result ties these findings together—altruistic behavior cannot be simultaneously effective in reducing the externality and costless to the altruist: when altruism is effective, it necessarily reduces their experienced well-being. This result extends to existing models of ethical consumption and ESG investing. In the full model, altruists face a three-way choice: working at a low-externality firm, working at the non-profit, or earning to give by working at a high-paying firm and donating. Without heterogeneous match quality, altruists are indifferent between these three strategies in equilibrium. With match quality, indifference breaks and altruists sort into strategies according to their comparative advantage relative to other altruists."
+  },
+  {
+   "title": "Mapping the Health Harm of Bangladeshi Brick Kilns",
+   "authors": [
+    "Sheikh Rafi Ahmed",
+    "Doreen Boyd",
+    "Martin Mattsson",
+    "Sumil K. Thakrar",
+    "Xueying Yu"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://eartharxiv.org/repository/view/9267/",
+   "abstract": "Bangladesh suffers from poor air quality, with brick kilns as major contributors that remain difficult to regulate. We combine remotely-sensed data, machine learning, and air-quality models to locate 9,187 clay brick kilns (2014–2024), estimating their technology, activity status, and health effects. Active kilns peaked in 2019 and have since declined by 4% annually. Kiln emissions cause approximately 3,730 (764–11,890) excess deaths yearly (30% lower than 2019), with 25% of deaths attributable to 8% of kilns, suggesting potential for targeted intervention. Current proximity-based regulations prove ineffective proxies for health impacts. Our resulting Pollution Source Prioritization System, now used by the government to allocate scarce enforcement resources, demonstrates how satellite data and air quality models can enhance environmental policy even where state capacity is weak."
+  }
+ ]
+}

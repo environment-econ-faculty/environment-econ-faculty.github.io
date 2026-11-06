@@ -1,0 +1,710 @@
+{
+ "slug": "haoming-liu",
+ "name": "Haoming Liu",
+ "sources": [
+  "https://openalex.org/A5100705417"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Fallback: homepage/CV unavailable; list from OpenAlex author record(s) affiliated with National University of Singapore (Haoming Liu). May include non-economics coauthored work; working papers mostly absent.",
+ "papers": [
+  {
+   "title": "Institutional Dilemmas and Reform Paths of the WTO from a Sustainable Development Perspective",
+   "authors": [
+    "Haoming Liu",
+    "Dingxiong Gu"
+   ],
+   "year": 2026,
+   "venue": "Environomics",
+   "status": "已发表",
+   "url": "https://doi.org/10.70731/m75sz805",
+   "abstract": null
+  },
+  {
+   "title": "How You Pay Drives What You Choose: Mental Accounting in Health Insurance Plan Choice",
+   "authors": [
+    "Jonathan Gruber A B",
+    "Mengyun Lin",
+    "Haoming Liu",
+    "Junjian Yi"
+   ],
+   "year": 2026,
+   "venue": "The Review of Economic Studies",
+   "status": "已发表",
+   "url": "https://doi.org/10.1093/restud/rdag086",
+   "abstract": null
+  },
+  {
+   "title": "Heat impacts college student grades even in rich Singapore",
+   "authors": [
+    "Hongyan Li",
+    "Haoming Liu",
+    "Alberto Salvo",
+    "Rhita Simorangkir"
+   ],
+   "year": 2025,
+   "venue": "Journal of Economic Behavior & Organization",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jebo.2025.107244",
+   "abstract": null
+  },
+  {
+   "title": "Heat and Observed Economic Activity in the Rich Urban Tropics",
+   "authors": [
+    "Eric Fesselmeyer",
+    "Haoming Liu",
+    "Alberto Salvo",
+    "Rhita Simorangkir"
+   ],
+   "year": 2024,
+   "venue": "The Economic Journal",
+   "status": "已发表",
+   "url": "https://doi.org/10.1093/ej/ueae046",
+   "abstract": null
+  },
+  {
+   "title": "The minimum wage and cross-community crime disparities",
+   "authors": [
+    "Li Li",
+    "Haoming Liu"
+   ],
+   "year": 2024,
+   "venue": "Journal of Population Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1007/s00148-024-01023-w",
+   "abstract": null
+  },
+  {
+   "title": "Contests with multiplicative sabotage effect",
+   "authors": [
+    "Haoming Liu",
+    "Jingfeng Lu",
+    "Yohanes E. Riyanto",
+    "Zhe Wang"
+   ],
+   "year": 2024,
+   "venue": "Theory and Decision",
+   "status": "已发表",
+   "url": "https://doi.org/10.1007/s11238-024-09983-x",
+   "abstract": null
+  },
+  {
+   "title": "How You Pay Drives What You Choose: Health Savings Accounts versus Cash in Health Insurance Plan Choice",
+   "authors": [
+    "Jonathan Gruber A B",
+    "Mengyun Lin",
+    "Haoming Liu",
+    "Junjian Yi"
+   ],
+   "year": 2024,
+   "venue": "National Bureau of Economic Research",
+   "status": "工作论文",
+   "url": "https://doi.org/10.3386/w32331",
+   "abstract": null
+  },
+  {
+   "title": "Willingness to fight on: Environmental quality in dynamic contests",
+   "authors": [
+    "Haoming Liu",
+    "Jingfeng Lu",
+    "Alberto Salvo"
+   ],
+   "year": 2023,
+   "venue": "The RAND Journal of Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/1756-2171.12435",
+   "abstract": null
+  },
+  {
+   "title": "Within‐development density and housing prices in Singapore",
+   "authors": [
+    "Eric Fesselmeyer",
+    "Haoming Liu",
+    "Louisa Camille Poco"
+   ],
+   "year": 2023,
+   "venue": "Journal of Regional Science",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/jors.12677",
+   "abstract": null
+  },
+  {
+   "title": "Differential fertility, school enrollment, and development",
+   "authors": [
+    "Jie Zhang",
+    "Haoming Liu"
+   ],
+   "year": 2023,
+   "venue": "Journal of Population Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1007/s00148-023-00954-0",
+   "abstract": null
+  },
+  {
+   "title": "Declining discount rates in Singapore's market for privately developed apartments",
+   "authors": [
+    "Eric Fesselmeyer",
+    "Haoming Liu",
+    "Alberto Salvo"
+   ],
+   "year": 2021,
+   "venue": "Journal of Applied Econometrics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1002/jae.2867",
+   "abstract": null
+  },
+  {
+   "title": "Adversity-hope hypothesis: Air pollution raises lottery demand in China",
+   "authors": [
+    "Soo Hong Chew",
+    "Haoming Liu",
+    "Alberto Salvo"
+   ],
+   "year": 2021,
+   "venue": "Journal of Risk and Uncertainty",
+   "status": "已发表",
+   "url": "https://doi.org/10.1007/s11166-021-09353-w",
+   "abstract": null
+  },
+  {
+   "title": "Nonlabor Income and Age at Marriage: Evidence From China's Heating Policy",
+   "authors": [
+    "Junhong Chu",
+    "Haoming Liu",
+    "Ivan Png"
+   ],
+   "year": 2021,
+   "venue": "RePEc: Research Papers in Economics",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Severe Air Pollution and Labor Productivity: Evidence from Industrial Towns in China",
+   "authors": [
+    "Jiaxiu He",
+    "Haoming Liu",
+    "Alberto Salvo"
+   ],
+   "year": 2019,
+   "venue": "American Economic Journal Applied Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1257/app.20170286",
+   "abstract": null
+  },
+  {
+   "title": "Superstition, Conspicuous Spending, and Housing Market: Evidence from Singapore",
+   "authors": [
+    "Jia He",
+    "Haoming Liu",
+    "Tien Foo Sing",
+    "Changcheng Song",
+    "Wei-Kang Wong"
+   ],
+   "year": 2019,
+   "venue": "Management Science",
+   "status": "已发表",
+   "url": "https://doi.org/10.1287/mnsc.2018.3198",
+   "abstract": null
+  },
+  {
+   "title": "Different Paths? Human Capital Prices, Wages, and Inequality in Canada and the United States",
+   "authors": [
+    "Audra J. Bowlus",
+    "Chris Robinson",
+    "Haoming Liu"
+   ],
+   "year": 2019,
+   "venue": "Journal of Labor Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1086/703264",
+   "abstract": null
+  },
+  {
+   "title": "Severe air pollution and child absences when schools and parents respond",
+   "authors": [
+    "Haoming Liu",
+    "Alberto Salvo"
+   ],
+   "year": 2018,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jeem.2018.10.003",
+   "abstract": null
+  },
+  {
+   "title": "Nonlabor Income and Age at Marriage: Evidence From China’s Heating Policy",
+   "authors": [
+    "Junhong Chu",
+    "Haoming Liu",
+    "Ivan Png"
+   ],
+   "year": 2018,
+   "venue": "Demography",
+   "status": "已发表",
+   "url": "https://doi.org/10.1007/s13524-018-0732-1",
+   "abstract": null
+  },
+  {
+   "title": "Non-Labor Income and the Age of Marriage: Evidence from China's Heating Policy",
+   "authors": [
+    "Junhong Chu",
+    "Haoming Liu",
+    "Ivan Png"
+   ],
+   "year": 2018,
+   "venue": "SSRN Electronic Journal",
+   "status": "工作论文",
+   "url": "https://doi.org/10.2139/ssrn.3249868",
+   "abstract": null
+  },
+  {
+   "title": "Throwing Out the Baby with the Bathwater: Location Over-Controls and Residential Lease Length in Singapore",
+   "authors": [
+    "Eric Fesselmeyer",
+    "Haoming Liu",
+    "Alberto Salvo"
+   ],
+   "year": 2018,
+   "venue": "SSRN Electronic Journal",
+   "status": "工作论文",
+   "url": "https://doi.org/10.2139/ssrn.3121026",
+   "abstract": null
+  },
+  {
+   "title": "Severe Air Pollution and School Absences: Longitudinal Data on Expatriates in North China",
+   "authors": [
+    "Haoming Liu",
+    "Alberto Salvo"
+   ],
+   "year": 2017,
+   "venue": "SSRN Electronic Journal",
+   "status": "工作论文",
+   "url": "https://doi.org/10.2139/ssrn.3077226",
+   "abstract": null
+  },
+  {
+   "title": "How Do Users Value a Network Expansion? Evidence from the Public Transit System in Singapore",
+   "authors": [
+    "Eric Fesselmeyer",
+    "Haoming Liu"
+   ],
+   "year": 2016,
+   "venue": "Regional Science and Urban Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.regsciurbeco.2018.04.010",
+   "abstract": null
+  },
+  {
+   "title": "How Do Households Discount Over Centuries? Evidence from Singapore's Private Housing Market",
+   "authors": [
+    "Eric Fesselmeyer",
+    "Haoming Liu",
+    "Alberto Salvo"
+   ],
+   "year": 2016,
+   "venue": "SSRN Electronic Journal",
+   "status": "工作论文",
+   "url": "https://doi.org/10.2139/ssrn.2754429",
+   "abstract": null
+  },
+  {
+   "title": "Superstition, Conspicuous Spending, and Housing Markets: Evidence from Singapore",
+   "authors": [
+    "Sumit D. Agarwal",
+    "Jia He",
+    "Haoming Liu",
+    "Ivan Png",
+    "Tien Foo Sing",
+    "Wei-Kang Wong"
+   ],
+   "year": 2016,
+   "venue": "SSRN Electronic Journal",
+   "status": "工作论文",
+   "url": "https://doi.org/10.2139/ssrn.2769207",
+   "abstract": null
+  },
+  {
+   "title": "Divorce and Age of Marriage: Evidence from China's Heating Policy",
+   "authors": [
+    "Junhong Chu",
+    "Haoming Liu",
+    "Ivan Png"
+   ],
+   "year": 2016,
+   "venue": "SSRN Electronic Journal",
+   "status": "工作论文",
+   "url": "https://doi.org/10.2139/ssrn.2739014",
+   "abstract": null
+  },
+  {
+   "title": "Rank Order Contests with Sabotage: Equilibrium Analysis and Optimal Design",
+   "authors": [
+    "Haoming Liu",
+    "Jingfeng Lu",
+    "Yohanes E. Riyanto",
+    "Zhe Wang"
+   ],
+   "year": 2016,
+   "venue": "SSRN Electronic Journal",
+   "status": "工作论文",
+   "url": "https://doi.org/10.2139/ssrn.2776868",
+   "abstract": null
+  },
+  {
+   "title": "The quantity–quality fertility–education trade-off",
+   "authors": [
+    "Haoming Liu",
+    "Li Li"
+   ],
+   "year": 2015,
+   "venue": "IZA World of Labor",
+   "status": "已发表",
+   "url": "https://doi.org/10.15185/izawol.143",
+   "abstract": null
+  },
+  {
+   "title": "Primary school availability and middle school education in rural China",
+   "authors": [
+    "Li Li",
+    "Haoming Liu"
+   ],
+   "year": 2014,
+   "venue": "Labour Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.labeco.2014.03.008",
+   "abstract": null
+  },
+  {
+   "title": "Dynamic pricing in the Singapore condominium market",
+   "authors": [
+    "Eric Fesselmeyer",
+    "Haoming Liu"
+   ],
+   "year": 2014,
+   "venue": "Economics Letters",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.econlet.2014.04.022",
+   "abstract": null
+  },
+  {
+   "title": "Superstition and Asset Markets: Evidence from Singapore Housing",
+   "authors": [
+    "Sumit D. Agarwal",
+    "Jia He",
+    "Haoming Liu",
+    "Ivan Png",
+    "Tien Foo Sing",
+    "Wei-Kang Wong"
+   ],
+   "year": 2014,
+   "venue": "SSRN Electronic Journal",
+   "status": "工作论文",
+   "url": "https://doi.org/10.2139/ssrn.2416832",
+   "abstract": null
+  },
+  {
+   "title": "The quality–quantity trade-off: evidence from the relaxation of China’s one-child policy",
+   "authors": [
+    "Haoming Liu"
+   ],
+   "year": 2013,
+   "venue": "Journal of Population Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1007/s00148-013-0478-4",
+   "abstract": null
+  },
+  {
+   "title": "Economic Reforms and Gender Inequality in Urban China",
+   "authors": [
+    "Haoming Liu"
+   ],
+   "year": 2011,
+   "venue": "Economic Development and Cultural Change",
+   "status": "已发表",
+   "url": "https://doi.org/10.1086/660006",
+   "abstract": null
+  },
+  {
+   "title": "The determinants of training participation in Singapore",
+   "authors": [
+    "Shandre Mugan Thangavelu",
+    "Haoming Liu",
+    "Cheolsung Park",
+    "Ang Boon Heng",
+    "James M.W. Wong"
+   ],
+   "year": 2011,
+   "venue": "Applied Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1080/00036846.2010.493140",
+   "abstract": null
+  },
+  {
+   "title": "Understanding the Barrier of Elder’s Adoption of B2C Online Commerce: Comparison Between Different Product Types and Ages",
+   "authors": [
+    "Jiunn-Woei Lian",
+    "Haoming Liu"
+   ],
+   "year": 2010,
+   "venue": "Journal of the Association for Information Systems",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Market Segmentation and the Location of Production Activities",
+   "authors": [
+    "Haoming Liu",
+    "Sarah Y. Tong"
+   ],
+   "year": 2009,
+   "venue": "Comparative Economic Studies",
+   "status": "已发表",
+   "url": "https://doi.org/10.1057/ces.2008.49",
+   "abstract": null
+  },
+  {
+   "title": "Human capital investments and gender earnings gap: Evidence from China's economic reforms",
+   "authors": [
+    "Haoming Liu"
+   ],
+   "year": 2009,
+   "venue": "",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Determinants of Long‐Run Unemployment",
+   "authors": [
+    "Haoming Liu",
+    "Jinli Zeng"
+   ],
+   "year": 2008,
+   "venue": "Southern Economic Journal",
+   "status": "已发表",
+   "url": "https://doi.org/10.1002/j.2325-8012.2008.tb00863.x",
+   "abstract": null
+  },
+  {
+   "title": "Ownership of property-rights and the allocation of talents",
+   "authors": [
+    "Haoming Liu",
+    "Yohanes E. Riyanto"
+   ],
+   "year": 2008,
+   "venue": "Applied Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1080/00036840701392869",
+   "abstract": null
+  },
+  {
+   "title": "Donations in a recursive dynamic model",
+   "authors": [
+    "Haoming Liu",
+    "Jie Zhang"
+   ],
+   "year": 2008,
+   "venue": "Canadian Journal of Economics/Revue canadienne d économique",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/j.1540-5982.2008.00475.x",
+   "abstract": null
+  },
+  {
+   "title": "Genetic ability and intergenerational earnings mobility",
+   "authors": [
+    "Haoming Liu",
+    "Jinli Zeng"
+   ],
+   "year": 2007,
+   "venue": "Journal of Population Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1007/s00148-007-0171-6",
+   "abstract": null
+  },
+  {
+   "title": "Airline passenger fatality and the demand for air travel",
+   "authors": [
+    "Haoming Liu",
+    "Jinli Zeng"
+   ],
+   "year": 2007,
+   "venue": "Applied Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1080/00036840701371822",
+   "abstract": null
+  },
+  {
+   "title": "The impact of women's power on child quality in rural China",
+   "authors": [
+    "Haoming Liu"
+   ],
+   "year": 2007,
+   "venue": "China Economic Review",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.chieco.2007.01.002",
+   "abstract": null
+  },
+  {
+   "title": "Uniform Working Hours and Structural Unemployment",
+   "authors": [
+    "Haoming Liu",
+    "Yi Wen",
+    "Lijing Zhu"
+   ],
+   "year": 2007,
+   "venue": "RePEc: Research Papers in Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Measuring the degree of assortative mating",
+   "authors": [
+    "Haoming Liu",
+    "Jingfeng Lu"
+   ],
+   "year": 2006,
+   "venue": "Economics Letters",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.econlet.2006.03.010",
+   "abstract": null
+  },
+  {
+   "title": "The Impact of Structured Training on Workers’ Employability and Productivity",
+   "authors": [
+    "Ang Boon Heng",
+    "Cheolsung Park",
+    "Haoming Liu",
+    "Shandre Mugan Thangavelu",
+    "James M.W. Wong"
+   ],
+   "year": 2006,
+   "venue": "RePEc: Research Papers in Economics",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "2005-2 Human Capital, Productivity and Growth",
+   "authors": [
+    "Audra J. Bowlus",
+    "Haoming Liu",
+    "Chris Robinson"
+   ],
+   "year": 2005,
+   "venue": "Scholarship@Western (Western University)",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A cross‐country comparison of the cyclicality of real wages",
+   "authors": [
+    "Haoming Liu"
+   ],
+   "year": 2003,
+   "venue": "Canadian Journal of Economics/Revue canadienne d économique",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/1540-5982.t01-3-00007",
+   "abstract": null
+  },
+  {
+   "title": "The Long-term Effects of Graduating from High School During a Recession: Bad Luck or Forced Opportunity?",
+   "authors": [
+    "Audra J. Bowlus",
+    "Haoming Liu"
+   ],
+   "year": 2003,
+   "venue": "Scholarship@Western (Western University)",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Business Cycle Models, Aggregation, and Real Wage Cyclicality",
+   "authors": [
+    "Audra J. Bowlus",
+    "Haoming Liu",
+    "Chris Robinson"
+   ],
+   "year": 2002,
+   "venue": "Journal of Labor Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1086/338219",
+   "abstract": null
+  },
+  {
+   "title": "Income inequality in the United States: what the individual tax files say",
+   "authors": [
+    "Hafiz A. Akhand",
+    "Haoming Liu"
+   ],
+   "year": 2002,
+   "venue": "Applied Economics Letters",
+   "status": "已发表",
+   "url": "https://doi.org/10.1080/13504850110060998",
+   "abstract": null
+  },
+  {
+   "title": "The Role of Mobility in Offsetting Inequality: A Nonparametric Exploration of the CPS",
+   "authors": [
+    "Catherine de Fontenay",
+    "Tue Gørgens",
+    "Haoming Liu"
+   ],
+   "year": 2002,
+   "venue": "Review of Income and Wealth",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/1475-4991.00058",
+   "abstract": null
+  },
+  {
+   "title": "Marginal income tax rates in the United States: a non-parametric approach",
+   "authors": [
+    "Hafiz A. Akhand",
+    "Haoming Liu"
+   ],
+   "year": 2002,
+   "venue": "Journal of Monetary Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/s0304-3932(01)00105-2",
+   "abstract": null
+  },
+  {
+   "title": "Uniform Working Hours: A Culprit of Structural Unemployment",
+   "authors": [
+    "Lijing Zhu",
+    "Haoming Liu"
+   ],
+   "year": 2001,
+   "venue": "RePEc: Research Papers in Economics",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Marginal Income Tax Rates: Nonparametric Approach",
+   "authors": [
+    "Hafiz A. Akhand",
+    "Haoming Liu"
+   ],
+   "year": 1999,
+   "venue": "RePEc: Research Papers in Economics",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Labor Quality and the Cyclicality of Real Wages",
+   "authors": [
+    "Haoming Liu"
+   ],
+   "year": 1997,
+   "venue": "Scholarship@Western (Western University)",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

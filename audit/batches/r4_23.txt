@@ -1,0 +1,5 @@
+- matthew-e-kahn | Matthew E. Kahn | University of Southern California | https://sites.google.com/site/mek1966/ | https://uscdornsife.usc.edu/tools/mytools/PersonnelInfoSystem/DOC/Faculty/ECON/vita_1069169.pdf | https://dornsife.usc.edu/profile/matthew-kahn/
+- paulina-oliva | Paulina Oliva | University of Southern California | http://dornsife.usc.edu/paulina-oliva/ | https://uscdornsife.usc.edu/tools/mytools/PersonnelInfoSystem/DOC/Faculty/ECON/vita_1081360.pdf | https://dornsife.usc.edu/profile/paulina-oliva/
+- tom-y-chang | Tom Y. Chang | University of Southern California | http://www.tomychang.com | https://uscmarshallweb.s3-us-west-2.amazonaws.com/assets/uploads/s1/cv/tyc_cv_191023-1.pdf | https://www.marshall.usc.edu/personnel/tom-chang
+- brian-beach | Brian Beach | Vanderbilt University | https://brianbbeach.com/ | https://brianbbeach.github.io/Materials/BeachCV.pdf | https://as.vanderbilt.edu/economics/bio/brian-beach
+- matthew-o-keefe | Matthew O'Keefe | Vanderbilt University | https://mfokeefe.github.io/ | https://mfokeefe.github.io/cv.pdf | https://as.vanderbilt.edu/economics/bio/matthew-okeefe

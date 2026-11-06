@@ -1,0 +1,1019 @@
+{
+ "slug": "nattavudh-nick-powdthavee",
+ "name": "Nattavudh (Nick) Powdthavee",
+ "sources": [
+  "https://npowdthavee.github.io/"
+ ],
+ "collected": "2026-11-06",
+ "notes": "From homepage list (80 items; skipped Psychologist magazine piece and Augmented Humans conference paper). Homepage gives only 'with ...' lists, so authors sorted alphabetically by surname, not true bylines. Undated working papers assigned year 2026 (page date). Ecol Econ pain paper listed under 2026 though DOI suggests 2025. 'Terence C.' surname truncated on page; assumed Cheng. PSPB 2026 paper lists no co-authors on page (Powdthavee only; true list likely longer). Economica 2023 'midlife crisis' year from page; no volume given.",
+ "papers": [
+  {
+   "title": "Can large language models predict public perceptions of support for climate action across 125 countries?",
+   "authors": [
+    "Sandra J. Geiger",
+    "Nattavudh Powdthavee"
+   ],
+   "year": 2026,
+   "venue": "PNAS Nexus",
+   "status": "已发表",
+   "url": "https://doi.org/10.1093/pnasnexus/pgag374",
+   "abstract": null
+  },
+  {
+   "title": "Information about well-being norms shifts reported beliefs but leaves redistribution preferences largely unchanged",
+   "authors": [
+    "Anthony Lepinteur",
+    "Nattavudh Powdthavee"
+   ],
+   "year": 2026,
+   "venue": "Behavioural Public Policy",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Large language models and human judgement in scientific peer review: evidence from over 1000 published economics papers",
+   "authors": [
+    "Chayapatr Achiwaranguprok",
+    "Pattie Maes",
+    "Pat Pataranutaporn",
+    "Nattavudh Powdthavee"
+   ],
+   "year": 2026,
+   "venue": "Economica",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/ecca.70076",
+   "abstract": null
+  },
+  {
+   "title": "Curb your positive stereotypes: Counter-stereotypical interventions improve attention to inequality and discrimination against Asian Americans",
+   "authors": [
+    "Nattavudh Powdthavee"
+   ],
+   "year": 2026,
+   "venue": "Personality and Social Psychology Bulletin",
+   "status": "已发表",
+   "url": "https://doi.org/10.1177/01461672251341608",
+   "abstract": null
+  },
+  {
+   "title": "Good reputation as insurance: How reputation moderates fairness perceptions in the market",
+   "authors": [
+    "Danae Arroyos-Calvera",
+    "Nattavudh Powdthavee"
+   ],
+   "year": 2026,
+   "venue": "Review of Behavioural Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1108/rbe-12-2023-1009",
+   "abstract": null
+  },
+  {
+   "title": "Rising temperatures and physical pain: Evidence from over 2 million U.S. residents",
+   "authors": [
+    "Lucia Macchia",
+    "Nattavudh Powdthavee",
+    "Cheng Keat Tang"
+   ],
+   "year": 2026,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.ecolecon.2025.108871",
+   "abstract": null
+  },
+  {
+   "title": "Simulating human well-being with large language models: Systematic validation and misestimation across 64,000 individuals from 64 countries",
+   "authors": [
+    "Chayapatr Archiwaranguprok",
+    "Pattie Maes",
+    "Pat Pataranutaporn",
+    "Nattavudh Powdthavee"
+   ],
+   "year": 2025,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "https://doi.org/10.1073/pnas.2519394122",
+   "abstract": null
+  },
+  {
+   "title": "Understanding the role of pluralistic ignorance in biodiversity conservation: A research agenda",
+   "authors": [
+    "Zenith N. C. Delabrida",
+    "Franz Essl",
+    "Sandra J. Geiger",
+    "Hirotaka Imada",
+    "Carya Maharja",
+    "Kristian S. Nielsen",
+    "Nattavudh Powdthavee",
+    "Claudio D. Rosa",
+    "Valeria Vitale",
+    "Mathew P. White",
+    "Lei Zhang"
+   ],
+   "year": 2025,
+   "venue": "Global Environmental Change",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.gloenvcha.2025.103043",
+   "abstract": null
+  },
+  {
+   "title": "What we think others think and do about climate change: A multicountry test of pluralistic ignorance and public-consensus messaging",
+   "authors": [
+    "Zenith N. C. Delabrida",
+    "Karla A. Garduño-Realivazquez",
+    "Sandra J. Geiger",
+    "Christian A. P. Haugestad",
+    "Hirotaka Imada",
+    "Aishwarya Iyer",
+    "Jana K. Köhler",
+    "Carya Maharja",
+    "Daniel C. Mann",
+    "Michalina Marczak",
+    "Olivia Melville",
+    "Sari R. R. Nijssen",
+    "Nattavudh Powdthavee",
+    "Radisti A. Praptiwi",
+    "Gargi Ranade",
+    "Claudio D. Rosa",
+    "Valeria Vitale",
+    "Mathew P. White",
+    "Małgorzata Winkowska",
+    "Lei Zhang"
+   ],
+   "year": 2025,
+   "venue": "Psychological Science",
+   "status": "已发表",
+   "url": "https://doi.org/10.1177/09567976251335585",
+   "abstract": null
+  },
+  {
+   "title": "Unveiling the effects of hidden luck and merit on redistribution in groups",
+   "authors": [
+    "Nattavudh Powdthavee",
+    "Yohanes E. Riyanto",
+    "Juliane V. Wiese",
+    "Jonathan X. W. Yeo"
+   ],
+   "year": 2025,
+   "venue": "Journal of Behavioural and Experimental Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.socec.2025.102392",
+   "abstract": null
+  },
+  {
+   "title": "How do humans respond to large realized losses?",
+   "authors": [
+    "Redzo Mujcic",
+    "Nattavudh Powdthavee"
+   ],
+   "year": 2025,
+   "venue": "Journal of Economic Psychology",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.joep.2025.102805",
+   "abstract": null
+  },
+  {
+   "title": "The shadow prices of voluntary caregiving: Using well-being panel data to estimate the cost of informal care",
+   "authors": [
+    "Rebecca McDonald",
+    "Nattavudh Powdthavee"
+   ],
+   "year": 2025,
+   "venue": "Journal of Benefit-Cost Analysis",
+   "status": "已发表",
+   "url": "https://doi.org/10.1017/bca.2023.17",
+   "abstract": null
+  },
+  {
+   "title": "Are environmental concerns deterring people from having children? Longitudinal evidence on births in the UK",
+   "authors": [
+    "Ben Lockwood",
+    "Andrew Oswald",
+    "Nattavudh Powdthavee"
+   ],
+   "year": 2024,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.ecolecon.2024.108184",
+   "abstract": null
+  },
+  {
+   "title": "Luck or right? An experiment on preferences for redistribution following inheritance of opportunity",
+   "authors": [
+    "Nattavudh Powdthavee"
+   ],
+   "year": 2023,
+   "venue": "Journal of Behavioural and Experimental Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.socec.2023.102078",
+   "abstract": null
+  },
+  {
+   "title": "Income is more protective against pain in more equal countries",
+   "authors": [
+    "Lucia Macchia",
+    "Nattavudh Powdthavee",
+    "Cheng Keat Tang"
+   ],
+   "year": 2023,
+   "venue": "Social Science & Medicine",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.socscimed.2023.116181",
+   "abstract": null
+  },
+  {
+   "title": "Does money strengthen our social ties? Longitudinal evidence of lottery winners",
+   "authors": [
+    "Joan Costa-Font",
+    "Nattavudh Powdthavee"
+   ],
+   "year": 2023,
+   "venue": "Rationality and Society",
+   "status": "已发表",
+   "url": "https://doi.org/10.1177/10434631231159567",
+   "abstract": null
+  },
+  {
+   "title": "Large losses from little lies: Strategic gender misrepresentation and cooperation",
+   "authors": [
+    "Michalis Drouvelis",
+    "Jennifer Gerson",
+    "Nattavudh Powdthavee",
+    "Yohanes E. Riyanto"
+   ],
+   "year": 2023,
+   "venue": "PLOS ONE",
+   "status": "已发表",
+   "url": "https://doi.org/10.1371/journal.pone.0282335",
+   "abstract": null
+  },
+  {
+   "title": "The midlife crisis?",
+   "authors": [
+    "Osea Giuntella",
+    "Sally McManus",
+    "Redzo Mujcic",
+    "Andrew Oswald",
+    "Nattavudh Powdthavee",
+    "Ahmed Tohamy"
+   ],
+   "year": 2023,
+   "venue": "Economica",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/ecca.12452",
+   "abstract": null
+  },
+  {
+   "title": "Robust ranking of happiness outcomes: A median regression perspective",
+   "authors": [
+    "Le-Yu Chen",
+    "Ekaterina Oparina",
+    "Nattavudh Powdthavee",
+    "Sorawoot Srisuma"
+   ],
+   "year": 2022,
+   "venue": "Journal of Economic Behavior & Organization",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jebo.2022.06.010",
+   "abstract": null
+  },
+  {
+   "title": "The effects of retirement on sense of purpose in life: Crisis or opportunity?",
+   "authors": [
+    "Nattavudh Powdthavee",
+    "Ashley Whillans",
+    "Ayse Yemiscigil"
+   ],
+   "year": 2021,
+   "venue": "Psychological Science",
+   "status": "已发表",
+   "url": "https://doi.org/10.1177/09567976211024248",
+   "abstract": null
+  },
+  {
+   "title": "Are newly self-employed overly optimistic about their future well-being?",
+   "authors": [
+    "Reto Odermatt",
+    "Nattavudh Powdthavee",
+    "Alois Stutzer"
+   ],
+   "year": 2021,
+   "venue": "Journal of Behavioural and Experimental Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.socec.2021.101779",
+   "abstract": null
+  },
+  {
+   "title": "Do perceptions of economic well-being predict the onset of war and peace?",
+   "authors": [
+    "Nattavudh Powdthavee",
+    "Eik Swee",
+    "Haikun Zhan"
+   ],
+   "year": 2021,
+   "venue": "Journal of Behavioural and Experimental Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.socec.2021.101765",
+   "abstract": null
+  },
+  {
+   "title": "Risk compensation during COVID-19: The impact of face mask usage on social distancing",
+   "authors": [
+    "Andrea Isoni",
+    "Graham Loomes",
+    "Ashley Luckman",
+    "Nattavudh Powdthavee",
+    "Daniel Read",
+    "Ivo Vlaev",
+    "Hossam Zeitoun"
+   ],
+   "year": 2021,
+   "venue": "Journal of Experimental Psychology: Applied",
+   "status": "已发表",
+   "url": "https://doi.org/10.1037/xap0000382",
+   "abstract": null
+  },
+  {
+   "title": "Education and pro-environmental attitudes and behaviours: A nonparametric regression discontinuity analysis of a major schooling reform in England and Wales",
+   "authors": [
+    "Nattavudh Powdthavee"
+   ],
+   "year": 2021,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.ecolecon.2020.106931",
+   "abstract": null
+  },
+  {
+   "title": "When face masks signal social identity: Explaining the deep face mask divide during the COVID-19 pandemic",
+   "authors": [
+    "Qi Yu Chan",
+    "Nattavudh Powdthavee",
+    "Yohanes E. Riyanto",
+    "Erwin C. L. Wong",
+    "Jonathan X. W. Yeo"
+   ],
+   "year": 2021,
+   "venue": "PLOS ONE",
+   "status": "已发表",
+   "url": "https://doi.org/10.1371/journal.pone.0253195",
+   "abstract": null
+  },
+  {
+   "title": "The importance of capital in closing the entrepreneurial gender gap: A longitudinal study of lottery wins",
+   "authors": [
+    "Sarah Fleche",
+    "Anthony Lepinteur",
+    "Nattavudh Powdthavee"
+   ],
+   "year": 2021,
+   "venue": "Journal of Economic Behavior & Organization",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jebo.2021.05.038",
+   "abstract": null
+  },
+  {
+   "title": "Covid-19, lockdowns and well-being: Evidence from Google Trends",
+   "authors": [
+    "Abel Brodeur",
+    "Andrew Clark",
+    "Sarah Fleche",
+    "Nattavudh Powdthavee"
+   ],
+   "year": 2021,
+   "venue": "Journal of Public Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jpubeco.2020.104346",
+   "abstract": null
+  },
+  {
+   "title": "Gender norms, fairness and relative working hours within households",
+   "authors": [
+    "Sarah Fleche",
+    "Anthony Lepinteur",
+    "Nattavudh Powdthavee"
+   ],
+   "year": 2020,
+   "venue": "Labour Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.labeco.2020.101866",
+   "abstract": null
+  },
+  {
+   "title": "Is there a link between air pollution and impaired memory? Evidence on 34,000 English citizens",
+   "authors": [
+    "Andrew Oswald",
+    "Nattavudh Powdthavee"
+   ],
+   "year": 2020,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.ecolecon.2019.106485",
+   "abstract": null
+  },
+  {
+   "title": "Does it pay to bet on your favourite to win? Evidence on experienced utility from the 2018 FIFA World Cup experiment",
+   "authors": [
+    "Nick Chater",
+    "Donna Harris",
+    "Lajos Kossuth",
+    "Nattavudh Powdthavee"
+   ],
+   "year": 2020,
+   "venue": "Journal of Economic Behavior & Organization",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jebo.2020.01.006",
+   "abstract": null
+  },
+  {
+   "title": "Buying happiness in an unequal world: Rank of income more strongly predicts well-being in more unequal countries",
+   "authors": [
+    "Lucia Macchia",
+    "Anke Plagnol",
+    "Nattavudh Powdthavee"
+   ],
+   "year": 2020,
+   "venue": "Personality and Social Psychology Bulletin",
+   "status": "已发表",
+   "url": "https://doi.org/10.1177/0146167219877413",
+   "abstract": null
+  },
+  {
+   "title": "Who got the Brexit Blues? The effect of Brexit on subjective wellbeing in the UK",
+   "authors": [
+    "Andrew Clark",
+    "Paul Frijters",
+    "Anke Plagnol",
+    "Nattavudh Powdthavee"
+   ],
+   "year": 2019,
+   "venue": "Economica",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/ecca.12304",
+   "abstract": null
+  },
+  {
+   "title": "Lower-rated publications do lower academics' judgments of publication lists: Evidence from a survey experiment of economists",
+   "authors": [
+    "Jack Knetsch",
+    "Nattavudh Powdthavee",
+    "Yohanes E. Riyanto"
+   ],
+   "year": 2018,
+   "venue": "Journal of Economic Psychology",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.joep.2018.04.003",
+   "abstract": null
+  },
+  {
+   "title": "The welfare implications of addictive substances: A longitudinal study of life satisfaction of drug users",
+   "authors": [
+    "Julie Moschion",
+    "Nattavudh Powdthavee"
+   ],
+   "year": 2018,
+   "venue": "Journal of Economic Behavior & Organization",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jebo.2017.12.016",
+   "abstract": null
+  },
+  {
+   "title": "Do you have to win it to fix it? A longitudinal study of lottery winners and their health care demand",
+   "authors": [
+    "Terence C. Cheng",
+    "Joan Costa-Font",
+    "Nattavudh Powdthavee"
+   ],
+   "year": 2018,
+   "venue": "American Journal of Health Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1162/ajhe_a_00092",
+   "abstract": null
+  },
+  {
+   "title": "Locus of control and its intergenerational implications for early childhood skill formation",
+   "authors": [
+    "Francesca Cornaglia",
+    "Warn N. Lekfuangfu",
+    "Nattavudh Powdthavee",
+    "Nele Warrinnier"
+   ],
+   "year": 2018,
+   "venue": "Economic Journal",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/ecoj.12414",
+   "abstract": null
+  },
+  {
+   "title": "Top incomes and human well-being: Evidence from the Gallup World Poll",
+   "authors": [
+    "Richard V. Burkhauser",
+    "Jan-Emmanuel De Neve",
+    "Nattavudh Powdthavee"
+   ],
+   "year": 2017,
+   "venue": "Journal of Economic Psychology",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.joep.2017.07.006",
+   "abstract": null
+  },
+  {
+   "title": "Longitudinal evidence for a midlife nadir in human well-being",
+   "authors": [
+    "Terence C. Cheng",
+    "Andrew J. Oswald",
+    "Nattavudh Powdthavee"
+   ],
+   "year": 2017,
+   "venue": "Economic Journal",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/ecoj.12256",
+   "abstract": null
+  },
+  {
+   "title": "Can having internal locus of control insure against negative shocks? Psychological evidence from panel data",
+   "authors": [
+    "Hielke Buddelmeyer",
+    "Nattavudh Powdthavee"
+   ],
+   "year": 2016,
+   "venue": "Journal of Economic Behavior & Organization",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jebo.2015.11.014",
+   "abstract": null
+  },
+  {
+   "title": "Trust and happiness: Comparative study before and after the Great East Japan earthquake",
+   "authors": [
+    "Nattavudh Powdthavee",
+    "Yoshiro Tsutsui",
+    "Eiji Yamamura",
+    "Chisago Yamane",
+    "Shoko Yamane"
+   ],
+   "year": 2015,
+   "venue": "Social Indicators Research",
+   "status": "已发表",
+   "url": "https://doi.org/10.1007/s11205-014-0767-7",
+   "abstract": null
+  },
+  {
+   "title": "Does more education improve health habits? Evidence from the school reforms in Australia",
+   "authors": [
+    "Jinhu Li",
+    "Nattavudh Powdthavee"
+   ],
+   "year": 2015,
+   "venue": "Social Science & Medicine",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.socscimed.2014.07.021",
+   "abstract": null
+  },
+  {
+   "title": "Can priming cooperation increase public good contributions?",
+   "authors": [
+    "Michalis Drouvelis",
+    "Robert Metcalfe",
+    "Nattavudh Powdthavee"
+   ],
+   "year": 2015,
+   "venue": "Theory and Decision",
+   "status": "已发表",
+   "url": "https://doi.org/10.1007/s11238-015-9481-4",
+   "abstract": null
+  },
+  {
+   "title": "Would you pay for transparently useless advice? A test of boundaries of beliefs in the folly of predictions",
+   "authors": [
+    "Nattavudh Powdthavee",
+    "Yohanes E. Riyanto"
+   ],
+   "year": 2015,
+   "venue": "Review of Economics and Statistics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1162/rest_a_00453",
+   "abstract": null
+  },
+  {
+   "title": "Life satisfaction and sexual minorities: Evidence from Australia and UK",
+   "authors": [
+    "Nattavudh Powdthavee",
+    "Mark Wooden"
+   ],
+   "year": 2015,
+   "venue": "Journal of Economic Behavior & Organization",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jebo.2015.04.012",
+   "abstract": null
+  },
+  {
+   "title": "Are happier people less judgmental of other people's selfish behaviours? Laboratory evidence from trust and gift exchange games",
+   "authors": [
+    "Michalis Drouvelis",
+    "Nattavudh Powdthavee"
+   ],
+   "year": 2015,
+   "venue": "Journal of Behavioural and Experimental Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.socec.2015.07.007",
+   "abstract": null
+  },
+  {
+   "title": "What's the good of education on our overall quality of life? A simultaneous equation model of education and life satisfaction for Australia",
+   "authors": [
+    "Warn N. Lekfuangfu",
+    "Nattavudh Powdthavee",
+    "Mark Wooden"
+   ],
+   "year": 2015,
+   "venue": "Journal of Behavioural and Experimental Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.socec.2014.11.002",
+   "abstract": null
+  },
+  {
+   "title": "Do Different Work Characteristics Have Different Distributional Impacts on Job Satisfaction? A Study of Slope Heterogeneity in Workers' Well-Being",
+   "authors": [
+    "Aekapol Chongvilaivan",
+    "Nattavudh Powdthavee"
+   ],
+   "year": 2014,
+   "venue": "British Journal of Industrial Relations",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/j.1467-8543.2012.00904.x",
+   "abstract": null
+  },
+  {
+   "title": "What predicts a successful life? A life-course model of wellbeing",
+   "authors": [
+    "Andrew E. Clark",
+    "Francesca Cornaglia",
+    "Richard Layard",
+    "Nattavudh Powdthavee",
+    "James Vernoit"
+   ],
+   "year": 2014,
+   "venue": "Economic Journal",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/ecoj.12170",
+   "abstract": null
+  },
+  {
+   "title": "What childhood characteristics predict psychological resilience to economic shocks in adulthood?",
+   "authors": [
+    "Nattavudh Powdthavee"
+   ],
+   "year": 2014,
+   "venue": "Journal of Economic Psychology",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.joep.2014.08.003",
+   "abstract": null
+  },
+  {
+   "title": "Parental unemployment and children's happiness: A longitudinal study of young people's wellbeing in unemployed households",
+   "authors": [
+    "Nattavudh Powdthavee",
+    "James Vernoit"
+   ],
+   "year": 2013,
+   "venue": "Labour Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.labeco.2013.09.008",
+   "abstract": null
+  },
+  {
+   "title": "Is Personality Fixed? Personality Changes as Much as \"Variable\" Economic Factors and More Strongly Predicts Changes to Life Satisfaction",
+   "authors": [
+    "Chris M. Boyce",
+    "Nattavudh Powdthavee",
+    "Alex Wood"
+   ],
+   "year": 2013,
+   "venue": "Social Indicators Research",
+   "status": "已发表",
+   "url": "https://doi.org/10.1007/s11205-012-0006-z",
+   "abstract": null
+  },
+  {
+   "title": "Jobless, friendless, and broke: What happens to different areas of life before and after unemployment?",
+   "authors": [
+    "Nattavudh Powdthavee"
+   ],
+   "year": 2012,
+   "venue": "Economica",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/j.1468-0335.2011.00905.x",
+   "abstract": null
+  },
+  {
+   "title": "Thinking about it: A note on attention and well-being losses from unemployment",
+   "authors": [
+    "Paul Dolan",
+    "Nattavudh Powdthavee"
+   ],
+   "year": 2012,
+   "venue": "Applied Economics Letters",
+   "status": "已发表",
+   "url": "https://doi.org/10.1080/13504851.2011.577000",
+   "abstract": null
+  },
+  {
+   "title": "Anticipation, free rider problem, and adaptation to trade union: Re-examining the curious case of dissatisfied union members",
+   "authors": [
+    "Nattavudh Powdthavee"
+   ],
+   "year": 2011,
+   "venue": "Industrial and Labor Relations Review",
+   "status": "已发表",
+   "url": "https://doi.org/10.1177/001979391106400508",
+   "abstract": null
+  },
+  {
+   "title": "Destruction and distress: Using a quasi-experiment to show the effects of the September 11 attack on subjective well-being in the UK",
+   "authors": [
+    "Paul Dolan",
+    "Robert Metcalfe",
+    "Nattavudh Powdthavee"
+   ],
+   "year": 2011,
+   "venue": "Economic Journal",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/j.1468-0297.2010.02416.x",
+   "abstract": null
+  },
+  {
+   "title": "Putting different price tags on the same health problem: Re-evaluating the well-being valuation approach",
+   "authors": [
+    "Bernard van den Berg",
+    "Nattavudh Powdthavee"
+   ],
+   "year": 2011,
+   "venue": "Journal of Health Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jhealeco.2011.06.001",
+   "abstract": null
+  },
+  {
+   "title": "Does education reduce the risk of hypertension? Estimating the biomarker effect of compulsory schooling in England",
+   "authors": [
+    "Nattavudh Powdthavee"
+   ],
+   "year": 2010,
+   "venue": "Journal of Human Capital",
+   "status": "已发表",
+   "url": "https://doi.org/10.1086/657020",
+   "abstract": null
+  },
+  {
+   "title": "How much does money really matter? Estimating causal effects of income on happiness",
+   "authors": [
+    "Nattavudh Powdthavee"
+   ],
+   "year": 2010,
+   "venue": "Empirical Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1007/s00181-009-0295-5",
+   "abstract": null
+  },
+  {
+   "title": "Daughters and leftwing voting",
+   "authors": [
+    "Andrew J. Oswald",
+    "Nattavudh Powdthavee"
+   ],
+   "year": 2010,
+   "venue": "Review of Economics and Statistics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1162/rest.2010.11436",
+   "abstract": null
+  },
+  {
+   "title": "Ill-health as a household norm: Evidence from other people's health problems",
+   "authors": [
+    "Nattavudh Powdthavee"
+   ],
+   "year": 2009,
+   "venue": "Social Science & Medicine",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.socscimed.2008.11.015",
+   "abstract": null
+  },
+  {
+   "title": "How important is rank to individual perception of economic standing? A within-community analysis",
+   "authors": [
+    "Nattavudh Powdthavee"
+   ],
+   "year": 2009,
+   "venue": "Journal of Economic Inequality",
+   "status": "已发表",
+   "url": "https://doi.org/10.1007/s10888-008-9076-1",
+   "abstract": null
+  },
+  {
+   "title": "I can't smile without you: Spouse correlation in life satisfaction",
+   "authors": [
+    "Nattavudh Powdthavee"
+   ],
+   "year": 2009,
+   "venue": "Journal of Economic Psychology",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.joep.2009.06.005",
+   "abstract": null
+  },
+  {
+   "title": "The socio-economic gap of university drop out",
+   "authors": [
+    "Nattavudh Powdthavee",
+    "Anna Vignoles"
+   ],
+   "year": 2009,
+   "venue": "B.E. Journal of Economic Analysis & Policy",
+   "status": "已发表",
+   "url": "https://doi.org/10.2202/1935-1682.2051",
+   "abstract": null
+  },
+  {
+   "title": "What happens to people before and after disability? Focusing effects, lead effects, and adaptation in different areas of life",
+   "authors": [
+    "Nattavudh Powdthavee"
+   ],
+   "year": 2009,
+   "venue": "Social Science & Medicine",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.socscimed.2009.09.023",
+   "abstract": null
+  },
+  {
+   "title": "Putting a price tag on friends, relatives, and neighbours: Using surveys of life satisfaction to value social relationships",
+   "authors": [
+    "Nattavudh Powdthavee"
+   ],
+   "year": 2008,
+   "venue": "Journal of Socio-Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.socec.2007.04.004",
+   "abstract": null
+  },
+  {
+   "title": "Does happiness adapt? A longitudinal study of disability with implications for economists and judges",
+   "authors": [
+    "Andrew J. Oswald",
+    "Nattavudh Powdthavee"
+   ],
+   "year": 2008,
+   "venue": "Journal of Public Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jpubeco.2008.01.002",
+   "abstract": null
+  },
+  {
+   "title": "Death, happiness equations, and the calculation of compensatory damages",
+   "authors": [
+    "Andrew J. Oswald",
+    "Nattavudh Powdthavee"
+   ],
+   "year": 2008,
+   "venue": "Journal of Legal Studies",
+   "status": "已发表",
+   "url": "https://doi.org/10.1086/595674",
+   "abstract": null
+  },
+  {
+   "title": "Mental health of parents and life satisfaction of children: A within-family analysis of intergenerational transmission of wellbeing",
+   "authors": [
+    "Nattavudh Powdthavee",
+    "Anna Vignoles"
+   ],
+   "year": 2008,
+   "venue": "Social Indicators Research",
+   "status": "已发表",
+   "url": "https://doi.org/10.1007/s11205-007-9223-2",
+   "abstract": null
+  },
+  {
+   "title": "Obesity, unhappiness, and the challenge of affluence",
+   "authors": [
+    "Andrew J. Oswald",
+    "Nattavudh Powdthavee"
+   ],
+   "year": 2007,
+   "venue": "Economic Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Feeling richer or poorer than others: A cross-sectional and panel analysis of subjective economic status in Indonesia",
+   "authors": [
+    "Nattavudh Powdthavee"
+   ],
+   "year": 2007,
+   "venue": "Asian Economic Journal",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/j.1467-8381.2007.00253.x",
+   "abstract": null
+  },
+  {
+   "title": "Are there geographical variations in the psychological cost of unemployment in South Africa?",
+   "authors": [
+    "Nattavudh Powdthavee"
+   ],
+   "year": 2007,
+   "venue": "Social Indicators Research",
+   "status": "已发表",
+   "url": "https://doi.org/10.1007/s11205-006-0013-z",
+   "abstract": null
+  },
+  {
+   "title": "Unhappiness and crime: Evidence from South Africa",
+   "authors": [
+    "Nattavudh Powdthavee"
+   ],
+   "year": 2005,
+   "venue": "Economica",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/j.0013-0427.2005.00429.x",
+   "abstract": null
+  },
+  {
+   "title": "Can AI solve the peer review crisis? A large-scale experiment on LLM's performance and biases in evaluating economics papers",
+   "authors": [
+    "Pattie Maes",
+    "Pat Pataranutaporn",
+    "Nattavudh Powdthavee"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://doi.org/10.2139/ssrn.5127716",
+   "abstract": null
+  },
+  {
+   "title": "AI biases towards rich and powerful surnames",
+   "authors": [
+    "Pattie Maes",
+    "Pat Pataranutaporn",
+    "Nattavudh Powdthavee"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do beliefs in the model minority stereotype reduce attention to inequality that adversely affects Asian Americans?",
+   "authors": [
+    "Shuai Chen",
+    "Nattavudh Powdthavee",
+    "Juliane Wiese"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://doi.org/10.2139/ssrn.4875518",
+   "abstract": null
+  },
+  {
+   "title": "Temperature variability and natural disasters: Evidence for economists, climate researchers, and policymakers",
+   "authors": [
+    "Aatishya Mohanty",
+    "Andrew Oswald",
+    "Nattavudh Powdthavee",
+    "Cheng Keat Tang"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://arxiv.org/abs/2409.14936",
+   "abstract": null
+  },
+  {
+   "title": "When transparency fails: How altruistic framing sustains demand for useless advice despite complete information",
+   "authors": [
+    "Nattavudh Powdthavee",
+    "Yohanes Riyanto",
+    "Xiaojie Zhang"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://doi.org/10.2139/ssrn.5038226",
+   "abstract": null
+  },
+  {
+   "title": "Large language models as foundation models for human well-being",
+   "authors": [
+    "Chayapatr Achiwaranguprok",
+    "Pattie Maes",
+    "Pat Pataranutaporn",
+    "Nattavudh Powdthavee"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

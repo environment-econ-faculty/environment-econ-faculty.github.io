@@ -1,0 +1,224 @@
+{
+ "slug": "itziar-lazkano",
+ "name": "Itziar Lazkano",
+ "sources": [
+  "https://sites.google.com/site/itzilazkano/papers",
+  "CV dated July 10, 2026 (Google Drive link on homepage http://www.itziarlazkano.com/)"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Source: CV (July 2026) cross-checked with the Google Sites papers page (homepage has an SSL certificate error in WebFetch; fetched via curl). Working papers carry no dates: 2026 (CV date) assumed. The America Invents Act paper is 'R&R, Economics of Innovation and New Technology' per CV.",
+ "papers": [
+  {
+   "title": "Does the Shale Gas Revolution Hinder Clean Energy Innovation?",
+   "authors": [
+    "Itziar Lazkano",
+    "Siyu Feng",
+    "Ekin Ayasli"
+   ],
+   "year": 2025,
+   "venue": "Economics of Energy and Environmental Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Energy Storage and Clean Energy Transitions",
+   "authors": [
+    "Siyu Feng",
+    "Itziar Lazkano"
+   ],
+   "year": 2025,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Innovation Trends in Electricity Storage: What Drives Global Innovation?",
+   "authors": [
+    "Siyu Feng",
+    "Itziar Lazkano"
+   ],
+   "year": 2022,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Intergenerational Altruism with Future Bias",
+   "authors": [
+    "Francisco M. Gonzalez",
+    "Itziar Lazkano",
+    "Sjak Smulders"
+   ],
+   "year": 2018,
+   "venue": "Journal of Economic Theory",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "From Fossil Fuels to Renewables: The Role of Electricity Storage",
+   "authors": [
+    "Itziar Lazkano",
+    "Linda Nøstbakken",
+    "Martino Pelli"
+   ],
+   "year": 2017,
+   "venue": "European Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Can Capital-Energy Substitution Foster Economic Growth?",
+   "authors": [
+    "Itziar Lazkano",
+    "Linh Pham"
+   ],
+   "year": 2016,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Adaptation to Climate Change: How does Heterogeneity in Adaptation Costs Affect Climate Coalitions?",
+   "authors": [
+    "Itziar Lazkano",
+    "Walid Marrouch",
+    "Bruno Nkuiya"
+   ],
+   "year": 2016,
+   "venue": "Environment and Development Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Quota Enforcement and Capital Investment in Natural Resource Industries",
+   "authors": [
+    "Itziar Lazkano",
+    "Linda Nøstbakken"
+   ],
+   "year": 2016,
+   "venue": "Marine Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Past and Future Management of a Collapsed Fishery: The Bay of Biscay Anchovy",
+   "authors": [
+    "Itziar Lazkano",
+    "Linda Nøstbakken",
+    "Raúl Prellezo"
+   ],
+   "year": 2013,
+   "venue": "Natural Resource Modeling",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Qualitative and Quantitative Analysis of Selection of Fishing Area by Basque Trawlers",
+   "authors": [
+    "Raúl Prellezo",
+    "Itziar Lazkano",
+    "Marina Santurtún",
+    "Ane Iriondo"
+   ],
+   "year": 2009,
+   "venue": "Fisheries Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Cost Structure and Capacity Utilisation in Multi-Product Industries: an Application to the Basque Trawl Industry",
+   "authors": [
+    "Itziar Lazkano"
+   ],
+   "year": 2008,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Does the America Invents Act Boost Innovation?",
+   "authors": [
+    "Itziar Lazkano",
+    "Marlo Vásquez"
+   ],
+   "year": 2026,
+   "venue": "Economics of Innovation and New Technology",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Litigation Risk in Energy Technologies: Evidence from U.S. Patents",
+   "authors": [
+    "Itziar Lazkano",
+    "Siyu Feng",
+    "Yi Han"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do EV Adoption Policies Boost Innovation in Energy Storage? Evidence from China",
+   "authors": [
+    "Siyu Feng",
+    "Yi Han",
+    "Itziar Lazkano",
+    "Marlo Vásquez"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Effect of U.S. Anti-Troll Patent Laws on Litigations and Innovation Activity",
+   "authors": [
+    "Itziar Lazkano",
+    "Jangsu Yoon"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Which Fossil Fuel Taxes Promote Innovation in Renewable Electricity Generation?",
+   "authors": [
+    "Itziar Lazkano",
+    "Linh Pham"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Clean Technology Adoption and Sustainable Growth",
+   "authors": [
+    "Itziar Lazkano"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

@@ -1,0 +1,113 @@
+{
+ "slug": "yong-chen",
+ "name": "Yong Chen",
+ "sources": [
+  "https://appliedecon.oregonstate.edu/directory/people/yong-chen"
+ ],
+ "collected": "2026-11-06",
+ "notes": "No homepage found; the OSU profile publication list only (CV 'yong_cv_2019.pdf' linked but not retrieved). Likely incomplete and dated (2007-2013). Journal for the 2011 Irwin paper is missing on profile, so venue left generic. Item 9 (2007 AAEA paper) recorded as conference paper/working paper; RFF Press book (2008) omitted since Chen's role unclear.",
+ "papers": [
+  {
+   "title": "Are small communities at risk of population loss?",
+   "authors": [
+    "Y. Chen",
+    "L. Etuk",
+    "B. Weber"
+   ],
+   "year": 2013,
+   "venue": "The Annals of Regional Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Population dispersion vs. concentration in a two-region migration model with endogenous natural amenities",
+   "authors": [
+    "Y. Chen",
+    "E. G. Irwin",
+    "C. Jayaprakash"
+   ],
+   "year": 2013,
+   "venue": "Journal of Regional Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Federal Forest Policy and Community Vitality in the Pacific Northwest: How Did the Northwest Forest Plan Affect Population, Wealth and Income in Rural Communities?",
+   "authors": [
+    "Y. Chen",
+    "B. Weber"
+   ],
+   "year": 2013,
+   "venue": "Rural Studies Program Working Paper Series",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Threshold management in a coupled economic-ecological system",
+   "authors": [
+    "Y. Chen",
+    "C. Jayaprakash",
+    "E. Irwin"
+   ],
+   "year": 2012,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Federal Policy, Rural Community Growth, and Wealth Creation: The Impact of the Federal Forest Policy and Rural Development Spending in the Pacific Northwest",
+   "authors": [
+    "Y. Chen",
+    "B. Weber"
+   ],
+   "year": 2012,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Incorporating Spatial Complexity into Economic Models of Land Markets and Land Use Change",
+   "authors": [
+    "Y. Chen",
+    "E. G. Irwin",
+    "C. Jayaprakash"
+   ],
+   "year": 2011,
+   "venue": "Unknown (journal missing on profile)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Dynamic modeling of environmental amenity-driven migration with ecological feedbacks",
+   "authors": [
+    "Y. Chen",
+    "E. G. Irwin",
+    "C. Jayaprakash"
+   ],
+   "year": 2009,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Dynamic Model of Household Location, Regional Growth and Endogenous Natural Amenities with Cross-Scale Interactions",
+   "authors": [
+    "E. G. Irwin",
+    "C. Jayaprakash",
+    "Y. Chen"
+   ],
+   "year": 2007,
+   "venue": "American Agricultural Economics Association Annual Meeting paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

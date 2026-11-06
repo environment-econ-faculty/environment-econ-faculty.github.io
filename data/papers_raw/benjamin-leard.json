@@ -1,0 +1,404 @@
+{
+ "slug": "benjamin-leard",
+ "name": "Benjamin Leard",
+ "sources": [
+  "https://haslam.utk.edu/wp-content/uploads/2024/08/CV_Leard_August_2026.pdf",
+  "https://www.benjaminleard.com/research"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Sources: CV (Aug 2026) and homepage research page (adds Science 2026 volume/link). CV gives co-authors as '(with ...)', so authors are Leard first then co-authors in CV order; actual bylines may differ (e.g. alphabetical on the multi-author Science papers). CV lists the Science 2026 paper as 'revisions requested' but the homepage shows it published (393(6814)), so recorded as published. RFF working papers, public comments, magazine pieces omitted.",
+ "papers": [
+  {
+   "title": "Correcting the logic behind the 2026 US vehicle emissions standard rollback",
+   "authors": [
+    "Benjamin Leard",
+    "Antonio M. Bento",
+    "Kenneth T. Gillingham",
+    "Mark R. Jacobsen",
+    "Christopher R. Knittel",
+    "Joshua Linn",
+    "David S. Rapson",
+    "James M. Sallee",
+    "Arthur A. van Benthem",
+    "Kate S. Whitefoot"
+   ],
+   "year": 2026,
+   "venue": "Science",
+   "status": "已发表",
+   "url": "https://www.science.org/doi/10.1126/science.aef0464",
+   "abstract": null
+  },
+  {
+   "title": "State Differences in Light-Duty Vehicle Survival Rates",
+   "authors": [
+    "Benjamin Leard",
+    "David L. Greene",
+    "Arthur Yip",
+    "Ruixiao Sun",
+    "Ranjun K. Bose"
+   ],
+   "year": 2025,
+   "venue": "UTK Baker School Center for Energy, Transportation & Environmental Policy Working Paper",
+   "status": "工作论文",
+   "url": "https://baker.utk.edu/wp-content/uploads/2025/04/State-Level-UVM-report-compressed.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Vehicle Attribute Tradeoffs and the Distributional Effects of US Fuel Economy and Greenhouse Gas Emissions Standards",
+   "authors": [
+    "Benjamin Leard",
+    "Joshua Linn",
+    "Katalin Springel"
+   ],
+   "year": 2026,
+   "venue": "Journal of Political Economy: Microeconomics",
+   "status": "即将发表",
+   "url": "https://www.journals.uchicago.edu/doi/10.1086/738879",
+   "abstract": null
+  },
+  {
+   "title": "Should Electric Vehicle Purchase Subsidies be Linked with Scrappage Requirements?",
+   "authors": [
+    "Benjamin Leard",
+    "Kevin Ankney"
+   ],
+   "year": 2025,
+   "venue": "Journal of Policy Analysis and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Trends in Scrappage and Survival of U.S. Light-duty Vehicles",
+   "authors": [
+    "Benjamin Leard",
+    "David Greene"
+   ],
+   "year": 2024,
+   "venue": "Transportation Research Part A",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Coordinating the electric vehicle transition and electricity grid decarbonization in the U.S. is not essential to achieving substantial long-term carbon dioxide emissions reductions",
+   "authors": [
+    "Benjamin Leard",
+    "David Greene"
+   ],
+   "year": 2023,
+   "venue": "Environmental Research Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Firms and Collective Reputation: A Study of the Volkswagen Emissions Scandal",
+   "authors": [
+    "Benjamin Leard",
+    "Rudiger Bachmann",
+    "Gabriel Ehrlich",
+    "Ying Fan",
+    "Dimitrije Ruzic"
+   ],
+   "year": 2023,
+   "venue": "Journal of the European Economic Association",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How Much Do Consumers Value Fuel Economy and Performance? Evidence from Technology Adoption",
+   "authors": [
+    "Benjamin Leard",
+    "Joshua Linn",
+    "Christy Zhou"
+   ],
+   "year": 2023,
+   "venue": "The Review of Economics and Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Estimating Consumer Substitution between New and Used Passenger Vehicles",
+   "authors": [
+    "Benjamin Leard"
+   ],
+   "year": 2022,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Interpreting Tradable Credit Prices in Overlapping Vehicle Regulations",
+   "authors": [
+    "Benjamin Leard",
+    "Virginia McConnell"
+   ],
+   "year": 2021,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "What Does an Electric Vehicle Replace?",
+   "authors": [
+    "Benjamin Leard",
+    "Jianwei Xing",
+    "Shanjun Li"
+   ],
+   "year": 2021,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Pushing New Technology into the Market: California's Zero Emissions Vehicle Mandate",
+   "authors": [
+    "Benjamin Leard",
+    "Virginia McConnell"
+   ],
+   "year": 2021,
+   "venue": "Review of Environmental Economics and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Effect of Fuel Price Changes on Fleet Demand for New Vehicle Fuel Economy",
+   "authors": [
+    "Benjamin Leard",
+    "Virginia McConnell",
+    "Christy Zhou"
+   ],
+   "year": 2019,
+   "venue": "Journal of Industrial Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Explaining the Evolution of Vehicle Miles Traveled in the United States",
+   "authors": [
+    "Benjamin Leard",
+    "Joshua Linn",
+    "Clayton Munnings"
+   ],
+   "year": 2019,
+   "venue": "The Energy Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Voluntary Exposure Benefits and the Costs of Climate Change",
+   "authors": [
+    "Benjamin Leard",
+    "Kevin Roth"
+   ],
+   "year": 2019,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Flawed Analyses of U.S. Auto Fuel Economy Standards",
+   "authors": [
+    "Benjamin Leard",
+    "Antonio M. Bento",
+    "Kenneth Gillingham",
+    "Mark R. Jacobsen",
+    "Christopher R. Knittel",
+    "Joshua Linn",
+    "Virginia McConnell",
+    "David Rapson",
+    "James M. Sallee",
+    "Arthur A. van Benthem",
+    "Kate S. Whitefoot"
+   ],
+   "year": 2018,
+   "venue": "Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Consumer Inattention and the Demand for Vehicle Fuel Cost Savings",
+   "authors": [
+    "Benjamin Leard"
+   ],
+   "year": 2018,
+   "venue": "Journal of Choice Modeling",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "How Do Low Gas Prices Affect Costs and Benefits of US New Vehicle Fuel Economy Standards?",
+   "authors": [
+    "Benjamin Leard",
+    "Joshua Linn",
+    "Virginia McConnell"
+   ],
+   "year": 2018,
+   "venue": "Economics of Energy & Environmental Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "New Markets for Credit Trading Under U.S. Automobile Greenhouse Gas and Fuel Economy Standards",
+   "authors": [
+    "Benjamin Leard",
+    "Virginia McConnell"
+   ],
+   "year": 2017,
+   "venue": "Review of Environmental Economics and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Fuel Prices, New Vehicle Fuel Economy, and Implications for Attribute-Based Standards",
+   "authors": [
+    "Benjamin Leard",
+    "Joshua Linn",
+    "Virginia McConnell"
+   ],
+   "year": 2017,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Are Consumers Willing to Pay to Let Cars Drive for Them? Analyzing Response to Autonomous Vehicles",
+   "authors": [
+    "Benjamin Leard",
+    "Ricardo Daziano",
+    "Mauricio Sarrias"
+   ],
+   "year": 2017,
+   "venue": "Transportation Research Part C: Emerging Technologies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "On the Importance of Baseline Setting in Carbon Offsets Markets",
+   "authors": [
+    "Benjamin Leard",
+    "Antonio Bento",
+    "Ravi Kanbur"
+   ],
+   "year": 2016,
+   "venue": "Climatic Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Designing Efficient Markets for Carbon Offsets with Distributional Constraints",
+   "authors": [
+    "Benjamin Leard",
+    "Antonio Bento",
+    "Ravi Kanbur"
+   ],
+   "year": 2015,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Welfare Effects of Allowance Banking in Emissions Trading Programs",
+   "authors": [
+    "Benjamin Leard"
+   ],
+   "year": 2013,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Equivalencies in the Fishery",
+   "authors": [
+    "Benjamin Leard",
+    "Jon Conrad"
+   ],
+   "year": 2013,
+   "venue": "Natural Resource Modeling",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Variations in Home Advantage: Evidence from the National Hockey League",
+   "authors": [
+    "Benjamin Leard",
+    "Joanne Doyle"
+   ],
+   "year": 2012,
+   "venue": "Journal of Quantitative Analysis in Sports",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Effect of Home Advantage, Momentum, and Fighting on Winning in the National Hockey League",
+   "authors": [
+    "Benjamin Leard",
+    "Joanne Doyle"
+   ],
+   "year": 2011,
+   "venue": "Journal of Sports Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Analysis of Predator-Prey Models with Continuous Threshold Harvesting",
+   "authors": [
+    "Benjamin Leard",
+    "Jorge Rebaza"
+   ],
+   "year": 2011,
+   "venue": "Applied Mathematics and Computation",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Optimal Strategy for Energy Allocation in a Multiple Resource Environment",
+   "authors": [
+    "Benjamin Leard",
+    "D. Brian Walton",
+    "Anthony Tongen"
+   ],
+   "year": 2010,
+   "venue": "Bulletin of Mathematical Biology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Dynamics of Ratio-Dependent Predator-Prey Models with Nonconstant Harvesting",
+   "authors": [
+    "Benjamin Leard",
+    "Catherine Lewis",
+    "Jorge Rebaza"
+   ],
+   "year": 2008,
+   "venue": "Discrete and Continuous Dynamical Systems-S",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

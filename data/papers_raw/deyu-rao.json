@@ -1,0 +1,123 @@
+{
+ "slug": "deyu-rao",
+ "name": "Deyu Rao",
+ "sources": [
+  "https://deyurao.github.io/",
+  "https://econ.hkust.edu.hk/sites/economics/files/faculty/cv_deyu.pdf",
+  "https://wenwangeconomics.com/research.html"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Homepage (current; CV is dated June 2022 and outdated). Homepage gives no years for working papers: used 2025 (latest page content Nov 2025) except NBER-dated ones (w30462 = 2022). Where the homepage lists only coauthors, bylines are alphabetical by surname incl. Rao; 'Passenger Travel Costs' byline taken from Wen Wang's homepage. Skipped World Bank report 'Continental Drying' and work-in-progress. Computational Economics dated 2025 (vol 66; online Nov 2024).",
+ "papers": [
+  {
+   "title": "Random Forests with Economic Roots: Explaining Machine Learning in Hedonic Imputation",
+   "authors": [
+    "Deyu Rao",
+    "Shipei Zeng"
+   ],
+   "year": 2025,
+   "venue": "Computational Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Healthcare Cost of Air Pollution: Evidence from the World's Largest Payment Network",
+   "authors": [
+    "Panle Jia Barwick",
+    "Shanjun Li",
+    "Deyu Rao",
+    "Nahim Bin Zahur"
+   ],
+   "year": 2024,
+   "venue": "The Review of Economics and Statistics",
+   "status": "已发表",
+   "url": "https://deyurao.github.io/files/Pollution_Health.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Passenger Travel Costs and the Spatial Organization of Economic Activity",
+   "authors": [
+    "Zeyu Chen",
+    "Deyu Rao",
+    "Lin Yang",
+    "Wen Wang",
+    "Yatang Lin"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://deyurao.github.io/files/HSR_Migration_Amenity_Firm_Search.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Pollution in the Administrative Calculus: Evidence from Land Allocation in China",
+   "authors": [
+    "Zeyu Chen",
+    "Mengwei Lin",
+    "Deyu Rao",
+    "Lin Yang"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://deyurao.github.io/files/Local_Governance_Environmental_Regulation.pdf",
+   "abstract": null
+  },
+  {
+   "title": "The Role of Environmental Amenities in the Urban Economy: Evidence From a Spatial General Equilibrium Approach",
+   "authors": [
+    "Deyu Rao"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://deyurao.github.io/files/Agglomeration_Environment_JMP.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Improved Transportation Networks Facilitate Adaptation to Pollution and Temperature Extremes",
+   "authors": [
+    "Panle Jia Barwick",
+    "Dave Donaldson",
+    "Shanjun Li",
+    "Yatang Lin",
+    "Deyu Rao"
+   ],
+   "year": 2022,
+   "venue": "NBER Working Paper",
+   "status": "工作论文",
+   "url": "https://deyurao.github.io/files/HSR_Getaway.pdf",
+   "abstract": null
+  },
+  {
+   "title": "The Impact of Water Resources on Trade under a Changing Climate",
+   "authors": [
+    "Wangyang Lai",
+    "Shanjun Li",
+    "Deyu Rao",
+    "Fan Zhang",
+    "Yongfan Zhao"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Water Woes in a Woven World: The Economic and Trade Impacts of Water Stress",
+   "authors": [
+    "Shanjun Li",
+    "Deyu Rao",
+    "Ivan Rudik",
+    "Fan Zhang"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

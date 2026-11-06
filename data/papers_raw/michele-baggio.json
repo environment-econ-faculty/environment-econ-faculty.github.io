@@ -1,0 +1,258 @@
+{
+ "slug": "michele-baggio",
+ "name": "Michele Baggio",
+ "sources": [
+  "https://www.michelebaggio.com/",
+  "https://www.michelebaggio.com/publications"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Source: homepage publications page (no CV, no working papers listed). Statuses inferred from citation details: Marine Policy (vol. 196, dated 2027 on page) listed as published; Defence and Peace Economics and JLEO are online-first/advance articles so marked forthcoming. Skipped the German-language practitioner article (Aqua & Gas 2024).",
+ "papers": [
+  {
+   "title": "Property Rights Failure, Foreign Fishing, and Maritime Piracy",
+   "authors": [
+    "Michele Baggio"
+   ],
+   "year": 2027,
+   "venue": "Marine Policy",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/pii/S0308597X26002976",
+   "abstract": null
+  },
+  {
+   "title": "Violence and Long Run Economic Growth In The United States Using Improved Data Measurement",
+   "authors": [
+    "Michele Baggio",
+    "A. Chong",
+    "M. Coşgel"
+   ],
+   "year": 2026,
+   "venue": "Defence and Peace Economics",
+   "status": "即将发表",
+   "url": "https://www.tandfonline.com/doi/full/10.1080/10242694.2026.2654560",
+   "abstract": null
+  },
+  {
+   "title": "Heat and Hate: How Temperature Triggers Discriminatory Violence",
+   "authors": [
+    "Michele Baggio",
+    "R. Suryanarayana",
+    "S. Uchida"
+   ],
+   "year": 2026,
+   "venue": "Economics Letters",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.econlet.2026.112861",
+   "abstract": null
+  },
+  {
+   "title": "Racial Diversity and Team Performance: Evidence from the American Offshore Whaling Industry",
+   "authors": [
+    "Michele Baggio",
+    "M. Coşgel"
+   ],
+   "year": 2026,
+   "venue": "Journal of Law, Economics, and Organization",
+   "status": "即将发表",
+   "url": "https://academic.oup.com/jleo/advance-article/doi/10.1093/jleo/ewag020/8555626",
+   "abstract": null
+  },
+  {
+   "title": "High Times and Troubled Relationships: Recreational Marijuana Laws and Intimate Partner Violence",
+   "authors": [
+    "Michele Baggio",
+    "A. Chong",
+    "R. Suryanarayana"
+   ],
+   "year": 2024,
+   "venue": "Economics & Human Biology",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/pii/S1570677X24000510",
+   "abstract": null
+  },
+  {
+   "title": "Recreational Marijuana Laws and Junk Food Consumption",
+   "authors": [
+    "Michele Baggio",
+    "A. Chong"
+   ],
+   "year": 2020,
+   "venue": "Economics & Human Biology",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/pii/S1570677X20301921",
+   "abstract": null
+  },
+  {
+   "title": "Sex, Drugs, and Baby Booms",
+   "authors": [
+    "Michele Baggio",
+    "A. Chong",
+    "D. Simon"
+   ],
+   "year": 2020,
+   "venue": "Journal of Health Economics",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/pii/S0167629619301882",
+   "abstract": null
+  },
+  {
+   "title": "Marijuana and Alcohol: Evidence Using Border Analysis and Retail Sales Data",
+   "authors": [
+    "Michele Baggio",
+    "A. Chong",
+    "S. Kwon"
+   ],
+   "year": 2020,
+   "venue": "Canadian Journal of Economics",
+   "status": "已发表",
+   "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/caje.12437",
+   "abstract": null
+  },
+  {
+   "title": "Free Trade Agreements and World Obesity",
+   "authors": [
+    "Michele Baggio",
+    "A. L. Chong"
+   ],
+   "year": 2020,
+   "venue": "Southern Economic Journal",
+   "status": "已发表",
+   "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/soej.12447",
+   "abstract": null
+  },
+  {
+   "title": "Evaluating the Effects of River and Stream Restorations: Evidence from Recreational Fishing",
+   "authors": [
+    "Michele Baggio",
+    "C. Towe",
+    "D. Trüssel",
+    "A. Peter"
+   ],
+   "year": 2020,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "https://le.uwpress.org/content/96/1/75.short",
+   "abstract": null
+  },
+  {
+   "title": "The effect of anthropogenic and environmental factors in coupled human-natural systems: Evidence from Lake Zürich",
+   "authors": [
+    "Michele Baggio",
+    "J.P. Chavas",
+    "S. Di Falco",
+    "A. Hertig",
+    "F. Pomati"
+   ],
+   "year": 2019,
+   "venue": "Natural Resource Modeling",
+   "status": "已发表",
+   "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/nrm.12245",
+   "abstract": null
+  },
+  {
+   "title": "Is Access to Medical Marijuana a Disamenity?",
+   "authors": [
+    "Michele Baggio",
+    "J. Choi"
+   ],
+   "year": 2017,
+   "venue": "Economics Bulletin",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Optimal management with reversible regime shifts",
+   "authors": [
+    "Michele Baggio",
+    "P. L. Fackler"
+   ],
+   "year": 2016,
+   "venue": "Journal of Economic Behavior & Organization",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/pii/S0167268116300567",
+   "abstract": null
+  },
+  {
+   "title": "Short-run economic benefits from water quality improvements: An application to the American lobster fishery of Long Island Sound",
+   "authors": [
+    "Michele Baggio"
+   ],
+   "year": 2016,
+   "venue": "Estuaries and Coasts",
+   "status": "已发表",
+   "url": "https://link.springer.com/article/10.1007/s12237-016-0109-x",
+   "abstract": null
+  },
+  {
+   "title": "Optimal Fishery Management with Regime Shifts: An Assessment of Harvesting Strategies",
+   "authors": [
+    "Michele Baggio"
+   ],
+   "year": 2016,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "https://link.springer.com/article/10.1007/s10640-015-9906-0",
+   "abstract": null
+  },
+  {
+   "title": "Modelling adaptation in multi-state resource systems",
+   "authors": [
+    "Michele Baggio",
+    "C. A. Perrings"
+   ],
+   "year": 2015,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/pii/S0921800915002335",
+   "abstract": null
+  },
+  {
+   "title": "On the Consumer Value of Diversity",
+   "authors": [
+    "J.P. Chavas",
+    "Michele Baggio"
+   ],
+   "year": 2011,
+   "venue": "Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Estimating Weight-Length Relationships without Individual Weight Data: An application to the American lobster (Homarus americanus) of Long Island Sound",
+   "authors": [
+    "Michele Baggio"
+   ],
+   "year": 2011,
+   "venue": "Reviews in Fish Biology and Fisheries",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "On Duality and the Benefit Function",
+   "authors": [
+    "J.P. Chavas",
+    "Michele Baggio"
+   ],
+   "year": 2010,
+   "venue": "Journal of Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "On the Consumer Value of Complementarity: A Benefit Function Approach",
+   "authors": [
+    "Michele Baggio",
+    "J.P. Chavas"
+   ],
+   "year": 2009,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

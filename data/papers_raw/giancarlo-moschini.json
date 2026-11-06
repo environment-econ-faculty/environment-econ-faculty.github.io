@@ -1,0 +1,1362 @@
+{
+ "slug": "giancarlo-moschini",
+ "name": "GianCarlo Moschini",
+ "sources": [
+  "https://www.econ.iastate.edu/people/giancarlo-moschini/cv.pdf",
+  "https://www.econ.iastate.edu/people/giancarlo-moschini"
+ ],
+ "collected": "2026-11-06",
+ "notes": "From CV (includes items dated June 2026). Long CV: all refereed journal articles (1978 onward), current working papers, and book chapters kept; Choices/AgBioForum pieces, replies/comments/discussions, books, and some later chapters omitted. Authors in CV byline order; names as written (initials). Working-paper year = 2026 (as dated on CV). Venue strings machine-parsed from CV citations; minor truncation possible for a few older items.",
+ "papers": [
+  {
+   "title": "Innovation, Licensing, and Competition: Evidence from Genetically Engineered Crops",
+   "authors": [
+    "G. Moschini",
+    "E.D. Perry"
+   ],
+   "year": 2026,
+   "venue": "The Journal of Industrial Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/joie.70016",
+   "abstract": null
+  },
+  {
+   "title": "Spatial Price Competition and Buyer Power in the U.S. Beef Packing Industry",
+   "authors": [
+    "G. Moschini",
+    "T.J. Smith"
+   ],
+   "year": 2026,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/ajae.70003",
+   "abstract": null
+  },
+  {
+   "title": "Emission Reduction by Voluntary Agreements: Oligopoly Market with Green Consumers",
+   "authors": [
+    "H. Kim",
+    "G. Moschini"
+   ],
+   "year": 2025,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1007/s10640-025-00990-2",
+   "abstract": null
+  },
+  {
+   "title": "Animal Welfare Ballot Initiatives and the Vote-Buy Gap",
+   "authors": [
+    "T. Vukina",
+    "S.E. Oh",
+    "G. Moschini"
+   ],
+   "year": 2025,
+   "venue": "Journal of Agricultural & Food Industrial Organization",
+   "status": "已发表",
+   "url": "https://doi.org/10.1515/jafio-2024-0053",
+   "abstract": null
+  },
+  {
+   "title": "Geographical Indications and Welfare: Evidence from US Wine Demand",
+   "authors": [
+    "R. Chandra",
+    "G. Moschini",
+    "G. Lade"
+   ],
+   "year": 2025,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/ajae.12499",
+   "abstract": null
+  },
+  {
+   "title": "Agricultural innovation for climate change: limited but positive impacts of commercialized drought-tolerant corn",
+   "authors": [
+    "S. Lee",
+    "G. Moschini",
+    "E.D. Perry"
+   ],
+   "year": 2024,
+   "venue": "Environmental Research Letters",
+   "status": "已发表",
+   "url": "https://doi.org/10.1088/1748-9326/ad8ad5",
+   "abstract": null
+  },
+  {
+   "title": "The Economics of Geographical Indications: An Update",
+   "authors": [
+    "L. Menapace",
+    "G. Moschini"
+   ],
+   "year": 2024,
+   "venue": "Annual Review of Resource Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1146/annurev-resource-101623-092812",
+   "abstract": null
+  },
+  {
+   "title": "Major Impacts of the U.S. Renewable Fuel Standard on Corn and Soybean Cultivation",
+   "authors": [
+    "T. Jake Smith",
+    "GianCarlo Moschini"
+   ],
+   "year": 2024,
+   "venue": "Journal of the Agricultural and Applied Economics Association",
+   "status": "已发表",
+   "url": "https://doi.org/10.1002/jaa2.134",
+   "abstract": null
+  },
+  {
+   "title": "Switching Costs in the US Seed Industry: Technology Adoption and Welfare Impacts",
+   "authors": [
+    "J. Luo",
+    "G. Moschini",
+    "E.D. Perry"
+   ],
+   "year": 2023,
+   "venue": "International Journal of Industrial Organization",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.ijindorg.2023.102977",
+   "abstract": null
+  },
+  {
+   "title": "Genetically engineered varieties and applied pesticide toxicity in US maize and soybeans: Heterogeneous and evolving impacts",
+   "authors": [
+    "S. Lee",
+    "G. Moschini",
+    "E.D. Perry"
+   ],
+   "year": 2023,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.ecolecon.2023.107873",
+   "abstract": null
+  },
+  {
+   "title": "Genetically Engineered Crops and Pesticides: The Critical Nexus",
+   "authors": [
+    "G. Moschini",
+    "E. Perry"
+   ],
+   "year": 2026,
+   "venue": "SSRN Working Paper",
+   "status": "工作论文",
+   "url": "http://dx.doi.org/10.2139/ssrn.6901678",
+   "abstract": null
+  },
+  {
+   "title": "State-Space Aggregation in Markov Chains and the Modeling of US Crop Patterns",
+   "authors": [
+    "T.J. Smith",
+    "G. Moschini"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Procurement Contracts and Buyer Power: Insights from Hotelling",
+   "authors": [
+    "G. Moschini",
+    "T.J. Smith"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Conflicting Markup Estimates and Cost minimization: The Semi-Nonparametric Translog Model",
+   "authors": [
+    "J. Jose",
+    "G. Moschini"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Roots of Agricultural Innovation: Patent Evidence of Knowledge Spillovers (book chapter)",
+   "authors": [
+    "M. Clancy",
+    "P. Heisey",
+    "Y. Ji",
+    "G. Moschini"
+   ],
+   "year": 2021,
+   "venue": "Book chapter (Economics of Research and Innovation in Agriculture, University of Chicago Press)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Economic Incentive to Innovate in Plants: Patents and Plant Breeders' Rights (book chapter)",
+   "authors": [
+    "G. Moschini",
+    "O. Yerokhin"
+   ],
+   "year": 2007,
+   "venue": "Book chapter (Agricultural Biotechnology and Intellectual Property, CAB International)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Labeling Regulations and Segregation of First- and Second-Generation GM Products: Innovation Incentives and Welfare Effects (book chapter)",
+   "authors": [
+    "G. Moschini",
+    "H. Lapan"
+   ],
+   "year": 2006,
+   "venue": "Book chapter (Regulating Agricultural Biotechnology, Springer)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Coherent Specification of a Mixed Demand System: The Stone-Geary Model (book chapter)",
+   "authors": [
+    "G. Moschini",
+    "P.L. Rizzi"
+   ],
+   "year": 2006,
+   "venue": "Book chapter (Exploring Frontiers in Applied Economics, Berkeley Electronic Press)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Intellectual property rights and the World Trade Organization: Retrospect and prospects (book chapter)",
+   "authors": [
+    "G. Moschini"
+   ],
+   "year": 2004,
+   "venue": "Book chapter (Agricultural policy reform and the WTO, Edward Elgar)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Product Differentiation and the Relative Importance of Wine Attributes: US Retail Prices",
+   "authors": [
+    "R. Chandra",
+    "G. Moschini"
+   ],
+   "year": 2022,
+   "venue": "Journal of Wine Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Agricultural Innovation and Adaptation to Climate Change: Insights from U.S. Maize",
+   "authors": [
+    "S. Lee",
+    "Y. Ji",
+    "G. Moschini"
+   ],
+   "year": 2022,
+   "venue": "Journal of Agricultural & Applied Economics Association",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "On the value of innovation and extension information: SCN-resistant soybean varieties",
+   "authors": [
+    "S. Lee",
+    "G. Moschini"
+   ],
+   "year": 2022,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Uncertainty and learning in a technologically dynamic industry: Seed density in US maize",
+   "authors": [
+    "E.D. Perry",
+    "D. Hennessy",
+    "G. Moschini"
+   ],
+   "year": 2022,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Neonicotinoids in U.S. maize: Insecticide substitution effects and environmental risk",
+   "authors": [
+    "E.D. Perry",
+    "G. Moschini"
+   ],
+   "year": 2020,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Firm internal network, environmental regulation, and plant death",
+   "authors": [
+    "J. Cui",
+    "G. Moschini"
+   ],
+   "year": 2020,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Valuing Product Innovation: Genetically Engineered Varieties in U.S. Corn and Soybeans",
+   "authors": [
+    "F. Ciliberto",
+    "G. Moschini",
+    "E.D. Perry"
+   ],
+   "year": 2019,
+   "venue": "RAND Journal of Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Pass-through of the policy-induced E85 subsidy: Insights from Hotelling's model",
+   "authors": [
+    "J. Luo",
+    "G. Moschini"
+   ],
+   "year": 2019,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Product Concentration and Usage: Behavioral Effects in the Glyphosate Market",
+   "authors": [
+    "E.D. Perry",
+    "D. Hennessy",
+    "G. Moschini"
+   ],
+   "year": 2019,
+   "venue": "Journal of Economic Behavior & Organization",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Dynamics of Supply: U.S. Corn and Soybeans in the Biofuel Era",
+   "authors": [
+    "H. Kim",
+    "G. Moschini"
+   ],
+   "year": 2018,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Mandates and the Incentive for Environmental Innovation",
+   "authors": [
+    "M.S. Clancy",
+    "G. Moschini"
+   ],
+   "year": 2018,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Threshold Cointegration and Spatial Price Transmission when Expectations Matter",
+   "authors": [
+    "S. Lence",
+    "G. Moschini",
+    "F. Santeramo"
+   ],
+   "year": 2018,
+   "venue": "Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Intellectual Property Rights and the Ascent of Proprietary Innovation in Agriculture",
+   "authors": [
+    "M.S. Clancy",
+    "G. Moschini"
+   ],
+   "year": 2017,
+   "venue": "Annual Review of Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Genetically engineered crops and pesticide use in U.S. maize and soybeans",
+   "authors": [
+    "E.D. Perry",
+    "F. Ciliberto",
+    "D. A. Hennessy",
+    "G. Moschini"
+   ],
+   "year": 2016,
+   "venue": "Science Advances",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Testing for Complementarity: Glyphosate Tolerant Soybeans and Conservation Tillage",
+   "authors": [
+    "E. Perry",
+    "G. Moschini",
+    "D. Hennessy"
+   ],
+   "year": 2016,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Productivity, Export and Environmental Performance: Air Pollutants in the United States",
+   "authors": [
+    "J. Cui",
+    "H. Lapan",
+    "G. Moschini"
+   ],
+   "year": 2016,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "In Medio Stat Virtus: Coexistence Policies for GM and non-GM Production in Spatial Equilibrium",
+   "authors": [
+    "G. Moschini"
+   ],
+   "year": 2015,
+   "venue": "European Review of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Endogenous market structure and the cooperative firm",
+   "authors": [
+    "B. Hueth",
+    "G. Moschini"
+   ],
+   "year": 2014,
+   "venue": "Economics Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Strength of Protection for Geographical Indications: Promotion Incentives and Welfare Effects",
+   "authors": [
+    "L. Menapace",
+    "G. Moschini"
+   ],
+   "year": 2014,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Incentives for Innovation: Patents, Prizes, and Research Contracts",
+   "authors": [
+    "M.S. Clancy",
+    "G. Moschini"
+   ],
+   "year": 2013,
+   "venue": "Applied Economics Perspective and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Realized Yield Effect of Genetically Engineered Crops: U.S. Maize and Soybean",
+   "authors": [
+    "Z. Xu",
+    "D.A. Hennessy",
+    "K. Sardana",
+    "G. Moschini"
+   ],
+   "year": 2013,
+   "venue": "Crop Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Second-best biofuel policies and the welfare effects of quantity mandates and subsidies",
+   "authors": [
+    "H. Lapan",
+    "G. Moschini"
+   ],
+   "year": 2012,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Quality Certification by Geographical Indications, Trademarks and Firm Reputation",
+   "authors": [
+    "L. Menapace",
+    "G. Moschini"
+   ],
+   "year": 2012,
+   "venue": "European Review of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economics of Biofuels: An Overview of Policies, Impacts and Prospects",
+   "authors": [
+    "G. Moschini",
+    "J. Cui",
+    "H. Lapan"
+   ],
+   "year": 2012,
+   "venue": "Bio-based and Applied Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Welfare Impacts of Alternative Biofuel and Energy Policies",
+   "authors": [
+    "J. Cui",
+    "H. Lapan",
+    "G. Moschini",
+    "J. Cooper"
+   ],
+   "year": 2011,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Determinants of World Demand for U.S. Corn Seeds: The Role of Trade Costs",
+   "authors": [
+    "S. Jayasinghe",
+    "J. Beghin",
+    "G. Moschini"
+   ],
+   "year": 2010,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Incentives and Outcomes in a Strategic Setting: The 3-Points-for-a-Win System in Soccer",
+   "authors": [
+    "G. Moschini"
+   ],
+   "year": 2010,
+   "venue": "Economic Inquiry",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Quality certification standards in competitive markets: When consumers and producers (dis)agree",
+   "authors": [
+    "H. Lapan",
+    "G. Moschini"
+   ],
+   "year": 2009,
+   "venue": "Economics Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "U.S. Universities' Net Returns from Patenting and Licensing: A Quantile Regression Analysis",
+   "authors": [
+    "H. Bulut",
+    "G. Moschini"
+   ],
+   "year": 2009,
+   "venue": "Economics of Innovation and New Technology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Biotechnology and the Development of Food Markets: Retrospect and Prospects",
+   "authors": [
+    "G. Moschini"
+   ],
+   "year": 2008,
+   "venue": "European Review of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Geographical Indications and the Competitive Provision of Quality in Agricultural Markets",
+   "authors": [
+    "G. Moschini",
+    "L. Menapace",
+    "D. Pick"
+   ],
+   "year": 2008,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Patents, Research Exemption, and the Incentive for Sequential Innovation",
+   "authors": [
+    "G. Moschini",
+    "O. Yerokhin"
+   ],
+   "year": 2008,
+   "venue": "Journal of Economics & Management Strategy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Intellectual Property Rights and Crop-Improving R&D Under Adaptive Destruction",
+   "authors": [
+    "O. Yerokhin",
+    "G. Moschini"
+   ],
+   "year": 2008,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Deriving a Flexible Mixed Demand System: The Normalized Quadratic Model",
+   "authors": [
+    "G. Moschini",
+    "P.L. Rizzi"
+   ],
+   "year": 2007,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Grading, Minimum Quality Standards, and the Labeling of Genetically Modified Products",
+   "authors": [
+    "H. Lapan",
+    "G. Moschini"
+   ],
+   "year": 2007,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Vertical Product Differentiation, Entry-Deterrence Strategies, and Entry Qualities",
+   "authors": [
+    "Y-H. Noh",
+    "G. Moschini"
+   ],
+   "year": 2006,
+   "venue": "Review of Industrial Organization",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Pharmaceuticals and Industrial Traits in Genetically Modified Crops: Coexistence with Conventional Agriculture",
+   "authors": [
+    "G. Moschini"
+   ],
+   "year": 2006,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Regulatory Actions under Adjustment Costs and the Resolution of Scientific Uncertainty",
+   "authors": [
+    "D. Hennessy",
+    "G. Moschini"
+   ],
+   "year": 2006,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Evaluating the Market and Welfare Impacts of Agricultural Policies in Developed Countries: Comparison of Partial and General Equilibrium Measures",
+   "authors": [
+    "A. Gohin",
+    "G. Moschini"
+   ],
+   "year": 2006,
+   "venue": "Review of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Patents, Trade Secrets and the Correlation Among R&D Projects",
+   "authors": [
+    "H. Bulut",
+    "G. Moschini"
+   ],
+   "year": 2006,
+   "venue": "Economics Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "On the Segregation of Genetically Modified, Conventional and Organic Products in European Agriculture: A Multi-market Equilibrium Analysis",
+   "authors": [
+    "G. Moschini",
+    "H. Bulut",
+    "L. Cembalo"
+   ],
+   "year": 2005,
+   "venue": "Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Genetically Modified Crops and Product Differentiation: Trade and Welfare Effects in the Soybean Complex",
+   "authors": [
+    "A. Sobolevsky",
+    "G. Moschini",
+    "H. Lapan"
+   ],
+   "year": 2005,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Nash Equilibrium in Strictly Competitive Games: Live Play in Soccer",
+   "authors": [
+    "G. Moschini"
+   ],
+   "year": 2004,
+   "venue": "Economics Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Innovation and Trade with Endogenous Market Failure: The Case of Genetically Modified Products",
+   "authors": [
+    "H.E. Lapan",
+    "G. Moschini"
+   ],
+   "year": 2004,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Testing for Constant Hedge Ratios in Commodity Markets: A Multivariate GARCH Approach",
+   "authors": [
+    "G. Moschini",
+    "R.J. Myers"
+   ],
+   "year": 2002,
+   "venue": "Journal of Empirical Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Production Risk and the Estimation of Ex-ante Cost Functions",
+   "authors": [
+    "G. Moschini"
+   ],
+   "year": 2001,
+   "venue": "Journal of Econometrics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Flexible Multistage Demand System Based on Indirect Separability",
+   "authors": [
+    "G. Moschini"
+   ],
+   "year": 2001,
+   "venue": "Southern Economic Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Biotech--Who Wins? Economic Benefits and Costs of Biotechnology Innovations in Agriculture",
+   "authors": [
+    "G. Moschini"
+   ],
+   "year": 2001,
+   "venue": "Estey Centre Journal of International Law and Trade Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Roundup Ready� Soybeans and Welfare Effects in the Soybean Complex",
+   "authors": [
+    "G. Moschini",
+    "H. Lapan",
+    "A. Sobolevsky"
+   ],
+   "year": 2000,
+   "venue": "Agribusiness - An International Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Incomplete Adoption of a Superior Innovation",
+   "authors": [
+    "H. Lapan",
+    "G. Moschini"
+   ],
+   "year": 2000,
+   "venue": "Economica",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Imposing Local Curvature Conditions in Flexible Demand Systems",
+   "authors": [
+    "G. Moschini"
+   ],
+   "year": 1999,
+   "venue": "Journal of Business & Economic Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Semiflexible Almost Ideal Demand System",
+   "authors": [
+    "G. Moschini"
+   ],
+   "year": 1998,
+   "venue": "European Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Intellectual Property Rights and the Welfare Effects of Agricultural R&D",
+   "authors": [
+    "G. Moschini",
+    "H. Lapan"
+   ],
+   "year": 1997,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "La Struttura dei Consumi delle Famiglie in Italia",
+   "authors": [
+    "G.C. Moschini",
+    "P.L. Rizzi"
+   ],
+   "year": 1997,
+   "venue": "Rivista Internazionale di Scienze Sociali",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Stabilizing Price Policies and the Futures Market",
+   "authors": [
+    "H. Lapan",
+    "G. Moschini"
+   ],
+   "year": 1996,
+   "venue": "Economics Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Structural Change and Demand Analysis: A Cursory Review",
+   "authors": [
+    "G. Moschini",
+    "D. Moro"
+   ],
+   "year": 1996,
+   "venue": "European Review of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Separable Almost Ideal Demand System",
+   "authors": [
+    "D. Moro",
+    "G. Moschini"
+   ],
+   "year": 1996,
+   "venue": "Rivista Internazionale di Scienze Economiche e Commerciali",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Hedging Role of Options and Futures under Joint Price, Basis, and Production Risk",
+   "authors": [
+    "G. Moschini",
+    "H. Lapan"
+   ],
+   "year": 1995,
+   "venue": "International Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Units of Measurement and the 'Stone Index' in Demand System Estimation",
+   "authors": [
+    "G. Moschini"
+   ],
+   "year": 1995,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Autocorrelation Specification in Singular Equation Systems",
+   "authors": [
+    "G. Moschini",
+    "D. Moro"
+   ],
+   "year": 1994,
+   "venue": "Economics Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Efficiency of Decoupled Farm Programs Under Distortionary Taxation",
+   "authors": [
+    "G. Moschini",
+    "P. Sckokai"
+   ],
+   "year": 1994,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Futures Hedging Under Price, Basis, and Production Risk",
+   "authors": [
+    "H. Lapan",
+    "G. Moschini"
+   ],
+   "year": 1994,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Maintaining and Testing Separability in Demand Systems",
+   "authors": [
+    "G. Moschini",
+    "D. Moro",
+    "R. Green"
+   ],
+   "year": 1994,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Interventi Disaccoppiati, Riforma della PAC e Redditi Agricoli: Una Analisi Qualitativa",
+   "authors": [
+    "P. Sckokai",
+    "G. Moschini"
+   ],
+   "year": 1993,
+   "venue": "Rivista di Economia Agraria",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Production, Hedging, and Speculative Decision with Options and Futures Markets: Reply",
+   "authors": [
+    "H. Lapan",
+    "G. Moschini",
+    "S. Hanson"
+   ],
+   "year": 1993,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Flexible Specification of Mixed Demand Systems",
+   "authors": [
+    "G. Moschini",
+    "A. Vissa"
+   ],
+   "year": 1993,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Hedging Price Risk with Futures and Options for the Competitive Firm with Production Flexibility",
+   "authors": [
+    "G. Moschini",
+    "H. Lapan"
+   ],
+   "year": 1992,
+   "venue": "International Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Production Subsidy and Countervailing Duties in Vertically Related Markets: The Hog-Pork Case between Canada and the United States",
+   "authors": [
+    "G. Moschini",
+    "K.D. Meilke"
+   ],
+   "year": 1992,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Linear Inverse Demand System",
+   "authors": [
+    "G. Moschini",
+    "A. Vissa"
+   ],
+   "year": 1992,
+   "venue": "Journal of Agricultural and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Alternative Measures of Risk in Commodity Supply Models: An Analysis of Sow Farrowing Decisions in the United States",
+   "authors": [
+    "M. Holt",
+    "G. Moschini"
+   ],
+   "year": 1992,
+   "venue": "Journal of Agricultural and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Non-nested Test of Separability for Flexible Functional Forms",
+   "authors": [
+    "G. Moschini"
+   ],
+   "year": 1992,
+   "venue": "Review of Economics and Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Tariffication with Supply Management: The Case of the U.S.- Canada Chicken Trade",
+   "authors": [
+    "G. Moschini",
+    "K.D. Meilke"
+   ],
+   "year": 1991,
+   "venue": "Canadian Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Economic Issues in Tariffication: An Overview",
+   "authors": [
+    "G. Moschini"
+   ],
+   "year": 1991,
+   "venue": "Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Model of Production with Supply Management for the Canadian Agricultural Sector: Reply",
+   "authors": [
+    "G. Moschini"
+   ],
+   "year": 1991,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Production, Hedging, and Speculative Decision with Options and Futures Markets",
+   "authors": [
+    "H. Lapan",
+    "G. Moschini",
+    "S. Hanson"
+   ],
+   "year": 1991,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Testing for Preference Change in Consumer Demand: An Indirectly Separable, Semiparametric Model",
+   "authors": [
+    "G. Moschini"
+   ],
+   "year": 1991,
+   "venue": "Journal of Business and Economic Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Nonparametric and Semiparametric Estimation: An Analysis of Multiproduct Returns to Scale",
+   "authors": [
+    "G. Moschini"
+   ],
+   "year": 1990,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Modeling the Supply Response of Supply Managed Industries: A Review of Issues",
+   "authors": [
+    "G. Moschini"
+   ],
+   "year": 1989,
+   "venue": "Canadian Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Normal Inputs and Joint Production with Allocatable Fixed Factors",
+   "authors": [
+    "G. Moschini"
+   ],
+   "year": 1989,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Analysis of the Structural and Welfare Effects of Bovine Somatotropin on the Ontario Dairy Industry",
+   "authors": [
+    "J. Oxley",
+    "G. Fox",
+    "G. Moschini"
+   ],
+   "year": 1989,
+   "venue": "Canadian Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Modeling the Pattern of Structural Change in U.S. Meat Demand",
+   "authors": [
+    "G. Moschini",
+    "K.D. Meilke"
+   ],
+   "year": 1989,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Nonparametric Kernel Estimation Applied to Forecasting: An Evaluation Based on the Bootstrap",
+   "authors": [
+    "G. Moschini",
+    "D. Prescott",
+    "T. Stengos"
+   ],
+   "year": 1988,
+   "venue": "Empirical Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Cost Structure of Ontario Dairy Farms: A Micro-econometric Analysis",
+   "authors": [
+    "G. Moschini"
+   ],
+   "year": 1988,
+   "venue": "Canadian Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Model of Production with Supply Management for the Canadian Agricultural Sector",
+   "authors": [
+    "G. Moschini"
+   ],
+   "year": 1988,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Sustainable Rates of Return for Milk Quotas in Ontario",
+   "authors": [
+    "G. Moschini",
+    "K.D. Meilke"
+   ],
+   "year": 1988,
+   "venue": "Canadian Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Parameter Stability and the U.S Demand for Beef",
+   "authors": [
+    "G. Moschini",
+    "K.D. Meilke"
+   ],
+   "year": 1984,
+   "venue": "Western Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Input Substitutability in the EC Compound Feed Industry",
+   "authors": [
+    "Y. Surry",
+    "G. Moschini"
+   ],
+   "year": 1984,
+   "venue": "European Review of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Quota Values and Price Uncertainty",
+   "authors": [
+    "G. Moschini"
+   ],
+   "year": 1984,
+   "venue": "Canadian Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Funzione di profitto e analisi dell'offerta",
+   "authors": [
+    "G. Moschini"
+   ],
+   "year": 1983,
+   "venue": "Rivista Internazionale di Scienze Sociali",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "La teoria della stabilizzazione dei prezzi: una rassegna critica",
+   "authors": [
+    "G. Moschini"
+   ],
+   "year": 1983,
+   "venue": "Rivista di Economia Agraria",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Testing for Parameter Instability in Linear Econometric Models: A Survey",
+   "authors": [
+    "G. Moschini"
+   ],
+   "year": 1982,
+   "venue": "Annali della Facolta' di Agraria U.C.S.C",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Italian Tomato Industry: An Econometric Analysis for the Period 1955 to 1976",
+   "authors": [
+    "R. Pieri",
+    "G. Moschini"
+   ],
+   "year": 1979,
+   "venue": "European Review of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Analisi dell'offerta e della domanda di pomodoro in Italia",
+   "authors": [
+    "G. Moschini",
+    "R. Pieri"
+   ],
+   "year": 1978,
+   "venue": "Rivista di Economia Agraria",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

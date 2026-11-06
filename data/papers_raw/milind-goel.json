@@ -1,0 +1,36 @@
+{
+ "slug": "milind-goel",
+ "name": "Milind Goel",
+ "sources": [
+  "https://www.milindgoel.com/",
+  "https://www.milindgoel.com/_files/ugd/0d0dc2_4b7b40c3cc224efe802182fb2aea9ba9.pdf"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Homepage + CV (PhD candidate, LBS). CV lists co-authors with 'joint with' only; authors alphabetical. No dates on CV; year 2026 assumed. 'High-Frequency Factor Volatilities...' is 'in preparation' and omitted; non-economics COVID protocol and architecture pieces omitted.",
+ "papers": [
+  {
+   "title": "Green Expectations: Climate Change and Homeowner Valuation of Dwelling Sustainability",
+   "authors": [
+    "Milind Goel"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4340288",
+   "abstract": "I compile seven million residential real estate transactions in the United Kingdom and recover discount rates used by homeowners to value dwelling sustainability. To do this, I calibrate the present value of energy savings from subsequent improvements in dwelling sustainability to the observed price premium. I show that homeowners accept lower returns for greener dwellings, evidenced by the declining structure of discount rates with increasing dwelling sustainability. Moreover, I exploit the spatial, temporal, tenurial, and vintage variation in premium to demonstrate that homeowners price sustainability following economic principles. My estimates provide direct measures for rates used to discount climate investments."
+  },
+  {
+   "title": "Legislator Tweets About the Green Transition and the Returns of Green vs. Brown Stocks",
+   "authors": [
+    "Victor DeMiguel",
+    "Javier Gil-Bazo",
+    "Milind Goel"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5119147",
+   "abstract": "To study the impact of green-transition regulation on firm value, we analyse stock returns around legislator tweets about climate change. Green stocks significantly outperform brown stocks in the one-to-ten-minute window around pro-transition tweets. The cumulative daily-average green-minus-brown portfolio return around pro-transition tweets is 6.9% higher than around anti-transition ones. For tweets that mention environmental regulations, the spread increases in the weeks before a congressional vote and is stronger before close votes and when Congress is split. Our findings suggest that the green transition impacts the relative performance of green and brown stocks, at least partly, via a regulatory channel."
+  }
+ ]
+}

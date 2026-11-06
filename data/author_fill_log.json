@@ -956,6 +956,178 @@
 ]
 ]
 },
+"atheoreticalmodelofutilitybillpaymentbehavior": {
+"title": "A Theoretical Model of Utility Bill Payment Behavior",
+"authors": [
+"Ana Espinola-Arredondo",
+"T. Randriamaro",
+"J. Cook",
+"D. Fuente"
+],
+"unresolved": [
+"T. Randriamaro",
+"J. Cook",
+"D. Fuente"
+],
+"owners": [
+"ana-espinola-arredondo"
+],
+"remote": []
+},
+"abatementthresholdshowmergerprospectsaffectgreeninvestments": {
+"title": "Abatement Thresholds: How Merger Prospects Affect Green Investments",
+"authors": [
+"Ana Espinola-Arredondo",
+"Felix Munoz-Garcia",
+"L. Gautier"
+],
+"unresolved": [
+"L. Gautier"
+],
+"owners": [
+"ana-espinola-arredondo",
+"felix-munoz-garcia"
+],
+"remote": []
+},
+"datacenterincentiveprogramsandwateruncertainty": {
+"title": "Data Center Incentive Programs and Water Uncertainty",
+"authors": [
+"Ana Espinola-Arredondo",
+"Felix Munoz-Garcia",
+"A. Surve"
+],
+"unresolved": [
+"A. Surve"
+],
+"owners": [
+"ana-espinola-arredondo",
+"felix-munoz-garcia"
+],
+"remote": []
+},
+"greenermergerguidelineswhendotheymatter": {
+"title": "Greener Merger Guidelines: When Do They Matter?",
+"authors": [
+"Ana Espinola-Arredondo",
+"Felix Munoz-Garcia",
+"K. Kanjilal"
+],
+"unresolved": [
+"K. Kanjilal"
+],
+"owners": [
+"ana-espinola-arredondo",
+"felix-munoz-garcia"
+],
+"remote": []
+},
+"canabatementeffortsinacprpromoteoverexploitationoftheresource": {
+"title": "Can abatement efforts in a CPR promote over-exploitation of the resource?",
+"authors": [
+"A. Surve",
+"Ana Espinola-Arredondo"
+],
+"unresolved": [
+"A. Surve"
+],
+"owners": [
+"ana-espinola-arredondo"
+],
+"remote": []
+},
+"economiccontributionoforegonsmasstimbermarketascenariobasedinputoutputanalysis": {
+"title": "Economic contribution of Oregon's mass timber market: a scenario-based input-output analysis",
+"authors": [
+"G. Lu",
+"A. Susaeta",
+"M. Kauffmann",
+"B. Kaetzel",
+"J. Tokarczyk"
+],
+"unresolved": [
+"M. Kauffmann",
+"J. Tokarczyk"
+],
+"owners": [
+"andres-susaeta"
+],
+"remote": []
+},
+"anempiricalpredatorpreymodelexaminingtheinteractionoffloridapantherswhitetailedd": {
+"title": "An empirical predator-prey model: examining the interaction of Florida panthers, white-tailed deer and cattle in Florida",
+"authors": [
+"A. Susaeta",
+"F. Hensen",
+"H. Melby"
+],
+"unresolved": [
+"F. Hensen",
+"H. Melby"
+],
+"owners": [
+"andres-susaeta"
+],
+"remote": []
+},
+"anovelintegratedfuzzydeaartificialintelligenceapproachforassessingenvironmentale": {
+"title": "A novel integrated Fuzzy DEA-artificial intelligence approach for assessing environmental efficiency and predicting CO2 emissions",
+"authors": [
+"M. Zadmirzaei",
+"F. Hasanzadeh",
+"A. Susaeta",
+"E. Gutiérrez"
+],
+"unresolved": [
+"F. Hasanzadeh",
+"E. Gutiérrez"
+],
+"owners": [
+"andres-susaeta"
+],
+"remote": []
+},
+"hiddencostsoffireexclusioninlongleafpineforestslinkedtoduffandcarbonmanagement": {
+"title": "Hidden costs of fire exclusion in longleaf pine forests linked to duff and carbon management",
+"authors": [
+"A. Susaeta",
+"J. Fill",
+"R. Crandall",
+"V. Morgan"
+],
+"unresolved": [
+"V. Morgan"
+],
+"owners": [
+"andres-susaeta"
+],
+"remote": [
+[
+"Andres Susaeta",
+"Jennifer Fill",
+"Raelene Crandall",
+"J Morgan Varner"
+]
+]
+},
+"valueofaflexibleforestharvestdecisionwithshortperiodcarbonoffsetsapplicationofab": {
+"title": "Value of a flexible forest harvest decision with short period carbon offsets: application of a binomial option model",
+"authors": [
+"U. Koirola",
+"D. Adams",
+"A. Susaeta",
+"E. Akande"
+],
+"unresolved": [
+"U. Koirola",
+"D. Adams",
+"E. Akande"
+],
+"owners": [
+"andres-susaeta"
+],
+"remote": []
+},
 "longtermexposuretoindoorairpollutionandriskoftuberculosis": {
 "title": "Long-term exposure to indoor air pollution and risk of tuberculosis",
 "authors": [
@@ -1314,13 +1486,13 @@
 "A.J. Plantinga"
 ],
 "unresolved": [
-"W. Jaeger",
 "A. Amos",
 "D. Conklin",
 "K. Moore"
 ],
 "owners": [
-"andrew-j-plantinga"
+"andrew-j-plantinga",
+"william-jaeger"
 ],
 "remote": []
 },
@@ -1387,7 +1559,10 @@
 "D. Turner"
 ],
 "owners": [
-"andrew-j-plantinga"
+"andrew-j-plantinga",
+"christian-langpap",
+"daniel-bigelow",
+"william-jaeger"
 ],
 "remote": []
 },
@@ -1478,7 +1653,8 @@
 "J. Wu"
 ],
 "owners": [
-"andrew-j-plantinga"
+"andrew-j-plantinga",
+"william-jaeger"
 ],
 "remote": []
 },
@@ -1501,12 +1677,14 @@
 ],
 "unresolved": [
 "V.C. Radeloff",
+"D.J. Lewis",
 "D. Helmers",
 "S. Martinuzzi",
 "E. Lonsdorf"
 ],
 "owners": [
 "andrew-j-plantinga",
+"david-lewis",
 "stephen-polasky"
 ],
 "remote": []
@@ -5658,6 +5836,7 @@
 ],
 "owners": [
 "catherine-l-kling",
+"kathleen-segerson",
 "scott-barrett",
 "stephen-polasky"
 ],
@@ -5979,20 +6158,6 @@
 "unresolved": [
 "J. Corrigan",
 "J. Zhao"
-],
-"owners": [
-"catherine-l-kling"
-],
-"remote": []
-},
-"theconsequencesofcobenefitsfortheefficientdesignofcarbonsequestrationprograms": {
-"title": "The Consequences of Co-Benefits for the Efficient Design of Carbon Sequestration Programs",
-"authors": [
-"H. Feng",
-"C. Kling"
-],
-"unresolved": [
-"H. Feng"
 ],
 "owners": [
 "catherine-l-kling"
@@ -6426,6 +6591,189 @@
 ],
 "remote": []
 },
+"newdevelopmentintradetheoryandthefoodandbeverageindustry": {
+"title": "New Development in Trade Theory and the Food and Beverage Industry",
+"authors": [
+"J. Reimer",
+"C. Langpap"
+],
+"unresolved": [
+"J. Reimer"
+],
+"owners": [
+"christian-langpap"
+],
+"remote": []
+},
+"understandingthescopeandlimitationsofdroughtmanagementwithhumannaturalsystemmode": {
+"title": "Understanding the Scope and Limitations of Drought Management with Human-Natural System Models",
+"authors": [
+"W.K. Jaeger",
+"A. Amos",
+"D. Conklin",
+"C. Langpap",
+"K. Moore",
+"A. Plantinga"
+],
+"unresolved": [
+"W.K. Jaeger",
+"A. Amos",
+"D. Conklin",
+"K. Moore",
+"A. Plantinga"
+],
+"owners": [
+"christian-langpap"
+],
+"remote": []
+},
+"thevalueofinstreamwatertemperatureforecastsforfisheriesmanagement": {
+"title": "The Value of In-stream Water Temperature Forecasts for Fisheries Management",
+"authors": [
+"B. Huang",
+"C. Langpap",
+"R. Adams"
+],
+"unresolved": [
+"B. Huang",
+"R. Adams"
+],
+"owners": [
+"christian-langpap"
+],
+"remote": []
+},
+"usinginstreamwatertemperatureforecastsforfisheriesmanagementanapplicationinthepa": {
+"title": "Using In-stream Water Temperature Forecasts for Fisheries Management: An Application in the Pacific Northwest",
+"authors": [
+"B. Huang",
+"C. Langpap",
+"R. Adams"
+],
+"unresolved": [
+"B. Huang",
+"R. Adams"
+],
+"owners": [
+"christian-langpap"
+],
+"remote": []
+},
+"predictingtheeffectoflandusepoliciesonwildlifehabitatabundance": {
+"title": "Predicting the Effect of Land Use Policies on Wildlife Habitat Abundance",
+"authors": [
+"C. Langpap",
+"J. Wu"
+],
+"unresolved": [
+"J. Wu"
+],
+"owners": [
+"christian-langpap"
+],
+"remote": []
+},
+"voluntaryconservationofendangeredspecieswhendoesnoregulatoryassurancesmeannocons": {
+"title": "Voluntary Conservation of Endangered Species: When Does No Regulatory Assurances Mean No Conservation?",
+"authors": [
+"C. Langpap",
+"J. Wu"
+],
+"unresolved": [
+"J. Wu"
+],
+"owners": [
+"christian-langpap"
+],
+"remote": []
+},
+"tappingintohomeownersdecisionmakingandemotionsathinkaloudexperimentalstudyofhome": {
+"title": "TAPping into Homeowners' Decision Making and Emotions: A Think-Aloud Experimental Study of Homeowner Responses to Flood Buyouts",
+"authors": [
+"Christina McGranaghan",
+"Polina Dineva",
+"Ancilla Inocencio",
+"Kent D. Messer",
+"Leah H. Palm-Forster",
+"Laura A. Paul",
+"A.R. Siders"
+],
+"unresolved": [
+"A.R. Siders"
+],
+"owners": [
+"christina-mcgranaghan",
+"leah-palm-forster"
+],
+"remote": [
+[
+"Polina Dineva",
+"Ancilla Inocencio",
+"Christina McGranaghan",
+"Kent D. Messer",
+"Leah H. Palm-Forster",
+"Laura Paul",
+"A.R. Siders"
+]
+]
+},
+"addressingcoordinationproblemsinresidentialbuyoutsexperimentalevidenceformanaged": {
+"title": "Addressing Coordination Problems in Residential Buyouts: Experimental Evidence for Managed Retreat in the Face of Climate Change-Related Threats",
+"authors": [
+"Christina McGranaghan",
+"Laura A. Paul",
+"A.R. Siders",
+"Polina K. Dineva",
+"Leah H. Palm-Forster",
+"Kent D. Messer"
+],
+"unresolved": [
+"A.R. Siders"
+],
+"owners": [
+"christina-mcgranaghan",
+"leah-palm-forster"
+],
+"remote": [
+[
+"Laura A. Paul",
+"Christina McGranaghan",
+"A.R. Siders",
+"Polina K. Dineva",
+"Leah H. Palm-Forster",
+"Kent D. Messer"
+]
+]
+},
+"promotingspatialcoordinationinfloodbuyoutsintheunitedstatesfourstrategiesandfour": {
+"title": "Promoting Spatial Coordination in Flood Buyouts in the United States: Four Strategies and Four Challenges from the Economics of Land Preservation Literature",
+"authors": [
+"Christina McGranaghan",
+"Polina K. Dineva",
+"Kent D. Messer",
+"Leah H. Palm-Forster",
+"Laura A. Paul",
+"A.R. Siders"
+],
+"unresolved": [
+"A.R. Siders"
+],
+"owners": [
+"christina-mcgranaghan",
+"kent-messer",
+"leah-palm-forster"
+],
+"remote": [
+[
+"Polina K. Dineva",
+"Christina McGranaghan",
+"Kent D. Messer",
+"Leah H. Palm-Forster",
+"Laura A. Paul",
+"A. R. Siders"
+]
+]
+},
 "frameworktoassessthepotentialofcircularfoodsystemtechnologies": {
 "title": "Framework to assess the potential of circular food system technologies",
 "authors": [
@@ -6442,10 +6790,10 @@
 "unresolved": [
 "C. Halpern",
 "D. Mason-D’Croz",
-"A. Simons",
 "M. Herrero"
 ],
 "owners": [
+"andrew-m-simons",
 "christopher-b-barrett"
 ],
 "remote": []
@@ -6961,6 +7309,69 @@
 ]
 ]
 },
+"healthlaborandequityinthelowcarbontransitionofcaliforniaspetroleumrefineries": {
+"title": "Health, labor, and equity in the low carbon transition of California's petroleum refineries",
+"authors": [
+"Christopher Malloy",
+"M. Meng",
+"D. Hernandez-Cortes",
+"T. Mangin",
+"V. Thivierge",
+"R. Deshmukh",
+"P. Weber",
+"O. Deschenes",
+"D. W. Lea",
+"K. C. Meng"
+],
+"unresolved": [
+"D. W. Lea"
+],
+"owners": [
+"christopher-malloy",
+"danae-hernandez-cortes",
+"kyle-c-meng",
+"paige-e-weber"
+],
+"remote": []
+},
+"resolvingthethriftcrisis": {
+"title": "Resolving the Thrift Crisis",
+"authors": [
+"V. Bernard",
+"R. Kormendi",
+"E. Snyder",
+"Craig Pirrong"
+],
+"unresolved": [
+"V. Bernard",
+"R. Kormendi",
+"E. Snyder"
+],
+"owners": [
+"craig-pirrong"
+],
+"remote": []
+},
+"furtherevidenceonsocialcomparisonandresidentialwateruse": {
+"title": "Further evidence on social comparison and residential water use",
+"authors": [
+"S. Lurbe",
+"J. Burkhardt",
+"C. Goemans",
+"D. Manning",
+"L. Hans"
+],
+"unresolved": [
+"S. Lurbe",
+"J. Burkhardt",
+"C. Goemans",
+"L. Hans"
+],
+"owners": [
+"dale-manning"
+],
+"remote": []
+},
 "dohealthdisparitiesnarrowwithpollutiondisparitiesevidencefromcalifornia": {
 "title": "Do health disparities narrow with pollution disparities? Evidence from California",
 "authors": [
@@ -7108,6 +7519,117 @@
 ],
 "owners": [
 "daniel-a-brent"
+],
+"remote": []
+},
+"nonclassicalmeasurementerrorinfarmlandmarketswithimplicationsforricardiananalysi": {
+"title": "Non-classical measurement error in farmland markets with implications for Ricardian analysis",
+"authors": [
+"Daniel P. Bigelow",
+"M. Jodlowski"
+],
+"unresolved": [
+"M. Jodlowski"
+],
+"owners": [
+"daniel-bigelow"
+],
+"remote": []
+},
+"optimizingmanagedaquiferrechargelocationsincaliforniascentralvalleyusinganevolut": {
+"title": "Optimizing managed aquifer recharge locations in California's Central Valley using an evolutionary multi-objective hydrological model",
+"authors": [
+"G. Kourakos",
+"G. Brunetti",
+"Daniel P. Bigelow",
+"S. Wallander",
+"H. Dahlke"
+],
+"unresolved": [
+"G. Kourakos",
+"G. Brunetti",
+"H. Dahlke"
+],
+"owners": [
+"daniel-bigelow"
+],
+"remote": []
+},
+"gaugingsustainablegroundwatermanagementwithahydroeconomicsystemmodelinvestigatio": {
+"title": "Gauging Sustainable Groundwater Management with a Hydro-economic System Model: Investigations in the Harney Basin, Oregon",
+"authors": [
+"W.K. Jaeger",
+"J. Antle",
+"S.B. Gingerich",
+"Daniel P. Bigelow"
+],
+"unresolved": [
+"W.K. Jaeger",
+"J. Antle",
+"S.B. Gingerich"
+],
+"owners": [
+"daniel-bigelow"
+],
+"remote": []
+},
+"doagriculturalconservationeasementspromotefarminvestment": {
+"title": "Do agricultural conservation easements promote farm investment?",
+"authors": [
+"C. McCollum",
+"Daniel P. Bigelow"
+],
+"unresolved": [
+"C. McCollum"
+],
+"owners": [
+"daniel-bigelow"
+],
+"remote": []
+},
+"institutionsandtheeconomicefficiencyofmanagedaquiferrechargeasamitigationstrateg": {
+"title": "Institutions and the economic efficiency of managed aquifer recharge as a mitigation strategy against drought impacts on irrigated agriculture in California",
+"authors": [
+"A. Reznik",
+"A. Dinar",
+"S. Bresney",
+"L. Forni",
+"B. Joyce",
+"S. Wallander",
+"Daniel P. Bigelow",
+"I. Kan"
+],
+"unresolved": [
+"L. Forni"
+],
+"owners": [
+"daniel-bigelow"
+],
+"remote": [
+[
+"A. Reznik",
+"A. Dinar",
+"S. Bresney",
+"L. Forni",
+"B. Joyce",
+"S. Wallander",
+"D. Bigelow",
+"I. Kan"
+]
+]
+},
+"theimpactofirrigationrestrictionsoncroplandvaluesinnebraska": {
+"title": "The impact of irrigation restrictions on cropland values in Nebraska",
+"authors": [
+"J. Ifft",
+"Daniel P. Bigelow",
+"J. Savage"
+],
+"unresolved": [
+"J. Savage"
+],
+"owners": [
+"daniel-bigelow"
 ],
 "remote": []
 },
@@ -8494,6 +9016,739 @@
 ],
 "remote": []
 },
+"areglyphosateresistantweedsathreattoconservationagricultureevidencefromtillagepr": {
+"title": "Are Glyphosate-Resistant Weeds a Threat to Conservation Agriculture? Evidence from Tillage Practices in Soybeans",
+"authors": [
+"Braeden Van Deynze",
+"S.M. Swinton",
+"D.A. Hennessy"
+],
+"unresolved": [
+"S.M. Swinton",
+"D.A. Hennessy"
+],
+"owners": [
+"david-hennessy"
+],
+"remote": []
+},
+"characterizingthedecisionprocessinsettingcornandsoybeanseedingrates": {
+"title": "Characterizing the Decision Process in Setting Corn and Soybean Seeding Rates",
+"authors": [
+"D.A. Hennessy",
+"A.J. Lindsey",
+"Y. Che",
+"L. Lindsey",
+"M. Singh",
+"H. Feng",
+"E. Hawkins",
+"S. Subburayalu",
+"J.R. Black",
+"D. Ochs"
+],
+"unresolved": [
+"J.R. Black"
+],
+"owners": [
+"david-hennessy"
+],
+"remote": [
+[
+"David Hennessy",
+"Alexander Lindsey",
+"Yuyuan Che",
+"Laura Lindsey",
+"Maninder Singh",
+"Hongli Feng",
+"Elizabeth Hawkins",
+"Sakthi Subburayalu",
+"Roy Black",
+"Eric Richer",
+"Daniel Ochs"
+]
+]
+},
+"climatechangewillincreaseaflatoxinriskinuscorn": {
+"title": "Climate Change will Increase Aflatoxin Risk in US Corn",
+"authors": [
+"Jina Yu",
+"D.A. Hennessy",
+"Jesse Tack",
+"Felicia Wu"
+],
+"unresolved": [
+"D.A. Hennessy"
+],
+"owners": [
+"david-hennessy"
+],
+"remote": []
+},
+"increasingtillageintensityandgreenhousegasemissionsundergrowingweedpressureinthe": {
+"title": "Increasing tillage intensity and greenhouse gas emissions under growing weed pressure in the U.S. corn-soybean cropping system",
+"authors": [
+"C. Lu",
+"Z. Yu",
+"D.A. Hennessy",
+"H. Feng",
+"H. Tian",
+"D. Hui"
+],
+"unresolved": [
+"Z. Yu",
+"D.A. Hennessy",
+"D. Hui"
+],
+"owners": [
+"david-hennessy"
+],
+"remote": []
+},
+"economicsofanimalhealthandlivestockdisease": {
+"title": "Economics of Animal Health and Livestock Disease",
+"authors": [
+"D.A. Hennessy",
+"T.L. Marsh"
+],
+"unresolved": [
+"D.A. Hennessy",
+"T.L. Marsh"
+],
+"owners": [
+"david-hennessy"
+],
+"remote": []
+},
+"extremeweatherincreasedcropnitrogensurplusintheunitedstates": {
+"title": "Extreme Weather Increased Crop Nitrogen Surplus in the United States",
+"authors": [
+"Jien Zhang",
+"Chaoqun Lu",
+"H. Feng",
+"D.A. Hennessy",
+"Y. Gong",
+"Mark Mba-Wright"
+],
+"unresolved": [
+"D.A. Hennessy",
+"Y. Gong"
+],
+"owners": [
+"david-hennessy"
+],
+"remote": []
+},
+"productformulationandglyphosateusebehavioraleffectsintheglyphosatemarket": {
+"title": "Product Formulation and Glyphosate Use: Behavioral Effects in the Glyphosate Market",
+"authors": [
+"E.D. Perry",
+"D.A. Hennessy",
+"G. Moschini"
+],
+"unresolved": [
+"D.A. Hennessy"
+],
+"owners": [
+"david-hennessy"
+],
+"remote": []
+},
+"structureofproteinproductionanimalhealthinputsendogenousriskpublicinfrastructure": {
+"title": "Structure of Protein Production, Animal Health Inputs, Endogenous Risk, Public Infrastructure and Technology Adoption",
+"authors": [
+"D.A. Hennessy",
+"Jing Zhang",
+"Na Bai"
+],
+"unresolved": [
+"D.A. Hennessy"
+],
+"owners": [
+"david-hennessy"
+],
+"remote": []
+},
+"demandsidechangeruralityandgenderintheunitedstatesveterinarianmarket19902010": {
+"title": "Demand Side Change, Rurality and Gender in the United States Veterinarian Market, 1990-2010",
+"authors": [
+"Tong Wang",
+"D.A. Hennessy",
+"S.C. Park"
+],
+"unresolved": [
+"D.A. Hennessy",
+"S.C. Park"
+],
+"owners": [
+"david-hennessy"
+],
+"remote": []
+},
+"modellingfarmlevelbiosecuritymanagement": {
+"title": "Modelling farm level bio-security management",
+"authors": [
+"Arnaud Rault",
+"D.A. Hennessy"
+],
+"unresolved": [
+"D.A. Hennessy"
+],
+"owners": [
+"david-hennessy"
+],
+"remote": []
+},
+"theeffectsofcropinsuranceandsodsaveronlandusechange": {
+"title": "The Effects of Crop Insurance and Sodsaver on Land Use Change",
+"authors": [
+"Ruiqing Miao",
+"D.A. Hennessy",
+"Hongli Feng"
+],
+"unresolved": [
+"D.A. Hennessy"
+],
+"owners": [
+"david-hennessy",
+"hongli-feng"
+],
+"remote": []
+},
+"modelinginterdependentparticipationincentivesdynamicsofavoluntarylivestockdiseas": {
+"title": "Modeling Interdependent Participation Incentives: Dynamics of a Voluntary Livestock Disease Control Program",
+"authors": [
+"Tong Wang",
+"D.A. Hennessy"
+],
+"unresolved": [
+"D.A. Hennessy"
+],
+"owners": [
+"david-hennessy"
+],
+"remote": []
+},
+"tolearnortochangeoptimalrdinvestmentsunderuncertainties": {
+"title": "To Learn or To Change: Optimal R&D Investments under Uncertainties",
+"authors": [
+"Ruiqing Miao",
+"D.A. Hennessy"
+],
+"unresolved": [
+"D.A. Hennessy"
+],
+"owners": [
+"david-hennessy"
+],
+"remote": []
+},
+"therealizedyieldeffectofgmcropsusmaizeandsoybean": {
+"title": "The Realized Yield Effect of GM Crops: U.S. Maize and Soybean",
+"authors": [
+"Zheng Xu",
+"D.A. Hennessy",
+"Kavita Sardana",
+"GianCarlo Moschini"
+],
+"unresolved": [
+"D.A. Hennessy"
+],
+"owners": [
+"david-hennessy"
+],
+"remote": []
+},
+"factorsdeterminingmilkqualityandimplicationsforproductionstructureundersccstanda": {
+"title": "Factors Determining Milk Quality, and Implications for Production Structure Under SCC Standard Modification",
+"authors": [
+"Fengxia Dong",
+"D.A. Hennessy",
+"H.H. Jensen"
+],
+"unresolved": [
+"D.A. Hennessy"
+],
+"owners": [
+"david-hennessy"
+],
+"remote": []
+},
+"investmentincellulosicbiofuelrefineriesdorenewableidentificationnumbersmatter": {
+"title": "Investment in Cellulosic Biofuel Refineries: Do Renewable Identification Numbers Matter",
+"authors": [
+"Ruiqing Miao",
+"D.A. Hennessy",
+"Bruce A. Babcock"
+],
+"unresolved": [
+"D.A. Hennessy"
+],
+"owners": [
+"david-hennessy"
+],
+"remote": []
+},
+"wherearetheveterinarianshortageareasanyway": {
+"title": "Where are the Veterinarian Shortage Areas Anyway",
+"authors": [
+"Tong Wang",
+"D.A. Hennessy",
+"Annette M. O'Connor"
+],
+"unresolved": [
+"D.A. Hennessy"
+],
+"owners": [
+"david-hennessy"
+],
+"remote": []
+},
+"modelingstochasticacropyieldexpectationstochasticprocesswithlimitingbetadistribu": {
+"title": "Modeling Stochastic A Crop Yield Expectation Stochastic Process with Limiting Beta Distribution",
+"authors": [
+"D.A. Hennessy"
+],
+"unresolved": [
+"D.A. Hennessy"
+],
+"owners": [
+"david-hennessy"
+],
+"remote": []
+},
+"unitvsadvaloremtaxesinmultiproductcournotoligopoly": {
+"title": "Unit vs. Ad Valorem Taxes in Multi-Product Cournot Oligopoly",
+"authors": [
+"Harvey E. Lapan",
+"D.A. Hennessy"
+],
+"unresolved": [
+"D.A. Hennessy"
+],
+"owners": [
+"david-hennessy"
+],
+"remote": []
+},
+"cropyieldskewnessandthenormaldistribution": {
+"title": "Crop Yield Skewness and the Normal Distribution",
+"authors": [
+"D.A. Hennessy"
+],
+"unresolved": [
+"D.A. Hennessy"
+],
+"owners": [
+"david-hennessy"
+],
+"remote": []
+},
+"cashfloweffectsofthesaskatchewanshorttermhogloanprogram": {
+"title": "Cash Flow Effects of the Saskatchewan Short-Term Hog Loan Program",
+"authors": [
+"Donald Lien",
+"D.A. Hennessy"
+],
+"unresolved": [
+"D.A. Hennessy"
+],
+"owners": [
+"david-hennessy"
+],
+"remote": []
+},
+"feedingandtheequilibriumfeederanimalpriceweightschedule": {
+"title": "Feeding and the Equilibrium Feeder Animal Price-Weight Schedule",
+"authors": [
+"D.A. Hennessy"
+],
+"unresolved": [
+"D.A. Hennessy"
+],
+"owners": [
+"david-hennessy"
+],
+"remote": []
+},
+"orthogonalsubgroupsforportfoliochoice": {
+"title": "Orthogonal Subgroups for Portfolio Choice",
+"authors": [
+"D.A. Hennessy"
+],
+"unresolved": [
+"D.A. Hennessy"
+],
+"owners": [
+"david-hennessy"
+],
+"remote": []
+},
+"acostbasedmodelofseasonalproductionwithapplicationtomilkpolicy": {
+"title": "A Cost-Based Model of Seasonal Production, with Application to Milk Policy",
+"authors": [
+"D.A. Hennessy",
+"Jutta Roosen"
+],
+"unresolved": [
+"D.A. Hennessy"
+],
+"owners": [
+"david-hennessy"
+],
+"remote": []
+},
+"statecontingentdemandforherbicidetoleranceseedtrait": {
+"title": "State-Contingent Demand for Herbicide-Tolerance Seed Trait",
+"authors": [
+"Hennessy",
+"D.A",
+"Alexander E. Saak"
+],
+"unresolved": [
+"D.A"
+],
+"owners": [
+"david-hennessy"
+],
+"remote": []
+},
+"tasteasymmetriesandtradepatterns": {
+"title": "Taste Asymmetries and Trade Patterns",
+"authors": [
+"D.A. Hennessy",
+"Harvey E. Lapan"
+],
+"unresolved": [
+"D.A. Hennessy"
+],
+"owners": [
+"david-hennessy"
+],
+"remote": []
+},
+"anequilibriumanalysisofantibioticuseandreplantingdecisionsinappleproduction": {
+"title": "An Equilibrium Analysis of Antibiotic Use and Replanting Decisions in Apple Production",
+"authors": [
+"Jutta Roosen",
+"D.A. Hennessy"
+],
+"unresolved": [
+"D.A. Hennessy"
+],
+"owners": [
+"david-hennessy"
+],
+"remote": []
+},
+"uncertaintyriskaversionandriskmanagementforagriculturalproducers": {
+"title": "Uncertainty, Risk Aversion, and Risk Management for Agricultural Producers",
+"authors": [
+"GianCarlo Moschini",
+"D.A. Hennessy"
+],
+"unresolved": [
+"D.A. Hennessy"
+],
+"owners": [
+"david-hennessy"
+],
+"remote": []
+},
+"competitionandtyinginagrichemicalandseedmarkets": {
+"title": "Competition and Tying in Agri-Chemical and Seed Markets",
+"authors": [
+"D.A. Hennessy",
+"Dermot J. Hayes"
+],
+"unresolved": [
+"D.A. Hennessy"
+],
+"owners": [
+"david-hennessy"
+],
+"remote": []
+},
+"controlpointinterventionsinensuringproductquality": {
+"title": "Control Point Interventions in Ensuring Product Quality",
+"authors": [
+"John A. Fox",
+"D.A. Hennessy"
+],
+"unresolved": [
+"D.A. Hennessy"
+],
+"owners": [
+"david-hennessy"
+],
+"remote": []
+},
+"decisionsandtradeableproductionquotawhenyieldisuncertain": {
+"title": "Decisions and Tradeable Production Quota when Yield is Uncertain",
+"authors": [
+"D.A. Hennessy",
+"W. Wei"
+],
+"unresolved": [
+"D.A. Hennessy",
+"W. Wei"
+],
+"owners": [
+"david-hennessy"
+],
+"remote": []
+},
+"costeffectivehazardcontrolinfoodhandling": {
+"title": "Cost-Effective Hazard Control in Food Handling",
+"authors": [
+"John A. Fox",
+"D.A. Hennessy"
+],
+"unresolved": [
+"D.A. Hennessy"
+],
+"owners": [
+"david-hennessy"
+],
+"remote": []
+},
+"thetaxpayerreliefactestateplanningandthemobilityofresourcesinusagriculture": {
+"title": "The Taxpayer Relief Act, Estate Planning, and the Mobility of Resources in U.S. Agriculture",
+"authors": [
+"D.A. Hennessy"
+],
+"unresolved": [
+"D.A. Hennessy"
+],
+"owners": [
+"david-hennessy"
+],
+"remote": []
+},
+"consumersvaluationofinsecticideuserestrictionsanapplicationtoapples": {
+"title": "Consumers' valuation of insecticide use restrictions: An application to apples",
+"authors": [
+"Jutta Roosen",
+"D.A. Hennessy",
+"John A. Fox",
+"A. Alan Schreiber"
+],
+"unresolved": [
+"D.A. Hennessy"
+],
+"owners": [
+"david-hennessy"
+],
+"remote": []
+},
+"equilibriumanalysisofaquotaregulatedmarket": {
+"title": "Equilibrium Analysis of a Quota Regulated Market",
+"authors": [
+"D.A. Hennessy"
+],
+"unresolved": [
+"D.A. Hennessy"
+],
+"owners": [
+"david-hennessy"
+],
+"remote": []
+},
+"differingdegreesofpriceflexibilitiesandthepolicyineffectivenessproposition": {
+"title": "Differing Degrees of Price Flexibilities and the Policy Ineffectiveness Proposition",
+"authors": [
+"Stephen Devadoss",
+"D.A. Hennessy"
+],
+"unresolved": [
+"D.A. Hennessy"
+],
+"owners": [
+"david-hennessy"
+],
+"remote": []
+},
+"theeffectsofdecisionmakingonfuturespricevolatility": {
+"title": "The Effects of Decisionmaking on Futures Price Volatility",
+"authors": [
+"D.A. Hennessy",
+"Thomas I. Wahl"
+],
+"unresolved": [
+"D.A. Hennessy"
+],
+"owners": [
+"david-hennessy"
+],
+"remote": []
+},
+"conversionsofnaturalforeststoplantationsinducedbywoodpelletexpansion": {
+"title": "Conversions of natural forests to plantations induced by wood pellet expansion",
+"authors": [
+"Z. Zhao",
+"D.J. Lewis"
+],
+"unresolved": [
+"Z. Zhao",
+"D.J. Lewis"
+],
+"owners": [
+"david-lewis"
+],
+"remote": []
+},
+"estimatingweathershockimpactsontheeconomicvalueofforeststhecaseofacategory5hurri": {
+"title": "Estimating weather shock impacts on the economic value of forests: The case of a category 5 hurricane",
+"authors": [
+"N. Haque",
+"D.J. Lewis",
+"C. Mihiar"
+],
+"unresolved": [
+"N. Haque",
+"D.J. Lewis"
+],
+"owners": [
+"david-lewis"
+],
+"remote": []
+},
+"examiningtheeffectivenessofnonprofitgroupsexpendituresonspeciesrecoverythecaseof": {
+"title": "Examining the effectiveness of non-profit groups' expenditures on species recovery: The case of Pacific salmon and steelhead",
+"authors": [
+"Z. Zhao",
+"C. Langpap",
+"D.J. Lewis"
+],
+"unresolved": [
+"Z. Zhao",
+"D.J. Lewis"
+],
+"owners": [
+"david-lewis"
+],
+"remote": []
+},
+"aneconometricanalysisofwildfireriskonforestmanagementdecisions": {
+"title": "An econometric analysis of wildfire risk on forest management decisions",
+"authors": [
+"J.C. White",
+"D.J. Lewis",
+"C. Mihiar"
+],
+"unresolved": [
+"J.C. White",
+"D.J. Lewis"
+],
+"owners": [
+"david-lewis"
+],
+"remote": []
+},
+"anempiricalanalysisofuslandusechangeundermultipleclimatechangescenarios": {
+"title": "An empirical analysis of U.S. land-use change under multiple climate change scenarios",
+"authors": [
+"C.M. Mihiar",
+"D.J. Lewis"
+],
+"unresolved": [
+"C.M. Mihiar",
+"D.J. Lewis"
+],
+"owners": [
+"david-lewis"
+],
+"remote": []
+},
+"amenitiesandskillsortingacasestudyoflandconservationpolicy": {
+"title": "Amenities and skill sorting: A case study of land conservation policy",
+"authors": [
+"Y. Chen",
+"D.J. Lewis",
+"B. Weber"
+],
+"unresolved": [
+"Y. Chen",
+"D.J. Lewis",
+"B. Weber"
+],
+"owners": [
+"david-lewis"
+],
+"remote": []
+},
+"conservationlandamenitiesandregionaleconomiesapostmatchingdifferenceindifference": {
+"title": "Conservation Land Amenities and Regional Economies: A Post-Matching Difference-in-Differences Analysis of the Northwest Forest Plan",
+"authors": [
+"Y. Chen",
+"D.J. Lewis",
+"B. Weber"
+],
+"unresolved": [
+"Y. Chen",
+"D.J. Lewis",
+"B. Weber"
+],
+"owners": [
+"david-lewis"
+],
+"remote": []
+},
+"protectedareaeffectivenessineuropeanrussiaapostmatchingpaneldataanalysis": {
+"title": "Protected Area Effectiveness in European Russia: A Post-Matching Panel Data Analysis",
+"authors": [
+"K.J. Wendland",
+"M. Baumann",
+"D.J. Lewis",
+"A. Sieber",
+"V. Radeloff"
+],
+"unresolved": [
+"K.J. Wendland",
+"D.J. Lewis",
+"A. Sieber"
+],
+"owners": [
+"david-lewis"
+],
+"remote": []
+},
+"projectedlandusechangeimpactsonusecosystemservices": {
+"title": "Projected Land-Use Change Impacts on U.S. Ecosystem Services",
+"authors": [
+"J. Lawler",
+"D.J. Lewis",
+"E. Nelson",
+"A.J. Plantinga",
+"S. Polasky",
+"J. Withey",
+"D. Helmers",
+"S. Martinuzzi",
+"V. Radeloff"
+],
+"unresolved": [
+"J. Lawler",
+"D.J. Lewis",
+"S. Martinuzzi"
+],
+"owners": [
+"david-lewis"
+],
+"remote": []
+},
+"empiricalmethodsformodelinglandscapechangeecosystemservicesandbiodiversity": {
+"title": "Empirical Methods for Modeling Landscape Change, Ecosystem Services, and Biodiversity",
+"authors": [
+"D.J. Lewis",
+"R.J. Alig"
+],
+"unresolved": [
+"D.J. Lewis"
+],
+"owners": [
+"david-lewis"
+],
+"remote": []
+},
 "feelingitinyourbonesaretrospectiveclaimsanalysisoftheassociationbetweenrainfalla": {
 "title": "Feeling it in your bones: A retrospective claims analysis of the association between rainfall and diagnosis of joint or back pain",
 "authors": [
@@ -8635,6 +9890,20 @@
 ],
 "owners": [
 "david-rapson"
+],
+"remote": []
+},
+"estimatingcapitalizedagriculturallandvaluebyirrigationandhomogeneousaquifermanag": {
+"title": "Estimating Capitalized Agricultural Land Value by Irrigation and Homogeneous Aquifer Management",
+"authors": [
+"S.J. Eberhart",
+"Dawoon Jeong"
+],
+"unresolved": [
+"S.J. Eberhart"
+],
+"owners": [
+"dawoon-jeong"
 ],
 "remote": []
 },
@@ -8904,6 +10173,96 @@
 ],
 "owners": [
 "edward-miguel"
+],
+"remote": []
+},
+"isayieldslowdownonthehorizonassessingtherelationshipbetweenyieldplantpopulationi": {
+"title": "Is a yield slowdown on the horizon? Assessing the relationship between yield plant population in U.S. corn",
+"authors": [
+"E.D. Perry",
+"A. Tian"
+],
+"unresolved": [
+"E.D. Perry",
+"A. Tian"
+],
+"owners": [
+"edward-perry"
+],
+"remote": []
+},
+"quantifyingthewelfareimpactsofcropinsurancepolicychangesevidenceinuscorn": {
+"title": "Quantifying the welfare impacts of crop insurance policy changes: Evidence in U.S. corn",
+"authors": [
+"E.D. Perry",
+"J. Yu"
+],
+"unresolved": [
+"E.D. Perry",
+"J. Yu"
+],
+"owners": [
+"edward-perry"
+],
+"remote": []
+},
+"theimpactofwarmertemperaturesonplantingdatesevidencefromuscorn": {
+"title": "The impact of warmer temperatures on planting dates: Evidence from U.S. corn",
+"authors": [
+"J. Green",
+"E.D. Perry"
+],
+"unresolved": [
+"J. Green",
+"E.D. Perry"
+],
+"owners": [
+"edward-perry"
+],
+"remote": []
+},
+"theonfarmandnearfarmeffectsofwindturbinesonagriculturallandvalues": {
+"title": "The on-farm and near-farm effects of wind turbines on agricultural land values",
+"authors": [
+"G.S. Sampson",
+"E.D. Perry",
+"M.R. Taylor"
+],
+"unresolved": [
+"E.D. Perry",
+"M.R. Taylor"
+],
+"owners": [
+"edward-perry"
+],
+"remote": []
+},
+"usinginsurancedatatoquantifythemultidimensionalimpactsofclimateonyieldrisk": {
+"title": "Using insurance data to quantify the multidimensional impacts of climate on yield risk",
+"authors": [
+"E.D. Perry",
+"Jisang Yu",
+"Jesse Tack"
+],
+"unresolved": [
+"E.D. Perry"
+],
+"owners": [
+"edward-perry"
+],
+"remote": []
+},
+"peereffectsinthediffusionofwatersavingagriculturaltechnologies": {
+"title": "Peer effects in the diffusion of water saving agricultural technologies",
+"authors": [
+"G.S. Sampson",
+"E.D. Perry"
+],
+"unresolved": [
+"E.D. Perry"
+],
+"owners": [
+"edward-perry"
 ],
 "remote": []
 },
@@ -9547,6 +10906,149 @@
 ],
 "remote": []
 },
+"causalinferenceandcounterfactualsinearthobservationresearch": {
+"title": "Causal Inference and Counterfactuals in Earth Observation Research",
+"authors": [
+"A. D'Agostino",
+"F. Usmani",
+"Elinor Benami"
+],
+"unresolved": [
+"A. D'Agostino",
+"F. Usmani"
+],
+"owners": [
+"elinor-benami"
+],
+"remote": []
+},
+"integratingweatherandlandcoverdataintogeospatialimpactevaluations": {
+"title": "Integrating Weather and Land Cover Data into Geospatial Impact Evaluations",
+"authors": [
+"Elinor Benami",
+"M.J. Cecil",
+"A. Josephson",
+"G. Maskell",
+"J. Michler"
+],
+"unresolved": [
+"A. Josephson",
+"G. Maskell",
+"J. Michler"
+],
+"owners": [
+"elinor-benami"
+],
+"remote": []
+},
+"treatmentgeometrydesignchoicesforintegratingearthobservationandsocioeconomicdata": {
+"title": "Treatment Geometry: Design Choices for Integrating Earth Observation and Socioeconomic Data",
+"authors": [
+"J.D. Michler",
+"A. Josephson",
+"Elinor Benami",
+"P. Behrer",
+"M.J. Cecil",
+"S. Gourlay",
+"R. Heilmayr",
+"E. Kirchner",
+"G. Maskell",
+"K. Singh"
+],
+"unresolved": [
+"J.D. Michler",
+"A. Josephson",
+"P. Behrer",
+"S. Gourlay",
+"R. Heilmayr",
+"G. Maskell",
+"K. Singh"
+],
+"owners": [
+"elinor-benami"
+],
+"remote": []
+},
+"measuresandmediatorsofdroughtrelatedhouseholdvulnerabilitytopovertyinniger": {
+"title": "Measures and Mediators of Drought-Related Household Vulnerability to Poverty in Niger",
+"authors": [
+"A. Poghosyan",
+"Elinor Benami",
+"S. Brunelin",
+"O. Ng"
+],
+"unresolved": [
+"A. Poghosyan",
+"S. Brunelin",
+"O. Ng"
+],
+"owners": [
+"elinor-benami"
+],
+"remote": []
+},
+"rainfallindexinsuranceunderexceptionaldroughtpayoutalignmentandproducerresponse": {
+"title": "Rainfall Index Insurance Under Exceptional Drought: Payout Alignment and Producer Response",
+"authors": [
+"M.J. Cecil",
+"Elinor Benami",
+"A. Carroll",
+"J. Yu",
+"J. Ifft"
+],
+"unresolved": [
+"A. Carroll",
+"J. Yu",
+"J. Ifft"
+],
+"owners": [
+"elinor-benami"
+],
+"remote": []
+},
+"seedingchangegrowinginsightsfromfourprogramstosupportclimateresilientsoilandwate": {
+"title": "Seeding Change: Growing Insights from Four Programs to Support Climate-Resilient Soil and Water Conservation in US Agriculture",
+"authors": [
+"Elinor Benami",
+"A. Carroll",
+"K.D. Messer",
+"W. Zhang",
+"M. Cecil"
+],
+"unresolved": [
+"A. Carroll",
+"K.D. Messer",
+"M. Cecil"
+],
+"owners": [
+"elinor-benami",
+"wei-zhang"
+],
+"remote": []
+},
+"oilpalmlandconversioninparbrazilfrom20062014evaluatingthe2010braziliansustainabl": {
+"title": "Oil Palm Land Conversion in Pará, Brazil, from 2006-2014: Evaluating the 2010 Brazilian Sustainable Palm Oil Production Program",
+"authors": [
+"Elinor Benami",
+"L.M. Curran",
+"M. Cochrane",
+"A. Venturieri",
+"R. Moraes Franco",
+"J. Kneipp",
+"A. Swartos"
+],
+"unresolved": [
+"L.M. Curran",
+"M. Cochrane",
+"A. Venturieri",
+"J. Kneipp",
+"A. Swartos"
+],
+"owners": [
+"elinor-benami"
+],
+"remote": []
+},
 "waterresourceimpactsoflithiumminingexpansioninthewesternus": {
 "title": "Water resource impacts of lithium mining expansion in the western U.S.",
 "authors": [
@@ -9732,6 +11234,98 @@
 "Girija Vaidyanathan",
 "Esther Duflo",
 "Ziad Obermeyer"
+]
+]
+},
+"sitingenvironmentallyunwantedfacilities": {
+"title": "Siting Environmentally Unwanted Facilities",
+"authors": [
+"Euston Quah",
+"K.C. Tan"
+],
+"unresolved": [
+"K.C. Tan"
+],
+"owners": [
+"euston-quah"
+],
+"remote": [
+[
+"Euston Quah",
+"K.C. Tan"
+]
+]
+},
+"optimallocationofcentralizedbiodigestersforsmalldairyfarmsacasestudyfromtheunite": {
+"title": "Optimal Location of Centralized Biodigesters for Small Dairy Farms: A Case Study from the United States",
+"authors": [
+"D. Mukherjee",
+"D. Cromley",
+"F. Shah",
+"B. Bravo-Ureta"
+],
+"unresolved": [
+"D. Cromley"
+],
+"owners": [
+"farhed-a-shah"
+],
+"remote": []
+},
+"upstreamwaterresourcemanagementtoaddressdownstreampollutionconcernsapolicyframew": {
+"title": "Upstream Water Resource Management to Address Downstream Pollution Concerns: A Policy Framework with Application to the Nakdong River Basin in South Korea",
+"authors": [
+"T. Yoon",
+"C. Rhodes",
+"F. Shah"
+],
+"unresolved": [
+"T. Yoon",
+"C. Rhodes"
+],
+"owners": [
+"farhed-a-shah"
+],
+"remote": []
+},
+"theexternalimpactofagricultureoninlandwetlandsacasestudyfromargentina": {
+"title": "The External Impact of Agriculture on Inland Wetlands: A Case Study from Argentina",
+"authors": [
+"J. de Prada",
+"F. Shah",
+"B. Bravo-Ureta",
+"A. Degioanni",
+"J. Cisneros",
+"A. Cantero"
+],
+"unresolved": [
+"A. Degioanni",
+"J. Cisneros",
+"A. Cantero"
+],
+"owners": [
+"farhed-a-shah"
+],
+"remote": []
+},
+"economicsofreservoirsedimentationandsustainablemanagementofdams": {
+"title": "Economics of Reservoir Sedimentation and Sustainable Management of Dams",
+"authors": [
+"A. Palmieri",
+"F. Shah",
+"A. Dinar"
+],
+"unresolved": [
+"A. Palmieri"
+],
+"owners": [
+"farhed-a-shah"
+],
+"remote": [
+[
+"A. Palmieri",
+"F. Shah",
+"A. Dinar"
 ]
 ]
 },
@@ -10117,7 +11711,8 @@
 "R. Shupp"
 ],
 "owners": [
-"frank-lupi"
+"frank-lupi",
+"leah-palm-forster"
 ],
 "remote": []
 },
@@ -10469,6 +12064,32 @@
 "C.-Y. Cynthia Lin Lawell"
 ]
 ]
+},
+"asystematicreviewofspatialtemporalscalechallengesinsociohydrology": {
+"title": "A systematic review of spatial-temporal scale challenges in sociohydrology",
+"authors": [
+"A. Fisher",
+"J. A. Miller",
+"E. Nottingham",
+"T. Wiederstein",
+"L. Krueger",
+"G. Perez-Quesada",
+"M. R. Sanderson",
+"S. L. Hutchinson"
+],
+"unresolved": [
+"A. Fisher",
+"J. A. Miller",
+"E. Nottingham",
+"T. Wiederstein",
+"L. Krueger",
+"M. R. Sanderson",
+"S. L. Hutchinson"
+],
+"owners": [
+"gabriela-perez-quesada"
+],
+"remote": []
 },
 "dodriversofco2emissiongrowthalterovertimeandbythestageofeconomicdevelopment": {
 "title": "Do drivers of CO2 emission growth alter over time and by the stage of economic development?",
@@ -10957,6 +12578,214 @@
 ]
 ]
 },
+"coastalhomeownersandoffshorewindpowervotingbehaviorchangeandcompensation": {
+"title": "Coastal homeowners and offshore wind power: voting, behavior change, and compensation",
+"authors": [
+"G. Parsons",
+"J. Shan"
+],
+"unresolved": [
+"J. Shan"
+],
+"owners": [
+"george-parsons"
+],
+"remote": []
+},
+"theeffectofwindpowerprojectsonpropertyvaluesadecade20112021ofhedonicpriceanalysi": {
+"title": "The effect of wind power projects on property values: A decade (2011-2021) of hedonic price analysis",
+"authors": [
+"G. Parsons",
+"M. Heintzelman"
+],
+"unresolved": [
+"M. Heintzelman"
+],
+"owners": [
+"george-parsons"
+],
+"remote": []
+},
+"transitionaldynamicsofthesavingsrateandeconomicgrowth": {
+"title": "Transitional Dynamics of the Savings Rate and Economic Growth",
+"authors": [
+"M. Brueckner",
+"Tomoo Kikuchi",
+"George Vachadze"
+],
+"unresolved": [
+"M. Brueckner"
+],
+"owners": [
+"george-vachadze"
+],
+"remote": []
+},
+"creditmarketimperfectionsfinancialmarketglobalizationandcatastrophictransition": {
+"title": "Credit Market Imperfections, Financial Market Globalization, and Catastrophic Transition",
+"authors": [
+"A. Agliari",
+"F. Rillosi",
+"George Vachadze"
+],
+"unresolved": [
+"F. Rillosi"
+],
+"owners": [
+"george-vachadze"
+],
+"remote": []
+},
+"procurementcontractsandbuyerpowerinsightsfromhotelling": {
+"title": "Procurement Contracts and Buyer Power: Insights from Hotelling",
+"authors": [
+"G. Moschini",
+"T.J. Smith"
+],
+"unresolved": [
+"T.J. Smith"
+],
+"owners": [
+"giancarlo-moschini"
+],
+"remote": []
+},
+"statespaceaggregationinmarkovchainsandthemodelingofuscroppatterns": {
+"title": "State-Space Aggregation in Markov Chains and the Modeling of US Crop Patterns",
+"authors": [
+"T.J. Smith",
+"G. Moschini"
+],
+"unresolved": [
+"T.J. Smith"
+],
+"owners": [
+"giancarlo-moschini"
+],
+"remote": []
+},
+"onthesegregationofgeneticallymodifiedconventionalandorganicproductsineuropeanagr": {
+"title": "On the Segregation of Genetically Modified, Conventional and Organic Products in European Agriculture: A Multi-market Equilibrium Analysis",
+"authors": [
+"G. Moschini",
+"H. Bulut",
+"L. Cembalo"
+],
+"unresolved": [
+"L. Cembalo"
+],
+"owners": [
+"giancarlo-moschini"
+],
+"remote": []
+},
+"lastrutturadeiconsumidellefamiglieinitalia": {
+"title": "La Struttura dei Consumi delle Famiglie in Italia",
+"authors": [
+"G.C. Moschini",
+"P.L. Rizzi"
+],
+"unresolved": [
+"G.C. Moschini"
+],
+"owners": [
+"giancarlo-moschini"
+],
+"remote": []
+},
+"stabilizingpricepoliciesandthefuturesmarket": {
+"title": "Stabilizing Price Policies and the Futures Market",
+"authors": [
+"H. Lapan",
+"G. Moschini"
+],
+"unresolved": [
+"H. Lapan"
+],
+"owners": [
+"giancarlo-moschini"
+],
+"remote": []
+},
+"flexiblespecificationofmixeddemandsystems": {
+"title": "Flexible Specification of Mixed Demand Systems",
+"authors": [
+"G. Moschini",
+"A. Vissa"
+],
+"unresolved": [
+"A. Vissa"
+],
+"owners": [
+"giancarlo-moschini"
+],
+"remote": [
+[
+"Giancarlo Moschini",
+"Vissa Anuradha"
+]
+]
+},
+"productionhedgingandspeculativedecisionwithoptionsandfuturesmarketsreply": {
+"title": "Production, Hedging, and Speculative Decision with Options and Futures Markets: Reply",
+"authors": [
+"H. Lapan",
+"G. Moschini",
+"S. Hanson"
+],
+"unresolved": [
+"H. Lapan",
+"S. Hanson"
+],
+"owners": [
+"giancarlo-moschini"
+],
+"remote": []
+},
+"alinearinversedemandsystem": {
+"title": "A Linear Inverse Demand System",
+"authors": [
+"G. Moschini",
+"A. Vissa"
+],
+"unresolved": [
+"A. Vissa"
+],
+"owners": [
+"giancarlo-moschini"
+],
+"remote": []
+},
+"alternativemeasuresofriskincommoditysupplymodelsananalysisofsowfarrowingdecision": {
+"title": "Alternative Measures of Risk in Commodity Supply Models: An Analysis of Sow Farrowing Decisions in the United States",
+"authors": [
+"M. Holt",
+"G. Moschini"
+],
+"unresolved": [
+"M. Holt"
+],
+"owners": [
+"giancarlo-moschini"
+],
+"remote": []
+},
+"productionhedgingandspeculativedecisionwithoptionsandfuturesmarkets": {
+"title": "Production, Hedging, and Speculative Decision with Options and Futures Markets",
+"authors": [
+"H. Lapan",
+"G. Moschini",
+"S. Hanson"
+],
+"unresolved": [
+"H. Lapan",
+"S. Hanson"
+],
+"owners": [
+"giancarlo-moschini"
+],
+"remote": []
+},
 "socialinteractionandgeographicdiffusionofironbiofortifiedbeansinrwanda": {
 "title": "Social interaction and geographic diffusion of iron-biofortified beans in Rwanda",
 "authors": [
@@ -11247,6 +13076,386 @@
 "owners": [
 "graham-elliott",
 "james-h-stock"
+],
+"remote": []
+},
+"afterthemountpinatuboeruptionvolcanicshocksandlongrunagriculturalrecovery": {
+"title": "After the Mount Pinatubo Eruption: Volcanic Shocks and Long-Run Agricultural Recovery",
+"authors": [
+"N. Cabote",
+"S. Park",
+"Gregmar I. Galinato",
+"S. P. Galinato"
+],
+"unresolved": [
+"N. Cabote",
+"S. Park",
+"S. P. Galinato"
+],
+"owners": [
+"gregmar-i-galinato"
+],
+"remote": []
+},
+"firmsenergyregulationsandbarrierstoentry": {
+"title": "Firms, Energy Regulations and Barriers to Entry",
+"authors": [
+"T. Shubhangi",
+"Gregmar I. Galinato",
+"W. Blundell",
+"A. Islam"
+],
+"unresolved": [
+"T. Shubhangi",
+"W. Blundell",
+"A. Islam"
+],
+"owners": [
+"gregmar-i-galinato"
+],
+"remote": []
+},
+"optimalmechanismsforreducingmethaneemissionsintheeuropeanunion": {
+"title": "Optimal Mechanisms for Reducing Methane Emissions in the European Union",
+"authors": [
+"M. H. Zida",
+"Gregmar I. Galinato"
+],
+"unresolved": [
+"M. H. Zida"
+],
+"owners": [
+"gregmar-i-galinato"
+],
+"remote": []
+},
+"theeffectoflobbyinginanintegratedtaxsubsidypolicytoreducepollution": {
+"title": "The Effect of Lobbying in an Integrated Tax-Subsidy Policy to Reduce Pollution",
+"authors": [
+"T. J. Wilson",
+"Gregmar I. Galinato"
+],
+"unresolved": [
+"T. J. Wilson"
+],
+"owners": [
+"gregmar-i-galinato"
+],
+"remote": []
+},
+"uncoveringhouseholdefficiencyandwomensempowermentmeasuresfromcharacteristicsofru": {
+"title": "Uncovering Household Efficiency and Women's Empowerment Measures from Characteristics of Rural Farm Households",
+"authors": [
+"S. Manian",
+"Gregmar I. Galinato",
+"N. Nguyen",
+"C. P. Fang",
+"A. Bello",
+"S. Calayugan"
+],
+"unresolved": [
+"S. Manian",
+"N. Nguyen",
+"C. P. Fang",
+"A. Bello",
+"S. Calayugan"
+],
+"owners": [
+"gregmar-i-galinato"
+],
+"remote": []
+},
+"whensustainabilityshiftstheburdenagriculturaltechnologyadoptionfemalelabormisall": {
+"title": "When Sustainability Shifts the Burden: Agricultural Technology Adoption, Female Labor Misallocation, and the Gender Productivity Gap",
+"authors": [
+"S. Manian",
+"S. Park",
+"Z. Mengshan",
+"Gregmar I. Galinato",
+"S. P. Galinato",
+"C. P. Fang",
+"A. Bello",
+"S. Calayugan",
+"L. Sister"
+],
+"unresolved": [
+"S. Manian",
+"S. Park",
+"Z. Mengshan",
+"S. P. Galinato",
+"C. P. Fang",
+"A. Bello",
+"S. Calayugan",
+"L. Sister"
+],
+"owners": [
+"gregmar-i-galinato"
+],
+"remote": []
+},
+"cangovernmentspendingboostfirmproductivity": {
+"title": "Can Government Spending Boost Firm Productivity?",
+"authors": [
+"A. Islam",
+"Gregmar I. Galinato",
+"W. Zhang"
+],
+"unresolved": [
+"A. Islam",
+"W. Zhang"
+],
+"owners": [
+"gregmar-i-galinato"
+],
+"remote": []
+},
+"tobaccoeducationprogramspendingandtobaccousebyadolescents": {
+"title": "Tobacco Education Program Spending and Tobacco Use by Adolescents",
+"authors": [
+"Gregmar I. Galinato",
+"Y.A. Hong"
+],
+"unresolved": [
+"Y.A. Hong"
+],
+"owners": [
+"gregmar-i-galinato"
+],
+"remote": []
+},
+"thetradeandhealtheffectsoftobaccoregulations": {
+"title": "The Trade and Health Effects of Tobacco Regulations",
+"authors": [
+"Gregmar I. Galinato",
+"A. Olanie",
+"J. Yoder"
+],
+"unresolved": [
+"A. Olanie"
+],
+"owners": [
+"gregmar-i-galinato",
+"jonathan-yoder"
+],
+"remote": []
+},
+"howdoeswashingtonstateinitiative732impacttheagricultureandforestrysectors": {
+"title": "How Does Washington State Initiative 732 Impact the Agriculture and Forestry Sectors?",
+"authors": [
+"Gregmar I. Galinato",
+"T. Nadreau",
+"T. Skolrud"
+],
+"unresolved": [
+"T. Nadreau"
+],
+"owners": [
+"gregmar-i-galinato"
+],
+"remote": []
+},
+"longtermversustemporarycertifiedemissionreductionsinforestcarbonsequestrationpro": {
+"title": "Long Term Versus Temporary Certified Emission Reductions in Forest Carbon-Sequestration Programs",
+"authors": [
+"Gregmar I. Galinato",
+"A. Olanie",
+"S. Uchida",
+"J.K. Yoder"
+],
+"unresolved": [
+"A. Olanie",
+"J.K. Yoder"
+],
+"owners": [
+"gregmar-i-galinato",
+"jonathan-yoder"
+],
+"remote": []
+},
+"criticalminingassetcontrolandgeoeconomicfragmentationwhatsleftfordevelopingcount": {
+"title": "Critical Mining Asset Control and Geoeconomic Fragmentation: What's Left for Developing Countries?",
+"authors": [
+"H. Lapeyronie",
+"E. Espagne",
+"G. Semieniuk"
+],
+"unresolved": [
+"H. Lapeyronie",
+"E. Espagne"
+],
+"owners": [
+"gregor-semieniuk"
+],
+"remote": []
+},
+"howoverhaulingoverseasenergyfinancecancompelcoalexitcommitments": {
+"title": "How Overhauling Overseas Energy Finance Can Compel Coal-Exit Commitments",
+"authors": [
+"S. Bi",
+"N. Bauer",
+"G. Semieniuk",
+"N. Manych",
+"J. Steckel",
+"R. Pietzcker",
+"J. Koch",
+"L. Baumstark"
+],
+"unresolved": [
+"S. Bi",
+"N. Bauer",
+"N. Manych",
+"J. Steckel",
+"R. Pietzcker",
+"J. Koch",
+"L. Baumstark"
+],
+"owners": [
+"gregor-semieniuk"
+],
+"remote": []
+},
+"priceofdelaymacroeconomiccostsofslowerdecarbonizationinpolandundertheeuemissions": {
+"title": "Price of Delay: Macroeconomic Costs of Slower Decarbonization in Poland under the EU Emissions Trading System",
+"authors": [
+"S. Doczi",
+"R. Demiglio",
+"A. Kanudia",
+"N. Picarelli",
+"G. Semieniuk",
+"J. Witajewski-Baltvilks"
+],
+"unresolved": [
+"S. Doczi",
+"R. Demiglio",
+"A. Kanudia",
+"N. Picarelli",
+"J. Witajewski-Baltvilks"
+],
+"owners": [
+"gregor-semieniuk"
+],
+"remote": []
+},
+"theworldisnotflatpersistenceinthehierarchyofeconomiccomplexityacrossacentury": {
+"title": "The World Is Not Flat: Persistence in the Hierarchy of Economic Complexity across a Century",
+"authors": [
+"I. Weber",
+"G. Semieniuk",
+"J. Liang",
+"T. Westland"
+],
+"unresolved": [
+"I. Weber",
+"J. Liang",
+"T. Westland"
+],
+"owners": [
+"gregor-semieniuk"
+],
+"remote": []
+},
+"howwillclimatechangeaffecttheglobaldistributionofwealth": {
+"title": "How Will Climate Change Affect the Global Distribution of Wealth?",
+"authors": [
+"L. Chancel",
+"C. Mohren",
+"P. Bothe",
+"G. Semieniuk"
+],
+"unresolved": [
+"L. Chancel",
+"C. Mohren",
+"P. Bothe"
+],
+"owners": [
+"gregor-semieniuk"
+],
+"remote": []
+},
+"dofirmswithhigherenergyefficiencyhavebetteraccesstofinance": {
+"title": "Do Firms With Higher Energy Efficiency Have Better Access to Finance?",
+"authors": [
+"P. Brutscher",
+"P. Ravillard",
+"G. Semieniuk"
+],
+"unresolved": [
+"P. Brutscher",
+"P. Ravillard"
+],
+"owners": [
+"gregor-semieniuk"
+],
+"remote": []
+},
+"lowcarbontransitionrisksforfinance": {
+"title": "Low-Carbon Transition Risks for Finance",
+"authors": [
+"G. Semieniuk",
+"E. Campiglio",
+"J.-F. Mercure",
+"U. Volz",
+"N. Edwards"
+],
+"unresolved": [
+"E. Campiglio",
+"U. Volz",
+"N. Edwards"
+],
+"owners": [
+"gregor-semieniuk"
+],
+"remote": []
+},
+"reframingincentivesforclimatepolicyaction": {
+"title": "Reframing Incentives for Climate Policy Action",
+"authors": [
+"J.-F. Mercure",
+"P. Salas",
+"P. Vercoulen",
+"G. Semieniuk",
+"A. Lam",
+"H. Pollitt",
+"P. Holden",
+"N. Vakilifard",
+"U. Chewpreecha",
+"N. Edwards",
+"J. Viñuales"
+],
+"unresolved": [
+"A. Lam"
+],
+"owners": [
+"gregor-semieniuk"
+],
+"remote": [
+[
+"J.-F. Mercure",
+"P. Salas",
+"P. Vercoulen",
+"G. Semieniuk",
+"A. Lam",
+"H. Pollitt",
+"P. B. Holden",
+"N. Vakilifard",
+"U. Chewpreecha",
+"N. R. Edwards",
+"J. E. Vinuales"
+]
+]
+},
+"nothinglearnedfromthecrisissomeremarksonthestabilityprogrammes20112014oftheeuroa": {
+"title": "Nothing Learned from the Crisis? Some Remarks on the Stability Programmes 2011-2014 of the Euro Area Governments",
+"authors": [
+"G. Semieniuk",
+"T. van Treeck",
+"A. Truger"
+],
+"unresolved": [
+"A. Truger"
+],
+"owners": [
+"gregor-semieniuk"
 ],
 "remote": []
 },
@@ -11993,6 +14202,68 @@
 ],
 "remote": []
 },
+"theenvironmentalandeconomicimplicationsofdatacentergrowth": {
+"title": "The Environmental and Economic Implications of Data Center Growth",
+"authors": [
+"H. Fell",
+"T. Norris",
+"Z. Wang"
+],
+"unresolved": [
+"T. Norris"
+],
+"owners": [
+"harrison-fell",
+"zhenxuan-wang"
+],
+"remote": []
+},
+"asymmetriccostpassthroughinmultiunitprocurementauctionsanexperimentalapproach": {
+"title": "Asymmetric Cost Pass-Through in Multi-Unit Procurement Auctions: An Experimental Approach",
+"authors": [
+"E. Meyers",
+"H. Fell",
+"A.J. Bostian"
+],
+"unresolved": [
+"E. Meyers",
+"A.J. Bostian"
+],
+"owners": [
+"harrison-fell"
+],
+"remote": []
+},
+"emissiontransmissionandtheenvironmentalvalueofrenewables": {
+"title": "Emission, Transmission, and the Environmental Value of Renewables",
+"authors": [
+"H. Fell",
+"D. Kaffine",
+"K. Novan"
+],
+"unresolved": [
+"D. Kaffine",
+"K. Novan"
+],
+"owners": [
+"harrison-fell"
+],
+"remote": []
+},
+"thinklocallyactlocallycandecentralizedplanningreallyachievefirstbestinthepresenc": {
+"title": "Think locally, act locally: Can decentralized planning really achieve first-best in the presence of environmental spillovers?",
+"authors": [
+"H. Fell",
+"D. Kaffine"
+],
+"unresolved": [
+"D. Kaffine"
+],
+"owners": [
+"harrison-fell"
+],
+"remote": []
+},
 "crosssubsidizationduetoinframarginalsupportinagricultureageneraltheoryandempiric": {
 "title": "Cross-subsidization Due to Infra-Marginal Support in Agriculture: A General Theory and Empirical Evidence",
 "authors": [
@@ -12109,6 +14380,192 @@
 ],
 "owners": [
 "harry-de-gorter"
+],
+"remote": []
+},
+"recenteventsandparticipationattheextensiveandintensivemarginsinusfederalcropinsu": {
+"title": "Recent Events and Participation at the Extensive and Intensive Margins in U.S. Federal Crop Insurance Program",
+"authors": [
+"Y. Che",
+"H. Feng",
+"D.A. Hennessy"
+],
+"unresolved": [
+"Y. Che",
+"D.A. Hennessy"
+],
+"owners": [
+"hongli-feng"
+],
+"remote": []
+},
+"agriculturallandusechangeandgrasslandlossintheeasterndakotasafarmlevelanalysis": {
+"title": "Agricultural Land Use Change and Grassland Loss in the Eastern Dakotas: A Farm-Level Analysis",
+"authors": [
+"M. Wimberly",
+"L. Janssen",
+"D. Hennessy",
+"M. Luri",
+"N. Chowdhury",
+"H. Feng"
+],
+"unresolved": [
+"L. Janssen",
+"M. Luri",
+"N. Chowdhury"
+],
+"owners": [
+"hongli-feng"
+],
+"remote": []
+},
+"cropinsurancesubsidiesandthechoiceofinsurancecoveragelevels": {
+"title": "Crop Insurance Subsidies and the Choice of Insurance Coverage Levels",
+"authors": [
+"X. Du",
+"H. Feng",
+"D.A. Hennessy"
+],
+"unresolved": [
+"D.A. Hennessy"
+],
+"owners": [
+"hongli-feng"
+],
+"remote": []
+},
+"assessingcosteffectivenessoftheconservationreserveprogramanditsinteractionwithcr": {
+"title": "Assessing Cost-Effectiveness of the Conservation Reserve Program and its Interaction with Crop Insurance Subsidies",
+"authors": [
+"R. Miao",
+"H. Feng",
+"D.A. Hennessy",
+"X. Du"
+],
+"unresolved": [
+"R. Miao",
+"D.A. Hennessy"
+],
+"owners": [
+"hongli-feng"
+],
+"remote": []
+},
+"theeffectsofgovernmentpaymentsoncroplandacreagecrpenrollmentandgrasslandconversi": {
+"title": "The Effects of Government Payments on Cropland Acreage, CRP Enrollment, and Grassland Conversion in the Dakotas",
+"authors": [
+"H. Feng",
+"D.A. Hennessy",
+"R. Miao"
+],
+"unresolved": [
+"D.A. Hennessy",
+"R. Miao"
+],
+"owners": [
+"hongli-feng"
+],
+"remote": []
+},
+"doespermittradingminimizecostunderanaveragepollutiontarget": {
+"title": "Does permit trading minimize cost under an average pollution target?",
+"authors": [
+"S. Rabotyagov",
+"H. Feng"
+],
+"unresolved": [
+"S. Rabotyagov"
+],
+"owners": [
+"hongli-feng"
+],
+"remote": []
+},
+"greenhousegasimpactsofcornbasedethanollifecycleanalysisversussystemwideaccountin": {
+"title": "Greenhouse Gas Impacts of Corn-based Ethanol: life cycle analysis versus system wide accounting",
+"authors": [
+"H. Feng",
+"O. Rubin",
+"B. Babcock"
+],
+"unresolved": [
+"O. Rubin",
+"B. Babcock"
+],
+"owners": [
+"hongli-feng"
+],
+"remote": []
+},
+"searchingforefficiencyleastcostnonpointsourcepollutioncontrolwithmultiplepolluta": {
+"title": "Searching for Efficiency: Least Cost Nonpoint Source Pollution Control with Multiple Pollutants, Practices, and Targets",
+"authors": [
+"S. Rabotyagov",
+"T. Campbell",
+"M. Jha",
+"P.W. Gassman",
+"J. Arnold",
+"L. Kurkalova",
+"S. Secchi",
+"H. Feng",
+"C. Kling"
+],
+"unresolved": [
+"S. Rabotyagov",
+"M. Jha",
+"P.W. Gassman",
+"J. Arnold",
+"C. Kling"
+],
+"owners": [
+"hongli-feng"
+],
+"remote": []
+},
+"willingnesstopayforsurplussugarundertheussugartoethanolprogram": {
+"title": "Willingness to Pay for Surplus Sugar under the U.S. Sugar-to-Ethanol Program",
+"authors": [
+"H. Feng",
+"C. Hart"
+],
+"unresolved": [
+"C. Hart"
+],
+"owners": [
+"hongli-feng"
+],
+"remote": []
+},
+"thetradeoffofconservationonworkinglandversuslandretirement": {
+"title": "The Tradeoff of Conservation on Working Land versus Land Retirement",
+"authors": [
+"H. Feng",
+"L.A. Kurkalova",
+"C.L. Kling",
+"P.W. Gassman"
+],
+"unresolved": [
+"P.W. Gassman"
+],
+"owners": [
+"hongli-feng"
+],
+"remote": []
+},
+"conservationreserveprograminthepresenceofotherconservationprogramsimplicationsfo": {
+"title": "Conservation Reserve Program in the Presence of Other Conservation Programs: Implications for Water Quality, Program Participation, and Income Transfer",
+"authors": [
+"H. Feng",
+"C.L. Kling",
+"L.A. Kurkalova",
+"S. Secchi",
+"P.W. Gassman"
+],
+"unresolved": [
+"P.W. Gassman"
+],
+"owners": [
+"hongli-feng"
 ],
 "remote": []
 },
@@ -12291,6 +14748,64 @@
 ],
 "owners": [
 "ian-sue-wing"
+],
+"remote": []
+},
+"fightingfirewithfirefightingfoamthelongruneffectsofpfasuseatusmilitaryinstallati": {
+"title": "Fighting Fire with Fire(fighting Foam): The Long Run Effects of PFAS Use at U.S. Military Installations",
+"authors": [
+"Irene Jacqz",
+"T. Somuncu",
+"J. Voorheis"
+],
+"unresolved": [
+"T. Somuncu",
+"J. Voorheis"
+],
+"owners": [
+"irene-jacqz"
+],
+"remote": []
+},
+"incompleteregulationoftoxicchemicalsdirectandindirecteffectsatusmanufacturingfac": {
+"title": "Incomplete regulation of toxic chemicals: direct and indirect effects at U.S. manufacturing facilities",
+"authors": [
+"Irene Jacqz",
+"A. Theising"
+],
+"unresolved": [
+"A. Theising"
+],
+"owners": [
+"irene-jacqz"
+],
+"remote": []
+},
+"pollutionandacquisitionemissionsanddistributionaleffectsofmergers": {
+"title": "Pollution and Acquisition: Emissions and Distributional Effects of Mergers",
+"authors": [
+"Irene Jacqz",
+"W. Rafey"
+],
+"unresolved": [
+"W. Rafey"
+],
+"owners": [
+"irene-jacqz"
+],
+"remote": []
+},
+"pollutionatbirthandthereturnstoheadstart": {
+"title": "Pollution at Birth and the Returns to Head Start",
+"authors": [
+"Irene Jacqz",
+"S. Mitra"
+],
+"unresolved": [
+"S. Mitra"
+],
+"owners": [
+"irene-jacqz"
 ],
 "remote": []
 },
@@ -12777,6 +15292,59 @@
 ],
 "remote": []
 },
+"implicationsofnewtechnologiesforfuturefoodsupplysystems": {
+"title": "Implications of new technologies for future food supply systems",
+"authors": [
+"Senthold Asseng",
+"C. A. Palm",
+"James L. Anderson",
+"L.O. Fresco",
+"P. A. Sanchez",
+"Frank Asche",
+"Taryn Garlock",
+"Jessica Fanzo",
+"Martin D. Smith",
+"G. Knapp",
+"Andy Jarvis",
+"Adegbola Tolulope Adesogan",
+"Ilaria Capua",
+"Gerrit Hoogenboom",
+"Dickson D. Despommier",
+"Lisa Conti",
+"Karen A. Garrett"
+],
+"unresolved": [
+"C. A. Palm",
+"L.O. Fresco",
+"P. A. Sanchez",
+"G. Knapp"
+],
+"owners": [
+"james-anderson",
+"martin-d-smith"
+],
+"remote": [
+[
+"S. Asseng",
+"C. A. Palm",
+"J. L. Anderson",
+"L. Fresco",
+"P. A. Sanchez",
+"F. Asche",
+"T. M. Garlock",
+"J. Fanzo",
+"M. D. Smith",
+"G. Knapp",
+"A. Jarvis",
+"A. Adesogan",
+"I. Capua",
+"G. Hoogenboom",
+"D. D. Despommier",
+"L. Conti",
+"K. A. Garrett"
+]
+]
+},
 "forecastingandinterpolationusingvectorautoregressionswithcommontrends": {
 "title": "Forecasting and Interpolation Using Vector Autoregressions with Common Trends",
 "authors": [
@@ -13090,7 +15658,8 @@
 "W. E. Oates"
 ],
 "owners": [
-"james-n-sanchirico"
+"james-n-sanchirico",
+"spencer-banzhaf"
 ],
 "remote": []
 },
@@ -14567,6 +17136,725 @@
 ],
 "remote": []
 },
+"abenefitcostanalysisofuniversitiesbecomingbeecampususacertified": {
+"title": "A Benefit-Cost Analysis of Universities Becoming Bee Campus USA Certified",
+"authors": [
+"J. Penn",
+"W. Hu"
+],
+"unresolved": [
+"W. Hu"
+],
+"owners": [
+"jerrod-penn"
+],
+"remote": []
+},
+"assessingconservationeasementlandownersobjectionsthinning": {
+"title": "Assessing Conservation Easement Landowners Objections Thinning",
+"authors": [
+"A. Gutierrez-Castillo",
+"S.M. Tanger",
+"J. Penn",
+"M.A. Blazier"
+],
+"unresolved": [
+"A. Gutierrez-Castillo",
+"S.M. Tanger",
+"M.A. Blazier"
+],
+"owners": [
+"jerrod-penn"
+],
+"remote": []
+},
+"onmisccalculatingtteststatisticsandwelfaremeasuresinchoiceexperimentswitheffects": {
+"title": "On Misccalculating t-Test Statistics and Welfare Measures in Choice Experiments with Effects-Coded Variables",
+"authors": [
+"W. Hu",
+"S. Sun",
+"J.M. Penn",
+"P. Qing"
+],
+"unresolved": [
+"W. Hu",
+"S. Sun",
+"J.M. Penn",
+"P. Qing"
+],
+"owners": [
+"jerrod-penn"
+],
+"remote": []
+},
+"theefficacyandinteractionsofnudgestoreducerestaurantplatewasteandimprovevegetabl": {
+"title": "The Efficacy and Interactions of Nudges to Reduce Restaurant Plate Waste and Improve Vegetable Intake: A Field Experiment",
+"authors": [
+"D. Qi",
+"R. Li",
+"J. Penn",
+"B. Houghtaling",
+"W. Prinyawiwatkul",
+"B.E. Roe"
+],
+"unresolved": [
+"D. Qi",
+"R. Li",
+"B. Houghtaling",
+"W. Prinyawiwatkul",
+"B.E. Roe"
+],
+"owners": [
+"jerrod-penn"
+],
+"remote": []
+},
+"knowthybeachthevalueofbeachconditionsinformation": {
+"title": "Know Thy Beach: The Value of Beach Conditions Information",
+"authors": [
+"D. Petrolia",
+"J. Penn",
+"R. Quainoo",
+"R. Caffey",
+"J.M. Fannin"
+],
+"unresolved": [
+"D. Petrolia",
+"R. Quainoo",
+"R. Caffey",
+"J.M. Fannin"
+],
+"owners": [
+"jerrod-penn"
+],
+"remote": []
+},
+"supportfornativesolitarypollinatorconservationamongthepublicversusbeekeepers": {
+"title": "Support for Native, Solitary Pollinator Conservation among the Public versus Beekeepers",
+"authors": [
+"J. Penn",
+"W. Hu",
+"H. Penn"
+],
+"unresolved": [
+"W. Hu",
+"H. Penn"
+],
+"owners": [
+"jerrod-penn"
+],
+"remote": []
+},
+"heterogeneouseffectsofcovid19onfruitandvegetablemarkets": {
+"title": "Heterogeneous Effects of COVID-19 on Fruit and Vegetable Markets",
+"authors": [
+"K. Odongo",
+"R.C. Mittelhammer",
+"Jill J. McCluskey",
+"G. Astill"
+],
+"unresolved": [
+"K. Odongo"
+],
+"owners": [
+"jill-j-mccluskey"
+],
+"remote": []
+},
+"heterogeneousimpactsofstatewidepoliciesacrossurbanandruralmarketsevidencefromliq": {
+"title": "Heterogeneous Impacts of Statewide Policies across Urban and Rural Markets: Evidence from Liquor Sales",
+"authors": [
+"P. Watson",
+"J. Winfree",
+"M.C. Mittelhammer",
+"Jill J. McCluskey"
+],
+"unresolved": [
+"M.C. Mittelhammer"
+],
+"owners": [
+"jill-j-mccluskey"
+],
+"remote": [
+[
+"Philip Watson",
+"Jason A. Winfree",
+"Ron C. Mittelhammer",
+"Jill J. McCluskey"
+]
+]
+},
+"areincomesandfoodsafetyriskrelatedinretailfoodenvironments": {
+"title": "Are Incomes and Food Safety Risk Related in Retail Food Environments?",
+"authors": [
+"M. Amin",
+"Jill J. McCluskey",
+"R.C. Mittelhammer",
+"S.T. Wu",
+"H.F. Oliver"
+],
+"unresolved": [
+"M. Amin",
+"S.T. Wu",
+"H.F. Oliver"
+],
+"owners": [
+"jill-j-mccluskey"
+],
+"remote": []
+},
+"factorsaffectingthedurationofagriculturalmarketingorders": {
+"title": "Factors Affecting the Duration of Agricultural Marketing Orders",
+"authors": [
+"S.R. Johnson",
+"M.P. Brady",
+"Jill J. McCluskey"
+],
+"unresolved": [
+"S.R. Johnson"
+],
+"owners": [
+"jill-j-mccluskey",
+"michael-brady"
+],
+"remote": []
+},
+"theeffectofsamesexmarriagelawsonskilledlabormigrationtotheus": {
+"title": "The Effect of Same-Sex Marriage Laws on Skilled Labor Migration to the US",
+"authors": [
+"K. Awad",
+"Jill J. McCluskey"
+],
+"unresolved": [
+"K. Awad"
+],
+"owners": [
+"jill-j-mccluskey"
+],
+"remote": []
+},
+"longtermdynamicsofusorganicmilkeggsandyogurtpremiums": {
+"title": "Long-Term Dynamics of U.S. Organic Milk, Eggs, and Yogurt Premiums",
+"authors": [
+"S. Badruddoza",
+"A.C. Carlson",
+"Jill J. McCluskey"
+],
+"unresolved": [
+"A.C. Carlson"
+],
+"owners": [
+"jill-j-mccluskey"
+],
+"remote": []
+},
+"consumerpreferencesforfoodswithcleanlabelsandnewprocessingtechnologies": {
+"title": "Consumer Preferences for Foods with Clean Labels and New Processing Technologies",
+"authors": [
+"K.R. Grant",
+"R.K Gallardo",
+"Jill J. McCluskey"
+],
+"unresolved": [
+"K.R. Grant",
+"R.K Gallardo"
+],
+"owners": [
+"jill-j-mccluskey"
+],
+"remote": []
+},
+"neighborhoodracialcompositionneighborhoodpovertyandthespatialdistancetogroceryre": {
+"title": "Neighborhood Racial Composition, Neighborhood Poverty, and the Spatial Distance to Grocery Retailers in Metropolitan Seattle",
+"authors": [
+"B. Ware",
+"M.D. Amin",
+"E.L. Jessup",
+"Jill J. McCluskey"
+],
+"unresolved": [
+"B. Ware",
+"E.L. Jessup"
+],
+"owners": [
+"jill-j-mccluskey"
+],
+"remote": []
+},
+"commercializationofademandenhancinginnovationbyapublicuniversity": {
+"title": "Commercialization of a Demand-Enhancing Innovation by a Public University",
+"authors": [
+"S.B. Akhundjanov",
+"R.K. Gallardo",
+"Jill J. McCluskey",
+"B.J. Rickard"
+],
+"unresolved": [
+"S.B. Akhundjanov",
+"B.J. Rickard"
+],
+"owners": [
+"jill-j-mccluskey"
+],
+"remote": []
+},
+"factorsinfluencingconsumersexpectedfoodwaste": {
+"title": "Factors Influencing Consumers' Expected Food Waste",
+"authors": [
+"K. Grant",
+"R. K. Gallardo",
+"Jill J. McCluskey"
+],
+"unresolved": [
+"K. Grant",
+"R. K. Gallardo"
+],
+"owners": [
+"jill-j-mccluskey"
+],
+"remote": []
+},
+"areconsumerswillingtopaytoreducefoodwaste": {
+"title": "Are Consumers Willing to Pay to Reduce Food Waste?",
+"authors": [
+"K. Grant",
+"R.K. Gallardo",
+"Jill J. McCluskey"
+],
+"unresolved": [
+"K. Grant"
+],
+"owners": [
+"jill-j-mccluskey"
+],
+"remote": []
+},
+"hoppinessandhappinesstheimpactofhopqualityonwillingnesstopayforbeer": {
+"title": "Hoppiness and Happiness: The Impact of Hop Quality on Willingness to Pay for Beer",
+"authors": [
+"G. Gabrielyan",
+"T.L. Marsh",
+"C.F. Ross",
+"Jill J. McCluskey"
+],
+"unresolved": [
+"C.F. Ross"
+],
+"owners": [
+"jill-j-mccluskey"
+],
+"remote": []
+},
+"sustainabilityanddepletionaccountingfornonrenewableresourcesacasestudyofoilinlib": {
+"title": "Sustainability and Depletion Accounting for Non-Renewable Resources: A Case Study of Oil in Libya",
+"authors": [
+"A.M. Etelawi",
+"K.A. Blatner",
+"Jill J. McCluskey"
+],
+"unresolved": [
+"A.M. Etelawi",
+"K.A. Blatner"
+],
+"owners": [
+"jill-j-mccluskey"
+],
+"remote": []
+},
+"newsmediacoverageandpublicperceptionsinsightsfromnewfoodtechnologies": {
+"title": "News Media Coverage and Public Perceptions: Insights from New Food Technologies",
+"authors": [
+"Jill J. McCluskey",
+"N. Kalaitzandonakes",
+"J.F.M. Swinnen"
+],
+"unresolved": [
+"N. Kalaitzandonakes",
+"J.F.M. Swinnen"
+],
+"owners": [
+"jill-j-mccluskey"
+],
+"remote": []
+},
+"productdifferentiationandquantitysurcharges": {
+"title": "Product Differentiation and Quantity Surcharges",
+"authors": [
+"S. Shreay",
+"H.H. Chouinard",
+"Jill J. McCluskey"
+],
+"unresolved": [
+"H.H. Chouinard"
+],
+"owners": [
+"jill-j-mccluskey"
+],
+"remote": []
+},
+"anadaptedfindratetestforraceandgenderbiasindrivingundertheinfluenceenforcement": {
+"title": "An Adapted Find-rate Test for Race and Gender Bias in Driving-under-the-influence Enforcement",
+"authors": [
+"B.P. Horn",
+"Jill J. McCluskey",
+"R. Mittelhammer"
+],
+"unresolved": [
+"R. Mittelhammer"
+],
+"owners": [
+"jill-j-mccluskey"
+],
+"remote": []
+},
+"effectsofhealthierchoicesonkidsmenusadifferenceindifferencesanalysis": {
+"title": "Effects of Healthier Choices on Kids' Menus: A Difference-in-Differences Analysis",
+"authors": [
+"S. Li",
+"Jill J. McCluskey",
+"R.C. Mittelhammer"
+],
+"unresolved": [
+"S. Li"
+],
+"owners": [
+"jill-j-mccluskey"
+],
+"remote": []
+},
+"mediaandfoodriskperceptions": {
+"title": "Media and Food Risk Perceptions",
+"authors": [
+"Jill J. McCluskey",
+"J.F.M. Swinnen"
+],
+"unresolved": [
+"J.F.M. Swinnen"
+],
+"owners": [
+"jill-j-mccluskey"
+],
+"remote": []
+},
+"consumerswillingnesstopayfortreatmentinducedqualityattributesinanjoupears": {
+"title": "Consumers' Willingness to Pay for Treatment Induced Quality Attributes in Anjou Pears",
+"authors": [
+"H. Zhang",
+"R.K. Gallardo",
+"Jill J. McCluskey",
+"E.M. Kupferman"
+],
+"unresolved": [
+"H. Zhang",
+"E.M. Kupferman"
+],
+"owners": [
+"jill-j-mccluskey"
+],
+"remote": []
+},
+"foodandconsumereconomics": {
+"title": "Food and Consumer Economics",
+"authors": [
+"L. Unnevehr",
+"J. Eales",
+"H. Jensen",
+"J. Lusk",
+"Jill J. McCluskey",
+"J. Kinsey"
+],
+"unresolved": [
+"L. Unnevehr",
+"J. Eales",
+"H. Jensen",
+"J. Lusk",
+"J. Kinsey"
+],
+"owners": [
+"jill-j-mccluskey"
+],
+"remote": []
+},
+"identifyingconsumerpreferencesforshelflabelnutritioninformation": {
+"title": "Identifying consumer preferences for shelf-label nutrition information",
+"authors": [
+"J. Berning",
+"H.H. Chouinard",
+"K. Manning",
+"Jill J. McCluskey",
+"D. Sprott"
+],
+"unresolved": [
+"H.H. Chouinard",
+"K. Manning",
+"D. Sprott"
+],
+"owners": [
+"jill-j-mccluskey"
+],
+"remote": []
+},
+"consumerresponseandwillingnesstopayforsensorypropertiesinwashingtonstateredwines": {
+"title": "Consumer Response and Willingness to Pay for Sensory Properties in Washington State Red Wines",
+"authors": [
+"N. Yang",
+"Jill J. McCluskey",
+"C.F. Ross"
+],
+"unresolved": [
+"N. Yang",
+"C.F. Ross"
+],
+"owners": [
+"jill-j-mccluskey"
+],
+"remote": []
+},
+"ecolioutbreaksaffectdemandforsaladvegetables": {
+"title": "E. Coli Outbreaks Affect Demand for Salad Vegetables",
+"authors": [
+"F. Fahs",
+"R.C. Mittelhammer",
+"Jill J. McCluskey"
+],
+"unresolved": [
+"F. Fahs"
+],
+"owners": [
+"jill-j-mccluskey"
+],
+"remote": []
+},
+"consumeracceptanceofwesternconveniencefoodsinchinaacasestudyinprocessedpotatoes": {
+"title": "Consumer Acceptance of Western Convenience Foods in China: A Case Study in Processed Potatoes",
+"authors": [
+"K.R. Curtis",
+"Jill J. McCluskey",
+"T.I. Wahl"
+],
+"unresolved": [
+"K.R. Curtis"
+],
+"owners": [
+"jill-j-mccluskey"
+],
+"remote": []
+},
+"mexicanfoodshoppingbehavioracrossgroceryformats": {
+"title": "Mexican Food Shopping Behavior across Grocery Formats",
+"authors": [
+"H.-T. Lee",
+"Jill J. McCluskey",
+"J. Yoder"
+],
+"unresolved": [
+"J. Yoder"
+],
+"owners": [
+"jill-j-mccluskey"
+],
+"remote": []
+},
+"astatespacemarkovregimeswitchingmodelofdynamicfutureshedging": {
+"title": "A State-Space Markov Regime-Switching Model of Dynamic Futures Hedging",
+"authors": [
+"H.T. Lee",
+"J. Yoder",
+"R.C. Mittelhammer",
+"Jill J. McCluskey"
+],
+"unresolved": [
+"H.T. Lee",
+"J. Yoder"
+],
+"owners": [
+"jill-j-mccluskey"
+],
+"remote": []
+},
+"tradeglobalizationandthemediaintroduction": {
+"title": "Trade, Globalization, and the Media: Introduction",
+"authors": [
+"J.F.M. Swinnen",
+"Jill J. McCluskey"
+],
+"unresolved": [
+"J.F.M. Swinnen"
+],
+"owners": [
+"jill-j-mccluskey"
+],
+"remote": []
+},
+"usgrassfedbeefmarketinghealthbenefits": {
+"title": "U.S. Grass-Fed Beef: Marketing Health Benefits",
+"authors": [
+"Jill J. McCluskey",
+"T.I. Wahl",
+"Q. Li",
+"P.R. Wandschneider"
+],
+"unresolved": [
+"P.R. Wandschneider"
+],
+"owners": [
+"jill-j-mccluskey"
+],
+"remote": []
+},
+"consumeracceptanceofgeneticallymodifiedfoodproductsinthedevelopingworld": {
+"title": "Consumer Acceptance of Genetically Modified Food Products in the Developing World",
+"authors": [
+"K.R. Curtis",
+"Jill J. McCluskey",
+"T.I. Wahl"
+],
+"unresolved": [
+"K.R. Curtis"
+],
+"owners": [
+"jill-j-mccluskey"
+],
+"remote": []
+},
+"seasonalmarketpowerintheusdanjoupearindustry": {
+"title": "Seasonal Market Power in the U.S. D'Anjou Pear Industry",
+"authors": [
+"J.A. Winfree",
+"Jill J. McCluskey",
+"R.C. Mittelhammer",
+"P. Gutman"
+],
+"unresolved": [
+"P. Gutman"
+],
+"owners": [
+"jill-j-mccluskey"
+],
+"remote": []
+},
+"consumerattitudestowardgeneticallymodifiedfoodsinchina": {
+"title": "Consumer Attitudes toward Genetically Modified Foods in China",
+"authors": [
+"Q. Li",
+"K.R. Curtis",
+"Jill J. McCluskey",
+"T.I. Wahl"
+],
+"unresolved": [
+"K.R. Curtis"
+],
+"owners": [
+"jill-j-mccluskey"
+],
+"remote": []
+},
+"ischinathemarketforgmpotatoproducts": {
+"title": "Is China the Market for GM Potato Products?",
+"authors": [
+"K.R. Curtis",
+"Q. Li",
+"Jill J. McCluskey",
+"T.I. Wahl"
+],
+"unresolved": [
+"K.R. Curtis"
+],
+"owners": [
+"jill-j-mccluskey"
+],
+"remote": []
+},
+"implicationsofchangesinthefoodsupplychainforsmallandmediumsizedproducefirmsinthe": {
+"title": "Implications of Changes in the Food Supply Chain for Small and Medium-Sized Produce Firms in the Pacific Northwest",
+"authors": [
+"S. Druffel",
+"Jill J. McCluskey",
+"A.D. O'Rourke"
+],
+"unresolved": [
+"S. Druffel",
+"A.D. O'Rourke"
+],
+"owners": [
+"jill-j-mccluskey"
+],
+"remote": []
+},
+"patrondemanddepositaccountandregionalpatronagefinancingactivitiesofagribusinessc": {
+"title": "Patron Demand Deposit Account and Regional Patronage Financing Activities of Agribusiness Cooperatives",
+"authors": [
+"E.C. Brueckner",
+"K.D. Duft",
+"Jill J. McCluskey"
+],
+"unresolved": [
+"E.C. Brueckner",
+"K.D. Duft"
+],
+"owners": [
+"jill-j-mccluskey"
+],
+"remote": []
+},
+"productioncontractsasameansofverticalcoordinationwithapplicationstothewheatindus": {
+"title": "Production Contracts as a Means of Vertical Coordination with Applications to the Wheat Industry",
+"authors": [
+"T. Worley",
+"Jill J. McCluskey"
+],
+"unresolved": [
+"T. Worley"
+],
+"owners": [
+"jill-j-mccluskey"
+],
+"remote": []
+},
+"relationshipsbetweenproducesupplyfirmsandretailersinthenewfoodsupplychain": {
+"title": "Relationships between Produce Supply Firms and Retailers in the New Food Supply Chain",
+"authors": [
+"Jill J. McCluskey",
+"A.D. O'Rourke"
+],
+"unresolved": [
+"A.D. O'Rourke"
+],
+"owners": [
+"jill-j-mccluskey"
+],
+"remote": []
+},
+"federalgrazingreformandavoidablerisk": {
+"title": "Federal Grazing Reform and Avoidable Risk",
+"authors": [
+"Jill J. McCluskey",
+"G.C. Rausser"
+],
+"unresolved": [
+"G.C. Rausser"
+],
+"owners": [
+"jill-j-mccluskey"
+],
+"remote": []
+},
+"centraleuropeanagriculturalpolicyandeuaccession": {
+"title": "Central European Agricultural Policy and E.U. Accession",
+"authors": [
+"R.E. Goodhue",
+"Jill J. McCluskey",
+"G.C. Rausser"
+],
+"unresolved": [
+"G.C. Rausser"
+],
+"owners": [
+"jill-j-mccluskey",
+"rachael-e-goodhue"
+],
+"remote": []
+},
 "impactofmanagementpracticesonregionalprevalenceofsoybeansclerotiniastemrotinthen": {
 "title": "Impact of Management Practices on Regional Prevalence of Soybean Sclerotinia Stem Rot in the North-Central Region of the United States and on Farmers' Decisions Under Uncertainty",
 "authors": [
@@ -14588,6 +17876,284 @@
 "A. L. Carriquiry",
 "J. Zhao",
 "X. B. Yang"
+]
+]
+},
+"watermanagementtechnologyregulationandmarketperspectivesamongwashingtonstateirri": {
+"title": "Water management technology, regulation, and market perspectives among Washington State irrigators",
+"authors": [
+"S. Deol",
+"G. Yorgey",
+"J. Yoder",
+"K. Rajagopalan",
+"M. Brady",
+"D. Haller",
+"J. Padowski",
+"Joe Cook"
+],
+"unresolved": [
+"S. Deol",
+"G. Yorgey",
+"D. Haller"
+],
+"owners": [
+"joe-cook",
+"michael-brady"
+],
+"remote": []
+},
+"assessingpreferencesforreformingwatersubsidyeligibilityrulesindelhi": {
+"title": "Assessing preferences for reforming water subsidy eligibility rules in Delhi",
+"authors": [
+"S. Sinha",
+"R. Carson",
+"Joe Cook",
+"D. Whittington"
+],
+"unresolved": [
+"S. Sinha",
+"R. Carson"
+],
+"owners": [
+"joe-cook"
+],
+"remote": []
+},
+"estimatingownpriceandcrosspriceelasticitiesofdemandforcannedtunaecolabelsinjakar": {
+"title": "Estimating own-price and cross-price elasticities of demand for canned tuna ecolabels in Jakarta, Indonesia: A volumetric choice experiment",
+"authors": [
+"B. Asgha",
+"Joe Cook",
+"R. K. Gallardo"
+],
+"unresolved": [
+"B. Asgha",
+"R. K. Gallardo"
+],
+"owners": [
+"joe-cook"
+],
+"remote": []
+},
+"theroleofnonpecuniarybenefitsoffarmingandpsychologicalownershiponwillingnesstoac": {
+"title": "The role of nonpecuniary benefits of farming and psychological ownership on willingness to accept in hypothetical water markets",
+"authors": [
+"S. Deol",
+"J. Yoder",
+"Joe Cook"
+],
+"unresolved": [
+"S. Deol"
+],
+"owners": [
+"joe-cook"
+],
+"remote": []
+},
+"concurrentirrigationpausescancreatestreamflowpulsesforfishduringcriticallowflowp": {
+"title": "Concurrent irrigation pauses can create stream flow pulses for fish during critical low-flow periods",
+"authors": [
+"R. A. Khan",
+"M. Brady",
+"B. Singh",
+"M. Yourek",
+"J. Yoder",
+"Joe Cook",
+"G. Yorgey",
+"K. Rajagopalan"
+],
+"unresolved": [
+"R. A. Khan",
+"B. Singh",
+"M. Yourek",
+"G. Yorgey"
+],
+"owners": [
+"joe-cook",
+"jonathan-yoder",
+"michael-brady"
+],
+"remote": []
+},
+"distributionalstatisticsofmunicipalwateruseduringcapetownsdroughtimplicationsfor": {
+"title": "Distributional statistics of municipal water use during Cape Town's drought: implications for affordability, conservation and tariff design",
+"authors": [
+"Joe Cook",
+"J. Bruhl",
+"M. Visser"
+],
+"unresolved": [
+"J. Bruhl",
+"M. Visser"
+],
+"owners": [
+"joe-cook"
+],
+"remote": []
+},
+"benefitcostanalysesofintegratedwaterresourcemanagementtheyakimabasinintegratedpl": {
+"title": "Benefit-cost analyses of Integrated Water Resource Management: The Yakima Basin Integrated Plan",
+"authors": [
+"J. Yoder",
+"J. Adam",
+"M. Brady",
+"Joe Cook",
+"S. Katz",
+"D. Brent",
+"S. Johnston",
+"K. Malek",
+"J. McMillan",
+"Q. Yang"
+],
+"unresolved": [
+"J. Adam",
+"M. Brady",
+"S. Katz",
+"D. Brent",
+"S. Johnston",
+"K. Malek",
+"J. McMillan",
+"Q. Yang"
+],
+"owners": [
+"joe-cook"
+],
+"remote": []
+},
+"estimatingthevalueoftraveltimeinruralafricafromastatedpreferenceexperimentonwate": {
+"title": "Estimating the value of travel time in rural Africa from a stated preference experiment on water source choices",
+"authors": [
+"Joe Cook",
+"Peter Kimuyu",
+"A. Blum",
+"J. Gatua"
+],
+"unresolved": [
+"A. Blum",
+"J. Gatua"
+],
+"owners": [
+"joe-cook"
+],
+"remote": []
+},
+"theeconomicvalueofimprovedairqualityinurbanafricaresultsfromdoualacameroon": {
+"title": "The economic value of improved air quality in urban Africa: Results from Douala, Cameroon",
+"authors": [
+"H. Donfouet",
+"Joe Cook",
+"P.W. Jeanty"
+],
+"unresolved": [
+"H. Donfouet",
+"P.W. Jeanty"
+],
+"owners": [
+"joe-cook"
+],
+"remote": []
+},
+"lowpowersensorsandsmartphonesfortrackingwatercollectioninruralethiopia": {
+"title": "Low power sensors and smartphones for tracking water collection in rural Ethiopia",
+"authors": [
+"R. Chaudhri",
+"K. Lieberg",
+"R. Sodt",
+"J. Chilton",
+"G. Borriello",
+"Y. Masuda",
+"Joe Cook"
+],
+"unresolved": [
+"R. Chaudhri",
+"K. Lieberg",
+"R. Sodt",
+"J. Chilton",
+"G. Borriello"
+],
+"owners": [
+"joe-cook"
+],
+"remote": []
+},
+"thecaseforgivingstatedpreferencerespondentstimetothinkresultsfromfourcountries": {
+"title": "The case for giving stated preference respondents `time to think': results from four countries",
+"authors": [
+"Joe Cook",
+"B. Maskery",
+"M. Jeuland",
+"D. Whittington"
+],
+"unresolved": [
+"M. Jeuland"
+],
+"owners": [
+"joe-cook"
+],
+"remote": []
+},
+"privatedemandforcholeravaccinesinhuevietnam": {
+"title": "Private demand for cholera vaccines in Hue, Vietnam",
+"authors": [
+"D. Kim",
+"D. G. Canh",
+"C. Poulos",
+"L. T. K. Thoa",
+"Joe Cook",
+"N. T. Hoa",
+"A. Nyamete",
+"D. T. D. Thuy",
+"J. Deen",
+"N. D. Son",
+"J. Clemens",
+"D. D. Trach",
+"V. D. Thiem",
+"D. D. Anh",
+"D. Whittington"
+],
+"unresolved": [
+"N. D. Son",
+"D. D. Trach"
+],
+"owners": [
+"joe-cook"
+],
+"remote": [
+[
+"Dohyeong Kim",
+"Do G. Canh",
+"Christine Poulos",
+"Le T.K. Thoa",
+"Joe Cook",
+"Nguyen T. Hoa",
+"Andrew Nyamete",
+"Dang T.D. Thuy",
+"Jacqueline Deen",
+"John Clemens",
+"Vu D. Thiem",
+"Dang D. Anh",
+"Dale Whittington"
+]
+]
+},
+"reliabilityofstatedpreferencesforcholeraandtyphoidvaccineswithtimetothinkinhuevi": {
+"title": "Reliability of stated preferences for cholera and typhoid vaccines with time to think in Hue, Vietnam",
+"authors": [
+"Joe Cook",
+"D. Whittington",
+"D.G. Cahn",
+"F. Reed Johnson",
+"A. Nyamete"
+],
+"unresolved": [
+"D.G. Cahn"
+],
+"owners": [
+"joe-cook"
+],
+"remote": [
+[
+"J. Cook"
 ]
 ]
 },
@@ -14655,6 +18221,327 @@
 ],
 "owners": [
 "john-list"
+],
+"remote": []
+},
+"comparativeeffectivenessandcosteffectivenessofpoliciesforprovisioningrabiesposte": {
+"title": "Comparative effectiveness and cost-effectiveness of policies for provisioning rabies postexposure vaccines",
+"authors": [
+"J. Changalucha",
+"E. A. Ferguson",
+"M. M. Luka",
+"K. Lushasi",
+"E. Rees",
+"D. Anderson",
+"H. Hoffu",
+"G. John",
+"Z. Mtema",
+"M. Sambo",
+"K. Sharadhuri",
+"L. Sikana",
+"A. Lupindi",
+"Jonathan K. Yoder",
+"F. Lankester",
+"K. Hampson"
+],
+"unresolved": [
+"E. A. Ferguson",
+"M. M. Luka",
+"E. Rees",
+"H. Hoffu",
+"G. John",
+"Z. Mtema",
+"K. Sharadhuri",
+"L. Sikana",
+"A. Lupindi"
+],
+"owners": [
+"jonathan-yoder"
+],
+"remote": []
+},
+"effectivenessofcommunitybaseddeliveryofmassdogvaccinationtopreventrabiesacluster": {
+"title": "Effectiveness of Community-based delivery of mass dog vaccination to prevent rabies: A cluster randomized controlled trial",
+"authors": [
+"F. Lankester",
+"A. Lugelo",
+"J. Changalucha",
+"D. Anderson",
+"C. T. Duamor",
+"A. Czupryna",
+"K. Lushasi",
+"E. Ferguson",
+"E. S. Swai",
+"H. Nonga",
+"M. Sambo",
+"Jonathan K. Yoder",
+"S. Cleaveland",
+"S. Wyke",
+"P. C. D. Johnson",
+"K. Hampson"
+],
+"unresolved": [
+"H. Nonga"
+],
+"owners": [
+"jonathan-yoder"
+],
+"remote": [
+[
+"Felix Lankester",
+"Ahmed Lugelo",
+"Joel Changalucha",
+"Danni Anderson",
+"Christian Tetteh Duamor",
+"Anna Czupryna",
+"Kennedy Lushasi",
+"Elaine Ferguson",
+"Emmanuel S. Swai",
+"Maganga Sambo",
+"Jonathan Yoder",
+"Sarah Cleaveland",
+"Sally Wyke",
+"Benezeth Lutege Malinda",
+"Paul C. D. Johnson",
+"Katie Hampson"
+]
+]
+},
+"rotavirusrv1andpneumococcalpcv13vaccinationreducecolonizationwithextendedspectru": {
+"title": "Rotavirus (RV1) and pneumococcal (PCV13) vaccination reduce colonization with extended-spectrum cephalosporin-resistant Enterobacterales (ESCrE) in Guatemalan children",
+"authors": [
+"B. M. Ramay",
+"Jonathan K. Yoder",
+"C. Castillo",
+"N. Fahsen",
+"L. Grajeda",
+"L. Santos",
+"J. C. Romero",
+"M. R. Lopez",
+"G. H. Palmer",
+"C. Cordon-Rosales",
+"D. R. Call"
+],
+"unresolved": [
+"B. M. Ramay",
+"C. Castillo",
+"N. Fahsen",
+"L. Grajeda",
+"L. Santos",
+"J. C. Romero",
+"M. R. Lopez",
+"G. H. Palmer",
+"C. Cordon-Rosales"
+],
+"owners": [
+"jonathan-yoder"
+],
+"remote": []
+},
+"mitigatinggroundwaterimpactsofresidentialwellsthroughsmallscaledistributedstorag": {
+"title": "Mitigating Groundwater Impacts of Residential Wells through Small-Scale Distributed Storage in the Skagit River Basin",
+"authors": [
+"M. P. Brady",
+"J. Padowski",
+"Jonathan K. Yoder",
+"E. Jessup",
+"D. Christensen",
+"Q. Yang",
+"B. Anderson"
+],
+"unresolved": [
+"E. Jessup",
+"D. Christensen",
+"Q. Yang",
+"B. Anderson"
+],
+"owners": [
+"jonathan-yoder",
+"michael-brady"
+],
+"remote": []
+},
+"benefitcostanalysisofintegratedwaterresourcemanagementaccountingforinterdependen": {
+"title": "Benefit-Cost Analysis of Integrated Water Resource Management: Accounting for Interdependence in the Yakima Basin Integrated Plan",
+"authors": [
+"Jonathan K. Yoder",
+"J. Adam",
+"M. Brady",
+"J. Cook",
+"S. Katz",
+"S. Johnston",
+"K. Malek",
+"J. McMillan",
+"Q. Yang"
+],
+"unresolved": [
+"M. Brady",
+"S. Katz",
+"S. Johnston",
+"J. McMillan",
+"Q. Yang"
+],
+"owners": [
+"jonathan-yoder"
+],
+"remote": []
+},
+"antimicrobialstewardshipthroughaonehealthlens": {
+"title": "Antimicrobial stewardship through a one health lens",
+"authors": [
+"M. A. D'Angeli",
+"J. B. Baker",
+"D. R. Call",
+"M. A. Davis",
+"K. J. Kauber",
+"U. Malhotra",
+"G. T. Matsuura",
+"D. A. Moore",
+"C. Porter",
+"P. Pottinger"
+],
+"unresolved": [
+"M. A. D'Angeli",
+"J. B. Baker",
+"M. A. Davis",
+"K. J. Kauber",
+"U. Malhotra",
+"G. T. Matsuura",
+"D. A. Moore",
+"C. Porter",
+"P. Pottinger"
+],
+"owners": [
+"jonathan-yoder"
+],
+"remote": []
+},
+"linkinghumanhealthandlivestockhealthaonehealthplatformforintegratedanalysisofhum": {
+"title": "Linking human health and livestock health: a \"one-health\" platform for integrated analysis of human health, livestock health, and economic welfare in livestock dependent communities",
+"authors": [
+"T. Mwangi",
+"M. K. Njenga",
+"T. L. Marsh",
+"S. Noh",
+"E. Otiang",
+"P. Munyua",
+"L. Ochieng",
+"E. Ogola",
+"Jonathan K. Yoder",
+"A. Audi"
+],
+"unresolved": [
+"T. Mwangi",
+"M. K. Njenga",
+"S. Noh",
+"P. Munyua",
+"L. Ochieng",
+"E. Ogola",
+"A. Audi"
+],
+"owners": [
+"jonathan-yoder"
+],
+"remote": []
+},
+"effectsofhouseholdcompositionandincomesecurityonbodyweightinworkingagemen": {
+"title": "Effects of household composition and income security on body weight in working-age men",
+"authors": [
+"M. G. Barnes",
+"T. G. Smith",
+"Jonathan K. Yoder"
+],
+"unresolved": [
+"M. G. Barnes",
+"T. G. Smith"
+],
+"owners": [
+"jonathan-yoder"
+],
+"remote": []
+},
+"economicandenvironmentalimpactsofwashingtonstatebiofuelpolicyalternatives": {
+"title": "Economic and environmental impacts of Washington State biofuel policy alternatives",
+"authors": [
+"M. McCullough",
+"D. Holland",
+"K. Painter",
+"L. Stodick",
+"Jonathan K. Yoder"
+],
+"unresolved": [
+"M. McCullough",
+"D. Holland",
+"K. Painter",
+"L. Stodick"
+],
+"owners": [
+"jonathan-yoder"
+],
+"remote": []
+},
+"willwashingtonprovideitsownfeedstocksforbiofuels": {
+"title": "Will Washington Provide Its Own Feedstocks for Biofuels?",
+"authors": [
+"S. P. Galinato",
+"D. L. Young",
+"C. S. Frear",
+"Jonathan K. Yoder"
+],
+"unresolved": [
+"D. L. Young",
+"C. S. Frear"
+],
+"owners": [
+"jonathan-yoder"
+],
+"remote": []
+},
+"effectsofgenericadvertisementondemandthecaseofthewashingtonapplecommission": {
+"title": "Effects of Generic Advertisement on Demand: The Case of the Washington Apple Commission",
+"authors": [
+"E. Wilmot",
+"H. Chouinard",
+"Jonathan K. Yoder",
+"T. Schotzko"
+],
+"unresolved": [
+"E. Wilmot",
+"H. Chouinard",
+"T. Schotzko"
+],
+"owners": [
+"jonathan-yoder"
+],
+"remote": []
+},
+"estimatingthespeedofmarketreactiontonewsmarketeventsandlumberfuturesprices": {
+"title": "Estimating the speed of market reaction to news: Market events and lumber futures prices",
+"authors": [
+"R. Rucker",
+"W. Thurman",
+"Jonathan K. Yoder"
+],
+"unresolved": [
+"R. Rucker",
+"W. Thurman"
+],
+"owners": [
+"jonathan-yoder"
+],
+"remote": []
+},
+"thepoliticaleconomyofriverratsandidahosfourriverswhitewaterraftinglottery": {
+"title": "The political economy of river rats and Idaho's Four Rivers whitewater rafting lottery",
+"authors": [
+"H. Chouinard",
+"Jonathan K. Yoder"
+],
+"unresolved": [
+"H. Chouinard"
+],
+"owners": [
+"jonathan-yoder"
 ],
 "remote": []
 },
@@ -14792,6 +18679,25 @@
 "owners": [
 "joon-y-park",
 "yoosoon-chang"
+],
+"remote": []
+},
+"timevaryinglongrunincomeandoutputelasticitiesofelectricitydemandwithanapplicatio": {
+"title": "Time-Varying Longrun Income and Output Elasticities of Electricity Demand with an Application to Korea",
+"authors": [
+"Joon Y. Park",
+"Y. Chang",
+"C. Kim",
+"I.J. Miller",
+"S. Park"
+],
+"unresolved": [
+"C. Kim"
+],
+"owners": [
+"joon-y-park",
+"yoosoon-chang",
+"zack-j-isaac-miller"
 ],
 "remote": []
 },
@@ -15089,20 +18995,6 @@
 "Gabrielle Vasey"
 ]
 ]
-},
-"howmuchcanweidentifyfromrepeatedgames": {
-"title": "How Much Can We Identify From Repeated Games?",
-"authors": [
-"J. M. Abito",
-"C. Chen"
-],
-"unresolved": [
-"C. Chen"
-],
-"owners": [
-"jose-miguel-abito"
-],
-"remote": []
 },
 "theeffectsofhumancapitalaccumulationonclimatebeliefsandbehaviors": {
 "title": "The Effects of Human Capital Accumulation on Climate Beliefs and Behaviors",
@@ -15653,6 +19545,81 @@
 ]
 ]
 },
+"localresponsetoglobaluncertaintyinsightsfromexperimentaleconomicsinsmallscalefis": {
+"title": "Local response to global uncertainty: Insights from experimental economics in small-scale fisheries",
+"authors": [
+"E. M. Finkbeiner",
+"F. Micheli",
+"A. Saenz-Arroyo",
+"L. Vazquez-Vera",
+"C. A. Perafan",
+"J. C. Cárdenas"
+],
+"unresolved": [
+"C. A. Perafan"
+],
+"owners": [
+"juan-camilo-cardenas"
+],
+"remote": [
+[
+"E.M. Finkbeiner",
+"F. Micheli",
+"A. Saenz-Arroyo",
+"L. Vazquez-Vera",
+"C.A. Perafan",
+"J.C. Cárdenas"
+]
+]
+},
+"thehiddenfaceofjusticefairnessdiscriminationanddistributionintransitionaljustice": {
+"title": "The Hidden Face of Justice: Fairness, Discrimination and Distribution in Transitional Justice Processes",
+"authors": [
+"J. C. Cardenas",
+"N. Mendez",
+"A. Casas"
+],
+"unresolved": [
+"N. Mendez",
+"A. Casas"
+],
+"owners": [
+"juan-camilo-cardenas"
+],
+"remote": []
+},
+"statedsocialbehaviorandrevealedactionsevidencefromsixlatinamericancountries": {
+"title": "Stated social behavior and revealed actions: Evidence from six Latin American countries",
+"authors": [
+"J. C. Cardenas",
+"A. Chong",
+"H. Ñopo"
+],
+"unresolved": [
+"A. Chong",
+"H. Ñopo"
+],
+"owners": [
+"juan-camilo-cardenas"
+],
+"remote": []
+},
+"towhatextentdolatinamericanstrustreciprocateandcooperateevidencefromexperimentsi": {
+"title": "To What Extent Do Latin Americans Trust, Reciprocate, and Cooperate? Evidence from Experiments in Six Latin American Countries",
+"authors": [
+"J. C. Cardenas",
+"H. Ñopo",
+"A. Chong"
+],
+"unresolved": [
+"H. Ñopo",
+"A. Chong"
+],
+"owners": [
+"juan-camilo-cardenas"
+],
+"remote": []
+},
 "horizonandfreeriderproblemsincooperativeorganizations": {
 "title": "Horizon and Free-Rider Problems in Cooperative Organizations",
 "authors": [
@@ -15735,6 +19702,101 @@
 ],
 "owners": [
 "juan-pablo-sesmero"
+],
+"remote": []
+},
+"negativeemotionsincreaseunhealthyeatingevidencefromthewuhanlockdownduringcovid19": {
+"title": "Negative Emotions Increase Unhealthy Eating: Evidence from the Wuhan Lockdown during COVID-19",
+"authors": [
+"X. Cai",
+"J. Wu",
+"W. Xu",
+"J. Zhu"
+],
+"unresolved": [
+"X. Cai",
+"W. Xu",
+"J. Zhu"
+],
+"owners": [
+"junjie-wu"
+],
+"remote": []
+},
+"efficiencyequitytradeoffsintargetingpaymentsforecosystemservices": {
+"title": "Efficiency-Equity Tradeoffs in Targeting Payments for Ecosystem Services",
+"authors": [
+"J. Wu",
+"J. Yu"
+],
+"unresolved": [
+"J. Yu"
+],
+"owners": [
+"junjie-wu"
+],
+"remote": []
+},
+"ruralurbaninterdependencyaframeworkintegratingregionalurbanandenvironmentalecono": {
+"title": "Rural-Urban Interdependency: A Framework Integrating Regional, Urban and Environmental Economic Insights",
+"authors": [
+"J. Wu",
+"B. Weber",
+"M. Partridge"
+],
+"unresolved": [
+"B. Weber"
+],
+"owners": [
+"junjie-wu"
+],
+"remote": []
+},
+"optimallocationsizeandbudgetofopenspaceconservation": {
+"title": "Optimal Location, Size and Budget of Open Space Conservation",
+"authors": [
+"J. Wu",
+"W. Xu",
+"R. Alig"
+],
+"unresolved": [
+"W. Xu",
+"R. Alig"
+],
+"owners": [
+"junjie-wu"
+],
+"remote": []
+},
+"locationalamenitiesincreasingreturnsandurbandevelopment": {
+"title": "Locational Amenities, Increasing Returns, and Urban Development",
+"authors": [
+"C. Wang",
+"J. Wu"
+],
+"unresolved": [
+"C. Wang"
+],
+"owners": [
+"junjie-wu"
+],
+"remote": []
+},
+"frommicroleveldecisionstolandscapechangesanassessmentofagriculturalconservationp": {
+"title": "From Micro-Level Decisions to Landscape Changes: An Assessment of Agricultural Conservation Policies",
+"authors": [
+"J. Wu",
+"R.M. Adams",
+"C.L. Kling",
+"K. Tanaka"
+],
+"unresolved": [
+"R.M. Adams",
+"C.L. Kling",
+"K. Tanaka"
+],
+"owners": [
+"junjie-wu"
 ],
 "remote": []
 },
@@ -16591,6 +20653,63 @@
 ],
 "remote": []
 },
+"agricultureandclimatechangeanassessmentofincreasedclimatevariability": {
+"title": "Agriculture and Climate Change: An Assessment of Increased Climate Variability",
+"authors": [
+"B. L. Dixon",
+"Kathleen Segerson"
+],
+"unresolved": [
+"B. L. Dixon"
+],
+"owners": [
+"kathleen-segerson"
+],
+"remote": []
+},
+"preventionvstreatmentinthedesignofenvironmentalpolicy": {
+"title": "Prevention vs. Treatment in the Design of Environmental Policy",
+"authors": [
+"J. Barrett",
+"Kathleen Segerson"
+],
+"unresolved": [
+"J. Barrett"
+],
+"owners": [
+"kathleen-segerson"
+],
+"remote": []
+},
+"thecostofproductliabilityforsmallvslargefirms": {
+"title": "The Cost of Product Liability for Small vs. Large Firms",
+"authors": [
+"T.J. Miceli",
+"Kathleen Segerson",
+"A.W. Wright"
+],
+"unresolved": [
+"A.W. Wright"
+],
+"owners": [
+"kathleen-segerson"
+],
+"remote": []
+},
+"aggregateanalysisofsitespecificpollutionproblemsthecaseofgroundwatercontaminatio": {
+"title": "Aggregate Analysis of Site-Specific Pollution Problems: The Case of Groundwater Contamination from Agricultural Chemicals",
+"authors": [
+"J.J. Opaluch",
+"Kathleen Segerson"
+],
+"unresolved": [
+"J.J. Opaluch"
+],
+"owners": [
+"kathleen-segerson"
+],
+"remote": []
+},
 "landcoverchangeeffectsfromcommunityforestmanagementinmichoacnmexico": {
 "title": "Land cover change effects from community forest management in Michoacán, Mexico.",
 "authors": [
@@ -17129,6 +21248,30 @@
 ],
 "owners": [
 "katrina-jessoe"
+],
+"remote": []
+},
+"characterizationoftoxicairpollutantsinhongkongchinalongtermtrendsandhealthriskas": {
+"title": "Characterization of Toxic Air Pollutants in Hong Kong, China: Long-term Trends and Health Risk Assessments",
+"authors": [
+"K.Y. Wong",
+"W.W. Chan",
+"D. Gu",
+"J.Z. Yu",
+"T.W. Wong",
+"K.J.D. Chan",
+"A.K.H. Lau"
+],
+"unresolved": [
+"K.Y. Wong",
+"W.W. Chan",
+"D. Gu",
+"J.Z. Yu",
+"T.W. Wong",
+"A.K.H. Lau"
+],
+"owners": [
+"keith-jin-deng-chan"
 ],
 "remote": []
 },
@@ -17989,6 +22132,623 @@
 ]
 ]
 },
+"behavioralnudgesinconservationauctionsafieldexperimentwithusfarmers": {
+"title": "Behavioral Nudges in Conservation Auctions: A Field Experiment with U.S. Farmers",
+"authors": [
+"S. Wallander",
+"L.A. Paul",
+"P.J. Ferraro",
+"K.D. Messer",
+"R. Iovanna"
+],
+"unresolved": [
+"S. Wallander",
+"K.D. Messer"
+],
+"owners": [
+"kent-messer"
+],
+"remote": []
+},
+"consumerperceptionsafterlongtermuseofalternativeirrigationwaterafieldexperimenti": {
+"title": "Consumer Perceptions After Long Term Use of Alternative Irrigation Water: A Field Experiment in Israel",
+"authors": [
+"S.F. Ellis",
+"M. Kecinski",
+"K.D. Messer",
+"C. Lipchin"
+],
+"unresolved": [
+"K.D. Messer",
+"C. Lipchin"
+],
+"owners": [
+"kent-messer"
+],
+"remote": []
+},
+"nudgeorsludgeanexperimentalgameillustratinghowmisunderstoodscientificinformation": {
+"title": "Nudge or Sludge? An Experimental Game Illustrating How Misunderstood Scientific Information Can Change Consumer Behavior",
+"authors": [
+"L.A. Paul",
+"O. Savchenko",
+"M. Kecinski",
+"K.D. Messer"
+],
+"unresolved": [
+"K.D. Messer"
+],
+"owners": [
+"kent-messer"
+],
+"remote": []
+},
+"barrierstousingeconomicexperimentsinevidencebasedagriculturalpolicymaking": {
+"title": "Barriers to Using Economic Experiments in Evidence-Based Agricultural Policymaking",
+"authors": [
+"S. Rosch",
+"S.R. Skorbiansky",
+"C. Weigel",
+"K.D. Messer",
+"D. Hellerstein"
+],
+"unresolved": [
+"S. Rosch",
+"S.R. Skorbiansky",
+"K.D. Messer"
+],
+"owners": [
+"kent-messer"
+],
+"remote": []
+},
+"challengesinrecruitingusfarmersforpolicyrelevanteconomicfieldexperiments": {
+"title": "Challenges in Recruiting U.S. Farmers for Policy-Relevant Economic Field Experiments",
+"authors": [
+"C. Weigel",
+"L.A. Paul",
+"P.J. Ferraro",
+"K.D. Messer"
+],
+"unresolved": [
+"K.D. Messer"
+],
+"owners": [
+"kent-messer",
+"paul-j-ferraro"
+],
+"remote": []
+},
+"experimentalandbehavioraleconomicstoinformagrienvironmentalprogramsandpolicies": {
+"title": "Experimental and Behavioral Economics to Inform Agri-Environmental Programs and Policies",
+"authors": [
+"L.H. Palm-Forster",
+"K. D. Messer"
+],
+"unresolved": [
+"L.H. Palm-Forster",
+"K. D. Messer"
+],
+"owners": [
+"kent-messer",
+"leah-palm-forster"
+],
+"remote": []
+},
+"payingamericanstotakethevaccinewouldithelporbackfire": {
+"title": "Paying Americans to Take the Vaccine--Would it Help or Backfire?",
+"authors": [
+"C. Robertson",
+"D. Scheitrum",
+"A. Schaefer",
+"T. Malone",
+"B.R. McFadden",
+"P.J. Ferraro",
+"K.D. Messer"
+],
+"unresolved": [
+"C. Robertson",
+"D. Scheitrum",
+"A. Schaefer",
+"K.D. Messer"
+],
+"owners": [
+"kent-messer",
+"paul-j-ferraro"
+],
+"remote": []
+},
+"theproblemofferalhogsandthechallengesofprovidingaweaklinkpublicgood": {
+"title": "The Problem of Feral Hogs and the Challenges of Providing a Weak-link Public Good",
+"authors": [
+"S.F. Ellis",
+"M. Masters",
+"K.D. Messer",
+"C. Weigel",
+"P.J. Ferraro"
+],
+"unresolved": [
+"K.D. Messer"
+],
+"owners": [
+"kent-messer",
+"paul-j-ferraro"
+],
+"remote": []
+},
+"isthisfoodlocalevidencefromaframedfieldexperiment": {
+"title": "Is This Food `Local'? Evidence from a Framed Field Experiment",
+"authors": [
+"T. Li",
+"Ahsanuzzaman",
+"K.D. Messer"
+],
+"unresolved": [
+"K.D. Messer"
+],
+"owners": [
+"kent-messer"
+],
+"remote": []
+},
+"toscanornottoscanthequestionofconsumerbehaviorandqrcodesonfoodpackages": {
+"title": "To Scan or Not to Scan: The Question of Consumer Behavior and QR Codes on Food Packages",
+"authors": [
+"T. Li",
+"K.D. Messer"
+],
+"unresolved": [
+"T. Li",
+"K.D. Messer"
+],
+"owners": [
+"kent-messer"
+],
+"remote": []
+},
+"behavioralresponsestosciencebasedecolabelinggoldsilverorbronze": {
+"title": "Behavioral Responses to Science-based Eco-labeling: Gold, Silver, or Bronze",
+"authors": [
+"T. Li",
+"M. Kecinski",
+"K.D. Messer"
+],
+"unresolved": [
+"K.D. Messer"
+],
+"owners": [
+"kent-messer"
+],
+"remote": []
+},
+"measuringstigmathebehavioralresponsetodrinkingcockroachcontaminatedwater": {
+"title": "Measuring Stigma: The Behavioral Response to Drinking Cockroach Contaminated Water",
+"authors": [
+"M. Kecinski",
+"D. Kerley",
+"K.D. Messer",
+"W.D. Schulze"
+],
+"unresolved": [
+"D. Kerley",
+"K.D. Messer"
+],
+"owners": [
+"kent-messer"
+],
+"remote": []
+},
+"agriculturalpreservationprofessionalsperceptionandattitudesaboutcosteffectivelan": {
+"title": "Agricultural Preservation Professionals' Perception and Attitudes about Cost-effective Land Selection Methods",
+"authors": [
+"K.D. Messer",
+"W. Allen",
+"M. Kecinski",
+"C. Chen"
+],
+"unresolved": [
+"K.D. Messer",
+"W. Allen",
+"C. Chen"
+],
+"owners": [
+"kent-messer"
+],
+"remote": []
+},
+"stigmamitigationandtheimportanceofredundanttreatments": {
+"title": "Stigma Mitigation and the Importance of Redundant Treatments",
+"authors": [
+"M. Kecinski",
+"D. Kerley",
+"K.D. Messer",
+"W.D. Schulze"
+],
+"unresolved": [
+"D. Kerley"
+],
+"owners": [
+"kent-messer"
+],
+"remote": [
+[
+"Maik Kecinski",
+"Deborah Kerley Keisner",
+"Kent D. Messer",
+"William D. Schulze"
+]
+]
+},
+"theimpactofinformationonbehaviorunderanambientbasedpolicyforregulatingnonpointso": {
+"title": "The Impact of Information on Behavior Under an Ambient-based Policy for Regulating Nonpoint Source Pollution",
+"authors": [
+"H. Miao",
+"J. Fooks",
+"T. Guilfoos",
+"K.D. Messer",
+"S.M. Pradhanang",
+"J. Suter",
+"S. Trandafir",
+"E. Uchida"
+],
+"unresolved": [
+"J. Fooks",
+"K.D. Messer",
+"S.M. Pradhanang"
+],
+"owners": [
+"kent-messer"
+],
+"remote": []
+},
+"applyingexperimentaleconomicstolandeconomicspublicinformationandauctionefficienc": {
+"title": "Applying Experimental Economics to Land Economics: Public Information and Auction Efficiency in Land Preservation Markets",
+"authors": [
+"K.D. Messer",
+"J. Duke",
+"L. Lynch"
+],
+"unresolved": [
+"K.D. Messer"
+],
+"owners": [
+"kent-messer"
+],
+"remote": []
+},
+"behavioralresponsetocontaminationriskinformationinaspatiallyexplicitgroundwatere": {
+"title": "Behavioral Response to Contamination Risk Information in a Spatially Explicit Groundwater Environment: Experimental Evidence",
+"authors": [
+"J. Li",
+"J. Michael",
+"J. Duke",
+"K.D. Messer",
+"J. Suter"
+],
+"unresolved": [
+"J. Michael"
+],
+"owners": [
+"kent-messer"
+],
+"remote": [
+[
+"Jingyuan Li",
+"Holly A. Michael",
+"Joshua M. Duke",
+"Kent D. Messer",
+"Jordan F. Suter"
+]
+]
+},
+"measuringandmitigatinghivstigmaaframedfieldexperiment": {
+"title": "Measuring and Mitigating HIV Stigma: A Framed Field Experiment",
+"authors": [
+"V. Hoffman",
+"J. Fooks",
+"K.D. Messer"
+],
+"unresolved": [
+"V. Hoffman",
+"J. Fooks",
+"K.D. Messer"
+],
+"owners": [
+"kent-messer"
+],
+"remote": []
+},
+"prioritizingpaymentforenvironmentalservicesusingnonmarketbenefitsforoptimalselec": {
+"title": "Prioritizing Payment for Environmental Services: Using Nonmarket Benefits for Optimal Selection",
+"authors": [
+"J.D. Duke",
+"S.J. Dundas",
+"R.J. Johnston",
+"K.D. Messer"
+],
+"unresolved": [
+"J.D. Duke",
+"K.D. Messer"
+],
+"owners": [
+"kent-messer"
+],
+"remote": []
+},
+"adverseselectioninreverseauctionsforenvironmentalservices": {
+"title": "Adverse Selection in Reverse Auctions for Environmental Services",
+"authors": [
+"M. Arnold",
+"J.M. Duke",
+"K.D. Messer"
+],
+"unresolved": [
+"M. Arnold",
+"K.D. Messer"
+],
+"owners": [
+"kent-messer"
+],
+"remote": []
+},
+"incentiveeffectsofparentstransferstochildrenevidencefromanartefactualfieldexperi": {
+"title": "Incentive Effects of Parents' Transfers to Children: Evidence from an Artefactual Field Experiment",
+"authors": [
+"A.S. Unur",
+"H.E. Peters",
+"K.D. Messer",
+"W.D. Schulze"
+],
+"unresolved": [
+"A.S. Unur",
+"H.E. Peters",
+"K.D. Messer"
+],
+"owners": [
+"kent-messer"
+],
+"remote": []
+},
+"mathematicalprogrammingapplicationstolandconservationandenvironmentalquality": {
+"title": "Mathematical Programming Applications to Land Conservation and Environmental Quality",
+"authors": [
+"J.R. Fooks",
+"K.D. Messer"
+],
+"unresolved": [
+"K.D. Messer"
+],
+"owners": [
+"kent-messer"
+],
+"remote": []
+},
+"newhopeforthevoluntarycontributionmechanismtheeffectsofcontext": {
+"title": "New Hope for the Voluntary Contribution Mechanism: The Effects of Context",
+"authors": [
+"K.D. Messer",
+"H. Zarghamee",
+"H.M. Kaiser",
+"W.D. Schulze"
+],
+"unresolved": [
+"K.D. Messer",
+"H. Zarghamee"
+],
+"owners": [
+"kent-messer"
+],
+"remote": []
+},
+"optimalinstitutiondesignsforgenericadvertisinganexperimentalanalysis": {
+"title": "Optimal Institution Designs for Generic Advertising: An Experimental Analysis",
+"authors": [
+"K.D. Messer",
+"T.M. Schmit",
+"H.M. Kaiser"
+],
+"unresolved": [
+"K.D. Messer",
+"T.M. Schmit"
+],
+"owners": [
+"kent-messer"
+],
+"remote": []
+},
+"enforcingtherulesintimberconcessionsperformancebondinginthepresenceofcorruptionr": {
+"title": "Enforcing the Rules in Timber Concessions: Performance Bonding in the Presence of Corruption Risk",
+"authors": [
+"O. Pekka-Kuusela",
+"G. Amacher",
+"Klaus Moeltner"
+],
+"unresolved": [
+"O. Pekka-Kuusela"
+],
+"owners": [
+"klaus-moeltner"
+],
+"remote": [
+[
+"Olli-Pekka Kuusela",
+"Gregory S. Amacher",
+"Klaus Moeltner"
+]
+]
+},
+"electricitysupplysecurityservicevaluationandpublicperceptionofenergyinfrastructu": {
+"title": "Electricity Supply Security, Service Valuation and Public Perception of Energy Infrastructures",
+"authors": [
+"J. Cohen",
+"Klaus Moeltner",
+"J. Reichl",
+"M. Schmidthaler"
+],
+"unresolved": [
+"J. Cohen"
+],
+"owners": [
+"klaus-moeltner"
+],
+"remote": []
+},
+"lengthofresidencyandwateruseinanaridurbanenvironment": {
+"title": "Length of Residency and Water Use in an Arid Urban Environment",
+"authors": [
+"V. Vinoles",
+"Klaus Moeltner",
+"S. Stoddard"
+],
+"unresolved": [
+"V. Vinoles"
+],
+"owners": [
+"klaus-moeltner"
+],
+"remote": []
+},
+"crosscontextbenefittransferabayesiansearchforinformationpools": {
+"title": "Cross-Context Benefit Transfer: A Bayesian Search for Information Pools",
+"authors": [
+"Klaus Moeltner",
+"R.S. Rosenberger"
+],
+"unresolved": [
+"R.S. Rosenberger"
+],
+"owners": [
+"klaus-moeltner"
+],
+"remote": []
+},
+"wildfiresmokeandhealthimpactsacloserlookatfireattributesandtheirmarginaleffects": {
+"title": "Wildfire Smoke and Health Impacts: A Closer Look at Fire Attributes and their Marginal Effects",
+"authors": [
+"Klaus Moeltner",
+"M.K. Kim",
+"E. Zhu",
+"W. Yang"
+],
+"unresolved": [
+"E. Zhu"
+],
+"owners": [
+"klaus-moeltner"
+],
+"remote": [
+[
+"K. Moeltner",
+"M.-K. Kim",
+"E. Zhu",
+"W. Yang"
+]
+]
+},
+"interceptandrecallexaminingaviditycarryoverinonsitecollectedtripreports": {
+"title": "Intercept and Recall: Examining Avidity Carryover in On-Site Collected Trip Reports",
+"authors": [
+"Klaus Moeltner",
+"J. S. Shonkwiler"
+],
+"unresolved": [
+"J. S. Shonkwiler"
+],
+"owners": [
+"klaus-moeltner"
+],
+"remote": []
+},
+"benefittransferfrommultiplecontingentexperimentsaflexibletwostepmodelcombiningin": {
+"title": "Benefit Transfer from Multiple Contingent Experiments: A Flexible Two-Step Model Combining Individual Choice Data with Community Characteristics",
+"authors": [
+"Klaus Moeltner",
+"R. Johnston",
+"R. S. Rosenberger",
+"J. M. Duke"
+],
+"unresolved": [
+"R. S. Rosenberger",
+"J. M. Duke"
+],
+"owners": [
+"klaus-moeltner"
+],
+"remote": []
+},
+"metaregressionandbenefittransferdataspacemodelspaceandthequestforoptimalscope": {
+"title": "Meta-Regression and Benefit Transfer: Data Space, Model Space, and the Quest for 'Optimal Scope'",
+"authors": [
+"Klaus Moeltner",
+"R. S. Rosenberger"
+],
+"unresolved": [
+"R. S. Rosenberger"
+],
+"owners": [
+"klaus-moeltner"
+],
+"remote": []
+},
+"consumerriskperceptionandpurchasepropensityforgeneticallymodifiedfoodsinromania": {
+"title": "Consumer Risk Perception and Purchase Propensity for Genetically Modified Foods in Romania",
+"authors": [
+"K. R. Curtis",
+"Klaus Moeltner"
+],
+"unresolved": [
+"K. R. Curtis"
+],
+"owners": [
+"klaus-moeltner"
+],
+"remote": []
+},
+"geneticallymodifiedfoodmarketparticipationandconsumerriskperceptionsacrosscountr": {
+"title": "Genetically Modified Food Market Participation and Consumer Risk Perceptions: A Cross-Country Comparison",
+"authors": [
+"K. R. Curtis",
+"Klaus Moeltner"
+],
+"unresolved": [
+"K. R. Curtis"
+],
+"owners": [
+"klaus-moeltner"
+],
+"remote": []
+},
+"correctingforonsitesamplinginrandomutilitymodels": {
+"title": "Correcting for On-Site Sampling in Random Utility Models",
+"authors": [
+"Klaus Moeltner",
+"J. S. Shonkwiler"
+],
+"unresolved": [
+"J. S. Shonkwiler"
+],
+"owners": [
+"klaus-moeltner"
+],
+"remote": []
+},
+"creatingcarbonoffsetsinagriculturethroughzerotillageametaanalysisofcostsandcarbo": {
+"title": "Creating Carbon Offsets in Agriculture through Zero Tillage: A Meta-Analysis of Costs and Carbon Benefits",
+"authors": [
+"J. Manley",
+"G. C. van Kooten",
+"Klaus Moeltner",
+"D. W. Johnson"
+],
+"unresolved": [
+"J. Manley",
+"D. W. Johnson"
+],
+"owners": [
+"klaus-moeltner"
+],
+"remote": []
+},
 "microplasticexposuredisparitiesincaliforniacommunitiesthroughbottledwaterconsump": {
 "title": "Microplastic Exposure Disparities in California Communities Through Bottled Water Consumption",
 "authors": [
@@ -18336,6 +23096,320 @@
 ],
 "remote": []
 },
+"confrontingouragriculturalnonpointsourceincentiveproblem": {
+"title": "Confronting our Agricultural Nonpoint Source Incentive Problem",
+"authors": [
+"Kurt Stephenson",
+"L. Shabman",
+"J. Shortle",
+"Z. Easton"
+],
+"unresolved": [
+"J. Shortle"
+],
+"owners": [
+"kurt-stephenson"
+],
+"remote": []
+},
+"opportunitiesandchallengesforincludingoystermediatedenitrificationinnitrogenmana": {
+"title": "Opportunities and Challenges for Including Oyster-Mediate Denitrification in Nitrogen Management Plans",
+"authors": [
+"J.M. Rose",
+"J.S. Gosnell",
+"S. Bricker",
+"M.J. Brush",
+"A. Colden",
+"L. Harris",
+"E. Karplus",
+"A. Laferriere",
+"N.H. Merrill",
+"T.B. Murphy",
+"J. Reitsma",
+"J. Shockley",
+"Kurt Stephenson",
+"S. Theuerkauf",
+"D. Ward",
+"R.W. Fulweiler"
+],
+"unresolved": [
+"J.M. Rose",
+"J.S. Gosnell",
+"S. Bricker",
+"M.J. Brush",
+"A. Colden",
+"L. Harris",
+"E. Karplus",
+"A. Laferriere",
+"N.H. Merrill",
+"T.B. Murphy",
+"J. Reitsma",
+"J. Shockley",
+"S. Theuerkauf",
+"D. Ward",
+"R.W. Fulweiler"
+],
+"owners": [
+"kurt-stephenson"
+],
+"remote": []
+},
+"ananalysisofstormwaterutilityincentiveprogramsinthechesapeakebay": {
+"title": "An Analysis of Stormwater Utility Incentive Programs in the Chesapeake Bay",
+"authors": [
+"G. Gonzalez",
+"A. Mosley",
+"Kurt Stephenson"
+],
+"unresolved": [
+"G. Gonzalez",
+"A. Mosley"
+],
+"owners": [
+"kurt-stephenson"
+],
+"remote": []
+},
+"nutrientbioextraction": {
+"title": "Nutrient Bioextraction",
+"authors": [
+"J. Rose",
+"S. Becker",
+"S. Deonarine",
+"J. Ferreira",
+"T. Getchis",
+"J. Grant",
+"J. Kim",
+"J. Krumholz",
+"G. Kraemer",
+"Kurt Stephenson",
+"G. Wikfors",
+"C. Yarish"
+],
+"unresolved": [
+"S. Becker"
+],
+"owners": [
+"kurt-stephenson"
+],
+"remote": [
+[
+"Julie M. Rose",
+"Suzanne B. Bricker",
+"Sarah Deonarine",
+"Joao G. Ferreira",
+"Tessa Getchis",
+"Jon Grant",
+"Jang K. Kim",
+"Jason S. Krumholz",
+"George P. Kraemer",
+"Kurt Stephenson",
+"Gary H. Wikfors",
+"Charles Yarish"
+]
+]
+},
+"subdivisioninfrastructureaffectingstormwaterrunoffandresidentialpropertyvalues": {
+"title": "Subdivision Infrastructure Affecting Stormwater Runoff and Residential Property Values",
+"authors": [
+"J. Boatwright",
+"Kurt Stephenson",
+"K. Boyle",
+"S. Nienow"
+],
+"unresolved": [
+"J. Boatwright",
+"K. Boyle",
+"S. Nienow"
+],
+"owners": [
+"kurt-stephenson"
+],
+"remote": []
+},
+"effectofaquaculturedoysterbiodepositiononsedimentn2productioninthechesapeakebay": {
+"title": "Effect of Aquacultured Oyster Biodeposition on Sediment N2 Production in the Chesapeake Bay",
+"authors": [
+"C. B. Higgins",
+"C. Tobias",
+"M. F. Piehler",
+"A. R Smyth",
+"R. F. Dame",
+"Kurt Stephenson",
+"Bonnie L. Brown"
+],
+"unresolved": [
+"C. B. Higgins",
+"C. Tobias",
+"M. F. Piehler",
+"A. R Smyth",
+"R. F. Dame"
+],
+"owners": [
+"kurt-stephenson"
+],
+"remote": []
+},
+"nutrientbioassimilativecapacityofaquaculturedoystersquantificationofanecosystems": {
+"title": "Nutrient bio-assimilative Capacity of Aquacultured Oysters: Quantification of an Ecosystem Service",
+"authors": [
+"C.B. Higgins",
+"Kurt Stephenson",
+"B.L. Brown"
+],
+"unresolved": [
+"C.B. Higgins",
+"B.L. Brown"
+],
+"owners": [
+"kurt-stephenson"
+],
+"remote": []
+},
+"thegrowingsupplyofecolabeledseafoodaneconomicperspective": {
+"title": "The Growing Supply of Ecolabeled Seafood: An Economic Perspective",
+"authors": [
+"N.V. Kuminoff",
+"D.J. Bosch",
+"D. Kauffman",
+"J.C. Pope",
+"Kurt Stephenson"
+],
+"unresolved": [
+"N.V. Kuminoff",
+"D. Kauffman",
+"J.C. Pope"
+],
+"owners": [
+"kurt-stephenson"
+],
+"remote": []
+},
+"approachestotmdlplanningandimplementationandpolicytoolsforimplementationtoachiev": {
+"title": "Approaches to TMDL Planning and Implementation and Policy Tools for Implementation to Achieve Water Quality Standards",
+"authors": [
+"J.B. Jesiek",
+"B.L. Benham",
+"D. Bosch",
+"Kurt Stephenson"
+],
+"unresolved": [
+"J.B. Jesiek",
+"B.L. Benham"
+],
+"owners": [
+"kurt-stephenson"
+],
+"remote": [
+[
+"J. B. Jesiek",
+"B. L. Benham",
+"D. J. Bosch",
+"K. Stephenson"
+]
+]
+},
+"comparisonsoftheeducationalvalueofdistanceversustraditionalclassroominstructioni": {
+"title": "Comparisons of the Educational Value of Distance versus Traditional Classroom Instruction in Introductory Agricultural Economics",
+"authors": [
+"Kurt Stephenson",
+"A. McGuirk",
+"T. Crouse",
+"D.W. Reaves"
+],
+"unresolved": [
+"T. Crouse"
+],
+"owners": [
+"kurt-stephenson"
+],
+"remote": [
+[
+"Kurt Stephenson",
+"Anya McGuirk",
+"Tricia Zeh",
+"Dixie Watts Reaves"
+]
+]
+},
+"hydrologicandfiscalimpactsofresidentialdevelopmentavirginiacasestudy": {
+"title": "Hydrologic and Fiscal Impacts of Residential Development: A Virginia Case Study",
+"authors": [
+"D. Bosch",
+"V.K. Lohani",
+"R.L. Dymond",
+"D.F. Kibler",
+"Kurt Stephenson"
+],
+"unresolved": [
+"D. Bosch",
+"V.K. Lohani",
+"R.L. Dymond",
+"D.F. Kibler"
+],
+"owners": [
+"kurt-stephenson"
+],
+"remote": []
+},
+"doessprawlcostusallisolatingtheeffectsofresidentialsettlementformsonpublicwatera": {
+"title": "Does Sprawl Cost Us All? Isolating the Effects of Residential Settlement Forms on Public Water and Sewer Costs",
+"authors": [
+"C. Speir",
+"Kurt Stephenson"
+],
+"unresolved": [
+"C. Speir"
+],
+"owners": [
+"kurt-stephenson"
+],
+"remote": []
+},
+"watershedbasedeffluentallowancetradingidentifyingthestatutoryandregulatorybarrie": {
+"title": "Watershed-based Effluent Allowance Trading: Identifying the Statutory and Regulatory Barriers to Implementation",
+"authors": [
+"Kurt Stephenson",
+"L. Shabman",
+"L. Geyer"
+],
+"unresolved": [
+"L. Geyer"
+],
+"owners": [
+"kurt-stephenson"
+],
+"remote": []
+},
+"effluentallowancetradingthenonpointsourcechallenge": {
+"title": "Effluent Allowance Trading: The Nonpoint Source Challenge",
+"authors": [
+"Kurt Stephenson",
+"P. Norris",
+"L. Shabman"
+],
+"unresolved": [
+"P. Norris"
+],
+"owners": [
+"kurt-stephenson"
+],
+"remote": []
+},
+"gamesstudentsplayaclassroomsimulationofaneffluentallowancetradingsystem": {
+"title": "Games Students Play: A Classroom Simulation of an Effluent Allowance Trading System",
+"authors": [
+"Kurt Stephenson",
+"M.C. Conway"
+],
+"unresolved": [
+"M.C. Conway"
+],
+"owners": [
+"kurt-stephenson"
+],
+"remote": []
+},
 "spatialcorrelationtradeandinequalityevidencefromtheglobalclimate": {
 "title": "Spatial Correlation, Trade, and Inequality: Evidence from the Global Climate",
 "authors": [
@@ -18363,32 +23437,6 @@
 ],
 "owners": [
 "kyle-c-meng"
-],
-"remote": []
-},
-"healthlaborandequityinthelowcarbontransitionofcaliforniaspetroleumrefineries": {
-"title": "Health, labor, and equity in the low carbon transition of California's petroleum refineries",
-"authors": [
-"M. Meng",
-"D. Hernandez-Cortes",
-"C. Malloy",
-"T. Mangin",
-"V. Thivierge",
-"P. Weber",
-"K. C. Meng",
-"D. W. Lea",
-"O. Deschênes",
-"R. Deshmukh"
-],
-"unresolved": [
-"C. Malloy",
-"D. W. Lea",
-"O. Deschênes"
-],
-"owners": [
-"danae-hernandez-cortes",
-"kyle-c-meng",
-"paige-e-weber"
 ],
 "remote": []
 },
@@ -18832,20 +23880,6 @@
 ],
 "remote": []
 },
-"riskpreferencesandnaturaldisastersareviewoftheoreticalandempiricalthemes": {
-"title": "Risk Preferences and Natural Disasters: A Review of Theoretical and Empirical Themes",
-"authors": [
-"Laura Bakkensen",
-"M. Conte"
-],
-"unresolved": [
-"M. Conte"
-],
-"owners": [
-"laura-a-bakkensen"
-],
-"remote": []
-},
 "climatecostsoftropicalcyclonelossesdependalsoonrain": {
 "title": "Climate Costs of Tropical Cyclone Losses Depend Also on Rain",
 "authors": [
@@ -18878,6 +23912,231 @@
 ],
 "owners": [
 "laura-a-bakkensen"
+],
+"remote": []
+},
+"theimpactofnotillonagriculturallandvaluesintheunitedstatesmidwest": {
+"title": "The Impact of No-Till on Agricultural Land Values in the United States Midwest",
+"authors": [
+"Le Chen",
+"Roderick Rejesus",
+"S. Aglasan",
+"S. Hagen",
+"W. Salas"
+],
+"unresolved": [
+"S. Hagen"
+],
+"owners": [
+"le-chen",
+"roderick-rejesus",
+"serkan-aglasan"
+],
+"remote": []
+},
+"headstartstaffwellbeingearlyimpactresultsfromaclusterrandomizedcontrolledtrialrc": {
+"title": "Head Start Staff Well-being: Early Impact Results from a Cluster Randomized Controlled Trial (RCT) of a Holistic Wellness Intervention",
+"authors": [
+"T. Ford",
+"D. Horm",
+"K. A. Kwon",
+"Le Wang",
+"H. Wang"
+],
+"unresolved": [
+"T. Ford",
+"D. Horm",
+"K. A. Kwon",
+"H. Wang"
+],
+"owners": [
+"le-wang"
+],
+"remote": []
+},
+"anonparametricnonclassicalmeasurementerrorapproachtoestimatingintergenerationalm": {
+"title": "A Nonparametric Non-classical Measurement Error Approach to Estimating Intergenerational Mobility Elasticities",
+"authors": [
+"Y. An",
+"Le Wang",
+"R. Xiao"
+],
+"unresolved": [
+"Y. An",
+"R. Xiao"
+],
+"owners": [
+"le-wang"
+],
+"remote": []
+},
+"fertilityandemploymentchoiceadifferentialgameapproach": {
+"title": "Fertility and Employment Choice: A Differential Game Approach",
+"authors": [
+"J. Faria",
+"Le Wang"
+],
+"unresolved": [
+"J. Faria"
+],
+"owners": [
+"le-wang"
+],
+"remote": []
+},
+"thenonpointsourcechallengeobstaclesandopportunitiesformeetingnutrientreductiongo": {
+"title": "The Nonpoint Source Challenge: Obstacles and Opportunities for Meeting Nutrient Reduction Goals in the Chesapeake Bay Watershed",
+"authors": [
+"Z. Easton",
+"K. Stephenson",
+"B. Benham",
+"J.K. Böhlke",
+"A. Buda",
+"A. Collick",
+"L. Fowler",
+"E. Gilinsky",
+"A. Miller",
+"G. Noe",
+"L.H. Palm-Forster",
+"L. Shabman",
+"T. Wynn-Thompson"
+],
+"unresolved": [
+"J.K. Böhlke"
+],
+"owners": [
+"leah-palm-forster"
+],
+"remote": [
+[
+"Zachary Easton",
+"Kurt Stephenson",
+"Brian Benham",
+"J. K. Böhlke",
+"Anthony Buda",
+"Amy Collick",
+"Lara Fowler",
+"Ellen Gilinsky",
+"Andrew Miller",
+"Gregory Noe",
+"Leah H. Palm‐Forster",
+"Leonard Shabman",
+"Theresa Wynn‐Thompson"
+]
+]
+},
+"incentivestocreatelandscapesthatconserveseasonalmigratoryspecies": {
+"title": "Incentives to create landscapes that conserve seasonal migratory species",
+"authors": [
+"M.N. Conte",
+"K. Hansen",
+"K. Horton",
+"C. Jones Ritten",
+"L.H. Palm-Forster",
+"J.F. Shogren",
+"F. Wätzold",
+"T. Wyckoff",
+"H.J. Albers"
+],
+"unresolved": [
+"M.N. Conte",
+"K. Hansen",
+"K. Horton",
+"L.H. Palm-Forster",
+"J.F. Shogren",
+"F. Wätzold",
+"T. Wyckoff",
+"H.J. Albers"
+],
+"owners": [
+"leah-palm-forster"
+],
+"remote": []
+},
+"theroleofriskinfarmlandcontractchoices": {
+"title": "The Role of Risk in Farmland Contract Choices",
+"authors": [
+"C. Arnold",
+"J. Yu",
+"M. Taylor",
+"L. Palm-Forster",
+"S. Banerjee"
+],
+"unresolved": [
+"C. Arnold",
+"J. Yu"
+],
+"owners": [
+"leah-palm-forster"
+],
+"remote": []
+},
+"stewardshipsignalingandthepowerofusingsocialpressurestoreducenonpointsourcepollu": {
+"title": "Stewardship Signaling and the Power of Using Social Pressures to Reduce Nonpoint Source Pollution",
+"authors": [
+"L.H. Palm-Forster",
+"M. Griesinger",
+"K.D. Messer",
+"J. Fooks",
+"J. Butler"
+],
+"unresolved": [
+"L.H. Palm-Forster",
+"M. Griesinger",
+"J. Fooks",
+"J. Butler"
+],
+"owners": [
+"leah-palm-forster"
+],
+"remote": []
+},
+"evaluatingtheuseofanenvironmentalassuranceprogramtoaddresspollutionfromunitedsta": {
+"title": "Evaluating the use of an environmental assurance program to address pollution from United States cropland",
+"authors": [
+"D. Stuart",
+"E. Benveniste",
+"L.M. Harris (Palm-Forster)"
+],
+"unresolved": [
+"E. Benveniste"
+],
+"owners": [
+"leah-palm-forster"
+],
+"remote": [
+[
+"D. Stuart",
+"E. Benveniste",
+"L.M. Harris"
+]
+]
+},
+"sortingbyregulationandracialsegregation": {
+"title": "Sorting by Regulation and Racial Segregation",
+"authors": [
+"Ling Huang",
+"S. L. Ross"
+],
+"unresolved": [
+"S. L. Ross"
+],
+"owners": [
+"ling-huang"
+],
+"remote": []
+},
+"thedynamicefficiencycostsofcommonpropertyresourceexploitation": {
+"title": "The Dynamic Efficiency Costs of Common Property Resource Exploitation",
+"authors": [
+"Ling Huang",
+"M. D. Smith"
+],
+"unresolved": [
+"M. D. Smith"
+],
+"owners": [
+"ling-huang"
 ],
 "remote": []
 },
@@ -19046,6 +24305,35 @@
 "liqing-li"
 ],
 "remote": []
+},
+"howwageschangemicroevidence": {
+"title": "How Wages Change: Micro Evidence",
+"authors": [
+"William T. Dickens",
+"Lorenz F. Goette",
+"L Erica",
+"Steinar Holden",
+"Julián Messina",
+"Jarkko Turunen"
+],
+"unresolved": [
+"L Erica"
+],
+"owners": [
+"lorenz-goette"
+],
+"remote": [
+[
+"William T. Dickens",
+"Lorenz F. Goette",
+"Erica L. Groshen",
+"Steinar Holden",
+"Julián Messina",
+"Mark Schweitzer",
+"Jarkko Turunen",
+"Melanie E. Ward-Warmedinger"
+]
+]
 },
 "conservingspatiallyexplicitbenefitsinecosystemservicemarketslabandartefactualfie": {
 "title": "Conserving Spatially Explicit Benefits in Ecosystem Service Markets: Lab and Artefactual Field Tests of Network Bonuses and Spatial Targeting",
@@ -19536,10 +24824,10 @@
 "T.P. Lyon"
 ],
 "unresolved": [
-"D. Earnhart",
 "T.P. Lyon"
 ],
 "owners": [
+"dietrich-earnhart",
 "madhu-khanna"
 ],
 "remote": []
@@ -19785,6 +25073,7 @@
 "C. Lasco"
 ],
 "owners": [
+"christine-l-crago",
 "madhu-khanna"
 ],
 "remote": []
@@ -19997,6 +25286,63 @@
 "madhu-khanna"
 ],
 "remote": []
+},
+"doesadaptationtoclimatechangeprovidefoodsecurityamicroperspectivefromethiopia": {
+"title": "Does Adaptation to Climate Change Provide Food Security? A Micro Perspective from Ethiopia",
+"authors": [
+"Salvatore Di Falco",
+"M. Versonesi",
+"Mahmud Yesuf"
+],
+"unresolved": [
+"M. Versonesi"
+],
+"owners": [
+"mahmud-yesuf"
+],
+"remote": []
+},
+"productionriskandfarmtechnologyadoptionintherainfedsemiaridlandsofkenya": {
+"title": "Production Risk and Farm Technology Adoption in the Rain-Fed Semi Arid Lands of Kenya",
+"authors": [
+"W. Nyangena",
+"Maurice Ogada",
+"Mahmud Yesuf"
+],
+"unresolved": [
+"W. Nyangena"
+],
+"owners": [
+"mahmud-yesuf"
+],
+"remote": []
+},
+"estimatingreturnstosoilconservationadoptioninthenorthernethiopianhighlands": {
+"title": "Estimating Returns to Soil Conservation Adoption in the Northern Ethiopian Highlands",
+"authors": [
+"A. Bluffstone",
+"Menale Kassie",
+"G. Kohlin",
+"E. Mulugeta",
+"J. Pender",
+"Mahmud Yesuf"
+],
+"unresolved": [
+"A. Bluffstone"
+],
+"owners": [
+"mahmud-yesuf"
+],
+"remote": [
+[
+"Menale Kassie",
+"John Pender",
+"Mahmud Yesuf",
+"Gunnar Kohlin",
+"Randy Bluffstone",
+"Elias Mulugeta"
+]
+]
 },
 "economiccostsofthesummer2023heatwaveanddroughtontexas": {
 "title": "Economic Costs of the Summer 2023 Heat Wave and Drought on Texas",
@@ -20668,6 +26014,175 @@
 ],
 "remote": []
 },
+"biomerangeshiftsunderclimatechangeimpactsonmacroeconomicgrowthandecosystemservic": {
+"title": "Biome range shifts under climate change: Impacts on macroeconomic growth and ecosystem services",
+"authors": [
+"Marc N. Conte",
+"B.A. Bastien-Olvera",
+"X. Dong",
+"T. Briceno",
+"D. Batker",
+"F.C. Moore"
+],
+"unresolved": [
+"B.A. Bastien-Olvera",
+"T. Briceno",
+"D. Batker"
+],
+"owners": [
+"marc-n-conte"
+],
+"remote": []
+},
+"identifyingthecausaleffectsofchronictrafficrelatedairpollutiononcovid19outcomes": {
+"title": "Identifying the causal effects of chronic traffic-related air pollution on COVID-19 outcomes",
+"authors": [
+"Marc N. Conte",
+"M. Gordon",
+"N. Swinehart",
+"R. Wilwerding",
+"C.A. Yu"
+],
+"unresolved": [
+"M. Gordon",
+"N. Swinehart",
+"R. Wilwerding",
+"C.A. Yu"
+],
+"owners": [
+"marc-n-conte"
+],
+"remote": []
+},
+"animperfectstormfemaprivateclimateinsurersandclimatechange": {
+"title": "An Imperfect Storm: FEMA, Private Climate Insurers, and Climate Change",
+"authors": [
+"Marc N. Conte",
+"D. Kelly"
+],
+"unresolved": [
+"D. Kelly"
+],
+"owners": [
+"marc-n-conte"
+],
+"remote": []
+},
+"modelingvegetativeretentionofnutrientsandsediment": {
+"title": "Modeling Vegetative Retention of Nutrients and Sediment",
+"authors": [
+"Marc N. Conte",
+"D. Ennaanay",
+"G. Mendoza",
+"M.T. Walter",
+"S. Wolny",
+"E. Nelson"
+],
+"unresolved": [
+"G. Mendoza",
+"M.T. Walter",
+"S. Wolny"
+],
+"owners": [
+"marc-n-conte"
+],
+"remote": []
+},
+"modelingwatersupplyforhydropowerandirrigation": {
+"title": "Modeling Water Supply for Hydropower and Irrigation",
+"authors": [
+"G. Mendoza",
+"D. Ennaanay",
+"Marc N. Conte",
+"M.T. Walter",
+"E. Nelson",
+"S. Wolny",
+"L. Hay",
+"G. Nagle",
+"S. White"
+],
+"unresolved": [
+"G. Mendoza",
+"M.T. Walter",
+"S. Wolny",
+"L. Hay",
+"G. Nagle",
+"S. White"
+],
+"owners": [
+"marc-n-conte"
+],
+"remote": []
+},
+"stormpeakmitigation": {
+"title": "Storm Peak Mitigation",
+"authors": [
+"D. Ennaanay",
+"G. Mendoza",
+"Marc N. Conte",
+"B. Wickel",
+"S. Wolny"
+],
+"unresolved": [
+"G. Mendoza",
+"B. Wickel",
+"S. Wolny"
+],
+"owners": [
+"marc-n-conte"
+],
+"remote": []
+},
+"timberandnontimberforestproducts": {
+"title": "Timber and Non-Timber Forest Products",
+"authors": [
+"E. Nelson",
+"C. Montgomery",
+"Marc N. Conte",
+"S. Polasky"
+],
+"unresolved": [
+"E. Nelson",
+"C. Montgomery",
+"S. Polasky"
+],
+"owners": [
+"marc-n-conte"
+],
+"remote": []
+},
+"economicsofbiodiversityandecosystemservices": {
+"title": "Economics of biodiversity and ecosystem services",
+"authors": [
+"C. Perrings",
+"S. Baumgärtner",
+"W.A. Brock",
+"K. Chopra",
+"Marc N. Conte",
+"C. Costello",
+"A.P. Kinzig",
+"U. Pascual",
+"S. Polasky",
+"J. Tschirhart",
+"A. Xepapadeas"
+],
+"unresolved": [
+"C. Perrings",
+"S. Baumgärtner",
+"W.A. Brock",
+"K. Chopra",
+"C. Costello",
+"A.P. Kinzig",
+"U. Pascual",
+"S. Polasky",
+"J. Tschirhart",
+"A. Xepapadeas"
+],
+"owners": [
+"marc-n-conte"
+],
+"remote": []
+},
 "mappingtheflowofconservationinformationacrosswisconsinfarmingcommunitiesevidence": {
 "title": "Mapping the flow of conservation information across Wisconsin farming communities: Evidence from a social network analysis",
 "authors": [
@@ -20893,54 +26408,10 @@
 "H-M Straume"
 ],
 "owners": [
+"james-anderson",
 "martin-d-smith"
 ],
 "remote": []
-},
-"implicationsofnewtechnologiesforfuturefoodsupplysystems": {
-"title": "Implications of new technologies for future food supply systems",
-"authors": [
-"S Asseng",
-"CA Palm",
-"JL Anderson",
-"L Fresco",
-"PA Sanchez",
-"F Asche",
-"TM Garlock",
-"J Fanzo",
-"Martin D. Smith",
-"G Knapp",
-"A Jarvis",
-"A ... Adesogan"
-],
-"unresolved": [
-"L Fresco",
-"G Knapp"
-],
-"owners": [
-"martin-d-smith"
-],
-"remote": [
-[
-"S. Asseng",
-"C. A. Palm",
-"J. L. Anderson",
-"L. Fresco",
-"P. A. Sanchez",
-"F. Asche",
-"T. M. Garlock",
-"J. Fanzo",
-"M. D. Smith",
-"G. Knapp",
-"A. Jarvis",
-"A. Adesogan",
-"I. Capua",
-"G. Hoogenboom",
-"D. D. Despommier",
-"L. Conti",
-"K. A. Garrett"
-]
-]
 },
 "featuretakingstockofcatchshareslessonsfromthepastanddirectionsforthefuture": {
 "title": "Feature-Taking Stock of Catch Shares: Lessons from the Past and Directions for the Future",
@@ -21360,6 +26831,69 @@
 ],
 "remote": []
 },
+"dohyperlocalregulationshindergreentechnologyadoption": {
+"title": "Do hyperlocal regulations hinder green technology adoption?",
+"authors": [
+"V.C. Aglar",
+"Matthew E. Oliver",
+"Casey J. Wichman"
+],
+"unresolved": [
+"V.C. Aglar"
+],
+"owners": [
+"casey-j-wichman",
+"matthew-oliver"
+],
+"remote": []
+},
+"googletrendsandgoinggreenpublicengagementandenergypolicyundercentralizedversusde": {
+"title": "Google Trends and Going Green: Public Engagement and Energy Policy under Centralized versus Decentralized Governance Systems",
+"authors": [
+"L. Alexander",
+"Matthew E. Oliver"
+],
+"unresolved": [
+"L. Alexander"
+],
+"owners": [
+"matthew-oliver"
+],
+"remote": []
+},
+"populationgrowthagestructureandsocioeconomicperformance": {
+"title": "Population growth, age structure, and socio-economic performance",
+"authors": [
+"C.J.A. Bradshaw",
+"S.M. McDermott",
+"Matthew E. Oliver"
+],
+"unresolved": [
+"C.J.A. Bradshaw",
+"S.M. McDermott"
+],
+"owners": [
+"matthew-oliver"
+],
+"remote": []
+},
+"climatepolicycoordinationthroughinstitutionaldesignanexperimentalexamination": {
+"title": "Climate policy coordination through institutional design: An experimental examination",
+"authors": [
+"Matthew E. Oliver",
+"J. Pike",
+"S. Huang",
+"J.F. Shogren"
+],
+"unresolved": [
+"J. Pike",
+"S. Huang"
+],
+"owners": [
+"matthew-oliver"
+],
+"remote": []
+},
 "howdoestheuspricecarbonhowcouldwepricecarbon": {
 "title": "How Does the US Price Carbon? How Could We Price Carbon?",
 "authors": [
@@ -21746,21 +27280,6 @@
 ],
 "remote": []
 },
-"sinkinggroundtoxicwaterinfanthealthimpactsoflandsubsidence": {
-"title": "Sinking ground, toxic water: Infant health impacts of land subsidence",
-"authors": [
-"J. D. Han",
-"M. Allaire",
-"M. Nemati"
-],
-"unresolved": [
-"J. D. Han"
-],
-"owners": [
-"mehdi-nemati"
-],
-"remote": []
-},
 "theimpactofdustexposureonfarmlandmarketevidencefromcaliforniascentralvalley": {
 "title": "The impact of dust exposure on farmland market: Evidence from California's Central Valley",
 "authors": [
@@ -21873,6 +27392,676 @@
 ],
 "remote": []
 },
+"enablinganequitableenergytransitionthroughinclusiveresearch": {
+"title": "Enabling an Equitable Energy Transition Through Inclusive Research",
+"authors": [
+"A. P. Ravikumar",
+"E. Baker",
+"A. Bates",
+"D. Nock",
+"D. Venkataraman",
+"T. Johnson",
+"M. Ash",
+"S. Z. Attari",
+"K. Bowie",
+"S. Carley",
+"S. Castellanos",
+"M. Cha",
+"D. L. Clark",
+"D. Deane-Ryan",
+"D. Djokic",
+"J. C. Ford",
+"A. Goldstein",
+"E. Grubert",
+"L. Hu",
+"D. M. Kammen",
+"U. Kosar",
+"C. Miller",
+"M. Pastor",
+"M. Tuominen"
+],
+"unresolved": [
+"D. Venkataraman",
+"T. Johnson",
+"K. Bowie",
+"M. Cha",
+"D. L. Clark",
+"D. Deane-Ryan",
+"J. C. Ford",
+"L. Hu",
+"U. Kosar",
+"M. Tuominen"
+],
+"owners": [
+"michael-ash",
+"sanya-carley"
+],
+"remote": [
+[
+"A. P. Ravikumar",
+"E. Baker",
+"A. Bates",
+"D. Nock",
+"D. Venkataraman",
+"T. Johnson",
+"M. Ash",
+"S. Z. Attari",
+"K. Bowie",
+"S. Carley",
+"S. Castellanos",
+"M. Cha",
+"D. L. Clark",
+"D. Deane-Ryan",
+"D. Djokic",
+"J. C. Ford",
+"A. Goldstein",
+"E. Grubert",
+"L. Hu",
+"D. M. Kammen",
+"U. Kosar",
+"C. Miller",
+"M. Pastor",
+"M. Tuominen"
+]
+]
+},
+"economicdeclineincarcerationandmortalityfromdrugusedisordersanobservationalstudy": {
+"title": "Economic decline, incarceration, and mortality from drug use disorders: an observational study of U.S. counties",
+"authors": [
+"E. Nosrati",
+"J. Kang-Brown",
+"M. Ash",
+"M. Marmot",
+"M. McKee",
+"L. P. King"
+],
+"unresolved": [
+"L. P. King"
+],
+"owners": [
+"michael-ash"
+],
+"remote": []
+},
+"geneticdiversityandeconomicdevelopmentassessingthekeyfindingsinashrafandgalor201": {
+"title": "Genetic Diversity and Economic Development: Assessing the Key Findings in Ashraf and Galor (2013)",
+"authors": [
+"R. Caraher",
+"M. Ash"
+],
+"unresolved": [
+"R. Caraher"
+],
+"owners": [
+"michael-ash"
+],
+"remote": []
+},
+"publicdebtandgrowthanassessmentofkeyfindingsoncausalityandthresholds": {
+"title": "Public Debt and Growth: An Assessment of Key Findings on Causality and Thresholds",
+"authors": [
+"M. Ash",
+"D. Basu",
+"A. Dube"
+],
+"unresolved": [
+"D. Basu",
+"A. Dube"
+],
+"owners": [
+"michael-ash"
+],
+"remote": []
+},
+"theeffectofunionsonthedistributionofwagesofhospitalemployedregisterednursesinthe": {
+"title": "The effect of unions on the distribution of wages of hospital-employed registered nurses in the United States",
+"authors": [
+"J. Spetz",
+"M. Ash",
+"C. Konstantinidis",
+"C. Herrera"
+],
+"unresolved": [
+"C. Konstantinidis"
+],
+"owners": [
+"michael-ash"
+],
+"remote": []
+},
+"constructingaquadrilateralinsideanotherone": {
+"title": "Constructing a quadrilateral inside another one",
+"authors": [
+"J. M. Ash",
+"M. Ash",
+"P. Ash"
+],
+"unresolved": [
+"J. M. Ash",
+"P. Ash"
+],
+"owners": [
+"michael-ash"
+],
+"remote": []
+},
+"economicparametersofendoflifecaresomepolicyimplicationsinaneraofhealthcarereform": {
+"title": "Economic Parameters of End-of-Life Care: Some policy implications in an era of health care reform",
+"authors": [
+"M. Ash",
+"S. Arons"
+],
+"unresolved": [
+"S. Arons"
+],
+"owners": [
+"michael-ash"
+],
+"remote": []
+},
+"aneuskytrustcanalowerincomecountryaffordclimatepolicy": {
+"title": "An EU sky trust: Can a lower-income country afford climate policy",
+"authors": [
+"V. Ferjentsik",
+"M. Ash"
+],
+"unresolved": [
+"V. Ferjentsik"
+],
+"owners": [
+"michael-ash"
+],
+"remote": []
+},
+"separateandunequaltheeffectofunequalaccesstoemploymentbasedhealthinsuranceonsame": {
+"title": "Separate and Unequal: The Effect of Unequal Access to Employment-Based Health Insurance on Same-Sex and Different-Sex Couples",
+"authors": [
+"M. Ash",
+"M. V. L. Badgett"
+],
+"unresolved": [
+"M. V. L. Badgett"
+],
+"owners": [
+"michael-ash"
+],
+"remote": []
+},
+"wholivesonthewrongsideoftheenvironmentaltracksevidencefromtheepasriskscreeningen": {
+"title": "Who Lives on the Wrong Side of the Environmental Tracks? Evidence from the EPA's Risk Screening Environmental Indicators Model",
+"authors": [
+"M. Ash",
+"T. R. Fetter"
+],
+"unresolved": [
+"T. R. Fetter"
+],
+"owners": [
+"michael-ash"
+],
+"remote": []
+},
+"valuebasedresourcematchingwithfairnesscriteriaapplicationtoagriculturalwatertrad": {
+"title": "Value-based Resource Matching with Fairness Criteria: Application to Agricultural Water Trading",
+"authors": [
+"A. Adhiga",
+"Y. Trabelsi",
+"T. Ferdousi",
+"M. Marathe",
+"S. Ravi",
+"S. Swarup",
+"A. Vullikanti",
+"M. Wilson",
+"S. Kraus",
+"R. Basu",
+"S. Savalkar",
+"M. Yourek",
+"Michael P. Brady",
+"K. Rajagopalan",
+"J. Yoder"
+],
+"unresolved": [
+"A. Adhiga",
+"Y. Trabelsi",
+"T. Ferdousi",
+"M. Marathe",
+"S. Ravi",
+"S. Swarup",
+"A. Vullikanti",
+"M. Wilson",
+"S. Kraus",
+"R. Basu",
+"S. Savalkar"
+],
+"owners": [
+"michael-brady"
+],
+"remote": []
+},
+"aricardianestimateofnonlineartemperatureeffectsonhighvalueirrigatedagriculture": {
+"title": "A Ricardian Estimate of Nonlinear Temperature Effects on High Value Irrigated Agriculture",
+"authors": [
+"N. Potter",
+"Michael P. Brady",
+"K. Rajagopalan"
+],
+"unresolved": [
+"N. Potter"
+],
+"owners": [
+"michael-brady"
+],
+"remote": []
+},
+"anagentbasedmodelforassessingagriculturalwatermarketsstructureandfunction": {
+"title": "An Agent-Based Model for Assessing Agricultural Water Markets Structure and Function",
+"authors": [
+"R. Basu",
+"J. Gifford",
+"Michael P. Brady",
+"J. Cook",
+"K. Rajagopalan",
+"J. Yoder"
+],
+"unresolved": [
+"R. Basu",
+"J. Gifford",
+"J. Cook"
+],
+"owners": [
+"michael-brady"
+],
+"remote": []
+},
+"identifyingdoublecroppedextentinareaswithhighcropdiversity": {
+"title": "Identifying double cropped extent in areas with high crop diversity",
+"authors": [
+"H. Noorazar",
+"S. Savalkar",
+"Michael P. Brady",
+"A. Kandelati",
+"M. Liu",
+"P. Beale",
+"A. McGuire",
+"T. Waters",
+"K. Rajagopalan"
+],
+"unresolved": [
+"S. Savalkar",
+"A. Kandelati",
+"P. Beale",
+"A. McGuire",
+"T. Waters"
+],
+"owners": [
+"michael-brady"
+],
+"remote": []
+},
+"climatechangeandtheincreasedrecurrenceofpestsanddiseaseoutbreaksthecaseoftheorga": {
+"title": "Climate Change and the Increased Recurrence of Pests and Disease Outbreaks: The Case of the Organic and Conventional U.S. Apple Industry",
+"authors": [
+"H. Lin",
+"K. Gallardo",
+"Michael P. Brady"
+],
+"unresolved": [
+"H. Lin",
+"K. Gallardo"
+],
+"owners": [
+"michael-brady"
+],
+"remote": []
+},
+"definingthenatureofthenexusspecializationconnectednessscarcityandscaleinfoodener": {
+"title": "Defining the Nature of the Nexus: Specialization, Connectedness, Scarcity, and Scale in Food-Energy-Water Management",
+"authors": [
+"S. Katz",
+"J. Padowski",
+"M. Goldsby",
+"Michael P. Brady",
+"S. Hampton"
+],
+"unresolved": [
+"S. Katz",
+"M. Goldsby",
+"S. Hampton"
+],
+"owners": [
+"michael-brady"
+],
+"remote": []
+},
+"impactsofneartermclimatechangeonirrigationdemandsandcropyieldsinthecolumbiariver": {
+"title": "Impacts of Near-Term Climate Change on Irrigation Demands and Crop Yields in the Columbia River Basin",
+"authors": [
+"K. Rajagopalan",
+"K. J. Chinnayakanahalli",
+"C. O. Stockle",
+"R. L. Nelson",
+"C. E. Kruger",
+"Michael P. Brady",
+"K. Malek",
+"S. T. Dinesh",
+"M. E. Barber",
+"A. F. Hamlet",
+"G. G. Yorgey",
+"J. C. Adam"
+],
+"unresolved": [
+"K. J. Chinnayakanahalli",
+"C. O. Stockle",
+"R. L. Nelson",
+"C. E. Kruger",
+"S. T. Dinesh",
+"A. F. Hamlet",
+"G. G. Yorgey",
+"J. C. Adam"
+],
+"owners": [
+"michael-brady"
+],
+"remote": []
+},
+"whenshouldirrigatorsinvestinmorewaterefficienttechnologiesasanadaptationtoclimat": {
+"title": "When Should Irrigators Invest in More Water-Efficient Technologies as an Adaptation to Climate Change?",
+"authors": [
+"K. Malek",
+"J. Adam",
+"C. Stockle",
+"Michael P. Brady",
+"K. Rajagopalan"
+],
+"unresolved": [
+"J. Adam",
+"C. Stockle"
+],
+"owners": [
+"michael-brady"
+],
+"remote": []
+},
+"benefitcostanalysisofintegratedwaterresourcemanagementprojectsaccountingforinter": {
+"title": "Benefit-Cost Analysis of Integrated Water Resource Management Projects: Accounting for Interdependence in the Yakima Basin Integrated Plan",
+"authors": [
+"J. Yoder",
+"J. Adam",
+"Michael P. Brady",
+"J. Cook",
+"S. Katz",
+"S. Johnston",
+"K. Malek",
+"J. McMillan",
+"Q. Yang"
+],
+"unresolved": [
+"J. Adam",
+"J. Cook",
+"S. Katz",
+"S. Johnston",
+"J. McMillan",
+"Q. Yang"
+],
+"owners": [
+"michael-brady"
+],
+"remote": []
+},
+"regionalequilibriumwagerateforhiredfarmworkersinthetreefruitindustry": {
+"title": "Regional Equilibrium Wage Rate for Hired Farm Workers in the Tree Fruit Industry",
+"authors": [
+"Michael P. Brady",
+"R. K. Gallardo",
+"S. Badrudozza",
+"X. Jiang"
+],
+"unresolved": [
+"R. K. Gallardo",
+"S. Badrudozza",
+"X. Jiang"
+],
+"owners": [
+"michael-brady"
+],
+"remote": []
+},
+"adoptionoflaborenhancingtechnologiesbyspecialtycropagriculturethecaseofthewashin": {
+"title": "Adoption of Labor-enhancing Technologies by Specialty Crop Agriculture: The Case of the Washington Apple Industry",
+"authors": [
+"K. Gallardo",
+"Michael P. Brady"
+],
+"unresolved": [
+"K. Gallardo"
+],
+"owners": [
+"michael-brady"
+],
+"remote": []
+},
+"bioeartharegionalbiosphererelevantearthsystemmodeltoinformagriculturalandnatural": {
+"title": "BioEarth: A regional biosphere-relevant earth system model to inform agricultural and natural resource management decisions",
+"authors": [
+"J. C. Adam",
+"J. C. Stephens",
+"S. H. Chung",
+"Michael P. Brady",
+"R. D. Evans",
+"C. E. Kruger",
+"B. K. Lamb",
+"M. L. Liu",
+"C. O. Stockle",
+"J. K. Vaughan",
+"K. Rajagopalan",
+"J. A. Harrison",
+"C. L. Tague",
+"A. Kalyanaraman",
+"Y. Chen",
+"A. Guenther",
+"F. Y. Leung",
+"L. R. Leung",
+"A. B. Perleberg",
+"J. Yoder",
+"E. Allen",
+"S. Anderson",
+"B. Chandrasekharan",
+"K. Malek",
+"T. Mullis",
+"C. Miller",
+"T. Nergui",
+"J. Poinsatte",
+"J. Reyes",
+"J. Zhu",
+"J. S. Choate",
+"X. Jiang",
+"R. Nelson",
+"J. H. Yoon",
+"G. G. Yorgey",
+"K. J. Chinnayakanahalli",
+"A. F. Hamlet",
+"B. Nijssen"
+],
+"unresolved": [
+"J. C. Adam",
+"J. C. Stephens",
+"S. H. Chung",
+"R. D. Evans",
+"C. E. Kruger",
+"B. K. Lamb",
+"M. L. Liu",
+"C. O. Stockle",
+"J. K. Vaughan",
+"J. A. Harrison",
+"C. L. Tague",
+"A. Kalyanaraman",
+"Y. Chen",
+"A. Guenther",
+"F. Y. Leung",
+"L. R. Leung",
+"A. B. Perleberg",
+"E. Allen",
+"S. Anderson",
+"B. Chandrasekharan",
+"T. Mullis",
+"C. Miller",
+"T. Nergui",
+"J. Poinsatte",
+"J. Zhu",
+"J. S. Choate",
+"X. Jiang",
+"R. Nelson",
+"J. H. Yoon",
+"G. G. Yorgey",
+"K. J. Chinnayakanahalli",
+"A. F. Hamlet",
+"B. Nijssen"
+],
+"owners": [
+"michael-brady"
+],
+"remote": []
+},
+"environmentaleffectsoflandusechangerevealedthroughspatiallyexplicitempiricalmode": {
+"title": "Environmental Effects of Land Use Change Revealed Through Spatially Explicit Empirical Models: Recent Developments and Challenges Ahead",
+"authors": [
+"Michael P. Brady",
+"E. Irwin"
+],
+"unresolved": [
+"E. Irwin"
+],
+"owners": [
+"michael-brady"
+],
+"remote": []
+},
+"taxdeferredexchangesoffarmlandtheoryandevidencefromfederaltaxdata": {
+"title": "Tax-deferred Exchanges of Farmland: Theory and Evidence from Federal Tax Data",
+"authors": [
+"J. Williamson",
+"Michael P. Brady",
+"R. Durst"
+],
+"unresolved": [
+"J. Williamson",
+"R. Durst"
+],
+"owners": [
+"michael-brady"
+],
+"remote": []
+},
+"moralrootsofentrepreneurshipsomeepistemologicalfoundations": {
+"title": "Moral Roots of Entrepreneurship: Some Epistemological Foundations",
+"authors": [
+"Michael J. Ellerbrock",
+"D.W. Reaves"
+],
+"unresolved": [
+"D.W. Reaves"
+],
+"owners": [
+"michael-ellerbrock"
+],
+"remote": []
+},
+"threepathstoeconomiceducationsomelessonsfrommoralphilosophy": {
+"title": "Three Paths to Economic Education: Some Lessons from Moral Philosophy",
+"authors": [
+"Michael J. Ellerbrock",
+"L.A. Shabman",
+"S.S. Batie"
+],
+"unresolved": [
+"L.A. Shabman",
+"S.S. Batie"
+],
+"owners": [
+"michael-ellerbrock"
+],
+"remote": []
+},
+"carsnaturecasestudyinenvironmentaleconomicsfork12programs": {
+"title": "Cars & Nature: Case Study in Environmental Economics for K-12 Programs",
+"authors": [
+"Michael J. Ellerbrock",
+"L.A. Shabman"
+],
+"unresolved": [
+"L.A. Shabman"
+],
+"owners": [
+"michael-ellerbrock"
+],
+"remote": []
+},
+"thehumanperilsofscalingsmartthermostatsevidencefromfieldexperiments": {
+"title": "The Human Perils of Scaling Smart Thermostats: Evidence from Field Experiments",
+"authors": [
+"A. Brandon",
+"C. Clapp",
+"J. List",
+"R. Metcalfe",
+"Michael Price"
+],
+"unresolved": [
+"C. Clapp",
+"J. List",
+"R. Metcalfe"
+],
+"owners": [
+"michael-price"
+],
+"remote": []
+},
+"publicgoodprovisioninthepresenceofheterogeneousgreenpreferences": {
+"title": "Public Good Provision in the Presence of Heterogeneous Green Preferences",
+"authors": [
+"M. Jacobsen",
+"J. LaRiviere",
+"Michael Price"
+],
+"unresolved": [
+"M. Jacobsen",
+"J. LaRiviere"
+],
+"owners": [
+"michael-price"
+],
+"remote": []
+},
+"towardsanunderstandingoftheeconomicsofcharityevidencefromafieldexperiment": {
+"title": "Towards an Understanding of the Economics of Charity: Evidence from a Field Experiment",
+"authors": [
+"C. Landry",
+"A. Lange",
+"J. List",
+"Michael Price",
+"N. Rupp"
+],
+"unresolved": [
+"J. List"
+],
+"owners": [
+"michael-price"
+],
+"remote": []
+},
+"conspiraciesandsecretpricediscountsinthemarketplaceevidencefromthefield": {
+"title": "Conspiracies and Secret Price Discounts in the Marketplace: Evidence from the Field",
+"authors": [
+"J. List",
+"Michael Price"
+],
+"unresolved": [
+"J. List"
+],
+"owners": [
+"michael-price"
+],
+"remote": []
+},
 "climatesmartagricultureglobalresearchagendascienceforaction": {
 "title": "Climate-Smart Agriculture Global Research Agenda: Science for Action",
 "authors": [
@@ -21893,6 +28082,166 @@
 ],
 "owners": [
 "michael-r-springborn"
+],
+"remote": []
+},
+"sexdrugsandbabybooms": {
+"title": "Sex, Drugs, and Baby Booms",
+"authors": [
+"Michele Baggio",
+"A. Chong",
+"D. Simon"
+],
+"unresolved": [
+"D. Simon"
+],
+"owners": [
+"michele-baggio"
+],
+"remote": []
+},
+"theeffectofanthropogenicandenvironmentalfactorsincoupledhumannaturalsystemsevide": {
+"title": "The effect of anthropogenic and environmental factors in coupled human-natural systems: Evidence from Lake Zürich",
+"authors": [
+"Michele Baggio",
+"J.P. Chavas",
+"S. Di Falco",
+"A. Hertig",
+"F. Pomati"
+],
+"unresolved": [
+"J.P. Chavas",
+"A. Hertig",
+"F. Pomati"
+],
+"owners": [
+"michele-baggio"
+],
+"remote": []
+},
+"isaccesstomedicalmarijuanaadisamenity": {
+"title": "Is Access to Medical Marijuana a Disamenity?",
+"authors": [
+"Michele Baggio",
+"J. Choi"
+],
+"unresolved": [
+"J. Choi"
+],
+"owners": [
+"michele-baggio"
+],
+"remote": []
+},
+"modellingadaptationinmultistateresourcesystems": {
+"title": "Modelling adaptation in multi-state resource systems",
+"authors": [
+"Michele Baggio",
+"C. A. Perrings"
+],
+"unresolved": [
+"C. A. Perrings"
+],
+"owners": [
+"michele-baggio"
+],
+"remote": []
+},
+"institutionalqualityandinflationthresholdsinadvancedeconomieshowcorruptioncontro": {
+"title": "Institutional Quality and Inflation Thresholds in Advanced Economies: How Corruption Control Modifies the Inflation-Growth Nexus",
+"authors": [
+"Mika Kato",
+"L. Nguyen"
+],
+"unresolved": [
+"L. Nguyen"
+],
+"owners": [
+"mika-kato"
+],
+"remote": []
+},
+"measuringvulnerabilitytodisasteranapplicationtohurricanekatrina": {
+"title": "Measuring Vulnerability to Disaster: An Application to Hurricane Katrina",
+"authors": [
+"Mika Kato",
+"H. Kurban"
+],
+"unresolved": [
+"H. Kurban"
+],
+"owners": [
+"mika-kato"
+],
+"remote": []
+},
+"stabilitythresholdinflationforeconomicgrowthacrosscrisisperiodsevidencefrom39adv": {
+"title": "Stability threshold inflation for economic growth across crisis periods: evidence from 39 advanced economies",
+"authors": [
+"Mika Kato",
+"L. Nguyen"
+],
+"unresolved": [
+"L. Nguyen"
+],
+"owners": [
+"mika-kato"
+],
+"remote": []
+},
+"overcomingchallengesinwaterandsanitationinasia": {
+"title": "Overcoming Challenges in Water and Sanitation in Asia",
+"authors": [
+"K. E. Seetharam",
+"Mingxuan Fan"
+],
+"unresolved": [
+"K. E. Seetharam"
+],
+"owners": [
+"mingxuan-fan"
+],
+"remote": []
+},
+"challengesfacingthemanagementofwaterresources": {
+"title": "Challenges Facing the Management of Water Resources",
+"authors": [
+"K. E. Seetharam",
+"Mingxuan Fan"
+],
+"unresolved": [
+"K. E. Seetharam"
+],
+"owners": [
+"mingxuan-fan"
+],
+"remote": []
+},
+"waterresourcesmanagementinaseanplusthreecountrieschallengesandpolicyresponses": {
+"title": "Water Resources Management in ASEAN Plus Three Countries: Challenges and Policy Responses",
+"authors": [
+"Mingxuan Fan",
+"K. E. Seetharam"
+],
+"unresolved": [
+"K. E. Seetharam"
+],
+"owners": [
+"mingxuan-fan"
+],
+"remote": []
+},
+"dolaborvaluesexplainchinesepricesevidencefromchinasinputoutputtables19902012": {
+"title": "Do Labor Values Explain Chinese Prices? Evidence from China's Input-Output Tables, 1990-2012",
+"authors": [
+"H. Cheng",
+"Minqi Li"
+],
+"unresolved": [
+"H. Cheng"
+],
+"owners": [
+"minqi-li"
 ],
 "remote": []
 },
@@ -21944,7 +28293,8 @@
 "C.A. Alberto"
 ],
 "owners": [
-"mo-zhou"
+"mo-zhou",
+"shourish-chakravarty"
 ],
 "remote": [
 [
@@ -22154,6 +28504,34 @@
 ],
 "remote": []
 },
+"federallandacquisitionsunderthelandandwaterconservationfund": {
+"title": "Federal Land Acquisitions Under the Land and Water Conservation Fund",
+"authors": [
+"E. Espey",
+"Molly Espey"
+],
+"unresolved": [
+"E. Espey"
+],
+"owners": [
+"molly-espey"
+],
+"remote": []
+},
+"alignmentofeffortrecruitmentintoagriculturalandappliedeconomics": {
+"title": "Alignment of Effort: Recruitment into Agricultural and Applied Economics",
+"authors": [
+"K. Boys",
+"Molly Espey"
+],
+"unresolved": [
+"K. Boys"
+],
+"owners": [
+"molly-espey"
+],
+"remote": []
+},
 "corporationsdisproportionatelybuyoffsetsfromprojectswithlimitedclimatebenefitsin": {
 "title": "Corporations disproportionately buy offsets from projects with limited climate benefits in India's Voluntary Carbon Market",
 "authors": [
@@ -22324,10 +28702,12 @@
 "R. Song"
 ],
 "unresolved": [
-"X. Gao"
+"X. Gao",
+"W. Liang"
 ],
 "owners": [
-"mushfiq-mobarak"
+"mushfiq-mobarak",
+"ran-song"
 ],
 "remote": []
 },
@@ -22396,21 +28776,6 @@
 "unresolved": [
 "J. Loeser",
 "D. Stein"
-],
-"owners": [
-"mushfiq-mobarak"
-],
-"remote": []
-},
-"demandestimationwithstrategiccomplementaritiessanitationinbangladesh": {
-"title": "Demand Estimation with Strategic Complementarities: Sanitation in Bangladesh",
-"authors": [
-"R. Guiteras",
-"J. Levinsohn",
-"Mushfiq Mobarak"
-],
-"unresolved": [
-"R. Guiteras"
 ],
 "owners": [
 "mushfiq-mobarak"
@@ -22649,7 +29014,8 @@
 "N. Mason"
 ],
 "owners": [
-"nicole-m-mason-wardell"
+"nicole-m-mason-wardell",
+"yoko-kusunose"
 ],
 "remote": [
 [
@@ -23737,6 +30103,22 @@
 ],
 "remote": []
 },
+"exposureenhancedgoodsandtechnologydisadoption": {
+"title": "Exposure-enhanced goods and technology disadoption",
+"authors": [
+"F. Alpízar",
+"M. Bernedo",
+"Paul J. Ferraro",
+"B. Meiselman"
+],
+"unresolved": [
+"B. Meiselman"
+],
+"owners": [
+"paul-j-ferraro"
+],
+"remote": []
+},
 "nudgingorganizationsevidencefromtwomultiyearnaturalfieldexperiments": {
 "title": "Nudging organizations: Evidence from two multi-year natural field experiments",
 "authors": [
@@ -23792,27 +30174,6 @@
 ],
 "remote": []
 },
-"applyingbehavioralsciencetoagriculturefoodandagrienvironmentalpolicymaking": {
-"title": "Applying Behavioral Science to Agriculture, Food, And Agri-Environmental Policymaking",
-"authors": [
-"P. Shukla",
-"L. Messer",
-"Paul J. Ferraro"
-],
-"unresolved": [
-"L. Messer"
-],
-"owners": [
-"paul-j-ferraro"
-],
-"remote": [
-[
-"Pallavi Shukla",
-"Kent D. Messer",
-"Paul J. Ferraro"
-]
-]
-},
 "highdiscountratesbyprivateactorsundermineclimatechangeadaptationpolicies": {
 "title": "High Discount Rates by Private Actors Undermine Climate Change Adaptation Policies",
 "authors": [
@@ -23852,61 +30213,6 @@
 ]
 ]
 },
-"payingamericanstotakethevaccinewouldithelporbackfire": {
-"title": "Paying Americans to Take the Vaccine - Would it help or backfire?",
-"authors": [
-"C. Robertson",
-"D. Scheitrum",
-"A. Schaefer",
-"T. Malone",
-"B. McFadden",
-"Paul J. Ferraro",
-"K. Messer"
-],
-"unresolved": [
-"C. Robertson",
-"D. Scheitrum",
-"A. Schaefer",
-"T. Malone"
-],
-"owners": [
-"paul-j-ferraro"
-],
-"remote": []
-},
-"theproblemofferalhogsandthechallengesofprovidingaweaklinkpublicgood": {
-"title": "The Problem of Feral Hogs and the Challenges of Providing a Weak-link Public Good",
-"authors": [
-"S. Ellis",
-"M. Masters",
-"K. Messer",
-"C. Weigel",
-"Paul J. Ferraro"
-],
-"unresolved": [
-"S. Ellis"
-],
-"owners": [
-"paul-j-ferraro"
-],
-"remote": []
-},
-"challengesinrecruitingusfarmersforpolicyrelevanteconomicfieldexperiments": {
-"title": "Challenges in Recruiting U.S. Farmers for Policy-Relevant Economic Field Experiments",
-"authors": [
-"C. Weigel",
-"L.A. Paul",
-"Paul J. Ferraro",
-"K.D. Messer"
-],
-"unresolved": [
-"L.A. Paul"
-],
-"owners": [
-"paul-j-ferraro"
-],
-"remote": []
-},
 "theenvironmentaleffectsofpovertyprogramsandthepovertyeffectsofenvironmentalprogr": {
 "title": "The Environmental Effects of Poverty Programs and the Poverty Effects of Environmental Programs: the missing RCTs",
 "authors": [
@@ -23930,7 +30236,8 @@
 "B. Meiselman"
 ],
 "unresolved": [
-"F. Alpizar"
+"F. Alpizar",
+"B. Meiselman"
 ],
 "owners": [
 "paul-j-ferraro"
@@ -24278,6 +30585,20 @@
 ],
 "remote": []
 },
+"buybackprogramsincommercialfisheriesefficiencyversustransfers": {
+"title": "Buy-Back Programs in Commercial Fisheries: Efficiency versus Transfers",
+"authors": [
+"K. E. McConnell",
+"Quinn Weninger"
+],
+"unresolved": [
+"K. E. McConnell"
+],
+"owners": [
+"quinn-weninger"
+],
+"remote": []
+},
 "thedevelopmentandcurrentchallengesofirrigatedagricultureinthewesternus": {
 "title": "The development and current challenges of irrigated agriculture in the western U.S.",
 "authors": [
@@ -24355,6 +30676,7 @@
 "C. Goemans"
 ],
 "owners": [
+"dale-manning",
 "r-aaron-hrozencik"
 ],
 "remote": []
@@ -24398,6 +30720,7 @@
 "K. Schoengold"
 ],
 "owners": [
+"dale-manning",
 "r-aaron-hrozencik"
 ],
 "remote": [
@@ -24447,6 +30770,69 @@
 ],
 "remote": []
 },
+"rentseekingingroups": {
+"title": "Rent Seeking in Groups",
+"authors": [
+"T.K. Ahn",
+"R. Mark Isaac",
+"Timothy C. Salmon"
+],
+"unresolved": [
+"T.K. Ahn"
+],
+"owners": [
+"r-mark-isaac"
+],
+"remote": [
+[
+"T.K. Ahn",
+"R. Mark Isaac",
+"Timothy C. Salmon"
+]
+]
+},
+"comingandgoingexperimentsonendogenousgroupsizesforexcludablepublicgoods": {
+"title": "Coming and Going: Experiments on Endogenous Group Sizes for Excludable Public Goods",
+"authors": [
+"T.K. Ahn",
+"R. Mark Isaac",
+"Timothy C. Salmon"
+],
+"unresolved": [
+"T.K. Ahn"
+],
+"owners": [
+"r-mark-isaac"
+],
+"remote": [
+[
+"T.K. Ahn",
+"R. Mark Isaac",
+"Timothy C. Salmon"
+]
+]
+},
+"endogenousgroupformation": {
+"title": "Endogenous Group Formation",
+"authors": [
+"T.K. Ahn",
+"R. Mark Isaac",
+"Timothy C. Salmon"
+],
+"unresolved": [
+"T.K. Ahn"
+],
+"owners": [
+"r-mark-isaac"
+],
+"remote": [
+[
+"Tim Salmon",
+"Robert Mark Isaac",
+"T. K. Ahn"
+]
+]
+},
 "doeswomensautonomyimproveforestrestorationexperimentalevidencefromthehimalayas": {
 "title": "Does Women's Autonomy Improve Forest Restoration? Experimental Evidence from the Himalayas",
 "authors": [
@@ -24473,6 +30859,103 @@
 ],
 "remote": []
 },
+"hedgingorholdingbackinflationexpectationsandfarmlandvalues": {
+"title": "Hedging or Holding Back? Inflation Expectations and Farmland Values",
+"authors": [
+"B. Yoch",
+"Rabail Chandio"
+],
+"unresolved": [
+"B. Yoch"
+],
+"owners": [
+"rabail-chandio"
+],
+"remote": []
+},
+"howcropforecastsimilaritygovernmentpoliciesandmacroeconomicconditionsaffectwasde": {
+"title": "How Crop Forecast Similarity, Government Policies, and Macroeconomic Conditions Affect WASDE Forecast Accuracy",
+"authors": [
+"S. Zhining",
+"Rabail Chandio",
+"A.L. Katchova"
+],
+"unresolved": [
+"S. Zhining"
+],
+"owners": [
+"rabail-chandio"
+],
+"remote": [
+[
+"Zhining Sun",
+"Rabail Chandio",
+"Ani L. Katchova"
+]
+]
+},
+"dynamicandheterogeneouseffectsofwindturbinesonagriculturallandvalues": {
+"title": "Dynamic and Heterogeneous Effects of Wind Turbines on Agricultural Land Values",
+"authors": [
+"J. Moon",
+"Rabail Chandio",
+"H. Feng"
+],
+"unresolved": [
+"J. Moon",
+"H. Feng"
+],
+"owners": [
+"rabail-chandio"
+],
+"remote": []
+},
+"measuringconsolidationinlivestockfarmswiththeshareweightedsizeindex": {
+"title": "Measuring Consolidation in Livestock Farms with the Share-Weighted Size Index",
+"authors": [
+"Rabail Chandio",
+"K. Lacy"
+],
+"unresolved": [
+"K. Lacy"
+],
+"owners": [
+"rabail-chandio"
+],
+"remote": []
+},
+"ownershiprestrictionsandfarmlandvalues": {
+"title": "Ownership Restrictions and Farmland Values",
+"authors": [
+"Rabail Chandio",
+"C. Fiechter",
+"A. Shew",
+"C. Tester"
+],
+"unresolved": [
+"C. Fiechter",
+"A. Shew",
+"C. Tester"
+],
+"owners": [
+"rabail-chandio"
+],
+"remote": []
+},
+"didtheindiangreenrevolutionchangethefarmsizeproductivityrelationship": {
+"title": "Did the Indian Green Revolution Change the Farm Size-Productivity Relationship?",
+"authors": [
+"Rabail Chandio",
+"L.E.M. Bevis"
+],
+"unresolved": [
+"L.E.M. Bevis"
+],
+"owners": [
+"rabail-chandio"
+],
+"remote": []
+},
 "bridgingcommunityresilienceandlocalplanningforclimatejustice": {
 "title": "Bridging Community Resilience and Local Planning for Climate Justice",
 "authors": [
@@ -24495,7 +30978,8 @@
 "A. R. Siders"
 ],
 "owners": [
-"rachel-m-young"
+"rachel-m-young",
+"tamara-sheldon"
 ],
 "remote": [
 [
@@ -24615,6 +31099,48 @@
 "S. Viswanathan"
 ]
 ]
+},
+"microcreditandwillingnesstopayforenvironmentalqualityevidencefromarandomizedcont": {
+"title": "Microcredit and Willingness to Pay for Environmental Quality: Evidence from a Randomized-Controlled Trial of Finance for Sanitation in Rural Cambodia",
+"authors": [
+"A. BenYishay",
+"A. Fraker",
+"Raymond Guiteras",
+"G. Palloni",
+"N.B. Shah",
+"S. Shirrell",
+"P. Wang"
+],
+"unresolved": [
+"A. BenYishay",
+"A. Fraker",
+"G. Palloni",
+"N.B. Shah",
+"S. Shirrell",
+"P. Wang"
+],
+"owners": [
+"raymond-guiteras"
+],
+"remote": []
+},
+"routinedisastersfloodshumancapitalandadaptationinbangladesh": {
+"title": "Routine Disasters: Floods, Human Capital and Adaptation in Bangladesh",
+"authors": [
+"Raymond Guiteras",
+"A. Jina",
+"A.M. Mobarak",
+"L. Shakya"
+],
+"unresolved": [
+"A. Jina",
+"A.M. Mobarak",
+"L. Shakya"
+],
+"owners": [
+"raymond-guiteras"
+],
+"remote": []
 },
 "diversepartnersinitiativesandactionscontributetosuccessfulpreemptiveconservation": {
 "title": "Diverse partners, initiatives, and actions contribute to successful preemptive conservation of imperiled species",
@@ -25032,6 +31558,34 @@
 ],
 "remote": []
 },
+"economicandgeomorphiccomparisonofoutercontinentalshelfsandandnearshoresandforcoa": {
+"title": "Economic and geomorphic comparison of Outer Continental Shelf sand and nearshore sand for coastal restoration projects",
+"authors": [
+"Rex H. Caffey",
+"D Petrolia",
+"IY Georgious",
+"MC Miner",
+"H Wang",
+"Brittany Kime"
+],
+"unresolved": [
+"D Petrolia",
+"H Wang"
+],
+"owners": [
+"rex-h-caffey"
+],
+"remote": [
+[
+"RH Caffey",
+"D Petrolia",
+"IY Georgious",
+"M Miner",
+"H Wang",
+"B Kime"
+]
+]
+},
 "shouldistayorshouldigodynamicdecisionrulesthatreflectrateofreturnandstationaryeq": {
 "title": "Should I Stay or Should I Go? Dynamic Decision Rules that Reflect Rate-of-Return and Stationary Equivalency Tradeoffs",
 "authors": [
@@ -25356,7 +31910,8 @@
 "J.R. DeShazo"
 ],
 "owners": [
-"richard-t-carson"
+"richard-t-carson",
+"tamara-sheldon"
 ],
 "remote": [
 [
@@ -25377,7 +31932,8 @@
 "J.R. DeShazo"
 ],
 "owners": [
-"richard-t-carson"
+"richard-t-carson",
+"tamara-sheldon"
 ],
 "remote": [
 [
@@ -25774,8 +32330,7 @@
 ],
 "unresolved": [
 "P. Ferraro",
-"J. List",
-"M. Price"
+"J. List"
 ],
 "owners": [
 "robert-d-metcalfe"
@@ -25891,8 +32446,7 @@
 "M. Price"
 ],
 "unresolved": [
-"J. List",
-"M. Price"
+"J. List"
 ],
 "owners": [
 "robert-d-metcalfe"
@@ -26495,6 +33049,646 @@
 ],
 "remote": []
 },
+"theimpactofforeignacquisitionsonemploymentoutputandwagesintheunitedstatesagrifoo": {
+"title": "The Impact of Foreign Acquisitions on Employment, Output, and Wages in the United States Agrifood Industry",
+"authors": [
+"H.E. Richards",
+"X. Zhou",
+"M. Yasar",
+"I.T. Kandilov",
+"R.M. Rejesus"
+],
+"unresolved": [
+"H.E. Richards",
+"X. Zhou",
+"I.T. Kandilov",
+"R.M. Rejesus"
+],
+"owners": [
+"roderick-rejesus"
+],
+"remote": []
+},
+"yieldandeconomicimpactsofenhancedefficiencyfertilizersevidencefromabayesianmetaa": {
+"title": "Yield and Economic Impacts of Enhanced Efficiency Fertilizers: Evidence from a Bayesian Meta-Analysis",
+"authors": [
+"L. Sanat",
+"R.M. Rejesus",
+"A. Woodley"
+],
+"unresolved": [
+"L. Sanat",
+"R.M. Rejesus"
+],
+"owners": [
+"roderick-rejesus"
+],
+"remote": []
+},
+"longtermeconomicreturnstonotilladoptionevidencefromfieldtrialsintheusmidwest": {
+"title": "Long-Term Economic Returns to No-Till Adoption: Evidence from Field Trials in the US Midwest",
+"authors": [
+"Y. Zhang",
+"R.M. Rejesus",
+"M.A. Cavigelli",
+"K.E. White",
+"L.G. Knight",
+"C. Dell",
+"E.D. Lane",
+"J. Suhr-Pierce"
+],
+"unresolved": [
+"J. Suhr-Pierce"
+],
+"owners": [
+"roderick-rejesus"
+],
+"remote": [
+[
+"Yifei Zhang",
+"Roderick M. Rejesus",
+"Michel A. Cavigelli",
+"Kathryn E. White",
+"Lynn G. Knight",
+"Curtis Dell",
+"Erin D. Lane",
+"Julie Suhr Pierce",
+"Brook Wilke",
+"Steve Culman",
+"Sarah Evans"
+]
+]
+},
+"internationallinkagesandfemaleshareofemploymentevidencefromindonesianplantlevelp": {
+"title": "International Linkages and Female Share of Employment: Evidence from Indonesian Plant-Level Panel Data",
+"authors": [
+"C. Putra",
+"A. Agarwal",
+"B. Lahiri",
+"M. Yasar",
+"R.M. Rejesus"
+],
+"unresolved": [
+"C. Putra",
+"A. Agarwal",
+"B. Lahiri",
+"R.M. Rejesus"
+],
+"owners": [
+"roderick-rejesus"
+],
+"remote": []
+},
+"understandingtheyieldimpactsofalternativecovercropfamiliesandmixturesevidencefro": {
+"title": "Understanding the Yield Impacts of Alternative Cover Crop Families and Mixtures: Evidence from Side-by-Side Plot-level Panel Data",
+"authors": [
+"S. Won",
+"R.M. Rejesus",
+"A. Poncet",
+"S. Aglasan",
+"R. Thapa",
+"K.L. Tulley",
+"C. Reberg-Horton",
+"M.L. Cabrera",
+"B.W. Davis",
+"J. Gaskin",
+"R. Hitchcock",
+"H.H. Schomberg",
+"S.A. Seehaver",
+"K. Balkcom",
+"M. Reiter",
+"J.O. Miller",
+"S.B. Mirsky"
+],
+"unresolved": [
+"R.M. Rejesus",
+"A. Poncet",
+"R. Thapa",
+"K.L. Tulley",
+"M.L. Cabrera",
+"B.W. Davis",
+"J. Gaskin",
+"R. Hitchcock",
+"H.H. Schomberg",
+"S.A. Seehaver",
+"K. Balkcom",
+"M. Reiter",
+"J.O. Miller"
+],
+"owners": [
+"roderick-rejesus",
+"serkan-aglasan"
+],
+"remote": []
+},
+"riskeffectsofgmcornevidencefromcropinsuranceoutcomesandhighdimensionalmethods": {
+"title": "Risk Effects of GM Corn: Evidence from Crop Insurance Outcomes and High-dimensional Methods",
+"authors": [
+"S. Aglasan",
+"B.K. Goodwin",
+"R.M. Rejesus"
+],
+"unresolved": [
+"B.K. Goodwin",
+"R.M. Rejesus"
+],
+"owners": [
+"roderick-rejesus",
+"serkan-aglasan"
+],
+"remote": []
+},
+"cropinsuranceparticipationandcovercropuseevidencefromindianacountyleveldata": {
+"title": "Crop Insurance Participation and Cover Crop Use: Evidence from Indiana County-level Data",
+"authors": [
+"L. Connor",
+"R.M. Rejesus",
+"M. Yasar"
+],
+"unresolved": [
+"R.M. Rejesus"
+],
+"owners": [
+"roderick-rejesus"
+],
+"remote": []
+},
+"cultivatingtrustintechnologymediatedsustainableagriculturalresearch": {
+"title": "Cultivating Trust in Technology-Mediated Sustainable Agricultural Research",
+"authors": [
+"A. Raturi",
+"V. Ackroyd",
+"C. Chase",
+"B.W. Davis",
+"R. Myers",
+"A. Poncet",
+"P. Ramos-Giraldo",
+"C. Reberg-Horton",
+"R.M. Rejesus",
+"A. Robertson",
+"M. Ruark",
+"S. Seehaver-Eagen",
+"J.J. Thompson",
+"S. Mirsky"
+],
+"unresolved": [
+"A. Raturi",
+"V. Ackroyd",
+"C. Chase",
+"B.W. Davis",
+"A. Poncet",
+"P. Ramos-Giraldo",
+"R.M. Rejesus",
+"A. Robertson",
+"M. Ruark",
+"S. Seehaver-Eagen",
+"J.J. Thompson",
+"S. Mirsky"
+],
+"owners": [
+"roderick-rejesus"
+],
+"remote": []
+},
+"landscapelevelfeedbacksfromlargescaleadoptionoftransgenicpesticidalmaizeinthephi": {
+"title": "Landscape-level feedbacks from large-scale adoption of transgenic pesticidal maize in the Philippines",
+"authors": [
+"Z.S. Brown",
+"L. Connor",
+"R.M. Rejesus",
+"J.M. Yorobe Jr."
+],
+"unresolved": [
+"Z.S. Brown",
+"R.M. Rejesus"
+],
+"owners": [
+"roderick-rejesus"
+],
+"remote": []
+},
+"contractelementsgrowingconditionsandanomalousclaimsbehaviorinuscropinsurance": {
+"title": "Contract Elements, Growing Conditions, and Anomalous Claims Behavior in U.S. Crop Insurance",
+"authors": [
+"S. Park",
+"B.K. Goodwin",
+"X. Zheng",
+"R.M. Rejesus"
+],
+"unresolved": [
+"S. Park",
+"B.K. Goodwin",
+"X. Zheng",
+"R.M. Rejesus"
+],
+"owners": [
+"roderick-rejesus"
+],
+"remote": []
+},
+"inputuseundercostofproductioncropinsurancetheoryandevidence": {
+"title": "Input Use under Cost-of-Production Crop Insurance: Theory and Evidence",
+"authors": [
+"J. He",
+"X. Zheng",
+"R.M. Rejesus",
+"J.M. Yorobe Jr"
+],
+"unresolved": [
+"R.M. Rejesus"
+],
+"owners": [
+"roderick-rejesus"
+],
+"remote": []
+},
+"perspectiveenhancingeconomicevaluationsandimpactsofintegratedpestmanagementfarme": {
+"title": "Perspective: enhancing economic evaluations and impacts of integrated pest management farmer field schools (IPM-FFS) in low-income countries",
+"authors": [
+"R.M. Rejesus",
+"M.S. Jones"
+],
+"unresolved": [
+"R.M. Rejesus",
+"M.S. Jones"
+],
+"owners": [
+"roderick-rejesus"
+],
+"remote": []
+},
+"moralhazardandadverseselectioneffectsofcostofproductioncropinsuranceevidencefrom": {
+"title": "Moral Hazard and Adverse Selection Effects of Cost-of-Production Crop Insurance: Evidence from the Philippines",
+"authors": [
+"J. He",
+"X. Zheng",
+"R.M. Rejesus",
+"J.M. Yorobe Jr"
+],
+"unresolved": [
+"R.M. Rejesus"
+],
+"owners": [
+"roderick-rejesus"
+],
+"remote": []
+},
+"adoptionofprecisiontechnologiesandperceivedimprovementsincottonquality": {
+"title": "Adoption of Precision Technologies and Perceived Improvements in Cotton Quality",
+"authors": [
+"S. Kotsiri",
+"R.M. Rejesus",
+"S.L. Larkin",
+"M.C. Marra"
+],
+"unresolved": [
+"S. Kotsiri",
+"R.M. Rejesus"
+],
+"owners": [
+"roderick-rejesus"
+],
+"remote": []
+},
+"productliabilityriskperceptionsintennesseefruitandvegetablemarketing": {
+"title": "Product Liability Risk Perceptions in Tennessee Fruit and Vegetable Marketing",
+"authors": [
+"M. Velandia",
+"D.M. Lambert",
+"C.D. Clark",
+"R.M. Rejesus",
+"Z. Li",
+"W.H. Pepper",
+"K. Jensen"
+],
+"unresolved": [
+"C.D. Clark",
+"R.M. Rejesus",
+"Z. Li",
+"W.H. Pepper",
+"K. Jensen"
+],
+"owners": [
+"roderick-rejesus"
+],
+"remote": []
+},
+"variableratetechnologyandcottonyieldresponseintexas": {
+"title": "Variable Rate Technology and Cotton Yield Response in Texas",
+"authors": [
+"S. Nair",
+"C. Wang",
+"E. Segarra",
+"J. Johnson",
+"R.M. Rejesus"
+],
+"unresolved": [
+"S. Nair",
+"C. Wang",
+"J. Johnson",
+"R.M. Rejesus"
+],
+"owners": [
+"roderick-rejesus"
+],
+"remote": []
+},
+"insecticideuseimpactsofintegratedpestmanagementipmfarmerfieldschoolsevidencefrom": {
+"title": "Insecticide Use Impacts of Integrated Pest Management (IPM) Farmer Field Schools: Evidence from Onion Farmers in the Philippines",
+"authors": [
+"Yorobe",
+"J.M. Jr.",
+"R.M. Rejesus",
+"M.D. Hammig"
+],
+"unresolved": [
+"J.M. Jr."
+],
+"owners": [
+"roderick-rejesus"
+],
+"remote": [
+[
+"J.M. Yorobe",
+"R.M. Rejesus",
+"M.D. Hammig"
+]
+]
+},
+"yieldspesticideproductivityandbtcornevidencefromthephilippines": {
+"title": "Yields, Pesticide Productivity and Bt Corn: Evidence from the Philippines",
+"authors": [
+"M.E. Mutuc",
+"R.M. Rejesus",
+"J.M. Yorobe Jr."
+],
+"unresolved": [
+"R.M. Rejesus"
+],
+"owners": [
+"roderick-rejesus"
+],
+"remote": []
+},
+"developingvariableunitstructurepremiumratedifferentialsincropinsurance": {
+"title": "Developing Variable Unit-Structure Premium Rate Differentials in Crop Insurance",
+"authors": [
+"T.O. Knight",
+"K.H. Coble",
+"B.K. Goodwin",
+"R.M. Rejesus",
+"S. Seo"
+],
+"unresolved": [
+"K.H. Coble",
+"B.K. Goodwin",
+"R.M. Rejesus",
+"S. Seo"
+],
+"owners": [
+"roderick-rejesus"
+],
+"remote": []
+},
+"factorsinfluencingproducersperceptionsabouttheimportanceofgovernmentsupportprogr": {
+"title": "Factors Influencing Producers' Perceptions About the Importance of Government Support Programs: Application of a Semi-Parametric Ordered Response Model",
+"authors": [
+"R.M. Rejesus",
+"B.J. Sherrick",
+"G.D. Schnitkey",
+"C.L. Escalante"
+],
+"unresolved": [
+"R.M. Rejesus",
+"G.D. Schnitkey",
+"C.L. Escalante"
+],
+"owners": [
+"roderick-rejesus"
+],
+"remote": []
+},
+"foodcalorieintakeundergrainpriceuncertaintyevidencefromruralnepal": {
+"title": "Food Calorie Intake under Grain Price Uncertainty: Evidence from Rural Nepal",
+"authors": [
+"S. Pan",
+"C. Fang",
+"R.M. Rejesus"
+],
+"unresolved": [
+"S. Pan",
+"C. Fang",
+"R.M. Rejesus"
+],
+"owners": [
+"roderick-rejesus"
+],
+"remote": []
+},
+"theimpactofalternativeipminformationdisseminationmethodsoninsecticideuseandeffic": {
+"title": "The Impact of Alternative IPM Information Dissemination Methods on Insecticide Use and Efficiency: Evidence from Rice Producers in South Vietnam",
+"authors": [
+"R.M. Rejesus",
+"F.G. Palis",
+"A.V. Lapitan",
+"T.N. Chi",
+"M. Hossain"
+],
+"unresolved": [
+"R.M. Rejesus",
+"T.N. Chi",
+"M. Hossain"
+],
+"owners": [
+"roderick-rejesus"
+],
+"remote": []
+},
+"economicsofmanagementzonedelineationincottonprecisionagriculture": {
+"title": "Economics of Management Zone Delineation in Cotton Precision Agriculture",
+"authors": [
+"M. Velandia",
+"R.M. Rejesus",
+"K. Bronson",
+"E. Segarra"
+],
+"unresolved": [
+"R.M. Rejesus"
+],
+"owners": [
+"roderick-rejesus"
+],
+"remote": []
+},
+"riskbalancingunderconstantabsoluteandrelativeriskaversion": {
+"title": "Risk Balancing Under Constant Absolute and Relative Risk Aversion",
+"authors": [
+"C.L. Escalante",
+"R.M Rejesus"
+],
+"unresolved": [
+"C.L. Escalante",
+"R.M Rejesus"
+],
+"owners": [
+"roderick-rejesus"
+],
+"remote": []
+},
+"householdvegetabledemandinthephilippinesisthereanurbanruraldivide": {
+"title": "Household Vegetable Demand in the Philippines: Is there an Urban-Rural Divide?",
+"authors": [
+"M.E. Mutuc",
+"S. Pan.",
+"R.M. Rejesus"
+],
+"unresolved": [
+"S. Pan.",
+"R.M. Rejesus"
+],
+"owners": [
+"roderick-rejesus"
+],
+"remote": []
+},
+"impactsofanagriculturaldevelopmentprogramforcoconutproducersinthephilippinesanap": {
+"title": "Impacts of an Agricultural Development Program for Coconut Producers in the Philippines: An Approach Using Panel Data and Propensity Score Matching Techniques",
+"authors": [
+"D.P. Rodriguez",
+"R.M. Rejesus",
+"C.T. Aragon"
+],
+"unresolved": [
+"D.P. Rodriguez",
+"R.M. Rejesus"
+],
+"owners": [
+"roderick-rejesus"
+],
+"remote": []
+},
+"isthereevidenceoflearningbyexportingintwoturkishmanufacturingindustries": {
+"title": "Is there Evidence of Learningby-Exporting in Two Turkish Manufacturing Industries?",
+"authors": [
+"M. Yasar",
+"P. Garcia",
+"C.H. Nelson",
+"R.M. Rejesus"
+],
+"unresolved": [
+"P. Garcia",
+"R.M. Rejesus"
+],
+"owners": [
+"roderick-rejesus"
+],
+"remote": []
+},
+"developingexperiencebasedpremiumratediscountsincropinsurance": {
+"title": "Developing Experience-Based Premium Rate Discounts in Crop Insurance",
+"authors": [
+"R.M. Rejesus",
+"K.H. Coble",
+"T.O. Knight",
+"Y. Jin"
+],
+"unresolved": [
+"R.M. Rejesus",
+"K.H. Coble",
+"Y. Jin"
+],
+"owners": [
+"roderick-rejesus"
+],
+"remote": []
+},
+"istheremanipulationofselfreportedyielddataincropinsuranceanapplicationofbenfords": {
+"title": "Is there Manipulation of Self-Reported Yield Data in Crop Insurance? An Application of Benford's Law",
+"authors": [
+"R.M. Rejesus",
+"B.B. Little",
+"M. Jaramillo"
+],
+"unresolved": [
+"R.M. Rejesus",
+"B.B. Little"
+],
+"owners": [
+"roderick-rejesus"
+],
+"remote": []
+},
+"yieldcoveragelevelsasdeductiblesincropinsurancecontractsistheeffectonfalsificati": {
+"title": "Yield Coverage Levels as Deductibles in Crop Insurance Contracts: Is the Effect on Falsification Behavior Significant?",
+"authors": [
+"R.M. Rejesus",
+"B. Little"
+],
+"unresolved": [
+"R.M. Rejesus"
+],
+"owners": [
+"roderick-rejesus"
+],
+"remote": []
+},
+"areaddedlandandnewproducerprovisionsincropinsurancevulnerabletoabusethecaseofins": {
+"title": "Are Added Land and New Producer Provisions in Crop Insurance Vulnerable to Abuse? The Case of Insured Texas Cotton Producers",
+"authors": [
+"R.M. Rejesus",
+"A.C. Lovell"
+],
+"unresolved": [
+"R.M. Rejesus"
+],
+"owners": [
+"roderick-rejesus"
+],
+"remote": []
+},
+"expostmoralhazardintheuscropinsuranceprogramcostlystateverificationorfalsificati": {
+"title": "Ex-post Moral Hazard in the U.S. Crop Insurance Program: Costly State Verification or Falsification?",
+"authors": [
+"R.M. Rejesus"
+],
+"unresolved": [
+"R.M. Rejesus"
+],
+"owners": [
+"roderick-rejesus"
+],
+"remote": []
+},
+"sustainablepondculturedevelopmentandmangrovedepletioninthephilippinespolicyimpli": {
+"title": "Sustainable Pond Culture Development and Mangrove Depletion in the Philippines: Policy Implications from a Dynamic Model",
+"authors": [
+"R.M. Rejesus",
+"E.L. Genio Jr."
+],
+"unresolved": [
+"R.M. Rejesus"
+],
+"owners": [
+"roderick-rejesus"
+],
+"remote": []
+},
+"wheatbreedersperspectivesongeneticdiversityandgermplasmusefindingsfromaninternat": {
+"title": "Wheat Breeders' Perspectives on Genetic Diversity and Germplasm Use: Findings from an International Survey",
+"authors": [
+"R.M. Rejesus",
+"M. Smale",
+"M. Van Ginkel"
+],
+"unresolved": [
+"R.M. Rejesus",
+"M. Smale"
+],
+"owners": [
+"roderick-rejesus"
+],
+"remote": []
+},
 "agriculturalproductivityandpovertyreductioninafrica": {
 "title": "Agricultural Productivity and Poverty Reduction in Africa",
 "authors": [
@@ -27085,79 +34279,6 @@
 ],
 "remote": []
 },
-"enablinganequitableenergytransitionthroughinclusiveresearch": {
-"title": "Enabling an equitable energy transition through inclusive research",
-"authors": [
-"A.P. Ravikumar",
-"E. Baker",
-"A. Bates",
-"D. Nock",
-"D. Venkataraman",
-"T. Johnson",
-"M. Ash",
-"S.Z. Attari",
-"K. Bowie",
-"S. Carley",
-"S. Castellanos",
-"M. Cha",
-"D.L. Clark",
-"D. Deane-Ryan",
-"D. Djokic",
-"J.C. Ford",
-"A. Goldstein",
-"E. Grubert",
-"L. Hu",
-"D.M. Kammen",
-"U. Kosar",
-"C. Miller",
-"M. Pastor",
-"M. Tuominen"
-],
-"unresolved": [
-"D. Venkataraman",
-"T. Johnson",
-"M. Ash",
-"K. Bowie",
-"M. Cha",
-"D.L. Clark",
-"D. Deane-Ryan",
-"J.C. Ford",
-"L. Hu",
-"U. Kosar",
-"M. Tuominen"
-],
-"owners": [
-"sanya-carley"
-],
-"remote": [
-[
-"A. P. Ravikumar",
-"E. Baker",
-"A. Bates",
-"D. Nock",
-"D. Venkataraman",
-"T. Johnson",
-"M. Ash",
-"S. Z. Attari",
-"K. Bowie",
-"S. Carley",
-"S. Castellanos",
-"M. Cha",
-"D. L. Clark",
-"D. Deane-Ryan",
-"D. Djokic",
-"J. C. Ford",
-"A. Goldstein",
-"E. Grubert",
-"L. Hu",
-"D. M. Kammen",
-"U. Kosar",
-"C. Miller",
-"M. Pastor",
-"M. Tuominen"
-]
-]
-},
 "equitytechnologicalinnovationandsustainablebehaviorinalowcarbonfuture": {
 "title": "Equity, technological innovation and sustainable behavior in a low-carbon future",
 "authors": [
@@ -27726,60 +34847,6 @@
 ],
 "owners": [
 "seema-jayachandran"
-],
-"remote": []
-},
-"understandingtheyieldimpactsofalternativecovercropfamiliesandmixturesevidencefro": {
-"title": "Understanding the yield impacts of alternative cover crop families and mixtures: Evidence from side-by-side plot-level panel data",
-"authors": [
-"S. Won",
-"R.M. Rejesus",
-"A.M. Poncet",
-"S. Aglasan",
-"R. Thapa",
-"K.L. Tulley",
-"S.B. Mirsky"
-],
-"unresolved": [
-"R.M. Rejesus",
-"A.M. Poncet",
-"R. Thapa",
-"K.L. Tulley"
-],
-"owners": [
-"serkan-aglasan"
-],
-"remote": []
-},
-"riskeffectsofgmcornevidencefromcropinsuranceoutcomesandhighdimensionalmethods": {
-"title": "Risk effects of GM corn: Evidence from crop insurance outcomes and high-dimensional methods",
-"authors": [
-"S. Aglasan",
-"B.K. Goodwin",
-"R.M. Rejesus"
-],
-"unresolved": [
-"R.M. Rejesus"
-],
-"owners": [
-"serkan-aglasan"
-],
-"remote": []
-},
-"theimpactofnotillonagriculturallandvaluesintheunitedstatesmidwest": {
-"title": "The impact of no-till on agricultural land values in the United States Midwest",
-"authors": [
-"L. Chen",
-"R.M. Rejesus",
-"S. Aglasan",
-"S. Hagen",
-"W. Salas"
-],
-"unresolved": [
-"R.M. Rejesus"
-],
-"owners": [
-"serkan-aglasan"
 ],
 "remote": []
 },
@@ -28835,6 +35902,119 @@
 ],
 "remote": []
 },
+"nonparametrictestsofthetragedyofthecommons": {
+"title": "Nonparametric Tests of the Tragedy of the Commons",
+"authors": [
+"F. Asche",
+"Spencer Banzhaf",
+"Y. Liu",
+"M. Smith"
+],
+"unresolved": [
+"F. Asche",
+"Y. Liu",
+"M. Smith"
+],
+"owners": [
+"spencer-banzhaf"
+],
+"remote": []
+},
+"bestpracticesinusinghedonicpropertyvaluemodelsforwelfaremeasurement": {
+"title": "Best Practices in Using Hedonic Property Value Models for Welfare Measurement",
+"authors": [
+"Spencer Banzhaf",
+"K.C. Bishop",
+"K.J. Boyle",
+"K. von Gravenitz",
+"N.V. Kuminoff",
+"J.C. Pope",
+"V.K. Smith",
+"C. Timmins"
+],
+"unresolved": [
+"K.J. Boyle",
+"J.C. Pope",
+"V.K. Smith"
+],
+"owners": [
+"christopher-timmins",
+"kelly-c-bishop",
+"nicolai-v-kuminoff",
+"spencer-banzhaf"
+],
+"remote": []
+},
+"valuationofecosystemservicesinthesouthernappalachianmountains": {
+"title": "Valuation of Ecosystem Services in the Southern Appalachian Mountains",
+"authors": [
+"Spencer Banzhaf",
+"D. Burtraw",
+"B.J. Cosby",
+"S.C. Criscimagna",
+"D.A. Evans",
+"A.J. Krupnick",
+"J.V. Siikam�ki"
+],
+"unresolved": [
+"B.J. Cosby",
+"S.C. Criscimagna",
+"A.J. Krupnick",
+"J.V. Siikam�ki"
+],
+"owners": [
+"spencer-banzhaf"
+],
+"remote": []
+},
+"nonregulatoryapproachestotheenvironmentcoaseanandpigouvianperspectives": {
+"title": "Non-Regulatory Approaches to the Environment: Coasean and Pigouvian Perspectives",
+"authors": [
+"Spencer Banzhaf",
+"T. Fitzgerald",
+"K. Schnier"
+],
+"unresolved": [
+"T. Fitzgerald",
+"K. Schnier"
+],
+"owners": [
+"spencer-banzhaf"
+],
+"remote": []
+},
+"metaanalysisinmodelimplementationchoicesetsandthevaluationofairqualityimprovemen": {
+"title": "Meta Analysis in Model Implementation: Choice Sets and the Valuation of Air Quality Improvements",
+"authors": [
+"Spencer Banzhaf",
+"V.K. Smith"
+],
+"unresolved": [
+"V.K. Smith"
+],
+"owners": [
+"spencer-banzhaf"
+],
+"remote": []
+},
+"archivingthehistoryofeconomics": {
+"title": "Archiving the History of Economics",
+"authors": [
+"Spencer Banzhaf",
+"T.A. Gayer",
+"S.J. Meardon",
+"E.R. Weintraub"
+],
+"unresolved": [
+"T.A. Gayer",
+"S.J. Meardon",
+"E.R. Weintraub"
+],
+"owners": [
+"spencer-banzhaf"
+],
+"remote": []
+},
 "landscapeefficiencyfrontiersforbiodiversityclimatemitigationandneteconomicvalue": {
 "title": "Landscape efficiency frontiers for biodiversity, climate mitigation and net economic value",
 "authors": [
@@ -29006,8 +36186,7 @@
 ],
 "unresolved": [
 "K. Jónás",
-"G.J.Hofstede",
-"M. Janssen"
+"G.J.Hofstede"
 ],
 "owners": [
 "stephen-polasky"
@@ -29101,6 +36280,7 @@
 ],
 "owners": [
 "jeffrey-r-vincent",
+"kathleen-segerson",
 "scott-barrett",
 "stephen-polasky"
 ],
@@ -29246,6 +36426,7 @@
 "T. Chapin"
 ],
 "owners": [
+"kathleen-segerson",
 "stephen-polasky"
 ],
 "remote": [
@@ -29498,7 +36679,6 @@
 ],
 "unresolved": [
 "A. Dasgupta",
-"J. Anderies",
 "C. Bledsoe",
 "J. Bongaarts",
 "S. Carpenter",
@@ -31670,6 +38850,22 @@
 ],
 "remote": []
 },
+"theeffectoftheoilandgasboomonschoolingdecisionsintheus": {
+"title": "The effect of the oil and gas boom on schooling decisions in the U.S.",
+"authors": [
+"N. Zuo",
+"J. Schieffer",
+"Steven Buck"
+],
+"unresolved": [
+"N. Zuo",
+"J. Schieffer"
+],
+"owners": [
+"steven-buck"
+],
+"remote": []
+},
 "gendereddemandforenvironmentalhealthtechnologiesevidenceofcomplementaritiesfroms": {
 "title": "Gendered demand for environmental health technologies: Evidence of complementarities from stove auctions in India",
 "authors": [
@@ -32390,6 +39586,61 @@
 ],
 "remote": []
 },
+"microtargetingconsumerstoreduceconsumptiveexternalities": {
+"title": "Micro-targeting Consumers to Reduce Consumptive Externalities",
+"authors": [
+"Tamara L. Sheldon",
+"J.R. DeShazo",
+"Bronwyn Lewis Friscia"
+],
+"unresolved": [
+"J.R. DeShazo"
+],
+"owners": [
+"tamara-sheldon"
+],
+"remote": [
+[
+"Tamara L. Sheldon",
+"J. R. DeShazo",
+"Bronwyn Lewis Friscia"
+]
+]
+},
+"demandforbatteryelectricandpluginhybridvehiclespolicylessonsforanemergingmarket": {
+"title": "Demand for Battery-electric and Plug-in Hybrid Vehicles: Policy Lessons for an Emerging Market",
+"authors": [
+"Tamara L. Sheldon",
+"J.R. DeShazo",
+"Richard T. Carson"
+],
+"unresolved": [
+"J.R. DeShazo"
+],
+"owners": [
+"tamara-sheldon"
+],
+"remote": []
+},
+"howdoesthepresenceofhovlanesaffectpluginelectricvehicleadoptionincaliforniaagene": {
+"title": "How Does the Presence of HOV Lanes Affect Plug-in Electric Vehicle Adoption in California? A Generalized Propensity Score Approach",
+"authors": [
+"Tamara L. Sheldon",
+"J.R. DeShazo"
+],
+"unresolved": [
+"J.R. DeShazo"
+],
+"owners": [
+"tamara-sheldon"
+],
+"remote": [
+[
+"Tamara L. Sheldon",
+"J.R. DeShazo"
+]
+]
+},
 "mappingonabudgetoptimizingspatialdatacollectionformachinelearning": {
 "title": "Mapping on a budget: Optimizing spatial data collection for machine learning",
 "authors": [
@@ -32469,6 +39720,101 @@
 ],
 "remote": []
 },
+"efficiencyofpesticideuseinagriculturalproductionevidencefromvietnamesefruitandri": {
+"title": "Efficiency of Pesticide Use in Agricultural Production: Evidence from Vietnamese Fruit and Rice Farms",
+"authors": [
+"L. Tran",
+"Theodoros Skevas",
+"L. McCann"
+],
+"unresolved": [
+"L. Tran",
+"L. McCann"
+],
+"owners": [
+"theodoros-skevas"
+],
+"remote": []
+},
+"currentpesticidelabelsarenoteffectivelycommunicatingriskstoconsumers": {
+"title": "Current pesticide labels are not effectively communicating risks to consumers",
+"authors": [
+"H. Hosni",
+"M. Segovia",
+"S. Zhao",
+"M. Palma",
+"Theodoros Skevas"
+],
+"unresolved": [
+"H. Hosni",
+"S. Zhao",
+"M. Palma"
+],
+"owners": [
+"theodoros-skevas"
+],
+"remote": []
+},
+"weatherconditionsinfrastructureanduscornandsoybeanbasisspreadlevels": {
+"title": "Weather conditions, infrastructure, and U.S. corn and soybean basis spread levels",
+"authors": [
+"Theodoros Skevas",
+"B. Brown",
+"W. Thompson"
+],
+"unresolved": [
+"B. Brown"
+],
+"owners": [
+"theodoros-skevas"
+],
+"remote": []
+},
+"integratingagriculturalpestbiocontrolintoforecastsofenergybiomassproduction": {
+"title": "Integrating agricultural pest biocontrol into forecasts of energy biomass production",
+"authors": [
+"Theodoros Skevas",
+"S. M. Swinton",
+"T. D. Meehan",
+"T. Kim",
+"C. Gratton",
+"A. Egbendewe-Mondzozo"
+],
+"unresolved": [
+"T. Kim"
+],
+"owners": [
+"theodoros-skevas"
+],
+"remote": [
+[
+"T. Skevas",
+"S.M. Swinton",
+"T.D. Meehan",
+"T.N. Kim",
+"C. Gratton",
+"A. Egbendewe-Mondzozo"
+]
+]
+},
+"doeuropeanunionfarmersrejectgeneticallymodifiedmaizefarmerpreferencesforgenetica": {
+"title": "Do European Union farmers reject genetically modified maize? Farmer preferences for genetically modified maize in Greece",
+"authors": [
+"Theodoros Skevas",
+"E. M. Kikulwe",
+"H. Papadopoulou",
+"I. Skevas",
+"J. Wesseler"
+],
+"unresolved": [
+"E. M. Kikulwe",
+"H. Papadopoulou"
+],
+"owners": [
+"theodoros-skevas"
+],
+"remote": []
+},
 "employmentandcompensationinthemarcellusshalegasboomwhatstayslocal": {
 "title": "Employment and compensation in the Marcellus Shale gas boom: What stays local?",
 "authors": [
@@ -32480,6 +39826,147 @@
 ],
 "owners": [
 "timothy-w-kelsey"
+],
+"remote": []
+},
+"boostingstudyhabitswithhighfrequencyinformationafieldexperimenttoaiddisadvantage": {
+"title": "Boosting Study Habits with High-Frequency Information: A Field Experiment to Aid Disadvantaged Students",
+"authors": [
+"Tomoki Fujii",
+"C. Ho",
+"R. Ray",
+"A. Shonchoy"
+],
+"unresolved": [
+"C. Ho",
+"A. Shonchoy"
+],
+"owners": [
+"tomoki-fujii"
+],
+"remote": []
+},
+"dogovernmentbenefitprogramsreducechildlaborcausalevidencefromthemiddaymealscheme": {
+"title": "Do Government Benefit Programs Reduce Child Labor?: Causal Evidence from the Midday Meal Scheme in India",
+"authors": [
+"V. Chawla",
+"Tomoki Fujii",
+"A. Khanna",
+"R. Ray"
+],
+"unresolved": [
+"V. Chawla"
+],
+"owners": [
+"tomoki-fujii"
+],
+"remote": []
+},
+"agriculturalseasonalityandconditionalcashtransferevidencefromarandomizedfieldexp": {
+"title": "Agricultural seasonality and conditional cash transfer: Evidence from a randomized field experiment in Bangladesh",
+"authors": [
+"Tomoki Fujii",
+"C. Ho",
+"R. Ray",
+"A.S. Shonchoy"
+],
+"unresolved": [
+"C. Ho",
+"A.S. Shonchoy"
+],
+"owners": [
+"tomoki-fujii"
+],
+"remote": []
+},
+"confucianliteratiandlongrundevelopmentinnorthernvietnam": {
+"title": "Confucian literati and long-run development in Northern Vietnam",
+"authors": [
+"L. Meng",
+"Tomoki Fujii"
+],
+"unresolved": [
+"L. Meng"
+],
+"owners": [
+"tomoki-fujii"
+],
+"remote": []
+},
+"schoolattendanceinformationorconditionalcashtransferevidencefromarandomizedfield": {
+"title": "School attendance information or conditional cash transfer? Evidence from a randomized field experiment in rural Bangladesh",
+"authors": [
+"Tomoki Fujii",
+"C. Ho",
+"R. Ray",
+"A.S. Shonchoy"
+],
+"unresolved": [
+"C. Ho",
+"A.S. Shonchoy"
+],
+"owners": [
+"tomoki-fujii"
+],
+"remote": []
+},
+"onlinemarketsorphysicalstoresanalyzingmarketcomplementarityunderproductmatchunce": {
+"title": "Online Markets or Physical Stores? Analyzing Market Complementarity under Product Match Uncertainty",
+"authors": [
+"R. Ahmed",
+"T. Tsvetanov"
+],
+"unresolved": [
+"R. Ahmed"
+],
+"owners": [
+"tsvetan-tsvetanov"
+],
+"remote": []
+},
+"peereffectsinnewenergyvehicleadoptionevidencefromchina": {
+"title": "Peer Effects in New Energy Vehicle Adoption: Evidence from China",
+"authors": [
+"H. Duan",
+"X. Ming",
+"T. Tsvetanov"
+],
+"unresolved": [
+"X. Ming"
+],
+"owners": [
+"tsvetan-tsvetanov"
+],
+"remote": []
+},
+"drillinginthedroughttheindustrialorganizationofgroundwater": {
+"title": "Drilling in the Drought? The Industrial Organization of Groundwater",
+"authors": [
+"Ujjayant Chakravorty",
+"E. Somanathan"
+],
+"unresolved": [
+"E. Somanathan"
+],
+"owners": [
+"ujjayant-chakravorty"
+],
+"remote": []
+},
+"electricityandpopulationrelocationinthephilippines": {
+"title": "Electricity and Population Relocation in the Philippines",
+"authors": [
+"Ujjayant Chakravorty",
+"K. Emerick",
+"I. Eizmendi Larrinaga",
+"M. Ravago"
+],
+"unresolved": [
+"K. Emerick",
+"M. Ravago"
+],
+"owners": [
+"ujjayant-chakravorty"
 ],
 "remote": []
 },
@@ -33348,20 +40835,6 @@
 ],
 "remote": []
 },
-"understandinghypotheticalbiasanenhancedmetaanalysis": {
-"title": "Understanding Hypothetical Bias: An Enhanced Meta-Analysis",
-"authors": [
-"J. Penn",
-"W. Hu"
-],
-"unresolved": [
-"J. Penn"
-],
-"owners": [
-"wuyang-hu"
-],
-"remote": []
-},
 "bedbugsandhotelstravelerinsightsandimplicationsfortheindustry": {
 "title": "Bed Bugs and Hotels: Traveler Insights and Implications for the Industry",
 "authors": [
@@ -34097,6 +41570,58 @@
 ]
 ]
 },
+"thresholdmanagementinacoupledeconomicecologicalsystem": {
+"title": "Threshold management in a coupled economic-ecological system",
+"authors": [
+"Y. Chen",
+"C. Jayaprakash",
+"E. Irwin"
+],
+"unresolved": [
+"E. Irwin"
+],
+"owners": [
+"yong-chen"
+],
+"remote": []
+},
+"designingecologicallyeffectiveandeconomicallyefficientconservationcompensationfu": {
+"title": "Designing ecologically effective and economically efficient conservation compensation funds: Lessons from theory and practice",
+"authors": [
+"Youngho Kim",
+"Isobel Hawkins",
+"Alice Stuart",
+"Shuo Gao",
+"Alexander Teytelboym",
+"Joseph Bull",
+"Martine Maron",
+"E.J. Milner-Gulland",
+"Kerry Kate",
+"Sebastian Theis",
+"Sophus zu Ermgassen"
+],
+"unresolved": [
+"E.J. Milner-Gulland"
+],
+"owners": [
+"youngho-young-kim"
+],
+"remote": []
+},
+"pricediscoveryandintegrationinuspecanmarkets": {
+"title": "Price discovery and integration in US pecan markets",
+"authors": [
+"Youngho Kim",
+"S. Dharmasena"
+],
+"unresolved": [
+"S. Dharmasena"
+],
+"owners": [
+"youngho-young-kim"
+],
+"remote": []
+},
 "netzerotransitionsthroughfinanceheterogeneouseffectsofsustainablefinancepolicies": {
 "title": "Net-zero transitions through finance: Heterogeneous effects of sustainable finance policies across economies and policy designs",
 "authors": [
@@ -34199,6 +41724,325 @@
 ],
 "owners": [
 "yueming-lucy-qiu"
+],
+"remote": []
+},
+"chinastaxreformsof1994breakthroughorcompromise": {
+"title": "China's Tax Reforms of 1994: Breakthrough or Compromise?",
+"authors": [
+"S. K. Tsang",
+"Y. S. Cheng"
+],
+"unresolved": [
+"S. K. Tsang"
+],
+"owners": [
+"yuk-shing-cheng"
+],
+"remote": []
+},
+"ascopingreviewofdisincentivesforanimalwelfareimprovingfarmingpractices": {
+"title": "A scoping review of (dis-)incentives for animal welfare-improving farming practices",
+"authors": [
+"K. Kuruc",
+"J. McFadden",
+"S. Pailler",
+"Zach Raff",
+"S. Raszap",
+"T. Wooley"
+],
+"unresolved": [
+"S. Raszap"
+],
+"owners": [
+"zach-raff"
+],
+"remote": [
+[
+"Trevor Woolley",
+"Sharon Pailler",
+"Jonathan McFadden",
+"Zach Raff",
+"Sharon Raszap Skorbiansky",
+"Kevin Kuruc"
+]
+]
+},
+"airqualityandproductivitytheeffectsofpmconcentrationsondairyyield": {
+"title": "Air quality and productivity: The effects of PM concentrations on dairy yield",
+"authors": [
+"A. Burlile",
+"P. Maniloff",
+"Zach Raff"
+],
+"unresolved": [
+"A. Burlile",
+"P. Maniloff"
+],
+"owners": [
+"zach-raff"
+],
+"remote": []
+},
+"livestockconcentrationschoolabsencesandtestscores": {
+"title": "Livestock concentration, school absences, and test scores",
+"authors": [
+"D. Ginther",
+"A. Meyer",
+"Zach Raff"
+],
+"unresolved": [
+"D. Ginther"
+],
+"owners": [
+"zach-raff"
+],
+"remote": []
+},
+"shiftsinprecipitationhydrologyandlanduseaffectsphosphorusconcentrationsandloadsi": {
+"title": "Shifts in precipitation, hydrology, and land use affects phosphorus concentrations and loads in agricultural watershed",
+"authors": [
+"S. Apfelbaum",
+"A. Meyer",
+"Zach Raff",
+"D. Waller"
+],
+"unresolved": [
+"S. Apfelbaum",
+"D. Waller"
+],
+"owners": [
+"zach-raff"
+],
+"remote": []
+},
+"aroadmapforgenedrivesusinginstitutionalanalysisanddevelopmenttoframeresearchneed": {
+"title": "A roadmap for gene drives: using institutional analysis and development to frame research needs and governance in a systems context",
+"authors": [
+"Jennifer Kuzma",
+"Fred L. Gould",
+"Zachary Steven Brown",
+"James P. Collins",
+"Jason Delborne",
+"Emma Frow",
+"Kevin M. Esvelt",
+"David H. Guston",
+"Caroline M. Leitschuh",
+"Kenneth A. Oye",
+"S. Stauffer"
+],
+"unresolved": [
+"S. Stauffer"
+],
+"owners": [
+"zachary-brown"
+],
+"remote": [
+[
+"J. Kuzma",
+"F. Gould",
+"Z. Brown",
+"J. Collins",
+"J. Delborne",
+"E. Frow",
+"K. Esvelt",
+"D. Guston",
+"C. Leitschuh",
+"K. Oye",
+"S. Stauffer"
+]
+]
+},
+"shockingclimateidentifyingeconomicdamagesfromanthropogenicandnaturalclimatechang": {
+"title": "Shocking Climate: Identifying Economic Damages from Anthropogenic and Natural Climate Change",
+"authors": [
+"Y. Chang",
+"J. Isaac Miller",
+"J.Y. Park"
+],
+"unresolved": [
+"J.Y. Park"
+],
+"owners": [
+"yoosoon-chang",
+"zack-j-isaac-miller"
+],
+"remote": []
+},
+"introductiontoessaysinhonorofjoonyparkeconometricmethodologyinempiricalapplicati": {
+"title": "Introduction to 'Essays in Honor of Joon Y. Park: Econometric Methodology in Empirical Applications'",
+"authors": [
+"Y. Chang",
+"S. Lee",
+"J. Isaac Miller"
+],
+"unresolved": [
+"S. Lee"
+],
+"owners": [
+"zack-j-isaac-miller"
+],
+"remote": []
+},
+"introductiontoessaysinhonorofjoonyparkeconometrictheory": {
+"title": "Introduction to 'Essays in Honor of Joon Y. Park: Econometric Theory'",
+"authors": [
+"Y. Chang",
+"S. Lee",
+"J. Isaac Miller"
+],
+"unresolved": [
+"S. Lee"
+],
+"owners": [
+"zack-j-isaac-miller"
+],
+"remote": []
+},
+"timevaryingcointegrationandthekalmanfilter": {
+"title": "Time-Varying Cointegration and the Kalman Filter",
+"authors": [
+"B.A. Eroglu",
+"J. Isaac Miller",
+"T. Yigit"
+],
+"unresolved": [
+"B.A. Eroglu",
+"T. Yigit"
+],
+"owners": [
+"zack-j-isaac-miller"
+],
+"remote": []
+},
+"modelingandforecastingagriculturalcommoditysupportinthedevelopingcountries": {
+"title": "Modeling and Forecasting Agricultural Commodity Support in the Developing Countries",
+"authors": [
+"J. Binfield",
+"J. Isaac Miller",
+"W. Thompson",
+"J. Zhao"
+],
+"unresolved": [
+"J. Binfield"
+],
+"owners": [
+"zack-j-isaac-miller"
+],
+"remote": []
+},
+"implementingresidualbasedkpsstestsforcointegrationwithdatasubjecttotemporalaggre": {
+"title": "Implementing Residual-Based KPSS Tests for Cointegration with Data Subject to Temporal Aggregation and Mixed Sampling Frequencies",
+"authors": [
+"J. Isaac Miller",
+"X. Wang"
+],
+"unresolved": [
+"X. Wang"
+],
+"owners": [
+"zack-j-isaac-miller"
+],
+"remote": []
+},
+"effectofmarketstructuresonrenewableenergydevelopmentasimulationstudyofaregionale": {
+"title": "Effect of Market Structures on Renewable Energy Development -- A Simulation Study of a Regional Electricity Market in China",
+"authors": [
+"Zili Yang",
+"X. Zhao",
+"et al."
+],
+"unresolved": [
+"X. Zhao"
+],
+"owners": [
+"zili-yang"
+],
+"remote": []
+},
+"contemporaryfairnessvshistoricaljusticeanormativeanalysisofregionalghgemissions": {
+"title": "Contemporary Fairness vs. Historical Justice -- A Normative Analysis of Regional GHG Emissions",
+"authors": [
+"P. Sirianni",
+"Zili Yang"
+],
+"unresolved": [
+"P. Sirianni"
+],
+"owners": [
+"zili-yang"
+],
+"remote": []
+},
+"carbondioxidesequestrationwhenandhowmuch": {
+"title": "Carbon Dioxide Sequestration: When and How Much?",
+"authors": [
+"D. Bradford",
+"M. Hall",
+"K. Keller",
+"Zili Yang"
+],
+"unresolved": [
+"M. Hall"
+],
+"owners": [
+"zili-yang"
+],
+"remote": [
+[
+"Klaus Keller",
+"David McInerney",
+"David F. Bradford"
+]
+]
+},
+"integratedglobalsystemmodeligsmforclimatepolicyanalysisfeedbacksandsensitivityst": {
+"title": "Integrated Global System Model (IGSM) for Climate Policy Analysis: Feedbacks and Sensitivity Studies",
+"authors": [
+"H. Jacoby",
+"R. Prinn",
+"Zili Yang",
+"et al."
+],
+"unresolved": [
+"H. Jacoby",
+"R. Prinn"
+],
+"owners": [
+"zili-yang"
+],
+"remote": []
+},
+"canpriceregulationimprovelanduseintensityevidencefromindustriallandmarketinchina": {
+"title": "Can Price Regulation Improve Land Use Intensity? Evidence from Industrial Land Market in China",
+"authors": [
+"Y. Lin",
+"Y. Qin",
+"Y. Yang",
+"H. Zhu"
+],
+"unresolved": [
+"Y. Lin",
+"Y. Yang",
+"H. Zhu"
+],
+"owners": [
+"yu-qin",
+"zoe-yang-yang"
+],
+"remote": []
+},
+"politicalconnectionsinthelandmarketevidencefromchinasstateownedenterprises": {
+"title": "Political Connections in the Land Market: Evidence from China's State-owned Enterprises",
+"authors": [
+"L. Wang",
+"Y. Yang"
+],
+"unresolved": [
+"L. Wang"
+],
+"owners": [
+"zoe-yang-yang"
 ],
 "remote": []
 },

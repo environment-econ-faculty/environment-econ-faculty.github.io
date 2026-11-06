@@ -1,0 +1,630 @@
+{
+ "slug": "michael-brady",
+ "name": "Michael Brady",
+ "sources": [
+  "https://s3.wp.wsu.edu/uploads/sites/908/2025/06/Brady-Michael-Vita-2024.pdf"
+ ],
+ "collected": "2026-11-06",
+ "notes": "2024 CV only (people.ses.wsu.edu homepage redirects away). Peer-reviewed section only; skipped extension reports, factsheets, technical reports. Under review/R&R/in review articles have no year; set to 2024 (CV date). Some have since appeared per other CVs (Basu et al. Water Resources and Economics 2025; Deol et al. JAWRA 2026; Khan et al. WRR 2025) but kept as the Brady CV states. Duplicate Hall et al. entry merged.",
+ "papers": [
+  {
+   "title": "Identifying double cropped extent in areas with high crop diversity",
+   "authors": [
+    "H. Noorazar",
+    "S. Savalkar",
+    "Michael P. Brady",
+    "A. Kandelati",
+    "M. Liu",
+    "P. Beale",
+    "A. McGuire",
+    "T. Waters",
+    "K. Rajagopalan"
+   ],
+   "year": 2024,
+   "venue": "International Journal of Applied Earth Observation and Geoinformation",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Agent-Based Model for Assessing Agricultural Water Markets Structure and Function",
+   "authors": [
+    "R. Basu",
+    "J. Gifford",
+    "Michael P. Brady",
+    "J. Cook",
+    "K. Rajagopalan",
+    "J. Yoder"
+   ],
+   "year": 2024,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Water Management Technology, Regulation, and Market Perspectives Among Washington State Irrigators",
+   "authors": [
+    "S. Deol",
+    "G. Yorgey",
+    "K. Rajagopalan",
+    "Michael P. Brady",
+    "D. Haller",
+    "J. Padowski",
+    "T. Peters",
+    "R. Young",
+    "J. Cook"
+   ],
+   "year": 2024,
+   "venue": "Journal of the American Water Resources Association",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Concurrent irrigation pauses can create stream flow pulses for fish during critical low flow periods",
+   "authors": [
+    "M. R. Khan",
+    "Michael P. Brady",
+    "B. Singh",
+    "M. Yourek",
+    "J. Yoder",
+    "J. Cook",
+    "G. Yorgey",
+    "K. Rajagopalan"
+   ],
+   "year": 2024,
+   "venue": "Water Resources Research",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Concurrently Assessing Water Supply and Demand is Critical for Evaluating Vulnerabilities to Climate Change",
+   "authors": [
+    "S. A. Hall",
+    "A. Whittemore",
+    "J. Padowski",
+    "M. Yourek",
+    "G. Yorgey",
+    "K. Rajagopalan",
+    "S. McClarty",
+    "F. Scarpare",
+    "M. Liu",
+    "C. Asante-Sasu",
+    "A. Kondal",
+    "Michael P. Brady",
+    "R. Gustine",
+    "M. Downes",
+    "M. Callahan",
+    "J. Adam"
+   ],
+   "year": 2024,
+   "venue": "Journal of the American Water Resources Association",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Factors Affecting the Duration of Agricultural Marketing Orders",
+   "authors": [
+    "S. Johnson",
+    "Michael P. Brady",
+    "J. McCluskey"
+   ],
+   "year": 2024,
+   "venue": "Journal of Agricultural and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Ricardian Estimate of Nonlinear Temperature Effects on High Value Irrigated Agriculture",
+   "authors": [
+    "N. Potter",
+    "Michael P. Brady",
+    "K. Rajagopalan"
+   ],
+   "year": 2024,
+   "venue": "Journal of Agricultural and Resource Economics",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Identifying Double-cropped Fields with Remote Sensing in Areas with High Crop Diversity",
+   "authors": [
+    "H. Noorazar",
+    "K. Rajagopalan",
+    "Michael P. Brady"
+   ],
+   "year": 2024,
+   "venue": "Computers and Electronics in Agriculture",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Value-based Resource Matching with Fairness Criteria: Application to Agricultural Water Trading",
+   "authors": [
+    "A. Adhiga",
+    "Y. Trabelsi",
+    "T. Ferdousi",
+    "M. Marathe",
+    "S. Ravi",
+    "S. Swarup",
+    "A. Vullikanti",
+    "M. Wilson",
+    "S. Kraus",
+    "R. Basu",
+    "S. Savalkar",
+    "M. Yourek",
+    "Michael P. Brady",
+    "K. Rajagopalan",
+    "J. Yoder"
+   ],
+   "year": 2024,
+   "venue": "Autonomous Agents and Multi-Agent Systems",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Analogs for Dialogs: A Network to Catalyze Climate Change Adaptation for US Specialty Crops",
+   "authors": [
+    "S. Chaudhary",
+    "K. Rajagopalan",
+    "C. Kruger",
+    "Michael P. Brady",
+    "C. Fraisse",
+    "D. Gustafson",
+    "S. Hall",
+    "G. Hoogenboom",
+    "R. Melnick",
+    "J. Reyes",
+    "C. Stockle",
+    "T. Susler"
+   ],
+   "year": 2023,
+   "venue": "Scientific Reports",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Climate Change and the Increased Recurrence of Pests and Disease Outbreaks: The Case of the Organic and Conventional U.S. Apple Industry",
+   "authors": [
+    "H. Lin",
+    "K. Gallardo",
+    "Michael P. Brady"
+   ],
+   "year": 2023,
+   "venue": "Journal of Agricultural and Applied Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Survival and Growth of Organic Farms Over the Long-Run",
+   "authors": [
+    "Michael P. Brady",
+    "D. Granatstein",
+    "E. Kirby"
+   ],
+   "year": 2023,
+   "venue": "Journal of the Agricultural and Applied Economics Association",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Avoidance Behaviors Circumventing the Sugar-Sweetened Beverages Tax",
+   "authors": [
+    "Q. Zhang",
+    "J. McCluskey",
+    "K. Gallardo",
+    "Michael P. Brady"
+   ],
+   "year": 2021,
+   "venue": "Food Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Economic and Environmental Benefits of Partial Leasing of Agricultural Water Rights",
+   "authors": [
+    "R. Khanal",
+    "Michael P. Brady",
+    "C. Stockle",
+    "K. Rajagopalan",
+    "J. Yoder",
+    "M. Barber"
+   ],
+   "year": 2021,
+   "venue": "Water Resources Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Impacts of Irrigation Efficiency on Water-Dependent Sectors are Heavily Controlled by Region-Specific Institutions and Infrastructures",
+   "authors": [
+    "K. Malek",
+    "J. Adam",
+    "J. Yoder",
+    "J. Givens",
+    "C. Stockle",
+    "Michael P. Brady",
+    "T. Karimi",
+    "K. Rajagopalan",
+    "M. Liu",
+    "P. Reed"
+   ],
+   "year": 2021,
+   "venue": "Journal of Environmental Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Water Rights Shape Crop Yield and Revenue Volatility Tradeoffs for Adaptation in Snow Dependent Systems",
+   "authors": [
+    "K. Malek",
+    "P. Reed",
+    "J. Adam",
+    "T. Karimi",
+    "Michael P. Brady"
+   ],
+   "year": 2020,
+   "venue": "Nature Communications",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Defining the Nature of the Nexus: Specialization, Connectedness, Scarcity, and Scale in Food-Energy-Water Management",
+   "authors": [
+    "S. Katz",
+    "J. Padowski",
+    "M. Goldsby",
+    "Michael P. Brady",
+    "S. Hampton"
+   ],
+   "year": 2020,
+   "venue": "Water",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Mitigating Groundwater Impacts of Residential Wells Through Small-Scale Distributed Storage in the Skagit River Basin",
+   "authors": [
+    "Michael P. Brady",
+    "J. Padowski",
+    "J. Yoder",
+    "E. Jessup",
+    "D. Christensen",
+    "Q. Yang",
+    "B. Anderson"
+   ],
+   "year": 2019,
+   "venue": "Journal of the American Water Resources Association",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Roles of Gender and Marital Status on Risky Asset Allocation Decisions",
+   "authors": [
+    "B. Mandal",
+    "Michael P. Brady"
+   ],
+   "year": 2019,
+   "venue": "Journal of Consumer Affairs",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "When Should Irrigators Invest in More Water-Efficient Technologies as an Adaptation to Climate Change?",
+   "authors": [
+    "K. Malek",
+    "J. Adam",
+    "C. Stockle",
+    "Michael P. Brady",
+    "K. Rajagopalan"
+   ],
+   "year": 2018,
+   "venue": "Water Resources Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Impacts of Near-Term Climate Change on Irrigation Demands and Crop Yields in the Columbia River Basin",
+   "authors": [
+    "K. Rajagopalan",
+    "K. J. Chinnayakanahalli",
+    "C. O. Stockle",
+    "R. L. Nelson",
+    "C. E. Kruger",
+    "Michael P. Brady",
+    "K. Malek",
+    "S. T. Dinesh",
+    "M. E. Barber",
+    "A. F. Hamlet",
+    "G. G. Yorgey",
+    "J. C. Adam"
+   ],
+   "year": 2018,
+   "venue": "Water Resources Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Regional Equilibrium Wage Rate for Hired Farm Workers in the Tree Fruit Industry",
+   "authors": [
+    "Michael P. Brady",
+    "R. K. Gallardo",
+    "S. Badrudozza",
+    "X. Jiang"
+   ],
+   "year": 2016,
+   "venue": "Western Agriculture Forum",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Benefit-Cost Analysis of Integrated Water Resource Management Projects: Accounting for Interdependence in the Yakima Basin Integrated Plan",
+   "authors": [
+    "J. Yoder",
+    "J. Adam",
+    "Michael P. Brady",
+    "J. Cook",
+    "S. Katz",
+    "S. Johnston",
+    "K. Malek",
+    "J. McMillan",
+    "Q. Yang"
+   ],
+   "year": 2017,
+   "venue": "Journal of the American Water Resources Association",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Water Markets and Storage - Substitutes or Complements for Drought Risk Mitigation?",
+   "authors": [
+    "J. Yoder",
+    "Michael P. Brady",
+    "J. Cook"
+   ],
+   "year": 2016,
+   "venue": "Water Economics and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Characteristics of Washington's Organic Farming Sector in a Period of Rapid Change",
+   "authors": [
+    "D. Granatstein",
+    "E. Kirby",
+    "Michael P. Brady"
+   ],
+   "year": 2016,
+   "venue": "Acta Horticulturae",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Opportunities and Challenges of Organic Highbush Blueberry Production in Washington State",
+   "authors": [
+    "L. DeVetter",
+    "D. Granatstein",
+    "E. Kirby",
+    "Michael P. Brady"
+   ],
+   "year": 2015,
+   "venue": "HortTechnology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Adoption of Labor-enhancing Technologies by Specialty Crop Agriculture: The Case of the Washington Apple Industry",
+   "authors": [
+    "K. Gallardo",
+    "Michael P. Brady"
+   ],
+   "year": 2015,
+   "venue": "Agricultural Finance Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Cow-calf Reproductive, Genetic, and Nutritional Management to Improve the Sustainability of Whole Beef Production Systems",
+   "authors": [
+    "R. R. White",
+    "Michael P. Brady",
+    "J. L. Capper",
+    "K. A. Johnson"
+   ],
+   "year": 2015,
+   "venue": "Journal of Animal Science",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Renegotiation of the Columbia River Basin Treaty from the Perspective of Contract Theory",
+   "authors": [
+    "Michael P. Brady",
+    "T. Li",
+    "J. Yoder"
+   ],
+   "year": 2015,
+   "venue": "Journal of Contemporary Water Research and Education",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Optimizing diet and pasture management to improve sustainability of US beef production",
+   "authors": [
+    "R. R. White",
+    "Michael P. Brady",
+    "J. L. Capper",
+    "K. A. Johnson"
+   ],
+   "year": 2014,
+   "venue": "Agricultural Systems",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Can consumers' willingness to pay incentivize adoption of environmental impact reducing technologies in meat animal production?",
+   "authors": [
+    "R. R. White",
+    "Michael P. Brady"
+   ],
+   "year": 2014,
+   "venue": "Food Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "BioEarth: A regional biosphere-relevant earth system model to inform agricultural and natural resource management decisions",
+   "authors": [
+    "J. C. Adam",
+    "J. C. Stephens",
+    "S. H. Chung",
+    "Michael P. Brady",
+    "R. D. Evans",
+    "C. E. Kruger",
+    "B. K. Lamb",
+    "M. L. Liu",
+    "C. O. Stockle",
+    "J. K. Vaughan",
+    "K. Rajagopalan",
+    "J. A. Harrison",
+    "C. L. Tague",
+    "A. Kalyanaraman",
+    "Y. Chen",
+    "A. Guenther",
+    "F. Y. Leung",
+    "L. R. Leung",
+    "A. B. Perleberg",
+    "J. Yoder",
+    "E. Allen",
+    "S. Anderson",
+    "B. Chandrasekharan",
+    "K. Malek",
+    "T. Mullis",
+    "C. Miller",
+    "T. Nergui",
+    "J. Poinsatte",
+    "J. Reyes",
+    "J. Zhu",
+    "J. S. Choate",
+    "X. Jiang",
+    "R. Nelson",
+    "J. H. Yoon",
+    "G. G. Yorgey",
+    "K. J. Chinnayakanahalli",
+    "A. F. Hamlet",
+    "B. Nijssen"
+   ],
+   "year": 2014,
+   "venue": "Climatic Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Spatial Price Analysis of Used Construction Equipment: The Case of Excavators",
+   "authors": [
+    "S. Ponnaluru",
+    "T. L. Marsh",
+    "Michael P. Brady"
+   ],
+   "year": 2012,
+   "venue": "Construction Management and Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Value of Good Neighbors: A Spatial Analysis of the California and Washington Wine Industries",
+   "authors": [
+    "N. Yang",
+    "J. McCluskey",
+    "Michael P. Brady"
+   ],
+   "year": 2012,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Environmental Effects of Land Use Change Revealed Through Spatially Explicit Empirical Models: Recent Developments and Challenges Ahead",
+   "authors": [
+    "Michael P. Brady",
+    "E. Irwin"
+   ],
+   "year": 2011,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Aggregation of Preferences in Groups: Identity, Responsibility, and Polarization",
+   "authors": [
+    "Michael P. Brady",
+    "S. Y. Wu"
+   ],
+   "year": 2010,
+   "venue": "Journal of Economic Psychology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Tax-deferred Exchanges of Farmland: Theory and Evidence from Federal Tax Data",
+   "authors": [
+    "J. Williamson",
+    "Michael P. Brady",
+    "R. Durst"
+   ],
+   "year": 2010,
+   "venue": "Agricultural Finance Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Global Effects of Biofuel Production in the Medium Term",
+   "authors": [
+    "J. Fernandez-Cornejo",
+    "A. Somwaru",
+    "Michael P. Brady",
+    "H. An"
+   ],
+   "year": 2008,
+   "venue": "Outlooks on Pest Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

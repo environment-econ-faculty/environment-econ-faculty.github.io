@@ -1,0 +1,157 @@
+{
+ "slug": "haishi-li",
+ "name": "Haishi Li",
+ "sources": [
+  "https://haishi-harry-li.github.io/"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Source: homepage (Working Papers + Accepted and Published Papers sections). CV on Google Drive not needed. Authors in the byline order the homepage gives (Haishi Li listed first; may reflect alphabetical order). Year for WPs from the homepage dates (e.g. Sept/Nov 2026, Dec 2025). Statuses: R&R at JIE and REStud per homepage.",
+ "papers": [
+  {
+   "title": "Controlling Critical Innovation Inputs: Semiconductors in U.S.-China Technology Competition",
+   "authors": [
+    "Haishi Li",
+    "Xiaomei Sui",
+    "Sifan Xue"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://haishi-harry-li.github.io/assets/papers/semiconductor-innovation.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Trade Policy Uncertainty and Supply Chain Disruptions: Firm-Level Evidence from \"Liberation Day\"",
+   "authors": [
+    "Haishi Li",
+    "Gustavo De Souza",
+    "Ziho Park",
+    "Yulin Wang"
+   ],
+   "year": 2025,
+   "venue": "Journal of International Economics",
+   "status": "修改重投",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5801426",
+   "abstract": null
+  },
+  {
+   "title": "Industrial Policy and Retaliatory Protection under the WTO: Lessons from China",
+   "authors": [
+    "Haishi Li",
+    "Yusheng Feng",
+    "Siwei Wang",
+    "Min Zhu"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5343932",
+   "abstract": null
+  },
+  {
+   "title": "Robots, Tools, and Jobs: Evidence from Brazilian Labor Markets",
+   "authors": [
+    "Haishi Li",
+    "Gustavo de Souza"
+   ],
+   "year": 2025,
+   "venue": "Review of Economic Studies",
+   "status": "修改重投",
+   "url": "https://www.ifo.de/en/cesifo/publications/2023/working-paper/robots-tools-and-jobs-evidence-brazilian-labor-markets",
+   "abstract": null
+  },
+  {
+   "title": "To Comply or Not to Comply: Understanding Neutral Country Supply Chain Responses to Russian Sanctions",
+   "authors": [
+    "Haishi Li",
+    "Zhi Li",
+    "Ziho Park",
+    "Yulin Wang",
+    "Jing Wu"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4817589",
+   "abstract": null
+  },
+  {
+   "title": "The Employment Consequences of Anti-Dumping Tariffs: Lessons from Brazil",
+   "authors": [
+    "Haishi Li",
+    "Gustavo de Souza"
+   ],
+   "year": 2026,
+   "venue": "Review of Economics and Statistics",
+   "status": "已发表",
+   "url": "https://direct.mit.edu/rest/article-abstract/doi/10.1162/REST.a.1773/136656/The-Employment-Consequences-of-Anti-Dumping",
+   "abstract": null
+  },
+  {
+   "title": "Multinational Production and Global Shock Propagation during the Great Recession",
+   "authors": [
+    "Haishi Li"
+   ],
+   "year": 2026,
+   "venue": "Journal of Monetary Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jmoneco.2025.103879",
+   "abstract": null
+  },
+  {
+   "title": "We Are All in the Same Boat: Cross-Border Spillovers of Climate Shocks Through International Trade and Supply Chain",
+   "authors": [
+    "Alan Xiaochen Feng",
+    "Haishi Li",
+    "Yulin Wang"
+   ],
+   "year": 2025,
+   "venue": "Economic Journal",
+   "status": "已发表",
+   "url": "https://academic.oup.com/ej/advance-article-abstract/doi/10.1093/ej/ueae119/7931814",
+   "abstract": null
+  },
+  {
+   "title": "(Trade) War and Peace: How to Impose International Trade Sanctions",
+   "authors": [
+    "Haishi Li",
+    "Gustavo de Souza",
+    "Naiyuan Hu",
+    "Yuan Mei"
+   ],
+   "year": 2024,
+   "venue": "Journal of Monetary Economics",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/abs/pii/S0304393224000254",
+   "abstract": null
+  },
+  {
+   "title": "The Life-Cycle Dynamics of Exporters and Multinational Firms",
+   "authors": [
+    "Haishi Li",
+    "Anna Gumpert",
+    "Andreas Moxnes",
+    "Natalia Ramondo",
+    "Felix Tintelnot"
+   ],
+   "year": 2020,
+   "venue": "Journal of International Economics",
+   "status": "已发表",
+   "url": "https://www.sciencedirect.com/science/article/abs/pii/S0022199620300593",
+   "abstract": null
+  },
+  {
+   "title": "Hedging House Price Risk in China",
+   "authors": [
+    "Haishi Li",
+    "Jia He",
+    "Jing Wu"
+   ],
+   "year": 2016,
+   "venue": "Real Estate Economics",
+   "status": "已发表",
+   "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/1540-6229.12147",
+   "abstract": null
+  }
+ ]
+}

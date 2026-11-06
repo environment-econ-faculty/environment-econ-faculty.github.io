@@ -1,0 +1,529 @@
+{
+ "slug": "zack-j-isaac-miller",
+ "name": "Zack (J. Isaac) Miller",
+ "sources": [
+  "https://sites.google.com/site/millerjisaac"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Source: homepage only (no CV). Page gives '(with ...)' co-author lists without bylines and never shows Miller's own name, so authors are alphabetical by surname with 'J. Isaac Miller' inserted (co-author names are initials as printed). The undated working papers: years inferred from RePEc series numbers (2501/2502 -> 2025, 2401 -> 2024, 2605 -> 2026), not stated on the page. Chess Universal Rating System omitted (not a paper). The IATRC 2022 item is a conference paper recorded as a working paper. No R&R/forthcoming labels on page; all dated items treated as published.",
+ "papers": [
+  {
+   "title": "Evaluating Trends in Time Series of Distributions: A Spatial Fingerprint of Human Effects on Climate",
+   "authors": [
+    "Y. Chang",
+    "R.K. Kaufmann",
+    "C.S. Kim",
+    "J. Isaac Miller",
+    "J.Y. Park",
+    "S. Park"
+   ],
+   "year": 2020,
+   "venue": "Journal of Econometrics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jeconom.2019.05.014",
+   "abstract": null
+  },
+  {
+   "title": "Dating Hiatuses: A Statistical Model of the Recent Slowdown in Global Warming and the Next One",
+   "authors": [
+    "J. Isaac Miller",
+    "K. Nam"
+   ],
+   "year": 2020,
+   "venue": "Earth System Dynamics",
+   "status": "已发表",
+   "url": "https://doi.org/10.5194/esd-11-1123-2020",
+   "abstract": null
+  },
+  {
+   "title": "Introduction to 'New Developments in Econometrics of Energy and Climate'",
+   "authors": [
+    "H.C. Bjørnland",
+    "Y. Chang",
+    "J. Isaac Miller"
+   ],
+   "year": 2021,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.eneco.2021.105323",
+   "abstract": null
+  },
+  {
+   "title": "Local Climate Sensitivity: What Can Time Series of Distributions Reveal about Spatial Heterogeneity of Climate Change?",
+   "authors": [
+    "J. Isaac Miller"
+   ],
+   "year": 2023,
+   "venue": "Advances in Econometrics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1108/S0731-90532023000045B014",
+   "abstract": null
+  },
+  {
+   "title": "Beyond RCP8.5: Marginal Mitigation Using Quasi-Representative Concentration Pathways",
+   "authors": [
+    "W.A. Brock",
+    "J. Isaac Miller"
+   ],
+   "year": 2024,
+   "venue": "Journal of Econometrics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jeconom.2021.06.007",
+   "abstract": null
+  },
+  {
+   "title": "Introduction to the Themed Issue on Climate Econometrics",
+   "authors": [
+    "J. Isaac Miller",
+    "F. Pretis"
+   ],
+   "year": 2024,
+   "venue": "Journal of Econometrics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jeconom.2023.105644",
+   "abstract": null
+  },
+  {
+   "title": "Polar Amplification in a Moist Energy Balance Model: A Structural Econometric Approach to Estimation and Testing",
+   "authors": [
+    "W.A. Brock",
+    "J. Isaac Miller"
+   ],
+   "year": 2024,
+   "venue": "Journal of Econometrics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jeconom.2024.105885",
+   "abstract": null
+  },
+  {
+   "title": "Econometric Forecasting of Climate Change",
+   "authors": [
+    "J.S. Castle",
+    "D.F. Hendry",
+    "J. Isaac Miller"
+   ],
+   "year": 2024,
+   "venue": "Handbook of Research Methods and Applications in Macroeconomic Forecasting (book chapter)",
+   "status": "已发表",
+   "url": "https://doi.org/10.1002/env.70050",
+   "abstract": null
+  },
+  {
+   "title": "Effects of Climate Change on House Prices in Outdoor Tourism Destinations: A Case Study of Southwestern Colorado",
+   "authors": [
+    "K.S. Clark",
+    "J. Isaac Miller"
+   ],
+   "year": 2025,
+   "venue": "Environmetrics",
+   "status": "已发表",
+   "url": "http://dx.doi.org/10.1002/env.70007",
+   "abstract": null
+  },
+  {
+   "title": "Climate and Sustainable Energy Econometrics and Statistics",
+   "authors": [
+    "J.L. Castle",
+    "J. Isaac Miller",
+    "C. Morana",
+    "T. Proietti"
+   ],
+   "year": 2025,
+   "venue": "Environmetrics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Temperature Response Functions for Climate Impact Assessments: The Case of ENSO and Electricity Consumption",
+   "authors": [
+    "J. Isaac Miller",
+    "F. Zhong"
+   ],
+   "year": 2026,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.eneco.2026.109301",
+   "abstract": null
+  },
+  {
+   "title": "Polar Amplification Helps Forecast Northern Temperature Anomalies",
+   "authors": [
+    "W.A. Brock",
+    "J. Isaac Miller"
+   ],
+   "year": 2025,
+   "venue": "Working Paper (University of Missouri)",
+   "status": "工作论文",
+   "url": "https://econpapers.repec.org/paper/umcwpaper/2502.htm",
+   "abstract": null
+  },
+  {
+   "title": "Shocking Climate: Identifying Economic Damages from Anthropogenic and Natural Climate Change",
+   "authors": [
+    "Y. Chang",
+    "J. Isaac Miller",
+    "J.Y. Park"
+   ],
+   "year": 2025,
+   "venue": "Working Paper (University of Missouri)",
+   "status": "工作论文",
+   "url": "https://econpapers.repec.org/paper/umcwpaper/2501.htm",
+   "abstract": null
+  },
+  {
+   "title": "Carbon Emissions are Underpriced Due to the Snow Albedo Feedback Effect",
+   "authors": [
+    "S.P. Baker",
+    "J. Isaac Miller"
+   ],
+   "year": 2026,
+   "venue": "Working Paper (University of Missouri)",
+   "status": "工作论文",
+   "url": "https://ideas.repec.org/p/umc/wpaper/2605.html",
+   "abstract": null
+  },
+  {
+   "title": "Crude Oil and Stock Markets: Stability, Instability, and Bubbles",
+   "authors": [
+    "J. Isaac Miller",
+    "R.A. Ratti"
+   ],
+   "year": 2009,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "http://dx.doi.org/10.1016/j.eneco.2009.01.009",
+   "abstract": null
+  },
+  {
+   "title": "Long-Term Oil Price Forecasts: A New Perspective on Oil and the Macroeconomy",
+   "authors": [
+    "J. Isaac Miller",
+    "S. Ni"
+   ],
+   "year": 2011,
+   "venue": "Macroeconomic Dynamics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Time-Varying Long-Run Income and Output Elasticities of Electricity Demand with an Application to Korea",
+   "authors": [
+    "Y. Chang",
+    "C.S. Kim",
+    "J. Isaac Miller",
+    "J.Y. Park",
+    "S. Park"
+   ],
+   "year": 2014,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A New Approach to Modeling the Effects of Temperature Fluctuations on Monthly Electricity Demand",
+   "authors": [
+    "Y. Chang",
+    "C.S. Kim",
+    "J. Isaac Miller",
+    "J.Y. Park",
+    "S. Park"
+   ],
+   "year": 2016,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Disentangling Temporal Patterns in Elasticities: A Functional Coefficient Panel Analysis of Electricity Demand",
+   "authors": [
+    "Y. Chang",
+    "Y. Choi",
+    "C.S. Kim",
+    "J. Isaac Miller",
+    "J.Y. Park"
+   ],
+   "year": 2016,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Forecasting Regional Long-Run Energy Demand: A Functional Coefficient Panel Approach",
+   "authors": [
+    "Y. Chang",
+    "Y. Choi",
+    "C.S. Kim",
+    "J. Isaac Miller",
+    "J.Y. Park"
+   ],
+   "year": 2021,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Modeling Peak Electricity Demand: A Semiparametric Approach Using Weather-Driven Cross Temperature Response Functions",
+   "authors": [
+    "J. Isaac Miller",
+    "K. Nam"
+   ],
+   "year": 2022,
+   "venue": "Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Common Trends and Country Specific Heterogeneities in Long-Run World Energy Consumption",
+   "authors": [
+    "Y. Chang",
+    "Y. Choi",
+    "C.S. Kim",
+    "J. Isaac Miller",
+    "J.Y. Park"
+   ],
+   "year": 2024,
+   "venue": "Working Paper (University of Missouri)",
+   "status": "工作论文",
+   "url": "https://econpapers.repec.org/paper/umcwpaper/2401.htm",
+   "abstract": null
+  },
+  {
+   "title": "Extracting a Common Stochastic Trend: Theory with Some Applications",
+   "authors": [
+    "Y. Chang",
+    "J. Isaac Miller",
+    "J.Y. Park"
+   ],
+   "year": 2009,
+   "venue": "Journal of Econometrics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Nonlinear IV Likelihood-Based Rank Test for Multivariate Time Series and Long Panels",
+   "authors": [
+    "J. Isaac Miller"
+   ],
+   "year": 2010,
+   "venue": "Journal of Time Series Econometrics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Nonlinearity, Nonstationarity, and Thick Tails: How They Interact to Generate Persistence in Memory",
+   "authors": [
+    "J. Isaac Miller",
+    "J.Y. Park"
+   ],
+   "year": 2010,
+   "venue": "Journal of Econometrics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Cointegrating Regressions with Messy Regressors and an Application to Mixed-Frequency Series",
+   "authors": [
+    "J. Isaac Miller"
+   ],
+   "year": 2010,
+   "venue": "Journal of Time Series Analysis",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Mixed-Frequency Cointegrating Regressions with Parsimonious Distributed Lag Structures",
+   "authors": [
+    "J. Isaac Miller"
+   ],
+   "year": 2014,
+   "venue": "Journal of Financial Econometrics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "On the Size Distortion from Linearly Interpolating Low-Frequency Series for Cointegration Tests",
+   "authors": [
+    "E. Ghysels",
+    "J. Isaac Miller"
+   ],
+   "year": 2014,
+   "venue": "Advances in Econometrics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Testing for Cointegration with Temporally Aggregated and Mixed-Frequency Time Series",
+   "authors": [
+    "E. Ghysels",
+    "J. Isaac Miller"
+   ],
+   "year": 2015,
+   "venue": "Journal of Time Series Analysis",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Conditionally Efficient Estimation of Long-Run Relationships Using Mixed-Frequency Time Series",
+   "authors": [
+    "J. Isaac Miller"
+   ],
+   "year": 2016,
+   "venue": "Econometric Reviews",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Implementing Residual-Based KPSS Tests for Cointegration with Data Subject to Temporal Aggregation and Mixed Sampling Frequencies",
+   "authors": [
+    "J. Isaac Miller",
+    "X. Wang"
+   ],
+   "year": 2016,
+   "venue": "Journal of Time Series Analysis",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Simple Robust Tests for the Specification of High-Frequency Predictors of a Low-Frequency Series",
+   "authors": [
+    "J. Isaac Miller"
+   ],
+   "year": 2018,
+   "venue": "Econometrics and Statistics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Testing Cointegrating Relationships Using Irregular and Non-Contemporaneous Series with an Application to Paleoclimate Data",
+   "authors": [
+    "J. Isaac Miller"
+   ],
+   "year": 2019,
+   "venue": "Journal of Time Series Analysis",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Time-Varying Cointegration and the Kalman Filter",
+   "authors": [
+    "B.A. Eroglu",
+    "J. Isaac Miller",
+    "T. Yigit"
+   ],
+   "year": 2022,
+   "venue": "Econometric Reviews",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Testing the Bounds: Empirical Behavior of Target Zone Fundamentals",
+   "authors": [
+    "J. Isaac Miller"
+   ],
+   "year": 2011,
+   "venue": "Economic Modelling",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "On the Spatial Correlation of International Conflict Initiation and Other Binary and Dyadic Dependent Variables",
+   "authors": [
+    "S. Luo",
+    "J. Isaac Miller"
+   ],
+   "year": 2014,
+   "venue": "Regional Science and Urban Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Modeling and Extrapolating Wheat Producer Support Using Income and Other Factors",
+   "authors": [
+    "J. Isaac Miller",
+    "W. Thompson",
+    "J. Zhao"
+   ],
+   "year": 2018,
+   "venue": "Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Modeling and Forecasting Agricultural Commodity Support in the Developing Countries",
+   "authors": [
+    "J. Binfield",
+    "J. Isaac Miller",
+    "W. Thompson",
+    "J. Zhao"
+   ],
+   "year": 2022,
+   "venue": "International Agricultural Trade Research Consortium",
+   "status": "工作论文",
+   "url": "https://ageconsearch.umn.edu/record/321785",
+   "abstract": null
+  },
+  {
+   "title": "Introduction to 'Essays in Honor of Joon Y. Park: Econometric Theory'",
+   "authors": [
+    "Y. Chang",
+    "S. Lee",
+    "J. Isaac Miller"
+   ],
+   "year": 2023,
+   "venue": "Advances in Econometrics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Introduction to 'Essays in Honor of Joon Y. Park: Econometric Methodology in Empirical Applications'",
+   "authors": [
+    "Y. Chang",
+    "S. Lee",
+    "J. Isaac Miller"
+   ],
+   "year": 2023,
+   "venue": "Advances in Econometrics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Revealing Fundamental Food Demand Parameters: A New Theoretically Consistent Meta-Regression Approach to US Food Demand Elasticities",
+   "authors": [
+    "D. Abler",
+    "H.K. Hoang",
+    "Y. Jeon",
+    "J. Isaac Miller",
+    "W. Thompson"
+   ],
+   "year": 2025,
+   "venue": "Food Policy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.foodpol.2025.102951",
+   "abstract": null
+  }
+ ]
+}

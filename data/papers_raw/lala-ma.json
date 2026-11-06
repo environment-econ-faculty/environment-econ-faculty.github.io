@@ -1,0 +1,416 @@
+{
+ "slug": "lala-ma",
+ "name": "Lala Ma",
+ "sources": [
+  "https://sites.google.com/site/lalaxma",
+  "https://gattonweb.uky.edu/Vitas/MLA252_Vita.pdf"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Bylines from CV (Nov 2026; CV states co-authors alphabetical unless noted). Lead-in 'Bishop & Ma' handbook chapter forthcoming included with 2026 assumed; Science pieces (2020, 2021) are short commentaries kept since on CV list; encyclopedia/handbook chapters included. 'A Dynamic Approach...' undated draft: CV year 2021. Sorting over Wildfire Risks etc. as CV. No abstracts shown.",
+ "papers": [
+  {
+   "title": "Operationalizing Cumulative Impacts for Policy",
+   "authors": [
+    "Laura Bakkensen",
+    "Lala Ma",
+    "Lucija Muehlenbachs"
+   ],
+   "year": 2026,
+   "venue": "Review of Environmental Economics and Policy",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Who Benefits from Hazardous Waste Cleanups? Evidence from the Housing Market",
+   "authors": [
+    "Alecia Cassidy",
+    "Elaine Hill",
+    "Lala Ma"
+   ],
+   "year": 2026,
+   "venue": "Journal of Political Economy Microeconomics",
+   "status": "即将发表",
+   "url": "https://www.nber.org/papers/w30661",
+   "abstract": null
+  },
+  {
+   "title": "A Spatially-differentiated Water Pollution Policy Leads to Economic and Health Inequity",
+   "authors": [
+    "Zhonghui Luo",
+    "Lala Ma",
+    "Rui Xie",
+    "Ran Song"
+   ],
+   "year": 2025,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "https://doi.org/10.1073/pnas.2421404122",
+   "abstract": null
+  },
+  {
+   "title": "Impacts of the SDWA Arsenic Rule on Arsenic Occurrence in U.S. Drinking Water",
+   "authors": [
+    "Margarita Petrusevich",
+    "Wes Austin",
+    "Jiameng Zheng",
+    "Mary Evans",
+    "Lala Ma",
+    "Sheila Olmstead"
+   ],
+   "year": 2025,
+   "venue": "Environmental Science and Technology",
+   "status": "已发表",
+   "url": "https://doi.org/10.1021/acs.est.5c05873",
+   "abstract": null
+  },
+  {
+   "title": "Race and Concern for the Environment",
+   "authors": [
+    "Ranie Lin",
+    "Lala Ma",
+    "Toan Phan"
+   ],
+   "year": 2024,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.3368/le.100.4.112723-0125R",
+   "abstract": null
+  },
+  {
+   "title": "Cumulative Impacts in Environmental Justice: Insights from Economics and Policy",
+   "authors": [
+    "Laura Bakkensen",
+    "Lala Ma",
+    "Lucija Muehlenbachs",
+    "Lina Benitez"
+   ],
+   "year": 2024,
+   "venue": "Regional Science and Urban Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.regsciurbeco.2024.103993",
+   "abstract": null
+  },
+  {
+   "title": "Risk Disclosure and Home Prices: Evidence from California Wildfire Hazard Zones",
+   "authors": [
+    "Lala Ma",
+    "Margaret Walls",
+    "Matthew Wibbenmeyer",
+    "Connor Lennon"
+   ],
+   "year": 2024,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.3368/le.100.1.102122-0087R",
+   "abstract": null
+  },
+  {
+   "title": "Racial Gaps in Federal Flood Buyout Compensations",
+   "authors": [
+    "Kay Jowers",
+    "Lala Ma",
+    "Christopher Timmins"
+   ],
+   "year": 2023,
+   "venue": "AEA Papers and Proceedings",
+   "status": "已发表",
+   "url": "https://doi.org/10.1257/pandp.20231131",
+   "abstract": null
+  },
+  {
+   "title": "The (Alleged) Environmental and Social Benefits of Dynamic Pricing",
+   "authors": [
+    "Matthew Harding",
+    "Kyle Kettler",
+    "Carlos Lamarche",
+    "Lala Ma"
+   ],
+   "year": 2022,
+   "venue": "Journal of Economic Behavior and Organization",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jebo.2022.11.010",
+   "abstract": null
+  },
+  {
+   "title": "Drinking Water, Fracking, and Infant Health",
+   "authors": [
+    "Elaine Hill",
+    "Lala Ma"
+   ],
+   "year": 2022,
+   "venue": "Journal of Health Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jhealeco.2022.102595",
+   "abstract": null
+  },
+  {
+   "title": "The Fracking Concern with Water Quality",
+   "authors": [
+    "Elaine Hill",
+    "Lala Ma"
+   ],
+   "year": 2021,
+   "venue": "Science",
+   "status": "已发表",
+   "url": "https://doi.org/10.1126/science.abk3433",
+   "abstract": null
+  },
+  {
+   "title": "Economic, Environmental, and Health Impacts of the Fracking Boom",
+   "authors": [
+    "Katie Black",
+    "Andrew Boslett",
+    "Elaine Hill",
+    "Lala Ma",
+    "Shawn McCoy"
+   ],
+   "year": 2021,
+   "venue": "Annual Review of Resource Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1146/annurev-resource-110320-092648",
+   "abstract": null
+  },
+  {
+   "title": "Rural Light Pollution from Shale Gas Development and Associated Sleep and Subjective Well-Being",
+   "authors": [
+    "Andrew Boslett",
+    "Elaine Hill",
+    "Lala Ma",
+    "Lujia Zhang"
+   ],
+   "year": 2021,
+   "venue": "Resource and Energy Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.reseneeco.2021.101220",
+   "abstract": null
+  },
+  {
+   "title": "Mapping the Clean Air Haves and Have-nots",
+   "authors": [
+    "Lala Ma"
+   ],
+   "year": 2020,
+   "venue": "Science",
+   "status": "已发表",
+   "url": "https://doi.org/10.1126/science.abb0943",
+   "abstract": null
+  },
+  {
+   "title": "Sorting Over Flood Risks and Implications for Flood Insurance Reform",
+   "authors": [
+    "Laura A. Bakkensen",
+    "Lala Ma"
+   ],
+   "year": 2020,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jeem.2020.102362",
+   "abstract": null
+  },
+  {
+   "title": "Environmental Justice: Establishing Causal Relationships",
+   "authors": [
+    "H. S. Banzhaf",
+    "Lala Ma",
+    "Christopher Timmins"
+   ],
+   "year": 2019,
+   "venue": "Annual Review of Resource Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1146/annurev-resource-100518-094131",
+   "abstract": null
+  },
+  {
+   "title": "Learning in a Hedonic Framework: Valuing Brownfield Remediation",
+   "authors": [
+    "Lala Ma"
+   ],
+   "year": 2019,
+   "venue": "International Economic Review",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/iere.12389",
+   "abstract": null
+  },
+  {
+   "title": "User Responses to Imperfect Forecasts: Findings from an Experiment with Kentucky Wheat Farmers",
+   "authors": [
+    "Yoko Kusunose",
+    "Lala Ma",
+    "David Van Sanford"
+   ],
+   "year": 2019,
+   "venue": "Weather, Climate and Society",
+   "status": "已发表",
+   "url": "https://doi.org/10.1175/WCAS-D-18-0135.1",
+   "abstract": null
+  },
+  {
+   "title": "Environmental Justice: The Economics of Race, Place, and Pollution",
+   "authors": [
+    "Spencer Banzhaf",
+    "Lala Ma",
+    "Christopher Timmins"
+   ],
+   "year": 2019,
+   "venue": "Journal of Economic Perspectives",
+   "status": "已发表",
+   "url": "https://doi.org/10.1257/jep.33.1.185",
+   "abstract": null
+  },
+  {
+   "title": "Flood Risk and Salience: New Evidence from the Sunshine State",
+   "authors": [
+    "Laura A. Bakkensen",
+    "Xiaozhou Ding",
+    "Lala Ma"
+   ],
+   "year": 2019,
+   "venue": "Southern Economic Journal",
+   "status": "已发表",
+   "url": "https://doi.org/10.1002/soej.12327",
+   "abstract": null
+  },
+  {
+   "title": "Shale Gas Development and Drinking Water Quality",
+   "authors": [
+    "Elaine Hill",
+    "Lala Ma"
+   ],
+   "year": 2017,
+   "venue": "American Economic Review: Papers and Proceedings",
+   "status": "已发表",
+   "url": "https://doi.org/10.1257/aer.p20171133",
+   "abstract": null
+  },
+  {
+   "title": "The Value of Brownfield Remediation",
+   "authors": [
+    "Kevin Haninger",
+    "Lala Ma",
+    "Christopher Timmins"
+   ],
+   "year": 2017,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "https://doi.org/10.1086/689743",
+   "abstract": null
+  },
+  {
+   "title": "Dynamic Behavior in Hedonic and Sorting Models",
+   "authors": [
+    "K. Bishop",
+    "Lala Ma"
+   ],
+   "year": 2026,
+   "venue": "Handbook of Environmental Valuation (Edward Elgar)",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Environmental Justice: The Experience of the United States",
+   "authors": [
+    "Spencer Banzhaf",
+    "Lala Ma"
+   ],
+   "year": 2025,
+   "venue": "The Elsevier Encyclopedia of Resource, Energy, and Environmental Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Environmental Justice and Coasean Bargaining",
+   "authors": [
+    "Spencer Banzhaf",
+    "Lala Ma",
+    "Christopher Timmins"
+   ],
+   "year": 2019,
+   "venue": "Distributional Effects of Environmental Markets (PERC)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Use of Property Values and Location Decisions for Environmental Valuation",
+   "authors": [
+    "Lala Ma"
+   ],
+   "year": 2018,
+   "venue": "Oxford Research Encyclopedia of Environmental Science",
+   "status": "已发表",
+   "url": "https://doi.org/10.1093/acrefore/9780199389414.013.449",
+   "abstract": null
+  },
+  {
+   "title": "Are 'Killer Tree' Helpful for Understanding the Effects of the NOx Budget Program",
+   "authors": [
+    "Isaiah Bryant-Sheth",
+    "Sagbo Anicet Hounton",
+    "Lala Ma",
+    "Lucija Muehlenbachs"
+   ],
+   "year": 2024,
+   "venue": "Resources for the Future Working Paper",
+   "status": "修改重投",
+   "url": "https://www.rff.org/publications/working-papers/are-killer-trees-helpful-for-understanding-the-effects-of-the-nox-budget-program/",
+   "abstract": null
+  },
+  {
+   "title": "Foreign Competition and U.S. Facility Emissions: Margins of Adjustment",
+   "authors": [
+    "Sookti Chaudhary",
+    "Josh Ederington",
+    "Lala Ma"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Sorting over Wildfire Risks",
+   "authors": [
+    "Emily Joiner",
+    "Connor Lennon",
+    "Lala Ma",
+    "Margaret Walls",
+    "Matthew Wibbenmeyer"
+   ],
+   "year": 2024,
+   "venue": "Resources for the Future Working Paper",
+   "status": "工作论文",
+   "url": "https://www.rff.org/publications/working-papers/sorting-over-wildfire-hazard/",
+   "abstract": null
+  },
+  {
+   "title": "Racial Dynamics of Federal Property Buyouts in Flood-Prone Areas",
+   "authors": [
+    "Kay Jowers",
+    "Lala Ma",
+    "Christopher Timmins"
+   ],
+   "year": 2026,
+   "venue": "NBER Working Paper",
+   "status": "工作论文",
+   "url": "https://www.nber.org/papers/w35726",
+   "abstract": null
+  },
+  {
+   "title": "A Dynamic Approach to Explain Flood Risk Exposure and Household Location Choice",
+   "authors": [
+    "Laura Bakkensen",
+    "Lala Ma",
+    "Lucija Muehlenbachs"
+   ],
+   "year": 2021,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

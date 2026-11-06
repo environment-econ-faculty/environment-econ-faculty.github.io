@@ -1,0 +1,119 @@
+{
+ "slug": "eleanor-krause",
+ "name": "Eleanor Krause",
+ "sources": [
+  "https://www.eleanorkrause.com/research",
+  "https://gattonweb.uky.edu/Vitas/EKKR227_Vita.pdf"
+ ],
+ "collected": "2026-11-06",
+ "notes": "CV (updated Sept 2026) bylines used; 'with ...' working-paper bylines alphabetical by surname incl. Krause (CV gives no order). Undated working papers: 2026. Selected works in progress (no drafts) and policy reports (Brookings, WRI, Belfer) skipped. No abstracts shown.",
+ "papers": [
+  {
+   "title": "Where Does Air Quality Matter? New Evidence from the Housing Market",
+   "authors": [
+    "Eleanor Krause",
+    "Tridevi Chakma"
+   ],
+   "year": 2026,
+   "venue": "Journal of Political Economy: Microeconomics",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Selective Migration and Regional Decline: Evidence from Coal Country",
+   "authors": [
+    "Eleanor Krause"
+   ],
+   "year": 2026,
+   "venue": "Journal of Urban Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Adjusting to the Energy Transition: Training and Transfers in Coal Country",
+   "authors": [
+    "Eleanor Krause"
+   ],
+   "year": 2026,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Research Agenda for Economic Resilience in Fossil Fuel-Dependent Communities",
+   "authors": [
+    "Leon Clarke",
+    "Mark Curtis",
+    "Ann Eisenberg",
+    "Emily Grubert",
+    "Julia Haggerty",
+    "Alex James",
+    "Nathan M. Jensen",
+    "Noah Kaufman",
+    "Eleanor Krause",
+    "Daniel Raimi",
+    "Dustin Tingley",
+    "Jeremy Weber"
+   ],
+   "year": 2024,
+   "venue": "Environmental Research: Energy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1088/2753-3751/ad6d70",
+   "abstract": null
+  },
+  {
+   "title": "Altruism by Age and Social Proximity",
+   "authors": [
+    "Mark C. Long",
+    "Eleanor Krause"
+   ],
+   "year": 2017,
+   "venue": "PLoS One",
+   "status": "已发表",
+   "url": "https://doi.org/10.1371/journal.pone.0180411",
+   "abstract": null
+  },
+  {
+   "title": "Transitional Costs and the Decline of Coal: Worker-level Evidence",
+   "authors": [
+    "Jonathan Colmer",
+    "Eleanor Krause",
+    "Eva Lyubich",
+    "John Voorheis"
+   ],
+   "year": 2026,
+   "venue": "AEJ: Applied Economics",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Climate Tradeoffs: Emission Mitigation Policy, Public Assistance, and Adapting to a Warming Planet",
+   "authors": [
+    "Joe Aldy",
+    "Eleanor Krause"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Decline of Coal and Local Mortality",
+   "authors": [
+    "Eleanor Krause",
+    "Dylan Brewer",
+    "Jancy Ling Liu"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://papers.ssrn.com/abstract=6839178",
+   "abstract": null
+  }
+ ]
+}

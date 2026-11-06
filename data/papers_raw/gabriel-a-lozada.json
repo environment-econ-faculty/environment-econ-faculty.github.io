@@ -1,0 +1,216 @@
+{
+ "slug": "gabriel-a-lozada",
+ "name": "Gabriel A. Lozada",
+ "sources": [
+  "https://profiles.faculty.utah.edu/u0030088/publications",
+  "https://www.ineteconomics.org/research/experts/glozada",
+  "http://content.csbs.utah.edu/~lozada/Research/"
+ ],
+ "collected": "2026-11-06",
+ "notes": "No CV/homepage list found; used Utah faculty profile publications list (19 items; skipped Palgrave/Elgar/Encyclopedia entries and book reviews) plus two April 2026 INET working papers. Profile truncates the author list for 'The Merger Efficiency Defense' (shows Lozada, Lande, Glick '+1 more'), so that byline is incomplete. Old homepage research page is stale (lists a Journal of Retirement item not on profile; omitted).",
+ "papers": [
+  {
+   "title": "The Merger Efficiency Defense: No Legal Basis and a Bad Idea",
+   "authors": [
+    "Gabriel A. Lozada",
+    "Robert H. Lande",
+    "Mark Glick"
+   ],
+   "year": 2025,
+   "venue": "The Antitrust Bulletin",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Antitrust's Normative Economic Theory Needs a Reboot",
+   "authors": [
+    "Gabriel A. Lozada",
+    "Mark Glick",
+    "Darren Bush"
+   ],
+   "year": 2025,
+   "venue": "International Journal of Political Economy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Antitrust's Right Turn in the Late 1970's",
+   "authors": [
+    "Gabriel A. Lozada",
+    "Mark Glick",
+    "Darren Bush"
+   ],
+   "year": 2025,
+   "venue": "Journal of Law and Political Economy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Horizontal Merger Efficiency Fallacy",
+   "authors": [
+    "Gabriel A. Lozada",
+    "Mark Glick"
+   ],
+   "year": 2024,
+   "venue": "Temple Law Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Law and Economics Fallacies: What Modern Economics really says about the Definition of Efficiency and the Measurement of Welfare",
+   "authors": [
+    "Gabriel A. Lozada",
+    "Mark Glick",
+    "Darren Bush"
+   ],
+   "year": 2024,
+   "venue": "Houston Business and Tax Law Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Why Economists Should support Populist Antitrust Goal",
+   "authors": [
+    "Mark Glick",
+    "Gabriel A. Lozada",
+    "Darren Bush"
+   ],
+   "year": 2023,
+   "venue": "Utah Law Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Critique of Antitrust Econometrics: Aggregation, the Representative Consumer, and the Broader Concerns of the New Brandeis School",
+   "authors": [
+    "Gabriel A. Lozada"
+   ],
+   "year": 2022,
+   "venue": "The Antitrust Bulletin",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Hotelling Rule for Entropy-constrained Economic Growth",
+   "authors": [
+    "Gabriel A. Lozada"
+   ],
+   "year": 2017,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Entropy, free energy, work, and other thermodynamic variables in economics",
+   "authors": [
+    "Gabriel A. Lozada"
+   ],
+   "year": 2006,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Existence of equilibria in exhaustible resource industries: Nonconvexities and discrete vs. continuous time",
+   "authors": [
+    "Gabriel A. Lozada"
+   ],
+   "year": 1996,
+   "venue": "Journal of Economic Dynamics and Control",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Resource depletion, national income accounting, and the value of optimal dynamic programs",
+   "authors": [
+    "Gabriel A. Lozada"
+   ],
+   "year": 1995,
+   "venue": "Resource and Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Georgescu-Roegen's defense of classical thermodynamics revisited",
+   "authors": [
+    "Gabriel A. Lozada"
+   ],
+   "year": 1995,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Existence and characterization of discrete-time equilibria in extractive industries",
+   "authors": [
+    "Gabriel A. Lozada"
+   ],
+   "year": 1993,
+   "venue": "Resource and Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Conservationist's Dilemma",
+   "authors": [
+    "Gabriel A. Lozada"
+   ],
+   "year": 1993,
+   "venue": "International Economic Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Erroneous Foundations of Law and Economics",
+   "authors": [
+    "Mark Glick",
+    "Gabriel A. Lozada"
+   ],
+   "year": 2021,
+   "venue": "INET Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Core Value of Public Policy Should be Equality",
+   "authors": [
+    "Mark Glick",
+    "Gabriel A. Lozada",
+    "Darren Bush"
+   ],
+   "year": 2026,
+   "venue": "INET Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Consumer Welfare Standard and the Protect Competition Standard: A Comparison and Assessment",
+   "authors": [
+    "Mark Glick",
+    "Gabriel A. Lozada",
+    "Darren Bush"
+   ],
+   "year": 2026,
+   "venue": "INET Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

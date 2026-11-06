@@ -1,0 +1,570 @@
+{
+ "slug": "craig-pirrong",
+ "name": "Craig Pirrong",
+ "sources": [
+  "http://www.bauer.uh.edu/spirrong/research.htm",
+  "http://www.bauer.uh.edu/spirrong/SCPvit1021.pdf (CV, Oct 2021)"
+ ],
+ "collected": "2026-11-06",
+ "notes": "CV dated Oct 2021 (latest available; homepage research page is stale ~2009). Single-authored unless noted. Undated working papers assigned year 2021 (CV date); the CV's list of 'Selected Working Papers' is long and mostly old, kept the main ones and omitted older titles (e.g. Upstairs Downstairs, Third Markets). Skipped Regulation/magazine/newspaper pieces, policy reports, books, encyclopedia entries, and DerivSource/ISDA/Cato pieces.",
+ "papers": [
+  {
+   "title": "Sheep in Wolves' Clothing: Using False Signals to Execute a Market Power Manipulation",
+   "authors": [
+    "Craig Pirrong"
+   ],
+   "year": 2022,
+   "venue": "Journal of Futures Markets",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Apocalypse Averted: The COVID-Caused Liquidity Trap, Dodd-Frank, and the Fed",
+   "authors": [
+    "Craig Pirrong"
+   ],
+   "year": 2020,
+   "venue": "Journal of Applied Corporate Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Oil Jump Risk",
+   "authors": [
+    "Nima Ebrahimi",
+    "Craig Pirrong"
+   ],
+   "year": 2020,
+   "venue": "Journal of Futures Markets",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Will Blockchain Be a Big Deal? Reasons for Caution",
+   "authors": [
+    "Craig Pirrong"
+   ],
+   "year": 2019,
+   "venue": "Journal of Applied Corporate Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Economics of Commodity Market Manipulation: A Survey",
+   "authors": [
+    "Craig Pirrong"
+   ],
+   "year": 2017,
+   "venue": "Journal of Commodity Markets",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Liquefying a Market: Contracting Dynamics in LNG",
+   "authors": [
+    "Craig Pirrong"
+   ],
+   "year": 2017,
+   "venue": "Journal of Applied Corporate Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Bund for Glory, or, It's a Long Way to Tip a Market",
+   "authors": [
+    "Craig Pirrong"
+   ],
+   "year": 2016,
+   "venue": "Journal of Applied Corporate Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Risk Management by Commodity Trading Firms: The Case of Trafigura",
+   "authors": [
+    "Craig Pirrong"
+   ],
+   "year": 2015,
+   "venue": "Journal of Applied Corporate Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Pick Your Poison-Fragmentation or Market Power? An Analysis of RegNMS, High Frequency Trading, and Securities Market Structure",
+   "authors": [
+    "Craig Pirrong"
+   ],
+   "year": 2014,
+   "venue": "Journal of Applied Corporate Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Bill of Goods: Central Counterparties and Systemic Risk",
+   "authors": [
+    "Craig Pirrong"
+   ],
+   "year": 2014,
+   "venue": "Journal of Financial Market Infrastructure",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Clearing and Collateral Mandates: A New Liquidity Trap?",
+   "authors": [
+    "Craig Pirrong"
+   ],
+   "year": 2012,
+   "venue": "Journal of Applied Corporate Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Squeeze Play: The Dynamics of the Delivery End Game",
+   "authors": [
+    "Craig Pirrong"
+   ],
+   "year": 2011,
+   "venue": "Journal of Alternative Investments",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Energy Market Manipulation: Definition, Diagnosis, and Deterrence",
+   "authors": [
+    "Craig Pirrong"
+   ],
+   "year": 2010,
+   "venue": "Energy Law Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Derivatives Clearing Mandates: Cure or Curse?",
+   "authors": [
+    "Craig Pirrong"
+   ],
+   "year": 2010,
+   "venue": "Journal of Applied Corporate Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Price of Power: The Valuation of Power and Weather Derivatives",
+   "authors": [
+    "Craig Pirrong"
+   ],
+   "year": 2008,
+   "venue": "Journal of Banking and Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Detecting Manipulation in Futures Markets: The Ferruzzi Soybean Episode",
+   "authors": [
+    "Craig Pirrong"
+   ],
+   "year": 2004,
+   "venue": "American Law and Economics Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Securities Market Macrostructure: Property Rights and the Efficiency of Securities Trading",
+   "authors": [
+    "Craig Pirrong"
+   ],
+   "year": 2002,
+   "venue": "Journal of Law, Economics, and Organization",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Manipulation of Cash-Settled Futures Contracts",
+   "authors": [
+    "Craig Pirrong"
+   ],
+   "year": 2001,
+   "venue": "Journal of Business",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Positive Theory of Financial Exchange Organization",
+   "authors": [
+    "Craig Pirrong"
+   ],
+   "year": 2000,
+   "venue": "Journal of Law and Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Organization of Financial Exchange Markets: Theory and Evidence",
+   "authors": [
+    "Craig Pirrong"
+   ],
+   "year": 1999,
+   "venue": "Journal of Financial Markets",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Inefficiency of U.S. Commodity Manipulation Law: Diagnosis and a Proposed Cure",
+   "authors": [
+    "Craig Pirrong"
+   ],
+   "year": 1997,
+   "venue": "Research in Law and Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Metallgesellschaft: A Prudent Hedger Ruined or a Wildcatter on NYMEX?",
+   "authors": [
+    "Craig Pirrong"
+   ],
+   "year": 1997,
+   "venue": "Journal of Futures Markets",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Liquidity and Depth on Open Outcry and Automated Exchanges: A Comparison of the LIFFE and DTB Bund Contracts",
+   "authors": [
+    "Craig Pirrong"
+   ],
+   "year": 1996,
+   "venue": "Journal of Futures Markets",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Price Dynamics in Physical Commodity Spot and Futures Markets: Spreads, Spillovers, Volatility and Convergence in Refined Petroleum Products",
+   "authors": [
+    "Victor Ng",
+    "Craig Pirrong"
+   ],
+   "year": 1996,
+   "venue": "Journal of Empirical Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Self-Regulation of Commodity Exchanges: The Case of Market Manipulation",
+   "authors": [
+    "Craig Pirrong"
+   ],
+   "year": 1995,
+   "venue": "Journal of Law and Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Welfare Costs of Arkansas Best: the Pareto Inefficiency of Asymmetric Taxation of Hedging Gains and Losses",
+   "authors": [
+    "Craig Pirrong"
+   ],
+   "year": 1995,
+   "venue": "Journal of Futures Markets",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Mixed Manipulation Strategies in Commodity Futures Markets",
+   "authors": [
+    "Craig Pirrong"
+   ],
+   "year": 1995,
+   "venue": "Journal of Futures Markets",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Efficient Scope of Private Transactions Cost Reducing Institutions: The Case of Commodity Exchanges",
+   "authors": [
+    "Craig Pirrong"
+   ],
+   "year": 1995,
+   "venue": "Journal of Legal Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Commodity Market Manipulation Law: A (Very) Critical Analysis of the Existing Doctrine and A Proposed Alternative",
+   "authors": [
+    "Craig Pirrong"
+   ],
+   "year": 1994,
+   "venue": "Washington and Lee University Annual Review of Securities and Commodities Law",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Fundamentals and Volatility: Storage, Spreads, and the Dynamics of Metals Prices",
+   "authors": [
+    "Victor Ng",
+    "Craig Pirrong"
+   ],
+   "year": 1994,
+   "venue": "Journal of Business",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Multiple Delivery Points, Pricing Dynamics, and Hedging Effectiveness in Futures Markets for Spatial Commodities",
+   "authors": [
+    "Craig Pirrong"
+   ],
+   "year": 1994,
+   "venue": "Journal of Futures Markets",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Contracting Practices in Bulk Shipping Markets: A Transactions Cost Explanation",
+   "authors": [
+    "Craig Pirrong"
+   ],
+   "year": 1993,
+   "venue": "Journal of Law and Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Manipulation of the Commodity Futures Market Delivery Process",
+   "authors": [
+    "Craig Pirrong"
+   ],
+   "year": 1993,
+   "venue": "Journal of Business",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Application of Core Theory to the Analysis of the Ocean Shipping Industry",
+   "authors": [
+    "Craig Pirrong"
+   ],
+   "year": 1992,
+   "venue": "Journal of Law and Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Resolving the Thrift Crisis",
+   "authors": [
+    "V. Bernard",
+    "R. Kormendi",
+    "E. Snyder",
+    "Craig Pirrong"
+   ],
+   "year": 1989,
+   "venue": "Journal of Applied Corporate Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Regulate in Haste, Repent at Leisure: Private and Public Orderings in OTC Derivatives Markets",
+   "authors": [
+    "Craig Pirrong"
+   ],
+   "year": 2017,
+   "venue": "Book chapter in Oxford Handbook on International Economic Governance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Exchanges: The Ultimate Manufactured Markets",
+   "authors": [
+    "Craig Pirrong"
+   ],
+   "year": 2014,
+   "venue": "Book chapter in The Manufacturing of Markets (Cambridge)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Structural Models of Commodity Price Dynamics",
+   "authors": [
+    "Craig Pirrong"
+   ],
+   "year": 2008,
+   "venue": "Book chapter in Encyclopedia of Quantitative Finance (Wiley)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Pricing Power Derivatives: Theory and Matlab Implementation",
+   "authors": [
+    "Craig Pirrong"
+   ],
+   "year": 2006,
+   "venue": "Book chapter in Modeling Derivatives Applications in Matlab, C++, and Excel (Financial Times Press)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Market Microstructure Issues",
+   "authors": [
+    "Craig Pirrong"
+   ],
+   "year": 2006,
+   "venue": "Book chapter in Electric Choices: Deregulation and the Future of Electric Power",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The New Economy: Implications for the Organization and Structure of Securities Markets",
+   "authors": [
+    "Craig Pirrong"
+   ],
+   "year": 2003,
+   "venue": "Book chapter in The New Economy Handbook (Academic Press)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Rocket Science, Default Risk, and the Organization of Derivatives Markets",
+   "authors": [
+    "Craig Pirrong"
+   ],
+   "year": 2021,
+   "venue": "Working Paper (first round, Journal of Law and Economics)",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Supply, Demand, and Risk Premiums in Electricity Markets",
+   "authors": [
+    "Kris Jacobs",
+    "Yu Li",
+    "Craig Pirrong"
+   ],
+   "year": 2021,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Learning From Liquidation: The Commodity Futures Convergence Process",
+   "authors": [
+    "Craig Pirrong"
+   ],
+   "year": 2021,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Derived Pricing: Fragmentation, Efficiency, and Manipulation",
+   "authors": [
+    "Craig Pirrong"
+   ],
+   "year": 2021,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Commodity Market Financialization, Indexation, and Correlation",
+   "authors": [
+    "Craig Pirrong"
+   ],
+   "year": 2021,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Mutualization of Default Risk, Fungibility, and Moral Hazard: The Economics of Default Risk Sharing in Cleared and Bilateral Markets",
+   "authors": [
+    "Craig Pirrong"
+   ],
+   "year": 2021,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Economics of Clearing in Derivatives Markets: Netting, Asymmetric Information, and the Sharing of Default Risk Through a Central Counterparty",
+   "authors": [
+    "Craig Pirrong"
+   ],
+   "year": 2021,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Industrial Organization of Trading, Clearing, and Settlement in Financial Markets",
+   "authors": [
+    "Craig Pirrong"
+   ],
+   "year": 2021,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Momentum in Futures Markets",
+   "authors": [
+    "Craig Pirrong"
+   ],
+   "year": 2021,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

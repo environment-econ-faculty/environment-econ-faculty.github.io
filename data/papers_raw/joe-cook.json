@@ -1,0 +1,671 @@
+{
+ "slug": "joe-cook",
+ "name": "Joe Cook",
+ "sources": [
+  "https://s3.wp.wsu.edu/uploads/sites/908/2026/08/Cook-CV-August-2026.pdf"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Aug 2026 CV. 41 peer-reviewed articles plus 4 working papers under review (Nature Cities and JPAM coded as R&R because CV says resubmitted; the other two as working papers). Skipped book project, book chapters, in-progress items. Some author lists use initials as in CV.",
+ "papers": [
+  {
+   "title": "Measuring consumer demand for Salmon Safe tires",
+   "authors": [
+    "Joe Cook",
+    "W. Sugiarto"
+   ],
+   "year": 2026,
+   "venue": "Marine Resource Economics",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Improving payment for essential services: a field experiment in Nairobi, Kenya",
+   "authors": [
+    "D. Fuente",
+    "Joe Cook",
+    "J. Gitu",
+    "M. Mwaura",
+    "R. Mulwa"
+   ],
+   "year": 2026,
+   "venue": "Utilities Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Water management technology, regulation, and market perspectives among Washington State irrigators",
+   "authors": [
+    "S. Deol",
+    "G. Yorgey",
+    "J. Yoder",
+    "K. Rajagopalan",
+    "M. Brady",
+    "D. Haller",
+    "J. Padowski",
+    "Joe Cook"
+   ],
+   "year": 2026,
+   "venue": "Journal of the American Water Resources Association",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Income redistribution, water scarcity and water rates in the 225 largest US cities",
+   "authors": [
+    "M.T. Randriamaro",
+    "Joe Cook"
+   ],
+   "year": 2026,
+   "venue": "Journal of Water Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An agent-based model for assessing agricultural water market structure and function",
+   "authors": [
+    "R. Basu",
+    "M. Brady",
+    "Joe Cook",
+    "J. Gifford",
+    "K. Rajagopalan",
+    "J. Yoder"
+   ],
+   "year": 2025,
+   "venue": "Water Resources and Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Peer effects in voluntary environmental policies: An application to urban water quality",
+   "authors": [
+    "D.A. Brent",
+    "D. Wrenn",
+    "G. Lara",
+    "Joe Cook"
+   ],
+   "year": 2025,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Concurrent irrigation pauses can create stream flow pulses for fish during critical low-flow periods",
+   "authors": [
+    "R. A. Khan",
+    "M. Brady",
+    "B. Singh",
+    "M. Yourek",
+    "J. Yoder",
+    "Joe Cook",
+    "G. Yorgey",
+    "K. Rajagopalan"
+   ],
+   "year": 2025,
+   "venue": "Water Resources Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The short-run impacts of reducing water collection times on time use, well-being and education in rural Kenya",
+   "authors": [
+    "Joe Cook",
+    "J. Kabubo-Mariara",
+    "Peter Kimuyu"
+   ],
+   "year": 2024,
+   "venue": "Economic Development and Cultural Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Out of sight, out of mind: Household perceptions of `fair' water prices in Nairobi, Kenya",
+   "authors": [
+    "D. Fuente",
+    "R. Mulwa",
+    "Joe Cook"
+   ],
+   "year": 2023,
+   "venue": "Water Resources Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The value of time, with and without a smartphone",
+   "authors": [
+    "M.T. Randriamaro",
+    "Joe Cook"
+   ],
+   "year": 2022,
+   "venue": "Journal of Economic Behavior and Organization",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The effects of eligibility and voluntary participation on the distribution of benefits in environmental programs: an application to green stormwater infrastructure",
+   "authors": [
+    "D. Brent",
+    "Joe Cook",
+    "A. Lassiter"
+   ],
+   "year": 2022,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Happy at work in Africa? Measuring hedonic well-being among water carriers in rural Kenya using the Experience Sampling Method",
+   "authors": [
+    "Joe Cook",
+    "J. Kabubo-Mariara",
+    "Peter Kimuyu"
+   ],
+   "year": 2022,
+   "venue": "Journal of Happiness Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Distributional statistics of municipal water use during Cape Town's drought: implications for affordability, conservation and tariff design",
+   "authors": [
+    "Joe Cook",
+    "J. Bruhl",
+    "M. Visser"
+   ],
+   "year": 2021,
+   "venue": "Water Resources Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "What causes heterogeneous responses to social comparison messages for water conservation?",
+   "authors": [
+    "D. Brent",
+    "C. Lott",
+    "M. Taylor",
+    "Joe Cook",
+    "K. Rollins",
+    "S. Stoddard"
+   ],
+   "year": 2020,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Demand for bio-based fertilizers from dairy manure in Washington State: a small-scale discrete choice experiment",
+   "authors": [
+    "K. Hills",
+    "G. Yorgey",
+    "Joe Cook"
+   ],
+   "year": 2020,
+   "venue": "Renewable Agriculture and Food Systems",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A decision support tool for rural water supply planning",
+   "authors": [
+    "Joe Cook",
+    "J. Wagner",
+    "G. Newell"
+   ],
+   "year": 2020,
+   "venue": "Journal of Water, Sanitation and Hygiene for Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Choosing among pro-poor policy options in providing municipal water services",
+   "authors": [
+    "Joe Cook",
+    "D. Fuente",
+    "D. Whittington"
+   ],
+   "year": 2020,
+   "venue": "Water Economics and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Household demand for water in rural Kenya",
+   "authors": [
+    "J. Wagner",
+    "Joe Cook",
+    "P. Kimuyu"
+   ],
+   "year": 2019,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Valuing Changes in Time Use in Low and Middle-Income Countries",
+   "authors": [
+    "D. Whittington",
+    "Joe Cook"
+   ],
+   "year": 2019,
+   "venue": "Journal of Benefit-Cost Analysis",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Why do water points fail? Learning from open-ended failure descriptions in the WPDx dataset",
+   "authors": [
+    "Joe Cook",
+    "S. Lahren"
+   ],
+   "year": 2017,
+   "venue": "Journal of Water, Sanitation and Hygiene for Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Benefit-cost analyses of Integrated Water Resource Management: The Yakima Basin Integrated Plan",
+   "authors": [
+    "J. Yoder",
+    "J. Adam",
+    "M. Brady",
+    "Joe Cook",
+    "S. Katz",
+    "D. Brent",
+    "S. Johnston",
+    "K. Malek",
+    "J. McMillan",
+    "Q. Yang"
+   ],
+   "year": 2017,
+   "venue": "Journal of the American Water Resources Association",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Estimating the value of travel time in rural Africa from a stated preference experiment on water source choices",
+   "authors": [
+    "Joe Cook",
+    "Peter Kimuyu",
+    "A. Blum",
+    "J. Gatua"
+   ],
+   "year": 2016,
+   "venue": "Journal of Benefit-Cost Analysis",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The costs of coping with poor water supply in rural Kenya",
+   "authors": [
+    "Joe Cook",
+    "P. Kimuyu",
+    "D. Whittington"
+   ],
+   "year": 2016,
+   "venue": "Water Resources Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Water markets and storage: Substitutes or complements for drought risk mitigation?",
+   "authors": [
+    "J. Yoder",
+    "M. Brady",
+    "Joe Cook"
+   ],
+   "year": 2016,
+   "venue": "Water Economics and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Social comparisons, household water use and participation in utility conservation programs: Evidence from three randomized trials",
+   "authors": [
+    "D. Brent",
+    "Joe Cook",
+    "S. Olsen"
+   ],
+   "year": 2015,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The economic value of improved air quality in urban Africa: Results from Douala, Cameroon",
+   "authors": [
+    "H. Donfouet",
+    "Joe Cook",
+    "P.W. Jeanty"
+   ],
+   "year": 2015,
+   "venue": "Environment and Development Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Assessing irrigators' preferences for water market lease attributes with a stated preferences approach",
+   "authors": [
+    "Joe Cook",
+    "S. Rabotyagov"
+   ],
+   "year": 2014,
+   "venue": "Water Resources and Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Pictorial approaches for measuring time use in rural Ethiopia",
+   "authors": [
+    "Y. Masuda",
+    "L. Fortmann",
+    "M.K. Gugerty",
+    "M. Smith-Nilson",
+    "Joe Cook"
+   ],
+   "year": 2014,
+   "venue": "Social Indicators Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Measuring risk aversion among the urban poor in Kolkata, India",
+   "authors": [
+    "Joe Cook",
+    "S. Chatterjee",
+    "D. Sur",
+    "D. Whittington"
+   ],
+   "year": 2013,
+   "venue": "Applied Economics Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Low power sensors and smartphones for tracking water collection in rural Ethiopia",
+   "authors": [
+    "R. Chaudhri",
+    "K. Lieberg",
+    "R. Sodt",
+    "J. Chilton",
+    "G. Borriello",
+    "Y. Masuda",
+    "Joe Cook"
+   ],
+   "year": 2012,
+   "venue": "IEEE Pervasive Computing",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The case for giving stated preference respondents `time to think': results from four countries",
+   "authors": [
+    "Joe Cook",
+    "B. Maskery",
+    "M. Jeuland",
+    "D. Whittington"
+   ],
+   "year": 2012,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Evaluating investments in typhoid vaccines in two Kolkata slums",
+   "authors": [
+    "Joe Cook",
+    "D. Sur",
+    "J. Clemens",
+    "D. Whittington"
+   ],
+   "year": 2009,
+   "venue": "Journal of Health, Population and Nutrition",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Cost-effectiveness of new-generation oral cholera vaccines: A multi-site analysis",
+   "authors": [
+    "M. Jeuland",
+    "Joe Cook",
+    "C. Poulos",
+    "J. Clemens",
+    "D. Whittington",
+    "DOMI Cholera Economics Study Group"
+   ],
+   "year": 2009,
+   "venue": "Value in Health",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Rethinking cholera and typhoid vaccination policies for the poor: Private demand in Kolkata, India",
+   "authors": [
+    "D. Whittington",
+    "D. Sur",
+    "Joe Cook",
+    "S. Chatterjee",
+    "B. Maskery",
+    "M. Lahiri",
+    "C. Poulos",
+    "S. Boral",
+    "A. Nyamete",
+    "J. Deen",
+    "L. Ochiai",
+    "S. K. Bhattacharya"
+   ],
+   "year": 2008,
+   "venue": "World Development",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The cost-effectiveness of typhoid Vi vaccination programs: Calculations for four urban sites in four Asian countries",
+   "authors": [
+    "Joe Cook",
+    "M. Jeuland",
+    "D. Whittington",
+    "C.Poulos",
+    "J. Clemens",
+    "D.Sur",
+    "D. D.Anh",
+    "M. Agtini",
+    "Z.Bhutta"
+   ],
+   "year": 2008,
+   "venue": "Vaccine",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Private demand for cholera vaccines in Hue, Vietnam",
+   "authors": [
+    "D. Kim",
+    "D. G. Canh",
+    "C. Poulos",
+    "L. T. K. Thoa",
+    "Joe Cook",
+    "N. T. Hoa",
+    "A. Nyamete",
+    "D. T. D. Thuy",
+    "J. Deen",
+    "N. D. Son",
+    "J. Clemens",
+    "D. D. Trach",
+    "V. D. Thiem",
+    "D. D. Anh",
+    "D. Whittington"
+   ],
+   "year": 2008,
+   "venue": "Value in Health",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Reliability of stated preferences for cholera and typhoid vaccines with time to think in Hue, Vietnam",
+   "authors": [
+    "Joe Cook",
+    "D. Whittington",
+    "D.G. Cahn",
+    "F. Reed Johnson",
+    "A. Nyamete"
+   ],
+   "year": 2007,
+   "venue": "Economic Inquiry",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Increasing the transparency of stated choice studies for policy analysis: designing experiments to produce policy graphs",
+   "authors": [
+    "D. Sur",
+    "Joe Cook",
+    "S. Chatterjee",
+    "J. Deen",
+    "D. Whittington"
+   ],
+   "year": 2006,
+   "venue": "Journal of Policy Analysis and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The benefits and costs of informal sector pollution control: Traditional Mexican brick kilns",
+   "authors": [
+    "A. Blackman",
+    "S. Newbold",
+    "J.-S. Shih",
+    "D. Evans",
+    "Joe Cook",
+    "M. Batz"
+   ],
+   "year": 2006,
+   "venue": "Environment and Development Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An economic reappraisal of the Melamchi water supply project Kathmandu, Nepal",
+   "authors": [
+    "D. Whittington",
+    "D. Lauria",
+    "V. Prabhu",
+    "Joe Cook"
+   ],
+   "year": 2004,
+   "venue": "Portuguese Economic Journal",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Using private demand studies to calculate socially optimal vaccine subsidies in developing countries",
+   "authors": [
+    "Joe Cook",
+    "M. Jeuland",
+    "B. Maskery",
+    "D. Lauria",
+    "D. Sur",
+    "J. Clemens",
+    "D. Whittington"
+   ],
+   "year": 2009,
+   "venue": "Journal of Policy Analysis and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Estimating own-price and cross-price elasticities of demand for canned tuna ecolabels in Jakarta, Indonesia: A volumetric choice experiment",
+   "authors": [
+    "B. Asgha",
+    "Joe Cook",
+    "R. K. Gallardo"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Assessing preferences for reforming water subsidy eligibility rules in Delhi",
+   "authors": [
+    "S. Sinha",
+    "R. Carson",
+    "Joe Cook",
+    "D. Whittington"
+   ],
+   "year": 2026,
+   "venue": "Nature Cities",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Forgive us our sins - experimental evidence on arrears forgiveness and bill payment in Nairobi, Kenya",
+   "authors": [
+    "D. Fuente",
+    "R. Mulwa",
+    "M. Mwaura",
+    "J. Gitu",
+    "Joe Cook"
+   ],
+   "year": 2026,
+   "venue": "Journal of Policy Analysis and Management",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The role of nonpecuniary benefits of farming and psychological ownership on willingness to accept in hypothetical water markets",
+   "authors": [
+    "S. Deol",
+    "J. Yoder",
+    "Joe Cook"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

@@ -1,0 +1,686 @@
+{
+ "slug": "tara-wade",
+ "name": "Tara Wade",
+ "sources": [
+  "https://openalex.org/A5038016028"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Fallback: homepage/CV unavailable; list from OpenAlex author record(s) affiliated with University of Florida (Tara Wade). May include non-economics coauthored work; working papers mostly absent.",
+ "papers": [
+  {
+   "title": "Automated Trunk Injection in Citrus: A Cost–Benefit Analysis",
+   "authors": [
+    "Shourish Chakravarty",
+    "Tara Wade"
+   ],
+   "year": 2026,
+   "venue": "Proceedings of the Florida State Horticultural Society",
+   "status": "已发表",
+   "url": "https://doi.org/10.32473/fshs.135.1.135419",
+   "abstract": null
+  },
+  {
+   "title": "Overview of Carbon Markets and the Potential for Florida Pepper Producers",
+   "authors": [
+    "Sawssan Boufous",
+    "Tara Wade"
+   ],
+   "year": 2026,
+   "venue": "Proceedings of the Florida State Horticultural Society",
+   "status": "已发表",
+   "url": "https://doi.org/10.32473/fshs.135.1.136621",
+   "abstract": null
+  },
+  {
+   "title": "Assessing the agricultural, environmental, and economic effects of crop diversity management: A comprehensive review on crop rotation and cover crop practices",
+   "authors": [
+    "Dong‐Hyeon Kim",
+    "Tara Wade",
+    "Zachary Brym",
+    "Lonege Ogisma",
+    "Rabin Bhattarai",
+    "Xue Bai",
+    "Jehangir H. Bhadha",
+    "Younggu Her"
+   ],
+   "year": 2025,
+   "venue": "Journal of Environmental Management",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jenvman.2025.125833",
+   "abstract": null
+  },
+  {
+   "title": "Oxytetracycline Injections in Citrus: Cost Estimates for Early Adopters",
+   "authors": [
+    "Shourish Chakravarty",
+    "Tara Wade",
+    "Ute Albrecht",
+    "Özgur Batuman",
+    "Thomas H. Spreen"
+   ],
+   "year": 2025,
+   "venue": "EDIS",
+   "status": "已发表",
+   "url": "https://doi.org/10.32473/edis-fe1165-2025",
+   "abstract": null
+  },
+  {
+   "title": "Florida Growers’ Perceptions of Adopting Cover Crops in Citrus Production",
+   "authors": [
+    "Shourish Chakravarty",
+    "Tara Wade"
+   ],
+   "year": 2025,
+   "venue": "Proceedings of the Florida State Horticultural Society",
+   "status": "已发表",
+   "url": "https://doi.org/10.32473/fshs.136.1.138120",
+   "abstract": null
+  },
+  {
+   "title": "Florida Bell Pepper Novel Treatments Profitability Risk Assessments",
+   "authors": [
+    "Lonege Ogisma",
+    "Tara Wade",
+    "Kelvin K. Amon",
+    "Pamela Roberts"
+   ],
+   "year": 2025,
+   "venue": "Proceedings of the Florida State Horticultural Society",
+   "status": "已发表",
+   "url": "https://doi.org/10.32473/fshs.136.1.138053",
+   "abstract": null
+  },
+  {
+   "title": "Costs of Using Cover Crops in Citrus Production, 2022–23",
+   "authors": [
+    "Tara Wade",
+    "Shourish Chakravarty",
+    "Sarah L. Strauss"
+   ],
+   "year": 2025,
+   "venue": "EDIS",
+   "status": "已发表",
+   "url": "https://doi.org/10.32473/edis-fe1168-2025",
+   "abstract": null
+  },
+  {
+   "title": "Cover Crops for Florida Citrus: Practical Considerations and Their Impact on Soil Microbes",
+   "authors": [
+    "Emma K. Dawson",
+    "Davie Mayeso Kadyampakeni",
+    "Ramdas Gopinath Kanissery",
+    "Tara Wade",
+    "Sarah L. Strauss"
+   ],
+   "year": 2025,
+   "venue": "EDIS",
+   "status": "已发表",
+   "url": "https://doi.org/10.32473/edis-ss749-2025",
+   "abstract": null
+  },
+  {
+   "title": "The Use and Impact of Antibiotics in Plant Agriculture: A Review",
+   "authors": [
+    "Özgur Batuman",
+    "Kellee Britt",
+    "Sanju Kunwar",
+    "Salih Yılmaz",
+    "Lauren Fessler",
+    "Ana Redondo",
+    "Kseniya Chumachenko",
+    "Shourish Chakravarty",
+    "Tara Wade"
+   ],
+   "year": 2024,
+   "venue": "Phytopathology",
+   "status": "已发表",
+   "url": "https://doi.org/10.1094/phyto-10-23-0357-ia",
+   "abstract": null
+  },
+  {
+   "title": "A Review of Strawberry Production and Price Trends from 2010 to 2022",
+   "authors": [
+    "Tara Wade",
+    "Kelvin K. Amon",
+    "Zhengfei Guan",
+    "Wael M. Elwakil"
+   ],
+   "year": 2024,
+   "venue": "EDIS",
+   "status": "已发表",
+   "url": "https://doi.org/10.32473/edis-fe1143-2024",
+   "abstract": null
+  },
+  {
+   "title": "An Introduction to Carbon Credit Markets and Their Potential for Florida Agricultural Producers",
+   "authors": [
+    "Sawssan Boufous",
+    "Tara Wade",
+    "Shourish Chakravarty",
+    "Michael G. Andreu",
+    "Jehangir H. Bhadha",
+    "Younggu Her",
+    "Ziwen Yu"
+   ],
+   "year": 2024,
+   "venue": "EDIS",
+   "status": "已发表",
+   "url": "https://doi.org/10.32473/edis-fe1154-2024",
+   "abstract": null
+  },
+  {
+   "title": "A Review of Fresh Market Sweet Corn Production and Price Trends from 2010 to 2022",
+   "authors": [
+    "Kelvin K. Amon",
+    "Tara Wade",
+    "Anna Mészáros",
+    "Tori Rumenik"
+   ],
+   "year": 2024,
+   "venue": "EDIS",
+   "status": "已发表",
+   "url": "https://doi.org/10.32473/edis-fe1149-2024",
+   "abstract": null
+  },
+  {
+   "title": "A Review of Bell Pepper Production and Price Trends from 2010 to 2022",
+   "authors": [
+    "Tara Wade",
+    "Kelvin K. Amon",
+    "Zhengfei Guan",
+    "Craig J. Frey"
+   ],
+   "year": 2024,
+   "venue": "EDIS",
+   "status": "已发表",
+   "url": "https://doi.org/10.32473/edis-fe1146-2024",
+   "abstract": null
+  },
+  {
+   "title": "Cost Analysis of Using Cover Crops in Citrus Production",
+   "authors": [
+    "Shourish Chakravarty",
+    "Tara Wade"
+   ],
+   "year": 2023,
+   "venue": "HortTechnology",
+   "status": "已发表",
+   "url": "https://doi.org/10.21273/horttech05126-22",
+   "abstract": null
+  },
+  {
+   "title": "Citrus growers’ willingness to pay and perceptions of cover crops",
+   "authors": [
+    "Carter Cosgray",
+    "Shourish Chakravarty",
+    "Tara Wade",
+    "Zhifeng Gao"
+   ],
+   "year": 2023,
+   "venue": "Agricultural and Resource Economics Review",
+   "status": "已发表",
+   "url": "https://doi.org/10.1017/age.2023.15",
+   "abstract": null
+  },
+  {
+   "title": "The distribution of competitive research grants from the National Institute for Food and Agriculture: A comparison of 1862 land grant universities, 1890 land grant universities, and other institutions",
+   "authors": [
+    "Norbert Lance Weston Wilson",
+    "Lurleen M. Walters",
+    "Tara Wade",
+    "Kenesha Reynolds"
+   ],
+   "year": 2023,
+   "venue": "Applied Economic Perspectives and Policy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1002/aepp.13413",
+   "abstract": null
+  },
+  {
+   "title": "Factors affecting the bundled adoption of irrigation and nutrient best management practices for improving water quality and quantity in Florida",
+   "authors": [
+    "Moonwon Soh",
+    "Tara Wade",
+    "Kelly A. Grogan",
+    "Lauriane Yehouenou"
+   ],
+   "year": 2023,
+   "venue": "Journal of the Agricultural and Applied Economics Association",
+   "status": "已发表",
+   "url": "https://doi.org/10.1002/jaa2.74",
+   "abstract": null
+  },
+  {
+   "title": "Capitalizing on Carbon",
+   "authors": [
+    "Jehangir H. Bhadha",
+    "Mark Clark",
+    "Michael G. Andreu",
+    "Yuchuan Fan",
+    "Tara Wade",
+    "Younggu Her"
+   ],
+   "year": 2023,
+   "venue": "EDIS",
+   "status": "已发表",
+   "url": "https://doi.org/10.32473/edis-ae582-2023",
+   "abstract": null
+  },
+  {
+   "title": "A Review of Watermelon Production and Price Trends from 2010 to 2021",
+   "authors": [
+    "Tara Wade",
+    "Kelvin K. Amon",
+    "Kevin Athearn",
+    "Craig J. Frey"
+   ],
+   "year": 2023,
+   "venue": "EDIS",
+   "status": "已发表",
+   "url": "https://doi.org/10.32473/edis-fe1137-2023",
+   "abstract": null
+  },
+  {
+   "title": "How ecosystem services are measured and why it matters for Florida",
+   "authors": [
+    "Charles Wallace",
+    "Anna Braswell",
+    "Mysha K. Clarke",
+    "Andrew Ropicki",
+    "Tara Wade",
+    "Frank Asche",
+    "Ashley R. Smyth",
+    "Armando J. Ubeda",
+    "Ed Camp"
+   ],
+   "year": 2023,
+   "venue": "EDIS",
+   "status": "已发表",
+   "url": "https://doi.org/10.32473/edis-fa252-2023",
+   "abstract": null
+  },
+  {
+   "title": "Welfare impacts of conservation agriculture adoption on smallholder maize farmers in South Africa",
+   "authors": [
+    "Oluwaseun Samuel Oduniyi",
+    "Clarietta Chagwiza",
+    "Tara Wade"
+   ],
+   "year": 2022,
+   "venue": "Renewable Agriculture and Food Systems",
+   "status": "已发表",
+   "url": "https://doi.org/10.1017/s1742170522000308",
+   "abstract": null
+  },
+  {
+   "title": "Water Quality Credit Trading: General Principles",
+   "authors": [
+    "Tara Wade",
+    "Tatiana Borisova"
+   ],
+   "year": 2022,
+   "venue": "EDIS",
+   "status": "已发表",
+   "url": "https://doi.org/10.32473/edis-fe824-2022",
+   "abstract": null
+  },
+  {
+   "title": "The Potential for Increased Emissions Due to the Electronic Logging Device Mandate",
+   "authors": [
+    "Shellye Suttles",
+    "Tara Wade",
+    "Lurleen M. Walters"
+   ],
+   "year": 2022,
+   "venue": "Applied Economic Perspectives and Policy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1002/aepp.13469",
+   "abstract": null
+  },
+  {
+   "title": "Florida’s Agricultural Carbon Economy as Climate Action: The Potential Role of Farmers and Ranchers",
+   "authors": [
+    "Younggu Her",
+    "Tara Wade",
+    "Sawssan Boufous",
+    "Jehangir H. Bhadha",
+    "Michael G. Andreu"
+   ],
+   "year": 2022,
+   "venue": "EDIS",
+   "status": "已发表",
+   "url": "https://doi.org/10.32473/edis-ae573-2022",
+   "abstract": null
+  },
+  {
+   "title": "An Introduction to Florida commodity enterprise budgets: An Extension tool to improve farm financial planning",
+   "authors": [
+    "Kimberly L. Morgan",
+    "Tara Wade",
+    "Kevin Athearn",
+    "Chris Prevatt",
+    "Ariel Singerman",
+    "Edward Anthony Evans",
+    "Trent D Blare",
+    "Hayk Khachatryan",
+    "Zhengfei Guan"
+   ],
+   "year": 2022,
+   "venue": "EDIS",
+   "status": "已发表",
+   "url": "https://doi.org/10.32473/edis-fe1109-2021",
+   "abstract": null
+  },
+  {
+   "title": "Past, present, and future: Status of women and minority faculty in agricultural and applied economics",
+   "authors": [
+    "Jana Hilsenroth",
+    "Anna Josephson",
+    "Kelly A. Grogan",
+    "Lurleen M. Walters",
+    "Zoë Plakias",
+    "Leah H. Palm‐Forster",
+    "Simanti Banerjee",
+    "Tara Wade"
+   ],
+   "year": 2021,
+   "venue": "Applied Economic Perspectives and Policy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1002/aepp.13191",
+   "abstract": null
+  },
+  {
+   "title": "Nitrogen Fertilization Guidelines for Potato Production in Florida",
+   "authors": [
+    "Lincoln Zotarelli",
+    "Tara Wade",
+    "Gary K. England",
+    "Christian Christensen"
+   ],
+   "year": 2021,
+   "venue": "EDIS",
+   "status": "已发表",
+   "url": "https://doi.org/10.32473/edis-hs1429-2021",
+   "abstract": null
+  },
+  {
+   "title": "Efficient Portfolios for Cost-Share Funds Allocation in Florida",
+   "authors": [
+    "Moonwon Soh",
+    "Tara Wade"
+   ],
+   "year": 2021,
+   "venue": "RePEc: Research Papers in Economics",
+   "status": "工作论文",
+   "url": "https://doi.org/10.22004/ag.econ.312840",
+   "abstract": null
+  },
+  {
+   "title": "Constructing a Southwest Florida Tomato Enterprise Budget",
+   "authors": [
+    "Tara Wade",
+    "Barbara R. Hyman",
+    "Eugene J. McAvoy",
+    "John J. VanSickle"
+   ],
+   "year": 2020,
+   "venue": "EDIS",
+   "status": "已发表",
+   "url": "https://doi.org/10.32473/edis-fe1087-2020",
+   "abstract": null
+  },
+  {
+   "title": "Economic Value of Florida Water Resources: Contributions of Tourism and Recreation to the Economy",
+   "authors": [
+    "Tatiana Borisova",
+    "Kurt Oehlbeck",
+    "Xiang Bi",
+    "Tara Wade",
+    "Alan Wade Hodges",
+    "Kelly A. Grogan",
+    "Fe Hei"
+   ],
+   "year": 2020,
+   "venue": "EDIS",
+   "status": "已发表",
+   "url": "https://doi.org/10.32473/edis-fe1065-2019",
+   "abstract": null
+  },
+  {
+   "title": "Constructing a Southwest Florida Bell Peppers Enterprise Budget",
+   "authors": [
+    "Tara Wade",
+    "Barbara Hyman",
+    "Eugene J. McAvoy"
+   ],
+   "year": 2020,
+   "venue": "EDIS",
+   "status": "已发表",
+   "url": "https://doi.org/10.32473/edis-fe1088-2020",
+   "abstract": null
+  },
+  {
+   "title": "The Electronic Logging Device Mandate and Costs for Refrigerated Citrus",
+   "authors": [
+    "Tara Wade",
+    "Shellye Suttles",
+    "Derek Farnsworth"
+   ],
+   "year": 2020,
+   "venue": "EDIS",
+   "status": "已发表",
+   "url": "https://doi.org/10.32473/edis-fe1086-2020",
+   "abstract": null
+  },
+  {
+   "title": "Economic Value of Florida Water Resources: Value Derived by Tourists and Recreationists from Freshwater-Based Recreation",
+   "authors": [
+    "Tatiana Borisova",
+    "Tara Wade",
+    "Xiang Bi",
+    "Kurt Oehlbeck",
+    "Kelly A. Grogan"
+   ],
+   "year": 2019,
+   "venue": "EDIS",
+   "status": "已发表",
+   "url": "https://doi.org/10.32473/edis-fe1067-2020",
+   "abstract": null
+  },
+  {
+   "title": "Valuing Florida’s Water Resources: Ecosystem Services Approach",
+   "authors": [
+    "Tatiana Borisova",
+    "Tara Wade",
+    "Xiang Bi",
+    "Kurt Oehlbeck",
+    "Kelly A. Grogan"
+   ],
+   "year": 2019,
+   "venue": "EDIS",
+   "status": "已发表",
+   "url": "https://doi.org/10.32473/edis-fe1064-2019",
+   "abstract": null
+  },
+  {
+   "title": "The Electronic Logging Devices Mandate and Hours Of Service for Produce Haulers",
+   "authors": [
+    "Tara Wade",
+    "Fritz Roka",
+    "Craig Sprouse"
+   ],
+   "year": 2019,
+   "venue": "EDIS",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Electronic Logging Device Mandate, Hours of Service Rules, and Implications for Southwest Florida Produce Haulers",
+   "authors": [
+    "Fritz Roka",
+    "Tara Wade",
+    "Craig Sprouse"
+   ],
+   "year": 2019,
+   "venue": "EDIS",
+   "status": "已发表",
+   "url": "https://doi.org/10.32473/edis-fe1052-2019",
+   "abstract": null
+  },
+  {
+   "title": "Valuing Florida Water Resources: Households’ Willingness to Pay for Water Availability",
+   "authors": [
+    "Tatiana Borisova",
+    "Fei He",
+    "Xiang Bi",
+    "Kelly A. Grogan",
+    "Tara Wade",
+    "Syed Asad Ali Shah"
+   ],
+   "year": 2019,
+   "venue": "EDIS",
+   "status": "已发表",
+   "url": "https://doi.org/10.32473/edis-fe1068-2019",
+   "abstract": null
+  },
+  {
+   "title": "Economic Value of Florida Water Resources: Valuing the Quality of Water for Household Needs",
+   "authors": [
+    "Tatiana Borisova",
+    "Syed Irfan Ali Shah",
+    "Tara Wade",
+    "Xiang Bi",
+    "Kelly A. Grogan"
+   ],
+   "year": 2019,
+   "venue": "EDIS",
+   "status": "已发表",
+   "url": "https://doi.org/10.32473/edis-fe1059-2019",
+   "abstract": null
+  },
+  {
+   "title": "Valuing Florida Water Resources: Prices of Waterfront Properties",
+   "authors": [
+    "Tatiana Borisova",
+    "Xiang Bi",
+    "Tara Wade",
+    "Kurt Oehlbeck",
+    "Kelly A. Grogan"
+   ],
+   "year": 2019,
+   "venue": "EDIS",
+   "status": "已发表",
+   "url": "https://doi.org/10.32473/edis-fe1062-2019",
+   "abstract": null
+  },
+  {
+   "title": "El Mandato del Dispositivo de Registro Electrónico, reglas de las horas de servicio e Implicaciones para los Transportistas de Productos del Sudoeste de Florida",
+   "authors": [
+    "Fritz Roka",
+    "Tara Wade",
+    "Luis Moisés Peña-Lévano",
+    "Craig Sprouse"
+   ],
+   "year": 2019,
+   "venue": "EDIS",
+   "status": "已发表",
+   "url": "https://doi.org/10.32473/edis-fe1058-2019",
+   "abstract": null
+  },
+  {
+   "title": "Preserving native grassland: Can Sodsaver reduce cropland conversion?",
+   "authors": [
+    "Roger Claassen",
+    "Tara Wade",
+    "Vince Breneman",
+    "Ryan J. Williams",
+    "Chuck Loesch"
+   ],
+   "year": 2018,
+   "venue": "Journal of Soil and Water Conservation",
+   "status": "已发表",
+   "url": "https://doi.org/10.2489/jswc.73.3.67a",
+   "abstract": null
+  },
+  {
+   "title": "Los recursos hídricos de Florida",
+   "authors": [
+    "Tatiana Borisova",
+    "Tara Wade"
+   ],
+   "year": 2018,
+   "venue": "EDIS",
+   "status": "已发表",
+   "url": "https://doi.org/10.32473/edis-fe1044-2018",
+   "abstract": null
+  },
+  {
+   "title": "MODELING NO-TILL ADOPTION BY CORN AND SOYBEAN PRODUCERS: INSIGHTS INTO SUSTAINED ADOPTION",
+   "authors": [
+    "Tara Wade",
+    "Roger Claassen"
+   ],
+   "year": 2017,
+   "venue": "Journal of Agricultural and Applied Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1017/aae.2016.48",
+   "abstract": null
+  },
+  {
+   "title": "Conservation Compliance: How Farmer Incentives Are Changing in the Crop Insurance Era",
+   "authors": [
+    "Roger Claassen",
+    "Maria Bowman",
+    "Vince Breneman",
+    "Tara Wade",
+    "Williams, Ryan",
+    "Jacob R. Fooks",
+    "LeRoy Hansen",
+    "Rich Iovanna",
+    "Chuck Loesch"
+   ],
+   "year": 2017,
+   "venue": "RePEc: Research Papers in Economics",
+   "status": "工作论文",
+   "url": "https://doi.org/10.22004/ag.econ.261814",
+   "abstract": null
+  },
+  {
+   "title": "Aggregated Choice Data And Logit Models: Application To Environmental Benign Practices Of Conservation Tillage By Farmers In The State Of Iowa",
+   "authors": [
+    "Lyubov A. Kurkalova",
+    "Tara Wade"
+   ],
+   "year": 2013,
+   "venue": "RePEc: Research Papers in Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Using the logit model with aggregated choice data in estimation of Iowa corn farmers’ conservation tillage subsidies",
+   "authors": [
+    "Tara Wade",
+    "Lyubov A. Kurkalova",
+    "Silvia Secchi"
+   ],
+   "year": 2012,
+   "venue": "RePEc: Research Papers in Economics",
+   "status": "工作论文",
+   "url": "https://doi.org/10.22004/ag.econ.124974",
+   "abstract": null
+  },
+  {
+   "title": "Using Expectation Methods To Estimate A Discrete Choice Model When Individual Choices Are Not Observable: Methodology And Applications To Tillage Choice",
+   "authors": [
+    "Tara Wade"
+   ],
+   "year": 2011,
+   "venue": "",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

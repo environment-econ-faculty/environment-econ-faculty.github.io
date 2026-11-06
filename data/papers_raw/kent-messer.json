@@ -1,0 +1,1568 @@
+{
+ "slug": "kent-messer",
+ "name": "Kent Messer",
+ "sources": [
+  "https://www.udel.edu/content/dam/udelImages/canr/pdfs/apec/faculty/vita-messer.pdf"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Source: Messer CV PDF (appears to date from ~2023; latest items are 2023, so 'forthcoming' items are assigned year 2023). Authors given as on the CV (initials, byline order). Skipped: commissioned NAS report, Choices magazine piece, teaching publications, grants. No working-paper section on the CV. Titles auto-extracted from CV text; hyphenation line breaks repaired. The Hohler et al. item is forthcoming on this CV but listed as published 2023 on Palm-Forster's newer CV, so treated as published. Venue names normalised for obvious typos (e.g. 'Economic Letters' -> Economics Letters).",
+ "papers": [
+  {
+   "title": "Behavioral Biases among Producers: Experimental Evidence of Anchoring in Procurement Auctions",
+   "authors": [
+    "P.J. Ferraro",
+    "K.D. Messer",
+    "P. Shukla",
+    "C. Weigel"
+   ],
+   "year": 2023,
+   "venue": "Review of Economics and Statistics",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Are Consumers No Longer Willing to Pay More for Local Foods? A Field Experiment",
+   "authors": [
+    "K. Davidson",
+    "B. Khanal",
+    "K.D. Messer"
+   ],
+   "year": 2023,
+   "venue": "Agricultural and Resource Economics Review",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Perspectives on Stakeholder Participation in the Design of Economic Experiments for Agricultural Policymaking: Pros, Cons, and Twelve Recommendations for Researchers",
+   "authors": [
+    "J. Höhler",
+    "J. Barreiro-Hurlé",
+    "M. Czajkowski",
+    "F.J. Dessart",
+    "P.J. Ferraro",
+    "T. Li",
+    "K.D. Messer",
+    "L. Palm-Forster",
+    "M. Termansen",
+    "F. Thomas",
+    "K. Zagórska",
+    "K.H. Zemo",
+    "J. Rommel"
+   ],
+   "year": 2023,
+   "venue": "Applied Economic Perspectives and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Is a Non-Representative Convenience Sample Good Enough? Insights from an Economic Experiment",
+   "authors": [
+    "S.F. Ellis",
+    "O.M. Savchenko",
+    "K.D. Messer"
+   ],
+   "year": 2023,
+   "venue": "Journal of the Economic Science Association",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Applying Behavioral Science to Agriculture, Food, and Agri-environmental Policymaking",
+   "authors": [
+    "P. Shukla",
+    "K.D. Messer",
+    "P.J. Ferraro"
+   ],
+   "year": 2023,
+   "venue": "Food Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Encouraging Pro-environmental Behavior: Do Testimonials by Experts Work?",
+   "authors": [
+    "O.M. Savchenko",
+    "L.H. Palm-Forster",
+    "L. Xie",
+    "R. Rahman",
+    "K.D. Messer"
+   ],
+   "year": 2023,
+   "venue": "PLOS ONE",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Back to the Source: Consumers Response to Produce Irrigated with Different Sources of Recycled Water",
+   "authors": [
+    "S.F. Ellis",
+    "D. Ganguly",
+    "M. Kecinski",
+    "K.D. Messer"
+   ],
+   "year": 2023,
+   "venue": "Water Resources Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Behavioral Nudges in Conservation Auctions: A Field Experiment with U.S. Farmers",
+   "authors": [
+    "S. Wallander",
+    "L.A. Paul",
+    "P.J. Ferraro",
+    "K.D. Messer",
+    "R. Iovanna"
+   ],
+   "year": 2023,
+   "venue": "Food Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Promoting Spatial Coordination in Flood Buyouts in the United States: Four Strategies and Four Challenges from the Economics of Land Preservation Literature",
+   "authors": [
+    "P. Dineva",
+    "C. McGranaghan",
+    "K.D. Messer",
+    "L.H. Palm-Forster",
+    "L.A. Paul",
+    "A.R. Siders"
+   ],
+   "year": 2023,
+   "venue": "Natural Hazards Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Implicit and Explicit Biases for Recycled Water and Tap Water",
+   "authors": [
+    "D.A. Bass",
+    "B.R. McFadden",
+    "M. Costanigro",
+    "K.D. Messer"
+   ],
+   "year": 2022,
+   "venue": "Water Resources Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Peer Feedback Can Decrease Consumers' Willingness to Pay for Food: Evidence from a Field Experiment",
+   "authors": [
+    "M. Langer",
+    "K. Davidson",
+    "B. McFadden",
+    "K.D. Messer"
+   ],
+   "year": 2022,
+   "venue": "Appetite",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Nudge or Sludge? An Experimental Game Illustrating How Misunderstood Scientific Information Can Change Consumer Behavior",
+   "authors": [
+    "L.A. Paul",
+    "O. Savchenko",
+    "M. Kecinski",
+    "K.D. Messer"
+   ],
+   "year": 2022,
+   "venue": "Applied Economics Teaching Resources",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Lottery incentives and resource management: Evidence from the Agricultural Data Reporting Incentive Program (AgDRIP)",
+   "authors": [
+    "B.S. Meiselman",
+    "C. Weigel",
+    "P.J. Ferraro",
+    "M. Masters",
+    "K.D. Messer",
+    "O. Savchenko",
+    "J.F. Suter"
+   ],
+   "year": 2022,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Demand for an Environmental Public Good in the Time of COVID-19: A Statewide Water Quality Referendum",
+   "authors": [
+    "G. Parsons",
+    "L. Paul",
+    "K.D. Messer"
+   ],
+   "year": 2022,
+   "venue": "Journal of Benefit-Cost Analysis",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Private Costs of Carbon Emissions Abatement by Limiting Beef Consumption and Vehicle Use in the United States",
+   "authors": [
+    "B.R. McFadden",
+    "P.J. Ferraro",
+    "K.D. Messer"
+   ],
+   "year": 2022,
+   "venue": "PLOS ONE",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Consumer Perceptions After Long Term Use of Alternative Irrigation Water: A Field Experiment in Israel",
+   "authors": [
+    "S.F. Ellis",
+    "M. Kecinski",
+    "K.D. Messer",
+    "C. Lipchin"
+   ],
+   "year": 2022,
+   "venue": "Applied Economic Perspectives and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Stewardship Signaling and Use of Social Pressure to Reduce Nonpoint Source Pollution",
+   "authors": [
+    "L.H. Palm-Forster",
+    "M. Griesinger",
+    "J.M. Butler",
+    "J.R. Fooks",
+    "K.D. Messer"
+   ],
+   "year": 2022,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Mitigating Stigma Associated with Recycled Water: Aquifer Recharge and Trophic Levels",
+   "authors": [
+    "S.F. Ellis",
+    "O. Savchenko",
+    "K.D. Messer"
+   ],
+   "year": 2022,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Fear of Fraud and Willingness to Pay for Hybrid Maize Seed in Kenya",
+   "authors": [
+    "M.H. Gharib",
+    "L.H. Palm-Forster",
+    "T.J. Lybbert",
+    "K.D. Messer"
+   ],
+   "year": 2021,
+   "venue": "Food Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Paying Americans to Take the Vaccine--Would it Help or Backfire?",
+   "authors": [
+    "C. Robertson",
+    "D. Scheitrum",
+    "A. Schaefer",
+    "T. Malone",
+    "B.R. McFadden",
+    "P.J. Ferraro",
+    "K.D. Messer"
+   ],
+   "year": 2021,
+   "venue": "Journal of Law and the Biosciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Experimental and Behavioral Economics to Inform Agri-Environmental Programs and Policies",
+   "authors": [
+    "L.H. Palm-Forster",
+    "K. D. Messer"
+   ],
+   "year": 2021,
+   "venue": "Handbook of Agricultural Economics (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Case for Measuring Negative Willingness to Pay for Consumer Goods",
+   "authors": [
+    "D.A. Bass",
+    "B.R. McFadden",
+    "K.D. Messer"
+   ],
+   "year": 2021,
+   "venue": "Food Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Conservation Outreach that Acknowledges Human Contributions to Climate Change Does Not Inhibit Action by U.S. Farmers: Evidence from a Large Randomized Controlled Trial Embedded in a Federal Program on Soil Health",
+   "authors": [
+    "P.J. Ferraro",
+    "J. Fooks",
+    "R. Iovanna",
+    "M. Kecinski",
+    "J. Larson",
+    "B.S. Meiselman",
+    "K.D. Messer",
+    "M. Wilson"
+   ],
+   "year": 2021,
+   "venue": "PLOS ONE",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Motorists' Willingness to Drive through Flooded Roads: Evidence from a Stated Preference Experiment",
+   "authors": [
+    "Ahsanuzzaman",
+    "K.D. Messer"
+   ],
+   "year": 2021,
+   "venue": "Journal of Flood Risk Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Bidding Behavior in Auctions versus Posted Prices: Comparisons of Mean and Marginal Effect",
+   "authors": [
+    "S. Wu",
+    "J.R. Fooks",
+    "T. Li",
+    "K.D. Messer",
+    "D.A. Delaney"
+   ],
+   "year": 2021,
+   "venue": "Agricultural and Resource Economics Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Problem of Feral Hogs and the Challenges of Providing a Weak-link Public Good",
+   "authors": [
+    "S.F. Ellis",
+    "M. Masters",
+    "K.D. Messer",
+    "C. Weigel",
+    "P.J. Ferraro"
+   ],
+   "year": 2021,
+   "venue": "Applied Economic Perspectives and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Is There a Potential U.S. Market for Seaweed- Based Products? A Framed Field Experiment on Consumer Acceptance",
+   "authors": [
+    "T. Li",
+    "Ahsanuzzaman",
+    "K.D. Messer"
+   ],
+   "year": 2021,
+   "venue": "Marine Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "COVID 19 Induced Stigma in U.S. Consumers: Evidence and Implications",
+   "authors": [
+    "B.R. McFadden",
+    "T. Malone",
+    "M. Kecinski",
+    "K.D. Messer"
+   ],
+   "year": 2021,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Story Induces Greater Environmental Contributions Than Scientific Information Among Liberals But Not Conservatives",
+   "authors": [
+    "H. Byerly",
+    "P.J. Ferraro",
+    "T. Li",
+    "K.D. Messer",
+    "C. Weigel"
+   ],
+   "year": 2021,
+   "venue": "One Earth",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Impact of Peer Comparisons and Firm Heterogeneity on Nonpoint Source Water Pollution: An Experimental Study",
+   "authors": [
+    "S. Wu",
+    "L.H. Palm-Forster",
+    "K.D. Messer"
+   ],
+   "year": 2021,
+   "venue": "Resource and Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Challenges in Recruiting U.S. Farmers for Policy-Relevant Economic Field Experiments",
+   "authors": [
+    "C. Weigel",
+    "L.A. Paul",
+    "P.J. Ferraro",
+    "K.D. Messer"
+   ],
+   "year": 2021,
+   "venue": "Applied Economic Perspectives and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Field Experiment to Estimate the Effects of Anchoring and Framing on Residents' Willingness to Purchase Water Runoff Management Technologies",
+   "authors": [
+    "T. Li",
+    "J.R. Fooks",
+    "K.D. Messer",
+    "P.J. Ferraro"
+   ],
+   "year": 2021,
+   "venue": "Resource and Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Barriers to Using Economic Experiments in Evidence-Based Agricultural Policymaking",
+   "authors": [
+    "S. Rosch",
+    "S.R. Skorbiansky",
+    "C. Weigel",
+    "K.D. Messer",
+    "D. Hellerstein"
+   ],
+   "year": 2021,
+   "venue": "Applied Economic Perspectives and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Preferences for Local Food: Tourists versus Local Residents",
+   "authors": [
+    "T. Li",
+    "K.D. Messer",
+    "A. Mamadzhanov",
+    "J. McCluskey"
+   ],
+   "year": 2020,
+   "venue": "Canadian Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Some Taxes Are Better Than Others: An Economic Experiment Analyzing Groundwater Management in a Spatially Explicit Aquifer",
+   "authors": [
+    "J.M. Duke",
+    "Z. Liu",
+    "J.F. Suter",
+    "K.D. Messer",
+    "H.A. Michael"
+   ],
+   "year": 2020,
+   "venue": "Water Resources Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Impact of Expiration Dates on Hedonic Markets for Perishable Products",
+   "authors": [
+    "T. Li",
+    "K.D. Messer",
+    "H.M. Kaiser"
+   ],
+   "year": 2020,
+   "venue": "Food Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Environmental and Regulatory Concerns during the COVID-19 Pandemic: Results from the Pandemic Food and Stigma Survey",
+   "authors": [
+    "M. Kecinski",
+    "K.D. Messer",
+    "B.R. McFadden",
+    "T. Malone"
+   ],
+   "year": 2020,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Is This Food `Local'? Evidence from a Framed Field Experiment",
+   "authors": [
+    "T. Li",
+    "Ahsanuzzaman",
+    "K.D. Messer"
+   ],
+   "year": 2020,
+   "venue": "Journal of Agricultural and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Characterizing Heterogeneous Behavior of Non-Point Source Polluters in a Spatial Game under Alternate Sensing and Incentive Designs",
+   "authors": [
+    "A. Zia",
+    "S. Ding",
+    "K.D. Messer",
+    "H. Miao",
+    "J.F. Suter",
+    "J.R. Fooks",
+    "T. Guilfoos",
+    "S. Trandafir",
+    "E. Uchida",
+    "Y. Tsai",
+    "S. Merrill",
+    "S. Turnbull",
+    "C. Koliba"
+   ],
+   "year": 2020,
+   "venue": "Journal of Water Resources Planning and Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Addressing Social Dilemmas with Mascots, Information, and Graphics",
+   "authors": [
+    "J.M. Butler",
+    "J.R. Fooks",
+    "K.D. Messer",
+    "L.H. Palm-Forster"
+   ],
+   "year": 2020,
+   "venue": "Economic Inquiry",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Does Food Processing Mitigate Consumers' Concerns about Crops Grown with Recycled Water?",
+   "authors": [
+    "O.M. Savchenko",
+    "T. Li",
+    "M. Kecinski",
+    "K.D. Messer"
+   ],
+   "year": 2019,
+   "venue": "Food Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Behavioral and Experimental Agri-environmental Research: Methodological Challenges, Literature Gaps, and Recommendations",
+   "authors": [
+    "L.H. Palm-Forster",
+    "P.J. Ferraro",
+    "N. Janusch",
+    "C.A. Vossler",
+    "K.D. Messer"
+   ],
+   "year": 2019,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Common Pool Resource Management at the Extensive and Intensive Margins: Experimental Evidence",
+   "authors": [
+    "J. Suter",
+    "S. Collie",
+    "J.M. Duke",
+    "K.D. Messer",
+    "H.A. Michael"
+   ],
+   "year": 2019,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Importance of Selecting the Right Messenger: A Framed Field Experiment on Recycled Water Products",
+   "authors": [
+    "A. Whiting",
+    "M. Kecinski",
+    "T. Li",
+    "K.D. Messer",
+    "J. Parker"
+   ],
+   "year": 2019,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "To Scan or Not to Scan: The Question of Consumer Behavior and QR Codes on Food Packages",
+   "authors": [
+    "T. Li",
+    "K.D. Messer"
+   ],
+   "year": 2019,
+   "venue": "Journal of Agricultural and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Reclaimed Water and Food Production: Cautionary Tales from Consumer Research",
+   "authors": [
+    "O. Savchenko",
+    "M. Kecinski",
+    "T. Li",
+    "K.D. Messer"
+   ],
+   "year": 2019,
+   "venue": "Environmental Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Experimental Evidence on Policy Approaches that Link Agricultural Subsidies to Water Quality Outcomes",
+   "authors": [
+    "L. Palm-Forster",
+    "J. Suter",
+    "K.D. Messer"
+   ],
+   "year": 2019,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "What's in a Name? Branding Reclaimed Water",
+   "authors": [
+    "S. Ellis",
+    "O.M. Savchenko",
+    "K.D. Messer"
+   ],
+   "year": 2019,
+   "venue": "Environmental Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Fresh Foods Irrigated with Recycled Water: A Framed Field Experiment on Consumer Response",
+   "authors": [
+    "O. Savchenko",
+    "M. Kecinski",
+    "T. Li",
+    "K.D. Messer",
+    "H. Xu"
+   ],
+   "year": 2018,
+   "venue": "Food Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Mitigating Public Concerns about Recycled Drinking Water: Leveraging the Power of Voting and Communication",
+   "authors": [
+    "M. Kecinski",
+    "K.D. Messer"
+   ],
+   "year": 2018,
+   "venue": "Water Resources Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "A Cautionary Note on the Use of Benefit Metrics for Cost-Effective Conservation",
+   "authors": [
+    "J. Fooks",
+    "K.D. Messer",
+    "M. Kecinski"
+   ],
+   "year": 2018,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Ignorance Is Bliss?: Experimental Evidence on Wine Produced from Grapes Irrigated with Recycled Water",
+   "authors": [
+    "T. Li",
+    "J. McCluskey",
+    "K.D. Messer"
+   ],
+   "year": 2018,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Measuring Stigma: The Behavioral Response to Drinking Cockroach Contaminated Water",
+   "authors": [
+    "M. Kecinski",
+    "D. Kerley",
+    "K.D. Messer",
+    "W.D. Schulze"
+   ],
+   "year": 2018,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Behavioral Responses to Science-based Eco-labeling: Gold, Silver, or Bronze",
+   "authors": [
+    "T. Li",
+    "M. Kecinski",
+    "K.D. Messer"
+   ],
+   "year": 2018,
+   "venue": "Applied Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "When Cleaning Too Much Pollution Can Be a Bad Thing: A Field Experiment of Consumer Demand for Oysters",
+   "authors": [
+    "M. Kecinski",
+    "K.D. Messer",
+    "A.J. Peo"
+   ],
+   "year": 2018,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Sustaining our Natural Resources in the Face of Increasing Societal Demands on Agriculture: Directions for Future Research",
+   "authors": [
+    "M. Khanna",
+    "S.M. Swinton",
+    "K.D. Messer"
+   ],
+   "year": 2018,
+   "venue": "Applied Economic Perspectives and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Effect of Information on Discriminatory- Price and Uniform-Price Reverse Auction Efficiency: An Experimental Economics Study of the Purchase of Ecosystem Services",
+   "authors": [
+    "J. Duke",
+    "K.D. Messer",
+    "L. Lynch",
+    "T. Li"
+   ],
+   "year": 2017,
+   "venue": "Strategic Behavior and the Environment",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Continuous Attribute Values in a Simulation Environment: Offshore Energy Production and Mid-Atlantic Beach Visitation Energy Policy",
+   "authors": [
+    "J. Fooks",
+    "K.D. Messer",
+    "J. Duke",
+    "J. Johnson",
+    "G. Parsons"
+   ],
+   "year": 2017,
+   "venue": "Energy Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Simulating Heterogeneous Farmer Behaviors under Different Policy Schemes: Integrating Economic Experiments and Agent-Based Modeling",
+   "authors": [
+    "S. Wu",
+    "A. Zia",
+    "M. Ren",
+    "K.D. Messer"
+   ],
+   "year": 2017,
+   "venue": "Journal on Policy and Complex Systems",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Tourist Viewshed Externalities and Wind Energy Production",
+   "authors": [
+    "J. Fooks",
+    "K.D. Messer",
+    "J. Duke",
+    "J. Johnson",
+    "T. Li",
+    "G. Parsons"
+   ],
+   "year": 2017,
+   "venue": "Agricultural and Resource Economics Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Labeling Food Processes: The Good, the Bad and the Ugly",
+   "authors": [
+    "K.D. Messer",
+    "M. Costanigro",
+    "H. Kaiser"
+   ],
+   "year": 2017,
+   "venue": "Applied Economic Perspectives and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Consumer Preferences for Oyster Attributes: Field Experiments on Brand, Locality, and Growing Method",
+   "authors": [
+    "M. Kecinski",
+    "K.D. Messer",
+    "L. Knapp",
+    "Y. Shirazi"
+   ],
+   "year": 2017,
+   "venue": "Agricultural and Resource Economics Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Heterogeneous Preferences for Oysters: Evidence from Field Experiments",
+   "authors": [
+    "T. Li",
+    "M. Kecinski",
+    "K.D. Messer"
+   ],
+   "year": 2017,
+   "venue": "Agricultural and Resource Economics Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Understanding and Overcoming the Barriers for Cost-Effective Conservation",
+   "authors": [
+    "L. Grand",
+    "K.D. Messer",
+    "W. Allen"
+   ],
+   "year": 2017,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Maximizing Benefits in Project Selection: A Hybrid Approach",
+   "authors": [
+    "S. Wu",
+    "J. Toussaint",
+    "K.D. Messer"
+   ],
+   "year": 2017,
+   "venue": "Applied Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "When Does Public Information Undermine the Effectiveness of Reverse Auctions for the Purchase of Ecosystem Services?",
+   "authors": [
+    "K.D. Messer",
+    "J. Duke",
+    "L. Lynch",
+    "T. Li"
+   ],
+   "year": 2017,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Nudging Charitable Giving: Three Field Experiments",
+   "authors": [
+    "H. Zarghamee",
+    "K.D. Messer",
+    "J.R. Fooks",
+    "W.D. Schulze",
+    "S. Wu",
+    "J. Yan"
+   ],
+   "year": 2017,
+   "venue": "Journal of Behavioral and Experimental Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Consumer Preferences Before and After a Food Safety Scare: An Experimental Analysis of the 2010 Egg Recall",
+   "authors": [
+    "T. Li",
+    "J. Bernard",
+    "Z. Johnston",
+    "K.D. Messer",
+    "H.M. Kaiser"
+   ],
+   "year": 2017,
+   "venue": "Food Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Military Readiness and Environmental Protection through Cost-effective Land Conservation",
+   "authors": [
+    "K.D. Messer",
+    "M. Kecinski",
+    "Z. Liu",
+    "M. Korch",
+    "T. Bounds"
+   ],
+   "year": 2016,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Impact of Information on Behavior Under an Ambient-based Policy for Regulating Nonpoint Source Pollution",
+   "authors": [
+    "H. Miao",
+    "J. Fooks",
+    "T. Guilfoos",
+    "K.D. Messer",
+    "S.M. Pradhanang",
+    "J. Suter",
+    "S. Trandafir",
+    "E. Uchida"
+   ],
+   "year": 2016,
+   "venue": "Water Resources Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Effects of Climate Change Information on Charitable Giving for Water Quality Protection: A Field Experiment",
+   "authors": [
+    "S.F. Ellis",
+    "J.R. Fooks",
+    "K.D. Messer",
+    "M.J. Miller"
+   ],
+   "year": 2016,
+   "venue": "Agricultural and Resource Economics Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Stigma Mitigation and the Importance of Redundant Treatments",
+   "authors": [
+    "M. Kecinski",
+    "D. Kerley",
+    "K.D. Messer",
+    "W.D. Schulze"
+   ],
+   "year": 2016,
+   "venue": "Journal of Economic Psychology",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Agricultural Preservation Professionals' Perception and Attitudes about Cost-effective Land Selection Methods",
+   "authors": [
+    "K.D. Messer",
+    "W. Allen",
+    "M. Kecinski",
+    "C. Chen"
+   ],
+   "year": 2016,
+   "venue": "Journal of Soil and Water Conservation",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Conserving Spatially Explicit Benefits in Ecosystem Service Markets: Experimental Tests of Network Bonuses and Spatial Targeting",
+   "authors": [
+    "J.R. Fooks",
+    "N. Higgins",
+    "K.D. Messer",
+    "J.M. Duke",
+    "D. Hellerstein",
+    "L. Lynch"
+   ],
+   "year": 2016,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Multiple-Knapsack optimization in land conservation: results from the first cost-effective conservation program in the United States",
+   "authors": [
+    "K.D. Messer",
+    "M. Kecinski",
+    "X. Tang",
+    "R. Hirsch"
+   ],
+   "year": 2016,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Choice for Goods under Threat of Destruction",
+   "authors": [
+    "K.D. Messer",
+    "A. Borchers"
+   ],
+   "year": 2015,
+   "venue": "Economics Letters",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Consumer Demand for Local Honey",
+   "authors": [
+    "S. Wu",
+    "J. Fooks",
+    "K.D. Messer",
+    "D. Delaney"
+   ],
+   "year": 2015,
+   "venue": "Applied Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Effect of Spatial Interdependencies on Prioritization and Payments for Environmental Services",
+   "authors": [
+    "J.M. Duke",
+    "S.J. Dundas",
+    "R.J. Johnston",
+    "K.D. Messer"
+   ],
+   "year": 2015,
+   "venue": "Land Use Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Dynamic Entry, Reverse Auctions, and the Purchase of Environmental Services",
+   "authors": [
+    "J. Fooks",
+    "K.D. Messer",
+    "J. Duke"
+   ],
+   "year": 2015,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Behavioral Response to Contamination Risk Information in a Spatially Explicit Groundwater Environment: Experimental Evidence",
+   "authors": [
+    "J. Li",
+    "J. Michael",
+    "J. Duke",
+    "K.D. Messer",
+    "J. Suter"
+   ],
+   "year": 2014,
+   "venue": "Water Resources Research",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Strategic Entry and Externalities in Groundwater Resources: Evidence from the Lab",
+   "authors": [
+    "Z. Liu",
+    "J. Suter",
+    "K.D. Messer",
+    "J. Duke",
+    "H. Michael"
+   ],
+   "year": 2014,
+   "venue": "Resource and Energy Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Measuring and Mitigating HIV Stigma: A Framed Field Experiment",
+   "authors": [
+    "V. Hoffman",
+    "J. Fooks",
+    "K.D. Messer"
+   ],
+   "year": 2014,
+   "venue": "Economic Development and Cultural Change",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Prioritizing Payment for Environmental Services: Using Nonmarket Benefits for Optimal Selection",
+   "authors": [
+    "J.D. Duke",
+    "S.J. Dundas",
+    "R.J. Johnston",
+    "K.D. Messer"
+   ],
+   "year": 2014,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Applying Experimental Economics to Land Economics: Public Information and Auction Efficiency in Land Preservation Markets",
+   "authors": [
+    "K.D. Messer",
+    "J. Duke",
+    "L. Lynch"
+   ],
+   "year": 2014,
+   "venue": "Oxford Handbook of Land Economics (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Incentive Effects of Parents' Transfers to Children: Evidence from an Artefactual Field Experiment",
+   "authors": [
+    "A.S. Unur",
+    "H.E. Peters",
+    "K.D. Messer",
+    "W.D. Schulze"
+   ],
+   "year": 2013,
+   "venue": "B.E. Journal of Economic Analysis and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Adverse Selection in Reverse Auctions for Environmental Services",
+   "authors": [
+    "M. Arnold",
+    "J.M. Duke",
+    "K.D. Messer"
+   ],
+   "year": 2013,
+   "venue": "Land Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Mathematical Programming Applications to Land Conservation and Environmental Quality",
+   "authors": [
+    "J.R. Fooks",
+    "K.D. Messer"
+   ],
+   "year": 2013,
+   "venue": "Computational Intelligent Data Analysis for Sustainable Development (book chapter)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Context Effects in a Negatively Framed Social Dilemma Experiment",
+   "authors": [
+    "K.D. Messer",
+    "J. Suter",
+    "J. Yan"
+   ],
+   "year": 2013,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Identifying Significant Characteristics of Organic Milk Consumers: A CART Analysis of an Artefactual Field Experiment",
+   "authors": [
+    "Z. Liu",
+    "C. Kanter",
+    "K.D. Messer",
+    "H.M. Kaiser"
+   ],
+   "year": 2013,
+   "venue": "Applied Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Cost-Effective Conservation Planning: Lessons from Economics",
+   "authors": [
+    "J.M. Duke",
+    "S.J. Dundas",
+    "K.D. Messer"
+   ],
+   "year": 2013,
+   "venue": "Journal of Environmental Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Testing Social Preferences for an Economic `Bad': An Artefactual Field Experiment",
+   "authors": [
+    "D.K. Keisner",
+    "K.D. Messer",
+    "W.D. Schulze",
+    "H. Zarghamee"
+   ],
+   "year": 2013,
+   "venue": "Scandinavian Journal of Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Value of Private Versus Public Risk and Pure Altruism: An Experimental Economics Test",
+   "authors": [
+    "K.D. Messer",
+    "G.L. Poe",
+    "W.D. Schulze"
+   ],
+   "year": 2013,
+   "venue": "Applied Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Behavior in a Spatially Explicit Groundwater Resource: Evidence from the Lab",
+   "authors": [
+    "J. Suter",
+    "J. Duke",
+    "K.D. Messer",
+    "H. Michael"
+   ],
+   "year": 2012,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Maximizing Conservation and In-Kind Cost Share: Applying Goal Programming to Forest Protection",
+   "authors": [
+    "J.R. Fooks",
+    "K.D. Messer"
+   ],
+   "year": 2012,
+   "venue": "Journal of Forest Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Do Consumer Responses to Media Food Safety Information Last?",
+   "authors": [
+    "R. Dillaway",
+    "K.D. Messer",
+    "J. Bernard",
+    "H.M. Kaiser"
+   ],
+   "year": 2011,
+   "venue": "Applied Economics Policy and Perspectives",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Experimental Test of Automatic Mitigation of Wholesale Electricity Prices",
+   "authors": [
+    "D. Shawhan",
+    "K.D. Messer",
+    "W.D. Schulze",
+    "R.E. Schuler"
+   ],
+   "year": 2011,
+   "venue": "International Journal of Industrial Organization",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Can Generic Advertising Alleviate Consumer Concerns Over Food Scares?",
+   "authors": [
+    "K.D. Messer",
+    "H.M. Kaiser",
+    "C. Payne",
+    "B. Wansink"
+   ],
+   "year": 2011,
+   "venue": "Applied Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Applying Optimization and the Analytic Hierarchy Process to Enhance Agricultural Preservation Strategies in the State of Delaware",
+   "authors": [
+    "K.D. Messer",
+    "W.L. Allen"
+   ],
+   "year": 2010,
+   "venue": "Agricultural and Resource Economics Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Protecting Endangered Species: When Are Shoot-on-Sight Policies the Only Viable Option to Stop Poaching?",
+   "authors": [
+    "K.D. Messer"
+   ],
+   "year": 2010,
+   "venue": "Ecological Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Social Preferences and Voting: An Exploration Using a Novel Preference Revealing Mechanism",
+   "authors": [
+    "K.D. Messer",
+    "G.L. Poe",
+    "D. Rondeau",
+    "W.D. Schulze",
+    "C. Vossler"
+   ],
+   "year": 2010,
+   "venue": "Journal of Public Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Matching Grants and Charitable Giving: Why Some People Sometimes Provide a Helping Hand to Fund Environmental Goods",
+   "authors": [
+    "K. Kotani",
+    "K.D. Messer",
+    "W.D. Schulze"
+   ],
+   "year": 2010,
+   "venue": "Agricultural and Resource Economics Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Does Production Labeling Stigmatize Conventional Milk?",
+   "authors": [
+    "C. Kanter",
+    "K.D. Messer",
+    "H.M. Kaiser"
+   ],
+   "year": 2009,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Which Consumers Are Most Responsive to Media Induced Food Scares?",
+   "authors": [
+    "C. Payne",
+    "K.D. Messer",
+    "H.M. Kaiser"
+   ],
+   "year": 2009,
+   "venue": "Agricultural and Resource Economics Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Problem of Free Riding in Voluntary Generic Advertising: Parallelism and Possible Solutions from the Lab",
+   "authors": [
+    "K.D. Messer",
+    "H.M. Kaiser",
+    "W.D. Schulze"
+   ],
+   "year": 2008,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "An Experimental Analysis of Modifications to the Centralized Milk Quota Exchange System in Quebec",
+   "authors": [
+    "M. Doyon",
+    "V. Simard",
+    "K.D. Messer",
+    "L.D. Tamini",
+    "H.M. Kaiser"
+   ],
+   "year": 2008,
+   "venue": "Canadian Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "New Hope for the Voluntary Contribution Mechanism: The Effects of Context",
+   "authors": [
+    "K.D. Messer",
+    "H. Zarghamee",
+    "H.M. Kaiser",
+    "W.D. Schulze"
+   ],
+   "year": 2007,
+   "venue": "Journal of Public Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Voluntary Funding for Generic Advertising Using a Provision Point Mechanism: An Experimental Analysis of Option Assurance",
+   "authors": [
+    "K.D. Messer",
+    "H.M. Kaiser",
+    "G.L. Poe"
+   ],
+   "year": 2007,
+   "venue": "Review of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Can Stigma Explain Large Property Value Losses? The Psychology and Economics of Superfund",
+   "authors": [
+    "K.D. Messer",
+    "W.D. Schulze",
+    "K.F. Hackett",
+    "T. Cameron",
+    "G. McClelland"
+   ],
+   "year": 2006,
+   "venue": "Environmental and Resource Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The Conservation Benefits of Cost-Effective Land Acquisition: A Case Study in Maryland",
+   "authors": [
+    "K.D. Messer"
+   ],
+   "year": 2006,
+   "venue": "Journal of Environmental Management",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Optimal Institution Designs for Generic Advertising: An Experimental Analysis",
+   "authors": [
+    "K.D. Messer",
+    "T.M. Schmit",
+    "H.M. Kaiser"
+   ],
+   "year": 2005,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "It's All Relative: Consistent Marginal Effects with Willingness to Pay and Willingness to Accept Framing in Experimental Auctions",
+   "authors": [
+    "T. Li",
+    "L.A. Paul",
+    "K.D. Messer",
+    "H.M. Kaiser"
+   ],
+   "year": 2023,
+   "venue": "Applied Economics",
+   "status": "即将发表",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

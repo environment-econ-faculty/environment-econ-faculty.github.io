@@ -1,0 +1,223 @@
+{
+ "slug": "yongjoon-park",
+ "name": "Yongjoon Park",
+ "sources": [
+  "https://www.yongjoonpark.com/",
+  "https://www.yongjoonpark.com/research/"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Research page (Google Drive draft links). Page lists coauthors without byline order, so authors given alphabetically by surname incl. scholar. Lancet/Annals/NEJM consortium papers have truncated author lists ('et al.'); Park's position unknown. Working papers dated as shown on page.",
+ "papers": [
+  {
+   "title": "When Control Markets Are Treated: Potential Competition and Merger Retrospectives",
+   "authors": [
+    "Myongjin Kim",
+    "Joe Mazur",
+    "Yongjoon Park",
+    "Jangsu Yoon"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://drive.google.com/file/d/15xztmxsvtLJ7nM-eq2DPf3CB4GHYFCWO/view?usp=sharing",
+   "abstract": null
+  },
+  {
+   "title": "Geographic Resolution in Environmental Policy: EPA's Shift from Regions to Counties Under the Clean Air Act",
+   "authors": [
+    "Maureen Cropper",
+    "Mengjia Hu",
+    "Nicholas Muller",
+    "Yongjoon Park"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://drive.google.com/file/d/1wUIyr2iS56vfa21EqaGK9UV_mLiVCw-8/view?usp=sharing",
+   "abstract": null
+  },
+  {
+   "title": "When Do Climate Provisions and Industrial Policy Goals Align? An Analysis of the US Electric Vehicle Market",
+   "authors": [
+    "Joshua Linn",
+    "Yongjoon Park",
+    "Christy Zhou"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://drive.google.com/file/d/1cUBXPTN4U__VoyveDf5AVroJW3ol_VTw/view?usp=sharing",
+   "abstract": null
+  },
+  {
+   "title": "Supply Shocks and Emissions When Firms Can Adapt",
+   "authors": [
+    "Silke Forbes",
+    "Yongjoon Park"
+   ],
+   "year": 2025,
+   "venue": "Journal of Economics & Management Strategy",
+   "status": "修改重投",
+   "url": "https://drive.google.com/file/d/1znzUkRjoox-uZgA61xYBWAI8-0PiNVxS/view?usp=drive_link",
+   "abstract": null
+  },
+  {
+   "title": "Examining the Coordinated Effects of the AA/USAir Merger",
+   "authors": [
+    "Soo Jin Kim",
+    "Yongjoon Park"
+   ],
+   "year": 2024,
+   "venue": "Journal of Industrial Economics",
+   "status": "修改重投",
+   "url": "https://papers.ssrn.com/abstract=3877895",
+   "abstract": null
+  },
+  {
+   "title": "Structural Remedies in Network Industries: An Assessment of Slot Divestitures in the American Airlines/US Airways Merger",
+   "authors": [
+    "Yongjoon Park"
+   ],
+   "year": 2022,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://drive.google.com/file/d/1u8d09YN_gguwL93au_arQcVXk3VKje-h/view?usp=drive_link",
+   "abstract": null
+  },
+  {
+   "title": "The Lancet Countdown on Health and Plastics",
+   "authors": [
+    "Philip J. Landrigan",
+    "Sarah Dunlop",
+    "Marina Teskova",
+    "Hervé Raps",
+    "et al."
+   ],
+   "year": 2025,
+   "venue": "The Lancet",
+   "status": "已发表",
+   "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2825%2901447-3/abstract",
+   "abstract": null
+  },
+  {
+   "title": "Manufactured Chemicals and Children's Health - the Need for New Law",
+   "authors": [
+    "Consortium for Children's Environmental Health members",
+    "et al."
+   ],
+   "year": 2025,
+   "venue": "The New England Journal of Medicine",
+   "status": "已发表",
+   "url": "https://www.nejm.org/doi/full/10.1056/NEJMms2409092",
+   "abstract": null
+  },
+  {
+   "title": "The Benefits of Removing Toxic Chemicals from Plastics",
+   "authors": [
+    "Maureen Cropper",
+    "Sarah Dunlop",
+    "Hudson Hinshaw",
+    "Philip Landrigan",
+    "Yongjoon Park",
+    "Christos Symeonides"
+   ],
+   "year": 2024,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "https://doi.org/10.1073/pnas.2412714121",
+   "abstract": null
+  },
+  {
+   "title": "The Impact of the Clean Air Act on Particulate Matter in the 1970s",
+   "authors": [
+    "Maureen Cropper",
+    "Nicholas Muller",
+    "Yongjoon Park",
+    "Victoria Perez-Zetune"
+   ],
+   "year": 2023,
+   "venue": "Journal of Environmental Economics and Management",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jeem.2023.102867",
+   "abstract": null
+  },
+  {
+   "title": "The Minderoo-Monaco Commission on Plastics and Human Health",
+   "authors": [
+    "Philip J. Landrigan",
+    "Hervé Raps",
+    "Maureen Cropper",
+    "et al."
+   ],
+   "year": 2023,
+   "venue": "Annals of Global Health",
+   "status": "已发表",
+   "url": "https://doi.org/10.5334/aogh.4056",
+   "abstract": null
+  },
+  {
+   "title": "Repositioning and Market Power After Airline Mergers",
+   "authors": [
+    "Sophia Li",
+    "Joe Mazur",
+    "Yongjoon Park",
+    "James Roberts",
+    "Andrew Sweeting",
+    "Jun Zhang"
+   ],
+   "year": 2022,
+   "venue": "The RAND Journal of Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/1756-2171.12404",
+   "abstract": null
+  },
+  {
+   "title": "Air Pollution and Development in Africa: Impacts on Health, the Economy and Human Capital",
+   "authors": [
+    "David C. Bellinger",
+    "Agnes Binagwaho",
+    "Maureen L. Cropper",
+    "Samantha Fisher",
+    "Juliette Biao Koudenoukpo",
+    "Pushpam Kumar",
+    "Philip J. Landrigan",
+    "Yongjoon Park",
+    "Gabriella Taghian"
+   ],
+   "year": 2021,
+   "venue": "Lancet Planetary Health",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/s2542-5196%2821%2900201-1",
+   "abstract": null
+  },
+  {
+   "title": "The Mortality Impacts of Current and Planned Coal-Fired Power Plants in India",
+   "authors": [
+    "Maureen Cropper",
+    "Ryna Cui",
+    "Sarath Guttikunda",
+    "Nate Hultman",
+    "Puja Jawahar",
+    "Yongjoon Park",
+    "Xiaopeng Song",
+    "Xinlu Yao"
+   ],
+   "year": 2021,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "https://doi.org/10.1073/pnas.2017936118",
+   "abstract": null
+  },
+  {
+   "title": "The Impact of Airline Mergers on Environmental Externalities",
+   "authors": [
+    "Yongjoon Park"
+   ],
+   "year": 2019,
+   "venue": "Transportation Research Record",
+   "status": "已发表",
+   "url": "https://doi.org/10.1177/0361198119868199",
+   "abstract": null
+  }
+ ]
+}

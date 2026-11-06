@@ -1,0 +1,45 @@
+{
+ "slug": "tereza-varejkova",
+ "name": "Tereza Varejkova",
+ "sources": [
+  "https://terezavarejkova.github.io/",
+  "https://terezavarejkova.github.io/assets/CV_Varejkova_Tereza_2026.pdf"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Sources: homepage and CV (updated Nov 2026). Three solo working papers, no years/venues stated; year set to 2026 (CV date). Abstracts on homepage not shown verbatim in extraction, so null. Skipped work in progress without drafts and policy evaluation reports.",
+ "papers": [
+  {
+   "title": "Large-Scale Irrigation and Water Use Inequality in South Africa",
+   "authors": [
+    "Tereza Varejkova"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://terezavarejkova.github.io/assets/Irrigation_Draft.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Investing in the Future After a Disaster: Human Capital Accumulation after the 2004 Indian Ocean Tsunami",
+   "authors": [
+    "Tereza Varejkova"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://terezavarejkova.github.io/assets/Tsunami_Draft.pdf",
+   "abstract": null
+  },
+  {
+   "title": "Interoperability Between Mobile Money Providers in Tanzania",
+   "authors": [
+    "Tereza Varejkova"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "https://terezavarejkova.github.io/assets/Interoperability_in_Tanzania.pdf",
+   "abstract": null
+  }
+ ]
+}

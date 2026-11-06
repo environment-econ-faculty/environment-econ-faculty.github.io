@@ -1,0 +1,127 @@
+{
+ "slug": "bobby-harris",
+ "name": "Bobby Harris",
+ "sources": [
+  "https://www.bobby-harris.com/research"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Homepage research page (abstracts paraphrased by fetch tool, not verbatim, so abstract=null). Undated submitted/working papers dated 2026 (page date). Heterogeneous Solar Capacity Benefits byline taken as Sexton, Kirkpatrick, Harris, Muller (my knowledge of the NBER paper; page lists 'with'). Other co-authored items alphabetical by surname. Skipped works in progress without drafts. Reliability paper (job market paper, 2022) status not stated; listed as working paper.",
+ "papers": [
+  {
+   "title": "Extreme Temperatures, Physical Activity, and Adaptation",
+   "authors": [
+    "Bobby Harris"
+   ],
+   "year": 2026,
+   "venue": "Journal of Public Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Distributional Benefits of Rooftop Solar Capacity",
+   "authors": [
+    "Travis Dauwalter",
+    "Bobby Harris"
+   ],
+   "year": 2023,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Heterogeneous Solar Capacity Benefits, Appropriability, and the Costs of Suboptimal Siting",
+   "authors": [
+    "Steven E. Sexton",
+    "A. Justin Kirkpatrick",
+    "Bobby Harris",
+    "Nicholas Z. Muller"
+   ],
+   "year": 2021,
+   "venue": "Journal of the Association of Environmental and Resource Economists",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Using Carbon Taxes to Meet an Emissions Target",
+   "authors": [
+    "Bobby Harris",
+    "Billy Pizer"
+   ],
+   "year": 2022,
+   "venue": "Journal of the Association of Environmental and Resource Economists (NBER Working Paper 27781)",
+   "status": "修改重投",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Air Pollution and Behavior: Evidence from Wearable Devices",
+   "authors": [
+    "Bobby Harris",
+    "Afi Ramadhani"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Wide Awake: The Effects of Salient Events on Sleep",
+   "authors": [
+    "Bobby Harris"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Sleep in America: New Facts from 39 Million Nights of Wearable Data",
+   "authors": [
+    "Bobby Harris"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Should We Sunset Rooftop Solar? The (In)efficiency and (In)equity of Rooftop Solar Policy",
+   "authors": [
+    "Bobby Harris"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Willingness to Pay for Electricity Reliability: Evidence from U.S. Generator Sales",
+   "authors": [
+    "Bobby Harris"
+   ],
+   "year": 2022,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Diagnoses and Behavior: Physical Activity Responses to Health Information",
+   "authors": [
+    "Bobby Harris"
+   ],
+   "year": 2026,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

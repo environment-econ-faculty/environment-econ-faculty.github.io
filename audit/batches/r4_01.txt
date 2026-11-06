@@ -1,0 +1,5 @@
+- corbett-a-grainger | Corbett A. Grainger | University of Wisconsin-Madison | https://www.corbettgrainger.com | https://www.corbettgrainger.com/uploads/1/3/8/3/138381301/vita-2.pdf | https://aae.wisc.edu/faculty/cagrainger/
+- daniel-j-phaneuf | Daniel J. Phaneuf | University of Wisconsin-Madison | (none) | https://aae-cv-storage.s3.us-east-2.amazonaws.com/PhaneufDanielCV.pdf | https://aae.wisc.edu/faculty/dphaneuf/
+- dominic-p-parker | Dominic P. Parker | University of Wisconsin-Madison | https://aae.wisc.edu/dparker/ | https://aae-cv-storage.s3.us-east-2.amazonaws.com/ParkerDominicCV.pdf | https://aae.wisc.edu/faculty/dparker5/
+- jeffrey-d-hadachek | Jeffrey D. Hadachek | University of Wisconsin-Madison | https://jhadachek.github.io/ | https://aae-cv-storage.s3.us-east-2.amazonaws.com/HadachekJeffCV.pdf | https://aae.wisc.edu/faculty/hadachek/
+- jennifer-l-raynor | Jennifer L. Raynor | University of Wisconsin-Madison | https://jenniferraynor.com | https://jenniferraynor.com/wp-content/uploads/2026/07/raynor-cv-web.pdf | https://aae.wisc.edu/faculty/jraynor/

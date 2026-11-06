@@ -1,0 +1,250 @@
+{
+ "slug": "george-vachadze",
+ "name": "George Vachadze",
+ "sources": [
+  "https://www.gc.cuny.edu/sites/default/files/2023-10/George-Vachadze-CV.pdf",
+  "https://gvachadze.com/"
+ ],
+ "collected": "2026-11-06",
+ "notes": "From CV PDF (Oct 2023); homepage not fetched. Included journal articles, refereed proceedings and a book chapter; work in progress items (no draft stated) skipped. Bohm's name written Volker Bohm assuming CV 'Boehm, V.'; first names expanded only where known (Volker Bohm, Tomoo Kikuchi, John Stachurski, Anna Agliari).",
+ "papers": [
+  {
+   "title": "Transitional Dynamics of the Savings Rate and Economic Growth",
+   "authors": [
+    "M. Brueckner",
+    "Tomoo Kikuchi",
+    "George Vachadze"
+   ],
+   "year": 2023,
+   "venue": "Macroeconomic Dynamics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Misallocation of Resources, Total Factor Productivity, and the Cleansing Hypothesis",
+   "authors": [
+    "George Vachadze"
+   ],
+   "year": 2022,
+   "venue": "Macroeconomic Dynamics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Financial Development, Income and Income Inequality",
+   "authors": [
+    "George Vachadze"
+   ],
+   "year": 2021,
+   "venue": "Journal of Economic Interaction and Coordination",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Volatile Capital Flows and Financial Integration: The Role of Moral Hazard",
+   "authors": [
+    "Tomoo Kikuchi",
+    "John Stachurski",
+    "George Vachadze"
+   ],
+   "year": 2018,
+   "venue": "Journal of Economic Theory",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Credit Market Imperfection, Minimum Investment Requirement, and Endogenous Income Inequality",
+   "authors": [
+    "George Vachadze"
+   ],
+   "year": 2018,
+   "venue": "Journal of Mathematical Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Minimum Investment Requirement, Financial Market Imperfection and Self-fulfilling Belief",
+   "authors": [
+    "Tomoo Kikuchi",
+    "George Vachadze"
+   ],
+   "year": 2018,
+   "venue": "Journal of Evolutionary Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Financial Liberalization: Poverty Trap or Chaos",
+   "authors": [
+    "Tomoo Kikuchi",
+    "George Vachadze"
+   ],
+   "year": 2015,
+   "venue": "Journal of Mathematical Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Credit Market Imperfections, Financial Market Globalization, and Catastrophic Transition",
+   "authors": [
+    "A. Agliari",
+    "F. Rillosi",
+    "George Vachadze"
+   ],
+   "year": 2015,
+   "venue": "Mathematics and Computers in Simulation",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Natural Resources and Patterns of Overtaking",
+   "authors": [
+    "Volker Bohm",
+    "Tomoo Kikuchi",
+    "George Vachadze"
+   ],
+   "year": 2014,
+   "venue": "International Journal of Economic Theory",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Credit Market Imperfection, Labor Supply Complementarity, and Output Volatility",
+   "authors": [
+    "A. Agliari",
+    "George Vachadze"
+   ],
+   "year": 2014,
+   "venue": "Economic Modelling",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Land Market Liberalization, Transfer of Agricultural Technology, and the Process of Industrialization",
+   "authors": [
+    "George Vachadze"
+   ],
+   "year": 2013,
+   "venue": "Land Use Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Capital Accumulation with and without Land Market Liberalization: Beyond the Win-Win Situation",
+   "authors": [
+    "George Vachadze"
+   ],
+   "year": 2013,
+   "venue": "Agricultural and Food Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Homoclinic and Heteroclinic Bifurcations in an Overlapping Generations Model with Credit Market Imperfection",
+   "authors": [
+    "A. Agliari",
+    "George Vachadze"
+   ],
+   "year": 2011,
+   "venue": "Computational Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Endogenous Inequality of Nations Through Financial Asset Market Integration",
+   "authors": [
+    "Volker Bohm",
+    "George Vachadze"
+   ],
+   "year": 2010,
+   "venue": "Macroeconomic Dynamics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Capital Accumulation with Tangible Assets",
+   "authors": [
+    "Volker Bohm",
+    "George Vachadze"
+   ],
+   "year": 2008,
+   "venue": "Journal of Economic Behavior & Organization",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Asset Pricing and Productivity Growth: the Role of Consumption Scenarios",
+   "authors": [
+    "Volker Bohm",
+    "Tomoo Kikuchi",
+    "George Vachadze"
+   ],
+   "year": 2008,
+   "venue": "Computational Economics",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Recovery of Hidden Information from Stock Price Data: A Semiparametric Approach",
+   "authors": [
+    "George Vachadze"
+   ],
+   "year": 2001,
+   "venue": "Journal of Economics and Finance",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Risk, Factor Substitution, and Asset Market Integration",
+   "authors": [
+    "Volker Bohm",
+    "Tomoo Kikuchi",
+    "George Vachadze"
+   ],
+   "year": 2007,
+   "venue": "Dynamik internationaler Maerkte (Mohr Siebeck)",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Credit Market Imperfection, Income Inequality, and Individual Happiness",
+   "authors": [
+    "George Vachadze"
+   ],
+   "year": 2013,
+   "venue": "International Journal of Arts and Sciences",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Foreign Land Ownership, Crowd Out of Domestic Investment and the Long Run Divergence of Symmetric Economies",
+   "authors": [
+    "George Vachadze"
+   ],
+   "year": 2012,
+   "venue": "International Journal of Business and Management Studies",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}

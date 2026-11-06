@@ -1,0 +1,5 @@
+- jeremy-d-foltz | Jeremy D. Foltz | University of Wisconsin-Madison | (none) | https://aae-cv-storage.s3.us-east-2.amazonaws.com/FoltzJeremyCV.pdf | https://aae.wisc.edu/faculty/jdfoltz/
+- joel-ferguson | Joel Ferguson | University of Wisconsin-Madison | https://joelferg.github.io/index.html | https://aae-cv-storage.s3.us-east-2.amazonaws.com/FergusonJoelCV.pdf | https://aae.wisc.edu/faculty/ferguson7/
+- rhiannon-jerch | Rhiannon Jerch | University of Wisconsin-Madison | https://rhiannonjerch.com/ | https://aae-cv-storage.s3.us-east-2.amazonaws.com/JerchRhiannonCV.pdf | https://aae.wisc.edu/faculty/jerch/
+- xiaodong-sheldon-du | Xiaodong (Sheldon) Du | University of Wisconsin-Madison | (none) | https://aae-cv-storage.s3.us-east-2.amazonaws.com/DuSheldon(Xiaodong)CV.pdf | https://aae.wisc.edu/faculty/xdu23/
+- jeffrey-r-vincent | Jeffrey R. Vincent | Duke University | (none) | (none) | https://scholars.duke.edu/person/jeff.vincent

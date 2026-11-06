@@ -1,0 +1,1041 @@
+{
+ "slug": "james-anderson",
+ "name": "James Anderson",
+ "sources": [
+  "https://openalex.org/A5059961983"
+ ],
+ "collected": "2026-11-06",
+ "notes": "Fallback: homepage/CV unavailable; list from OpenAlex author record(s) affiliated with University of Florida (James L. Anderson). May include non-economics coauthored work; working papers mostly absent.",
+ "papers": [
+  {
+   "title": "Management shapes sustainable aquaculture across environmental and social outcomes",
+   "authors": [
+    "Taryn Garlock",
+    "Frank Asche",
+    "James L. Anderson",
+    "Håkan Eggert A",
+    "Jordi Guillén",
+    "Rasmus Nielsen",
+    "Ragnar Tveterås"
+   ],
+   "year": 2026,
+   "venue": "Communications Earth & Environment",
+   "status": "已发表",
+   "url": "https://doi.org/10.1038/s43247-026-03985-z",
+   "abstract": null
+  },
+  {
+   "title": "Aquaculture in the United States: An analysis of seven aquaculture sectors from the aquaculture performance indicators perspective",
+   "authors": [
+    "Taryn Garlock",
+    "James L. Anderson",
+    "Thomas M. Anderson",
+    "Ganesh Kumar"
+   ],
+   "year": 2025,
+   "venue": "Aquaculture Economics & Management",
+   "status": "已发表",
+   "url": "https://doi.org/10.1080/13657305.2025.2455411",
+   "abstract": null
+  },
+  {
+   "title": "Introducing the aquaculture performance indicators: A tool to assess the triple bottomline in aquaculture systems",
+   "authors": [
+    "James L. Anderson",
+    "Frank Asche",
+    "Håkan Eggert A",
+    "Taryn Garlock"
+   ],
+   "year": 2025,
+   "venue": "Aquaculture Economics & Management",
+   "status": "已发表",
+   "url": "https://doi.org/10.1080/13657305.2024.2446143",
+   "abstract": null
+  },
+  {
+   "title": "An analysis of China’s aquaculture sector for the three pillars of sustainability",
+   "authors": [
+    "Lijun Liu",
+    "James L. Anderson",
+    "Bin Che",
+    "Jingjie Chu",
+    "Taryn Garlock",
+    "Jintao Xu"
+   ],
+   "year": 2025,
+   "venue": "Aquaculture Economics & Management",
+   "status": "已发表",
+   "url": "https://doi.org/10.1080/13657305.2025.2455403",
+   "abstract": null
+  },
+  {
+   "title": "Environmental impacts and food loss and waste in the U.S. aquatic food system",
+   "authors": [
+    "David C. Love",
+    "Mark T. Brown",
+    "Silvio Viglia",
+    "Frank Asche",
+    "Jillian P. Fry",
+    "Taryn Garlock",
+    "Lekelia Danielle Jenkins",
+    "Ly Thi Huong Nguyen",
+    "James L. Anderson",
+    "Elizabeth M. Nussbaumer",
+    "Roni Neff"
+   ],
+   "year": 2025,
+   "venue": "Global Environmental Change",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.gloenvcha.2025.102964",
+   "abstract": null
+  },
+  {
+   "title": "A Review of Global Fisheries Performance",
+   "authors": [
+    "Frank Asche",
+    "Taryn Garlock",
+    "James L. Anderson",
+    "Ruth Beatriz Mezzalira Pincinato",
+    "Christopher M. Anderson",
+    "Edward Vincent Camp",
+    "Jingjie Chu",
+    "Andreea L. Cojocaru",
+    "Håkan Eggert A",
+    "Kai Lorenzen",
+    "David C. Love",
+    "Ragnar Tveterås"
+   ],
+   "year": 2025,
+   "venue": "Fish and Fisheries",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/faf.12890",
+   "abstract": null
+  },
+  {
+   "title": "Indonesia: The Most Overlooked Country in the Global Seafood System",
+   "authors": [
+    "Joi Alfreddi Surbakti",
+    "Frank Asche",
+    "James L. Anderson",
+    "Edward Vincent Camp",
+    "Kai Lorenzen"
+   ],
+   "year": 2025,
+   "venue": "Reviews in Fisheries Science & Aquaculture",
+   "status": "已发表",
+   "url": "https://doi.org/10.1080/23308249.2025.2545933",
+   "abstract": null
+  },
+  {
+   "title": "From fjords to factories: The economics of international supply chains and processing of Norwegian Salmon exports",
+   "authors": [
+    "Hans‐Martin Straume",
+    "James L. Anderson",
+    "Frank Asche",
+    "Audun Lem",
+    "Atle Øglend"
+   ],
+   "year": 2025,
+   "venue": "Aquaculture",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.aquaculture.2025.743386",
+   "abstract": null
+  },
+  {
+   "title": "Special issue Introduction—Aquaculture performance indicators: A low-cost tool for comparison and evaluation of data-scarce aquaculture sectors around the world",
+   "authors": [
+    "James L. Anderson",
+    "Håkan Eggert A",
+    "Taryn Garlock"
+   ],
+   "year": 2025,
+   "venue": "Aquaculture Economics & Management",
+   "status": "已发表",
+   "url": "https://doi.org/10.1080/13657305.2025.2458972",
+   "abstract": null
+  },
+  {
+   "title": "Environmental, economic, and social sustainability in aquaculture: the aquaculture performance indicators",
+   "authors": [
+    "Taryn Garlock",
+    "Frank Asche",
+    "James L. Anderson",
+    "Håkan Eggert A",
+    "Thomas M. Anderson",
+    "Bin Che",
+    "Carlos A. Chávez",
+    "Jingjie Chu",
+    "Nnaemeka Chukwuone",
+    "Madan M. Dey",
+    "Kevin M Fitzsimmons",
+    "Jimely Flores",
+    "Jordi Guillén",
+    "Ganesh Kumar",
+    "Lijun Liu",
+    "Ignacio Llorente",
+    "Thi Ly Nguyen",
+    "Rasmus Nielsen",
+    "Ruth Beatriz Mezzalira Pincinato",
+    "Pratheesh Omana Sudhakaran",
+    "Byela Tibesigwa",
+    "Ragnar Tveterås"
+   ],
+   "year": 2024,
+   "venue": "Nature Communications",
+   "status": "已发表",
+   "url": "https://doi.org/10.1038/s41467-024-49556-8",
+   "abstract": null
+  },
+  {
+   "title": "The economic contribution of U.S. seafood imports throughout the value chain: A sectorial and species-specific analysis",
+   "authors": [
+    "João Pedro Ferreira",
+    "Taryn Garlock",
+    "Christa D. Court",
+    "James L. Anderson",
+    "Frank Asche"
+   ],
+   "year": 2024,
+   "venue": "Marine Policy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.marpol.2024.106375",
+   "abstract": null
+  },
+  {
+   "title": "Application of the food-energy-water nexus to six seafood supply chains: hearing from wild and farmed seafood supply chain actors in the United States, Norway, and Vietnam",
+   "authors": [
+    "Jillian P. Fry",
+    "Rachel E. Scroggins",
+    "Taryn Garlock",
+    "David C. Love",
+    "Frank Asche",
+    "Mark T. Brown",
+    "Elizabeth M. Nussbaumer",
+    "Ly Thi Huong Nguyen",
+    "Lekelia Danielle Jenkins",
+    "James L. Anderson",
+    "Roni Neff"
+   ],
+   "year": 2024,
+   "venue": "Frontiers in Sustainable Food Systems",
+   "status": "已发表",
+   "url": "https://doi.org/10.3389/fsufs.2023.1269026",
+   "abstract": null
+  },
+  {
+   "title": "Aquatic food loss and waste rate in the United States is half of earlier estimates",
+   "authors": [
+    "David C. Love",
+    "Frank Asche",
+    "Jillian P. Fry",
+    "Ly Nguyen",
+    "Jessica A. Gephart",
+    "Taryn Garlock",
+    "Lekelia Danielle Jenkins",
+    "James L. Anderson",
+    "Mark T. Brown",
+    "Silvio Viglia",
+    "Elizabeth M. Nussbaumer",
+    "Roni Neff"
+   ],
+   "year": 2023,
+   "venue": "Nature Food",
+   "status": "已发表",
+   "url": "https://doi.org/10.1038/s43016-023-00881-z",
+   "abstract": null
+  },
+  {
+   "title": "Global and Regional Determinants of Diversity in Blue Foods",
+   "authors": [
+    "Taryn Garlock",
+    "Frank Asche",
+    "James L. Anderson",
+    "Jana Hilsenroth",
+    "Kai Lorenzen",
+    "Ruth Beatriz Mezzalira Pincinato",
+    "Ragnar Tveterås"
+   ],
+   "year": 2023,
+   "venue": "Reviews in Fisheries Science & Aquaculture",
+   "status": "已发表",
+   "url": "https://doi.org/10.1080/23308249.2023.2225627",
+   "abstract": null
+  },
+  {
+   "title": "Perception shifts in seafood consumption in the United States",
+   "authors": [
+    "Ly Nguyen",
+    "Zhifeng Gao",
+    "James L. Anderson"
+   ],
+   "year": 2023,
+   "venue": "Marine Policy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.marpol.2022.105438",
+   "abstract": null
+  },
+  {
+   "title": "Aquaculture: The missing contributor in the food security agenda",
+   "authors": [
+    "Taryn Garlock",
+    "Frank Asche",
+    "James L. Anderson",
+    "Adams Ceballos‐Concha",
+    "David C. Love",
+    "Tonje Cecilie Osmundsen",
+    "Ruth Beatriz Mezzalira Pincinato"
+   ],
+   "year": 2022,
+   "venue": "Global Food Security",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.gfs.2022.100620",
+   "abstract": null
+  },
+  {
+   "title": "China’s seafood imports—Not for domestic consumption?",
+   "authors": [
+    "Frank Asche",
+    "Bixuan Yang",
+    "Jessica A. Gephart",
+    "Martin D. Smith",
+    "James L. Anderson",
+    "Edward Vincent Camp",
+    "Taryn Garlock",
+    "David C. Love",
+    "Atle Øglend",
+    "Hans‐Martin Straume"
+   ],
+   "year": 2022,
+   "venue": "Science",
+   "status": "已发表",
+   "url": "https://doi.org/10.1126/science.abl4756",
+   "abstract": null
+  },
+  {
+   "title": "Renewable energy in fisheries and aquaculture: Case studies from the United States",
+   "authors": [
+    "Rachel E. Scroggins",
+    "Jillian P. Fry",
+    "Mark T. Brown",
+    "Roni Neff",
+    "Frank Asche",
+    "James L. Anderson",
+    "David C. Love"
+   ],
+   "year": 2022,
+   "venue": "Journal of Cleaner Production",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jclepro.2022.134153",
+   "abstract": null
+  },
+  {
+   "title": "Global insights on managing fishery systems for the three pillars of sustainability",
+   "authors": [
+    "Taryn Garlock",
+    "James L. Anderson",
+    "Frank Asche",
+    "Martin D. Smith",
+    "Edward Vincent Camp",
+    "Jingjie Chu",
+    "Kai Lorenzen",
+    "Stefania Vannuccini"
+   ],
+   "year": 2022,
+   "venue": "Fish and Fisheries",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/faf.12660",
+   "abstract": null
+  },
+  {
+   "title": "Market incentives for shark fisheries",
+   "authors": [
+    "Ruth Beatriz Mezzalira Pincinato",
+    "Maria A. Gasalla",
+    "Taryn Garlock",
+    "James L. Anderson"
+   ],
+   "year": 2022,
+   "venue": "Marine Policy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.marpol.2022.105031",
+   "abstract": null
+  },
+  {
+   "title": "Identifying Opportunities for Aligning Production and Consumption in the U.S. Fisheries by Considering Seasonality",
+   "authors": [
+    "David C. Love",
+    "Frank Asche",
+    "Jessica A. Gephart",
+    "Jiafeng Zhu",
+    "Taryn Garlock",
+    "Joshua S. Stoll",
+    "James L. Anderson",
+    "Zach Conrad",
+    "Elizabeth M. Nussbaumer",
+    "Andrew Thorne‐Lyman",
+    "Martin W. Bloem"
+   ],
+   "year": 2022,
+   "venue": "Reviews in Fisheries Science & Aquaculture",
+   "status": "已发表",
+   "url": "https://doi.org/10.1080/23308249.2022.2121601",
+   "abstract": null
+  },
+  {
+   "title": "Stochastic modeling and financial viability of mollusk aquaculture",
+   "authors": [
+    "Jordan Moor",
+    "Andrew Ropicki",
+    "James L. Anderson",
+    "Frank Asche"
+   ],
+   "year": 2022,
+   "venue": "Aquaculture",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.aquaculture.2022.737963",
+   "abstract": null
+  },
+  {
+   "title": "Regulating menu information: What do consumers care and not care about at casual and fine dining restaurants for seafood consumption?",
+   "authors": [
+    "Ly Thi Huong Nguyen",
+    "Zhifeng Gao",
+    "James L. Anderson"
+   ],
+   "year": 2022,
+   "venue": "Food Policy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.foodpol.2022.102272",
+   "abstract": null
+  },
+  {
+   "title": "Impacts of COVID-19 on U.S. Seafood Availability",
+   "authors": [
+    "James L. Anderson",
+    "Frank Asche",
+    "Taryn Garlock",
+    "Shraddha Hegde",
+    "Andrew Ropicki",
+    "Hans‐Martin Straume"
+   ],
+   "year": 2022,
+   "venue": "Journal of Agricultural & Food Industrial Organization",
+   "status": "已发表",
+   "url": "https://doi.org/10.1515/jafio-2022-0017",
+   "abstract": null
+  },
+  {
+   "title": "An Overview of Retail Sales of Seafood in the USA, 2017–2019",
+   "authors": [
+    "David C. Love",
+    "Frank Asche",
+    "Ruth Young",
+    "Elizabeth M. Nussbaumer",
+    "James L. Anderson",
+    "Robert D. Botta",
+    "Zach Conrad",
+    "Halley E. Froehlich",
+    "Taryn Garlock",
+    "Jessica A. Gephart",
+    "Andrew Ropicki",
+    "Joshua S. Stoll",
+    "Andrew Thorne‐Lyman"
+   ],
+   "year": 2021,
+   "venue": "Reviews in Fisheries Science & Aquaculture",
+   "status": "已发表",
+   "url": "https://doi.org/10.1080/23308249.2021.1946481",
+   "abstract": null
+  },
+  {
+   "title": "Consumers’ willingness to pay for information transparency at casual and fine dining restaurants",
+   "authors": [
+    "Ly Thi Huong Nguyen",
+    "Zhifeng Gao",
+    "James L. Anderson",
+    "David C. Love"
+   ],
+   "year": 2021,
+   "venue": "International Journal of Hospitality Management",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.ijhm.2021.103104",
+   "abstract": null
+  },
+  {
+   "title": "Implications of new technologies for future food supply systems",
+   "authors": [
+    "Senthold Asseng",
+    "C. A. Palm",
+    "James L. Anderson",
+    "L.O. Fresco",
+    "P. A. Sanchez",
+    "Frank Asche",
+    "Taryn Garlock",
+    "Jessica Fanzo",
+    "Martin D. Smith",
+    "G. Knapp",
+    "Andy Jarvis",
+    "Adegbola Tolulope Adesogan",
+    "Ilaria Capua",
+    "Gerrit Hoogenboom",
+    "Dickson D. Despommier",
+    "Lisa Conti",
+    "Karen A. Garrett"
+   ],
+   "year": 2021,
+   "venue": "The Journal of Agricultural Science",
+   "status": "已发表",
+   "url": "https://doi.org/10.1017/s0021859621000836",
+   "abstract": null
+  },
+  {
+   "title": "The economics of shrimp disease",
+   "authors": [
+    "Frank Asche",
+    "James L. Anderson",
+    "Robert D. Botta",
+    "Ganesh Kumar",
+    "Eirik Bjorheim Abrahamsen",
+    "Ly Thi Huong Nguyen",
+    "Diego Valderrama"
+   ],
+   "year": 2020,
+   "venue": "Journal of Invertebrate Pathology",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jip.2020.107397",
+   "abstract": null
+  },
+  {
+   "title": "Delivering the Goods: The Determinants of Norwegian Seafood Exports",
+   "authors": [
+    "Hans‐Martin Straume",
+    "James L. Anderson",
+    "Frank Asche",
+    "Ivar Gaasland"
+   ],
+   "year": 2020,
+   "venue": "Marine Resource Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1086/707067",
+   "abstract": null
+  },
+  {
+   "title": "Determinants of China’s Seafood Trade Patterns",
+   "authors": [
+    "Bixuan Yang",
+    "James L. Anderson",
+    "Frank Asche"
+   ],
+   "year": 2020,
+   "venue": "Marine Resource Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1086/708617",
+   "abstract": null
+  },
+  {
+   "title": "Risks shift along seafood supply chains",
+   "authors": [
+    "David C. Love",
+    "Elizabeth M. Nussbaumer",
+    "Jamie Harding",
+    "Jessica A. Gephart",
+    "James L. Anderson",
+    "Frank Asche",
+    "Joshua S. Stoll",
+    "Andrew Thorne‐Lyman",
+    "Martin W. Bloem"
+   ],
+   "year": 2020,
+   "venue": "Global Food Security",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.gfs.2020.100476",
+   "abstract": null
+  },
+  {
+   "title": "Sustainability comparisons in the triple bottom line for Chinese fisheries",
+   "authors": [
+    "Lijun Liu",
+    "Jingjie Chu",
+    "James L. Anderson",
+    "Jintao Xu"
+   ],
+   "year": 2020,
+   "venue": "Marine Policy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.marpol.2020.104259",
+   "abstract": null
+  },
+  {
+   "title": "Trade duration of Chinese shrimp exports",
+   "authors": [
+    "Bixuan Yang",
+    "James L. Anderson",
+    "Yingkai Fang"
+   ],
+   "year": 2020,
+   "venue": "Aquaculture Economics & Management",
+   "status": "已发表",
+   "url": "https://doi.org/10.1080/13657305.2020.1737891",
+   "abstract": null
+  },
+  {
+   "title": "Assessing global fisheries using Fisheries Performance Indicators: Introduction to special section",
+   "authors": [
+    "Håkan Eggert A",
+    "Christopher M. Anderson",
+    "James L. Anderson",
+    "Taryn Garlock"
+   ],
+   "year": 2020,
+   "venue": "Marine Policy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.marpol.2020.104253",
+   "abstract": null
+  },
+  {
+   "title": "Opportunities and Obstacles to Aquaculture in Florida",
+   "authors": [
+    "Ed Camp",
+    "Taryn Garlock",
+    "James L. Anderson"
+   ],
+   "year": 2020,
+   "venue": "EDIS",
+   "status": "已发表",
+   "url": "https://doi.org/10.32473/edis-fa221-2020",
+   "abstract": null
+  },
+  {
+   "title": "A Global Blue Revolution: Aquaculture Growth Across Regions, Species, and Countries",
+   "authors": [
+    "Taryn Garlock",
+    "Frank Asche",
+    "James L. Anderson",
+    "Trond Bjørndal",
+    "Ganesh Kumar",
+    "Kai Lorenzen",
+    "Andrew Ropicki",
+    "Martin D. Smith",
+    "Ragnar Tveterås"
+   ],
+   "year": 2019,
+   "venue": "Reviews in Fisheries Science & Aquaculture",
+   "status": "已发表",
+   "url": "https://doi.org/10.1080/23308249.2019.1678111",
+   "abstract": null
+  },
+  {
+   "title": "Economics of Aquaculture Policy and Regulation",
+   "authors": [
+    "James L. Anderson",
+    "Frank Asche",
+    "Taryn Garlock"
+   ],
+   "year": 2019,
+   "venue": "Annual Review of Resource Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1146/annurev-resource-100518-093750",
+   "abstract": null
+  },
+  {
+   "title": "U.S. seafood consumption",
+   "authors": [
+    "Gina Louise Shamshak",
+    "James L. Anderson",
+    "Frank Asche",
+    "Taryn Garlock",
+    "David C. Love"
+   ],
+   "year": 2019,
+   "venue": "Journal of the World Aquaculture Society",
+   "status": "已发表",
+   "url": "https://doi.org/10.1111/jwas.12619",
+   "abstract": null
+  },
+  {
+   "title": "The fishery performance indicators for global tuna fisheries",
+   "authors": [
+    "Jessica K. McCluney",
+    "Christopher M. Anderson",
+    "James L. Anderson"
+   ],
+   "year": 2019,
+   "venue": "Nature Communications",
+   "status": "已发表",
+   "url": "https://doi.org/10.1038/s41467-019-09466-6",
+   "abstract": null
+  },
+  {
+   "title": "Market potential for Gulf of Mexico farm-raised finfish",
+   "authors": [
+    "Taryn Garlock",
+    "Ly Thi Huong Nguyen",
+    "James L. Anderson",
+    "Mark Musumba"
+   ],
+   "year": 2019,
+   "venue": "Aquaculture Economics & Management",
+   "status": "已发表",
+   "url": "https://doi.org/10.1080/13657305.2019.1691676",
+   "abstract": null
+  },
+  {
+   "title": "Three pillars of sustainability in fisheries",
+   "authors": [
+    "Frank Asche",
+    "Taryn Garlock",
+    "James L. Anderson",
+    "Simon R. Bush",
+    "Martin D. Smith",
+    "Christopher M. Anderson",
+    "Jingjie Chu",
+    "Karen A. Garrett",
+    "Audun Lem",
+    "Kai Lorenzen",
+    "Atle Øglend",
+    "Sigbjørn Tveterås",
+    "Stefania Vannuccini"
+   ],
+   "year": 2018,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "status": "已发表",
+   "url": "https://doi.org/10.1073/pnas.1807677115",
+   "abstract": null
+  },
+  {
+   "title": "Are fishery management upgrades worth the cost?",
+   "authors": [
+    "Tracey Mangin",
+    "Christopher Costello",
+    "James L. Anderson",
+    "Ragnar Árnason",
+    "Matthew Elliott",
+    "Steven D. Gaines",
+    "Ray W. Hilborn",
+    "Emily Peterson",
+    "Rashid Sumaila"
+   ],
+   "year": 2018,
+   "venue": "PLoS ONE",
+   "status": "已发表",
+   "url": "https://doi.org/10.1371/journal.pone.0204258",
+   "abstract": null
+  },
+  {
+   "title": "Principles for Fisheries Management in Areas Beyond National Jurisdiction — The Essential Role of Incentive-Based Approaches",
+   "authors": [
+    "James L. Anderson",
+    "Frank Asche",
+    "Richard Alan Barnes",
+    "Simon R. Bush",
+    "Brad Gentner",
+    "Charles Hufflet",
+    "Gary D. Libecap",
+    "Vishwanie Maharaj",
+    "Lindie Nelson",
+    "Wez Norris",
+    "Giansandro Perotti",
+    "Uwe Tietze",
+    "Kelly Wachowicz"
+   ],
+   "year": 2018,
+   "venue": "SSRN Electronic Journal",
+   "status": "工作论文",
+   "url": "https://doi.org/10.2139/ssrn.3406568",
+   "abstract": null
+  },
+  {
+   "title": "Globalization and commoditization: The transformation of the seafood market",
+   "authors": [
+    "James L. Anderson",
+    "Frank Asche",
+    "Taryn Garlock"
+   ],
+   "year": 2017,
+   "venue": "Journal of commodity markets",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.jcomm.2017.12.004",
+   "abstract": null
+  },
+  {
+   "title": "Impact evaluation of a fisheries development project",
+   "authors": [
+    "Jingjie Chu",
+    "Taryn Garlock",
+    "Patrick Sayon",
+    "Frank Asche",
+    "James L. Anderson"
+   ],
+   "year": 2017,
+   "venue": "Marine Policy",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/j.marpol.2017.08.024",
+   "abstract": null
+  },
+  {
+   "title": "Fish to 2030: The Role and Opportunity for Aquaculture",
+   "authors": [
+    "Mimako Kobayashi",
+    "Siwa Msangi",
+    "Miroslav Batka",
+    "Stefania Vannuccini",
+    "Madan M. Dey",
+    "James L. Anderson"
+   ],
+   "year": 2015,
+   "venue": "Aquaculture Economics & Management",
+   "status": "已发表",
+   "url": "https://doi.org/10.1080/13657305.2015.994240",
+   "abstract": null
+  },
+  {
+   "title": "The Fishery Performance Indicators: A Management Tool for Triple Bottom Line Outcomes",
+   "authors": [
+    "James L. Anderson",
+    "Christopher M. Anderson",
+    "Jingjie Chu",
+    "Jennifer Meredith",
+    "Frank Asche",
+    "Gilbert Sylvia",
+    "Martin D. Smith",
+    "Dessy Anggraeni",
+    "Robert Ian Arthur",
+    "Atle G. Guttormsen",
+    "Jessica K. McCluney",
+    "Tim Ward",
+    "Wisdom Akpalu",
+    "Håkan Eggert A",
+    "Jimely Flores",
+    "Matthew A. Freeman",
+    "Daniel S. Holland",
+    "Gunnar Knapp",
+    "Mimako Kobayashi",
+    "Sherry L. Larkin",
+    "Kari MacLauchlin",
+    "Kurt Erik Schnier",
+    "Mark Soboil",
+    "Sigbjørn Tveterås",
+    "Hirotsugu Uchida",
+    "Diego Valderrama"
+   ],
+   "year": 2015,
+   "venue": "PLoS ONE",
+   "status": "已发表",
+   "url": "https://doi.org/10.1371/journal.pone.0122809",
+   "abstract": null
+  },
+  {
+   "title": "Secure sustainable seafood from developing countries",
+   "authors": [
+    "Gabriel S. Sampson",
+    "James N. Sanchirico",
+    "Cathy A. Roheim",
+    "Simon R. Bush",
+    "J. Edward Taylor",
+    "Edward H. Allison",
+    "James L. Anderson",
+    "Natalie C. Ban",
+    "Rod M. Fujita",
+    "Stacy D. Jupiter",
+    "Jono R. Wilson"
+   ],
+   "year": 2015,
+   "venue": "Science",
+   "status": "已发表",
+   "url": "https://doi.org/10.1126/science.aaa4639",
+   "abstract": null
+  },
+  {
+   "title": "Structural breaks in the fishmeal - soybean meal price relationship",
+   "authors": [
+    "Daði Már Kristófersson",
+    "James L. Anderson"
+   ],
+   "year": 2004,
+   "venue": "",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "The International Seafood Trade",
+   "authors": [
+    "James L. Anderson"
+   ],
+   "year": 2003,
+   "venue": "Thammasat University Digital Collections",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Pricing U.S. North Atlantic bluefin tuna and implications for management",
+   "authors": [
+    "Michael T. Carroll",
+    "James L. Anderson",
+    "Josué Martı́nez-Garmendia"
+   ],
+   "year": 2001,
+   "venue": "Agribusiness",
+   "status": "已发表",
+   "url": "https://doi.org/10.1002/agr.1014",
+   "abstract": null
+  },
+  {
+   "title": "Premiums/Discounts and Predictive Ability of the Shrimp Futures Market",
+   "authors": [
+    "Josué Martı́nez-Garmendia",
+    "James L. Anderson"
+   ],
+   "year": 2001,
+   "venue": "Agricultural and Resource Economics Review",
+   "status": "已发表",
+   "url": "https://doi.org/10.1017/s1068280500001106",
+   "abstract": null
+  },
+  {
+   "title": "An Examination of the Shrimp Futures Market",
+   "authors": [
+    "Josué Martı́nez-Garmendia",
+    "James L. Anderson"
+   ],
+   "year": 2001,
+   "venue": "",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Asset Pricing and Option Trading for Harvesting Rights to Renewable Resources",
+   "authors": [
+    "Eyjólfur Gudmundsson",
+    "James L. Anderson"
+   ],
+   "year": 2001,
+   "venue": "",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Hedging performance of shrimp futures contracts with multiple deliverable grades",
+   "authors": [
+    "Josu� Mart�nez-Garmendia",
+    "James L. Anderson"
+   ],
+   "year": 1999,
+   "venue": "Journal of Futures Markets",
+   "status": "已发表",
+   "url": "https://doi.org/10.1002/(sici)1096-9934(199912)19:8<957::aid-fut6>3.0.co;2-z",
+   "abstract": null
+  },
+  {
+   "title": "The market potential for farmed freshwater finfish in Germany: A focus on catfish",
+   "authors": [
+    "William M. Lombardi",
+    "James L. Anderson"
+   ],
+   "year": 1998,
+   "venue": "Aquaculture Economics & Management",
+   "status": "已发表",
+   "url": "https://doi.org/10.1080/13657309809380215",
+   "abstract": null
+  },
+  {
+   "title": "Implications of choice behaviour and preferences in niche markets",
+   "authors": [
+    "David A. Zucker",
+    "James L. Anderson"
+   ],
+   "year": 1998,
+   "venue": "Aquaculture Economics & Management",
+   "status": "已发表",
+   "url": "https://doi.org/10.1080/13657309809380217",
+   "abstract": null
+  },
+  {
+   "title": "Deseasonalized State-Space Time Series Forecasting with Application to the US Salmon Market",
+   "authors": [
+    "GUANG GU",
+    "James L. Anderson"
+   ],
+   "year": 1995,
+   "venue": "Marine Resource Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1086/mre.10.2.42629109",
+   "abstract": null
+  },
+  {
+   "title": "JOURNAL ARTICLE OF THE YEAR FOR 1994: AN ADAPTIVE MODEL OF PERISHABLE INVENTORY DISSIPATION IN A NONSTATIONARY PRICE ENVIRONMENT; ABSTRACT",
+   "authors": [
+    "Tomislav Vukina",
+    "James L. Anderson"
+   ],
+   "year": 1995,
+   "venue": "RePEc: Research Papers in Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.22004/ag.econ.31601",
+   "abstract": null
+  },
+  {
+   "title": "Price forecasting with state-space models of nonstationary time series: case of the Japanese salmon market",
+   "authors": [
+    "Tomislav Vukina",
+    "James L. Anderson"
+   ],
+   "year": 1994,
+   "venue": "Computers & Mathematics with Applications",
+   "status": "已发表",
+   "url": "https://doi.org/10.1016/0898-1221(94)90075-2",
+   "abstract": null
+  },
+  {
+   "title": "An Adaptive Model of Perishable Inventory Dissipation in a Nonstationary Price Environment",
+   "authors": [
+    "Tomislav Vukina",
+    "James L. Anderson"
+   ],
+   "year": 1994,
+   "venue": "Agricultural and Resource Economics Review",
+   "status": "已发表",
+   "url": "https://doi.org/10.1017/s1068280500000356",
+   "abstract": null
+  },
+  {
+   "title": "A Conjoint Approach to Model Product Preferences: The New England Market for Fresh and Frozen Salmon",
+   "authors": [
+    "James L. Anderson",
+    "Sofia U. Bettencourt"
+   ],
+   "year": 1993,
+   "venue": "Marine Resource Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1086/mre.8.1.42629045",
+   "abstract": null
+  },
+  {
+   "title": "A State‐Space Forecasting Approach to Optimal Intertemporal Cross‐Hedging",
+   "authors": [
+    "Tomislav Vukina",
+    "James L. Anderson"
+   ],
+   "year": 1993,
+   "venue": "American Journal of Agricultural Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.2307/1242926",
+   "abstract": null
+  },
+  {
+   "title": "Innovations and Progress in Seafood Demand and Market Analysis",
+   "authors": [
+    "CATHY ROHEIM WESSELLS",
+    "James L. Anderson"
+   ],
+   "year": 1992,
+   "venue": "Marine Resource Economics",
+   "status": "已发表",
+   "url": "https://doi.org/10.1086/mre.7.4.42629036",
+   "abstract": null
+  }
+ ]
+}

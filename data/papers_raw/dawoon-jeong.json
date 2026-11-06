@@ -1,0 +1,63 @@
+{
+ "slug": "dawoon-jeong",
+ "name": "Dawoon Jeong",
+ "sources": [
+  "https://www.clemson.edu/cafls/faculty_staff/profiles/dawoonj",
+  "WebSearch summary of Google Scholar/Clemson records (profile itself lists no papers)"
+ ],
+ "collected": "2026-11-06",
+ "notes": "No homepage/CV; Clemson profile lists no papers (Google Scholar blocked to fetch). List compiled from a web-search summary of Scholar/Clemson records, so unverified: byline order unknown (alphabetical by surname), full coauthor first names missing, status of 'Experimental Evidence...' (2023) uncertain, treated as working paper. Dissertation/book chapter/thesis items skipped.",
+ "papers": [
+  {
+   "title": "Peer Effects in Irrigation Adoption in South Carolina",
+   "authors": [
+    "Dawoon Jeong",
+    "G. Perez-Quesada"
+   ],
+   "year": 2026,
+   "venue": "Agricultural and Resource Economics Review",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Alternative Residential Wastewater Management in Coastal South Carolina: a Discrete Choice Experiment Approach",
+   "authors": [
+    "Dawoon Jeong",
+    "Motallebi",
+    "Scaroni",
+    "Venturini"
+   ],
+   "year": 2025,
+   "venue": "Water Economics and Policy",
+   "status": "已发表",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Estimating Capitalized Agricultural Land Value by Irrigation and Homogeneous Aquifer Management",
+   "authors": [
+    "S.J. Eberhart",
+    "Dawoon Jeong"
+   ],
+   "year": 2025,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  },
+  {
+   "title": "Experimental Evidence of Efficiency and Equity of Posted Price Markets for Irrigation Water",
+   "authors": [
+    "Dawoon Jeong",
+    "Reeling",
+    "Sesmero"
+   ],
+   "year": 2023,
+   "venue": "Working Paper",
+   "status": "工作论文",
+   "url": "",
+   "abstract": null
+  }
+ ]
+}
